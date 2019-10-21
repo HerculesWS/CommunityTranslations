@@ -1,0 +1,439 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:53+0200\n"
+"PO-Revision-Date: 2019-10-21 10:20\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/quests/bunnyband_txt.pot\n"
+
+# mes "[Kafra Employee]";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "[Kafra Employee]"
+msgstr ""
+
+# mes "Hello there~!";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Hello there~!"
+msgstr ""
+
+# mes "How'd you like to";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "How'd you like to"
+msgstr ""
+
+# mes "participate in Kafra";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "participate in Kafra"
+msgstr ""
+
+# mes "Corporation's special";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Corporation's special"
+msgstr ""
+
+# mes "^529DFFBunny Band Event^000000?";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "^529DFFBunny Band Event^000000?"
+msgstr ""
+
+# switch(select("Sure, I brought the items.", "Event Information", "Cancel")) {
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Sure, I brought the items."
+msgstr ""
+
+# switch(select("Sure, I brought the items.", "Event Information", "Cancel")) {
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Event Information"
+msgstr ""
+
+# switch(select("Sure, I brought the items.", "Event Information", "Cancel")) {
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Cancel"
+msgstr ""
+
+# mes "Alrighty~";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Alrighty~"
+msgstr ""
+
+# mes "Let me check to";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Let me check to"
+msgstr ""
+
+# mes "see if you brought";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "see if you brought"
+msgstr ""
+
+# mes "all the items...";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "all the items..."
+msgstr ""
+
+# mes "Ooh, I'm sorry";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Ooh, I'm sorry"
+msgstr ""
+
+# mes "but you need to";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "but you need to"
+msgstr ""
+
+# mes "bring at least";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "bring at least"
+msgstr ""
+
+# mes .@items[.@i+1]+" "+getitemname(.@items[.@i])+((!.@i)?"s.":".");
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid " "
+msgstr ""
+
+# mes "Great, I see that";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Great, I see that"
+msgstr ""
+
+# mes "you've gathered";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "you've gathered"
+msgstr ""
+
+# mes "everything I need to";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "everything I need to"
+msgstr ""
+
+# mes "make the Bunny Band.";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "make the Bunny Band."
+msgstr ""
+
+# mes "Please wait a moment";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Please wait a moment"
+msgstr ""
+
+# mes "while I put it together...";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "while I put it together..."
+msgstr ""
+
+# mes "Hm? I'm sorry,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Hm? I'm sorry,"
+msgstr ""
+
+# mes "but I actually can't";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "but I actually can't"
+msgstr ""
+
+# mes "make this right now. You";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "make this right now. You"
+msgstr ""
+
+# mes "need "+.@items[.@i+1]+" "+getitemname(.@items[.@i])+((!.@i)?"s":"");
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "need "
+msgstr ""
+
+# mes "in order for me to put this";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "in order for me to put this"
+msgstr ""
+
+# mes "Bunny Band together...";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Bunny Band together..."
+msgstr ""
+
+# mes "Ah, here you go~";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Ah, here you go~"
+msgstr ""
+
+# mes "The perfect Bunny Band!";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "The perfect Bunny Band!"
+msgstr ""
+
+# mes "Well, I hope you enjoy it.";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Well, I hope you enjoy it."
+msgstr ""
+
+# mes "Thank you for";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Thank you for"
+msgstr ""
+
+# mes "participating in this";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "participating in this"
+msgstr ""
+
+# mes "special event and your";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "special event and your"
+msgstr ""
+
+# mes "continued patronage";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "continued patronage"
+msgstr ""
+
+# mes "of the Kafra Services~";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "of the Kafra Services~"
+msgstr ""
+
+# mes "Hi there~! Would you like";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Hi there~! Would you like"
+msgstr ""
+
+# mes "to join our special ^529DFFBunny";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "to join our special ^529DFFBunny"
+msgstr ""
+
+# mes "Band Event^000000 hosted by the Kafra";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Band Event^000000 hosted by the Kafra"
+msgstr ""
+
+# mes "Corporation and sponsored by";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Corporation and sponsored by"
+msgstr ""
+
+# mes "the Alberta Merchant Guild?";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "the Alberta Merchant Guild?"
+msgstr ""
+
+# switch(select("Join the Event", "Event Information", "Cancel")) {
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Join the Event"
+msgstr ""
+
+# mes "Great! Thanks for";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Great! Thanks for"
+msgstr ""
+
+# mes "participating! If you";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "participating! If you"
+msgstr ""
+
+# mes "haven't already heard,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "haven't already heard,"
+msgstr ""
+
+# mes "you need to collect these";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "you need to collect these"
+msgstr ""
+
+# mes "items if you want me put a";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "items if you want me put a"
+msgstr ""
+
+# mes "Bunny Band together for you...";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Bunny Band together for you..."
+msgstr ""
+
+# mes "100 Feathers,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "100 Feathers,"
+msgstr ""
+
+# mes "1 Four-Leaf Clover,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "1 Four-Leaf Clover,"
+msgstr ""
+
+# mes "1 Kitty Band and";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "1 Kitty Band and"
+msgstr ""
+
+# mes "1 Pearl. That's it!";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "1 Pearl. That's it!"
+msgstr ""
+
+# mes "Good luck and I'll be";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Good luck and I'll be"
+msgstr ""
+
+# mes "waiting for you here~";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "waiting for you here~"
+msgstr ""
+
+# mes "To thank our valued";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "To thank our valued"
+msgstr ""
+
+# mes "customers, Kafra Corporation";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "customers, Kafra Corporation"
+msgstr ""
+
+# mes "has prepared a special event";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "has prepared a special event"
+msgstr ""
+
+# mes "where Kafra Employee will assemble";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "where Kafra Employee will assemble"
+msgstr ""
+
+# mes "Bunny Bands for adventurers";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Bunny Bands for adventurers"
+msgstr ""
+
+# mes "who bring the required items.";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "who bring the required items."
+msgstr ""
+
+# mes "For this special,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "For this special,"
+msgstr ""
+
+# mes "one of a kind item,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "one of a kind item,"
+msgstr ""
+
+# mes "bring 100 Feathers,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "bring 100 Feathers,"
+msgstr ""
+
+# mes "1 Pearl.";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "1 Pearl."
+msgstr ""
+
+# mes "When you're ready,";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "When you're ready,"
+msgstr ""
+
+# mes "come back and bring";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "come back and bring"
+msgstr ""
+
+# mes "those items to me.";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "those items to me."
+msgstr ""
+
+# mes "(Sponsored by the";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "(Sponsored by the"
+msgstr ""
+
+# mes "Alberta Merchant Guild).";
+#: npc/quests/bunnyband.txt
+msgctxt "Kafra Employee#bunny"
+msgid "Alberta Merchant Guild)."
+msgstr ""
+
