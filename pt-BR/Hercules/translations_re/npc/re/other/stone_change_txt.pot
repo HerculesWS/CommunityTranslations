@@ -1,0 +1,121 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:05\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/other/stone_change_txt.pot\n"
+
+# mes "[Ore Tester Sorty]";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "[Ore Tester Sorty]"
+msgstr ""
+
+# mes "Do you have ^3131FFany same type of ores in your inventories^000000 which take many spaces?";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Do you have ^3131FFany same type of ores in your inventories^000000 which take many spaces?"
+msgstr ""
+
+# mes "I can distinguish your ores and organize them right away~!";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "I can distinguish your ores and organize them right away~!"
+msgstr ""
+
+# switch(select("Refine my Ore.", "Cancel.")) {
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Refine my Ore."
+msgstr ""
+
+# switch(select("Refine my Ore.", "Cancel.")) {
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Cancel."
+msgstr ""
+
+# mes "At the moment I can only distinguish ^FF0000Steel^000000, ^FF0000Iron^000000, ^FF0000Iron Ore^000000, and ^FF0000Rough Oridecon^000000 and organize them.";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "At the moment I can only distinguish ^FF0000Steel^000000, ^FF0000Iron^000000, ^FF0000Iron Ore^000000, and ^FF0000Rough Oridecon^000000 and organize them."
+msgstr ""
+
+# mes "Please note that ^3131FFother items are unable^000000!";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Please note that ^3131FFother items are unable^000000!"
+msgstr ""
+
+# mes "So, would you like me to organize your ores?";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "So, would you like me to organize your ores?"
+msgstr ""
+
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Steel, please."
+msgstr ""
+
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Iron, please."
+msgstr ""
+
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Iron Ore, please."
+msgstr ""
+
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Rough Oridecon, please."
+msgstr ""
+
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "No, thanks."
+msgstr ""
+
+# mes "Huh, I really hate messy people!";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "Huh, I really hate messy people!"
+msgstr ""
+
+# mes "You don't have any "+getitemname(.@item)+"...";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "You don't have any "
+msgstr ""
+
+# mes "It's done. Looks great! Don't you think so?";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "It's done. Looks great! Don't you think so?"
+msgstr ""
+
+# mes "It seems that your bag is clean? Huhu! You might be the master of cleaning!";
+#: npc/re/other/stone_change.txt
+msgctxt "Ore Tester#sorty"
+msgid "It seems that your bag is clean? Huhu! You might be the master of cleaning!"
+msgstr ""
+
