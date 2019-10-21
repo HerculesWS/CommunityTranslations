@@ -1,0 +1,919 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:04\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/other/dimensional_gap_txt.pot\n"
+
+# mes("[Expedition Guide]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "[Expedition Guide]"
+msgstr ""
+
+# mes("Are you going to enter the ^0000FFDimensional Gap^000000? Please use this Transport Device you see here.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "Are you going to enter the ^0000FFDimensional Gap^000000? Please use this Transport Device you see here."
+msgstr ""
+
+# if (select("What is the Dimensional Gap?", "End Conversation.") == 2) {
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "What is the Dimensional Gap?"
+msgstr ""
+
+# if (select("What is the Dimensional Gap?", "End Conversation.") == 2) {
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "End Conversation."
+msgstr ""
+
+# mes("Take care.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "Take care."
+msgstr ""
+
+# mes("As you know we've already entered through the Dimensional Rift to get to Ash Vacuum right? The Dimensional Gap is an expansion of that initial discovery.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "As you know we've already entered through the Dimensional Rift to get to Ash Vacuum right? The Dimensional Gap is an expansion of that initial discovery."
+msgstr ""
+
+# mes("A member of the Expedition team found these backdoor passages to get through the Dimensional Rifts.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "A member of the Expedition team found these backdoor passages to get through the Dimensional Rifts."
+msgstr ""
+
+# mes("This is like a Rune Midgard Alliance version of the Bifrost bridge so it can connect us to different parts of the New World.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "This is like a Rune Midgard Alliance version of the Bifrost bridge so it can connect us to different parts of the New World."
+msgstr ""
+
+# mes("Time and space is distorted in the Dimensional Gap. Not all passageways have been discovered so please be sure to use caution when entering an unverified area.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "Time and space is distorted in the Dimensional Gap. Not all passageways have been discovered so please be sure to use caution when entering an unverified area."
+msgstr ""
+
+# mes("Anyone who has become lost here has yet to return.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#01"
+msgid "Anyone who has become lost here has yet to return."
+msgstr ""
+
+# mes("[Expedition Guide]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#02"
+msgid "[Expedition Guide]"
+msgstr ""
+
+# mes("Please use a ^0000FFTransport Device^000000 if you wish to travel through the dimensional rift. The insides have not been fully explored yet so please be careful in there.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Expedition Guide#02"
+msgid "Please use a ^0000FFTransport Device^000000 if you wish to travel through the dimensional rift. The insides have not been fully explored yet so please be careful in there."
+msgstr ""
+
+# mes("[Allied Forces Soldier]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Allied Forces Soldier"
+msgid "[Allied Forces Soldier]"
+msgstr ""
+
+# mes("This dimensional rift is connected to the Allied Forces ^0000FFExpedition Camp^000000 in Jotunheim.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Allied Forces Soldier"
+msgid "This dimensional rift is connected to the Allied Forces ^0000FFExpedition Camp^000000 in Jotunheim."
+msgstr ""
+
+# mes("Do not worry, it has been set up after testing hundreds of experiments for safe teleportation.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Allied Forces Soldier"
+msgid "Do not worry, it has been set up after testing hundreds of experiments for safe teleportation."
+msgstr ""
+
+# mes("[Morroc Soldier]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Morroc Soldier"
+msgid "[Morroc Soldier]"
+msgstr ""
+
+# mes("This dimensional rift is connected to ^0000FFMorroc^000000 back in Rune Midgard.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Morroc Soldier"
+msgid "This dimensional rift is connected to ^0000FFMorroc^000000 back in Rune Midgard."
+msgstr ""
+
+# mes("This is the fastest gateway back to our world. The area is still destroyed but restoration efforts will soon be on the way.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Morroc Soldier"
+msgid "This is the fastest gateway back to our world. The area is still destroyed but restoration efforts will soon be on the way."
+msgstr ""
+
+# mes("[Spledide Soldier]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Spledide Soldier"
+msgid "[Spledide Soldier]"
+msgstr ""
+
+# mes("This dimensional rift is connected to the south of ^0000FFBifrost^000000. It enables quick travel to the Splendide frontline.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Spledide Soldier"
+msgid "This dimensional rift is connected to the south of ^0000FFBifrost^000000. It enables quick travel to the Splendide frontline."
+msgstr ""
+
+# mes("If we use it properly, it enables us to advance more easily to the capital of the Sapha.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Spledide Soldier"
+msgid "If we use it properly, it enables us to advance more easily to the capital of the Sapha."
+msgstr ""
+
+# mes("The Mayor has asked us to cooperate as best we can instead of fighting, so I'm under orders not to do anything. Since we have a common enemy we won't fight the Sapha... for now...");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Spledide Soldier"
+msgid "The Mayor has asked us to cooperate as best we can instead of fighting, so I'm under orders not to do anything. Since we have a common enemy we won't fight the Sapha... for now..."
+msgstr ""
+
+# mes("[Dispatched Sapha]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Dispatched Sapha"
+msgid "[Dispatched Sapha]"
+msgstr ""
+
+# mes("This dimensional rift is connected to the southern area of the ^0000FFKamidal Mountains^000000 in El Dicastes. I just dropped by for my research, but it is incredible.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Dispatched Sapha"
+msgid "This dimensional rift is connected to the southern area of the ^0000FFKamidal Mountains^000000 in El Dicastes. I just dropped by for my research, but it is incredible."
+msgstr ""
+
+# mes("Moreover it is next to the Laphine capital..... Hmm... Do not worry, I do not want to fight in such a place.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Dispatched Sapha"
+msgid "Moreover it is next to the Laphine capital..... Hmm... Do not worry, I do not want to fight in such a place."
+msgstr ""
+
+# mes("[Logistics Manager]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Logistics Manager"
+msgid "[Logistics Manager]"
+msgstr ""
+
+# mes("Welcome. I am in charge of logistics to take care of your items in this weird place. Do you need to access your storage?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Logistics Manager"
+msgid "Welcome. I am in charge of logistics to take care of your items in this weird place. Do you need to access your storage?"
+msgstr ""
+
+# if (select("Open Storage 200 Zeny.", "No Thanks.") == 2) {
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Logistics Manager"
+msgid "Open Storage 200 Zeny."
+msgstr ""
+
+# if (select("Open Storage 200 Zeny.", "No Thanks.") == 2) {
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Logistics Manager"
+msgid "No Thanks."
+msgstr ""
+
+# mes("Let me know if you change your mind.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Logistics Manager"
+msgid "Let me know if you change your mind."
+msgstr ""
+
+# mes("You are not yet qualified to use the Storage.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Logistics Manager"
+msgid "You are not yet qualified to use the Storage."
+msgstr ""
+
+# mes("You need at least 200 zeny to use the Storage.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Logistics Manager"
+msgid "You need at least 200 zeny to use the Storage."
+msgstr ""
+
+# npctalk(_("Attention!!!"), "Party Leader#dali");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Attention!!!"
+msgstr ""
+
+# npctalk(_("Here, here. Everybody be quiet and line up!"), "Party Leader#dali");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Here, here. Everybody be quiet and line up!"
+msgstr ""
+
+# npctalk(_("We have now entered the inside of the Dimensional Crack. Where should be go first?"), "Party Leader#dali");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "We have now entered the inside of the Dimensional Crack. Where should be go first?"
+msgstr ""
+
+# npctalk(_("Anyone has an opinion?"), "Party Leader#dali");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Anyone has an opinion?"
+msgstr ""
+
+# npctalk(_("I heard rumors about some magic swordman. Let's go find him."), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "I heard rumors about some magic swordman. Let's go find him."
+msgstr ""
+
+# npctalk(_("We heard about a magic competition being held here!"), "Party Member#WANDERER");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "We heard about a magic competition being held here!"
+msgstr ""
+
+# npctalk(_("Where is it?!"), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Where is it?!"
+msgstr ""
+
+# npctalk(_("Uh, I'm a little bit hungry... I wonder if anybody is selling some warm sweet potatoes or even dumplings..."), "Party Member#CRU");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Uh, I'm a little bit hungry... I wonder if anybody is selling some warm sweet potatoes or even dumplings..."
+msgstr ""
+
+# npctalk(_("You want to eat again?"), "Party Member#GUILL");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "You want to eat again?"
+msgstr ""
+
+# npctalk(_("I am just wondering about the tournament.."), "Party Member#WANDERER");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "I am just wondering about the tournament.."
+msgstr ""
+
+# npctalk(_("I need to eat something before doing anything."), "Party Member#CRU");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "I need to eat something before doing anything."
+msgstr ""
+
+# npctalk(_("By the way, I also heard about something called the Devil's Tower."), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "By the way, I also heard about something called the Devil's Tower."
+msgstr ""
+
+# npctalk(_("I just saw a street trader passing by... Where is he?"), "Party Member#GUILL");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "I just saw a street trader passing by... Where is he?"
+msgstr ""
+
+# npctalk(_("Huh? What is this? You still haven't entered?"), "Party Member#SURA");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Huh? What is this? You still haven't entered?"
+msgstr ""
+
+# npctalk(_("I am curious about the Faceworms I heard about from a Laphine."), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "I am curious about the Faceworms I heard about from a Laphine."
+msgstr ""
+
+# npctalk(_("Can I come back after having a meal?"), "Party Member#CRU");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Can I come back after having a meal?"
+msgstr ""
+
+# npctalk(_("Can you even catch that?"), "Party Member#WANDERER");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Can you even catch that?"
+msgstr ""
+
+# npctalk(_("Are you awake?"), "Party Member#SHADOW");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Are you awake?"
+msgstr ""
+
+# npctalk(_("Why are you still here?"), "Party Member#SURA");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Why are you still here?"
+msgstr ""
+
+# npctalk(_("Hang on a bit. The merchant is going to pass by soon."), "Party Member#GUILL");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Hang on a bit. The merchant is going to pass by soon."
+msgstr ""
+
+# npctalk(_("That is your wish...."), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "That is your wish...."
+msgstr ""
+
+# npctalk(_("I want to buy cold grape juice~"), "Party Member#CRU");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "I want to buy cold grape juice~"
+msgstr ""
+
+# npctalk(_("I have no idea. There might be an accident up front."), "Party Member#SHADOW");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "I have no idea. There might be an accident up front."
+msgstr ""
+
+# npctalk(_("What? How dare you?!"), "Party Member#WANDERER");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "What? How dare you?!"
+msgstr ""
+
+# npctalk(_("Give me a sip of juice."), "Party Member#GUILL");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Give me a sip of juice."
+msgstr ""
+
+# npctalk(_("Cough~ Cough~"), "Party Member#EINOLD");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Cough~ Cough~"
+msgstr ""
+
+# npctalk(_("Damn! I am pissed off! I came here because I heard only a party is allowed to get in!"), "Party Member#SURA");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Damn! I am pissed off! I came here because I heard only a party is allowed to get in!"
+msgstr ""
+
+# npctalk(_("Are you going to hit me? Do it!"), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Are you going to hit me? Do it!"
+msgstr ""
+
+# npctalk(_("You pay for your food."), "Party Member#CRU");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "You pay for your food."
+msgstr ""
+
+# npctalk(_("Whatever, I'm not eating."), "Party Member#WANDERER");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Whatever, I'm not eating."
+msgstr ""
+
+# npctalk(_("So mean.. I won't eat then."), "Party Member#GUILL");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "So mean.. I won't eat then."
+msgstr ""
+
+# npctalk(_("Right.. I should have entered with another group!"), "Party Member#SHADOW");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Right.. I should have entered with another group!"
+msgstr ""
+
+# npctalk(_("Hey. Are you pissed off?"), "Party Member#CRU");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Hey. Are you pissed off?"
+msgstr ""
+
+# npctalk(_("Not at all."), "Party Member#GUILL");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Not at all."
+msgstr ""
+
+# npctalk(_("Look at him snoozing. Hehe."), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Look at him snoozing. Hehe."
+msgstr ""
+
+# npctalk(_("Bah, I don't care. I'm gonna take a nap, so wake me up when we're ready."), "Party Member#SURA");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Bah, I don't care. I'm gonna take a nap, so wake me up when we're ready."
+msgstr ""
+
+# npctalk(_("You are upset!!"), "Party Member#CRU");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "You are upset!!"
+msgstr ""
+
+# npctalk(_("Can I get back before I die..."), "Party Member#WANDERER");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Can I get back before I die..."
+msgstr ""
+
+# npctalk(_("What? You, we gotta talk! I've been too nice to you!"), "Party Member#EINOLD");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "What? You, we gotta talk! I've been too nice to you!"
+msgstr ""
+
+# npctalk(_("Excuse me..... everyone.............?"), "Party Leader#dali");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Excuse me..... everyone.............?"
+msgstr ""
+
+# npctalk(_("No!!!!!!!!!"), "Party Member#GUILL");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "No!!!!!!!!!"
+msgstr ""
+
+# npctalk(_("Whatever~"), "Party Member#MONK");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Whatever~"
+msgstr ""
+
+# npctalk(_("Please listen to me...."), "Party Leader#dali");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Please listen to me...."
+msgstr ""
+
+# npctalk(_("He's angry all right...."), "Party Member#WANDERER");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "He's angry all right...."
+msgstr ""
+
+# npctalk(_("Take a nap. I am sleepy too, so we'll take shifts."), "Party Member#SHADOW");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Party Leader#dali"
+msgid "Take a nap. I am sleepy too, so we'll take shifts."
+msgstr ""
+
+# mes("[Prince Canet]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "[Prince Canet]"
+msgstr ""
+
+# mes("Who're you?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "Who're you?"
+msgstr ""
+
+# mes("What do you want? You looking something in particular?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "What do you want? You looking something in particular?"
+msgstr ""
+
+# mes("So some enforcers have been cracking down on merchants lately. I can not sell anything.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "So some enforcers have been cracking down on merchants lately. I can not sell anything."
+msgstr ""
+
+# mes("Come here...");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "Come here..."
+msgstr ""
+
+# mes("[Jumpy Knight]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "[Jumpy Knight]"
+msgstr ""
+
+# mes("I knew you would be here!! No illegal trading is allowed here! Don't you know?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "I knew you would be here!! No illegal trading is allowed here! Don't you know?"
+msgstr ""
+
+# mes("Says who?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "Says who?"
+msgstr ""
+
+# mes("Ok, then show me your permit.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "Ok, then show me your permit."
+msgstr ""
+
+# mes("Permit\r"
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "Permit\\rNo one's in charge here!"
+msgstr ""
+
+# mes("You! If you need anything come to me ok?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "You! If you need anything come to me ok?"
+msgstr ""
+
+# mes("I will catch you!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "I will catch you!"
+msgstr ""
+
+# mes("Cold juice!\r"
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "Cold juice!\\rApple, grape, orange~\\rAnything you want!"
+msgstr ""
+
+# mes("Sweet potato, dumpling~\r"
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC"
+msgid "Sweet potato, dumpling~\\rHere we have delicious desserts~"
+msgstr ""
+
+# mes("[Prince Canet]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "[Prince Canet]"
+msgstr ""
+
+# mes("You need to pay a toll to get past here.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "You need to pay a toll to get past here."
+msgstr ""
+
+# select("What toll?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "What toll?"
+msgstr ""
+
+# mes("You did not know?\r"
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "You did not know?\\r500 zeny"
+msgstr ""
+
+# mes("[Jumpy Knight]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "[Jumpy Knight]"
+msgstr ""
+
+# mes("You there! Stop right there!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "You there! Stop right there!"
+msgstr ""
+
+# mes("Ugh! How are you always following me? Got some kind of crush on me or something? I don't think you and I make a good match...");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "Ugh! How are you always following me? Got some kind of crush on me or something? I don't think you and I make a good match..."
+msgstr ""
+
+# mes("Why don't we find out then?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "Why don't we find out then?"
+msgstr ""
+
+# mes("That's it no more talking.\r"
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "That's it no more talking.\\rI'm outta here~"
+msgstr ""
+
+# mes("Keep running you sneaky coward!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "Keep running you sneaky coward!"
+msgstr ""
+
+# mes("500 zeny");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC2"
+msgid "500 zeny"
+msgstr ""
+
+# mes("[Prince Canet]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "[Prince Canet]"
+msgstr ""
+
+# mes("You are lucky that you have met up with me.\r"
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "You are lucky that you have met up with me.\\rWho am I?\\rI'm here to become a merchant King."
+msgstr ""
+
+# mes("I might be working a street stall now but I'll have an actual shop some day.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "I might be working a street stall now but I'll have an actual shop some day."
+msgstr ""
+
+# mes("It's my first day so I'm having a major sale.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "It's my first day so I'm having a major sale."
+msgstr ""
+
+# mes("Let's see I've got a... Ring of something! Sword of stuff! A backpack of some sort!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "Let's see I've got a... Ring of something! Sword of stuff! A backpack of some sort!"
+msgstr ""
+
+# mes("Tell me if you need anything,");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "Tell me if you need anything,"
+msgstr ""
+
+# mes("What are you doing here? This is my spot for a shop Get outta my turf!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "What are you doing here? This is my spot for a shop Get outta my turf!"
+msgstr ""
+
+# mes("[Jumpy Knight]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "[Jumpy Knight]"
+msgstr ""
+
+# mes("Bah!!\r"
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "Bah!!\\rYou're gonna regret those words!"
+msgstr ""
+
+# mes("I'm shaking...");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Merchant Prince#HUMERC3"
+msgid "I'm shaking..."
+msgstr ""
+
+# mes("[Curious Knight]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Curious Knight#KY_KNT"
+msgid "[Curious Knight]"
+msgstr ""
+
+# mes("The Royal Guard in here was desperate for help. We entered through a secret place in the palace.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Curious Knight#KY_KNT"
+msgid "The Royal Guard in here was desperate for help. We entered through a secret place in the palace."
+msgstr ""
+
+# mes("We were whisked away here... No idea where I am but I have to establish a base here for the Knighthood.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Curious Knight#KY_KNT"
+msgid "We were whisked away here... No idea where I am but I have to establish a base here for the Knighthood."
+msgstr ""
+
+# mes("[Confused Thief]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Confused Thief#DST_SOL"
+msgid "[Confused Thief]"
+msgstr ""
+
+# mes("One minute I'm in a bar... The next minute I'm here... What is this place?");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Confused Thief#DST_SOL"
+msgid "One minute I'm in a bar... The next minute I'm here... What is this place?"
+msgstr ""
+
+# mes("There's no night or day in here. Hmm, something has to be valuable in this place...");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Confused Thief#DST_SOL"
+msgid "There's no night or day in here. Hmm, something has to be valuable in this place..."
+msgstr ""
+
+# mes("[Adventurous Rafflesia]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "[Adventurous Rafflesia]"
+msgstr ""
+
+# mes("No no this has to be Thanatos Tower... I sense dark magic here.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "No no this has to be Thanatos Tower... I sense dark magic here."
+msgstr ""
+
+# mes("[Guide]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "[Guide]"
+msgstr ""
+
+# mes("Oh, we're back here again. I cannot find a way out! We are trapped in this maze!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "Oh, we're back here again. I cannot find a way out! We are trapped in this maze!"
+msgstr ""
+
+# mes("[Tourist]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "[Tourist]"
+msgstr ""
+
+# mes("Is this place the famous Prontera? It is dark just like a big city!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "Is this place the famous Prontera? It is dark just like a big city!"
+msgstr ""
+
+# mes("[Traveller]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "[Traveller]"
+msgstr ""
+
+# mes("I hear a ticking clock. This place must be Geffen!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Adventurous Rafflesia#ra"
+msgid "I hear a ticking clock. This place must be Geffen!"
+msgstr ""
+
+# mes("[Guide]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "[Guide]"
+msgstr ""
+
+# mes("Oh, we're back here again. I cannot find a way out! We are trapped in this maze!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "Oh, we're back here again. I cannot find a way out! We are trapped in this maze!"
+msgstr ""
+
+# mes("[Tourist]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "[Tourist]"
+msgstr ""
+
+# mes("Is this place the famous Prontera It is dark just like a big city!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "Is this place the famous Prontera It is dark just like a big city!"
+msgstr ""
+
+# mes("[Traveller]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "[Traveller]"
+msgstr ""
+
+# mes("I hear a ticking clock. This place must be Geffen!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "I hear a ticking clock. This place must be Geffen!"
+msgstr ""
+
+# mes("[Adventurous Rafflesia]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "[Adventurous Rafflesia]"
+msgstr ""
+
+# mes("No no this has to be Thanatos Tower... I sense dark magic here.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Guide#ra"
+msgid "No no this has to be Thanatos Tower... I sense dark magic here."
+msgstr ""
+
+# mes("[Tourist]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "[Tourist]"
+msgstr ""
+
+# mes("Is this place the famous Prontera? It is dark just like a big city!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "Is this place the famous Prontera? It is dark just like a big city!"
+msgstr ""
+
+# mes("[Adventurous Rafflesia]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "[Adventurous Rafflesia]"
+msgstr ""
+
+# mes("No no this has to be Thanatos Tower... I sense dark magic here.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "No no this has to be Thanatos Tower... I sense dark magic here."
+msgstr ""
+
+# mes("[Guide]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "[Guide]"
+msgstr ""
+
+# mes("Oh, we're back here again. I cannot find a way out! We are trapped in this maze!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "Oh, we're back here again. I cannot find a way out! We are trapped in this maze!"
+msgstr ""
+
+# mes("[Traveller]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "[Traveller]"
+msgstr ""
+
+# mes("I hear a ticking clock. This place must be Geffen!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Tourist#ra"
+msgid "I hear a ticking clock. This place must be Geffen!"
+msgstr ""
+
+# mes("[Traveller]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "[Traveller]"
+msgstr ""
+
+# mes("I hear a ticking clock. This place must be Geffen!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "I hear a ticking clock. This place must be Geffen!"
+msgstr ""
+
+# mes("[Guide]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "[Guide]"
+msgstr ""
+
+# mes("Oh, we're back here again. I cannot find a way out! We are trapped in this maze!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "Oh, we're back here again. I cannot find a way out! We are trapped in this maze!"
+msgstr ""
+
+# mes("[Tourist]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "[Tourist]"
+msgstr ""
+
+# mes("Is this place the famous Prontera? It is dark just like a big city!");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "Is this place the famous Prontera? It is dark just like a big city!"
+msgstr ""
+
+# mes("[Adventurous Rafflesia]");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "[Adventurous Rafflesia]"
+msgstr ""
+
+# mes("No no this has to be Thanatos Tower... I sense dark magic here.");
+#: npc/re/other/dimensional_gap.txt
+msgctxt "Traveller#ra"
+msgid "No no this has to be Thanatos Tower... I sense dark magic here."
+msgstr ""
+
