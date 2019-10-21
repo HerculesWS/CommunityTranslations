@@ -1,0 +1,439 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: 2019-10-21 10:28\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/jobs/1-1/thief_txt.pot\n"
+
+# mes "[Thief Guide]";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "[Thief Guide]"
+msgstr ""
+
+# mes "Huh? Do I know you? It's creepy that you seem so familiar. You don't have a twin, do you?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Huh? Do I know you? It's creepy that you seem so familiar. You don't have a twin, do you?"
+msgstr ""
+
+# mes "What, do you want to be a Thief? I'm sorry, but you look like you need more training.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "What, do you want to be a Thief? I'm sorry, but you look like you need more training."
+msgstr ""
+
+# mes "Take your time and learn all the Basic Skills, will you? Well then, see you later~!";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Take your time and learn all the Basic Skills, will you? Well then, see you later~!"
+msgstr ""
+
+# mes "Well, I got this feeling like you've been through a lifetime of fighting, so I'm promoting you to a Thief right this minute. I better give you tough guys what you want...";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Well, I got this feeling like you've been through a lifetime of fighting, so I'm promoting you to a Thief right this minute. I better give you tough guys what you want..."
+msgstr ""
+
+# mes "Since you've become a Thief, live as a Thief. Now, go for it! Next~";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Since you've become a Thief, live as a Thief. Now, go for it! Next~"
+msgstr ""
+
+# mes "Hey, dude.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Hey, dude."
+msgstr ""
+
+# mes "Hey, baby~";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Hey, baby~"
+msgstr ""
+
+# mes "Hey, baby.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Hey, baby."
+msgstr ""
+
+# mes "...Hey! You look too goody-goody to want to be a Thief!! Now scram, I'm busy. Next!";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "...Hey! You look too goody-goody to want to be a Thief!! Now scram, I'm busy. Next!"
+msgstr ""
+
+# mes "[Thief Guildsman]";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "[Thief Guildsman]"
+msgstr ""
+
+# mes "Ehh... Seems like a beloved "+ (Sex == SEX_MALE ? "son" : "daughter") +" of a rich family, but why are you here in this dirty place?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Ehh... Seems like a beloved "
+msgstr ""
+
+# mes "Ehh... Seems like a beloved "+ (Sex == SEX_MALE ? "son" : "daughter") +" of a rich family, but why are you here in this dirty place?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "son"
+msgstr ""
+
+# mes "Ehh... Seems like a beloved "+ (Sex == SEX_MALE ? "son" : "daughter") +" of a rich family, but why are you here in this dirty place?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "daughter"
+msgstr ""
+
+# mes "Ehh... Seems like a beloved "+ (Sex == SEX_MALE ? "son" : "daughter") +" of a rich family, but why are you here in this dirty place?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid " of a rich family, but why are you here in this dirty place?"
+msgstr ""
+
+# mes "Well, I'm not in charge of making you a Thief. I just accept applications, get it?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Well, I'm not in charge of making you a Thief. I just accept applications, get it?"
+msgstr ""
+
+# mes "If you want to become a Thief, ask the sharp-eyed guy next to me.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "If you want to become a Thief, ask the sharp-eyed guy next to me."
+msgstr ""
+
+# mes "Hey~ if you have any trouble, get it out to me anytime, huh?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Hey~ if you have any trouble, get it out to me anytime, huh?"
+msgstr ""
+
+# mes "What the heck...?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "What the heck...?"
+msgstr ""
+
+# mes "Huh.. you are a "+jobname(Class)+" you blockhead...!";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Huh.. you are a "
+msgstr ""
+
+# mes "Hey, brother.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Hey, brother."
+msgstr ""
+
+# mes "Hey, lady.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Hey, lady."
+msgstr ""
+
+# mes "Why are you here? Go back to your place~ go back~~";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Why are you here? Go back to your place~ go back~~"
+msgstr ""
+
+# if(select("I want to be a Thief.", "Nothing.") == 2) {
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "I want to be a Thief."
+msgstr ""
+
+# if(select("I want to be a Thief.", "Nothing.") == 2) {
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Nothing."
+msgstr ""
+
+# mes "You know you cannot be a thief without an application.....";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "You know you cannot be a thief without an application....."
+msgstr ""
+
+# mes "What's on your mind..?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "What's on your mind..?"
+msgstr ""
+
+# mes "Well, are you that proud of it?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Well, are you that proud of it?"
+msgstr ""
+
+# mes "You're telling me so proudly that you want to be a Thief! Why don't you go to all the villages and advertise yourself for being a thief?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "You're telling me so proudly that you want to be a Thief! Why don't you go to all the villages and advertise yourself for being a thief?"
+msgstr ""
+
+# mes "'Ha ha ha! Go put up a banner that says 'I will be a proud thief who steals other people's stuff.'";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "'Ha ha ha! Go put up a banner that says 'I will be a proud thief who steals other people's stuff.'"
+msgstr ""
+
+# mes "Do you want to be a thief so badly?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Do you want to be a thief so badly?"
+msgstr ""
+
+# switch(select("Yes.", "No.", "How about you?")) {
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Yes."
+msgstr ""
+
+# switch(select("Yes.", "No.", "How about you?")) {
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "No."
+msgstr ""
+
+# switch(select("Yes.", "No.", "How about you?")) {
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "How about you?"
+msgstr ""
+
+# mes "Oh, do you...? Huh.. well... I do live and learn to see strange people like you.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Oh, do you...? Huh.. well... I do live and learn to see strange people like you."
+msgstr ""
+
+# mes "Then why are you here? Do you think you can become a thief so easily?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Then why are you here? Do you think you can become a thief so easily?"
+msgstr ""
+
+# mes "Eh..? me? me?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Eh..? me? me?"
+msgstr ""
+
+# mes "Well... I just fit well to being a thief... characteristically... I don't mind this silly matter.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Well... I just fit well to being a thief... characteristically... I don't mind this silly matter."
+msgstr ""
+
+# mes "Anyway, in the outside world, never say that you want to be a Thief!!";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Anyway, in the outside world, never say that you want to be a Thief!!"
+msgstr ""
+
+# mes "So, do you want to apply for being a Thief?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "So, do you want to apply for being a Thief?"
+msgstr ""
+
+# if(select("Yes, I do.", "No.") == 2) {
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Yes, I do."
+msgstr ""
+
+# mes "Well... do what you want to do~ Go your way~";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Well... do what you want to do~ Go your way~"
+msgstr ""
+
+# mes "Alright, tell me your name. Huh? What?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Alright, tell me your name. Huh? What?"
+msgstr ""
+
+# mes "I can see your strong will to become a Thief......";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "I can see your strong will to become a Thief......"
+msgstr ""
+
+# mes "But only with your will, you cannot make it in a real fight, can you?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "But only with your will, you cannot make it in a real fight, can you?"
+msgstr ""
+
+# mes "So go and reach at least Basic Skill Level 9.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "So go and reach at least Basic Skill Level 9."
+msgstr ""
+
+# mes "Hmm.... I found your interesting criminal records from the data of the detective agency. Well you seem to have what it takes to be a good thief.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "Hmm.... I found your interesting criminal records from the data of the detective agency. Well you seem to have what it takes to be a good thief."
+msgstr ""
+
+# mes "If you want to become a Thief, ask the guy next to me.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guide#thief"
+msgid "If you want to become a Thief, ask the guy next to me."
+msgstr ""
+
+# mes "[Thief Guildsman]";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "[Thief Guildsman]"
+msgstr ""
+
+# mes "Alright. You must have passed the job interview, huh?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "Alright. You must have passed the job interview, huh?"
+msgstr ""
+
+# mes "Good. I'll accept you.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "Good. I'll accept you."
+msgstr ""
+
+# mes "Let's begin the job-changing ceremony of our guild!";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "Let's begin the job-changing ceremony of our guild!"
+msgstr ""
+
+# mes "[Commander of Thief Guild]";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "[Commander of Thief Guild]"
+msgstr ""
+
+# mes "'"+strcharinfo(PC_NAME)+".'";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "'"
+msgstr ""
+
+# mes "'For those who are ready, the moonlight shall open the way. Now you are fully ready, I now officially allow you to become a member of the Thief Guild.'";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "'For those who are ready, the moonlight shall open the way. Now you are fully ready, I now officially allow you to become a member of the Thief Guild.'"
+msgstr ""
+
+# mes "'Congratulations on becoming a Thief.'";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "'Congratulations on becoming a Thief.'"
+msgstr ""
+
+# mes "'From now on, keep the rules of our guild and be an honorable member.'";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "'From now on, keep the rules of our guild and be an honorable member.'"
+msgstr ""
+
+# mes "'If you bring us any disgrace by breaking our rules, you better watch your back.'";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "'If you bring us any disgrace by breaking our rules, you better watch your back.'"
+msgstr ""
+
+# mes "'Anyway, I expect you to be a great thief.'";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "'Anyway, I expect you to be a great thief.'"
+msgstr ""
+
+# mes "[Brad]";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "[Brad]"
+msgstr ""
+
+# mes "Heee~Yaaaa~! Congratulations! My friend.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "Heee~Yaaaa~! Congratulations! My friend."
+msgstr ""
+
+# mes "My name is 'Brad'. I'm in charge of human resources here.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "My name is 'Brad'. I'm in charge of human resources here."
+msgstr ""
+
+# mes "I'm not sure for now but you'll have more chances to see me later on.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "I'm not sure for now but you'll have more chances to see me later on."
+msgstr ""
+
+# mes "Okay, I've done what I can do to you, so go on your way. I'm quite a busy man.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "Okay, I've done what I can do to you, so go on your way. I'm quite a busy man."
+msgstr ""
+
+# mes "See you again.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "See you again."
+msgstr ""
+
+# mes "I don't have any special events now. So go on your way and come back later.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "I don't have any special events now. So go on your way and come back later."
+msgstr ""
+
+# mes "Hey~ Hey~ You're not a novice or a thief!";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "Hey~ Hey~ You're not a novice or a thief!"
+msgstr ""
+
+# mes "What are you doing here? You're not welcome to make this place your home~ Hweeeee~ Get outta here~";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "What are you doing here? You're not welcome to make this place your home~ Hweeeee~ Get outta here~"
+msgstr ""
+
+# mes "Ho? Why is a novice like you visiting here?";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "Ho? Why is a novice like you visiting here?"
+msgstr ""
+
+# mes "If you are here to be a Thief, ask the nasty-tempered lady right next to me.";
+#: npc/re/jobs/1-1/thief.txt
+msgctxt "Thief Guildsman#thief"
+msgid "If you are here to be a Thief, ask the nasty-tempered lady right next to me."
+msgstr ""
+
