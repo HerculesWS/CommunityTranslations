@@ -1,0 +1,445 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:27+0200\n"
+"PO-Revision-Date: 2019-10-21 10:03\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/pre-re/guides/guides_izlude_txt.pot\n"
+
+# mes "[Izlude Guide]";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "[Izlude Guide]"
+msgstr ""
+
+# mes "Welcome to Izlude,";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Welcome to Izlude,"
+msgstr ""
+
+# mes "Prontera's satellite city.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Prontera's satellite city."
+msgstr ""
+
+# mes "If you need any guidance";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "If you need any guidance"
+msgstr ""
+
+# mes "around Izlude, feel free";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "around Izlude, feel free"
+msgstr ""
+
+# mes "to ask me at anytime.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "to ask me at anytime."
+msgstr ""
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "City Guide"
+msgstr ""
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Notice."
+msgstr ""
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Cancel"
+msgstr ""
+
+# mes "Please select";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Please select"
+msgstr ""
+
+# mes "a location from";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "a location from"
+msgstr ""
+
+# mes "the following menu.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "the following menu."
+msgstr ""
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Would you like me"
+msgstr ""
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "to mark locations"
+msgstr ""
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "on your Mini-Map?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "No"
+msgstr ""
+
+# switch(select("^FF0000Swordman Association^000000", "Swordman Hall", "Arena", "Izlude Marina", "Weapon Shop", "Tool Shop", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "^FF0000Swordman Association^000000"
+msgstr ""
+
+# switch(select("^FF0000Swordman Association^000000", "Swordman Hall", "Arena", "Izlude Marina", "Weapon Shop", "Tool Shop", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Swordman Hall"
+msgstr ""
+
+# switch(select("^FF0000Swordman Association^000000", "Swordman Hall", "Arena", "Izlude Marina", "Weapon Shop", "Tool Shop", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Arena"
+msgstr ""
+
+# switch(select("^FF0000Swordman Association^000000", "Swordman Hall", "Arena", "Izlude Marina", "Weapon Shop", "Tool Shop", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Izlude Marina"
+msgstr ""
+
+# switch(select("^FF0000Swordman Association^000000", "Swordman Hall", "Arena", "Izlude Marina", "Weapon Shop", "Tool Shop", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Weapon Shop"
+msgstr ""
+
+# switch(select("^FF0000Swordman Association^000000", "Swordman Hall", "Arena", "Izlude Marina", "Weapon Shop", "Tool Shop", "Cancel")) {
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Tool Shop"
+msgstr ""
+
+# mes "The Swordman Association";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "The Swordman Association"
+msgstr ""
+
+# mes "is located on an island that is";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "is located on an island that is"
+msgstr ""
+
+# mes "in west Izlude. If you're thinking of changing jobs to Swordman,";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "in west Izlude. If you're thinking of changing jobs to Swordman,"
+msgstr ""
+
+# mes "you should check it out.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "you should check it out."
+msgstr ""
+
+# mes "The Swordman Hall";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "The Swordman Hall"
+msgstr ""
+
+# mes "is located in the eastern";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "is located in the eastern"
+msgstr ""
+
+# mes "island connected to Izlude.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "island connected to Izlude."
+msgstr ""
+
+# mes "Izlude's famous";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Izlude's famous"
+msgstr ""
+
+# mes "Arena is located at the";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Arena is located at the"
+msgstr ""
+
+# mes "northern end of Izlude.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "northern end of Izlude."
+msgstr ""
+
+# mes "You can find the";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "You can find the"
+msgstr ""
+
+# mes "Marina in the northeast";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Marina in the northeast"
+msgstr ""
+
+# mes "part of Izlude. There, you can";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "part of Izlude. There, you can"
+msgstr ""
+
+# mes "ride a ship which will take you";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "ride a ship which will take you"
+msgstr ""
+
+# mes "to Alberta or Byalan Island.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "to Alberta or Byalan Island."
+msgstr ""
+
+# mes "You can easily";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "You can easily"
+msgstr ""
+
+# mes "find the Weapon Shop";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "find the Weapon Shop"
+msgstr ""
+
+# mes "in northwest Izlude.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "in northwest Izlude."
+msgstr ""
+
+# mes "The Tool Shop shouldn't";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "The Tool Shop shouldn't"
+msgstr ""
+
+# mes "be too hard to find in the";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "be too hard to find in the"
+msgstr ""
+
+# mes "northeast part of Izlude.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "northeast part of Izlude."
+msgstr ""
+
+# mes "Please ask me to ''Remove";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Please ask me to ''Remove"
+msgstr ""
+
+# mes "Marks from Mini-Map'' if you";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Marks from Mini-Map'' if you"
+msgstr ""
+
+# mes "no longer wish to have the";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "no longer wish to have the"
+msgstr ""
+
+# mes "location marks displayed";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "location marks displayed"
+msgstr ""
+
+# mes "on your Mini-Map.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "on your Mini-Map."
+msgstr ""
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Advances in sorcery and"
+msgstr ""
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "technology have allowed"
+msgstr ""
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "us to update our information"
+msgstr ""
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "system, enabling up to mark"
+msgstr ""
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "locations on your Mini-Map"
+msgstr ""
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "for easier navigation."
+msgstr ""
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Your Mini-Map is located"
+msgstr ""
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "in the upper right corner"
+msgstr ""
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "of the screen. If you can't"
+msgstr ""
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "see it, press the Ctrl + Tab"
+msgstr ""
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr ""
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "On your Mini-Map,"
+msgstr ""
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "click on the ''+'' and ''-''"
+msgstr ""
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "symbols to zoom in and"
+msgstr ""
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "our of your Mini-Map. We"
+msgstr ""
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "hope you enjoy your travels"
+msgstr ""
+
+# mes "here in the city of Izlude.";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "here in the city of Izlude."
+msgstr ""
+
+# mes "Okay then, feel";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "Okay then, feel"
+msgstr ""
+
+# mes "free to come to me";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "free to come to me"
+msgstr ""
+
+# mes "if you ever feel lost";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "if you ever feel lost"
+msgstr ""
+
+# mes "around Izlude, alright?";
+#: npc/pre-re/guides/guides_izlude.txt
+msgctxt "Guide#iz"
+msgid "around Izlude, alright?"
+msgstr ""
+
