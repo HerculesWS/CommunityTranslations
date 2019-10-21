@@ -1,0 +1,3646 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:26+0200\n"
+"PO-Revision-Date: 2019-10-21 10:56\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/jobs/2-1/wizard_txt.pot\n"
+
+# mes "[Catherine]";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "[Catherine]"
+msgstr ""
+
+# mes "? Excuse me, I am wondering if we have met before...?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "? Excuse me, I am wondering if we have met before...?"
+msgstr ""
+
+# mes "Hey~ you have changed a lot! So, what happened?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Hey~ you have changed a lot! So, what happened?"
+msgstr ""
+
+# mes "I feel you have become so much powerful, eh?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I feel you have become so much powerful, eh?"
+msgstr ""
+
+# mes "Congratulations and good luck with your life!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Congratulations and good luck with your life!"
+msgstr ""
+
+# mes "Since you're already a Wizard, you don't have any more business with me...?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Since you're already a Wizard, you don't have any more business with me...?"
+msgstr ""
+
+# mes "Now, excuse me.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Now, excuse me."
+msgstr ""
+
+# mes "Well, If you intended to ask me on a date... I appreciate it...hohoho.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well, If you intended to ask me on a date... I appreciate it...hohoho."
+msgstr ""
+
+# mes "Well, if you fix me up with a cute guy... I'd appreciate it...hohoho!.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well, if you fix me up with a cute guy... I'd appreciate it...hohoho!."
+msgstr ""
+
+# mes "[Wizard Guildsman]";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "[Wizard Guildsman]"
+msgstr ""
+
+# mes "Oh my goodness, it's a novice~ ain't you the cutest little thing.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Oh my goodness, it's a novice~ ain't you the cutest little thing."
+msgstr ""
+
+# mes "By the way honey, this place is for Wizards.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "By the way honey, this place is for Wizards."
+msgstr ""
+
+# mes "If you are interested in magic,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "If you are interested in magic,"
+msgstr ""
+
+# mes "Go visit the ^0000FFMage^000000 guild.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Go visit the ^0000FFMage^000000 guild."
+msgstr ""
+
+# mes "Huh? what brings you to such a high place...?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Huh? what brings you to such a high place...?"
+msgstr ""
+
+# mes "If you don't have any specific business, please leave immediately.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "If you don't have any specific business, please leave immediately."
+msgstr ""
+
+# mes "This place is for Wizards, you know?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "This place is for Wizards, you know?"
+msgstr ""
+
+# mes "Ok, then. Farewell.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Ok, then. Farewell."
+msgstr ""
+
+# mes "Huh? What are you doing way up here...?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Huh? What are you doing way up here...?"
+msgstr ""
+
+# mes "So what brings you here?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "So what brings you here?"
+msgstr ""
+
+# if (select("I want to become a Wizard.", "...nothing.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I want to become a Wizard."
+msgstr ""
+
+# if (select("I want to become a Wizard.", "...nothing.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "...nothing."
+msgstr ""
+
+# mes "I see... Well, of course you want to become a Wizard, otherwise you wouldn't have walked up all those stairs right?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I see... Well, of course you want to become a Wizard, otherwise you wouldn't have walked up all those stairs right?"
+msgstr ""
+
+# mes "Anyways, I would like to welcome you. I will assist you in becoming a Wizard.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Anyways, I would like to welcome you. I will assist you in becoming a Wizard."
+msgstr ""
+
+# mes "My name is Catherine Medici. Just between me and you, I just became a Wizard too!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "My name is Catherine Medici. Just between me and you, I just became a Wizard too!"
+msgstr ""
+
+# mes "You can call me Cathy if you want. Hehehehehe~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You can call me Cathy if you want. Hehehehehe~"
+msgstr ""
+
+# mes "Many people want to become Wizards, but only the patient and strong ones will eventually accomplish their goals.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Many people want to become Wizards, but only the patient and strong ones will eventually accomplish their goals."
+msgstr ""
+
+# mes "In order to become a Wizard, one must undergo difficult quests.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "In order to become a Wizard, one must undergo difficult quests."
+msgstr ""
+
+# mes "Also only mages who have reached a job level of 40 or higher are qualified for these quests.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Also only mages who have reached a job level of 40 or higher are qualified for these quests."
+msgstr ""
+
+# mes "Lower level mages aren't experienced enough with magic to become Wizards...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Lower level mages aren't experienced enough with magic to become Wizards..."
+msgstr ""
+
+# mes "Well, I will give you more information when you apply for the job.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well, I will give you more information when you apply for the job."
+msgstr ""
+
+# mes "So! Do you want to apply now?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "So! Do you want to apply now?"
+msgstr ""
+
+# if (select("Yes, I do.", "On second thought, Let me think about it.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Yes, I do."
+msgstr ""
+
+# if (select("Yes, I do.", "On second thought, Let me think about it.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "On second thought, Let me think about it."
+msgstr ""
+
+# mes "Hey hey, weren't you listening to me?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Hey hey, weren't you listening to me?"
+msgstr ""
+
+# mes "I told you that you need to be at least job level 40 to sign up for the quest...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I told you that you need to be at least job level 40 to sign up for the quest..."
+msgstr ""
+
+# mes "No need to hurry, go experience and ponder more about the world of magic.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "No need to hurry, go experience and ponder more about the world of magic."
+msgstr ""
+
+# mes "When I deem you're qualified, I will accept your application.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "When I deem you're qualified, I will accept your application."
+msgstr ""
+
+# mes "Umm... You're well qualified, but you have some unused skill points left.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Umm... You're well qualified, but you have some unused skill points left."
+msgstr ""
+
+# mes "You'd better learn more skills before applying again.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You'd better learn more skills before applying again."
+msgstr ""
+
+# mes "Very well then, I accept your application.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Very well then, I accept your application."
+msgstr ""
+
+# mes "Your name is..." + strcharinfo(PC_NAME) + ", isn't it? I am not sure if I pronounced it correctly?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Your name is..."
+msgstr ""
+
+# mes "The Wizard job change quest is divided into 3 parts.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "The Wizard job change quest is divided into 3 parts."
+msgstr ""
+
+# mes "1st part, gathering magic items.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "1st part, gathering magic items."
+msgstr ""
+
+# mes "2nd part, a written test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "2nd part, a written test."
+msgstr ""
+
+# mes "The last part is a practical magic test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "The last part is a practical magic test."
+msgstr ""
+
+# mes "Among one of these tests, we exempt those who are at job level 50.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Among one of these tests, we exempt those who are at job level 50."
+msgstr ""
+
+# mes "It is enough to prove to us the effort it will take to become a Wizard if a mage has learned that much already.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "It is enough to prove to us the effort it will take to become a Wizard if a mage has learned that much already."
+msgstr ""
+
+# mes "Hmm, come to think of it, you're at job level 50!?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Hmm, come to think of it, you're at job level 50!?"
+msgstr ""
+
+# mes "You must have worked very hard. Your going to become a very powerful Wizard, I can feel it in you.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You must have worked very hard. Your going to become a very powerful Wizard, I can feel it in you."
+msgstr ""
+
+# mes "Ok. You already passed the 1st test then.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Ok. You already passed the 1st test then."
+msgstr ""
+
+# mes "Don't get too laid back though, there are still 2 more tests left.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Don't get too laid back though, there are still 2 more tests left."
+msgstr ""
+
+# mes "Go talk to the man in the corner and he will give you the remaining exams.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Go talk to the man in the corner and he will give you the remaining exams."
+msgstr ""
+
+# mes "Be careful. We have lost many Mages due to the difficulty of the exams.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Be careful. We have lost many Mages due to the difficulty of the exams."
+msgstr ""
+
+# mes "Then, since I have your application and everything else I need, I'll give you some info about the first test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Then, since I have your application and everything else I need, I'll give you some info about the first test."
+msgstr ""
+
+# mes "You can memorize this or write it down, doesn't matter. But remember it for sure.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You can memorize this or write it down, doesn't matter. But remember it for sure."
+msgstr ""
+
+# mes "The first test is collecting magic items.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "The first test is collecting magic items."
+msgstr ""
+
+# mes "The important part is that you must gather these items on your own.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "The important part is that you must gather these items on your own."
+msgstr ""
+
+# mes "The items you must collect are...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "The items you must collect are..."
+msgstr ""
+
+# mes "^3355FFRed Gemstone^000000 10 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFRed Gemstone^000000 10 each,"
+msgstr ""
+
+# mes "^3355FFBlue Gemstone^000000 10 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFBlue Gemstone^000000 10 each,"
+msgstr ""
+
+# mes "^3355FFYellow Gemstone^000000 10 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFYellow Gemstone^000000 10 each,"
+msgstr ""
+
+# mes "^3355FFCrystal Blue^000000 5 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFCrystal Blue^000000 5 each,"
+msgstr ""
+
+# mes "^3355FFGreen Live^000000 5 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFGreen Live^000000 5 each,"
+msgstr ""
+
+# mes "^3355FFRed Blood^000000 5 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFRed Blood^000000 5 each,"
+msgstr ""
+
+# mes "^3355FFWind of Verdure^000000 5 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFWind of Verdure^000000 5 each,"
+msgstr ""
+
+# mes "...is it too hard? No, any would be Wizard should be able to at least get these items.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "...is it too hard? No, any would be Wizard should be able to at least get these items."
+msgstr ""
+
+# mes "Well, good luck.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well, good luck."
+msgstr ""
+
+# mes "I'll be happily waiting. ~Hehe.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I'll be happily waiting. ~Hehe."
+msgstr ""
+
+# mes "Oh, ok then, take your time.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Oh, ok then, take your time."
+msgstr ""
+
+# mes "Since I'll always be here, accepting applications...*sigh*...anyways! ~Hehehehe.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Since I'll always be here, accepting applications...*sigh*...anyways! ~Hehehehe."
+msgstr ""
+
+# mes "Geez, what a lame person.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Geez, what a lame person."
+msgstr ""
+
+# mes "You have no business here, hope you don't mind, now off you go!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You have no business here, hope you don't mind, now off you go!"
+msgstr ""
+
+# mes "Let me see, did you get all the items?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Let me see, did you get all the items?"
+msgstr ""
+
+# mes "Then let's check...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Then let's check..."
+msgstr ""
+
+# mes "Perfect! You got all the items. I like!~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Perfect! You got all the items. I like!~"
+msgstr ""
+
+# mes "These items will be put to great use in our guild. ~Hehehee.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "These items will be put to great use in our guild. ~Hehehee."
+msgstr ""
+
+# mes "Good for you! You passed the first test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Good for you! You passed the first test."
+msgstr ""
+
+# mes "But there are still two more left, so don't get too relaxed.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "But there are still two more left, so don't get too relaxed."
+msgstr ""
+
+# mes "Go talk to the guy in the corner for the rest of the tests.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Go talk to the guy in the corner for the rest of the tests."
+msgstr ""
+
+# mes "It might be a bit hard, so be careful, I wouldn't want you ending up like most of the Mages that come for these exams...poor souls indeed, may they rest in peace. ~Hehehe.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "It might be a bit hard, so be careful, I wouldn't want you ending up like most of the Mages that come for these exams...poor souls indeed, may they rest in peace. ~Hehehe."
+msgstr ""
+
+# mes "Hey, what's this? Umm...I don't think you have everything yet!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Hey, what's this? Umm...I don't think you have everything yet!"
+msgstr ""
+
+# mes "It might've been tough coming all the way up here, what with this altitude and all, but go back and collect the items.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "It might've been tough coming all the way up here, what with this altitude and all, but go back and collect the items."
+msgstr ""
+
+# mes "Life's short enough as it is, so stop wasting your time and gather the items I told you before.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Life's short enough as it is, so stop wasting your time and gather the items I told you before."
+msgstr ""
+
+# mes "Don't forget this time, and bring all the items, ok?...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Don't forget this time, and bring all the items, ok?..."
+msgstr ""
+
+# mes "Did you get all the items?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Did you get all the items?"
+msgstr ""
+
+# mes "Let's see... Do you have the right ones?...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Let's see... Do you have the right ones?..."
+msgstr ""
+
+# mes "Perfect! Good job...I'm satisfied! ~Hehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Perfect! Good job...I'm satisfied! ~Hehe"
+msgstr ""
+
+# mes "Our guild greatly appreciates these items and will use them wisely.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Our guild greatly appreciates these items and will use them wisely."
+msgstr ""
+
+# mes "Good. You've passed the first test now.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Good. You've passed the first test now."
+msgstr ""
+
+# mes "But you still have two more tests to go, so don't get too laid back, because it only gets harder from here. ~Hehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "But you still have two more tests to go, so don't get too laid back, because it only gets harder from here. ~Hehehe"
+msgstr ""
+
+# mes "Go talk to that guy in the corner to take the rest of the tests.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Go talk to that guy in the corner to take the rest of the tests."
+msgstr ""
+
+# mes "Eh, what's this? I don't think you have everything?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Eh, what's this? I don't think you have everything?"
+msgstr ""
+
+# mes "I regret that you had to go through the trouble of coming all the way up here, but go get the right items again.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I regret that you had to go through the trouble of coming all the way up here, but go get the right items again."
+msgstr ""
+
+# mes "Stop wasting your time and get the items I initially requested. For goodness sakes...This is the easiest part of the exam.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Stop wasting your time and get the items I initially requested. For goodness sakes...This is the easiest part of the exam."
+msgstr ""
+
+# mes "^3355FFCrystsal Blue^000000 5 each,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "^3355FFCrystsal Blue^000000 5 each,"
+msgstr ""
+
+# mes "Don't forget them this time and gather the correct ones, ok? See you soon...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Don't forget them this time and gather the correct ones, ok? See you soon..."
+msgstr ""
+
+# mes "What is it? You didn't go talk to the guy in the corner?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "What is it? You didn't go talk to the guy in the corner?"
+msgstr ""
+
+# mes "You can't become a Wizard by just brining the items I requested, no no, that just wont do...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You can't become a Wizard by just brining the items I requested, no no, that just wont do..."
+msgstr ""
+
+# mes "You can only prove yourself Wizard material after you take the two remaining tests.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You can only prove yourself Wizard material after you take the two remaining tests."
+msgstr ""
+
+# mes "I'll be waiting, so go now.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I'll be waiting, so go now."
+msgstr ""
+
+# mes "*sigh*...Poor thing, what a pity.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "*sigh*...Poor thing, what a pity."
+msgstr ""
+
+# mes "How can you think of trying to become a Wizard when you can't even answer those simple questions?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "How can you think of trying to become a Wizard when you can't even answer those simple questions?"
+msgstr ""
+
+# mes "Let's see... Should I give you some hints as your senior?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Let's see... Should I give you some hints as your senior?"
+msgstr ""
+
+# mes "But I'm a bit thirsty, so give me 1 Apple Juice, and we got a deal. ~Hehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "But I'm a bit thirsty, so give me 1 Apple Juice, and we got a deal. ~Hehehe"
+msgstr ""
+
+# switch(select("Give me some hints, please.", "I want to try again on my own!")) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Give me some hints, please."
+msgstr ""
+
+# switch(select("Give me some hints, please.", "I want to try again on my own!")) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I want to try again on my own!"
+msgstr ""
+
+# mes "Yummers, Apple Juice is the best...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Yummers, Apple Juice is the best..."
+msgstr ""
+
+# mes "Gulp gulp gulp... Haaaaaah... ~Hehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Gulp gulp gulp... Haaaaaah... ~Hehe"
+msgstr ""
+
+# mes "Well then, I'll give you a hint for the second test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well then, I'll give you a hint for the second test."
+msgstr ""
+
+# mes "He asks three types of questions.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "He asks three types of questions."
+msgstr ""
+
+# mes "Questions about Magic, Monsters...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Questions about Magic, Monsters..."
+msgstr ""
+
+# mes "and Magicians...also known as Mages.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "and Magicians...also known as Mages."
+msgstr ""
+
+# mes "It's up to him to decide which questions to ask.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "It's up to him to decide which questions to ask."
+msgstr ""
+
+# mes "*sigh*...He'd look much better if he cut his hair and shaved...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "*sigh*...He'd look much better if he cut his hair and shaved..."
+msgstr ""
+
+# mes "He always looks so grungy because he doesn't take care of himself...*sigh*...pity, he could be a regular lady killer. ~tehehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "He always looks so grungy because he doesn't take care of himself...*sigh*...pity, he could be a regular lady killer. ~tehehehe"
+msgstr ""
+
+# mes "Anyways, as for the questions about magic...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Anyways, as for the questions about magic..."
+msgstr ""
+
+# mes "They're usually about the spells you've learned.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "They're usually about the spells you've learned."
+msgstr ""
+
+# mes "If it's something you haven't learned or haven't experienced, or anything like that...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "If it's something you haven't learned or haven't experienced, or anything like that..."
+msgstr ""
+
+# mes "I heard there's a nice place you can refer to that's very well organized.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I heard there's a nice place you can refer to that's very well organized."
+msgstr ""
+
+# mes "You just have to cast the spell, you know...the one that looks like a big bold *e* symbol.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You just have to cast the spell, you know...the one that looks like a big bold *e* symbol."
+msgstr ""
+
+# mes "The magic words are... iro.ragnarokonline.com ~Or so they say!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "The magic words are... iro.ragnarokonline.com ~Or so they say!"
+msgstr ""
+
+# mes "Strange spell, don't you think? I don't know how to make it work myself.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Strange spell, don't you think? I don't know how to make it work myself."
+msgstr ""
+
+# mes "And about the monster questions.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "And about the monster questions."
+msgstr ""
+
+# mes "Fighting them yourself and learning is the best way to go about that.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Fighting them yourself and learning is the best way to go about that."
+msgstr ""
+
+# mes "But you know in Prontera, there is a big library.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "But you know in Prontera, there is a big library."
+msgstr ""
+
+# mes "You can get information about most of the monsters in that library.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You can get information about most of the monsters in that library."
+msgstr ""
+
+# mes "Going there and studying a bit more would work too.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Going there and studying a bit more would work too."
+msgstr ""
+
+# mes "Last, but not least, questions about Mages.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Last, but not least, questions about Mages."
+msgstr ""
+
+# mes "This is something that most others cannot teach you...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "This is something that most others cannot teach you..."
+msgstr ""
+
+# mes "Because you are a Mage.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Because you are a Mage."
+msgstr ""
+
+# mes "It's hard to know about others when you don't even know about yourself, right?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "It's hard to know about others when you don't even know about yourself, right?"
+msgstr ""
+
+# mes "So if you get one of these questions, think about it carefully then answer.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "So if you get one of these questions, think about it carefully then answer."
+msgstr ""
+
+# mes "Like I said, I'll think about it if you give me 1 Apple Juice.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Like I said, I'll think about it if you give me 1 Apple Juice."
+msgstr ""
+
+# mes "If not... Well, you can think about it on your own. Hey I don't make the rules here i just follow em! Can't argue with this one though. ~tehehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "If not... Well, you can think about it on your own. Hey I don't make the rules here i just follow em! Can't argue with this one though. ~tehehehe"
+msgstr ""
+
+# mes "Yeah, you get the most satisfaction when you solve things on your own.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Yeah, you get the most satisfaction when you solve things on your own."
+msgstr ""
+
+# mes "Go finish the rest of the tests with that spirit!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Go finish the rest of the tests with that spirit!"
+msgstr ""
+
+# mes "Well then, see you soon! *crosses fingers* dont end up like the others before you! May God rest thier souls...huh? Oh nothing! ~Hehehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well then, see you soon! *crosses fingers* dont end up like the others before you! May God rest thier souls...huh? Oh nothing! ~Hehehehe"
+msgstr ""
+
+# mes "Hurry, he's waiting for you!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Hurry, he's waiting for you!"
+msgstr ""
+
+# mes "Tehehehe~ I was listening all along.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Tehehehe~ I was listening all along."
+msgstr ""
+
+# mes "Well done in answering all those questions. I want to give something, like a present...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well done in answering all those questions. I want to give something, like a present..."
+msgstr ""
+
+# mes "You still have one more test to go, right?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You still have one more test to go, right?"
+msgstr ""
+
+# mes "Just a bit more and you will be qualified to be a Wizard, so I'll give you the present then. ~Hehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Just a bit more and you will be qualified to be a Wizard, so I'll give you the present then. ~Hehe"
+msgstr ""
+
+# mes "See ya, well...hopefully!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "See ya, well...hopefully!"
+msgstr ""
+
+# mes "He's waiting for you!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "He's waiting for you!"
+msgstr ""
+
+# mes "Eh, did you leave in the middle of the test?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Eh, did you leave in the middle of the test?"
+msgstr ""
+
+# mes "You...*sigh*...I didn't think you would do such a dishonorable thing.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You...*sigh*...I didn't think you would do such a dishonorable thing."
+msgstr ""
+
+# mes "Granted you're a mage, but how could a guy be so weak?!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Granted you're a mage, but how could a guy be so weak?!"
+msgstr ""
+
+# mes "Well, at least your alive still. Go back and try harder this time. ~tehehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well, at least your alive still. Go back and try harder this time. ~tehehehe"
+msgstr ""
+
+# mes "Don't pretend to be weak just because you're a girl. Look at me! I did it, and so can you. You can't ask for sympathy.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Don't pretend to be weak just because you're a girl. Look at me! I did it, and so can you. You can't ask for sympathy."
+msgstr ""
+
+# mes "You came all this way to become a Wizard! Now come on, you can do it!!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You came all this way to become a Wizard! Now come on, you can do it!!"
+msgstr ""
+
+# mes "I agree that it is difficult, but not to the point of giving up.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I agree that it is difficult, but not to the point of giving up."
+msgstr ""
+
+# mes "You of all people should find the strength and patience to complete this test!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "You of all people should find the strength and patience to complete this test!"
+msgstr ""
+
+# mes "So, try harder this time...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "So, try harder this time..."
+msgstr ""
+
+# mes "He's waiting!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "He's waiting!"
+msgstr ""
+
+# mes "Hey, what don't you get it?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Hey, what don't you get it?"
+msgstr ""
+
+# mes "I said you must be at least job level 40 to change your job, got it?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I said you must be at least job level 40 to change your job, got it?"
+msgstr ""
+
+# mes "There is nothing to be in hurry, so why don't you take your time for studying?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "There is nothing to be in hurry, so why don't you take your time for studying?"
+msgstr ""
+
+# mes "When the time comes, I will welcome you with open arms.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "When the time comes, I will welcome you with open arms."
+msgstr ""
+
+# mes "Are you done with all the tests? Oh drats, it seems like you still have some skill points left.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Are you done with all the tests? Oh drats, it seems like you still have some skill points left."
+msgstr ""
+
+# mes "Learn some other skills with your remaining points, and then come talk to me again.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Learn some other skills with your remaining points, and then come talk to me again."
+msgstr ""
+
+# mes "Wooooooooooooow...you finished all the tests?!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Wooooooooooooow...you finished all the tests?!"
+msgstr ""
+
+# mes "Congratulations, congrats, congrats! Wooopiiieeeee! ~Hehehehehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Congratulations, congrats, congrats! Wooopiiieeeee! ~Hehehehehehe"
+msgstr ""
+
+# mes "Well, no need to wait, I congratulate you. I hearby deem you Wizard.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well, no need to wait, I congratulate you. I hearby deem you Wizard."
+msgstr ""
+
+# mes "Since you're a Wizard now, act like a Wizard, got it?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Since you're a Wizard now, act like a Wizard, got it?"
+msgstr ""
+
+# mes "Us wizards have to be careful since we possess the ultimate power of magic.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Us wizards have to be careful since we possess the ultimate power of magic."
+msgstr ""
+
+# mes "Don't go about casting spells in town for no reason, or bother others with spells that are in their own battle.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Don't go about casting spells in town for no reason, or bother others with spells that are in their own battle."
+msgstr ""
+
+# mes "A Wizard's magic is meant for their own battles with monsters.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "A Wizard's magic is meant for their own battles with monsters."
+msgstr ""
+
+# mes "Go join parties with others and keep training.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Go join parties with others and keep training."
+msgstr ""
+
+# mes "And...oh, wait, I prepared a present for you, one sec.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "And...oh, wait, I prepared a present for you, one sec."
+msgstr ""
+
+# mes "rummage rummage...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "rummage rummage..."
+msgstr ""
+
+# mes "shuffle shuffle...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "shuffle shuffle..."
+msgstr ""
+
+# mes "Here you go. I hope you'll make good use of it when you need it. ~tehehe";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Here you go. I hope you'll make good use of it when you need it. ~tehehe"
+msgstr ""
+
+# mes "I gave them to you as a present, so don't go out and sell it. Use it for yourself, ok?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "I gave them to you as a present, so don't go out and sell it. Use it for yourself, ok?"
+msgstr ""
+
+# mes "Well, then...*sight*...live a wonderful life as a Wizard, become the strongest out there!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Wizard Guildsman"
+msgid "Well, then...*sight*...live a wonderful life as a Wizard, become the strongest out there!"
+msgstr ""
+
+# mes "[Raulel]";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "[Raulel]"
+msgstr ""
+
+# mes "*Cough* *cough* what do you want?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough* what do you want?"
+msgstr ""
+
+# mes "If you are a person that uses magic, then you need to make sure you are well informed about it.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you are a person that uses magic, then you need to make sure you are well informed about it."
+msgstr ""
+
+# mes "Don't live dishonestly, or impolitely, or else one day you'll be caught in a spell you can't control, and BOOM, your dead!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Don't live dishonestly, or impolitely, or else one day you'll be caught in a spell you can't control, and BOOM, your dead!"
+msgstr ""
+
+# mes "If you don't want that to happen, then learn how to use spells properly!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you don't want that to happen, then learn how to use spells properly!"
+msgstr ""
+
+# mes "You may live life crippled if you get obsessed with the love of Greater Magic. ~haha";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You may live life crippled if you get obsessed with the love of Greater Magic. ~haha"
+msgstr ""
+
+# mes "So learn how to use magic properly, or you would just be better off giving up on using magic.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "So learn how to use magic properly, or you would just be better off giving up on using magic."
+msgstr ""
+
+# mes "If you don't want that, go hit on a guy or something! ~Hahahaha";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you don't want that, go hit on a guy or something! ~Hahahaha"
+msgstr ""
+
+# mes "If you don't pay attention to yourself, you'll be engulfed by magic one day...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you don't pay attention to yourself, you'll be engulfed by magic one day..."
+msgstr ""
+
+# mes "Go away, one who works for the Church!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Go away, one who works for the Church!"
+msgstr ""
+
+# mes "Magic repels Holy power, jeez...your messing up my aura.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Magic repels Holy power, jeez...your messing up my aura."
+msgstr ""
+
+# mes "And plus, *cough* *cough* my health isn't all that good right now either...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "And plus, *cough* *cough* my health isn't all that good right now either..."
+msgstr ""
+
+# mes "Don't come any closer, just leave!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Don't come any closer, just leave!"
+msgstr ""
+
+# mes "Why did a little one like you come here?!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Why did a little one like you come here?!"
+msgstr ""
+
+# mes "Get lost! ~Hahahahaha";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Get lost! ~Hahahahaha"
+msgstr ""
+
+# mes "*sneeze* *cough* Oooowww...my entire body is in pain. I feel like I'm trapped in a tub of ice water!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* *cough* Oooowww...my entire body is in pain. I feel like I'm trapped in a tub of ice water!"
+msgstr ""
+
+# mes "What do you want? Jeez...just get lost, won't you?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "What do you want? Jeez...just get lost, won't you?"
+msgstr ""
+
+# mes "*cough* *cough* *sneeze* I don't know who you are and what you do, but I don't have any business with you.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*cough* *cough* *sneeze* I don't know who you are and what you do, but I don't have any business with you."
+msgstr ""
+
+# mes "Go away! Get lost!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Go away! Get lost!"
+msgstr ""
+
+# mes "Hahahaha~ You're the one that wants to become a Wizard?!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahaha~ You're the one that wants to become a Wizard?!"
+msgstr ""
+
+# mes "*sneeze* If you just lived as you were, all you'd have to do was hunt a little and live the easy life...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* If you just lived as you were, all you'd have to do was hunt a little and live the easy life..."
+msgstr ""
+
+# mes "*Cough* *cough* Let's see how well you live as a Wizard. ~Hahahahhaha";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough* Let's see how well you live as a Wizard. ~Hahahahhaha"
+msgstr ""
+
+# mes "*Cough* *cough*...You must've passed the first test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough*...You must've passed the first test."
+msgstr ""
+
+# mes "Ok, I'm the Wizard in charge of your testing from now on. My name is 'Raulel Asparagus'.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Ok, I'm the Wizard in charge of your testing from now on. My name is 'Raulel Asparagus'."
+msgstr ""
+
+# mes "*sneeze* It's not too late yet, wouldn't you rather just go back to town and enjoy the peaceful life?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* It's not too late yet, wouldn't you rather just go back to town and enjoy the peaceful life?"
+msgstr ""
+
+# mes "Hahahaha~ You don't know how dangerous it is...to deal with Greater Magic.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahaha~ You don't know how dangerous it is...to deal with Greater Magic."
+msgstr ""
+
+# if (select("I want to live as a normal Mage.", "I would like to continue with the tests.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I want to live as a normal Mage."
+msgstr ""
+
+# if (select("I want to live as a normal Mage.", "I would like to continue with the tests.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I would like to continue with the tests."
+msgstr ""
+
+# mes "Hahaha~ *sneeze* Good choice...*cough* *cough*~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahaha~ *sneeze* Good choice...*cough* *cough*~"
+msgstr ""
+
+# mes "Best not to even dream about life as a Wizard. Graa...Greaa...*sneeze* Greater Magic wasn't meant for humans to use!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Best not to even dream about life as a Wizard. Graa...Greaa...*sneeze* Greater Magic wasn't meant for humans to use!"
+msgstr ""
+
+# mes "Leave the top of this tower quietly and don't ever look back.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Leave the top of this tower quietly and don't ever look back."
+msgstr ""
+
+# mes "Just live peacefully with the powers that you have right now.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Just live peacefully with the powers that you have right now."
+msgstr ""
+
+# mes "*sneeze* Hahahaha~ Now there's a foolish one here!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* Hahahaha~ Now there's a foolish one here!"
+msgstr ""
+
+# mes "Well then, let's see how good you are. *cough* I want to see this with my own two eyes!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Well then, let's see how good you are. *cough* I want to see this with my own two eyes!"
+msgstr ""
+
+# mes "*sneeze* Then let's begin the test!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* Then let's begin the test!"
+msgstr ""
+
+# mes "If you don't answer them all correctly, you fail. Hahahahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you don't answer them all correctly, you fail. Hahahahahahahahaha~"
+msgstr ""
+
+# mes "I'll give you 10 questions so give me the right answers.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I'll give you 10 questions so give me the right answers."
+msgstr ""
+
+# mes "If you get something wrong, I won't tell you what it is!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you get something wrong, I won't tell you what it is!"
+msgstr ""
+
+# mes "*Cough* *cough* Then here go the questions!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough* Then here go the questions!"
+msgstr ""
+
+# mes "Hahahaha~ Are you that desperate? *sneeze* What a pain in the arse...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahaha~ Are you that desperate? *sneeze* What a pain in the arse..."
+msgstr ""
+
+# mes "Since you don't want to settle for a stable and peaceful life, I'll give you another chance...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Since you don't want to settle for a stable and peaceful life, I'll give you another chance..."
+msgstr ""
+
+# mes "If you miss one single question, then just give up. You wouldn't have any talent in being a Wizard! ~Hahahahaha";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you miss one single question, then just give up. You wouldn't have any talent in being a Wizard! ~Hahahahaha"
+msgstr ""
+
+# if (select("Because of you, I want to live as a normal Mage now.", "I would like to continue with the tests.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Because of you, I want to live as a normal Mage now."
+msgstr ""
+
+# mes "Hahahaha~ Surprising, comming from you, that's a very wise choice...*cough* *cough*";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahaha~ Surprising, comming from you, that's a very wise choice...*cough* *cough*"
+msgstr ""
+
+# mes "If i were you, i would never, ever dream of becoming a Wizard again. Gre...Greaa...*sneeze* Greater Magic wasn't meant for humans to use.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If i were you, i would never, ever dream of becoming a Wizard again. Gre...Greaa...*sneeze* Greater Magic wasn't meant for humans to use."
+msgstr ""
+
+# mes "Just leave the top of this tower quietly and never look back.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Just leave the top of this tower quietly and never look back."
+msgstr ""
+
+# mes "Live peacefully with the powers that you have right now.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Live peacefully with the powers that you have right now."
+msgstr ""
+
+# mes "Hahahahahahaha~ Now there's a foolish one right here!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahahahahaha~ Now there's a foolish one right here!"
+msgstr ""
+
+# mes "Well then, let's see just how good you can be! *sneeze* I want to see this with my own two eyes.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Well then, let's see just how good you can be! *sneeze* I want to see this with my own two eyes."
+msgstr ""
+
+# mes "Then let's begin the test!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Then let's begin the test!"
+msgstr ""
+
+# mes "1. Which of the following is not necessary to learn Fire Wall?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "1. Which of the following is not necessary to learn Fire Wall?"
+msgstr ""
+
+# if (select("Fire Bolt Lv 4", "Fire Ball Lv 5", "Sight Lv 1", "Napalm Beat Lv 4") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Fire Bolt Lv 4"
+msgstr ""
+
+# if (select("Fire Bolt Lv 4", "Fire Ball Lv 5", "Sight Lv 1", "Napalm Beat Lv 4") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Fire Ball Lv 5"
+msgstr ""
+
+# if (select("Fire Bolt Lv 4", "Fire Ball Lv 5", "Sight Lv 1", "Napalm Beat Lv 4") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Sight Lv 1"
+msgstr ""
+
+# if (select("Fire Bolt Lv 4", "Fire Ball Lv 5", "Sight Lv 1", "Napalm Beat Lv 4") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Napalm Beat Lv 4"
+msgstr ""
+
+# mes "2. Regaurdless of it's previous attribute, What does the monster's attribute change to when you cast Frost Diver on it?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "2. Regaurdless of it's previous attribute, What does the monster's attribute change to when you cast Frost Diver on it?"
+msgstr ""
+
+# if (select("Water", "Earth", "Fire", "Wind") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Water"
+msgstr ""
+
+# if (select("Water", "Earth", "Fire", "Wind") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Earth"
+msgstr ""
+
+# if (select("Water", "Earth", "Fire", "Wind") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Fire"
+msgstr ""
+
+# if (select("Water", "Earth", "Fire", "Wind") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Wind"
+msgstr ""
+
+# mes "3. When you completely master Napalm Beat, what is the ratio of the increased MATK using that spell?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "3. When you completely master Napalm Beat, what is the ratio of the increased MATK using that spell?"
+msgstr ""
+
+# if (select("1.6 times", "1.7 times", "2 times", "20 times") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "1.6 times"
+msgstr ""
+
+# if (select("1.6 times", "1.7 times", "2 times", "20 times") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "1.7 times"
+msgstr ""
+
+# if (select("1.6 times", "1.7 times", "2 times", "20 times") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "2 times"
+msgstr ""
+
+# if (select("1.6 times", "1.7 times", "2 times", "20 times") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "20 times"
+msgstr ""
+
+# mes "4. What item do you need when casting Stone Curse?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "4. What item do you need when casting Stone Curse?"
+msgstr ""
+
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Red Blood"
+msgstr ""
+
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Blue Gemstone"
+msgstr ""
+
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Yellow Gemstone"
+msgstr ""
+
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Red Gemstone"
+msgstr ""
+
+# mes "5. Which of the following is not required to master Safety Wall?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "5. Which of the following is not required to master Safety Wall?"
+msgstr ""
+
+# if (select("Napalm Beat Lv 4", "Soul Strike Lv 5", "Increase SP Recovery Lv 6", "Safety Wall Lv 7") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Soul Strike Lv 5"
+msgstr ""
+
+# if (select("Napalm Beat Lv 4", "Soul Strike Lv 5", "Increase SP Recovery Lv 6", "Safety Wall Lv 7") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Increase SP Recovery Lv 6"
+msgstr ""
+
+# if (select("Napalm Beat Lv 4", "Soul Strike Lv 5", "Increase SP Recovery Lv 6", "Safety Wall Lv 7") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Safety Wall Lv 7"
+msgstr ""
+
+# mes "6. Without the INT bonus, what amount of SP is recovered every 10 seconds when you have learned Increase SP Recovery Lv 7?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "6. Without the INT bonus, what amount of SP is recovered every 10 seconds when you have learned Increase SP Recovery Lv 7?"
+msgstr ""
+
+# if (select("14", "21", "28", "35") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "14"
+msgstr ""
+
+# if (select("14", "21", "28", "35") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "21"
+msgstr ""
+
+# if (select("14", "21", "28", "35") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "28"
+msgstr ""
+
+# if (select("14", "21", "28", "35") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "35"
+msgstr ""
+
+# mes "7. Using Energy Coat, when you have 50% of your SP remaining, how much SP is used when hit, and what percentage is damage reduced by?";
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "7. Using Energy Coat, when you have 50% of your SP remaining, how much SP is used when hit, and what percentage is damage reduced by?"
+msgstr ""
+
+# if (select("Damage 18% SP1.5%", "Damage 18% SP2%", "Damage 24% SP1.5%", "Damage 24% SP2%") == 2)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "Damage 18% SP1.5%"
+msgstr ""
+
+# if (select("Damage 18% SP1.5%", "Damage 18% SP2%", "Damage 24% SP1.5%", "Damage 24% SP2%") == 2)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "Damage 18% SP2%"
+msgstr ""
+
+# if (select("Damage 18% SP1.5%", "Damage 18% SP2%", "Damage 24% SP1.5%", "Damage 24% SP2%") == 2)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "Damage 24% SP1.5%"
+msgstr ""
+
+# if (select("Damage 18% SP1.5%", "Damage 18% SP2%", "Damage 24% SP1.5%", "Damage 24% SP2%") == 2)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "Damage 24% SP2%"
+msgstr ""
+
+# mes "8. How much SP is consumed and how many times can you avoid attacks when using Safety Wall Lv 6?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "8. How much SP is consumed and how many times can you avoid attacks when using Safety Wall Lv 6?"
+msgstr ""
+
+# if (select("SP 40, 6 times", "SP 35, 6 times", "SP 40, 7 times", "SP 35, 7 times") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "SP 40, 6 times"
+msgstr ""
+
+# if (select("SP 40, 6 times", "SP 35, 6 times", "SP 40, 7 times", "SP 35, 7 times") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "SP 35, 6 times"
+msgstr ""
+
+# if (select("SP 40, 6 times", "SP 35, 6 times", "SP 40, 7 times", "SP 35, 7 times") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "SP 40, 7 times"
+msgstr ""
+
+# if (select("SP 40, 6 times", "SP 35, 6 times", "SP 40, 7 times", "SP 35, 7 times") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "SP 35, 7 times"
+msgstr ""
+
+# mes "9. How much SP is needed when using Lv 10 Thunderstorm?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "9. How much SP is needed when using Lv 10 Thunderstorm?"
+msgstr ""
+
+# if (select("84", "74", "64", "54") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "84"
+msgstr ""
+
+# if (select("84", "74", "64", "54") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "74"
+msgstr ""
+
+# if (select("84", "74", "64", "54") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "64"
+msgstr ""
+
+# if (select("84", "74", "64", "54") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "54"
+msgstr ""
+
+# mes "10. Which skill is most useful training in the Byalan Dungeon?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "10. Which skill is most useful training in the Byalan Dungeon?"
+msgstr ""
+
+# if (select("Lightning Bolt", "Fire Bolt", "Cold Bolt", "Sight") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Lightning Bolt"
+msgstr ""
+
+# if (select("Lightning Bolt", "Fire Bolt", "Cold Bolt", "Sight") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Fire Bolt"
+msgstr ""
+
+# if (select("Lightning Bolt", "Fire Bolt", "Cold Bolt", "Sight") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Cold Bolt"
+msgstr ""
+
+# if (select("Lightning Bolt", "Fire Bolt", "Cold Bolt", "Sight") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Sight"
+msgstr ""
+
+# mes "1. Which monster can you obtain a slotted Guard from?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "1. Which monster can you obtain a slotted Guard from?"
+msgstr ""
+
+# if (select("Thief Bug", "PecoPeco", "Pupa", "Kobold (Hammer)") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Thief Bug"
+msgstr ""
+
+# if (select("Thief Bug", "PecoPeco", "Pupa", "Kobold (Hammer)") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "PecoPeco"
+msgstr ""
+
+# if (select("Thief Bug", "PecoPeco", "Pupa", "Kobold (Hammer)") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Pupa"
+msgstr ""
+
+# if (select("Thief Bug", "PecoPeco", "Pupa", "Kobold (Hammer)") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Kobold (Hammer)"
+msgstr ""
+
+# mes "2. Which of the following is the easiest monster for a low level Mage to hunt?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "2. Which of the following is the easiest monster for a low level Mage to hunt?"
+msgstr ""
+
+# if (select("Flora", "Giearth", "Golem", "Myst") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Flora"
+msgstr ""
+
+# if (select("Flora", "Giearth", "Golem", "Myst") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Giearth"
+msgstr ""
+
+# if (select("Flora", "Giearth", "Golem", "Myst") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Golem"
+msgstr ""
+
+# if (select("Flora", "Giearth", "Golem", "Myst") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Myst"
+msgstr ""
+
+# mes "3. Which monster will not be affected by Stone Curse?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "3. Which monster will not be affected by Stone Curse?"
+msgstr ""
+
+# if (select("Elder Willow", "Evil Druid", "Magnolia", "Marc") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Elder Willow"
+msgstr ""
+
+# if (select("Elder Willow", "Evil Druid", "Magnolia", "Marc") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Evil Druid"
+msgstr ""
+
+# if (select("Elder Willow", "Evil Druid", "Magnolia", "Marc") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Magnolia"
+msgstr ""
+
+# if (select("Elder Willow", "Evil Druid", "Magnolia", "Marc") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Marc"
+msgstr ""
+
+# mes "4. When attacking a Lv 3 water attribute monster with a wind attribute weapon, what is the damage percentage?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "4. When attacking a Lv 3 water attribute monster with a wind attribute weapon, what is the damage percentage?"
+msgstr ""
+
+# if (select("125%", "150%", "175%", "200%") == 4)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "125%"
+msgstr ""
+
+# if (select("125%", "150%", "175%", "200%") == 4)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "150%"
+msgstr ""
+
+# if (select("125%", "150%", "175%", "200%") == 4)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "175%"
+msgstr ""
+
+# if (select("125%", "150%", "175%", "200%") == 4)
+#: npc/jobs/2-1/wizard.txt
+#, no-c-format
+msgctxt "Gloomy Wizard"
+msgid "200%"
+msgstr ""
+
+# mes "5. If a Baby Desert Wolf and a Familiar fought, which one would win?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "5. If a Baby Desert Wolf and a Familiar fought, which one would win?"
+msgstr ""
+
+# if (select("Baby Desert Wolf", "Familiar", "Neither", "I don't know") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Baby Desert Wolf"
+msgstr ""
+
+# if (select("Baby Desert Wolf", "Familiar", "Neither", "I don't know") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Familiar"
+msgstr ""
+
+# if (select("Baby Desert Wolf", "Familiar", "Neither", "I don't know") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Neither"
+msgstr ""
+
+# if (select("Baby Desert Wolf", "Familiar", "Neither", "I don't know") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I don't know"
+msgstr ""
+
+# mes "6. Which of the following cannot be a Cute Pet?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "6. Which of the following cannot be a Cute Pet?"
+msgstr ""
+
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Poporing"
+msgstr ""
+
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Roda Frog"
+msgstr ""
+
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Smokie"
+msgstr ""
+
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Poison Spore"
+msgstr ""
+
+# mes "7. Choose the monster that is weak against a fire attribute attack.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "7. Choose the monster that is weak against a fire attribute attack."
+msgstr ""
+
+# if (select("Dagger Goblin", "Mace Goblin", "Morningstar Goblin", "Hammer Goblin") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Dagger Goblin"
+msgstr ""
+
+# if (select("Dagger Goblin", "Mace Goblin", "Morningstar Goblin", "Hammer Goblin") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Mace Goblin"
+msgstr ""
+
+# if (select("Dagger Goblin", "Mace Goblin", "Morningstar Goblin", "Hammer Goblin") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Morningstar Goblin"
+msgstr ""
+
+# if (select("Dagger Goblin", "Mace Goblin", "Morningstar Goblin", "Hammer Goblin") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hammer Goblin"
+msgstr ""
+
+# mes "8. Which of the following has the highest defense?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "8. Which of the following has the highest defense?"
+msgstr ""
+
+# if (select("Horn", "Chonchon", "Andre", "Caramel") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Horn"
+msgstr ""
+
+# if (select("Horn", "Chonchon", "Andre", "Caramel") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Chonchon"
+msgstr ""
+
+# if (select("Horn", "Chonchon", "Andre", "Caramel") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Andre"
+msgstr ""
+
+# if (select("Horn", "Chonchon", "Andre", "Caramel") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Caramel"
+msgstr ""
+
+# mes "9. Choose the monster that's of a different species.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "9. Choose the monster that's of a different species."
+msgstr ""
+
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Poring"
+msgstr ""
+
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Mastering"
+msgstr ""
+
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Ghostring"
+msgstr ""
+
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Spore"
+msgstr ""
+
+# mes "10. Which of the following is not an Undead monster?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "10. Which of the following is not an Undead monster?"
+msgstr ""
+
+# if (select("Drake", "Megalodon", "Deviace", "Khalitzburg") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Drake"
+msgstr ""
+
+# if (select("Drake", "Megalodon", "Deviace", "Khalitzburg") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Megalodon"
+msgstr ""
+
+# if (select("Drake", "Megalodon", "Deviace", "Khalitzburg") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Deviace"
+msgstr ""
+
+# if (select("Drake", "Megalodon", "Deviace", "Khalitzburg") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Khalitzburg"
+msgstr ""
+
+# mes "1. Which stat is the most important for a Mage?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "1. Which stat is the most important for a Mage?"
+msgstr ""
+
+# if (select("INT", "AGI", "DEX", "VIT") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "INT"
+msgstr ""
+
+# if (select("INT", "AGI", "DEX", "VIT") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "AGI"
+msgstr ""
+
+# if (select("INT", "AGI", "DEX", "VIT") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "DEX"
+msgstr ""
+
+# if (select("INT", "AGI", "DEX", "VIT") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "VIT"
+msgstr ""
+
+# mes "2. Which attribute does not have a 'Bolt' type attack?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "2. Which attribute does not have a 'Bolt' type attack?"
+msgstr ""
+
+# mes "3. Choose the one that does not relate to a Mage.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "3. Choose the one that does not relate to a Mage."
+msgstr ""
+
+# if (select("Weak physical strength.", "Attacks at a distance.", "Good at selling stuff.", "Magic Defense is high.") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Weak physical strength."
+msgstr ""
+
+# if (select("Weak physical strength.", "Attacks at a distance.", "Good at selling stuff.", "Magic Defense is high.") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Attacks at a distance."
+msgstr ""
+
+# if (select("Weak physical strength.", "Attacks at a distance.", "Good at selling stuff.", "Magic Defense is high.") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Good at selling stuff."
+msgstr ""
+
+# if (select("Weak physical strength.", "Attacks at a distance.", "Good at selling stuff.", "Magic Defense is high.") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Magic Defense is high."
+msgstr ""
+
+# mes "4. Which town is the home of Mages?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "4. Which town is the home of Mages?"
+msgstr ""
+
+# if (select("Prontera", "Morroc", "Alberta", "Geffen") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Prontera"
+msgstr ""
+
+# if (select("Prontera", "Morroc", "Alberta", "Geffen") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Morroc"
+msgstr ""
+
+# if (select("Prontera", "Morroc", "Alberta", "Geffen") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Alberta"
+msgstr ""
+
+# if (select("Prontera", "Morroc", "Alberta", "Geffen") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Geffen"
+msgstr ""
+
+# mes "5. Which of the following cards has nothing to do with INT?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "5. Which of the following cards has nothing to do with INT?"
+msgstr ""
+
+# if (select("Andre Egg Card", "Soldier Andre Card", "Baby Desert Wolf Card", "Elder Willow Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Andre Egg Card"
+msgstr ""
+
+# if (select("Andre Egg Card", "Soldier Andre Card", "Baby Desert Wolf Card", "Elder Willow Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Soldier Andre Card"
+msgstr ""
+
+# if (select("Andre Egg Card", "Soldier Andre Card", "Baby Desert Wolf Card", "Elder Willow Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Baby Desert Wolf Card"
+msgstr ""
+
+# if (select("Andre Egg Card", "Soldier Andre Card", "Baby Desert Wolf Card", "Elder Willow Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Elder Willow Card"
+msgstr ""
+
+# mes "6. What is the Mage good at compared to other job classes?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "6. What is the Mage good at compared to other job classes?"
+msgstr ""
+
+# if (select("Exceptional Vocal Ability", "Exceptional Acting Ability", "Exceptional Dance Skills", "Exceptional Magic Skills") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Exceptional Vocal Ability"
+msgstr ""
+
+# if (select("Exceptional Vocal Ability", "Exceptional Acting Ability", "Exceptional Dance Skills", "Exceptional Magic Skills") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Exceptional Acting Ability"
+msgstr ""
+
+# if (select("Exceptional Vocal Ability", "Exceptional Acting Ability", "Exceptional Dance Skills", "Exceptional Magic Skills") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Exceptional Dance Skills"
+msgstr ""
+
+# if (select("Exceptional Vocal Ability", "Exceptional Acting Ability", "Exceptional Dance Skills", "Exceptional Magic Skills") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Exceptional Magic Skills"
+msgstr ""
+
+# mes "7. What is the INT bonus at Job Lv 40 for a Mage?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "7. What is the INT bonus at Job Lv 40 for a Mage?"
+msgstr ""
+
+# if (select("8", "7", "6", "5") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "8"
+msgstr ""
+
+# if (select("8", "7", "6", "5") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "7"
+msgstr ""
+
+# if (select("8", "7", "6", "5") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "6"
+msgstr ""
+
+# if (select("8", "7", "6", "5") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "5"
+msgstr ""
+
+# mes "8. Which item can a Mage not equip?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "8. Which item can a Mage not equip?"
+msgstr ""
+
+# if (select("Knife", "Boys Cap", "Sandle", "Eye of Dullahan") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Knife"
+msgstr ""
+
+# if (select("Knife", "Boys Cap", "Sandle", "Eye of Dullahan") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Boys Cap"
+msgstr ""
+
+# if (select("Knife", "Boys Cap", "Sandle", "Eye of Dullahan") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Sandle"
+msgstr ""
+
+# if (select("Knife", "Boys Cap", "Sandle", "Eye of Dullahan") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Eye of Dullahan"
+msgstr ""
+
+# mes "9. Which of the following is the catalyst when making the Mage test solution 3?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "9. Which of the following is the catalyst when making the Mage test solution 3?"
+msgstr ""
+
+# mes "10. Which card is irrelevant to magic?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "10. Which card is irrelevant to magic?"
+msgstr ""
+
+# if (select("Marduk Card", "Magnolia Card", "Willow Card", "Maya Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Marduk Card"
+msgstr ""
+
+# if (select("Marduk Card", "Magnolia Card", "Willow Card", "Maya Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Magnolia Card"
+msgstr ""
+
+# if (select("Marduk Card", "Magnolia Card", "Willow Card", "Maya Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Willow Card"
+msgstr ""
+
+# if (select("Marduk Card", "Magnolia Card", "Willow Card", "Maya Card") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Maya Card"
+msgstr ""
+
+# mes "Good job, you finished answered all the questions... Go buy yourself some potions or something if you have the Zeny. Haha...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Good job, you finished answered all the questions... Go buy yourself some potions or something if you have the Zeny. Haha..."
+msgstr ""
+
+# mes "Your score is... " + .@wizard_t + "points.....";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Your score is... "
+msgstr ""
+
+# mes "Your score is... " + .@wizard_t + "points.....";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "points....."
+msgstr ""
+
+# mes "Hahahahahahah~ Well done, you passed the second test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahahahahah~ Well done, you passed the second test."
+msgstr ""
+
+# mes "It wasn't done in one try like mine was, but I'll let you slide...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "It wasn't done in one try like mine was, but I'll let you slide..."
+msgstr ""
+
+# mes "*sneeze* Don't relax just yet, there's still the matter of the third and final test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* Don't relax just yet, there's still the matter of the third and final test."
+msgstr ""
+
+# mes "I advise you to rest a bit while the final test is prepared. Your gonna need it. Hahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I advise you to rest a bit while the final test is prepared. Your gonna need it. Hahahahaha~"
+msgstr ""
+
+# mes "Hahaha~ Since you only missed one problem, you passed the second test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahaha~ Since you only missed one problem, you passed the second test."
+msgstr ""
+
+# mes "Sheez... You didn't do very well, but you passed the second test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Sheez... You didn't do very well, but you passed the second test."
+msgstr ""
+
+# mes "You failed. Go study some more!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You failed. Go study some more!"
+msgstr ""
+
+# mes "*cough* *cough* Did you really think you could become a Wizard with such a mediocre level like yours?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*cough* *cough* Did you really think you could become a Wizard with such a mediocre level like yours?"
+msgstr ""
+
+# mes "Get lost! If you were a Wizard right now, the monsters that I fight, would eat you up in no time!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Get lost! If you were a Wizard right now, the monsters that I fight, would eat you up in no time!"
+msgstr ""
+
+# mes "Hmmm...Good job, you finished answering all the questions, go buy yourself some potions or something, thats IF you have the Zeny. Hahahahahahahah~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hmmm...Good job, you finished answering all the questions, go buy yourself some potions or something, thats IF you have the Zeny. Hahahahahahahah~"
+msgstr ""
+
+# mes "Your score is... " + .@wizard_t + " points!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid " points!"
+msgstr ""
+
+# mes "*cough* *Cough* Well done, you passed the second test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*cough* *Cough* Well done, you passed the second test."
+msgstr ""
+
+# mes "Hahahaha~ Don't relax just yet, there's still the third test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahaha~ Don't relax just yet, there's still the third test."
+msgstr ""
+
+# mes "*sneeze* I advise you to rest a bit while the final test is prepared...Hahahahah~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* I advise you to rest a bit while the final test is prepared...Hahahahah~"
+msgstr ""
+
+# mes "Hahahaha~ I'll let you slide by since you only missed one problem. You passed the second test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahaha~ I'll let you slide by since you only missed one problem. You passed the second test."
+msgstr ""
+
+# mes "You failed. I will let you come back again...after you've learned more relating to the type of questions I've asked you.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You failed. I will let you come back again...after you've learned more relating to the type of questions I've asked you."
+msgstr ""
+
+# mes "Tisk...not enough, not enough! Did you really think you could become a Wizard with the little bit of knowledge you have?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Tisk...not enough, not enough! Did you really think you could become a Wizard with the little bit of knowledge you have?"
+msgstr ""
+
+# mes "Get lost! If you were a Wizard right now, the monsters I deal with would eat you up in no time!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Get lost! If you were a Wizard right now, the monsters I deal with would eat you up in no time!"
+msgstr ""
+
+# mes "Ok, hope you got plenty of rest. Hahahahahah~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Ok, hope you got plenty of rest. Hahahahahah~"
+msgstr ""
+
+# mes "Then let's begin the last test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Then let's begin the last test."
+msgstr ""
+
+# mes "Should I explain a little about this final test? It is difficult, I will not hide that from you...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Should I explain a little about this final test? It is difficult, I will not hide that from you..."
+msgstr ""
+
+# if (select("No, it's ok, I'm ready.", "I would like to listen.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "No, it's ok, I'm ready."
+msgstr ""
+
+# if (select("No, it's ok, I'm ready.", "I would like to listen.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I would like to listen."
+msgstr ""
+
+# mes "What a rash person. Your the type that rushes into battle without thinking, what in the world are you doing here instead of with the Prontera Chivalry? Heck, go for it! *cough* Not my fault if you end up dying.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "What a rash person. Your the type that rushes into battle without thinking, what in the world are you doing here instead of with the Prontera Chivalry? Heck, go for it! *cough* Not my fault if you end up dying."
+msgstr ""
+
+# mes "Just consider yourself a glass cannon...because the monsters are going to break you into pieces. Hahahahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Just consider yourself a glass cannon...because the monsters are going to break you into pieces. Hahahahahahahahaha~"
+msgstr ""
+
+# mes "Then, as you wish. I'll send you there right now.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Then, as you wish. I'll send you there right now."
+msgstr ""
+
+# mes "Oh, if you see a white light at the end of a tunnel, that means your pathetic cause you failed! Hahahahahah~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Oh, if you see a white light at the end of a tunnel, that means your pathetic cause you failed! Hahahahahah~"
+msgstr ""
+
+# mes "What a devoted person. Very well, I'll explain.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "What a devoted person. Very well, I'll explain."
+msgstr ""
+
+# mes "No matter how hard this last test may seem, if you do as I say, you can finish it quickly and easily.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "No matter how hard this last test may seem, if you do as I say, you can finish it quickly and easily."
+msgstr ""
+
+# mes "The final test has a total of 3 parts.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "The final test has a total of 3 parts."
+msgstr ""
+
+# mes "The order is Water Room, Earth Room, Fire Room. In each room, there are monsters of that particular attribute.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "The order is Water Room, Earth Room, Fire Room. In each room, there are monsters of that particular attribute."
+msgstr ""
+
+# mes "You'll find out what monsters will be there once you go in. If you use attacks with the *sneeze*";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You'll find out what monsters will be there once you go in. If you use attacks with the *sneeze*"
+msgstr ""
+
+# mes "right attribute, it shouldn't be too hard. Hahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "right attribute, it shouldn't be too hard. Hahaha~"
+msgstr ""
+
+# mes "Once you defeat all the monsters within the given time in any one room...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Once you defeat all the monsters within the given time in any one room..."
+msgstr ""
+
+# mes "you'll be moved to the next room.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "you'll be moved to the next room."
+msgstr ""
+
+# mes "After these three rooms are clear, the testing is over.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "After these three rooms are clear, the testing is over."
+msgstr ""
+
+# mes "You will become a Wizard which is controlled by Greater Magic Powers! Know this...There is no returning to an easy life.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You will become a Wizard which is controlled by Greater Magic Powers! Know this...There is no returning to an easy life."
+msgstr ""
+
+# mes "Hahaha~ You look frightened. You know, it's not too late to turn back and live an easy life.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahaha~ You look frightened. You know, it's not too late to turn back and live an easy life."
+msgstr ""
+
+# mes "If you want, I can send you back to town right now... What do you want to do?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you want, I can send you back to town right now... What do you want to do?"
+msgstr ""
+
+# if (select("Continue testing.", "I want to go back because I have butterflies in my stomach.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Continue testing."
+msgstr ""
+
+# if (select("Continue testing.", "I want to go back because I have butterflies in my stomach.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I want to go back because I have butterflies in my stomach."
+msgstr ""
+
+# mes "You are indeed, very determined. Ok! Hahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You are indeed, very determined. Ok! Hahahahahaha~"
+msgstr ""
+
+# mes "*Cough* *cough* As you wish, we shall begin the final test!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough* As you wish, we shall begin the final test!"
+msgstr ""
+
+# mes "Good thinking. This is a better choice for you. Hahahahah~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Good thinking. This is a better choice for you. Hahahahah~"
+msgstr ""
+
+# mes "Go back and live a easy life, Greater Magic is a force that should not be wield by types like yourself.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Go back and live a easy life, Greater Magic is a force that should not be wield by types like yourself."
+msgstr ""
+
+# mes "Hahahahahaha~ I've never seen anyone so...sooo...*sneeze* tenacious as you.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahahahaha~ I've never seen anyone so...sooo...*sneeze* tenacious as you."
+msgstr ""
+
+# mes "So you want to try again eh? Even though I've ridiculed you for your failures before??";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "So you want to try again eh? Even though I've ridiculed you for your failures before??"
+msgstr ""
+
+# mes "Ok then, here's a proposition. Since you're probably worn out as it is, and I can clearly see the lust for Greater Magic burning in your eyes...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Ok then, here's a proposition. Since you're probably worn out as it is, and I can clearly see the lust for Greater Magic burning in your eyes..."
+msgstr ""
+
+# mes "Hahahahaha~ yeah! Go bring me a ^3355FFWorn Out Scroll^000000.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahahaha~ yeah! Go bring me a ^3355FFWorn Out Scroll^000000."
+msgstr ""
+
+# mes "If not, you can take the test again...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If not, you can take the test again..."
+msgstr ""
+
+# mes "Well, I'll send you to take the test for now. Hahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Well, I'll send you to take the test for now. Hahahaha~"
+msgstr ""
+
+# mes "Oh! So you're back? Hahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Oh! So you're back? Hahahahaha~"
+msgstr ""
+
+# mes "*Cough* Cough* Do you want to take the test again? Or did you bring the ^3355FFWorn Out Scroll^000000?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* Cough* Do you want to take the test again? Or did you bring the ^3355FFWorn Out Scroll^000000?"
+msgstr ""
+
+# if (select("Continue the test.", "Worn Out Scroll...") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Continue the test."
+msgstr ""
+
+# if (select("Continue the test.", "Worn Out Scroll...") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Worn Out Scroll..."
+msgstr ""
+
+# mes "Hahaha~ Ok, at least you have some spirit.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahaha~ Ok, at least you have some spirit."
+msgstr ""
+
+# mes "I'll send you in again, try dying once more will yah? Hahahahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I'll send you in again, try dying once more will yah? Hahahahahahahahaha~"
+msgstr ""
+
+# mes "Hahahahahahahaha~ *Cough* *cough* So you ended up bringing one of these eh? Good job...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahahahahahaha~ *Cough* *cough* So you ended up bringing one of these eh? Good job..."
+msgstr ""
+
+# mes "I think I can continue my research with this...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I think I can continue my research with this..."
+msgstr ""
+
+# mes "Even though your not Grade A Wizard material, I can tell your serious about wanting the Greater Magic. I'll tell Catherine that you passed. Hahahahahahahahah~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Even though your not Grade A Wizard material, I can tell your serious about wanting the Greater Magic. I'll tell Catherine that you passed. Hahahahahahahahah~"
+msgstr ""
+
+# mes "You went through a lot of trouble here, and that is the true purpose for us selecting Wizards. Only those who will devote themselves to the art will ever become Wizards. Good luck to you. Become much Stronger. Hahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You went through a lot of trouble here, and that is the true purpose for us selecting Wizards. Only those who will devote themselves to the art will ever become Wizards. Good luck to you. Become much Stronger. Hahahahahaha~"
+msgstr ""
+
+# mes "*sneeze* What? You want to take the test again?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*sneeze* What? You want to take the test again?"
+msgstr ""
+
+# mes "Geez...you already failed the battle test! Hahahahahahahaha~ So you like magic that much, eh?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Geez...you already failed the battle test! Hahahahahahahaha~ So you like magic that much, eh?"
+msgstr ""
+
+# mes "Since your so weak that you can't finish this final test on your own...you need a separate test to help you out.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Since your so weak that you can't finish this final test on your own...you need a separate test to help you out."
+msgstr ""
+
+# mes "*Cough* If you can't pass the battle test, then do a good job with this one. Hahahahahahah~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* If you can't pass the battle test, then do a good job with this one. Hahahahahahah~"
+msgstr ""
+
+# mes "Well, you better answer these problems if you plan on becoming a Wizard. Hahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Well, you better answer these problems if you plan on becoming a Wizard. Hahahahahahaha~"
+msgstr ""
+
+# mes "1. Choose the monster with a different attribute than the others.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "1. Choose the monster with a different attribute than the others."
+msgstr ""
+
+# if (select("Mantis", "Cornutus", "Giearth", "Caramel") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Mantis"
+msgstr ""
+
+# if (select("Mantis", "Cornutus", "Giearth", "Caramel") == 2)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Cornutus"
+msgstr ""
+
+# mes "2. Choose the monster that is not a looting one.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "2. Choose the monster that is not a looting one."
+msgstr ""
+
+# if (select("Yoyo", "Magnolia", "Metaller", "Zerom") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Yoyo"
+msgstr ""
+
+# if (select("Yoyo", "Magnolia", "Metaller", "Zerom") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Metaller"
+msgstr ""
+
+# if (select("Yoyo", "Magnolia", "Metaller", "Zerom") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Zerom"
+msgstr ""
+
+# mes "3. Which of these monsters does not recognize casting?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "3. Which of these monsters does not recognize casting?"
+msgstr ""
+
+# if (select("Marina", "Vitata", "Scorpion", "Giearth") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Marina"
+msgstr ""
+
+# if (select("Marina", "Vitata", "Scorpion", "Giearth") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Vitata"
+msgstr ""
+
+# if (select("Marina", "Vitata", "Scorpion", "Giearth") == 1)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Scorpion"
+msgstr ""
+
+# mes "4. Choose the spell that would be efficient against a Marine Sphere.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "4. Choose the spell that would be efficient against a Marine Sphere."
+msgstr ""
+
+# if (select("Cold Bolt", "Fire Bolt", "Lightning Bolt", "Stone Curse") == 3)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Stone Curse"
+msgstr ""
+
+# mes "5. Choose the monster that can move.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "5. Choose the monster that can move."
+msgstr ""
+
+# if (select("Hydra", "Madragora", "Greatest General", "Frilldora") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hydra"
+msgstr ""
+
+# if (select("Hydra", "Madragora", "Greatest General", "Frilldora") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Madragora"
+msgstr ""
+
+# if (select("Hydra", "Madragora", "Greatest General", "Frilldora") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Greatest General"
+msgstr ""
+
+# if (select("Hydra", "Madragora", "Greatest General", "Frilldora") == 4)
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Frilldora"
+msgstr ""
+
+# mes "*pfft* Do it right, so I don't have to ask again.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*pfft* Do it right, so I don't have to ask again."
+msgstr ""
+
+# mes "You got " + .@wizard_t + " points.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You got "
+msgstr ""
+
+# mes "You got " + .@wizard_t + " points.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid " points."
+msgstr ""
+
+# mes "Hahahahahaha~ *Cough* *cough* If you can answer all these questions correctly, how is it you can't do well in battles??";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahahahaha~ *Cough* *cough* If you can answer all these questions correctly, how is it you can't do well in battles??"
+msgstr ""
+
+# mes "Eh, soso...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Eh, soso..."
+msgstr ""
+
+# mes "I'll let you retake the test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I'll let you retake the test."
+msgstr ""
+
+# mes "You failed! Go study some more!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You failed! Go study some more!"
+msgstr ""
+
+# mes "You lack something...*sneez*...like intelligence. That's why you keep on failing. Hahahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You lack something...*sneez*...like intelligence. That's why you keep on failing. Hahahahahahahaha~"
+msgstr ""
+
+# if (select("Begin the test please.", "Can I get another explanation?") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Begin the test please."
+msgstr ""
+
+# if (select("Begin the test please.", "Can I get another explanation?") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Can I get another explanation?"
+msgstr ""
+
+# mes "Nobody is going to help you become a Wizard. Hahahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Nobody is going to help you become a Wizard. Hahahahahahahaha~"
+msgstr ""
+
+# mes "*Cough* *cough* No point in crying after dying...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough* No point in crying after dying..."
+msgstr ""
+
+# mes "Then, as you wish. I'll send you to fight.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Then, as you wish. I'll send you to fight."
+msgstr ""
+
+# mes "Oh! If you see some tall pearly gates and hear a booming deep voice from behind it, that means that your a failure when it comes to Magic. Hahahahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Oh! If you see some tall pearly gates and hear a booming deep voice from behind it, that means that your a failure when it comes to Magic. Hahahahahahahahaha~"
+msgstr ""
+
+# mes "*Cough* *cough* Then I shall explain.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough* Then I shall explain."
+msgstr ""
+
+# mes "The test may be hard, but just do as I tell you and it shouldn't be a problem.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "The test may be hard, but just do as I tell you and it shouldn't be a problem."
+msgstr ""
+
+# mes "There are 3 parts to this final test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "There are 3 parts to this final test."
+msgstr ""
+
+# mes "The order is...*sneez*...the Water Room, Earth Room, and then the Fire Room. Each room has monsters of that attribute in it.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "The order is...*sneez*...the Water Room, Earth Room, and then the Fire Room. Each room has monsters of that attribute in it."
+msgstr ""
+
+# mes "You'll see what monsters they are when you enter.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You'll see what monsters they are when you enter."
+msgstr ""
+
+# mes "If you use the appropriate spells against them, it shouldn't be that difficult. Hahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "If you use the appropriate spells against them, it shouldn't be that difficult. Hahahahahahaha~"
+msgstr ""
+
+# mes "Within the given time, if you defeat all the monsters...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Within the given time, if you defeat all the monsters..."
+msgstr ""
+
+# mes "you will be sent to the next room.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "you will be sent to the next room."
+msgstr ""
+
+# mes "After that, the test is over.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "After that, the test is over."
+msgstr ""
+
+# mes "You will then become a Wizard controlled by Greater Magic powers! There is no coming back to the easy life you have known thus far.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You will then become a Wizard controlled by Greater Magic powers! There is no coming back to the easy life you have known thus far."
+msgstr ""
+
+# mes "Hahahahaha~ You look frightened. It's not too late you know.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Hahahahaha~ You look frightened. It's not too late you know."
+msgstr ""
+
+# mes "*Cough* *cough* You can give up and go back to town! Just forget about the Greater Magic and live a normal life. What do yah say?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "*Cough* *cough* You can give up and go back to town! Just forget about the Greater Magic and live a normal life. What do yah say?"
+msgstr ""
+
+# if (select("Continue with the test.", "I'm too scared, I would like to quit.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Continue with the test."
+msgstr ""
+
+# if (select("Continue with the test.", "I'm too scared, I would like to quit.") == 1) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "I'm too scared, I would like to quit."
+msgstr ""
+
+# mes "This time when you die, don't come back crying. Hahahahahahahahah~ *Cough *cough*";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "This time when you die, don't come back crying. Hahahahahahahahah~ *Cough *cough*"
+msgstr ""
+
+# mes "As you wish, let's begin the final test!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "As you wish, let's begin the final test!"
+msgstr ""
+
+# mes "Comming from you, thats some darn good thinking. That's more a fit for you anyways. Hahahahahahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Comming from you, thats some darn good thinking. That's more a fit for you anyways. Hahahahahahahahaha~"
+msgstr ""
+
+# mes "Go back and live a quiet and peaceful life!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Go back and live a quiet and peaceful life!"
+msgstr ""
+
+# mes "You shouldn't have any more business with me as far as I'm concerned.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "You shouldn't have any more business with me as far as I'm concerned."
+msgstr ""
+
+# mes "But, since your so darned persistent, I'll let you take the test again. Hahahahaha~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "But, since your so darned persistent, I'll let you take the test again. Hahahahaha~"
+msgstr ""
+
+# mes "Go! Go and become the Wizard you really want to be.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "Go! Go and become the Wizard you really want to be."
+msgstr ""
+
+# mes "And be careful! Greater Magic will always be after you...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Gloomy Wizard"
+msgid "And be careful! Greater Magic will always be after you..."
+msgstr ""
+
+# mes "[Arena Assistant]";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Arena Assistant"
+msgid "[Arena Assistant]"
+msgstr ""
+
+# mes "Welcome to the Wizard Job Change Arena.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Arena Assistant"
+msgid "Welcome to the Wizard Job Change Arena."
+msgstr ""
+
+# mes "If you would like to take the final test, then please enter the waiting room.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Arena Assistant"
+msgid "If you would like to take the final test, then please enter the waiting room."
+msgstr ""
+
+# mes "If someone is already taking the test, please wait.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Arena Assistant"
+msgid "If someone is already taking the test, please wait."
+msgstr ""
+
+# mes "All testing status will be broadcasted, and will begin as soon as the previous tester has gone through.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Arena Assistant"
+msgid "All testing status will be broadcasted, and will begin as soon as the previous tester has gone through."
+msgstr ""
+
+# mes "Each person may take approximately 5 to 10 minutes.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Arena Assistant"
+msgid "Each person may take approximately 5 to 10 minutes."
+msgstr ""
+
+# mes "If you would like to leave the arena, please log off anytime.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "Arena Assistant"
+msgid "If you would like to leave the arena, please log off anytime."
+msgstr ""
+
+# mes "[Maria]";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "[Maria]"
+msgstr ""
+
+# mes "Instead of sticking around here, wouldn't it be better to go out and test how strong you've become?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Instead of sticking around here, wouldn't it be better to go out and test how strong you've become?"
+msgstr ""
+
+# mes "Don't forget that Wizards grow and improve in power each and every day.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Don't forget that Wizards grow and improve in power each and every day."
+msgstr ""
+
+# mes "[Dog]";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "[Dog]"
+msgstr ""
+
+# mes "What? Kiddo!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "What? Kiddo!"
+msgstr ""
+
+# mes "Is a Dog talking so amusing to you?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Is a Dog talking so amusing to you?"
+msgstr ""
+
+# mes "Sheesh...Why would a person that can't even cast a spell a single spell come up here?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Sheesh...Why would a person that can't even cast a spell a single spell come up here?"
+msgstr ""
+
+# mes "*Pfft* If you're that bored, do the world a favor and climb to the top of this building via the outside, then proceed to do some acrobatics if you get there.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*Pfft* If you're that bored, do the world a favor and climb to the top of this building via the outside, then proceed to do some acrobatics if you get there."
+msgstr ""
+
+# mes "*Bark* Get lost!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*Bark* Get lost!"
+msgstr ""
+
+# mes "I don't have time for people like you!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "I don't have time for people like you!"
+msgstr ""
+
+# mes "Ah...I know what you're about to say. You want to change jobs to a Wizard, right?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Ah...I know what you're about to say. You want to change jobs to a Wizard, right?"
+msgstr ""
+
+# mes "Go talk to Catherine. She'll help you.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Go talk to Catherine. She'll help you."
+msgstr ""
+
+# mes "Also, if you would like to know anything about the job change process, I can explain.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Also, if you would like to know anything about the job change process, I can explain."
+msgstr ""
+
+# switch(select(".......", "A Dog is talking to me...")) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "......."
+msgstr ""
+
+# switch(select(".......", "A Dog is talking to me...")) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "A Dog is talking to me..."
+msgstr ""
+
+# mes "...*bark*...? What is it?? Why are you looking at me like that?!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "...*bark*...? What is it?? Why are you looking at me like that?!"
+msgstr ""
+
+# mes "Is it your first time seeing a Dog talk?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Is it your first time seeing a Dog talk?"
+msgstr ""
+
+# mes "*Bark* It's not common that you see a Dog talking I suppose. bark~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*Bark* It's not common that you see a Dog talking I suppose. bark~"
+msgstr ""
+
+# mes "...Yes i suppose it is a rare site...*grrr*...Stop Gawking for goodness sakes!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "...Yes i suppose it is a rare site...*grrr*...Stop Gawking for goodness sakes!"
+msgstr ""
+
+# mes "My name is 'Maria Splodofska'. Just call me 'Maria'.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "My name is 'Maria Splodofska'. Just call me 'Maria'."
+msgstr ""
+
+# mes "I'm helping candidates that wish to become Wizards.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "I'm helping candidates that wish to become Wizards."
+msgstr ""
+
+# mes "*Bark* Well, the reason I became a dog is...I was helping my boyfriend in experimenting to prepare for his Final for his Magic Degree. Well, *Grrrr* he accidentally turned me into a dog.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*Bark* Well, the reason I became a dog is...I was helping my boyfriend in experimenting to prepare for his Final for his Magic Degree. Well, *Grrrr* he accidentally turned me into a dog."
+msgstr ""
+
+# mes "Theoretically, in a couple months the chemicals should wear off and I should be returned to normal. When exactly, I have no idea?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Theoretically, in a couple months the chemicals should wear off and I should be returned to normal. When exactly, I have no idea?"
+msgstr ""
+
+# mes "Well...it doesn't concern you anyways.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Well...it doesn't concern you anyways."
+msgstr ""
+
+# mes "Now, where were we.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Now, where were we."
+msgstr ""
+
+# mes "*Bark* *bark* *bark* Don't state the obvious! Alright, I know I'm a dog!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*Bark* *bark* *bark* Don't state the obvious! Alright, I know I'm a dog!"
+msgstr ""
+
+# mes "My name is 'Maria Splodofska'. People call me 'Maria'.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "My name is 'Maria Splodofska'. People call me 'Maria'."
+msgstr ""
+
+# mes "I'm helping little ones like you that wish to become Wizards.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "I'm helping little ones like you that wish to become Wizards."
+msgstr ""
+
+# mes "[Dog called 'Maria']";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "[Dog called 'Maria']"
+msgstr ""
+
+# mes "The reason I became a dog is...My boyfriend that was experimenting to prepare for the Magic Degree, accidentally turned me into a dog.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "The reason I became a dog is...My boyfriend that was experimenting to prepare for the Magic Degree, accidentally turned me into a dog."
+msgstr ""
+
+# mes "Theoretically, in a couple months, the chemicals should wear off and I should be returned to normal. Exactly when, I have no idea?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Theoretically, in a couple months, the chemicals should wear off and I should be returned to normal. Exactly when, I have no idea?"
+msgstr ""
+
+# mes "I'm not a 'dog' called 'Maria'!! Oi!! Listen to me!!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "I'm not a 'dog' called 'Maria'!! Oi!! Listen to me!!"
+msgstr ""
+
+# mes "[Dog... 'Maria'...]";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "[Dog... 'Maria'...]"
+msgstr ""
+
+# mes "..........";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid ".........."
+msgstr ""
+
+# mes "...*BARK* *BARK* *BARK*... I'm upset, but whatever!! You seem busy so I'll just drop it.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "...*BARK* *BARK* *BARK*... I'm upset, but whatever!! You seem busy so I'll just drop it."
+msgstr ""
+
+# mes "Like I said before, to change jobs, talk to Catherine.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Like I said before, to change jobs, talk to Catherine."
+msgstr ""
+
+# mes "She's a new Wizard too.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "She's a new Wizard too."
+msgstr ""
+
+# mes "I can tell you more about the job change process, but I can't hold back a busy person now can I?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "I can tell you more about the job change process, but I can't hold back a busy person now can I?"
+msgstr ""
+
+# mes "What do you think? Should I explain some about whats in store for Mages that wish to become Wizards?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "What do you think? Should I explain some about whats in store for Mages that wish to become Wizards?"
+msgstr ""
+
+# switch(select("Yes, please! I would like that.", "No, it's ok.", "A talking dog...")) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Yes, please! I would like that."
+msgstr ""
+
+# switch(select("Yes, please! I would like that.", "No, it's ok.", "A talking dog...")) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "No, it's ok."
+msgstr ""
+
+# switch(select("Yes, please! I would like that.", "No, it's ok.", "A talking dog...")) {
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "A talking dog..."
+msgstr ""
+
+# mes "OK, I will explain the process for you.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "OK, I will explain the process for you."
+msgstr ""
+
+# mes "There are three tests in the job change process.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "There are three tests in the job change process."
+msgstr ""
+
+# mes "The first test is collecting magic items.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "The first test is collecting magic items."
+msgstr ""
+
+# mes "That one begins when you submit an application to Catherine.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "That one begins when you submit an application to Catherine."
+msgstr ""
+
+# mes "She'll either tell you to collect all types of gemstones, or gather stones with attributes.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "She'll either tell you to collect all types of gemstones, or gather stones with attributes."
+msgstr ""
+
+# mes "Second test is a magic quiz,";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Second test is a magic quiz,"
+msgstr ""
+
+# mes "The gloomy Laurel in the corner is in charge of that part.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "The gloomy Laurel in the corner is in charge of that part."
+msgstr ""
+
+# mes "There are questions about magic, monsters, and Mages.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "There are questions about magic, monsters, and Mages."
+msgstr ""
+
+# mes "Out of the 10 questions, if you don't get them all correct, he doesn't let you pass. In other words, you fail...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Out of the 10 questions, if you don't get them all correct, he doesn't let you pass. In other words, you fail..."
+msgstr ""
+
+# mes "Oddly enough, He is in charge of the 3rd test too.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Oddly enough, He is in charge of the 3rd test too."
+msgstr ""
+
+# mes "The third test is eliminating monsters.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "The third test is eliminating monsters."
+msgstr ""
+
+# mes "In each room, there are monsters of certain attributes.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "In each room, there are monsters of certain attributes."
+msgstr ""
+
+# mes "You must attack them with the appropriate spells.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "You must attack them with the appropriate spells."
+msgstr ""
+
+# mes "Well, that's all that I can say. Go apply now.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Well, that's all that I can say. Go apply now."
+msgstr ""
+
+# mes "It's better to just try it yourself than to listen to my descriptions.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "It's better to just try it yourself than to listen to my descriptions."
+msgstr ""
+
+# mes "Really? Ok, then go apply and do your best.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Really? Ok, then go apply and do your best."
+msgstr ""
+
+# mes "I'm not a DOG!! HOOOOWWWWWWLLLLLLL~";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "I'm not a DOG!! HOOOOWWWWWWLLLLLLL~"
+msgstr ""
+
+# mes "Dang it! I hope you FAIL!! Go get lost!!";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Dang it! I hope you FAIL!! Go get lost!!"
+msgstr ""
+
+# mes "You seem lost...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "You seem lost..."
+msgstr ""
+
+# mes "You've applied, and now you're looking for the items right?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "You've applied, and now you're looking for the items right?"
+msgstr ""
+
+# mes "But since this is only the first test, don't depend on others.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "But since this is only the first test, don't depend on others."
+msgstr ""
+
+# mes "Complete it yourself. Thats the best way.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Complete it yourself. Thats the best way."
+msgstr ""
+
+# mes "From what I've heard, you have to gather gemstones...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "From what I've heard, you have to gather gemstones..."
+msgstr ""
+
+# mes "I can't help you directly, but I can give you some advice.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "I can't help you directly, but I can give you some advice."
+msgstr ""
+
+# mes "First, to get Red Gemstones, go to Culverts in Prontera.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "First, to get Red Gemstones, go to Culverts in Prontera."
+msgstr ""
+
+# mes "You can obtain them from the Thief Bugs and Thief Bug eggs found plentiful there.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "You can obtain them from the Thief Bugs and Thief Bug eggs found plentiful there."
+msgstr ""
+
+# mes "Yellow Gemstones are easy to find in the desert.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Yellow Gemstones are easy to find in the desert."
+msgstr ""
+
+# mes "Condors, Picky's, and sometimes monsters like Golem's drop them.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Condors, Picky's, and sometimes monsters like Golem's drop them."
+msgstr ""
+
+# mes "And...*woof* to get Blue Gemstones. Try going to the Byalan Dungeons.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "And...*woof* to get Blue Gemstones. Try going to the Byalan Dungeons."
+msgstr ""
+
+# mes "Cornutus, Vadon, and monsters like Mars can drop those Gems.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Cornutus, Vadon, and monsters like Mars can drop those Gems."
+msgstr ""
+
+# mes "Of course you can get blue Gemstones at the magic shop here in town...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Of course you can get blue Gemstones at the magic shop here in town..."
+msgstr ""
+
+# mes "But, finding them yourself would be much more rewarding and helpful later in the test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "But, finding them yourself would be much more rewarding and helpful later in the test."
+msgstr ""
+
+# mes "Anyways, try your best.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Anyways, try your best."
+msgstr ""
+
+# mes "This is the basics of being a Wizard.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "This is the basics of being a Wizard."
+msgstr ""
+
+# mes "But since this is only the first test, don't depend on others for help.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "But since this is only the first test, don't depend on others for help."
+msgstr ""
+
+# mes "Complete it yourself, thats the best way.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Complete it yourself, thats the best way."
+msgstr ""
+
+# mes "From what I've heard, you have to gather elemental stones...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "From what I've heard, you have to gather elemental stones..."
+msgstr ""
+
+# mes "Well, you can find the Crystal Blue in Byalan Dungeon.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Well, you can find the Crystal Blue in Byalan Dungeon."
+msgstr ""
+
+# mes "Cornutus, Kukre, Marina, Vadon...these monsters drop them frequently.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Cornutus, Kukre, Marina, Vadon...these monsters drop them frequently."
+msgstr ""
+
+# mes "You can get Green Live from insect type monsters.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "You can get Green Live from insect type monsters."
+msgstr ""
+
+# mes "Try hunting monsters like Horn, Mantis, or Vitata.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Try hunting monsters like Horn, Mantis, or Vitata."
+msgstr ""
+
+# mes "Oh and *woof*, Red Blood. I heard you can get a lot of those from...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Oh and *woof*, Red Blood. I heard you can get a lot of those from..."
+msgstr ""
+
+# mes "Elder Willows, Metallers or Scorpions found in the desert would work well too.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Elder Willows, Metallers or Scorpions found in the desert would work well too."
+msgstr ""
+
+# mes "For Wind of Verdue. Hornet, Stainer, Steel Chonchon.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "For Wind of Verdue. Hornet, Stainer, Steel Chonchon."
+msgstr ""
+
+# mes "If you try just a bit, you can get them really easily.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "If you try just a bit, you can get them really easily."
+msgstr ""
+
+# mes "But anyways, always try your best.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "But anyways, always try your best."
+msgstr ""
+
+# mes "It's the basics of being a Wizard.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "It's the basics of being a Wizard."
+msgstr ""
+
+# mes "Don't be too relieved just after the first test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Don't be too relieved just after the first test."
+msgstr ""
+
+# mes "Try your best, as you still have two more tests to go.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Try your best, as you still have two more tests to go."
+msgstr ""
+
+# mes "ZzzzZzzzZzzz...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "ZzzzZzzzZzzz..."
+msgstr ""
+
+# mes "*wimper*...Blizadris...you suck...Zzz...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*wimper*...Blizadris...you suck...Zzz..."
+msgstr ""
+
+# mes "Oh, you're doing well aren't you?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Oh, you're doing well aren't you?"
+msgstr ""
+
+# mes "Well, try your best to the very end.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Well, try your best to the very end."
+msgstr ""
+
+# mes "Laurel is waiting.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Laurel is waiting."
+msgstr ""
+
+# mes "*BARK*...you gave up?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*BARK*...you gave up?"
+msgstr ""
+
+# mes "*Sigh*...How can you become a Wizard with such a weak heart?";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*Sigh*...How can you become a Wizard with such a weak heart?"
+msgstr ""
+
+# mes "You know that each room has monsters of the same attribute...";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "You know that each room has monsters of the same attribute..."
+msgstr ""
+
+# mes "If you're a person that deals with magic, you need to know about the different spells.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "If you're a person that deals with magic, you need to know about the different spells."
+msgstr ""
+
+# mes "You also need to learn how to counter monsters that use skills.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "You also need to learn how to counter monsters that use skills."
+msgstr ""
+
+# mes "Your best bet is to kill the monsters that are attacking you first.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Your best bet is to kill the monsters that are attacking you first."
+msgstr ""
+
+# mes "*Grrr* Anyways, continue the test.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "*Grrr* Anyways, continue the test."
+msgstr ""
+
+# mes "Don't have a weak mind, *woof* and go back! *Bark* *Bark* Right this moment! *BARK*";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Don't have a weak mind, *woof* and go back! *Bark* *Bark* Right this moment! *BARK*"
+msgstr ""
+
+# mes "As I thought, I knew you'd be able to do it, I could smell it in yah! *Woof*";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "As I thought, I knew you'd be able to do it, I could smell it in yah! *Woof*"
+msgstr ""
+
+# mes "Now I can call you Wizard.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Now I can call you Wizard."
+msgstr ""
+
+# mes "Congratulations. Always give your best at everything, no matter what.";
+#: npc/jobs/2-1/wizard.txt
+msgctxt "White Dog#wiz"
+msgid "Congratulations. Always give your best at everything, no matter what."
+msgstr ""
+
