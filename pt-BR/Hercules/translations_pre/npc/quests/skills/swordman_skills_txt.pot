@@ -1,0 +1,1387 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:26+0200\n"
+"PO-Revision-Date: 2019-10-21 10:39\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/quests/skills/swordman_skills_txt.pot\n"
+
+# mes "[De Thomas]";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "[De Thomas]"
+msgstr ""
+
+# mes "Oh, no! You must have been hurt! Are you ok?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Oh, no! You must have been hurt! Are you ok?"
+msgstr ""
+
+# mes "You must have fought hard to get such serious injuries..";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "You must have fought hard to get such serious injuries.."
+msgstr ""
+
+# mes "Being a swordsman must come with a lot of responsibility and sacrifice.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Being a swordsman must come with a lot of responsibility and sacrifice."
+msgstr ""
+
+# mes "For these swordsmen and knights, there is a wonderful skill.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "For these swordsmen and knights, there is a wonderful skill."
+msgstr ""
+
+# mes "For these swordswomen and knights, there is a wonderful skill young lady.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "For these swordswomen and knights, there is a wonderful skill young lady."
+msgstr ""
+
+# mes "I present to you - HP Recovery While Moving!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "I present to you - HP Recovery While Moving!"
+msgstr ""
+
+# mes "Body moving is a splendid skill";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Body moving is a splendid skill"
+msgstr ""
+
+# mes "that allows you to regain strength(HP)";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "that allows you to regain strength(HP)"
+msgstr ""
+
+# mes "while you are moving!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "while you are moving!"
+msgstr ""
+
+# mes "It is currently under development";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "It is currently under development"
+msgstr ""
+
+# mes "so it may not recover that much,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "so it may not recover that much,"
+msgstr ""
+
+# mes "but it will help a little.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "but it will help a little."
+msgstr ""
+
+# mes "What do you think? Would you like to learn this skill?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "What do you think? Would you like to learn this skill?"
+msgstr ""
+
+# switch (select("What a nice skill! I want to learn it!", "No, thank you.")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "What a nice skill! I want to learn it!"
+msgstr ""
+
+# switch (select("What a nice skill! I want to learn it!", "No, thank you.")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "No, thank you."
+msgstr ""
+
+# mes "Very well. I will tell you what you need to learn this skill.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Very well. I will tell you what you need to learn this skill."
+msgstr ""
+
+# mes "First, your job level must be higher than ^00880035^000000.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "First, your job level must be higher than ^00880035^000000."
+msgstr ""
+
+# mes "You will also need ^008800200 Empty Bottles^000000.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "You will also need ^008800200 Empty Bottles^000000."
+msgstr ""
+
+# mes "Why? Because it is proof that you fought fiercely to have used that many potions.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Why? Because it is proof that you fought fiercely to have used that many potions."
+msgstr ""
+
+# mes "Also, the armor you used in battle.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Also, the armor you used in battle."
+msgstr ""
+
+# mes "This is also proof of an experienced fighter.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "This is also proof of an experienced fighter."
+msgstr ""
+
+# mes "For the armor... your armor is perfect!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "For the armor... your armor is perfect!"
+msgstr ""
+
+# mes "Bring your armor!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Bring your armor!"
+msgstr ""
+
+# mes "Last but not least... bring me one ^008800Moth Wing^000000.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Last but not least... bring me one ^008800Moth Wing^000000."
+msgstr ""
+
+# select("Eh? You need that, too?");
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Eh? You need that, too?"
+msgstr ""
+
+# mes "Not really.. I don't really NEED it.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Not really.. I don't really NEED it."
+msgstr ""
+
+# mes "It's just that my niece has gotten a bug hunting as a holiday task during the summer vacation.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "It's just that my niece has gotten a bug hunting as a holiday task during the summer vacation."
+msgstr ""
+
+# mes "Of course! It would be much easier for me to get it myself.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Of course! It would be much easier for me to get it myself."
+msgstr ""
+
+# mes "but I must work here all the time so I don't exactly have the time to go out and get it.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "but I must work here all the time so I don't exactly have the time to go out and get it."
+msgstr ""
+
+# mes "Don't you think it is pitiful that I have to stay in once place everyday, not being able to go outside?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Don't you think it is pitiful that I have to stay in once place everyday, not being able to go outside?"
+msgstr ""
+
+# mes "Please, find me one...*sniffsniff*";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Please, find me one...*sniffsniff*"
+msgstr ""
+
+# mes "If you don't...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "If you don't..."
+msgstr ""
+
+# mes "You won't get anything! Muahahaha.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "You won't get anything! Muahahaha."
+msgstr ""
+
+# mes "...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "..."
+msgstr ""
+
+# mes "Oh, it's you?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Oh, it's you?"
+msgstr ""
+
+# mes "Long time no see!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Long time no see!"
+msgstr ""
+
+# mes "You seem healthier than before.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "You seem healthier than before."
+msgstr ""
+
+# mes "Hahahaha!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Hahahaha!"
+msgstr ""
+
+# mes "Take care! See you again!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Take care! See you again!"
+msgstr ""
+
+# mes "Welcome back...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Welcome back..."
+msgstr ""
+
+# mes "are you ready to learn Body Movin'?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "are you ready to learn Body Movin'?"
+msgstr ""
+
+# switch (select("Yes.", "No, I'm not ready yet.")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Yes."
+msgstr ""
+
+# switch (select("Yes.", "No, I'm not ready yet.")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "No, I'm not ready yet."
+msgstr ""
+
+# mes "Let's see.....";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Let's see....."
+msgstr ""
+
+# mes "Ok! I shall now teach you...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Ok! I shall now teach you..."
+msgstr ""
+
+# mes "...The Body Movin' skill!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "...The Body Movin' skill!"
+msgstr ""
+
+# mes "There you go!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "There you go!"
+msgstr ""
+
+# mes "Try it yourself.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Try it yourself."
+msgstr ""
+
+# mes "But don't overdo it.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "But don't overdo it."
+msgstr ""
+
+# mes "Oh yeah, I won't be needing your";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Oh yeah, I won't be needing your"
+msgstr ""
+
+# mes "armor so you can keep it.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "armor so you can keep it."
+msgstr ""
+
+# mes "Good luck now!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Good luck now!"
+msgstr ""
+
+# mes "Wait a second, your Job level isn't above ^00880035^000000!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Wait a second, your Job level isn't above ^00880035^000000!"
+msgstr ""
+
+# mes "Come back when it is.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Come back when it is."
+msgstr ""
+
+# mes "You do not have all the items I asked for.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "You do not have all the items I asked for."
+msgstr ""
+
+# mes "Remember I need, ^008800200 empty bottles^000000, your armor, and a ^008800Moth Wing^000000. Come back when you have it all.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Remember I need, ^008800200 empty bottles^000000, your armor, and a ^008800Moth Wing^000000. Come back when you have it all."
+msgstr ""
+
+# mes "Is that so?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Is that so?"
+msgstr ""
+
+# mes "Then come when you are prepared.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Then come when you are prepared."
+msgstr ""
+
+# mes "My name is De Thomas Carlos.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "My name is De Thomas Carlos."
+msgstr ""
+
+# mes "Knight of Prontera's 3rd Calvary.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Knight of Prontera's 3rd Calvary."
+msgstr ""
+
+# mes "I have a certain duty these days.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "I have a certain duty these days."
+msgstr ""
+
+# mes "Ehem! Need I say more.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Knight De Thomas"
+msgid "Ehem! Need I say more."
+msgstr ""
+
+# mes "[Leon]";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "[Leon]"
+msgstr ""
+
+# mes "Eh?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Eh?"
+msgstr ""
+
+# mes "I was wondering who that was!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I was wondering who that was!"
+msgstr ""
+
+# mes "Why it's you from before!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Why it's you from before!"
+msgstr ""
+
+# mes "Nice to see you again! How are you?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Nice to see you again! How are you?"
+msgstr ""
+
+# mes "Be careful! Hahaha!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Be careful! Hahaha!"
+msgstr ""
+
+# mes "Ooh! You are more than ready";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Ooh! You are more than ready"
+msgstr ""
+
+# mes "to learn Fatal Blow!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "to learn Fatal Blow!"
+msgstr ""
+
+# mes "So how about it? Would you like to learn?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "So how about it? Would you like to learn?"
+msgstr ""
+
+# switch (select("Yes!", "No, I don't want to.", "But, what is Fatal Blow?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Yes!"
+msgstr ""
+
+# switch (select("Yes!", "No, I don't want to.", "But, what is Fatal Blow?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "No, I don't want to."
+msgstr ""
+
+# switch (select("Yes!", "No, I don't want to.", "But, what is Fatal Blow?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "But, what is Fatal Blow?"
+msgstr ""
+
+# mes "OK, lets begin!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "OK, lets begin!"
+msgstr ""
+
+# mes "Success!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Success!"
+msgstr ""
+
+# mes "Go use your new skill to its full potential.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Go use your new skill to its full potential."
+msgstr ""
+
+# mes "Hahahahahahahaha!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Hahahahahahahaha!"
+msgstr ""
+
+# mes "I don't like you!!!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I don't like you!!!"
+msgstr ""
+
+# mes "I developed this skill recently.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I developed this skill recently."
+msgstr ""
+
+# mes "When you use bash, depending ";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "When you use bash, depending "
+msgstr ""
+
+# mes "on your level, you can stun ";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "on your level, you can stun "
+msgstr ""
+
+# mes "your opponent. .";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "your opponent. ."
+msgstr ""
+
+# mes "You have learned bash, haven't you?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "You have learned bash, haven't you?"
+msgstr ""
+
+# mes "What do you think. Stun is";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "What do you think. Stun is"
+msgstr ""
+
+# mes "a very useful technique. Don't you find this skill attractive?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "a very useful technique. Don't you find this skill attractive?"
+msgstr ""
+
+# mes "When you think you do, just come right back to me!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "When you think you do, just come right back to me!"
+msgstr ""
+
+# mes "Ooh! A young and strong swordsman!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Ooh! A young and strong swordsman!"
+msgstr ""
+
+# mes "Wow, seeing your arm, you must enjoy using bash?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Wow, seeing your arm, you must enjoy using bash?"
+msgstr ""
+
+# select("Eh, I... just...");
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Eh, I... just..."
+msgstr ""
+
+# mes "No need to be surprised.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "No need to be surprised."
+msgstr ""
+
+# mes "If you use a sword, of course you ought to have a good arm!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "If you use a sword, of course you ought to have a good arm!"
+msgstr ""
+
+# mes "Nothing to be embarrassed about.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Nothing to be embarrassed about."
+msgstr ""
+
+# mes "Even if you are a female you need a strong arm to use a sword!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Even if you are a female you need a strong arm to use a sword!"
+msgstr ""
+
+# mes "In times of only useless and lazy youngsters,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "In times of only useless and lazy youngsters,"
+msgstr ""
+
+# mes "I'm glad I met someone strong like you.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I'm glad I met someone strong like you."
+msgstr ""
+
+# mes "Yes, I would like to give a present to an awesome swordsman like you.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Yes, I would like to give a present to an awesome swordsman like you."
+msgstr ""
+
+# switch (select("What present?", "It's ok.")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "What present?"
+msgstr ""
+
+# switch (select("What present?", "It's ok.")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "It's ok."
+msgstr ""
+
+# mes "Haha nothing special, but a skill to attack the vital point!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Haha nothing special, but a skill to attack the vital point!"
+msgstr ""
+
+# mes "...Haha nothing special, just a skill that aims at the vital spot!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "...Haha nothing special, just a skill that aims at the vital spot!"
+msgstr ""
+
+# mes "It's a skill I developed recently.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "It's a skill I developed recently."
+msgstr ""
+
+# mes "When you use bash, depending on";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "When you use bash, depending on"
+msgstr ""
+
+# mes "your level, your opponent can";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "your level, your opponent can"
+msgstr ""
+
+# mes "become stunned.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "become stunned."
+msgstr ""
+
+# mes "When I was a swordsman like you,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "When I was a swordsman like you,"
+msgstr ""
+
+# mes "I used to enjoy using Bash. Every time, I thought";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I used to enjoy using Bash. Every time, I thought"
+msgstr ""
+
+# mes "- maybe the attack would be more powerful";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "- maybe the attack would be more powerful"
+msgstr ""
+
+# mes "if I use stun at the same time.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "if I use stun at the same time."
+msgstr ""
+
+# mes "I drew back from the battlefield to do research";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I drew back from the battlefield to do research"
+msgstr ""
+
+# mes "and finally, I developed this wonderful new skill!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "and finally, I developed this wonderful new skill!"
+msgstr ""
+
+# mes "Would you like to learn this skill?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Would you like to learn this skill?"
+msgstr ""
+
+# switch (select("Yes.", "No.", "Do you have any advice on how to eat sushi?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Yes."
+msgstr ""
+
+# switch (select("Yes.", "No.", "Do you have any advice on how to eat sushi?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "No."
+msgstr ""
+
+# switch (select("Yes.", "No.", "Do you have any advice on how to eat sushi?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Do you have any advice on how to eat sushi?"
+msgstr ""
+
+# mes "Ok. I'll tell you the requirements.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Ok. I'll tell you the requirements."
+msgstr ""
+
+# mes "First you need to have level 5 Bash.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "First you need to have level 5 Bash."
+msgstr ""
+
+# mes "You will also need to prepare 10 Fire Arrows, 10 Silver Arrows, 1 bottle of Banana Juice, 30 Tentacles, and 5 bottles of Royal Jelly.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "You will also need to prepare 10 Fire Arrows, 10 Silver Arrows, 1 bottle of Banana Juice, 30 Tentacles, and 5 bottles of Royal Jelly."
+msgstr ""
+
+# mes "They are.. somewhat like ingredients.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "They are.. somewhat like ingredients."
+msgstr ""
+
+# mes "come to me again once you have all the materials.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "come to me again once you have all the materials."
+msgstr ""
+
+# mes "We shall talk then.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "We shall talk then."
+msgstr ""
+
+# mes "Hahahahahahahahahaha!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Hahahahahahahahahaha!"
+msgstr ""
+
+# mes "... ";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "... "
+msgstr ""
+
+# mes " ... ";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid " ... "
+msgstr ""
+
+# mes " ...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid " ..."
+msgstr ""
+
+# mes "I'm at a loss of words!?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I'm at a loss of words!?"
+msgstr ""
+
+# mes "[Sushi King Leon]";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "[Sushi King Leon]"
+msgstr ""
+
+# mes "The best way to eat sushi is";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "The best way to eat sushi is"
+msgstr ""
+
+# mes "with your hands.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "with your hands."
+msgstr ""
+
+# mes "That is the basic.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "That is the basic."
+msgstr ""
+
+# mes "And dip the fish, not the rice,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "And dip the fish, not the rice,"
+msgstr ""
+
+# mes "in the soy sauce.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "in the soy sauce."
+msgstr ""
+
+# mes "That way you get a richer flavor.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "That way you get a richer flavor."
+msgstr ""
+
+# mes "Also, always eat the kind that is in season.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Also, always eat the kind that is in season."
+msgstr ""
+
+# mes "Eating in the order of white fish then";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Eating in the order of white fish then"
+msgstr ""
+
+# mes "blue fish will make it taste better!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "blue fish will make it taste better!"
+msgstr ""
+
+# mes "Mmm! I like sushi~~!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Mmm! I like sushi~~!"
+msgstr ""
+
+# mes "Oh, no! I have nothing to offer you!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Oh, no! I have nothing to offer you!"
+msgstr ""
+
+# mes "I can't say nice and fun things to anyone";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "I can't say nice and fun things to anyone"
+msgstr ""
+
+# mes "other than swordsmen!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "other than swordsmen!"
+msgstr ""
+
+# mes "See you in a better world!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "See you in a better world!"
+msgstr ""
+
+# mes "Hahahahahahaha!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Leon Von Frich"
+msgid "Hahahahahahaha!"
+msgstr ""
+
+# mes "[Juan]";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "[Juan]"
+msgstr ""
+
+# mes "Mmm? Long time no see!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Mmm? Long time no see!"
+msgstr ""
+
+# mes "How are you?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "How are you?"
+msgstr ""
+
+# mes "You got stronger than before.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You got stronger than before."
+msgstr ""
+
+# mes "Many expect great things from you.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Many expect great things from you."
+msgstr ""
+
+# mes "You can do it.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You can do it."
+msgstr ""
+
+# mes "[?]";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "[?]"
+msgstr ""
+
+# mes "What are you?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "What are you?"
+msgstr ""
+
+# mes "Eh, still a beginner.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Eh, still a beginner."
+msgstr ""
+
+# mes "I'm busy, so go train a little more";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "I'm busy, so go train a little more"
+msgstr ""
+
+# mes "before coming back.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "before coming back."
+msgstr ""
+
+# mes "Oh, nice to meet you.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Oh, nice to meet you."
+msgstr ""
+
+# mes "You can be on your way. (smiley~)";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You can be on your way. (smiley~)"
+msgstr ""
+
+# mes "Ooh. Young swordsman!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Ooh. Young swordsman!"
+msgstr ""
+
+# mes "You are ready to learn the";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You are ready to learn the"
+msgstr ""
+
+# mes "newest skill, Auto Berserk?!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "newest skill, Auto Berserk?!"
+msgstr ""
+
+# switch (select("Hoho, I would like to learn it now.", "What is that?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Hoho, I would like to learn it now."
+msgstr ""
+
+# switch (select("Hoho, I would like to learn it now.", "What is that?")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "What is that?"
+msgstr ""
+
+# mes "Ok. Then...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Ok. Then..."
+msgstr ""
+
+# mes "You have just become a swordsman";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You have just become a swordsman"
+msgstr ""
+
+# mes "that can use Auto Berserk.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "that can use Auto Berserk."
+msgstr ""
+
+# mes "You can go about ";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You can go about "
+msgstr ""
+
+# mes "and achieve great things!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "and achieve great things!"
+msgstr ""
+
+# mes "Good luck!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Good luck!"
+msgstr ""
+
+# mes "....................................oh yeah.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "....................................oh yeah."
+msgstr ""
+
+# mes "I forgot to say something.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "I forgot to say something."
+msgstr ""
+
+# mes "There are some things you must keep in mind.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "There are some things you must keep in mind."
+msgstr ""
+
+# mes "Once you regain health,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Once you regain health,"
+msgstr ""
+
+# mes "this skill will subside.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "this skill will subside."
+msgstr ""
+
+# mes "Also, there isn't really a time limit";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Also, there isn't really a time limit"
+msgstr ""
+
+# mes "but it can still disappear when";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "but it can still disappear when"
+msgstr ""
+
+# mes "it is attacked with a skill that can";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "it is attacked with a skill that can"
+msgstr ""
+
+# mes "nullify provoke.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "nullify provoke."
+msgstr ""
+
+# mes "If you don't remember these characteristics,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "If you don't remember these characteristics,"
+msgstr ""
+
+# mes "you may run into some problems on the battlefield";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "you may run into some problems on the battlefield"
+msgstr ""
+
+# mes "when the skill disappears all of a sudden.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "when the skill disappears all of a sudden."
+msgstr ""
+
+# mes "Then... bye for real~";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Then... bye for real~"
+msgstr ""
+
+# mes "Auto Berserk?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Auto Berserk?"
+msgstr ""
+
+# mes "It's a skill crucial on the battlefield.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "It's a skill crucial on the battlefield."
+msgstr ""
+
+# mes "When your health is in red,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "When your health is in red,"
+msgstr ""
+
+# mes "your hidden potential provokes yourself";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "your hidden potential provokes yourself"
+msgstr ""
+
+# mes "to help you in battle.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "to help you in battle."
+msgstr ""
+
+# mes "It is perfect for those that";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "It is perfect for those that"
+msgstr ""
+
+# mes "fight on the battlefield like fire!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "fight on the battlefield like fire!"
+msgstr ""
+
+# mes "With your ability, you can learn";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "With your ability, you can learn"
+msgstr ""
+
+# mes "this skill right now.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "this skill right now."
+msgstr ""
+
+# mes "Then, I shall tell you the necessary materials.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Then, I shall tell you the necessary materials."
+msgstr ""
+
+# mes "You need 35 Powder of Butterfly.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You need 35 Powder of Butterfly."
+msgstr ""
+
+# mes "The energy from the magnificent";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "The energy from the magnificent"
+msgstr ""
+
+# mes "wings of a butterfly will";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "wings of a butterfly will"
+msgstr ""
+
+# mes "help you gather your strength!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "help you gather your strength!"
+msgstr ""
+
+# mes "And 10 Horrendous Mouth.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "And 10 Horrendous Mouth."
+msgstr ""
+
+# mes "10 Decayed Nail.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "10 Decayed Nail."
+msgstr ""
+
+# mes "and last but not least...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "and last but not least..."
+msgstr ""
+
+# mes "10 Honey!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "10 Honey!"
+msgstr ""
+
+# mes "Did you get all that down?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Did you get all that down?"
+msgstr ""
+
+# mes "As always, please come back";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "As always, please come back"
+msgstr ""
+
+# mes "when you are ready.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "when you are ready."
+msgstr ""
+
+# mes "I look forward to seeing you again.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "I look forward to seeing you again."
+msgstr ""
+
+# mes "Oh no, you have more injuries";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Oh no, you have more injuries"
+msgstr ""
+
+# mes "since the last time I saw you.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "since the last time I saw you."
+msgstr ""
+
+# mes "You went into battle like this?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "You went into battle like this?"
+msgstr ""
+
+# mes "Seems like you are straining yourself.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Seems like you are straining yourself."
+msgstr ""
+
+# mes "Even though you may have a lot of strength";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Even though you may have a lot of strength"
+msgstr ""
+
+# mes "you can't do much when you reach your limits so";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "you can't do much when you reach your limits so"
+msgstr ""
+
+# mes "don't overestimate your powers.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "don't overestimate your powers."
+msgstr ""
+
+# mes "Of course you could always use the";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Of course you could always use the"
+msgstr ""
+
+# mes "skill we developed to overcome these limits.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "skill we developed to overcome these limits."
+msgstr ""
+
+# switch (select("Eh! What are you talking about?", "Haha, there can't be such a thing.", "Keuuuuuuuh!")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Eh! What are you talking about?"
+msgstr ""
+
+# switch (select("Eh! What are you talking about?", "Haha, there can't be such a thing.", "Keuuuuuuuh!")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Haha, there can't be such a thing."
+msgstr ""
+
+# switch (select("Eh! What are you talking about?", "Haha, there can't be such a thing.", "Keuuuuuuuh!")) {
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Keuuuuuuuh!"
+msgstr ""
+
+# mes "The skill is called Berserk.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "The skill is called Berserk."
+msgstr ""
+
+# mes "It is deemed the flower of a battlefield.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "It is deemed the flower of a battlefield."
+msgstr ""
+
+# mes "When your health is red,";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "When your health is red,"
+msgstr ""
+
+# mes "your hidden potential is provokes yourself";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "your hidden potential is provokes yourself"
+msgstr ""
+
+# mes "10 Honeys!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "10 Honeys!"
+msgstr ""
+
+# mes "Bleh, were you fooled all your life.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Bleh, were you fooled all your life."
+msgstr ""
+
+# mes "I don't know. Don't talk to me.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "I don't know. Don't talk to me."
+msgstr ""
+
+# mes "Keuuuuuuuuuuuuuh!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Keuuuuuuuuuuuuuh!"
+msgstr ""
+
+# mes "Ooowwwwwuuuuuuuuuuuuuhhh!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Ooowwwwwuuuuuuuuuuuuuhhh!"
+msgstr ""
+
+# mes "Keuaaaaaaaaaaah!";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Keuaaaaaaaaaaah!"
+msgstr ""
+
+# mes "Are you enjoying your trip?";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Are you enjoying your trip?"
+msgstr ""
+
+# mes "I hope you have nice days ahead of you.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "I hope you have nice days ahead of you."
+msgstr ""
+
+# mes "Ah, I am just a kind knight Juan.";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Ah, I am just a kind knight Juan."
+msgstr ""
+
+# mes "Don't worry about me too much. Hahaha...";
+#: npc/quests/skills/swordman_skills.txt
+msgctxt "Juan"
+msgid "Don't worry about me too much. Hahaha..."
+msgstr ""
+
