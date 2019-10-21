@@ -1,0 +1,1385 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:04\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/other/clans_txt.pot\n"
+
+# mes("[Clan Helper]");
+#: npc/re/other/clans.txt
+msgctxt "Clan Helper#clan"
+msgid "[Clan Helper]"
+msgstr ""
+
+# mes("Do you want to build connections without being in a guild?");
+#: npc/re/other/clans.txt
+msgctxt "Clan Helper#clan"
+msgid "Do you want to build connections without being in a guild?"
+msgstr ""
+
+# mes("Can't find the perfect guild for yourself?");
+#: npc/re/other/clans.txt
+msgctxt "Clan Helper#clan"
+msgid "Can't find the perfect guild for yourself?"
+msgstr ""
+
+# mes("You can join or leave clan freely! Just join!");
+#: npc/re/other/clans.txt
+msgctxt "Clan Helper#clan"
+msgid "You can join or leave clan freely! Just join!"
+msgstr ""
+
+# mes("Now, come on in and meet the masters of the Kingdom's best Clans!");
+#: npc/re/other/clans.txt
+msgctxt "Clan Helper#clan"
+msgid "Now, come on in and meet the masters of the Kingdom's best Clans!"
+msgstr ""
+
+# mes("[Sham Rumi]");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "[Sham Rumi]"
+msgstr ""
+
+# mes("Hi, there! I'm Sham, master of ^3131FF[Crossbow Clan]^000000");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Hi, there! I'm Sham, master of ^3131FF[Crossbow Clan]^000000"
+msgstr ""
+
+# mes("What can I do for you?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "What can I do for you?"
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Introducing Clan"
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Join."
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Leave."
+msgstr ""
+
+# switch (select("Clans are", "About the Crossbow Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Clans are"
+msgstr ""
+
+# switch (select("Clans are", "About the Crossbow Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "About the Crossbow Clan"
+msgstr ""
+
+# switch (select("Clans are", "About the Crossbow Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Cancel."
+msgstr ""
+
+# mes("The Clan established by the Rune-Midgarts Kingdom to...");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "The Clan established by the Rune-Midgarts Kingdom to..."
+msgstr ""
+
+# mes("Laperm, why are our ^3131FFclans^000000 made?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Laperm, why are our ^3131FFclans^000000 made?"
+msgstr ""
+
+# mes("[Laperm Oranpere]");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "[Laperm Oranpere]"
+msgstr ""
+
+# mes("Did you sleep in class? Gosh.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Did you sleep in class? Gosh."
+msgstr ""
+
+# mes("The Clans help lone adventurers connect with each other and share information.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "The Clans help lone adventurers connect with each other and share information."
+msgstr ""
+
+# mes("A-ha, got it! Thank you, Captain!");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "A-ha, got it! Thank you, Captain!"
+msgstr ""
+
+# mes("You heard that too, right?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "You heard that too, right?"
+msgstr ""
+
+# mes("Run by the Kingdom itself, the Clans are not allowed to participate in the Siege, but the good news is that the members are given some ^3131FFstat bonuses^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Run by the Kingdom itself, the Clans are not allowed to participate in the Siege, but the good news is that the members are given some ^3131FFstat bonuses^000000."
+msgstr ""
+
+# mes("In case you wonder if the ^3131FFCrossbow Clan^000000 only recruits Archers, no, it doesn't.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "In case you wonder if the ^3131FFCrossbow Clan^000000 only recruits Archers, no, it doesn't."
+msgstr ""
+
+# mes("All the Clans accept all classes. You can choose the one that suits your needs best.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "All the Clans accept all classes. You can choose the one that suits your needs best."
+msgstr ""
+
+# mes("That should cover everything there is to know.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "That should cover everything there is to know."
+msgstr ""
+
+# mes("Berman, let's go hang out in Glast Heim.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Berman, let's go hang out in Glast Heim."
+msgstr ""
+
+# mes("[Debon Aire]");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "[Debon Aire]"
+msgstr ""
+
+# mes("You...");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "You..."
+msgstr ""
+
+# mes("Ooh, scary! You're so protective of your brother.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Ooh, scary! You're so protective of your brother."
+msgstr ""
+
+# mes("The ^3131FFCrossbow Clan^000000 is ideal for Ranged classes.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "The ^3131FFCrossbow Clan^000000 is ideal for Ranged classes."
+msgstr ""
+
+# mes("Eh, let me check the Clan manual. Ah, and we offer stat bonuses to new members: ^FF0000<DEX+1, AGI+1, MHP+30, MSP+10>^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Eh, let me check the Clan manual. Ah, and we offer stat bonuses to new members: ^FF0000<DEX+1, AGI+1, MHP+30, MSP+10>^000000."
+msgstr ""
+
+# mes("The Clans are not allowed to participate in the Siege; you should join a private guild instead for Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "The Clans are not allowed to participate in the Siege; you should join a private guild instead for Siege."
+msgstr ""
+
+# mes("The Clans are for adventurers that hate being tied down.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "The Clans are for adventurers that hate being tied down."
+msgstr ""
+
+# mes("Do you have a question?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Do you have a question?"
+msgstr ""
+
+# mes("Oh, yeah? Good choice!");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Oh, yeah? Good choice!"
+msgstr ""
+
+# mes("Let's check the Clan policy then take admission procedures.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Let's check the Clan policy then take admission procedures."
+msgstr ""
+
+# mes("^3131FFClansmen^000000 cannot participate in the Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "^3131FFClansmen^000000 cannot participate in the Siege."
+msgstr ""
+
+# mes("As our new member, you'll receive the following stat bonuses: ^FF0000<DEX+1, AGI+1, MHP+30, MSP+10>^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "As our new member, you'll receive the following stat bonuses: ^FF0000<DEX+1, AGI+1, MHP+30, MSP+10>^000000."
+msgstr ""
+
+# mes("Do you agree?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Do you agree?"
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Yes."
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "No."
+msgstr ""
+
+# mes("Join and leave the clans anytime, but if you don't show up at clan for ^FF0000more than 2 weeks^000000, you'll be ^FF0000expelled^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Join and leave the clans anytime, but if you don't show up at clan for ^FF0000more than 2 weeks^000000, you'll be ^FF0000expelled^000000."
+msgstr ""
+
+# mes("Do you promise you'll maintain good standing?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Do you promise you'll maintain good standing?"
+msgstr ""
+
+# mes("Good, write your name here.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Good, write your name here."
+msgstr ""
+
+# mesf("^3131FF%s^000000..!", strcharinfo(PC_NAME));
+#: npc/re/other/clans.txt
+#, c-format
+msgctxt "Sham Rumi#clan"
+msgid "^3131FF%s^000000..!"
+msgstr ""
+
+# mes("Ugh, your penmanship needs work. Let me process your application.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Ugh, your penmanship needs work. Let me process your application."
+msgstr ""
+
+# mes("Did you finish things up with your old guild?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Did you finish things up with your old guild?"
+msgstr ""
+
+# mes("Eh, you're already in a clan. Hey, this isn't funny.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Eh, you're already in a clan. Hey, this isn't funny."
+msgstr ""
+
+# mes("Welcome to the ^3131FFCrossbow Clan^000000!");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Welcome to the ^3131FFCrossbow Clan^000000!"
+msgstr ""
+
+# mes("You can review Clan info with ^3131FFCtrl+G^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "You can review Clan info with ^3131FFCtrl+G^000000."
+msgstr ""
+
+# mes("Don't pick fights with other clansmen. Be social.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Don't pick fights with other clansmen. Be social."
+msgstr ""
+
+# mes("If you need help, you can always whisper me, okay? See you around!");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "If you need help, you can always whisper me, okay? See you around!"
+msgstr ""
+
+# mes("Why, did you find a better clan?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Why, did you find a better clan?"
+msgstr ""
+
+# mes("I'm disappointed, but it's your call. Let me process your withdrawal.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "I'm disappointed, but it's your call. Let me process your withdrawal."
+msgstr ""
+
+# if (select("Continue.", "Cancel.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Continue."
+msgstr ""
+
+# mes("I can't let you leave--you're not even in my clan!");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "I can't let you leave--you're not even in my clan!"
+msgstr ""
+
+# mes("Sorry, but I don't meddle with other clans' business.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Sorry, but I don't meddle with other clans' business."
+msgstr ""
+
+# mes("It's done.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "It's done."
+msgstr ""
+
+# mes("If you ever miss us, don't hesitate to come back, all right?");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "If you ever miss us, don't hesitate to come back, all right?"
+msgstr ""
+
+# mes("Ah, do you need time to think about this? No problem.");
+#: npc/re/other/clans.txt
+msgctxt "Sham Rumi#clan"
+msgid "Ah, do you need time to think about this? No problem."
+msgstr ""
+
+# mes("[Berman Aire]");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "[Berman Aire]"
+msgstr ""
+
+# mes("Nice to meet you. I'm Berman Aire, master of ^3131FF[Goldenmace Clan]^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Nice to meet you. I'm Berman Aire, master of ^3131FF[Goldenmace Clan]^000000."
+msgstr ""
+
+# mes("I'm also the older brother of Debon Aire here. Debon looks tough, but he's a sweetheart.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "I'm also the older brother of Debon Aire here. Debon looks tough, but he's a sweetheart."
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Introducing Clan"
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Join."
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Leave."
+msgstr ""
+
+# switch (select("Clans are", "About the Golden Mace Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Clans are"
+msgstr ""
+
+# switch (select("Clans are", "About the Golden Mace Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "About the Golden Mace Clan"
+msgstr ""
+
+# switch (select("Clans are", "About the Golden Mace Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Cancel."
+msgstr ""
+
+# mes("The ^3131FFClans^000000 are established by the Kingdom to help adventurers connect and share information.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "The ^3131FFClans^000000 are established by the Kingdom to help adventurers connect and share information."
+msgstr ""
+
+# mes("Because the Kingdom runs the clan, no Sieges, but at least the members are given ^3131FFstat bonuses^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Because the Kingdom runs the clan, no Sieges, but at least the members are given ^3131FFstat bonuses^000000."
+msgstr ""
+
+# mes("The stat bonuses are small, but can be very useful for beginning adventurers.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "The stat bonuses are small, but can be very useful for beginning adventurers."
+msgstr ""
+
+# mes("We're named the ^3131FFGolden Mace Clan^000000, but we don't discriminate against applicants based on their classes.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "We're named the ^3131FFGolden Mace Clan^000000, but we don't discriminate against applicants based on their classes."
+msgstr ""
+
+# mes("The name is just to help you easily choose your clan.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "The name is just to help you easily choose your clan."
+msgstr ""
+
+# mes("[Sham Rumi]");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "[Sham Rumi]"
+msgstr ""
+
+# mes("Berman, enough with the explanation. Let's go hang out in Glast Heim.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Berman, enough with the explanation. Let's go hang out in Glast Heim."
+msgstr ""
+
+# mes("[Debon Aire]");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "[Debon Aire]"
+msgstr ""
+
+# mes("... Hey.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "... Hey."
+msgstr ""
+
+# mes("Ooh, you're scaring me.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Ooh, you're scaring me."
+msgstr ""
+
+# mes("Berman, call me when you can!~");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Berman, call me when you can!~"
+msgstr ""
+
+# mes("Hah hah, I apologize for their bickering.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Hah hah, I apologize for their bickering."
+msgstr ""
+
+# mes("Do you have a question?");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Do you have a question?"
+msgstr ""
+
+# mes("If you're tired of traveling alone, join us! You can join and leave the Clans anytime you want.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "If you're tired of traveling alone, join us! You can join and leave the Clans anytime you want."
+msgstr ""
+
+# mes("The ^3131FFGolden Mace Clan^000000 mainly supports supportive classes.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "The ^3131FFGolden Mace Clan^000000 mainly supports supportive classes."
+msgstr ""
+
+# mes("We offer ^FF0000<INT+1, LUK+1, MHP+30, MSP+10>^000000 to new members.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "We offer ^FF0000<INT+1, LUK+1, MHP+30, MSP+10>^000000 to new members."
+msgstr ""
+
+# mes("As I told you earlier, Clans cannot join the Siege because they already belong to the Kingdom.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "As I told you earlier, Clans cannot join the Siege because they already belong to the Kingdom."
+msgstr ""
+
+# mes("If you want to be in the Siege, then I recommend you join a regular guild.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "If you want to be in the Siege, then I recommend you join a regular guild."
+msgstr ""
+
+# mes("Do you understand about the Clans now?");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Do you understand about the Clans now?"
+msgstr ""
+
+# mes("Great!");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Great!"
+msgstr ""
+
+# mes("Let's check the Clan policy then take admission procedures.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Let's check the Clan policy then take admission procedures."
+msgstr ""
+
+# mes("^3131FFClansmen^000000 cannot participate in the Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "^3131FFClansmen^000000 cannot participate in the Siege."
+msgstr ""
+
+# mes("As our new member, you'll receive the following stat bonuses: ^FF0000<INT+1, LUK+1, MHP+30, MSP+10>^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "As our new member, you'll receive the following stat bonuses: ^FF0000<INT+1, LUK+1, MHP+30, MSP+10>^000000."
+msgstr ""
+
+# mes("Do you agree?");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Do you agree?"
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Yes."
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "No."
+msgstr ""
+
+# mes("Join and leave the clans anytime, but if you don't show up at clan for ^FF0000more than 2 weeks^000000, you'll be ^FF0000expelled^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Join and leave the clans anytime, but if you don't show up at clan for ^FF0000more than 2 weeks^000000, you'll be ^FF0000expelled^000000."
+msgstr ""
+
+# mes("Do you agree to maintain good standing in Clan?");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Do you agree to maintain good standing in Clan?"
+msgstr ""
+
+# mes("Now, please write your name here.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Now, please write your name here."
+msgstr ""
+
+# mesf("^3131FF%s^000000! What a good name!", strcharinfo(PC_NAME));
+#: npc/re/other/clans.txt
+#, c-format
+msgctxt "Berman Aire"
+msgid "^3131FF%s^000000! What a good name!"
+msgstr ""
+
+# mes("Okay, then...");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Okay, then..."
+msgstr ""
+
+# mes("Oh, no.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Oh, no."
+msgstr ""
+
+# mes("In order to join, you first have to leave the current guild.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "In order to join, you first have to leave the current guild."
+msgstr ""
+
+# mes("You're already in a clan.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "You're already in a clan."
+msgstr ""
+
+# mes("You're just confused, right?");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "You're just confused, right?"
+msgstr ""
+
+# mes("Welcome to the ^3131FFGolden Mace Clan^000000!");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Welcome to the ^3131FFGolden Mace Clan^000000!"
+msgstr ""
+
+# mes("You can review Clan info with ^3131FFCtrl+G^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "You can review Clan info with ^3131FFCtrl+G^000000."
+msgstr ""
+
+# mes("Please remember the few precautions I gave you, and enjoy your Clan activities!");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Please remember the few precautions I gave you, and enjoy your Clan activities!"
+msgstr ""
+
+# mes("With meeting, there is parting.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "With meeting, there is parting."
+msgstr ""
+
+# mes("I hope you enjoyed your time in ^3131FFGolden Mace Clan^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "I hope you enjoyed your time in ^3131FFGolden Mace Clan^000000."
+msgstr ""
+
+# mes("Now, should I process your withdrawal?");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Now, should I process your withdrawal?"
+msgstr ""
+
+# if (select("Continue.", "Cancel.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Continue."
+msgstr ""
+
+# mes("You can't leave the clan without joining it first.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "You can't leave the clan without joining it first."
+msgstr ""
+
+# mes("I'm sorry, but I can't remove you from another clan..");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "I'm sorry, but I can't remove you from another clan.."
+msgstr ""
+
+# mes("It's processed.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "It's processed."
+msgstr ""
+
+# mes("Come back anytime to ^3131FFGolden Mace Clan^000000. I'll be here.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "Come back anytime to ^3131FFGolden Mace Clan^000000. I'll be here."
+msgstr ""
+
+# mes("I suggest you to think it over.");
+#: npc/re/other/clans.txt
+msgctxt "Berman Aire"
+msgid "I suggest you to think it over."
+msgstr ""
+
+# mes("[Debon Aire]");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "[Debon Aire]"
+msgstr ""
+
+# mes("I'm Debon, master of ^3131FF[Arc Wand Clan]^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "I'm Debon, master of ^3131FF[Arc Wand Clan]^000000."
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Introducing Clan"
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Join."
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Leave."
+msgstr ""
+
+# switch (select("Clans are", "About the Arc Wand Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Clans are"
+msgstr ""
+
+# switch (select("Clans are", "About the Arc Wand Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "About the Arc Wand Clan"
+msgstr ""
+
+# switch (select("Clans are", "About the Arc Wand Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Cancel."
+msgstr ""
+
+# mes("The ^3131FFClans^000000 are ran by the Kingdom, not privately like others.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "The ^3131FFClans^000000 are ran by the Kingdom, not privately like others."
+msgstr ""
+
+# mes("And I manage one of them.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "And I manage one of them."
+msgstr ""
+
+# mes("...");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "..."
+msgstr ""
+
+# mes("What's with that look? You got a problem?");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "What's with that look? You got a problem?"
+msgstr ""
+
+# mes("[Berman Aire]");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "[Berman Aire]"
+msgstr ""
+
+# mes("Brother, you're scaring the potential member, be gentle.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Brother, you're scaring the potential member, be gentle."
+msgstr ""
+
+# mes("Join if seeking a place to fit in. We give ^3131FFfree bonus stat^000000. But no Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Join if seeking a place to fit in. We give ^3131FFfree bonus stat^000000. But no Siege."
+msgstr ""
+
+# mes("Most members are offensive mage classes as the name ^3131FFArc Wand Clan^000000 suggests, but that's no requirement.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Most members are offensive mage classes as the name ^3131FFArc Wand Clan^000000 suggests, but that's no requirement."
+msgstr ""
+
+# mes("...Hey, Sham Rumi.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "...Hey, Sham Rumi."
+msgstr ""
+
+# mes("Stop hitting on my brother, and go work.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Stop hitting on my brother, and go work."
+msgstr ""
+
+# mes("[Sham Rumi]");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "[Sham Rumi]"
+msgstr ""
+
+# mes("Whatever!");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Whatever!"
+msgstr ""
+
+# mes("...Hmpf!");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "...Hmpf!"
+msgstr ""
+
+# mes("Listen, Crossbow Clan's master is an evil.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Listen, Crossbow Clan's master is an evil."
+msgstr ""
+
+# mes("Get over me, Decon! Don't spread rumors!");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Get over me, Decon! Don't spread rumors!"
+msgstr ""
+
+# mes("Haha. stop it. You two are making a scene.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Haha. stop it. You two are making a scene."
+msgstr ""
+
+# mes("Come on, back to work, guys.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Come on, back to work, guys."
+msgstr ""
+
+# mes("The ^3131FFArc Wand Clan^000000 mainly supports offensive mage classes.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "The ^3131FFArc Wand Clan^000000 mainly supports offensive mage classes."
+msgstr ""
+
+# mes("We offer ^FF0000<INT+1, DEX+1, MHP+30, MSP+10>^000000 to new members. Don't ask for more; it's the Kingdom's rule.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "We offer ^FF0000<INT+1, DEX+1, MHP+30, MSP+10>^000000 to new members. Don't ask for more; it's the Kingdom's rule."
+msgstr ""
+
+# mes("^3131FFClansmen^000000 can't participate in the Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "^3131FFClansmen^000000 can't participate in the Siege."
+msgstr ""
+
+# mes("If you like the Siege, then go join a regular guild.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "If you like the Siege, then go join a regular guild."
+msgstr ""
+
+# mes("That is all. No questions.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "That is all. No questions."
+msgstr ""
+
+# mes("Let's check the Clan policy then take admission procedures.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Let's check the Clan policy then take admission procedures."
+msgstr ""
+
+# mes("^3131FFClansmen^000000 cannot participate in the Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "^3131FFClansmen^000000 cannot participate in the Siege."
+msgstr ""
+
+# mes("New members are given these stat bonuses: ^FF0000<INT+1, DEX+1, MHP+30, MSP+10>^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "New members are given these stat bonuses: ^FF0000<INT+1, DEX+1, MHP+30, MSP+10>^000000."
+msgstr ""
+
+# mes("You with me so far?");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "You with me so far?"
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Yes."
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "No."
+msgstr ""
+
+# mes("Join and leave the clans anytime, but if you don't show up at clan for ^FF0000more than 2 weeks^000000, you'll be ^FF0000expelled^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Join and leave the clans anytime, but if you don't show up at clan for ^FF0000more than 2 weeks^000000, you'll be ^FF0000expelled^000000."
+msgstr ""
+
+# mes("Do you agree?");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Do you agree?"
+msgstr ""
+
+# mes("Sign your name here.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Sign your name here."
+msgstr ""
+
+# mesf("^3131FF%s^000000.....", strcharinfo(PC_NAME));
+#: npc/re/other/clans.txt
+#, c-format
+msgctxt "Debon Aire"
+msgid "^3131FF%s^000000....."
+msgstr ""
+
+# mes("Good, let me invite you in.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Good, let me invite you in."
+msgstr ""
+
+# mes("Leave your guild first to join mine, duh.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Leave your guild first to join mine, duh."
+msgstr ""
+
+# mes("You're already in a clan. You joking?!");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "You're already in a clan. You joking?!"
+msgstr ""
+
+# mes("Oh, I can be funny, too--FIRE PILLAR!");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Oh, I can be funny, too--FIRE PILLAR!"
+msgstr ""
+
+# mes("You have joined the ^3131FFArc Wand Clan^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "You have joined the ^3131FFArc Wand Clan^000000."
+msgstr ""
+
+# mes("You can review Clan info with ^3131FFCtrl+G^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "You can review Clan info with ^3131FFCtrl+G^000000."
+msgstr ""
+
+# mes("So don't bother me later.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "So don't bother me later."
+msgstr ""
+
+# mes("That's all. Visit often or be expelled. Dismissed.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "That's all. Visit often or be expelled. Dismissed."
+msgstr ""
+
+# mes("Want to leave, huh?");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Want to leave, huh?"
+msgstr ""
+
+# mes("I understand it it's about Siege. If not, why are..Never mind..");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "I understand it it's about Siege. If not, why are..Never mind.."
+msgstr ""
+
+# mes("I'll process your withdrawal.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "I'll process your withdrawal."
+msgstr ""
+
+# if (select("Continue.","Cancel.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Continue."
+msgstr ""
+
+# mes("Naughty children deserve a good Jupitel Thunder.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Naughty children deserve a good Jupitel Thunder."
+msgstr ""
+
+# mes("You're barking up the wrong tree. Go to your clan master.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "You're barking up the wrong tree. Go to your clan master."
+msgstr ""
+
+# mes("You are withdrawn from the clan.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "You are withdrawn from the clan."
+msgstr ""
+
+# mes("Now leave. I don't feel like talking anymore.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Now leave. I don't feel like talking anymore."
+msgstr ""
+
+# mes("Gosh, listen to the policy again.");
+#: npc/re/other/clans.txt
+msgctxt "Debon Aire"
+msgid "Gosh, listen to the policy again."
+msgstr ""
+
+# mes("[Laperm Oranpere]");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "[Laperm Oranpere]"
+msgstr ""
+
+# mes("Hi! I'm Laperm, master of ^3131FF[Sword Clan]^000000, one the Rune-Midgarts Kingdom.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Hi! I'm Laperm, master of ^3131FF[Sword Clan]^000000, one the Rune-Midgarts Kingdom."
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Introducing Clan"
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Join."
+msgstr ""
+
+# switch (select("Introducing Clan", "Join.", "Leave.")) {
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Leave."
+msgstr ""
+
+# switch (select("Clans are", "About the Sword Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Clans are"
+msgstr ""
+
+# switch (select("Clans are", "About the Sword Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "About the Sword Clan"
+msgstr ""
+
+# switch (select("Clans are", "About the Sword Clan", "Cancel.")) {
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Cancel."
+msgstr ""
+
+# mes("The ^3131FFClans^000000 are a type of guild ran by the Kingdom.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "The ^3131FFClans^000000 are a type of guild ran by the Kingdom."
+msgstr ""
+
+# mes("They don't participate in the Siege, so members are free to join/leave anytime.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "They don't participate in the Siege, so members are free to join/leave anytime."
+msgstr ""
+
+# mes("I wish we could join the Siege. I'd love flying over on my dragon and burning everyone in my way!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "I wish we could join the Siege. I'd love flying over on my dragon and burning everyone in my way!"
+msgstr ""
+
+# mes("Oops, too thrilled!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Oops, too thrilled!"
+msgstr ""
+
+# mes("Join us, if no clan suits your taste.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Join us, if no clan suits your taste."
+msgstr ""
+
+# mes("New members are given ^3131FFfree stat bonus^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "New members are given ^3131FFfree stat bonus^000000."
+msgstr ""
+
+# mes("Melee stats are offered as the name ^3131FFSword Clan^000000 suggests, but not all members are Melee classes.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Melee stats are offered as the name ^3131FFSword Clan^000000 suggests, but not all members are Melee classes."
+msgstr ""
+
+# mes("Don't feel pressured, just count on me!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Don't feel pressured, just count on me!"
+msgstr ""
+
+# mes("Difference in variety creates the fun");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Difference in variety creates the fun"
+msgstr ""
+
+# mes("These odd bunches never bore me in the party.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "These odd bunches never bore me in the party."
+msgstr ""
+
+# mes("And who knows you'll meet your soul mate in the clan? Hahah!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "And who knows you'll meet your soul mate in the clan? Hahah!"
+msgstr ""
+
+# mes("The ^3131FFSword Clan^000000 mainly supports Melee adventurers.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "The ^3131FFSword Clan^000000 mainly supports Melee adventurers."
+msgstr ""
+
+# mes("Join for free ^FF0000<STR+1, VIT+1, MHP+30, MSP+10>^000000!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Join for free ^FF0000<STR+1, VIT+1, MHP+30, MSP+10>^000000!"
+msgstr ""
+
+# mes("Remember, no Siege participation.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Remember, no Siege participation."
+msgstr ""
+
+# mes("You should contact other guilds for Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "You should contact other guilds for Siege."
+msgstr ""
+
+# mes("A question?");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "A question?"
+msgstr ""
+
+# mes("Excited to join me? Hahah!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Excited to join me? Hahah!"
+msgstr ""
+
+# mes("Oh, you'll join? Good choice!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Oh, you'll join? Good choice!"
+msgstr ""
+
+# mes("Let's check the Clan policy then take admission procedures.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Let's check the Clan policy then take admission procedures."
+msgstr ""
+
+# mes("^3131FFClansmen^000000 cannot participate in the Siege.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "^3131FFClansmen^000000 cannot participate in the Siege."
+msgstr ""
+
+# mes("New members are given these stat bonuses: ^FF0000<STR+1, VIT+1, MHP+30, MSP+10>^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "New members are given these stat bonuses: ^FF0000<STR+1, VIT+1, MHP+30, MSP+10>^000000."
+msgstr ""
+
+# mes("You with me so far?");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "You with me so far?"
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Yes."
+msgstr ""
+
+# if (select("Yes.", "No.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "No."
+msgstr ""
+
+# mes("Join and leave the clans anytime, but if you don't show up at clan for ^FF0000longer than 2 weeks^000000, you'll be ^FF0000expelled^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Join and leave the clans anytime, but if you don't show up at clan for ^FF0000longer than 2 weeks^000000, you'll be ^FF0000expelled^000000."
+msgstr ""
+
+# mes("Clan masters exsit for reason, like I.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Clan masters exsit for reason, like I."
+msgstr ""
+
+# mes("Understood?");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Understood?"
+msgstr ""
+
+# mes("Great, sign name here on the register.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Great, sign name here on the register."
+msgstr ""
+
+# mesf("So, you're ^3131FF%s^000000! Nice name!", strcharinfo(PC_NAME));
+#: npc/re/other/clans.txt
+#, c-format
+msgctxt "Laperm Oranpere"
+msgid "So, you're ^3131FF%s^000000! Nice name!"
+msgstr ""
+
+# mes("Let me register you.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Let me register you."
+msgstr ""
+
+# mes("Come back to join after you leave the current guild.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Come back to join after you leave the current guild."
+msgstr ""
+
+# mes("Eh?");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Eh?"
+msgstr ""
+
+# mes("Oh, you're in Clan.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Oh, you're in Clan."
+msgstr ""
+
+# mes("Don't mess with me, it's not cool!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Don't mess with me, it's not cool!"
+msgstr ""
+
+# mes("Welcome to ^3131FFSword Clan^000000!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Welcome to ^3131FFSword Clan^000000!"
+msgstr ""
+
+# mes("You can review Clan info with ^3131FFCtrl+G^000000.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "You can review Clan info with ^3131FFCtrl+G^000000."
+msgstr ""
+
+# mes("At your service!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "At your service!"
+msgstr ""
+
+# mes("You want to leave?");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "You want to leave?"
+msgstr ""
+
+# mes("No problem. I hope you'll find more suitable clan.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "No problem. I hope you'll find more suitable clan."
+msgstr ""
+
+# mes("Ready for withdrawal?");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Ready for withdrawal?"
+msgstr ""
+
+# if (select("Continue.", "Cancel.") == 2)
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Continue."
+msgstr ""
+
+# mes("Wait, you're not with us! Grr, don't make me breathe fire at you!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Wait, you're not with us! Grr, don't make me breathe fire at you!"
+msgstr ""
+
+# mes("Hey, talk to your guild master if you want to leave.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Hey, talk to your guild master if you want to leave."
+msgstr ""
+
+# mes("Okay, it's done. But let's not be strangers, okay?");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Okay, it's done. But let's not be strangers, okay?"
+msgstr ""
+
+# mes("It was nice having you!");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "It was nice having you!"
+msgstr ""
+
+# mes("Uh, oh. Let's go back to beginning.");
+#: npc/re/other/clans.txt
+msgctxt "Laperm Oranpere"
+msgid "Uh, oh. Let's go back to beginning."
+msgstr ""
+
