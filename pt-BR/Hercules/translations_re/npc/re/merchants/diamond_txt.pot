@@ -1,0 +1,505 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:05\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/diamond_txt.pot\n"
+
+# mes "Ladies and Gentlemen! ! !";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Ladies and Gentlemen! ! !"
+msgstr ""
+
+# mes "You've heard rumors but you've never once seen with your own eyes";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "You've heard rumors but you've never once seen with your own eyes"
+msgstr ""
+
+# mes "the world's rarest diamond!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "the world's rarest diamond!"
+msgstr ""
+
+# mes "The ^FF82FF'17 Carat Diamond'^000000 is currently on sale for a cheap price!!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "The ^FF82FF'17 Carat Diamond'^000000 is currently on sale for a cheap price!!"
+msgstr ""
+
+# mes "If valuable diamonds interest you then listen up!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "If valuable diamonds interest you then listen up!"
+msgstr ""
+
+# mes "You can give the diamond as a gift to your lover.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "You can give the diamond as a gift to your lover."
+msgstr ""
+
+# mes "The receiver of the ^FF82FF'17 Carat Diamond'^000000 will cherish it";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "The receiver of the ^FF82FF'17 Carat Diamond'^000000 will cherish it"
+msgstr ""
+
+# mes "and treasure you in their heart.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "and treasure you in their heart."
+msgstr ""
+
+# mes "What? You don't have a lover?";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "What? You don't have a lover?"
+msgstr ""
+
+# mes "You can still just hang on to it for yourself.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "You can still just hang on to it for yourself."
+msgstr ""
+
+# mes "The enchanting aura of the ^FF82FF'17 Carat Diamond'^000000 is likely";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "The enchanting aura of the ^FF82FF'17 Carat Diamond'^000000 is likely"
+msgstr ""
+
+# mes "to bring love into your life.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "to bring love into your life."
+msgstr ""
+
+# mes "Known as the captivating diamond of diamonds...";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Known as the captivating diamond of diamonds..."
+msgstr ""
+
+# mes "It is the ^FF82FF'17 Carat Diamond'^000000!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "It is the ^FF82FF'17 Carat Diamond'^000000!"
+msgstr ""
+
+# mes "Yes!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Yes!"
+msgstr ""
+
+# mes "Hehe, the ^FF82FF'17 Carat Diamond'^000000 you see right now";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Hehe, the ^FF82FF'17 Carat Diamond'^000000 you see right now"
+msgstr ""
+
+# mes "is one of the highest quality 17 carat diamonds.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "is one of the highest quality 17 carat diamonds."
+msgstr ""
+
+# mes "Comparing it to any pea-sized, colorless rock you may have";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Comparing it to any pea-sized, colorless rock you may have"
+msgstr ""
+
+# mes "dug up from Morroc is unspeakable!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "dug up from Morroc is unspeakable!"
+msgstr ""
+
+# mes "Some claim that this is the very same diamond";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Some claim that this is the very same diamond"
+msgstr ""
+
+# mes "that was seen by Kachua in Comodo!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "that was seen by Kachua in Comodo!"
+msgstr ""
+
+# if (select("End Conversation", "How much is it?") == 1) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "End Conversation"
+msgstr ""
+
+# if (select("End Conversation", "How much is it?") == 1) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "How much is it?"
+msgstr ""
+
+# mes "It's rather inexpensive!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "It's rather inexpensive!"
+msgstr ""
+
+# mes "If you're interested, talk to me any time!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "If you're interested, talk to me any time!"
+msgstr ""
+
+# mes "Of course! The most important thing is price!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Of course! The most important thing is price!"
+msgstr ""
+
+# mes "As I've said earlier, the ^FF82FF'17 Carat Diamond'^000000 has been";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "As I've said earlier, the ^FF82FF'17 Carat Diamond'^000000 has been"
+msgstr ""
+
+# mes "appraised as a 17 carat diamond.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "appraised as a 17 carat diamond."
+msgstr ""
+
+# mes "There aren't many like it in the world.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "There aren't many like it in the world."
+msgstr ""
+
+# mes "The price is a mere 500 million zeny!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "The price is a mere 500 million zeny!"
+msgstr ""
+
+# mes "There is also a 1,000,000z service fee.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "There is also a 1,000,000z service fee."
+msgstr ""
+
+# mes "Compared to the quality of the diamond";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Compared to the quality of the diamond"
+msgstr ""
+
+# mes "this is a small price to pay.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "this is a small price to pay."
+msgstr ""
+
+# if (select("^828282It's too expensive.^000000", "I'll buy it.") == 1) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "^828282It's too expensive.^000000"
+msgstr ""
+
+# if (select("^828282It's too expensive.^000000", "I'll buy it.") == 1) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "I'll buy it."
+msgstr ""
+
+# mes "To say that a diamond such as the";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "To say that a diamond such as the"
+msgstr ""
+
+# mes "^FF82FF'17 Carat Diamond'^000000 is too expensive, ";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "^FF82FF'17 Carat Diamond'^000000 is too expensive, "
+msgstr ""
+
+# mes "you leave me speechless.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "you leave me speechless."
+msgstr ""
+
+# mes "OOOH! I knew from the moment I saw you that you were the rightful";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "OOOH! I knew from the moment I saw you that you were the rightful"
+msgstr ""
+
+# mes "owner of this wonderful diamond.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "owner of this wonderful diamond."
+msgstr ""
+
+# mes "I'm glad I wasn't wrong!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "I'm glad I wasn't wrong!"
+msgstr ""
+
+# mes "I believe this diamond will suit you quite well.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "I believe this diamond will suit you quite well."
+msgstr ""
+
+# mes "All I need from you is to complete this contract.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "All I need from you is to complete this contract."
+msgstr ""
+
+# if (select("^B9062FI will sign the contract.^000000", "^828282Nevermind, I changed my mind.^000000") == 2) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "^B9062FI will sign the contract.^000000"
+msgstr ""
+
+# if (select("^B9062FI will sign the contract.^000000", "^828282Nevermind, I changed my mind.^000000") == 2) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "^828282Nevermind, I changed my mind.^000000"
+msgstr ""
+
+# mes "I see, that's too bad..";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "I see, that's too bad.."
+msgstr ""
+
+# mes "What is your name?";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "What is your name?"
+msgstr ""
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "["
+msgstr ""
+
+# mes "My name is " + strcharinfo(PC_NAME) + ".";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "My name is "
+msgstr ""
+
+# mes "Alright then, please sign here.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Alright then, please sign here."
+msgstr ""
+
+# mes "Okay, good.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Okay, good."
+msgstr ""
+
+# mes "All that is left now is payment.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "All that is left now is payment."
+msgstr ""
+
+# mes ". . . . . .";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid ". . . . . ."
+msgstr ""
+
+# mes "Calculating the price and service fee..";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Calculating the price and service fee.."
+msgstr ""
+
+# mes "501,000,000 zeny.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "501,000,000 zeny."
+msgstr ""
+
+# mes "Amount has been confirmed.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Amount has been confirmed."
+msgstr ""
+
+# mes "You may exchange the diamond back for zeny at any time.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "You may exchange the diamond back for zeny at any time."
+msgstr ""
+
+# mes "However, there will be a 1,000,000z service fee.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "However, there will be a 1,000,000z service fee."
+msgstr ""
+
+# mes "Thank you for your business.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Thank you for your business."
+msgstr ""
+
+# mes "Hm?";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Hm?"
+msgstr ""
+
+# mes "I'm sorry, but you don't have sufficient funds.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "I'm sorry, but you don't have sufficient funds."
+msgstr ""
+
+# mes "Including the service fee, a total of 501,000,000z is required.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Including the service fee, a total of 501,000,000z is required."
+msgstr ""
+
+# mes "Please check your zeny balance and try again.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Please check your zeny balance and try again."
+msgstr ""
+
+# mes "Is this really your signature?";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Is this really your signature?"
+msgstr ""
+
+# mes "Will sign again to confirm?";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Will sign again to confirm?"
+msgstr ""
+
+# mes "AAH. You would like to exchange your ^FF82FF'17 Carat Diamond'^000000 for zeny?";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "AAH. You would like to exchange your ^FF82FF'17 Carat Diamond'^000000 for zeny?"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 2) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "No"
+msgstr ""
+
+# mes "Then, what is it you desire?..";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Then, what is it you desire?.."
+msgstr ""
+
+# mes ". . . . . ....";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid ". . . . . ...."
+msgstr ""
+
+# mes "I see. After I receive your signature, ";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "I see. After I receive your signature, "
+msgstr ""
+
+# mes "You must offer your ^FF82FF'17 Carat Diamond'^000000.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "You must offer your ^FF82FF'17 Carat Diamond'^000000."
+msgstr ""
+
+# mes "Also don't forget there is a 1,000,000z service fee!";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Also don't forget there is a 1,000,000z service fee!"
+msgstr ""
+
+# if (select("Sign", "Don't Sign") == 2) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Sign"
+msgstr ""
+
+# if (select("Sign", "Don't Sign") == 2) {
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Don't Sign"
+msgstr ""
+
+# mes "The trade cannot be completed without your signature.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "The trade cannot be completed without your signature."
+msgstr ""
+
+# mes "Your signature has been received.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Your signature has been received."
+msgstr ""
+
+# mes "I will now take your ^FF82FF'17 Carat Diamond'^000000..";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "I will now take your ^FF82FF'17 Carat Diamond'^000000.."
+msgstr ""
+
+# mes "You will receive ^0000FF499,000,000z^000000 afterwards.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "You will receive ^0000FF499,000,000z^000000 afterwards."
+msgstr ""
+
+# mes "Whenever you need a ^FF82FF'17 Carat Diamond'^000000,";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "Whenever you need a ^FF82FF'17 Carat Diamond'^000000,"
+msgstr ""
+
+# mes "come back anytime with 500 million zeny.";
+#: npc/re/merchants/diamond.txt
+msgctxt "RareDiamondMerchant"
+msgid "come back anytime with 500 million zeny."
+msgstr ""
+
