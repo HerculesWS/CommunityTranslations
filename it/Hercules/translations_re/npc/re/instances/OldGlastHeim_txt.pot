@@ -1,0 +1,2416 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:29\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/instances/OldGlastHeim_txt.pot\n"
+
+# mes("[Hugin]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "[Hugin]"
+msgstr ""
+
+# mes("Why don't you come back after becoming stronger Maybe, level 130.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Why don't you come back after becoming stronger Maybe, level 130."
+msgstr ""
+
+# mes("A long time ago, this castle did not look like this.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "A long time ago, this castle did not look like this."
+msgstr ""
+
+# mes("Ah I'm sorry. I'm muttering in front of a stranger.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Ah I'm sorry. I'm muttering in front of a stranger."
+msgstr ""
+
+# mes("My name is Hugin. I'm studying the dimensional gap between time and space.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "My name is Hugin. I'm studying the dimensional gap between time and space."
+msgstr ""
+
+# select("There's something like that here?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "There's something like that here?"
+msgstr ""
+
+# mes("Have you ever wondered about the history of Glast Heim?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Have you ever wondered about the history of Glast Heim?"
+msgstr ""
+
+# mes("There was a King named Shumiche who was known as a tyrant in the history of the Rune-Midgarts Kingdom.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "There was a King named Shumiche who was known as a tyrant in the history of the Rune-Midgarts Kingdom."
+msgstr ""
+
+# mes("Time will reveal the true answers if we look in the right places.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Time will reveal the true answers if we look in the right places."
+msgstr ""
+
+# if (select("I don't care about history", "That is interesting. Find anything?") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "I don't care about history"
+msgstr ""
+
+# if (select("I don't care about history", "That is interesting. Find anything?") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "That is interesting. Find anything?"
+msgstr ""
+
+# mes("Really? Hmm, please come back later when you are interested then.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Really? Hmm, please come back later when you are interested then."
+msgstr ""
+
+# mes("Actually, dimensional time travel is possible but I'm so afraid to go there.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Actually, dimensional time travel is possible but I'm so afraid to go there."
+msgstr ""
+
+# mes("Yes! It might be possible for you.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Yes! It might be possible for you."
+msgstr ""
+
+# mes("Do you want to time travel?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Do you want to time travel?"
+msgstr ""
+
+# if (select("No thanks.", "Yes, of course I do!") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "No thanks."
+msgstr ""
+
+# if (select("No thanks.", "Yes, of course I do!") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Yes, of course I do!"
+msgstr ""
+
+# mes("Really? But, jumping gigawatts like this is such a great opportunity.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Really? But, jumping gigawatts like this is such a great opportunity."
+msgstr ""
+
+# mes("I knew that you would understand what I said. Well, please tell what you gonna do.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "I knew that you would understand what I said. Well, please tell what you gonna do."
+msgstr ""
+
+# mes("Umm? Did you see me at another place? I don't think so. What about this time?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Umm? Did you see me at another place? I don't think so. What about this time?"
+msgstr ""
+
+# .@md_name$ = _("Old Glast Heim");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Old Glast Heim"
+msgstr ""
+
+# mes("Why don't you make a party with more than 1 person and talk to me again?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Why don't you make a party with more than 1 person and talk to me again?"
+msgstr ""
+
+# .@menu1$ = _("Generate Time Gap");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Generate Time Gap"
+msgstr ""
+
+# switch (select(.@menu1$, "Enter Old Glast Heim", "Cancel")) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Enter Old Glast Heim"
+msgstr ""
+
+# switch (select(.@menu1$, "Enter Old Glast Heim", "Cancel")) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Cancel"
+msgstr ""
+
+# mesf("Party Name: %s", .@p_name$);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin#ghinstance"
+msgid "Party Name: %s"
+msgstr ""
+
+# mesf("Party Leader: %s", strcharinfo(PC_NAME));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin#ghinstance"
+msgid "Party Leader: %s"
+msgstr ""
+
+# mesf("^0000ff%s^000000 - Reservation Failed!", .@md_name$);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin#ghinstance"
+msgid "^0000ff%s^000000 - Reservation Failed!"
+msgstr ""
+
+# mes("The time gap was created. When you're ready, talk to me again.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "The time gap was created. When you're ready, talk to me again."
+msgstr ""
+
+# mesf("The memorial dungeon ^0000FF%s^000000 does not exist.\r"
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin#ghinstance"
+msgid "The memorial dungeon ^0000FF%s^000000 does not exist.\\rThe party leader did not generate the dungeon yet."
+msgstr ""
+
+# mapannounce("glast_01", sprintf(_$("%s, member of the party %s entered the instance %s."), strcharinfo(PC_NAME), .@p_name$, .@md_name$), bc_map, C_SPRINGGREEN);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin#ghinstance"
+msgid "%s, member of the party %s entered the instance %s."
+msgstr ""
+
+# mes("Oh, my... You still have after-effects of time travel. You can't travel in this condition.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Oh, my... You still have after-effects of time travel. You can't travel in this condition."
+msgstr ""
+
+# mes("Staying healthy is important so please take a break and come back again later.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "Staying healthy is important so please take a break and come back again later."
+msgstr ""
+
+# mes("^0000FFAll trace of access to Old Glast Heim have been removed. Now you can talk with Hugin again.^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance"
+msgid "^0000FFAll trace of access to Old Glast Heim have been removed. Now you can talk with Hugin again.^000000"
+msgstr ""
+
+# mes("[Varmundt]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "[Varmundt]"
+msgstr ""
+
+# mes("Where's your leader? I need his help.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Where's your leader? I need his help."
+msgstr ""
+
+# mes("Are you the one ^0000FFHerico^000000 sent to help me?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Are you the one ^0000FFHerico^000000 sent to help me?"
+msgstr ""
+
+# npctalk(_("Are you the one Herico sent to help me?"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Are you the one Herico sent to help me?"
+msgstr ""
+
+# select("Oh. Well I...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Oh. Well I..."
+msgstr ""
+
+# mesf("[%s]", strcharinfo(PC_NAME));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Varmundt#ghinstance1"
+msgid "[%s]"
+msgstr ""
+
+# mes("Ah yes, I am. Herico told me to meet you.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Ah yes, I am. Herico told me to meet you."
+msgstr ""
+
+# mes("We don't have much time. We must report to Sir. Heinrich about Himelmez's invasion.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "We don't have much time. We must report to Sir. Heinrich about Himelmez's invasion."
+msgstr ""
+
+# select("Himelmez...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Himelmez..."
+msgstr ""
+
+# mes("Who is Himelmez?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Who is Himelmez?"
+msgstr ""
+
+# mes("Herico didn't tell you?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Herico didn't tell you?"
+msgstr ""
+
+# mes("She is the Ruler of Death, Dead man's Valkyrie. Himelmez is looking to take the heart of Ymir from us.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "She is the Ruler of Death, Dead man's Valkyrie. Himelmez is looking to take the heart of Ymir from us."
+msgstr ""
+
+# mes("She might even destroy this whole castle if she wanted to.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "She might even destroy this whole castle if she wanted to."
+msgstr ""
+
+# mes("Hurry! Report to Sir. Heinrich about Himelmez. I must check the defense barrier here!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance1"
+msgid "Hurry! Report to Sir. Heinrich about Himelmez. I must check the defense barrier here!"
+msgstr ""
+
+# mesf("[%s]", strnpcinfo(NPC_NAME_VISIBLE));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Khalitzburg Knight#1"
+msgid "[%s]"
+msgstr ""
+
+# mes("Is there something you need?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "Is there something you need?"
+msgstr ""
+
+# mes("What can I do for you?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "What can I do for you?"
+msgstr ""
+
+# mes("...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "..."
+msgstr ""
+
+# mes("I do not like to chat during work.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "I do not like to chat during work."
+msgstr ""
+
+# mes("Doesn't this castle seem weird all of a sudden? Something's not quite right.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "Doesn't this castle seem weird all of a sudden? Something's not quite right."
+msgstr ""
+
+# mes("How do you know Varmundt? I heard that he's not really a friendly man...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "How do you know Varmundt? I heard that he's not really a friendly man..."
+msgstr ""
+
+# mes("Orders please.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "Orders please."
+msgstr ""
+
+# mes("Please do not make a mess here.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "Please do not make a mess here."
+msgstr ""
+
+# mes("I had a weird dream last night. My mom was in it... Wonder if she is ok...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "I had a weird dream last night. My mom was in it... Wonder if she is ok..."
+msgstr ""
+
+# mes("Are you wit Varmundt? Commander is waiting for you.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "Are you wit Varmundt? Commander is waiting for you."
+msgstr ""
+
+# mes("My work shift will be over soon, but the next crew is not coming.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1"
+msgid "My work shift will be over soon, but the next crew is not coming."
+msgstr ""
+
+# mes("[Heinrich]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "[Heinrich]"
+msgstr ""
+
+# mes("Where is your leader? I must talk to him.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Where is your leader? I must talk to him."
+msgstr ""
+
+# select("Sir. Heinrich. Varmundt...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Sir. Heinrich. Varmundt..."
+msgstr ""
+
+# mesf("[%s]", strcharinfo(PC_NAME));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Heinrich#ghinstance1"
+msgid "[%s]"
+msgstr ""
+
+# mes("Sir. Heinrich. Do you know what is happening in the castle now?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Sir. Heinrich. Do you know what is happening in the castle now?"
+msgstr ""
+
+# mes("Aren't you the adventurer that came along with Varmundt?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Aren't you the adventurer that came along with Varmundt?"
+msgstr ""
+
+# mes("What is it? Something wrong with the castle?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "What is it? Something wrong with the castle?"
+msgstr ""
+
+# select("Himelmez's invasion...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Himelmez's invasion..."
+msgstr ""
+
+# mes("Dead man's Valkyrie, Himelmez is coming to take the Ymir's Heart piece hidden inside this castle!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Dead man's Valkyrie, Himelmez is coming to take the Ymir's Heart piece hidden inside this castle!"
+msgstr ""
+
+# mes("Haha. Funny. Do you really think that is possible?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Haha. Funny. Do you really think that is possible?"
+msgstr ""
+
+# mes("[Varmundt]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "[Varmundt]"
+msgstr ""
+
+# mes("I'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "I'm not kidding, Sir. Heinrich. If I'm correct, then she will be here very soon."
+msgstr ""
+
+# mes("We must hide the heart piece to a safe place before Himelmez's attack starts!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "We must hide the heart piece to a safe place before Himelmez's attack starts!"
+msgstr ""
+
+# select("Even if you don't believe me...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Even if you don't believe me..."
+msgstr ""
+
+# mes("I can't make you believe me, but there's no time to argue!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "I can't make you believe me, but there's no time to argue!"
+msgstr ""
+
+# mes("Thank you for the help. But, we don't even have our king with us right now.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "Thank you for the help. But, we don't even have our king with us right now."
+msgstr ""
+
+# mes("We cannot risk moving the heart just because some stranger says so.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "We cannot risk moving the heart just because some stranger says so."
+msgstr ""
+
+# mapannounce(instance_mapname("1@gl_k"), _("????: Muahahahaha~!"), bc_map, C_YELLOW, FW_NORMAL, 18);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance1"
+msgid "????: Muahahahaha~!"
+msgstr ""
+
+# npctalk(_("Who are you?"), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Who are you?"
+msgstr ""
+
+# npctalk(_("Well well~ Am I interrupting you? Weren't you expecting me?"), instance_npcname("Himelmez#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Well well~ Am I interrupting you? Weren't you expecting me?"
+msgstr ""
+
+# npctalk(_("Himelmez!! Already!"), instance_npcname("Varmundt#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Himelmez!! Already!"
+msgstr ""
+
+# npctalk(_("My name is Lisa Kahn Himelmez. Master of Dullahan, Dead man's Valkyrie, that's what they call me."), instance_npcname("Himelmez#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "My name is Lisa Kahn Himelmez. Master of Dullahan, Dead man's Valkyrie, that's what they call me."
+msgstr ""
+
+# npctalk(_("Aren't you a little too feminine to be the Ruler of death? We are not afraid of you..."), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Aren't you a little too feminine to be the Ruler of death? We are not afraid of you..."
+msgstr ""
+
+# npctalk(_("Let's see if you can relax like that after you find out where your king is."), instance_npcname("Himelmez#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Let's see if you can relax like that after you find out where your king is."
+msgstr ""
+
+# npctalk(_("What?"), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "What?"
+msgstr ""
+
+# npctalk(_("Hmm, now I have your attention do I not?"), instance_npcname("Himelmez#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Hmm, now I have your attention do I not?"
+msgstr ""
+
+# npctalk(_("It's a pity to meet you in a situation like this."), instance_npcname("Himelmez#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "It's a pity to meet you in a situation like this."
+msgstr ""
+
+# npctalk(_("My king is visiting the Rune-Midgarts royal family. He's not back yet."), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "My king is visiting the Rune-Midgarts royal family. He's not back yet."
+msgstr ""
+
+# npctalk(_("And now you are trying to trick me, what has happened to him?!"), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "And now you are trying to trick me, what has happened to him?!"
+msgstr ""
+
+# npctalk(_("Well~ I would love to sit down and explain for you, but I'm kind of busy today~"), instance_npcname("Himelmez#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Well~ I would love to sit down and explain for you, but I'm kind of busy today~"
+msgstr ""
+
+# npctalk(_("I have business to take care of. My minions will treat you well enough for me~"), instance_npcname("Himelmez#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I have business to take care of. My minions will treat you well enough for me~"
+msgstr ""
+
+# npctalk(_("She probably already knows where the Ymir's heart piece is."), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "She probably already knows where the Ymir's heart piece is."
+msgstr ""
+
+# npctalk(_("All Khalitzburg and White Knights should follow me now..."), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "All Khalitzburg and White Knights should follow me now..."
+msgstr ""
+
+# monster(.@map$, 145, 59, _("Abysmal Knight"), MG_KNIGHT_OF_ABYSS, 1, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Abysmal Knight"
+msgstr ""
+
+# monster(.@map$, 145, 54, _("Khalitzburg"), MG_KHALITZBURG, 1, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Khalitzburg"
+msgstr ""
+
+# unittalk($@mobid[0], _("Water... Someone give me water..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Water... Someone give me water..."
+msgstr ""
+
+# unittalk($@mobid[0], _("Sir. Heinrich. Save me..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Sir. Heinrich. Save me..."
+msgstr ""
+
+# unittalk($@mobid[0], _("I miss my sister..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I miss my sister..."
+msgstr ""
+
+# unittalk($@mobid[0], _("Don't leave me alone, help me."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Don't leave me alone, help me."
+msgstr ""
+
+# unittalk($@mobid[0], _("I am so thirsty."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I am so thirsty."
+msgstr ""
+
+# unittalk($@mobid[0], _("Oh...No...I can't die yet..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Oh...No...I can't die yet..."
+msgstr ""
+
+# unittalk($@mobid[0], _("I feel sick to my stomach urrgg"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I feel sick to my stomach urrgg"
+msgstr ""
+
+# unittalk($@mobid[0], _("Can someone..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Can someone..."
+msgstr ""
+
+# unittalk($@mobid[0], _("My throat is burning!"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "My throat is burning!"
+msgstr ""
+
+# npctalk(_("My men... This can't be happening!"), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "My men... This can't be happening!"
+msgstr ""
+
+# npctalk(_("Sir. Heinrich, they're all monsters. You need to give them rest!"), instance_npcname("Varmundt#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Sir. Heinrich, they're all monsters. You need to give them rest!"
+msgstr ""
+
+# npctalk(_("I'm so sorry..."), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I'm so sorry..."
+msgstr ""
+
+# npctalk(_("I am sorry, my knights! Forgive me!"), instance_npcname("Heinrich#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I am sorry, my knights! Forgive me!"
+msgstr ""
+
+# mapannounce(instance_mapname("1@gl_k"), _("Sir. Heinrich: Death to all!"), bc_map, C_YELLOW, FW_NORMAL, 18);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Sir. Heinrich: Death to all!"
+msgstr ""
+
+# mapannounce(instance_mapname("1@gl_k"), _("Sir. Heinrich: Go back to the darkness!"), bc_map, C_YELLOW, FW_NORMAL, 18);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Sir. Heinrich: Go back to the darkness!"
+msgstr ""
+
+# npctalk(_("I killed my own men..."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I killed my own men..."
+msgstr ""
+
+# npctalk(_("Sir. Heinrich! We don't have much time!"), instance_npcname("Varmundt#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Sir. Heinrich! We don't have much time!"
+msgstr ""
+
+# npctalk(_("If you hurry now, there's a chance!"), instance_npcname("Varmundt#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "If you hurry now, there's a chance!"
+msgstr ""
+
+# npctalk(_("Varmundt is right. Now is not the time for mourning."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Varmundt is right. Now is not the time for mourning."
+msgstr ""
+
+# npctalk(_("I have a request to you followers."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "I have a request to you followers."
+msgstr ""
+
+# npctalk(_("Himelmez can turn living beings into monsters."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Himelmez can turn living beings into monsters."
+msgstr ""
+
+# npctalk(_("But, there might still be survivors here."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "But, there might still be survivors here."
+msgstr ""
+
+# npctalk(_("Destroy the monsters and find any survivors."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Destroy the monsters and find any survivors."
+msgstr ""
+
+# npctalk(_("Varmundt and I will chase Himelmez."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Varmundt and I will chase Himelmez."
+msgstr ""
+
+# npctalk(_("Very well, Varmundt. Let's find Himelmez."), instance_npcname("Heinrich#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "Very well, Varmundt. Let's find Himelmez."
+msgstr ""
+
+# mapannounce(instance_mapname("1@gl_k"), _("A portal has opened to the west."), bc_map, C_YELLOW);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#talkinstance1"
+msgid "A portal has opened to the west."
+msgstr ""
+
+# areamonster(.@map$, 76, 99, 87, 10, _("Grand Chamberlain in pain"), MG_GHOUL, 15, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob01"
+msgid "Grand Chamberlain in pain"
+msgstr ""
+
+# areamonster(.@map$, 67, 39, 12, 6, _("Corrupted Monk"), MG_WRAITH, 20, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob01"
+msgid "Corrupted Monk"
+msgstr ""
+
+# areamonster(.@map$, 32, 75, 51, 58, _("Corrupted Steward"), MG_ZOMBIE, 6, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob01"
+msgid "Corrupted Steward"
+msgstr ""
+
+# mapannounce(.@map$, _("Himelmez's curse is getting weaker. Find any survivors!"), bc_map, C_WHITE);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob01"
+msgid "Himelmez's curse is getting weaker. Find any survivors!"
+msgstr ""
+
+# mes("[Altar boy Domun]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "[Altar boy Domun]"
+msgstr ""
+
+# mes("Save me, save me, please...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Save me, save me, please..."
+msgstr ""
+
+# mes("Save me! Save me!!!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Save me! Save me!!!"
+msgstr ""
+
+# select("Hold on!Are you the only survivor?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Hold on!Are you the only survivor?"
+msgstr ""
+
+# mesf("[%s]", strcharinfo(PC_NAME));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Altar boy Domun#clearGH"
+msgid "[%s]"
+msgstr ""
+
+# mes("Hold on!\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Hold on!\\rAre you the only survivor?"
+msgstr ""
+
+# unittalk(getcharid(CHAR_ID_ACCOUNT), _("Hold on! Are you the only survivor?"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Hold on! Are you the only survivor?"
+msgstr ""
+
+# mes("Chamberlains... monks...\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Chamberlains... monks...\\rThey all turned into monsters. I couldn't do anything."
+msgstr ""
+
+# npctalk(_("Altar boy Domun : Chamberlains... monks... They all turned into monsters. I couldn't do anything."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Altar boy Domun : Chamberlains... monks... They all turned into monsters. I couldn't do anything."
+msgstr ""
+
+# mes("All I could do was... \r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "All I could do was... \\rJust hide in here...\\rNothing, nothing I could do..."
+msgstr ""
+
+# npctalk(_("Altar boy Domun : All I could do was... Just hide in here... Nothing, nothing I could do..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Altar boy Domun : All I could do was... Just hide in here... Nothing, nothing I could do..."
+msgstr ""
+
+# select("Pull it together!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Pull it together!"
+msgstr ""
+
+# mes("Wake up kid! Go east and find the middle passage to the outside! That is safe!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Wake up kid! Go east and find the middle passage to the outside! That is safe!"
+msgstr ""
+
+# mes("To the east passage?\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "To the east passage?\\rAlone?\\rHow?"
+msgstr ""
+
+# npctalk(_("Altar boy Domun : To the east passage? Alone? How?"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Altar boy Domun : To the east passage? Alone? How?"
+msgstr ""
+
+# select("I will give you a weapon.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "I will give you a weapon."
+msgstr ""
+
+# mes("Here's a weapon. Just close your eye and swing for those monsters.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Here's a weapon. Just close your eye and swing for those monsters."
+msgstr ""
+
+# mes("Ok, I... I'l try.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Ok, I... I'l try."
+msgstr ""
+
+# npctalk(_("Altar boy Domun : Ok, I... I'l try."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Altar boy Domun#clearGH"
+msgid "Altar boy Domun : Ok, I... I'l try."
+msgstr ""
+
+# mapannounce(.@map$, _("A portal has opened to the east."), bc_map, C_YELLOW);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob02"
+msgid "A portal has opened to the east."
+msgstr ""
+
+# areamonster(.@map$, 241, 113, 291, 19, _("Outraged Refiner"), MG_GHOUL, 12, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob02"
+msgid "Outraged Refiner"
+msgstr ""
+
+# areamonster(.@map$, 241, 113, 291, 19, _("Decomposed Blacksmith"), MG_ZOMBIE, 12, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob02"
+msgid "Decomposed Blacksmith"
+msgstr ""
+
+# mapannounce(.@map$, _("Himelmez's curse is getting weaker. Find any survivors!"), bc_map, C_WHITE);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob02"
+msgid "Himelmez's curse is getting weaker. Find any survivors!"
+msgstr ""
+
+# mes("[Holgren the Destroyer]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "[Holgren the Destroyer]"
+msgstr ""
+
+# mes("Are you human?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Are you human?"
+msgstr ""
+
+# mes("Die!! You shall die!!!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Die!! You shall die!!!"
+msgstr ""
+
+# npctalk(_("Holgren the Destroyer : Die!! You shall die!!!"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Holgren the Destroyer : Die!! You shall die!!!"
+msgstr ""
+
+# select("Relax! I'm not a monster!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Relax! I'm not a monster!"
+msgstr ""
+
+# mesf("[%s]", strcharinfo(PC_NAME));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Holgren the Destroyer"
+msgid "[%s]"
+msgstr ""
+
+# mes("Relax! I am Human. Are you alone? Anyone else here?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Relax! I am Human. Are you alone? Anyone else here?"
+msgstr ""
+
+# mes("It's only me alive.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "It's only me alive."
+msgstr ""
+
+# npctalk(_("Holgren the Destroyer : It's only me alive."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Holgren the Destroyer : It's only me alive."
+msgstr ""
+
+# select("It's dangerous here...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "It's dangerous here..."
+msgstr ""
+
+# mes("It's dangerous here. You know the way to the middle passage? Can you move?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "It's dangerous here. You know the way to the middle passage? Can you move?"
+msgstr ""
+
+# mes("Yes, I can move. I need to get out of here.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Yes, I can move. I need to get out of here."
+msgstr ""
+
+# npctalk(_("Holgren the Destroyer : Yes, I can move. I need to get out of here."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Holgren the Destroyer : Yes, I can move. I need to get out of here."
+msgstr ""
+
+# select("Be safe...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Be safe..."
+msgstr ""
+
+# mes("Sorry, I can't go with you.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Sorry, I can't go with you."
+msgstr ""
+
+# mes("It's ok. You've already done enough. I can help myself. Good luck to you too.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "It's ok. You've already done enough. I can help myself. Good luck to you too."
+msgstr ""
+
+# npctalk(_("Holgren the Destroyer : It's ok. You've already done enough. I can help myself. Good luck to you too."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Holgren the Destroyer"
+msgid "Holgren the Destroyer : It's ok. You've already done enough. I can help myself. Good luck to you too."
+msgstr ""
+
+# monster(.@map$, .@x, .@y, _("Maggot"), MG_ARCLOUSE, .@mobs, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "A dead man#GHtramp1"
+msgid "Maggot"
+msgstr ""
+
+# mapannounce(.@map$, _("A portal has appeared to the northwest."), bc_map, C_YELLOW);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob03"
+msgid "A portal has appeared to the northwest."
+msgstr ""
+
+# areamonster(.@map$, 17, 259, 53, 180, _("Hungry Palace Guard"), MG_RAYDRIC, 11, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob03"
+msgid "Hungry Palace Guard"
+msgstr ""
+
+# areamonster(.@map$, 17, 259, 53, 180, _("Outraged Archer"), MG_RAYDRIC_ARCHER, 14, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob03"
+msgid "Outraged Archer"
+msgstr ""
+
+# areamonster(.@map$, 74, 251, 109, 224, _("Corrupted Palace Guard"), MG_RAYDRIC, 11, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob03"
+msgid "Corrupted Palace Guard"
+msgstr ""
+
+# areamonster(.@map$, 74, 251, 109, 224, _("Wandering Archer"), MG_RAYDRIC_ARCHER, 14, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob03"
+msgid "Wandering Archer"
+msgstr ""
+
+# mapannounce(.@map$, _("Himelmez: Not bad. Thought you would be dead by now by my creatures~"), bc_map, C_WHITE);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob03"
+msgid "Himelmez: Not bad. Thought you would be dead by now by my creatures~"
+msgstr ""
+
+# monster(instance_mapname("1@gl_k"), 150, 258, _("Corrupted Soul"), MG_CORRUPTION_ROOT, 1, instance_npcname("#ghmemorialmob04")+"::OnMyMobDead");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob04"
+msgid "Corrupted Soul"
+msgstr ""
+
+# unittalk($@mobid[0], _("Grrrrrrhh~~~"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob04"
+msgid "Grrrrrrhh~~~"
+msgstr ""
+
+# mapannounce(.@map$, _("Opening 2nd floor entrance towards 12 O'clock direction."), bc_map, C_YELLOW);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob04"
+msgid "Opening 2nd floor entrance towards 12 O'clock direction."
+msgstr ""
+
+# npctalk(_("I collected some items dropped from its body. You can take it from me."), instance_npcname("Varmundt#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob04"
+msgid "I collected some items dropped from its body. You can take it from me."
+msgstr ""
+
+# mapannounce(instance_mapname("1@gl_k"), _("Himelmez: I'll wait for you at the north of the castle. I want to see you how lucky you are."), bc_map, C_WHITE);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#GHMclear3"
+msgid "Himelmez: I'll wait for you at the north of the castle. I want to see you how lucky you are."
+msgstr ""
+
+# npctalk(_("Guess you are either lucky or powerful, to make it this far."), instance_npcname("Himelmez#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "Guess you are either lucky or powerful, to make it this far."
+msgstr ""
+
+# npctalk(_("But, it doesn't matter."), instance_npcname("Himelmez#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "But, it doesn't matter."
+msgstr ""
+
+# npctalk(_("You will all die here."), instance_npcname("Himelmez#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "You will all die here."
+msgstr ""
+
+# npctalk(_("Himelmez! We will not let you get away from us!"), instance_npcname("Heinrich#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "Himelmez! We will not let you get away from us!"
+msgstr ""
+
+# npctalk(_("Ha ha ha, worry about yourself. You think I am alone here?"), instance_npcname("Himelmez#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "Ha ha ha, worry about yourself. You think I am alone here?"
+msgstr ""
+
+# npctalk(_("Sir. Heinrich! I sense something strange and strong coming!"), instance_npcname("Varmundt#ghinstance3"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "Sir. Heinrich! I sense something strange and strong coming!"
+msgstr ""
+
+# npctalk(_("What... These are!"), instance_npcname("Heinrich#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "What... These are!"
+msgstr ""
+
+# npctalk(_("I will go on my way while my new toy entertains you."), instance_npcname("Himelmez#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "I will go on my way while my new toy entertains you."
+msgstr ""
+
+# npctalk(_("Fare well~, hope to see you again sometime, Heinrich."), instance_npcname("Himelmez#ghinstance2"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "Fare well~, hope to see you again sometime, Heinrich."
+msgstr ""
+
+# npctalk(_("Sir. Varmundt! Help those adventurers. I will go after Himelmez!"), instance_npcname("Heinrich#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "Sir. Varmundt! Help those adventurers. I will go after Himelmez!"
+msgstr ""
+
+# mapannounce(instance_mapname("1@gl_k"), _("An echoing comes from deep inside of the knight's shrine."), bc_map, C_WHITE);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH3"
+msgid "An echoing comes from deep inside of the knight's shrine."
+msgstr ""
+
+# mes("[Heinrich]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance4"
+msgid "[Heinrich]"
+msgstr ""
+
+# mes("Himelmez... I will never forget what you've done to my men.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance4"
+msgid "Himelmez... I will never forget what you've done to my men."
+msgstr ""
+
+# mes("[Himelmez]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Himelmez#ghinstance2"
+msgid "[Himelmez]"
+msgstr ""
+
+# mes("Don't look at me nervous like that. It will be over soon...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Himelmez#ghinstance2"
+msgid "Don't look at me nervous like that. It will be over soon..."
+msgstr ""
+
+# mes("[Varmundt]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance3"
+msgid "[Varmundt]"
+msgstr ""
+
+# mes("This item has extraordinary aura with it. Can be very useful for someone special.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance3"
+msgid "This item has extraordinary aura with it. Can be very useful for someone special."
+msgstr ""
+
+# mes("I guess this is it. Is it impossible to stop the time traveler's will?! A portal seems to have appeared to the north.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance3"
+msgid "I guess this is it. Is it impossible to stop the time traveler's will?! A portal seems to have appeared to the north."
+msgstr ""
+
+# mes("[Heinrich]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance5"
+msgid "[Heinrich]"
+msgstr ""
+
+# mes("Himelmez's closed space covers everywhere...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance5"
+msgid "Himelmez's closed space covers everywhere..."
+msgstr ""
+
+# mes("[Varmundt]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance4"
+msgid "[Varmundt]"
+msgstr ""
+
+# mes("How many times I do this job. In my dream, I did it over and over again...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance4"
+msgid "How many times I do this job. In my dream, I did it over and over again..."
+msgstr ""
+
+# npctalk(_("This structure was not in the castle before!"), instance_npcname("Heinrich#ghinstance5"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "This structure was not in the castle before!"
+msgstr ""
+
+# npctalk(_("This is Himelmez's closed space. We blocked each area and aisle."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "This is Himelmez's closed space. We blocked each area and aisle."
+msgstr ""
+
+# npctalk(_("We tried to break it down but it's really strong."), instance_npcname("Heinrich#ghinstance5"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "We tried to break it down but it's really strong."
+msgstr ""
+
+# npctalk(_("Step back. Let me try to dispel the magic."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Step back. Let me try to dispel the magic."
+msgstr ""
+
+# npctalk(_("I think that part of closed space is broke down."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "I think that part of closed space is broke down."
+msgstr ""
+
+# npctalk(_("I have never seen this closed space."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "I have never seen this closed space."
+msgstr ""
+
+# npctalk(_("Himelmez hides stone chains in undead people's body."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Himelmez hides stone chains in undead people's body."
+msgstr ""
+
+# npctalk(_("Maybe this closed space is maintained with these stone chains."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Maybe this closed space is maintained with these stone chains."
+msgstr ""
+
+# npctalk(_("If you want to break it, you have to kill one of those who have a stone chain."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "If you want to break it, you have to kill one of those who have a stone chain."
+msgstr ""
+
+# npctalk(_("But, we can't recognize who has a stone chain so, we have to purify everything."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "But, we can't recognize who has a stone chain so, we have to purify everything."
+msgstr ""
+
+# npctalk(_("It is inexcusable behavior."), instance_npcname("Heinrich#ghinstance5"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "It is inexcusable behavior."
+msgstr ""
+
+# npctalk(_("I already exterminated all my soldiers and maybe more..."), instance_npcname("Heinrich#ghinstance5"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "I already exterminated all my soldiers and maybe more..."
+msgstr ""
+
+# npctalk(_("Commander..."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Commander..."
+msgstr ""
+
+# npctalk(_("Commander! You need to be strong."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Commander! You need to be strong."
+msgstr ""
+
+# npctalk(_("Our enemy is not human."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Our enemy is not human."
+msgstr ""
+
+# npctalk(_("Even though you deny it, they'll never turn back to human."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Even though you deny it, they'll never turn back to human."
+msgstr ""
+
+# npctalk(_("..."), instance_npcname("Heinrich#ghinstance5"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "..."
+msgstr ""
+
+# npctalk(_("Well, let's go then."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Well, let's go then."
+msgstr ""
+
+# npctalk(_("And you guys, just take a break and follow us."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "And you guys, just take a break and follow us."
+msgstr ""
+
+# npctalk(_("It could be hard fighting so, stay strong."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "It could be hard fighting so, stay strong."
+msgstr ""
+
+# npctalk(_("Ok, it's time to begin Heinrich."), instance_npcname("Varmundt#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "Ok, it's time to begin Heinrich."
+msgstr ""
+
+# mapannounce(instance_mapname("2@gl_k"), _("A portal to the west has opened in the central hallway."), bc_map, C_YELLOW);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH4"
+msgid "A portal to the west has opened in the central hallway."
+msgstr ""
+
+# areamonster(.@map$, 124, 20, 31, 162, _("Corrupted Palace Guard"), MG_RAYDRIC, 8, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob05"
+msgid "Corrupted Palace Guard"
+msgstr ""
+
+# areamonster(.@map$, 124, 20, 31, 162, _("Archer of Death"), MG_RAYDRIC_ARCHER, 8, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob05"
+msgid "Archer of Death"
+msgstr ""
+
+# areamonster(.@map$, 124, 20, 31, 162, _("Corrupted Abysmal Knight"), MG_KNIGHT_OF_ABYSS, 8, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob05"
+msgid "Corrupted Abysmal Knight"
+msgstr ""
+
+# areamonster(.@map$, 124, 20, 31, 162, _("Suffered Khalitzburg"), MG_KHALITZBURG, 8, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob05"
+msgid "Suffered Khalitzburg"
+msgstr ""
+
+# areamonster(.@map$, 124, 20, 31, 162, _("Bloody Knight"), MG_BLOODY_KNIGHT, 8, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob05"
+msgid "Bloody Knight"
+msgstr ""
+
+# mapannounce(.@map$, _("Evil Forces are appearing in this area."), bc_map, C_YELLOW, FW_NORMAL, 18);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob05"
+msgid "Evil Forces are appearing in this area."
+msgstr ""
+
+# areamonster(.@map$, .@c[.@i], .@c[.@i+1], .@c[.@i+2], .@c[.@i+3], _("Corrupted Palace Guard"), MG_RAYDRIC, 1, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob06"
+msgid "Corrupted Palace Guard"
+msgstr ""
+
+# areamonster(.@map$, .@c[.@i], .@c[.@i+1], .@c[.@i+2], .@c[.@i+3], _("Archer of Death"), MG_RAYDRIC_ARCHER, 1, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob06"
+msgid "Archer of Death"
+msgstr ""
+
+# areamonster(.@map$, .@c[.@i], .@c[.@i+1], .@c[.@i+2], .@c[.@i+3], _("Corrupted Abysmal Knight"), MG_KNIGHT_OF_ABYSS, 1, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob06"
+msgid "Corrupted Abysmal Knight"
+msgstr ""
+
+# areamonster(.@map$, .@c[.@i], .@c[.@i+1], .@c[.@i+2], .@c[.@i+3], _("Suffered Khalitzburg"), MG_KHALITZBURG, 1, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob06"
+msgid "Suffered Khalitzburg"
+msgstr ""
+
+# areamonster(.@map$, .@c[.@i], .@c[.@i+1], .@c[.@i+2], .@c[.@i+3], _("Bloody Knight"), MG_BLOODY_KNIGHT, 1, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob06"
+msgid "Bloody Knight"
+msgstr ""
+
+# areamonster(instance_mapname("2@gl_k"), 124, 20, 31, 162, _("1st Commander of Destruction"), MG_M_UNDEAD_KNIGHT, 1, instance_npcname("#ghmemorialmob07")+"::OnMyMobDead");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob07"
+msgid "1st Commander of Destruction"
+msgstr ""
+
+# mapannounce(.@map$, _("A portal has opened to the east in the central hallway."), bc_map, C_YELLOW);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob07"
+msgid "A portal has opened to the east in the central hallway."
+msgstr ""
+
+# areamonster(.@map$, 175, 163, 265, 18, _("Corrupted Palace Guard"), MG_RAYDRIC, 7, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob08"
+msgid "Corrupted Palace Guard"
+msgstr ""
+
+# areamonster(.@map$, 175, 163, 265, 18, _("Wandering Archer"), MG_RAYDRIC_ARCHER, 7, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob08"
+msgid "Wandering Archer"
+msgstr ""
+
+# areamonster(.@map$, 175, 163, 265, 18, _("Corrupted Abysmal Knight"), MG_KNIGHT_OF_ABYSS, 7, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob08"
+msgid "Corrupted Abysmal Knight"
+msgstr ""
+
+# areamonster(.@map$, 175, 163, 265, 18, _("Suffered Khalitzburg"), MG_KHALITZBURG, 7, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob08"
+msgid "Suffered Khalitzburg"
+msgstr ""
+
+# areamonster(.@map$, 175, 163, 265, 18, _("Bloody Knight"), MG_BLOODY_KNIGHT, 7, .@label$);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob08"
+msgid "Bloody Knight"
+msgstr ""
+
+# mapannounce(.@map$, _("An evil presence has teleported into this area."), bc_map, C_YELLOW, FW_NORMAL, 18);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob08"
+msgid "An evil presence has teleported into this area."
+msgstr ""
+
+# areamonster(instance_mapname("2@gl_k"), 175, 163, 265, 18, _("2nd Commander of Destruction"), MG_F_UNDEAD_KNIGHT, 1, instance_npcname("#ghmemorialmob09")+"::OnMyMobDead");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob09"
+msgid "2nd Commander of Destruction"
+msgstr ""
+
+# mapannounce(.@map$, _("A new portal has appeared at the end of the central corridor."), bc_map, C_YELLOW);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob09"
+msgid "A new portal has appeared at the end of the central corridor."
+msgstr ""
+
+# monster(instance_mapname("2@gl_k"), 158, 255, _("Amdarais"), MG_AMDARAIS, 1, instance_npcname("#ghmemorialmob10")+"::OnMyMobDead");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob10"
+msgid "Amdarais"
+msgstr ""
+
+# unittalk($@mobid[0], _("Run away... run away from me..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob10"
+msgid "Run away... run away from me..."
+msgstr ""
+
+# unittalk($@mobid[0], _("I don't want... I don't want to kill anyone. Uhuuuuuh"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob10"
+msgid "I don't want... I don't want to kill anyone. Uhuuuuuh"
+msgstr ""
+
+# unittalk($@mobid[0], _("Please kill me! Please!"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob10"
+msgid "Please kill me! Please!"
+msgstr ""
+
+# unittalk($@mobid[0], _("Eeeeee...eee...die... die..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob10"
+msgid "Eeeeee...eee...die... die..."
+msgstr ""
+
+# unittalk($@mobid[0], _("Demolition... Death!..."));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#ghmemorialmob10"
+msgid "Demolition... Death!..."
+msgstr ""
+
+# mes("[Heinrich]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance6"
+msgid "[Heinrich]"
+msgstr ""
+
+# mes("What are you decorating Himelmez!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Heinrich#ghinstance6"
+msgid "What are you decorating Himelmez!"
+msgstr ""
+
+# mes("[Varmundt]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance5"
+msgid "[Varmundt]"
+msgstr ""
+
+# mes("Can't take off this bridle...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Varmundt#ghinstance5"
+msgid "Can't take off this bridle..."
+msgstr ""
+
+# mes("[Himelmez]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Himelmez#ghinstance4"
+msgid "[Himelmez]"
+msgstr ""
+
+# mes("That is amazing ~ you made it all the way here. May I say thank you?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Himelmez#ghinstance4"
+msgid "That is amazing ~ you made it all the way here. May I say thank you?"
+msgstr ""
+
+# mapannounce(instance_mapname("2@gl_k"), _("???: Do not come here! It's a trap... Kkkkah!!!"), bc_map, C_RED, FW_NORMAL, 18);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH6"
+msgid "???: Do not come here! It's a trap... Kkkkah!!!"
+msgstr ""
+
+# mes("[Gerhalt]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Gerhalt#ghinstance1"
+msgid "[Gerhalt]"
+msgstr ""
+
+# mes("Uuuuu... Khhhah!\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Gerhalt#ghinstance1"
+msgid "Uuuuu... Khhhah!\\rJust run away with the commander!"
+msgstr ""
+
+# npctalk(_("Gerhalt : You can make my body but you can't take my soul Himelmez!"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Gerhalt#ghinstance1"
+msgid "Gerhalt : You can make my body but you can't take my soul Himelmez!"
+msgstr ""
+
+# npctalk(_("Amazing~ I thought that you were not even close to getting here..."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Amazing~ I thought that you were not even close to getting here..."
+msgstr ""
+
+# npctalk(_("Gerhalt : Kkkkah! Run away! I can't endure anymore!"), instance_npcname("Gerhalt#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Gerhalt : Kkkkah! Run away! I can't endure anymore!"
+msgstr ""
+
+# npctalk(_("Gerhalt!"), instance_npcname("Heinrich#ghinstance6"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Gerhalt!"
+msgstr ""
+
+# npctalk(_("What are you doing to my soldier Himelmez!"), instance_npcname("Heinrich#ghinstance6"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "What are you doing to my soldier Himelmez!"
+msgstr ""
+
+# npctalk(_("Hoo hoo, I already found a piece of Ymir's heart Heinrich."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Hoo hoo, I already found a piece of Ymir's heart Heinrich."
+msgstr ""
+
+# npctalk(_("If he did not bother me, it would have been faster."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "If he did not bother me, it would have been faster."
+msgstr ""
+
+# npctalk(_("Gerhalt : Commandant... Come on, you need to run away from here... Ugh."), instance_npcname("Gerhalt#ghinstance1"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Gerhalt : Commandant... Come on, you need to run away from here... Ugh."
+msgstr ""
+
+# npctalk(_("Really? What makes you think so?"), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Really? What makes you think so?"
+msgstr ""
+
+# npctalk(_("Himelmez! You already made what you want so there is no more need for a sacrifice!"), instance_npcname("Heinrich#ghinstance6"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Himelmez! You already made what you want so there is no more need for a sacrifice!"
+msgstr ""
+
+# npctalk(_("Let him go! I don't need to see anyone else suffer!"), instance_npcname("Heinrich#ghinstance6"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Let him go! I don't need to see anyone else suffer!"
+msgstr ""
+
+# npctalk(_("Let him go? I think... No..."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Let him go? I think... No..."
+msgstr ""
+
+# npctalk(_("Besides, this is your last surviving soldier Heinrich."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Besides, this is your last surviving soldier Heinrich."
+msgstr ""
+
+# npctalk(_("He made life difficult for me."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "He made life difficult for me."
+msgstr ""
+
+# npctalk(_("He is perfectly fit for my new creation Amdarais."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "He is perfectly fit for my new creation Amdarais."
+msgstr ""
+
+# npctalk(_("I'll never forgive you."), instance_npcname("Heinrich#ghinstance6"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "I'll never forgive you."
+msgstr ""
+
+# npctalk(_("Uh uh~ I'm so scared."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Uh uh~ I'm so scared."
+msgstr ""
+
+# npctalk(_("Anyway, we will have a chance to see because we need to talk more."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Anyway, we will have a chance to see because we need to talk more."
+msgstr ""
+
+# npctalk(_("So long boys."), instance_npcname("Himelmez#ghinstance4"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "So long boys."
+msgstr ""
+
+# npctalk(_("I'll never let you get away Himelmez!!"), instance_npcname("Heinrich#ghinstance6"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "I'll never let you get away Himelmez!!"
+msgstr ""
+
+# npctalk(_("We have no choice. We have to fight against Amdarais!"), instance_npcname("Varmundt#ghinstance5"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "We have no choice. We have to fight against Amdarais!"
+msgstr ""
+
+# mapannounce(instance_mapname("2@gl_k"), _("Gerhalt's body changing."), bc_map, C_WHITE);
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "#controlGH5"
+msgid "Gerhalt's body changing."
+msgstr ""
+
+# mes("[Hugin]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "[Hugin]"
+msgstr ""
+
+# mes("Hm, you are very well. First of all, let me give you some loot from Amdarais.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "Hm, you are very well. First of all, let me give you some loot from Amdarais."
+msgstr ""
+
+# mes("Varmundt's time is stopped by me. And your time will be distorted soon.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "Varmundt's time is stopped by me. And your time will be distorted soon."
+msgstr ""
+
+# mes("Maybe this poor time traveler will try to stop Glast Heim's tragedy from happening.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "Maybe this poor time traveler will try to stop Glast Heim's tragedy from happening."
+msgstr ""
+
+# mes("However, we will never overlook his behavior now and forever...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "However, we will never overlook his behavior now and forever..."
+msgstr ""
+
+# mes("Now, let me remove your memory. If you see me again, that will be brand new.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "Now, let me remove your memory. If you see me again, that will be brand new."
+msgstr ""
+
+# mes("Oops I almost distorted the time gap. Come over here. We need to go out!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "Oops I almost distorted the time gap. Come over here. We need to go out!"
+msgstr ""
+
+# select("You were just with me...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "You were just with me..."
+msgstr ""
+
+# mes("What did you say just before? Anyway that is not important, The gap of time will be closed so, we need to get out of here.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "What did you say just before? Anyway that is not important, The gap of time will be closed so, we need to get out of here."
+msgstr ""
+
+# switch (select("Let me look around more:Please let me out")) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "Let me look around more:Please let me out"
+msgstr ""
+
+# mes("Really? This place will be broke down so, please look around quickly.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin#ghinstance1"
+msgid "Really? This place will be broke down so, please look around quickly."
+msgstr ""
+
+# mes("The crack looks suspicious, but nothing more to check.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Strange crack#entrace"
+msgid "The crack looks suspicious, but nothing more to check."
+msgstr ""
+
+# mes("[Hugin's Butler]"); // custom check
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "[Hugin's Butler]"
+msgstr ""
+
+# mes("Your bag is too heavy. Reduce some weight and come back.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Your bag is too heavy. Reduce some weight and come back."
+msgstr ""
+
+# mes("I would like to thank you for helping my master Hugin. I can transmute your ^FF0000Temporal Crystals^000000 into a pair of boots that have withstood the test of time... the ^FF0000Temporal Boots^000000.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "I would like to thank you for helping my master Hugin. I can transmute your ^FF0000Temporal Crystals^000000 into a pair of boots that have withstood the test of time... the ^FF0000Temporal Boots^000000."
+msgstr ""
+
+# mes("What would you like me to do young adventurer?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "What would you like me to do young adventurer?"
+msgstr ""
+
+# switch (select("Give me the Temporal Boots", "Upgrade my Temporal Boots")) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Give me the Temporal Boots"
+msgstr ""
+
+# switch (select("Give me the Temporal Boots", "Upgrade my Temporal Boots")) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Upgrade my Temporal Boots"
+msgstr ""
+
+# mes("Take these Temporal Boots. We can upgrade your Temporal Boots with 5 Temporal Crystals.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Take these Temporal Boots. We can upgrade your Temporal Boots with 5 Temporal Crystals."
+msgstr ""
+
+# mes("You need more Temporal Crystals. Come back when you get some more Temporal Crystals during your travel through Old Glast Heim.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "You need more Temporal Crystals. Come back when you get some more Temporal Crystals during your travel through Old Glast Heim."
+msgstr ""
+
+# mes("Wear the ^0000FFTemporal Boots^000000 you want to upgrade, and then talk to me once again.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Wear the ^0000FFTemporal Boots^000000 you want to upgrade, and then talk to me once again."
+msgstr ""
+
+# mes("You are not wearing the Temporal Boots. Talk to me once you're wearing them.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "You are not wearing the Temporal Boots. Talk to me once you're wearing them."
+msgstr ""
+
+# mes("Not enough Temporal Crystals. You need ^FF00005 Temporal Crystals^000000 to upgrade your boots.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Not enough Temporal Crystals. You need ^FF00005 Temporal Crystals^000000 to upgrade your boots."
+msgstr ""
+
+# mes("You can trade ^0000FF1 Temporal Boots and 5 Temporal Crystals^000000 for 1 of the following items. ^FF0000Previous refine rate will not be retained with these new ones^000000.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "You can trade ^0000FF1 Temporal Boots and 5 Temporal Crystals^000000 for 1 of the following items. ^FF0000Previous refine rate will not be retained with these new ones^000000."
+msgstr ""
+
+# setarray(.@type$[0], _("Strength"), _("Intelligence"), _("Agility"), _("Vitality"), _("Dexterity"), _("Luck"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Strength"
+msgstr ""
+
+# setarray(.@type$[0], _("Strength"), _("Intelligence"), _("Agility"), _("Vitality"), _("Dexterity"), _("Luck"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Intelligence"
+msgstr ""
+
+# setarray(.@type$[0], _("Strength"), _("Intelligence"), _("Agility"), _("Vitality"), _("Dexterity"), _("Luck"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Agility"
+msgstr ""
+
+# setarray(.@type$[0], _("Strength"), _("Intelligence"), _("Agility"), _("Vitality"), _("Dexterity"), _("Luck"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Vitality"
+msgstr ""
+
+# setarray(.@type$[0], _("Strength"), _("Intelligence"), _("Agility"), _("Vitality"), _("Dexterity"), _("Luck"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Dexterity"
+msgstr ""
+
+# setarray(.@type$[0], _("Strength"), _("Intelligence"), _("Agility"), _("Vitality"), _("Dexterity"), _("Luck"));
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Luck"
+msgstr ""
+
+# .@select = select("Cancel", "Str Boots", "Int Boots", "Agi Boots", "Vit Boots", "Dex Boots", "Luk Boots");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Cancel"
+msgstr ""
+
+# .@select = select("Cancel", "Str Boots", "Int Boots", "Agi Boots", "Vit Boots", "Dex Boots", "Luk Boots");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Str Boots"
+msgstr ""
+
+# .@select = select("Cancel", "Str Boots", "Int Boots", "Agi Boots", "Vit Boots", "Dex Boots", "Luk Boots");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Int Boots"
+msgstr ""
+
+# .@select = select("Cancel", "Str Boots", "Int Boots", "Agi Boots", "Vit Boots", "Dex Boots", "Luk Boots");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Agi Boots"
+msgstr ""
+
+# .@select = select("Cancel", "Str Boots", "Int Boots", "Agi Boots", "Vit Boots", "Dex Boots", "Luk Boots");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Vit Boots"
+msgstr ""
+
+# .@select = select("Cancel", "Str Boots", "Int Boots", "Agi Boots", "Vit Boots", "Dex Boots", "Luk Boots");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Dex Boots"
+msgstr ""
+
+# .@select = select("Cancel", "Str Boots", "Int Boots", "Agi Boots", "Vit Boots", "Dex Boots", "Luk Boots");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Luk Boots"
+msgstr ""
+
+# mes("Come back anytime you want.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Come back anytime you want."
+msgstr ""
+
+# mesf("Are you sure about buying Temporal ^FF0000%s^000000 Boots? There is no refund.", .@type$[.@select - 2]);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Butler"
+msgid "Are you sure about buying Temporal ^FF0000%s^000000 Boots? There is no refund."
+msgstr ""
+
+# if (select("Think again", "Yes, I am sure.") == 2) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Think again"
+msgstr ""
+
+# if (select("Think again", "Yes, I am sure.") == 2) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Yes, I am sure."
+msgstr ""
+
+# mes("The boots has been upgraded as you want.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "The boots has been upgraded as you want."
+msgstr ""
+
+# mes("Ok, come back again when you are sure.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Butler"
+msgid "Ok, come back again when you are sure."
+msgstr ""
+
+# mes("Your bag is too heavy. Reduce some weight and come back.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Your bag is too heavy. Reduce some weight and come back."
+msgstr ""
+
+# mes("[Hugin's Magic Master]"); // Custom text
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "[Hugin's Magic Master]"
+msgstr ""
+
+# mes("So you came to enchant the Temporal Boots. Be aware that adding a socket do your boots will remove my enchants as well as it's refine. It is only possible for the boots you are wearing.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "So you came to enchant the Temporal Boots. Be aware that adding a socket do your boots will remove my enchants as well as it's refine. It is only possible for the boots you are wearing."
+msgstr ""
+
+# if (select("How does the enchanting work?", "Give effect to my Temporal Boots") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "How does the enchanting work?"
+msgstr ""
+
+# if (select("How does the enchanting work?", "Give effect to my Temporal Boots") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Give effect to my Temporal Boots"
+msgstr ""
+
+# mes("You can obtain ^0000FFCoagulated Spell^000000 through your time travels.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "You can obtain ^0000FFCoagulated Spell^000000 through your time travels."
+msgstr ""
+
+# mes("I can enchant your Temporal Boots with a variing amount of that item. ^0000FFAvailable for all Temporal STAT Boots^000000.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "I can enchant your Temporal Boots with a variing amount of that item. ^0000FFAvailable for all Temporal STAT Boots^000000."
+msgstr ""
+
+# mes("But, once you try to put a socket into the item, it will be resetted. So if you want a socket, you should do it first. Be sure to remember that.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "But, once you try to put a socket into the item, it will be resetted. So if you want a socket, you should do it first. Be sure to remember that."
+msgstr ""
+
+# mes("I don't give out effect randomly. You can pick which effect you want for the item.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "I don't give out effect randomly. You can pick which effect you want for the item."
+msgstr ""
+
+# mes("Of course it is for 4th slot only. You can have small effect at the start and then the effect grows stronger.\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Of course it is for 4th slot only. You can have small effect at the start and then the effect grows stronger.\\r^FF0000Remember: It can fail and break your item!^000000"
+msgstr ""
+
+# mes("To get to the final option upgrade it will require way more Coagulated Spells. Don't forget that.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "To get to the final option upgrade it will require way more Coagulated Spells. Don't forget that."
+msgstr ""
+
+# mes("Once the 4th slot completes the best option, you get to have a random bonus effect to the 3rd slot. With.. certain payment and a ^0000FFguaranteed success rate~^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Once the 4th slot completes the best option, you get to have a random bonus effect to the 3rd slot. With.. certain payment and a ^0000FFguaranteed success rate~^000000"
+msgstr ""
+
+# mes("^FF0000Again: there is a risk on failing and breaking the item^000000.\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "^FF0000Again: there is a risk on failing and breaking the item^000000.\\rBut if the enchant is applied successful, ^0000FFthe refine and everything else will be retained.^000000"
+msgstr ""
+
+# mes("Phew... Anyways, that's all for basic enchant information. Now you should see for yourself.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Phew... Anyways, that's all for basic enchant information. Now you should see for yourself."
+msgstr ""
+
+# mes("Are you wearing the item?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Are you wearing the item?"
+msgstr ""
+
+# mesf("Want to enchant ^0000FF%s^000000? For the 1st enchanting, you need ^FF0000%d^000000 ^0000FFCoagulated Spells.^000000", .@equip_name$, .@cost);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Magic Master"
+msgid "Want to enchant ^0000FF%s^000000? For the 1st enchanting, you need ^FF0000%d^000000 ^0000FFCoagulated Spells.^000000"
+msgstr ""
+
+# .@select = select("Quit", "Fighting Spirit", "Archery", "Spell", "Vitality", "Attack Speed", "Luck");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Quit"
+msgstr ""
+
+# .@select = select("Quit", "Fighting Spirit", "Archery", "Spell", "Vitality", "Attack Speed", "Luck");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Fighting Spirit"
+msgstr ""
+
+# .@select = select("Quit", "Fighting Spirit", "Archery", "Spell", "Vitality", "Attack Speed", "Luck");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Archery"
+msgstr ""
+
+# .@select = select("Quit", "Fighting Spirit", "Archery", "Spell", "Vitality", "Attack Speed", "Luck");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Spell"
+msgstr ""
+
+# .@select = select("Quit", "Fighting Spirit", "Archery", "Spell", "Vitality", "Attack Speed", "Luck");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Vitality"
+msgstr ""
+
+# .@select = select("Quit", "Fighting Spirit", "Archery", "Spell", "Vitality", "Attack Speed", "Luck");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Attack Speed"
+msgstr ""
+
+# .@select = select("Quit", "Fighting Spirit", "Archery", "Spell", "Vitality", "Attack Speed", "Luck");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Luck"
+msgstr ""
+
+# mes("Ok, come back when you are ready.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Ok, come back when you are ready."
+msgstr ""
+
+# mes("Your shoes have reached the maximum option to enchant.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Your shoes have reached the maximum option to enchant."
+msgstr ""
+
+# mes("Please bring me a new one if you want me to enchant again.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Please bring me a new one if you want me to enchant again."
+msgstr ""
+
+# mes("Seems you already completed the best upgrade option in your 4th slot. For that I can give a random bonus effect to your 3rd slot. And of course, with certain payment...");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Seems you already completed the best upgrade option in your 4th slot. For that I can give a random bonus effect to your 3rd slot. And of course, with certain payment..."
+msgstr ""
+
+# mesf("Enchanting ^0000FF%s^000000's 3rd slot for obtaining a random bonus effect. Requires ^FF0000%d^000000 ^0000FFCoagulated Spells^000000", .@equip_name$, .@cost);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Magic Master"
+msgid "Enchanting ^0000FF%s^000000's 3rd slot for obtaining a random bonus effect. Requires ^FF0000%d^000000 ^0000FFCoagulated Spells^000000"
+msgstr ""
+
+# if (select("Quit", "Effect Upgrade!") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Effect Upgrade!"
+msgstr ""
+
+# mesf("Hmm, you are missing %s Coagulated Spells. Go get more, and then we can talk about more enchants.", .@cost - countitem(Coagulated_Spell));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Magic Master"
+msgid "Hmm, you are missing %s Coagulated Spells. Go get more, and then we can talk about more enchants."
+msgstr ""
+
+# mes("Arrggg, we failed. Better luck next time.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "Arrggg, we failed. Better luck next time."
+msgstr ""
+
+# mes("This is it! This special stone is now yours Hahaha... I am really the only master of these things. Thank you for believing in me.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "This is it! This special stone is now yours Hahaha... I am really the only master of these things. Thank you for believing in me."
+msgstr ""
+
+# mesf("Enchanting ^0000FF%s^000000's 4th slot as ^0000FF%d^000000 level effect. Requires ^FF0000%d^000000 ^0000FFCoagulated Spells.^000000", .@equip_name$, .@number, .@cost);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Magic Master"
+msgid "Enchanting ^0000FF%s^000000's 4th slot as ^0000FF%d^000000 level effect. Requires ^FF0000%d^000000 ^0000FFCoagulated Spells.^000000"
+msgstr ""
+
+# mesf("Hmm, you are missing %d Coagulated Spells. Go get more, and then we can talk about more enchants.", .@cost - countitem(Coagulated_Spell));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Magic Master"
+msgid "Hmm, you are missing %d Coagulated Spells. Go get more, and then we can talk about more enchants."
+msgstr ""
+
+# mes("This is not the right item for this enchant. Remember, only those 6 types of Temporal Boots are available for enchanting.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Magic Master"
+msgid "This is not the right item for this enchant. Remember, only those 6 types of Temporal Boots are available for enchanting."
+msgstr ""
+
+# mesf("Adding enchant number ^630000%d^000000.", .@number);
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Magic Master"
+msgid "Adding enchant  number ^630000%d^000000."
+msgstr ""
+
+# mes("Your bag is too heavy. Reduce some weight and come back.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Your bag is too heavy. Reduce some weight and come back."
+msgstr ""
+
+# mes("[Hugin's Craftsman]");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "[Hugin's Craftsman]"
+msgstr ""
+
+# mes("That Magic Master always says that enchanting Temporal Boots is the best. But, I think I can beat that!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "That Magic Master always says that enchanting Temporal Boots is the best. But, I think I can beat that!"
+msgstr ""
+
+# mes("I can try putting a slot into your boots. But there is some ^FF0000risk of failing.^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "I can try putting a slot into your boots. But there is some ^FF0000risk of failing.^000000"
+msgstr ""
+
+# mes("Bring me ^0000FF50 Contaminated Magic^000000 or ^0000FF10 Temporal Crystals^000000, and I will try to put a slot into your advanced Temporal Boots.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Bring me ^0000FF50 Contaminated Magic^000000 or ^0000FF10 Temporal Crystals^000000, and I will try to put a slot into your advanced Temporal Boots."
+msgstr ""
+
+# mes("But, it's possible to ^FF0000fail and break the item^000000. Is that ok?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "But, it's possible to ^FF0000fail and break the item^000000. Is that ok?"
+msgstr ""
+
+# if (select("Cancel", "Take the risk and try to add a slot") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Cancel"
+msgstr ""
+
+# if (select("Cancel", "Take the risk and try to add a slot") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Take the risk and try to add a slot"
+msgstr ""
+
+# mes("Ok, come back anytime you want.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Ok, come back anytime you want."
+msgstr ""
+
+# mes("Are you sure you are wearing the item?");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Are you sure you are wearing the item?"
+msgstr ""
+
+# mes("The ^FF0000Boots and all enchants or refines will be lost if you fail this.^000000\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "The ^FF0000Boots and all enchants or refines will be lost if you fail this.^000000\\rStill want to risk it?"
+msgstr ""
+
+# if (select("Cancel", "I am ok with it!") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "I am ok with it!"
+msgstr ""
+
+# mes("Once again, ^FF0000That Magic Master won't enchant any item with a slot.^000000\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Once again, ^FF0000That Magic Master won't enchant any item with a slot.^000000\\rStill want to proceed?"
+msgstr ""
+
+# if (select("Cancel", "I understand. Try to slot it.") == 1) {
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "I understand. Try to slot it."
+msgstr ""
+
+# mes("Then my last question:\r"
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Then my last question:\\rWhich item are you gonna use to pay me?"
+msgstr ""
+
+# .@select = select("Cancel", "Temporal Crystal", "Contaminated Magic");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Temporal Crystal"
+msgstr ""
+
+# .@select = select("Cancel", "Temporal Crystal", "Contaminated Magic");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Contaminated Magic"
+msgstr ""
+
+# mes("Come back anytime you want.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Come back anytime you want."
+msgstr ""
+
+# mesf("Requires ^FF0000%d^000000 ^0000FF%s^000000.", .@cost, getitemname(.@item));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Craftsman"
+msgid "Requires ^FF0000%d^000000 ^0000FF%s^000000."
+msgstr ""
+
+# mes("Arrggg, we failed. Better luck next time.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "Arrggg, we failed. Better luck next time."
+msgstr ""
+
+# mesf("Yuhuu~ we succeed. There you go... A slot has been added to your ^FF0000%s^000000. Thank you for believing in me.", getitemname(.@equip_id));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Hugin's Craftsman"
+msgid "Yuhuu~ we succeed. There you go... A slot has been added to your ^FF0000%s^000000. Thank you for believing in me."
+msgstr ""
+
+# mes("This is not it! We need ^FF0000Advanced Temporal Boots^000000! The item ^0000FFwith a stat effect and without a slot^000000!");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Hugin's Craftsman"
+msgid "This is not it! We need ^FF0000Advanced Temporal Boots^000000! The item ^0000FFwith a stat effect and without a slot^000000!"
+msgstr ""
+
+# mes("[White Knight]"); // custom
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "White Knight#1a"
+msgid "[White Knight]"
+msgstr ""
+
+# mes("Your bag is too heavy. Reduce some weight and come back.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "White Knight#1a"
+msgid "Your bag is too heavy. Reduce some weight and come back."
+msgstr ""
+
+# mes("I exchange you a White Knight Card for ^0000FF3000 Coagulated Spell^000000 or ^FF000070 Contaminated Magic^000000.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "White Knight#1a"
+msgid "I exchange you a White Knight Card for ^0000FF3000 Coagulated Spell^000000 or ^FF000070 Contaminated Magic^000000."
+msgstr ""
+
+# .@select = select("Cancel", "^0000FFUse Coagulated Spell^000000", "^FF0000Use Contaminated Magic^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "White Knight#1a"
+msgid "Cancel"
+msgstr ""
+
+# .@select = select("Cancel", "^0000FFUse Coagulated Spell^000000", "^FF0000Use Contaminated Magic^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "White Knight#1a"
+msgid "^0000FFUse Coagulated Spell^000000"
+msgstr ""
+
+# .@select = select("Cancel", "^0000FFUse Coagulated Spell^000000", "^FF0000Use Contaminated Magic^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "White Knight#1a"
+msgid "^FF0000Use Contaminated Magic^000000"
+msgstr ""
+
+# mes("Come back any time.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "White Knight#1a"
+msgid "Come back any time."
+msgstr ""
+
+# mesf("Requires ^0000FF%d %s^000000.", .@cost, getitemname(.@item));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "White Knight#1a"
+msgid "Requires ^0000FF%d %s^000000."
+msgstr ""
+
+# mes("[Khalitzburg Knight]"); // custom
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1a"
+msgid "[Khalitzburg Knight]"
+msgstr ""
+
+# mes("Your bag is too heavy. Reduce some weight and come back.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1a"
+msgid "Your bag is too heavy. Reduce some weight and come back."
+msgstr ""
+
+# mes("I exchange you a Khalitzburg Knight Card for ^0000FF5000 Coagulated Spell^000000 or ^FF0000100 Contaminated Magic^000000.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1a"
+msgid "I exchange you a Khalitzburg Knight Card for ^0000FF5000 Coagulated Spell^000000 or ^FF0000100 Contaminated Magic^000000."
+msgstr ""
+
+# .@select = select("Cancel", "^0000FFUse Coagulated Spell^000000", "^FF0000Use Contaminated Magic^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1a"
+msgid "Cancel"
+msgstr ""
+
+# .@select = select("Cancel", "^0000FFUse Coagulated Spell^000000", "^FF0000Use Contaminated Magic^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1a"
+msgid "^0000FFUse Coagulated Spell^000000"
+msgstr ""
+
+# .@select = select("Cancel", "^0000FFUse Coagulated Spell^000000", "^FF0000Use Contaminated Magic^000000");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1a"
+msgid "^FF0000Use Contaminated Magic^000000"
+msgstr ""
+
+# mes("Come back any time.");
+#: npc/re/instances/OldGlastHeim.txt
+msgctxt "Khalitzburg Knight#1a"
+msgid "Come back any time."
+msgstr ""
+
+# mesf("Requires ^0000FF%d %s^000000.", .@cost, getitemname(.@item));
+#: npc/re/instances/OldGlastHeim.txt
+#, c-format
+msgctxt "Khalitzburg Knight#1a"
+msgid "Requires ^0000FF%d %s^000000."
+msgstr ""
+
