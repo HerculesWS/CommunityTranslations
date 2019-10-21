@@ -1,0 +1,4465 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: 2019-10-21 11:00\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/jobs/2e/kagerou_oboro_txt.pot\n"
+
+# mes "Secret Passage to ^25C18DNinja Guild^25C18D";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "Secret Passage to ^25C18DNinja Guild^25C18D"
+msgstr ""
+
+# mes "You hear familiar voices talking to each other.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "You hear familiar voices talking to each other."
+msgstr ""
+
+# mes "[Unknown Voice A]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "[Unknown Voice A]"
+msgstr ""
+
+# mes "Long time, no see. How are you? How are the kids you've taken in?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "Long time, no see. How are you? How are the kids you've taken in?"
+msgstr ""
+
+# mes "[Unknown Voice B]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "[Unknown Voice B]"
+msgstr ""
+
+# mes "I have to hand it to you. You've picked some competitive ones.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "I have to hand it to you. You've picked some competitive ones."
+msgstr ""
+
+# mes "Sounds like music to my ears. Being sent to a foreign land with air pollution was bad enough, now haunted with memories of this place...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "Sounds like music to my ears. Being sent to a foreign land with air pollution was bad enough, now haunted with memories of this place..."
+msgstr ""
+
+# mes "What do you think? Should we rotate now?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "What do you think? Should we rotate now?"
+msgstr ""
+
+# mes "Haven't given up, have ya. Do you really think he'll approve?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "Haven't given up, have ya. Do you really think he'll approve?"
+msgstr ""
+
+# mes "No need to be bitter. Hey! Were any of the kids that come and go here the ones that found the ^BD0408place^BD0408?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "No need to be bitter. Hey! Were any of the kids that come and go here the ones that found the ^BD0408place^BD0408?"
+msgstr ""
+
+# mes "Since finding the hidden place was also a part of the test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "Since finding the hidden place was also a part of the test."
+msgstr ""
+
+# mes "You are as stubborn as the first time I met you. It's just a wall in some place...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "You are as stubborn as the first time I met you. It's just a wall in some place..."
+msgstr ""
+
+# mes "Shssh! I think someone is eavesdropping. Hurry! Go back to the mission area.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "Shssh! I think someone is eavesdropping. Hurry! Go back to the mission area."
+msgstr ""
+
+# mes "The conversation stopped abruptly. Hidden place? Wall? Part of a test? What is all this about?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Start#ko"
+msgid "The conversation stopped abruptly. Hidden place? Wall? Part of a test? What is all this about?"
+msgstr ""
+
+# mes "You should no longer use this secret passage.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "You should no longer use this secret passage."
+msgstr ""
+
+# mes "You found a location that resembles the hidden place.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "You found a location that resembles the hidden place."
+msgstr ""
+
+# mes "This wall was here ever since. How come I didn't notice it before?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "This wall was here ever since. How come I didn't notice it before?"
+msgstr ""
+
+# mes "Now that I know it's a secret passage, what do I do to get in?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "Now that I know it's a secret passage, what do I do to get in?"
+msgstr ""
+
+# if(select("Tear the drawing down.", "Touch the drawing with your hand.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "Tear the drawing down."
+msgstr ""
+
+# if(select("Tear the drawing down.", "Touch the drawing with your hand.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "Touch the drawing with your hand."
+msgstr ""
+
+# mes "I can't rip it down because I don't own it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "I can't rip it down because I don't own it."
+msgstr ""
+
+# mes "You touch the drawing with the tip of your hand and felt a sudden sensation of being pulled.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "You touch the drawing with the tip of your hand and felt a sudden sensation of being pulled."
+msgstr ""
+
+# mes "Entrance to the ^25C18DNinja Guild^000000 hideout.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "Entrance to the ^25C18DNinja Guild^000000 hideout."
+msgstr ""
+
+# if(select("Enter.", "Do not enter.") == 2)
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "Enter."
+msgstr ""
+
+# if(select("Enter.", "Do not enter.") == 2)
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "Do not enter."
+msgstr ""
+
+# mes "When touching the drawing, you get the feeling of being pulled...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "When touching the drawing, you get the feeling of being pulled..."
+msgstr ""
+
+# mes "There is a wall with a great drawing on it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Wall with a Drawing#ko"
+msgid "There is a wall with a great drawing on it."
+msgstr ""
+
+# mes "[Kuuga Gai]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "[Kuuga Gai]"
+msgstr ""
+
+# mes "You don't need to carry so many things.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You don't need to carry so many things."
+msgstr ""
+
+# mes "You are not in the clan of the Ninja.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You are not in the clan of the Ninja."
+msgstr ""
+
+# mes "^1A95E6An old man looking hale and hearty is sitting and gazing vacantly.^1A95E6";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6An old man looking hale and hearty is sitting and gazing vacantly.^1A95E6"
+msgstr ""
+
+# if(select("Ignore.", "Talk to him.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Ignore."
+msgstr ""
+
+# if(select("Ignore.", "Talk to him.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Talk to him."
+msgstr ""
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "["
+msgstr ""
+
+# mes "Excuse me...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Excuse me..."
+msgstr ""
+
+# mes "^1A95E6You tried to talk to the old man but there is no response. Just when you are about to turn away...^1A95E6";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6You tried to talk to the old man but there is no response. Just when you are about to turn away...^1A95E6"
+msgstr ""
+
+# mes "[Old Man]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "[Old Man]"
+msgstr ""
+
+# mes "At last, a customer! Hmm... and a live one, too!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "At last, a customer! Hmm... and a live one, too!"
+msgstr ""
+
+# select("Excuse me... where am I?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Excuse me... where am I?"
+msgstr ""
+
+# mes "^1A95E6He keeps talking and doesn't stop to answer your question.^1A95E6";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6He keeps talking and doesn't stop to answer your question.^1A95E6"
+msgstr ""
+
+# mes "There once was a quiet clan living in ancient Amatsu times that is never mentioned in history books or stories.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "There once was a quiet clan living in ancient Amatsu times that is never mentioned in history books or stories."
+msgstr ""
+
+# mes "They lived beneath shadows but always yearned for the bright sun, like a sunflower.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "They lived beneath shadows but always yearned for the bright sun, like a sunflower."
+msgstr ""
+
+# mes "A clan that was loyal to their lord who they served as their bright sun.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "A clan that was loyal to their lord who they served as their bright sun."
+msgstr ""
+
+# mes "...a very trustworthy clan...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "...a very trustworthy clan..."
+msgstr ""
+
+# mes "....loyal to their core...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "....loyal to their core..."
+msgstr ""
+
+# mes "...a clan of integrity...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "...a clan of integrity..."
+msgstr ""
+
+# select("What happened to them?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "What happened to them?"
+msgstr ""
+
+# mes "^1A95E6The old man looks at you with a melancholy face.^1A95E6";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6The old man looks at you with a melancholy face.^1A95E6"
+msgstr ""
+
+# mes "Why are you interested in a clan that was abandoned by their lord and disappeared from history itself?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Why are you interested in a clan that was abandoned by their lord and disappeared from history itself?"
+msgstr ""
+
+# if(select("I'm a Ninja.", "I'm bored.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I'm a Ninja."
+msgstr ""
+
+# if(select("I'm a Ninja.", "I'm bored.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I'm bored."
+msgstr ""
+
+# mes "Was nice to meet you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Was nice to meet you."
+msgstr ""
+
+# mes "Ninja! There was a time when the clan was called ninjas, too.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Ninja! There was a time when the clan was called ninjas, too."
+msgstr ""
+
+# mes "You'll have to lend me your ear for I have so much to tell you about the clan story.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You'll have to lend me your ear for I have so much to tell you about the clan story."
+msgstr ""
+
+# mes "^1A95E6The Old Man starts the story with a very soothing tone as if he is telling his grandchild a story.^1A95E6";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6The Old Man starts the story with a very soothing tone as if he is telling his grandchild a story.^1A95E6"
+msgstr ""
+
+# mes "This goes way back to ancient times and nobody in Amatsu remembers about it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "This goes way back to ancient times and nobody in Amatsu remembers about it."
+msgstr ""
+
+# mes "The clan worked behind the scenes and basically lived their lives for their lord.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The clan worked behind the scenes and basically lived their lives for their lord."
+msgstr ""
+
+# mes "They were very loyal doing whatever deed their lord asked for.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "They were very loyal doing whatever deed their lord asked for."
+msgstr ""
+
+# mes "Ninja, the clan was known as the dark clan but that doesn't mean they wanted to be hidden in the darkness.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Ninja, the clan was known as the dark clan but that doesn't mean they wanted to be hidden in the darkness."
+msgstr ""
+
+# mes "They were loyal enough to be satisfied as the lord's servants but their loyalty became the problem.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "They were loyal enough to be satisfied as the lord's servants but their loyalty became the problem."
+msgstr ""
+
+# select("Problem?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Problem?"
+msgstr ""
+
+# mes "They are a secret organization that even the lord didn't know much about.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "They are a secret organization that even the lord didn't know much about."
+msgstr ""
+
+# mes "The few that knew about the clan's existence, tried to investigate them but nobody was able to reveal their true identity.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The few that knew about the clan's existence, tried to investigate them but nobody was able to reveal their true identity."
+msgstr ""
+
+# mes "That is why this clan has grown from loyal servants to a group feared for its secrets.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "That is why this clan has grown from loyal servants to a group feared for its secrets."
+msgstr ""
+
+# mes "The lord shunned the clan and didn't call them for their service any more but they never betrayed him.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The lord shunned the clan and didn't call them for their service any more but they never betrayed him."
+msgstr ""
+
+# select("They were really loyal people.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "They were really loyal people."
+msgstr ""
+
+# mes "Yes, they were. Very loyal.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Yes, they were. Very loyal."
+msgstr ""
+
+# mes "^1A95E6The old man looks even more forlorn.^1A95E6";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6The old man looks even more forlorn.^1A95E6"
+msgstr ""
+
+# mes "The clan has been living in hiding for so long since the old days. The current lord didn't even know of their existence.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The clan has been living in hiding for so long since the old days. The current lord didn't even know of their existence."
+msgstr ""
+
+# select(".........");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "........."
+msgstr ""
+
+# mes "I'm Leader Gion, the last of the dark ninja clan.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I'm Leader Gion, the last of the dark ninja clan."
+msgstr ""
+
+# if(select("I think your time has ended.", "I need your teaching.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I think your time has ended."
+msgstr ""
+
+# if(select("I think your time has ended.", "I need your teaching.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I need your teaching."
+msgstr ""
+
+# mes "[Leader Gion]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "[Leader Gion]"
+msgstr ""
+
+# mes "Are you an assassin to end this old man's life?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Are you an assassin to end this old man's life?"
+msgstr ""
+
+# mes "So that is why you've shown interest in my clan. I won't give up easily.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "So that is why you've shown interest in my clan. I won't give up easily."
+msgstr ""
+
+# mes "Pow!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Pow!!"
+msgstr ""
+
+# mes "^1A95E6You lose conscience with the great impact.^000000";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6You lose conscience with the great impact.^000000"
+msgstr ""
+
+# mes "Teaching...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Teaching..."
+msgstr ""
+
+# mes "Been a long time since I last heard that word.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Been a long time since I last heard that word."
+msgstr ""
+
+# mes "I guess this little visit was not by coincidence but a start of a connection.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I guess this little visit was not by coincidence but a start of a connection."
+msgstr ""
+
+# mes "Sorry I am not a teacher. But!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Sorry I am not a teacher. But!"
+msgstr ""
+
+# mes "I can help you on the path you've chosen, the ^33CC71"+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +"^000000 path.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I can help you on the path you've chosen, the ^33CC71"
+msgstr ""
+
+# mes "I can help you on the path you've chosen, the ^33CC71"+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +"^000000 path.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Kagerou"
+msgstr ""
+
+# mes "I can help you on the path you've chosen, the ^33CC71"+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +"^000000 path.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Oboro"
+msgstr ""
+
+# mes "I can help you on the path you've chosen, the ^33CC71"+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +"^000000 path.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^000000 path."
+msgstr ""
+
+# mes "^1A95E6You hear Leader Gion's voice faintly as you slip away.^1A95E6";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^1A95E6You hear Leader Gion's voice faintly as you slip away.^1A95E6"
+msgstr ""
+
+# mes "If you are prepared to follow me, Leader Gion, on the "+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +" path, we will meet again.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "If you are prepared to follow me, Leader Gion, on the "
+msgstr ""
+
+# mes "If you are prepared to follow me, Leader Gion, on the "+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +" path, we will meet again.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid " path, we will meet again."
+msgstr ""
+
+# mes "I thought you were afraid of the ^33CC71path of the "+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +"^33CC71 and wouldn't come back.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I thought you were afraid of the ^33CC71path of the "
+msgstr ""
+
+# mes "I thought you were afraid of the ^33CC71path of the "+ (Sex == SEX_MALE ? "Kagerou" : "Oboro") +"^33CC71 and wouldn't come back.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^33CC71 and wouldn't come back."
+msgstr ""
+
+# mes "But from the look of your eyes, I guess I misjudged you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "But from the look of your eyes, I guess I misjudged you."
+msgstr ""
+
+# mes "You will have to train your mind and body to walk steadily in the unknown world and never fall into temptation to stay on the path.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You will have to train your mind and body to walk steadily in the unknown world and never fall into temptation to stay on the path."
+msgstr ""
+
+# mes "Our ancestors had 4 tests to train our people.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Our ancestors had 4 tests to train our people."
+msgstr ""
+
+# select("4 tests?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "4 tests?"
+msgstr ""
+
+# mes "Yes, there are 4 tests.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Yes, there are 4 tests."
+msgstr ""
+
+# mes "My ancestors trained my people with 4 tests that involve ^087FF8knowledge^000000, ^087FF8survival^000000, ^087FF8weapons^000000, and ^087FF8battle^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "My ancestors trained my people with 4 tests that involve ^087FF8knowledge^000000, ^087FF8survival^000000, ^087FF8weapons^000000, and ^087FF8battle^000000."
+msgstr ""
+
+# mes "I know you are curious what these tests are. Let me explain one by one.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I know you are curious what these tests are. Let me explain one by one."
+msgstr ""
+
+# set .@i, select("Test of Knowledge", "Test of Survival", "Test of Weaponry", "Test of Battle");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Test of Knowledge"
+msgstr ""
+
+# set .@i, select("Test of Knowledge", "Test of Survival", "Test of Weaponry", "Test of Battle");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Test of Survival"
+msgstr ""
+
+# set .@i, select("Test of Knowledge", "Test of Survival", "Test of Weaponry", "Test of Battle");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Test of Weaponry"
+msgstr ""
+
+# set .@i, select("Test of Knowledge", "Test of Survival", "Test of Weaponry", "Test of Battle");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Test of Battle"
+msgstr ""
+
+# mes "We need to be knowledgeable in order to assist the lord. This test is for this purpose.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "We need to be knowledgeable in order to assist the lord. This test is for this purpose."
+msgstr ""
+
+# mes "You can pass the test if you successfully solve more than 9 out of 10 questions.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You can pass the test if you successfully solve more than 9 out of 10 questions."
+msgstr ""
+
+# mes "The test will be easy to pass if you've been steady in your studies. Now what other test are you curious about?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The test will be easy to pass if you've been steady in your studies. Now what other test are you curious about?"
+msgstr ""
+
+# mes "Missions aren't always easy and safe. That is why survival instincts are vital to us.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Missions aren't always easy and safe. That is why survival instincts are vital to us."
+msgstr ""
+
+# mes "My ancestors call this test the dice test. It is a test to advance forward depending on the dice results.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "My ancestors call this test the dice test. It is a test to advance forward depending on the dice results."
+msgstr ""
+
+# mes "Think of it as the simple dice games people play.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Think of it as the simple dice games people play."
+msgstr ""
+
+# mes "But never let your guard down during the test because it isn't called the survival test for nothing.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "But never let your guard down during the test because it isn't called the survival test for nothing."
+msgstr ""
+
+# mes "There will be blocks that help you while there are blocks that will interrupt you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "There will be blocks that help you while there are blocks that will interrupt you."
+msgstr ""
+
+# mes "If you deal with various situations wisely, you will be able to pass the test. Now what other test are you curious about?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "If you deal with various situations wisely, you will be able to pass the test. Now what other test are you curious about?"
+msgstr ""
+
+# mes "My clan was famous for using unique weapons that we created.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "My clan was famous for using unique weapons that we created."
+msgstr ""
+
+# mes "You would be considered blessed if you created your own unique weapon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You would be considered blessed if you created your own unique weapon."
+msgstr ""
+
+# mes "Creating a weapon for yourself and refining it is the purpose of this test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Creating a weapon for yourself and refining it is the purpose of this test."
+msgstr ""
+
+# mes "I hope you will be blessed and find the best weapon for yourself. Now what other test are you curious about?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I hope you will be blessed and find the best weapon for yourself. Now what other test are you curious about?"
+msgstr ""
+
+# mes "Missions are not always done alone. You will often work in teams of 2 or 3 for a common goal.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Missions are not always done alone. You will often work in teams of 2 or 3 for a common goal."
+msgstr ""
+
+# mes "The battle test is only for those that pass that knowledge, survival and weapon tests. So! It is the very last test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The battle test is only for those that pass that knowledge, survival and weapon tests. So! It is the very last test."
+msgstr ""
+
+# mes "Unlike the other three tests that are done alone, you will have to compete with others in this final test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Unlike the other three tests that are done alone, you will have to compete with others in this final test."
+msgstr ""
+
+# mes "There is only one target!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "There is only one target!!"
+msgstr ""
+
+# mes "And only the first to get to the target passes the test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "And only the first to get to the target passes the test."
+msgstr ""
+
+# mes "You'll be lucky if you have no competitors during your test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You'll be lucky if you have no competitors during your test."
+msgstr ""
+
+# mes "A challenge is better than explaining it a hundred times. It's the actual experience that makes you better.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "A challenge is better than explaining it a hundred times. It's the actual experience that makes you better."
+msgstr ""
+
+# mes "Seeing is believing, so go on and take the challenge.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Seeing is believing, so go on and take the challenge."
+msgstr ""
+
+# mes "Let's start right away after you are done with preparations.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Let's start right away after you are done with preparations."
+msgstr ""
+
+# mes "It's been a while.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "It's been a while."
+msgstr ""
+
+# mes "Since I felt happy like this. I feel young and energetic seeing young people like you challenge themselves with a new path.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Since I felt happy like this. I feel young and energetic seeing young people like you challenge themselves with a new path."
+msgstr ""
+
+# mes "We're done with explaining about the tests, now should I tell you my clan story?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "We're done with explaining about the tests, now should I tell you my clan story?"
+msgstr ""
+
+# mes "My clan started from two warriors.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "My clan started from two warriors."
+msgstr ""
+
+# mes "Kagerou, a warrior like the dancing flames of the sun.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Kagerou, a warrior like the dancing flames of the sun."
+msgstr ""
+
+# mes "Oboro, a warrior like the misty moonlight.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Oboro, a warrior like the misty moonlight."
+msgstr ""
+
+# mes "The Sun and the Moon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The Sun and the Moon."
+msgstr ""
+
+# mes "The sunlight that lights up the world and the moonlight that lights up the night. Both were very similar but different warriors.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The sunlight that lights up the world and the moonlight that lights up the night. Both were very similar but different warriors."
+msgstr ""
+
+# mes "There was a time there was an enmity between both warriors.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "There was a time there was an enmity between both warriors."
+msgstr ""
+
+# mes "But it didn't take long for them to become one as a clan.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "But it didn't take long for them to become one as a clan."
+msgstr ""
+
+# select("How did it go afterwards?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "How did it go afterwards?"
+msgstr ""
+
+# mes "Ha ha ha. It is never fun to listen to the whole story all at once, no? Come back after passing a test and I'll continue my story.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Ha ha ha. It is never fun to listen to the whole story all at once, no? Come back after passing a test and I'll continue my story."
+msgstr ""
+
+# mes "Which test will you select as your first test?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Which test will you select as your first test?"
+msgstr ""
+
+# mes "You've passed the Test of Knowledge.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've passed the Test of Knowledge."
+msgstr ""
+
+# mes "My friend doesn't approve of others that easily but I guess he liked you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "My friend doesn't approve of others that easily but I guess he liked you."
+msgstr ""
+
+# mes "You've passed the Test of Survival.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've passed the Test of Survival."
+msgstr ""
+
+# mes "Looks like you went through hell with this test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Looks like you went through hell with this test."
+msgstr ""
+
+# mes "You've passed the Test of Weaponry.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've passed the Test of Weaponry."
+msgstr ""
+
+# mes "I wonder if Joe is satisfied with your performance.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I wonder if Joe is satisfied with your performance."
+msgstr ""
+
+# select("Please continue with the clan story.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Please continue with the clan story."
+msgstr ""
+
+# mes "Looks like you are pretty eager to hear more. Where did I leave off... Ah! I remember.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Looks like you are pretty eager to hear more. Where did I leave off... Ah! I remember."
+msgstr ""
+
+# mes "Both warriors weren't close at first, because personality and everything else was completely opposite of each other.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Both warriors weren't close at first, because personality and everything else was completely opposite of each other."
+msgstr ""
+
+# mes "The first place they met was the battlefield. And you know how enemies greet each other on a battlefield.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The first place they met was the battlefield. And you know how enemies greet each other on a battlefield."
+msgstr ""
+
+# mes "They ended up injuring each other badly.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "They ended up injuring each other badly."
+msgstr ""
+
+# mes "But what can you do? War is a war.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "But what can you do? War is a war."
+msgstr ""
+
+# mes "The friend you've laughed with yesterday is a foe that you have to fight with in a war today.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The friend you've laughed with yesterday is a foe that you have to fight with in a war today."
+msgstr ""
+
+# mes "So nobody can get along with anyone during a war.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "So nobody can get along with anyone during a war."
+msgstr ""
+
+# mes "I'll continue the story after you pass another test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I'll continue the story after you pass another test."
+msgstr ""
+
+# mes "Which test will you choose for the second test?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Which test will you choose for the second test?"
+msgstr ""
+
+# mes "You've passed the ^339CCCTests of Knowledge and Survival^000000!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've passed the ^339CCCTests of Knowledge and Survival^000000!"
+msgstr ""
+
+# mes "You've passed the ^339CCCTests of Knowledge and Weaponry^000000!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've passed the ^339CCCTests of Knowledge and Weaponry^000000!"
+msgstr ""
+
+# mes "You've passed the ^339CCCTests of Survival and Weaponry^000000!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've passed the ^339CCCTests of Survival and Weaponry^000000!"
+msgstr ""
+
+# mes "You are already done with two tests. Hope you've learned a lot from them.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You are already done with two tests. Hope you've learned a lot from them."
+msgstr ""
+
+# mes "Shall we continue with the story?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Shall we continue with the story?"
+msgstr ""
+
+# mes "I think I left off when the two warriors met at the battlefield as enemies.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I think I left off when the two warriors met at the battlefield as enemies."
+msgstr ""
+
+# mes "The long war ended eventually but the wounds and pain of those that survived had just started.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The long war ended eventually but the wounds and pain of those that survived had just started."
+msgstr ""
+
+# mes "So these two warriors started to embrace and heal the war wounds together and became one.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "So these two warriors started to embrace and heal the war wounds together and became one."
+msgstr ""
+
+# mes "There is a backstory of a man appearing in front of them and winning the loyalty from both warriors.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "There is a backstory of a man appearing in front of them and winning the loyalty from both warriors."
+msgstr ""
+
+# select("Who is this man?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Who is this man?"
+msgstr ""
+
+# mes "There isn't much known about this man. Only a short mentioning of the two warriors pledging their allegiance.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "There isn't much known about this man. Only a short mentioning of the two warriors pledging their allegiance."
+msgstr ""
+
+# mes "Maybe current generations like me are the ancestors of the current Amatsu lord? But this is only an assumption.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Maybe current generations like me are the ancestors of the current Amatsu lord? But this is only an assumption."
+msgstr ""
+
+# mes "I'm almost at the end of my clan story. Come back after you've passed the third test and I will tell you the rest.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I'm almost at the end of my clan story. Come back after you've passed the third test and I will tell you the rest."
+msgstr ""
+
+# mes "You've gone through three tests leaving only one to pass.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've gone through three tests leaving only one to pass."
+msgstr ""
+
+# mes "As I've told you before, the last test is different because you have to compete against others.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "As I've told you before, the last test is different because you have to compete against others."
+msgstr ""
+
+# select("Will you continue the story?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Will you continue the story?"
+msgstr ""
+
+# mes "Ha ha ha. I will finish the story.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Ha ha ha. I will finish the story."
+msgstr ""
+
+# mes "It is told that the man that earned the loyalty of the two warriors was a humorous person.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "It is told that the man that earned the loyalty of the two warriors was a humorous person."
+msgstr ""
+
+# mes "He like the jokes and conversations better than quarrels and he liked women over men.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "He like the jokes and conversations better than quarrels and he liked women over men."
+msgstr ""
+
+# mes "Hmm... I don't know why this part of the story was kept alive all these years but this man wanted to bring these two warriors together.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Hmm... I don't know why this part of the story was kept alive all these years but this man wanted to bring these two warriors together."
+msgstr ""
+
+# mes "Both warriors did travel together after the war but kept an awkward distance from each other.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Both warriors did travel together after the war but kept an awkward distance from each other."
+msgstr ""
+
+# mes "They must have had their reasons but their lord would send them out to a difficult mission together, put them in a secret room together and all sorts of situations together.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "They must have had their reasons but their lord would send them out to a difficult mission together, put them in a secret room together and all sorts of situations together."
+msgstr ""
+
+# select("Sounds like an odd person.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Sounds like an odd person."
+msgstr ""
+
+# mes "Yes, he was. And his efforts didn't go in vain since the two warriors eventually got acquainted and married.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Yes, he was. And his efforts didn't go in vain since the two warriors eventually got acquainted and married."
+msgstr ""
+
+# mes "This is how the clan started.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "This is how the clan started."
+msgstr ""
+
+# select("What happened after?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "What happened after?"
+msgstr ""
+
+# mes "Sadly, the next part of story was purposely discontinued.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Sadly, the next part of story was purposely discontinued."
+msgstr ""
+
+# mes "I think it's because someone wanted us to let go of the past and move forward.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I think it's because someone wanted us to let go of the past and move forward."
+msgstr ""
+
+# mes "That's that. Now shouldn't you be preparing for the last test?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "That's that. Now shouldn't you be preparing for the last test?"
+msgstr ""
+
+# mes "But you must be tired from all the tests so far. Take a rest.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "But you must be tired from all the tests so far. Take a rest."
+msgstr ""
+
+# mes "Weren't you taking the Test of " + .@test_ko$ + " just now?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Weren't you taking the Test of "
+msgstr ""
+
+# mes "Weren't you taking the Test of " + .@test_ko$ + " just now?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid " just now?"
+msgstr ""
+
+# switch(select("I want to go back to test site.", "Ah... no.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I want to go back to test site."
+msgstr ""
+
+# switch(select("I want to go back to test site.", "Ah... no.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Ah... no."
+msgstr ""
+
+# mes "The Test of " + .@test_ko$ + " site is over here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The Test of "
+msgstr ""
+
+# mes "The Test of " + .@test_ko$ + " site is over here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid " site is over here."
+msgstr ""
+
+# mes "The village is over here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The village is over here."
+msgstr ""
+
+# mes "You've come back already? You could have rested more. Is there a reason to hurry?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You've come back already? You could have rested more. Is there a reason to hurry?"
+msgstr ""
+
+# mes "Because of ^B24E59" + .@inputstr$ + "^000000?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Because of ^B24E59"
+msgstr ""
+
+# mes "Because of ^B24E59" + .@inputstr$ + "^000000?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "^000000?"
+msgstr ""
+
+# mes "I have to admit, I don't understand you now.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I have to admit, I don't understand you now."
+msgstr ""
+
+# mes "But since you've gone through much, I'm sure you will do good with the final test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "But since you've gone through much, I'm sure you will do good with the final test."
+msgstr ""
+
+# mes "Now! No more small talk. I'll let you know what the target is for the Test of Battle.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Now! No more small talk. I'll let you know what the target is for the Test of Battle."
+msgstr ""
+
+# mes "The target is a monster called the ^FF0000Clan Secret^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The target is a monster called the ^FF0000Clan Secret^000000."
+msgstr ""
+
+# mes "You will have to be careful because there are many similiar shaped and named monsters in test site.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You will have to be careful because there are many similiar shaped and named monsters in test site."
+msgstr ""
+
+# mes "And if you are lucky, there will be others targeting the monster.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "And if you are lucky, there will be others targeting the monster."
+msgstr ""
+
+# mes "May the blessings of '" + (Sex == SEX_MALE ? "Kagerou, dancing sun" : "Oboro, misty moonlight") + "' be with you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "May the blessings of '"
+msgstr ""
+
+# mes "May the blessings of '" + (Sex == SEX_MALE ? "Kagerou, dancing sun" : "Oboro, misty moonlight") + "' be with you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Kagerou, dancing sun"
+msgstr ""
+
+# mes "May the blessings of '" + (Sex == SEX_MALE ? "Kagerou, dancing sun" : "Oboro, misty moonlight") + "' be with you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Oboro, misty moonlight"
+msgstr ""
+
+# mes "May the blessings of '" + (Sex == SEX_MALE ? "Kagerou, dancing sun" : "Oboro, misty moonlight") + "' be with you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "' be with you."
+msgstr ""
+
+# mes "Then let's go to the battle test field.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Then let's go to the battle test field."
+msgstr ""
+
+# mes "I see you are in the middle of the ^339CCCTest of Battle^000000. Will you go back to the test site?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "I see you are in the middle of the ^339CCCTest of Battle^000000. Will you go back to the test site?"
+msgstr ""
+
+# switch(select("Go back to the test site.", "Visit the village.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Go back to the test site."
+msgstr ""
+
+# switch(select("Go back to the test site.", "Visit the village.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Visit the village."
+msgstr ""
+
+# mes "The test site is over here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "The test site is over here."
+msgstr ""
+
+# mes "You should not be here. Leave!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You should not be here. Leave!"
+msgstr ""
+
+# select("Familiar face?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Familiar face?"
+msgstr ""
+
+# mes "Ha ha ha. You'll know when we get there. The Test of Knowledge is taken over here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "Ha ha ha. You'll know when we get there. The Test of Knowledge is taken over here."
+msgstr ""
+
+# mes "But I believe you can handle it. The Test of Survival is taken over here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "But I believe you can handle it. The Test of Survival is taken over here."
+msgstr ""
+
+# mes "You receive 5 Iron Ore and 1 Phracon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You receive 5 Iron Ore and 1 Phracon."
+msgstr ""
+
+# mes "You will find these useful. The Test of Weaponry is taken over here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Old Man#ko"
+msgid "You will find these useful. The Test of Weaponry is taken over here."
+msgstr ""
+
+# mes "[Kuuga Gai]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "[Kuuga Gai]"
+msgstr ""
+
+# mes "Sorry, your clan is not same as ours, is there something wrong?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Sorry, your clan is not same as ours, is there something wrong?"
+msgstr ""
+
+# mes "This is a test of knowledge, so why did you bring so many things?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "This is a test of knowledge, so why did you bring so many things?"
+msgstr ""
+
+# mes "It's been a while.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "It's been a while."
+msgstr ""
+
+# select("Aren't you...");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Aren't you..."
+msgstr ""
+
+# mes "I remember you from before looking for the way of the ninja.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "I remember you from before looking for the way of the ninja."
+msgstr ""
+
+# mes "You've grown this strong already?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "You've grown this strong already?"
+msgstr ""
+
+# mes "Ha ha ha-";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Ha ha ha-"
+msgstr ""
+
+# mes "A truly determined youth! I like that.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "A truly determined youth! I like that."
+msgstr ""
+
+# mes "Good! The test you are about to take is the ^339CCCTest of Knowledge^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Good! The test you are about to take is the ^339CCCTest of Knowledge^000000."
+msgstr ""
+
+# mes "I hope you haven't been lazy with your studies while focusing on getting stronger?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "I hope you haven't been lazy with your studies while focusing on getting stronger?"
+msgstr ""
+
+# switch(select("Yes", "No")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Yes"
+msgstr ""
+
+# switch(select("Yes", "No")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "No"
+msgstr ""
+
+# mes "That's a relief. Let me know when you are ready to start the test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "That's a relief. Let me know when you are ready to start the test."
+msgstr ""
+
+# mes "So you were all talk? Well, let me know when you are ready then.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "So you were all talk? Well, let me know when you are ready then."
+msgstr ""
+
+# mes "I'm ready at my end. Are you ready for the test?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "I'm ready at my end. Are you ready for the test?"
+msgstr ""
+
+# mes "Well, what can I do but wait for you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Well, what can I do but wait for you."
+msgstr ""
+
+# mes "This isn't your first test, is it?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "This isn't your first test, is it?"
+msgstr ""
+
+# mes "You only need to choose the correct answer to my questions.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "You only need to choose the correct answer to my questions."
+msgstr ""
+
+# mes "Let's start.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Let's start."
+msgstr ""
+
+# mes (.@i < .@questions)?"Question number "+.@i+":":"Last question:";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Question number "
+msgstr ""
+
+# mes (.@i < .@questions)?"Question number "+.@i+":":"Last question:";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid ":"
+msgstr ""
+
+# mes (.@i < .@questions)?"Question number "+.@i+":":"Last question:";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Last question:"
+msgstr ""
+
+# mes "An unknown error has occurred.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "An unknown error has occurred."
+msgstr ""
+
+# mes "Please contact customer service.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Please contact customer service."
+msgstr ""
+
+# mes "You're through all 10 questions. Wasn't so bad! The important part starts now.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "You're through all 10 questions. Wasn't so bad! The important part starts now."
+msgstr ""
+
+# mes "... ... ...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "... ... ..."
+msgstr ""
+
+# mes "You fool!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "You fool!!"
+msgstr ""
+
+# mes "You couldn't even solve these?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "You couldn't even solve these?"
+msgstr ""
+
+# mes "Can't believe someone who is taking a new path can be so pathetic.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Can't believe someone who is taking a new path can be so pathetic."
+msgstr ""
+
+# mes "I'll give you another chance.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "I'll give you another chance."
+msgstr ""
+
+# mes "You will take the test again with new questions. Better pass it this time.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "You will take the test again with new questions. Better pass it this time."
+msgstr ""
+
+# mes "Hmm. " + (@job_ko_kuuga) + "?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Hmm. "
+msgstr ""
+
+# mes "Hmm. " + (@job_ko_kuuga) + "?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "?"
+msgstr ""
+
+# mes "Well, looks like you weren't lazy with your studies.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Well, looks like you weren't lazy with your studies."
+msgstr ""
+
+# mes "What? Proud of yourself for solving these questions?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "What? Proud of yourself for solving these questions?"
+msgstr ""
+
+# mes "You still have a long way to go and this is only a small fraction of it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "You still have a long way to go and this is only a small fraction of it."
+msgstr ""
+
+# mes "Well... I'm curious how far your strong will can take you through other tests.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "Well... I'm curious how far your strong will can take you through other tests."
+msgstr ""
+
+# mes "I'll let you go now so go report back to Leader Gion with your results.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "I'll let you go now so go report back to Leader Gion with your results."
+msgstr ""
+
+# mes "How did you get here?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "How did you get here?"
+msgstr ""
+
+# mes "It's my duty to get rid of you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "It's my duty to get rid of you."
+msgstr ""
+
+# mes "^000099(He's a short, silent man.)^000000";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "^000099(He's a short, silent man.)^000000"
+msgstr ""
+
+# mes "This will push you back!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko"
+msgid "This will push you back!"
+msgstr ""
+
+# mes "[No. " + getarg(0) + "]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_mes"
+msgid "[No. "
+msgstr ""
+
+# mes "^1A95E6Other letters are too small to read. Let's look up close.^000000";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_mes"
+msgid "^1A95E6Other letters are too small to read. Let's look up close.^000000"
+msgstr ""
+
+# mes "Location: " + getarg(0);
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "Location: "
+msgstr ""
+
+# mes "Total LP: " + job_kagero_lp;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "Total LP: "
+msgstr ""
+
+# mes "To roll the dice, you need to consume " + getarg(1,1) + " ^FD0260LP^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "To roll the dice, you need to consume "
+msgstr ""
+
+# select("Roll the dice.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "Roll the dice."
+msgstr ""
+
+# mes "Due to insufficient ^FD0260LP^000000, you will be returned to starting position.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "Due to insufficient ^FD0260LP^000000, you will be returned to starting position."
+msgstr ""
+
+# mes "The dice came out as " + .@dice + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "The dice came out as "
+msgstr ""
+
+# mes "The dice came out as " + .@dice + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "."
+msgstr ""
+
+# mes "Press Close to move forward " + .@dice + " blocks.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid "Press Close to move forward "
+msgstr ""
+
+# mes "Press Close to move forward " + .@dice + " blocks.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice"
+msgid " blocks."
+msgstr ""
+
+# mes "Location: " + getarg(0);
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "Location: "
+msgstr ""
+
+# mes "Total LP: " + job_kagero_lp;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "Total LP: "
+msgstr ""
+
+# mes "To roll the dice, you need to consume " + getarg(1,2) + " ^FD0260LP^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "To roll the dice, you need to consume "
+msgstr ""
+
+# select("Roll the first dice.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "Roll the first dice."
+msgstr ""
+
+# mes "Due to insufficient ^FD0260LP^000000, you will be returned to starting position.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "Due to insufficient ^FD0260LP^000000, you will be returned to starting position."
+msgstr ""
+
+# mes "< Used " + getarg(1,2) + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "< Used "
+msgstr ""
+
+# mes "First dice result is " + @job_ko_dice1 + ". Do you want to roll the second dice?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "First dice result is "
+msgstr ""
+
+# mes "First dice result is " + @job_ko_dice1 + ". Do you want to roll the second dice?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid ". Do you want to roll the second dice?"
+msgstr ""
+
+# select("Roll the second dice.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_dice2"
+msgid "Roll the second dice."
+msgstr ""
+
+# mes "Rock! Paper! Scissors!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "Rock! Paper! Scissors!"
+msgstr ""
+
+# set .@pc, select("Give scissors.", "Give rock.", "Give paper.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "Give scissors."
+msgstr ""
+
+# set .@pc, select("Give scissors.", "Give rock.", "Give paper.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "Give rock."
+msgstr ""
+
+# set .@pc, select("Give scissors.", "Give rock.", "Give paper.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "Give paper."
+msgstr ""
+
+# mes "=Game Results=";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "=Game Results="
+msgstr ""
+
+# mes "Machine: " + .@rps$[.@npc] + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "Machine: "
+msgstr ""
+
+# mes "Machine: " + .@rps$[.@npc] + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "."
+msgstr ""
+
+# mes "You: " + .@rps$[.@pc] + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "You: "
+msgstr ""
+
+# mes "You Win";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "You Win"
+msgstr ""
+
+# mes "Draw";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "Draw"
+msgstr ""
+
+# mes "You Lose";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "You Lose"
+msgstr ""
+
+# mes "An unknown error has occurred.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "An unknown error has occurred."
+msgstr ""
+
+# mes "Please contact customer service.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "F_KO_Survival_rps"
+msgid "Please contact customer service."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "This block has a trap.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap"
+msgid "This block has a trap."
+msgstr ""
+
+# mes "Press Close to go back to block " + .@id + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap"
+msgid "Press Close to go back to block "
+msgstr ""
+
+# mes "Press Close to go back to block " + .@id + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap"
+msgid "."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "If you don't want to be caught, install a trap.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "If you don't want to be caught, install a trap."
+msgstr ""
+
+# mes "There is currently no trap installed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "There is currently no trap installed."
+msgstr ""
+
+# mes "Do you want to use 10 ^FD0260LP^000000 to install a trap?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "Do you want to use 10 ^FD0260LP^000000 to install a trap?"
+msgstr ""
+
+# if(select("Install a trap.", "Roll the Dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "Install a trap."
+msgstr ""
+
+# if(select("Install a trap.", "Roll the Dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "Roll the Dice."
+msgstr ""
+
+# mes "< Used 10 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "< Used 10 LP >"
+msgstr ""
+
+# mes "The trap is installed. Please roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "The trap is installed. Please roll the dice."
+msgstr ""
+
+# mes "< Did not use 10 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "< Did not use 10 LP >"
+msgstr ""
+
+# mes "^FD0260LP^000000 insufficient! Please roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "^FD0260LP^000000 insufficient! Please roll the dice."
+msgstr ""
+
+# mes "You are caught in the trap installed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "You are caught in the trap installed."
+msgstr ""
+
+# mes "Press Close to go back to block 0.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_trap2"
+msgid "Press Close to go back to block 0."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_heal"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "This block is blessed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_heal"
+msgid "This block is blessed."
+msgstr ""
+
+# mes "Life Point recovers 7 ^FD0260LP^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_heal"
+msgid "Life Point recovers 7 ^FD0260LP^000000."
+msgstr ""
+
+# mes "Cannot exceed maximum 100 ^FD0260LP^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_heal"
+msgid "Cannot exceed maximum 100 ^FD0260LP^000000."
+msgstr ""
+
+# mes "< Recovered " + ((job_kagero_lp + 7 > 100) ? "" : "7") + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_heal"
+msgid "< Recovered "
+msgstr ""
+
+# mes "< Recovered " + ((job_kagero_lp + 7 > 100) ? "" : "7") + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_heal"
+msgid "7"
+msgstr ""
+
+# mes "< Recovered " + ((job_kagero_lp + 7 > 100) ? "" : "7") + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_heal"
+msgid " LP >"
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "If you do not pay 5 ^FD0260LP^000000, you will be cursed and immobilized for 2 minutes.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "If you do not pay 5 ^FD0260LP^000000, you will be cursed and immobilized for 2 minutes."
+msgstr ""
+
+# if(select("Use 5 LP", "Do not pay.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "Use 5 LP"
+msgstr ""
+
+# if(select("Use 5 LP", "Do not pay.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "Do not pay."
+msgstr ""
+
+# mes "<Used 5 LP>";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "<Used 5 LP>"
+msgstr ""
+
+# mes "You can roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "You can roll the dice."
+msgstr ""
+
+# mes "< Did not use 5 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "< Did not use 5 LP >"
+msgstr ""
+
+# mes "Could not withstand the curse.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "Could not withstand the curse."
+msgstr ""
+
+# mes "You are cursed and cannot move to any other block for 2 minutes.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "You are cursed and cannot move to any other block for 2 minutes."
+msgstr ""
+
+# mes "The immobilize curse lasted for 2 minutes and then was removed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "The immobilize curse lasted for 2 minutes and then was removed."
+msgstr ""
+
+# mes "An unknown error has occurred.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "An unknown error has occurred."
+msgstr ""
+
+# mes "Please contact customer service.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_curse"
+msgid "Please contact customer service."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_gravity"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Area cursed with 10 times the normal gravity. You will need 10 ^FD0260LP^000000 to roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_gravity"
+msgid "Area cursed with 10 times the normal gravity. You will need 10 ^FD0260LP^000000 to roll the dice."
+msgstr ""
+
+# mes "You should not be here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "You should not be here."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "You've gained 100 Life Points (LP).";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "You've gained 100 Life Points (LP)."
+msgstr ""
+
+# mes "You've returned to the first block. Your LP is recovered.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "You've returned to the first block. Your LP is recovered."
+msgstr ""
+
+# if(select("Read the description.", "Start the test.") == 2)
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "Read the description."
+msgstr ""
+
+# if(select("Read the description.", "Start the test.") == 2)
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "Start the test."
+msgstr ""
+
+# mes "The Test of Survival starts from here and you use ^FD0260100 Life Points (LP)^000000 and roll dice to advance forward through the test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "The Test of Survival starts from here and you use ^FD0260100 Life Points (LP)^000000 and roll dice to advance forward through the test."
+msgstr ""
+
+# mes "The whole test starts from block 0 to block 40 and each block you get can either give or take your LP.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "The whole test starts from block 0 to block 40 and each block you get can either give or take your LP."
+msgstr ""
+
+# mes "You need to have some ^FD0260LP^000000 till you get to the arrival block at the end to pass the test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "You need to have some ^FD0260LP^000000 till you get to the arrival block at the end to pass the test."
+msgstr ""
+
+# mes "But! You still pass the test if your ^FD0260LP^000000 becomes 0 when you get to the arrival block.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "But! You still pass the test if your ^FD0260LP^000000 becomes 0 when you get to the arrival block."
+msgstr ""
+
+# mes "Game instructions end here. Good luck to you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_00"
+msgid "Game instructions end here. Good luck to you."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "You are really bad at rolling dice. How can you get a 1 from the start? You can move to block 9 if you pay up 10 LP in this block.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "You are really bad at rolling dice. How can you get a 1 from the start? You can move to block 9 if you pay up 10 LP in this block."
+msgstr ""
+
+# if(select("Use 10 LP", "Roll the dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "Use 10 LP"
+msgstr ""
+
+# if(select("Use 10 LP", "Roll the dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "Roll the dice."
+msgstr ""
+
+# mes "< Used 10 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "< Used 10 LP >"
+msgstr ""
+
+# mes "Press Close to move to block 9.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "Press Close to move to block 9."
+msgstr ""
+
+# mes "< Did not use 10 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "< Did not use 10 LP >"
+msgstr ""
+
+# mes "^FD0260LP^000000 insufficient!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_01"
+msgid "^FD0260LP^000000 insufficient!"
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_03"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Used 5 LP so you will have to resist the curse passed down through generations before moving forward.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_03"
+msgid "Used 5 LP so you will have to resist the curse passed down through generations before moving forward."
+msgstr ""
+
+# select("Use 5 LP");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_03"
+msgid "Use 5 LP"
+msgstr ""
+
+# mes "< Used 5 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_03"
+msgid "< Used 5 LP >"
+msgstr ""
+
+# mes "< Did not use 5 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_03"
+msgid "< Did not use 5 LP >"
+msgstr ""
+
+# mes "^FD0260LP^000000 insufficient! Returning to start location.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_03"
+msgid "^FD0260LP^000000 insufficient! Returning to start location."
+msgstr ""
+
+# mes "There are tiny letters scribbled on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "There are tiny letters scribbled on the sign."
+msgstr ""
+
+# mes "^0000FF" + $20110808_sko01$ +" was here.^000000";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "^0000FF"
+msgstr ""
+
+# mes "^0000FF" + $20110808_sko01$ +" was here.^000000";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid " was here.^000000"
+msgstr ""
+
+# mes "Should I leave my name since taking the test is a special occasion?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "Should I leave my name since taking the test is a special occasion?"
+msgstr ""
+
+# if(select("Use 5 LP and leave your name.", "Continue to roll the dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "Use 5 LP and leave your name."
+msgstr ""
+
+# if(select("Use 5 LP and leave your name.", "Continue to roll the dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "Continue to roll the dice."
+msgstr ""
+
+# mes "< Used 5 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "< Used 5 LP >"
+msgstr ""
+
+# mes "You left your name.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "You left your name."
+msgstr ""
+
+# mes "< Did not use 5 LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "< Did not use 5 LP >"
+msgstr ""
+
+# mes "^FD0260LP^000000 insufficient! You can roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_04"
+msgid "^FD0260LP^000000 insufficient! You can roll the dice."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Rock-paper-scissors Machine:";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "Rock-paper-scissors Machine:"
+msgstr ""
+
+# mes "If you win, move to block 15.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "If you win, move to block 15."
+msgstr ""
+
+# mes "If it is a draw, roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "If it is a draw, roll the dice."
+msgstr ""
+
+# mes "If you lose, move to block 0.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "If you lose, move to block 0."
+msgstr ""
+
+# mes "Press Close to move to block 15.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "Press Close to move to block 15."
+msgstr ""
+
+# mes "A tie, so roll the dice!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "A tie, so roll the dice!"
+msgstr ""
+
+# mes "Press Close to move to block 0.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_08"
+msgid "Press Close to move to block 0."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_09"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Please proceed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_09"
+msgid "Please proceed."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Rock-paper-scissors Machine:";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "Rock-paper-scissors Machine:"
+msgstr ""
+
+# mes "If you win, move to block 20.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "If you win, move to block 20."
+msgstr ""
+
+# mes "If it is a draw, roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "If it is a draw, roll the dice."
+msgstr ""
+
+# mes "If you lose, move to block 9.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "If you lose, move to block 9."
+msgstr ""
+
+# mes "Press Close to move to block 20.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "Press Close to move to block 20."
+msgstr ""
+
+# mes "A tie, so roll the dice!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "A tie, so roll the dice!"
+msgstr ""
+
+# mes "Press Close to move to block 9.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_12"
+msgid "Press Close to move to block 9."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_15"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "You will be cursed by a powerful gravity curse that immobilizes you for 2 minutes.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_15"
+msgid "You will be cursed by a powerful gravity curse that immobilizes you for 2 minutes."
+msgstr ""
+
+# mes "You are cursed and cannot move to any other block for 2 minutes.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_15"
+msgid "You are cursed and cannot move to any other block for 2 minutes."
+msgstr ""
+
+# mes "The immobilize curse lasted for 2 minutes and then was removed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_15"
+msgid "The immobilize curse lasted for 2 minutes and then was removed."
+msgstr ""
+
+# mes "An unknown error has occurred.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_15"
+msgid "An unknown error has occurred."
+msgstr ""
+
+# mes "Please contact customer service.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_15"
+msgid "Please contact customer service."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_16"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Consume 2 ^FD0260LP^000000 and roll the dice twice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_16"
+msgid "Consume 2 ^FD0260LP^000000 and roll the dice twice."
+msgstr ""
+
+# mes "If you get the same number then you can move to block 30, if the numbers are different, consume 2 LP to roll again... until you get the same numbers.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_16"
+msgid "If you get the same number then you can move to block 30, if the numbers are different, consume 2 LP to roll again... until you get the same numbers."
+msgstr ""
+
+# mes "Second dice result is " + @job_ko_dice2 + ", which is not the same number.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_16"
+msgid "Second dice result is "
+msgstr ""
+
+# mes "Second dice result is " + @job_ko_dice2 + ", which is not the same number.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_16"
+msgid ", which is not the same number."
+msgstr ""
+
+# mes "You got the same number. Press Close to move block 30.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_16"
+msgid "You got the same number. Press Close to move block 30."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Consume 2 ^FD0260LP^000000 and roll the dice twice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid "Consume 2 ^FD0260LP^000000 and roll the dice twice."
+msgstr ""
+
+# mes "If the sum of the numbers from both dice is lower than 5, move to block 30, if it higher than 5, move to block 19.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid "If the sum of the numbers from both dice is lower than 5, move to block 30, if it higher than 5, move to block 19."
+msgstr ""
+
+# mes "Second dice result is " + @job_ko_dice2 + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid "Second dice result is "
+msgstr ""
+
+# mes "Second dice result is " + @job_ko_dice2 + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid "."
+msgstr ""
+
+# mes @job_ko_dice1 + " + " + @job_ko_dice2 + " = " + .@dice_sum;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid " + "
+msgstr ""
+
+# mes @job_ko_dice1 + " + " + @job_ko_dice2 + " = " + .@dice_sum;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid " = "
+msgstr ""
+
+# mes "You total is lower than 5. Press Close to move to block 30.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid "You total is lower than 5. Press Close to move to block 30."
+msgstr ""
+
+# mes "You total is larger than 5. Press Close to move to block 19.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_18"
+msgid "You total is larger than 5. Press Close to move to block 19."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_19"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Move forward.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_19"
+msgid "Move forward."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Leave all your remaining ^FD0260LP^000000 and go back to block 0, then the next person will be redeemed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "Leave all your remaining ^FD0260LP^000000 and go back to block 0, then the next person will be redeemed."
+msgstr ""
+
+# mes "Do you want to leave your ^FD0260LP^000000?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "Do you want to leave your ^FD0260LP^000000?"
+msgstr ""
+
+# mes "If you leave your ^FD0260LP^000000 then the next person for test that arrives at the block will automatically pass the test.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "If you leave your ^FD0260LP^000000 then the next person for test that arrives at the block will automatically pass the test."
+msgstr ""
+
+# if(select("Leave all your LP.", "Continue to roll the dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "Leave all your LP."
+msgstr ""
+
+# if(select("Leave all your LP.", "Continue to roll the dice.") == 1) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "Continue to roll the dice."
+msgstr ""
+
+# mes "Leave all remaining ^FD0260LP^000000 here. Press Close and go back to block 0.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "Leave all remaining ^FD0260LP^000000 here. Press Close and go back to block 0."
+msgstr ""
+
+# mes "Someone before you sacrificed all their ^FD0260LP^000000, so press Close and go to the last block.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "Someone before you sacrificed all their ^FD0260LP^000000, so press Close and go to the last block."
+msgstr ""
+
+# mes "An unknown error has occurred.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "An unknown error has occurred."
+msgstr ""
+
+# mes "Please contact customer service.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_22"
+msgid "Please contact customer service."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Consume 2 ^FD0260LP^000000 and roll the dice twice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Consume 2 ^FD0260LP^000000 and roll the dice twice."
+msgstr ""
+
+# mes "If the sum of the numbers from both dice is larger than 8, then you can move to any block between 25 to 30. But! If the sum is below 8, you must move back to block 19.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "If the sum of the numbers from both dice is larger than 8, then you can move to any block between 25 to 30. But! If the sum is below 8, you must move back to block 19."
+msgstr ""
+
+# mes "Second dice result is " + @job_ko_dice2 + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Second dice result is "
+msgstr ""
+
+# mes "Second dice result is " + @job_ko_dice2 + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "."
+msgstr ""
+
+# mes @job_ko_dice1 + " + " + @job_ko_dice2 + " = " + .@dice_sum;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid " + "
+msgstr ""
+
+# mes @job_ko_dice1 + " + " + @job_ko_dice2 + " = " + .@dice_sum;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid " = "
+msgstr ""
+
+# mes "You total is larger than 8. Please choose a block to move between blocks 25 through 30.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "You total is larger than 8. Please choose a block to move between blocks 25 through 30."
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 25", "Move to block 26", "Move to block 27", "Move to block 28", "Move to block 29", "Move to block 30") + 24;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Move to block 25"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 25", "Move to block 26", "Move to block 27", "Move to block 28", "Move to block 29", "Move to block 30") + 24;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Move to block 26"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 25", "Move to block 26", "Move to block 27", "Move to block 28", "Move to block 29", "Move to block 30") + 24;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Move to block 27"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 25", "Move to block 26", "Move to block 27", "Move to block 28", "Move to block 29", "Move to block 30") + 24;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Move to block 28"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 25", "Move to block 26", "Move to block 27", "Move to block 28", "Move to block 29", "Move to block 30") + 24;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Move to block 29"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 25", "Move to block 26", "Move to block 27", "Move to block 28", "Move to block 29", "Move to block 30") + 24;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "Move to block 30"
+msgstr ""
+
+# mes "You total is lower than 8. Press Close to move to block 19.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_24"
+msgid "You total is lower than 8. Press Close to move to block 19."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "This is lame.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "This is lame."
+msgstr ""
+
+# mes "Cannot read the writing. There should be a way to read it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Cannot read the writing. There should be a way to read it."
+msgstr ""
+
+# switch(select("Try something.", "Do nothing.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Try something."
+msgstr ""
+
+# switch(select("Try something.", "Do nothing.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Do nothing."
+msgstr ""
+
+# mes "Tried a recent Prontera joke to do something.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Tried a recent Prontera joke to do something."
+msgstr ""
+
+# mes "Got cursed and became immobilized for 2 minutes.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Got cursed and became immobilized for 2 minutes."
+msgstr ""
+
+# mes "Its a wise decision to do nothing.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Its a wise decision to do nothing."
+msgstr ""
+
+# mes "Nothing happened. Still need to do something.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Nothing happened. Still need to do something."
+msgstr ""
+
+# mes "Cannot move because you are cursed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Cannot move because you are cursed."
+msgstr ""
+
+# mes "The immobilize curse lasted for 2 minutes and then was removed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "The immobilize curse lasted for 2 minutes and then was removed."
+msgstr ""
+
+# mes "An unknown error has occurred.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "An unknown error has occurred."
+msgstr ""
+
+# mes "Please contact customer service.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_25"
+msgid "Please contact customer service."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_29"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Go forth.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_29"
+msgid "Go forth."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Rock-paper-scissors Machine:";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Rock-paper-scissors Machine:"
+msgstr ""
+
+# mes "If you win, you get to move to any block between 33 to 38; if you lose or is a draw, you have to move to block 0.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "If you win, you get to move to any block between 33 to 38; if you lose or is a draw, you have to move to block 0."
+msgstr ""
+
+# mes "Please choose a block to move between blocks 33 through 38.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Please choose a block to move between blocks 33 through 38."
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 33", "Move to block 34", "Move to block 35", "Move to block 36", "Move to block 37", "Move to block 38") + 32;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Move to block 33"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 33", "Move to block 34", "Move to block 35", "Move to block 36", "Move to block 37", "Move to block 38") + 32;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Move to block 34"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 33", "Move to block 34", "Move to block 35", "Move to block 36", "Move to block 37", "Move to block 38") + 32;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Move to block 35"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 33", "Move to block 34", "Move to block 35", "Move to block 36", "Move to block 37", "Move to block 38") + 32;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Move to block 36"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 33", "Move to block 34", "Move to block 35", "Move to block 36", "Move to block 37", "Move to block 38") + 32;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Move to block 37"
+msgstr ""
+
+# callfunc "F_KO_Survival_warp", select("Move to block 33", "Move to block 34", "Move to block 35", "Move to block 36", "Move to block 37", "Move to block 38") + 32;
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Move to block 38"
+msgstr ""
+
+# mes "Press Close to move to block 0.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_32"
+msgid "Press Close to move to block 0."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "You can move to block 39 if you pay all points except for the last 1 ^FD0260LP^000000 to roll the dice one last time.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid "You can move to block 39 if you pay all points except for the last 1 ^FD0260LP^000000 to roll the dice one last time."
+msgstr ""
+
+# switch(select("Pay LP.", "Move forward a little bit at a time.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid "Pay LP."
+msgstr ""
+
+# switch(select("Pay LP.", "Move forward a little bit at a time.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid "Move forward a little bit at a time."
+msgstr ""
+
+# mes "< Used " + .@sell_p + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid "< Used "
+msgstr ""
+
+# mes "< Used " + .@sell_p + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid " LP >"
+msgstr ""
+
+# mes "Press Close to move to block 39.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid "Press Close to move to block 39."
+msgstr ""
+
+# mes "Please roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_33"
+msgid "Please roll the dice."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "There are only 4 blocks left till the last block.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "There are only 4 blocks left till the last block."
+msgstr ""
+
+# mes "Rule 1 (Normal Dice Roll)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "Rule 1 (Normal Dice Roll)"
+msgstr ""
+
+# mes "You get to pass if you get 4 or above but nobody knows what will come from a dice roll.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "You get to pass if you get 4 or above but nobody knows what will come from a dice roll."
+msgstr ""
+
+# mes "Rule 2";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "Rule 2"
+msgstr ""
+
+# mes "If you get 1, 2, or 3 you move right to the arrival point; if you get 4, 5, or 6 you get to choose to move to block 29.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "If you get 1, 2, or 3 you move right to the arrival point; if you get 4, 5, or 6 you get to choose to move to block 29."
+msgstr ""
+
+# switch(select("Try it the other way.", "Go by the rules.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "Try it the other way."
+msgstr ""
+
+# switch(select("Try it the other way.", "Go by the rules.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "Go by the rules."
+msgstr ""
+
+# mes "Press Close to move to the end.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "Press Close to move to the end."
+msgstr ""
+
+# mes "Press Close to move to block 29.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "Press Close to move to block 29."
+msgstr ""
+
+# mes "Press Close to move to forward " + .@dice + " blocks.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid "Press Close to move to forward "
+msgstr ""
+
+# mes "Press Close to move to forward " + .@dice + " blocks.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_36"
+msgid " blocks."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_37"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "There are only 3 blocks left to the finish line but you can't you go so easily.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_37"
+msgid "There are only 3 blocks left to the finish line but you can't you go so easily."
+msgstr ""
+
+# mes "If you get 1, 3, or 5, move to the arrival point; if you get 2, 4, or 6, go back to the starting point.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_37"
+msgid "If you get 1, 3, or 5, move to the arrival point; if you get 2, 4, or 6, go back to the starting point."
+msgstr ""
+
+# mes "Press Close to move to the last block.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_37"
+msgid "Press Close to move to the last block."
+msgstr ""
+
+# mes "Press Close to move to the starting point.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_37"
+msgid "Press Close to move to the starting point."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Leave 1 LP and invest the remaining LP to install the trap to bring down other players!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "Leave 1 LP and invest the remaining LP to install the trap to bring down other players!"
+msgstr ""
+
+# mes "There is currently no trap installed. Do you want to install a trap?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "There is currently no trap installed. Do you want to install a trap?"
+msgstr ""
+
+# switch(select("Install a trap.", "Do not install.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "Install a trap."
+msgstr ""
+
+# switch(select("Install a trap.", "Do not install.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "Do not install."
+msgstr ""
+
+# mes "< Used " + .@reset_p + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "< Used "
+msgstr ""
+
+# mes "< Used " + .@reset_p + " LP >";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid " LP >"
+msgstr ""
+
+# mes "The trap is installed. Please roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "The trap is installed. Please roll the dice."
+msgstr ""
+
+# mes "Did not set a trap. Please roll the dice.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "Did not set a trap. Please roll the dice."
+msgstr ""
+
+# mes "You are caught in the trap installed. Press Close to go back to block 0.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "You are caught in the trap installed. Press Close to go back to block 0."
+msgstr ""
+
+# mes "Press Close to move forward " + .@dice + " blocks.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid "Press Close to move forward "
+msgstr ""
+
+# mes "Press Close to move forward " + .@dice + " blocks.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_38"
+msgid " blocks."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_39"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "Now there is only 1 block left till the end. Congratulations on all you've been through to get here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_39"
+msgid "Now there is only 1 block left till the end. Congratulations on all you've been through to get here."
+msgstr ""
+
+# mes "But you cannot go so easily. If you get a 3, you will go back to block 3.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_39"
+msgid "But you cannot go so easily. If you get a 3, you will go back to block 3."
+msgstr ""
+
+# mes "Press Close to move to the 3rd block.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_39"
+msgid "Press Close to move to the 3rd block."
+msgstr ""
+
+# mes "Press Close to move to the arrival point.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_39"
+msgid "Press Close to move to the arrival point."
+msgstr ""
+
+# mes "You should not be here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_40"
+msgid "You should not be here."
+msgstr ""
+
+# mes "You must be here by mistake.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_40"
+msgid "You must be here by mistake."
+msgstr ""
+
+# mes "There are tiny letters on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_40"
+msgid "There are tiny letters on the sign."
+msgstr ""
+
+# mes "To those you are preparing for a new turn...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_40"
+msgid "To those you are preparing for a new turn..."
+msgstr ""
+
+# mes "Well begun is half done. However always remember it is not the end.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_40"
+msgid "Well begun is half done. However always remember it is not the end."
+msgstr ""
+
+# mes "Let's read all the writing on the sign.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_40"
+msgid "Let's read all the writing on the sign."
+msgstr ""
+
+# mes "You feel like you are moved to another place.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Sight#ko_40"
+msgid "You feel like you are moved to another place."
+msgstr ""
+
+# mes "[Red Leopard Joe]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "[Red Leopard Joe]"
+msgstr ""
+
+# mes "Go reduce your weight! This test will be too difficult otherwise...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Go reduce your weight! This test will be too difficult otherwise..."
+msgstr ""
+
+# mes "Sorry, your clan is not the same as ours, is there something wrong?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Sorry, your clan is not the same as ours, is there something wrong?"
+msgstr ""
+
+# mes "You are not supposed to be here...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You are not supposed to be here..."
+msgstr ""
+
+# mes "It's my duty to get rid of you,";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "It's my duty to get rid of you,"
+msgstr ""
+
+# mes "so I'll send you back now!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "so I'll send you back now!"
+msgstr ""
+
+# mes "It's been a while!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "It's been a while!"
+msgstr ""
+
+# select("Long time indeed, Joe.");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Long time indeed, Joe."
+msgstr ""
+
+# mes "You aren't surprised I'm here. Did you meet ^0237FDKuuga Gai^000000 before coming here?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You aren't surprised I'm here. Did you meet ^0237FDKuuga Gai^000000 before coming here?"
+msgstr ""
+
+# mes "Don't like it that I'm not the first one you visited but that is not important.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Don't like it that I'm not the first one you visited but that is not important."
+msgstr ""
+
+# mes "Alright, " + strcharinfo(PC_NAME) + "!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Alright, "
+msgstr ""
+
+# mes "Welcome to the workshop where weapons are created for the clan.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Welcome to the workshop where weapons are created for the clan."
+msgstr ""
+
+# mes "Our clan has been creating and using unique weapons to serve our secret missions since ancient times.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Our clan has been creating and using unique weapons to serve our secret missions since ancient times."
+msgstr ""
+
+# select("Really? At Einbroch?");
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Really? At Einbroch?"
+msgstr ""
+
+# mes "Hmm? You are not as slow as I thought you were!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Hmm? You are not as slow as I thought you were!"
+msgstr ""
+
+# mes "Yes. Einbroch is known as an industrial city, the city of great blacksmiths create new technology.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Yes. Einbroch is known as an industrial city, the city of great blacksmiths create new technology."
+msgstr ""
+
+# mes "My mission is to analyze their technology and report back to the clan.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "My mission is to analyze their technology and report back to the clan."
+msgstr ""
+
+# mes "I spoke more than I intended to.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I spoke more than I intended to."
+msgstr ""
+
+# mes "Did you bring enough ^6848B7Iron Ore, Iron, Steel, Phracon, Emveretaron, Rough Oridecon, and Rough Elunium^000000?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Did you bring enough ^6848B7Iron Ore, Iron, Steel, Phracon, Emveretaron, Rough Oridecon, and Rough Elunium^000000?"
+msgstr ""
+
+# mes "Let's now create a new prototype weapon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Let's now create a new prototype weapon."
+msgstr ""
+
+# mes "Feel free to use tools from here, and...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Feel free to use tools from here, and..."
+msgstr ""
+
+# mes "...there...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "...there..."
+msgstr ""
+
+# mes "...and everywhere else. Now let's begin!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "...and everywhere else. Now let's begin!!"
+msgstr ""
+
+# mes "Hmm... Interesting... Is it a dagger in a shape of a Kunai?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Hmm... Interesting... Is it a dagger in a shape of a Kunai?"
+msgstr ""
+
+# mes "Hmm... Is this an Ordinary Huuma?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Hmm... Is this an Ordinary Huuma?"
+msgstr ""
+
+# mes "Ahh, Its not an Ordinary Huuma.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Ahh, Its not an Ordinary Huuma."
+msgstr ""
+
+# mes "Ahh, how is it possible? You don't have weapons? Maybe you equipped it?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Ahh, how is it possible? You don't have weapons? Maybe you equipped it?"
+msgstr ""
+
+# mes "Very creative. I do see room for improvement but the weapon itself may come out useful after smoothing it out a bit.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Very creative. I do see room for improvement but the weapon itself may come out useful after smoothing it out a bit."
+msgstr ""
+
+# mes "Good. I think you are ready.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Good. I think you are ready."
+msgstr ""
+
+# mes "Now it's time to upgrade?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Now it's time to upgrade?"
+msgstr ""
+
+# mes "There are refinement tools on both sides of me. Use those to refine a weapon and come back.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "There are refinement tools on both sides of me. Use those to refine a weapon and come back."
+msgstr ""
+
+# mes "I created the refinement tools myself with great effort so you won't have any trouble using them.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I created the refinement tools myself with great effort so you won't have any trouble using them."
+msgstr ""
+
+# mes "Ah... But just in case,";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Ah... But just in case,"
+msgstr ""
+
+# mes "^FF0000be careful not to cause trouble by showing these to blacksmiths outside of here.^000000";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "^FF0000be careful not to cause trouble by showing these to blacksmiths outside of here.^000000"
+msgstr ""
+
+# mes "Did you get a successful result?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Did you get a successful result?"
+msgstr ""
+
+# switch(select("Not yet.", "Here it is.", "Actually...")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Not yet."
+msgstr ""
+
+# switch(select("Not yet.", "Here it is.", "Actually...")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Here it is."
+msgstr ""
+
+# switch(select("Not yet.", "Here it is.", "Actually...")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Actually..."
+msgstr ""
+
+# mes "It isn't easy to get a satisfactory result at first.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "It isn't easy to get a satisfactory result at first."
+msgstr ""
+
+# mes "You've lost the weapon even with my warning.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You've lost the weapon even with my warning."
+msgstr ""
+
+# mes "Nothing else we can do. Wait!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Nothing else we can do. Wait!"
+msgstr ""
+
+# mes "Red Leopard Joe mumbles something and suddenly all weapons are unequipped.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Red Leopard Joe mumbles something and suddenly all weapons are unequipped."
+msgstr ""
+
+# mes "What is this? You still have the prototype. Stop playing around.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "What is this? You still have the prototype. Stop playing around."
+msgstr ""
+
+# mes "Oh! You really lost it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Oh! You really lost it."
+msgstr ""
+
+# mes "Well! Lets try to make it again!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Well! Lets try to make it again!"
+msgstr ""
+
+# mes "Looks like you've got some results.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Looks like you've got some results."
+msgstr ""
+
+# mes "Ahh! You have not equipped any weapons!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Ahh! You have not equipped any weapons!"
+msgstr ""
+
+# mes "Is that weapon yours? Let me have a look.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Is that weapon yours? Let me have a look."
+msgstr ""
+
+# mes "Are you certain it's that weapon?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Are you certain it's that weapon?"
+msgstr ""
+
+# mes "You plan to trick me with that? Again!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You plan to trick me with that? Again!!"
+msgstr ""
+
+# mes "Joe took a thorough look at the seal.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Joe took a thorough look at the seal."
+msgstr ""
+
+# mes "Are you that low?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Are you that low?"
+msgstr ""
+
+# mes "I must have misjudged you. You might have been satisfied yourself but I'm not. Do it again!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I must have misjudged you. You might have been satisfied yourself but I'm not. Do it again!!"
+msgstr ""
+
+# mes "Hmm... Is this your limit?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Hmm... Is this your limit?"
+msgstr ""
+
+# mes "You've just made it that close to passing. I will ask one more time, are you satisfied?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You've just made it that close to passing. I will ask one more time, are you satisfied?"
+msgstr ""
+
+# if(select("Yes", "No") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Yes"
+msgstr ""
+
+# if(select("Yes", "No") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "No"
+msgstr ""
+
+# mes "You're still here. Why?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You're still here. Why?"
+msgstr ""
+
+# mes "Your competence is enough.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Your competence is enough."
+msgstr ""
+
+# mes "Ah, as I expected.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Ah, as I expected."
+msgstr ""
+
+# mes "I still believe that you will not stop here.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I still believe that you will not stop here."
+msgstr ""
+
+# if(select("I want to stop.", "I want to continue.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I want to stop."
+msgstr ""
+
+# if(select("I want to stop.", "I want to continue.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I want to continue."
+msgstr ""
+
+# mes "I will look forward for your result.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I will look forward for your result."
+msgstr ""
+
+# mes "Better than expected.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Better than expected."
+msgstr ""
+
+# mes "For beginners, quite good. This test may not be significant to you, but your competence is enough.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "For beginners, quite good. This test may not be significant to you, but your competence is enough."
+msgstr ""
+
+# mes "I can feel it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I can feel it."
+msgstr ""
+
+# mes "I will take this weapon to give it some finishing touches.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I will take this weapon to give it some finishing touches."
+msgstr ""
+
+# mes "'" + strcharinfo(PC_NAME) + "'";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "'"
+msgstr ""
+
+# mes "Passed the weapon test!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Passed the weapon test!!"
+msgstr ""
+
+# mes "Oh, I almost forgot.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Oh, I almost forgot."
+msgstr ""
+
+# mes "Go report the test results to Gion!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Go report the test results to Gion!"
+msgstr ""
+
+# mes "You should not have come here...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You should not have come here..."
+msgstr ""
+
+# mes "It's my duty to get rid of you.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "It's my duty to get rid of you."
+msgstr ""
+
+# mes "This will push you back!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "This will push you back!"
+msgstr ""
+
+# mes "Are you done making the prototype of the new weapons?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Are you done making the prototype of the new weapons?"
+msgstr ""
+
+# switch(select("Crafting tools?", "I don't have enough materials.", "How do you expect me to make a weapon?" + getarg(0))) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Crafting tools?"
+msgstr ""
+
+# switch(select("Crafting tools?", "I don't have enough materials.", "How do you expect me to make a weapon?" + getarg(0))) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I don't have enough materials."
+msgstr ""
+
+# switch(select("Crafting tools?", "I don't have enough materials.", "How do you expect me to make a weapon?" + getarg(0))) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "How do you expect me to make a weapon?"
+msgstr ""
+
+# mes "...and everywhere else.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "...and everywhere else."
+msgstr ""
+
+# mes "You haven't brought enough materials?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You haven't brought enough materials?"
+msgstr ""
+
+# mes "Then we'll have to pay a visit to the village. Try the ^FF0000drawer^000000 over there. It'll take you to the village.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Then we'll have to pay a visit to the village. Try the ^FF0000drawer^000000 over there. It'll take you to the village."
+msgstr ""
+
+# mes "Hmm... Guess I expected too much? Let me explain.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Hmm... Guess I expected too much? Let me explain."
+msgstr ""
+
+# mes "You first have to melt the ore to use for the weapon. And the best way to get high purity metal is to melt materials that are of the same kind.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "You first have to melt the ore to use for the weapon. And the best way to get high purity metal is to melt materials that are of the same kind."
+msgstr ""
+
+# mes "For example, Iron Ore, Iron, and Steel are of similar property so you can get a high purity metal out of them.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "For example, Iron Ore, Iron, and Steel are of similar property so you can get a high purity metal out of them."
+msgstr ""
+
+# mes "Once you've melted a high purity metal, pour it in a mold to get the shape of the weapon and then make it firm through grinding and tempering.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "Once you've melted a high purity metal, pour it in a mold to get the shape of the weapon and then make it firm through grinding and tempering."
+msgstr ""
+
+# mes "By the way, you will get the best results by thoroughly rotating, grinding and tempering.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "By the way, you will get the best results by thoroughly rotating, grinding and tempering."
+msgstr ""
+
+# mes "I think this is enough to get you started, don't you think? Now go and work on that prototype!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko"
+msgid "I think this is enough to get you started, don't you think? Now go and work on that prototype!!"
+msgstr ""
+
+# mes "There is some kind of device on the drawer.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Drawer#ko"
+msgid "There is some kind of device on the drawer."
+msgstr ""
+
+# if(select("Stop.", "Try to operate it.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Drawer#ko"
+msgid "Stop."
+msgstr ""
+
+# if(select("Stop.", "Try to operate it.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Drawer#ko"
+msgid "Try to operate it."
+msgstr ""
+
+# mes "Clank clunk clink";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Drawer#ko"
+msgid "Clank clunk clink"
+msgstr ""
+
+# mes "Too heavy! Please reduce your weight.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Too heavy! Please reduce your weight."
+msgstr ""
+
+# mes "A crafting tool.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "A crafting tool."
+msgstr ""
+
+# mes "Don't really need it now.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Don't really need it now."
+msgstr ""
+
+# mes "Tool to create weapons.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Tool to create weapons."
+msgstr ""
+
+# mes "First need to melt metals like iron and iron ore to use to create a weapon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "First need to melt metals like iron and iron ore to use to create a weapon."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melt Iron Ore."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melt Iron."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melt Steel."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melt Phracon."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melt Emveretarcon."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melt Rough Oridecon."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melt Rough Elunium."
+msgstr ""
+
+# switch(select("Melt Iron Ore.", "Melt Iron.", "Melt Steel.", "Melt Phracon.", "Melt Emveretarcon.", "Melt Rough Oridecon.", "Melt Rough Elunium.", "Stop.")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Stop."
+msgstr ""
+
+# mes "Melted " + getitemname(.@item) + " in high temperature.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Melted "
+msgstr ""
+
+# mes "Don't have " + getitemname(.@item) + ".";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Don't have "
+msgstr ""
+
+# mes "Which metal will be melted next?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Which metal will be melted next?"
+msgstr ""
+
+# mes "Now the metal is melted to use for creating weapons.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Now the metal is melted to use for creating weapons."
+msgstr ""
+
+# mes "Next is to make the melted metal firm by pouring it into a mold. Which mold shape will you use?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Next is to make the melted metal firm by pouring it into a mold. Which mold shape will you use?"
+msgstr ""
+
+# switch(select("Dagger Mold", "Shuriken Mold")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Dagger Mold"
+msgstr ""
+
+# switch(select("Dagger Mold", "Shuriken Mold")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Shuriken Mold"
+msgstr ""
+
+# mes "Poured the melted metal into the dagger mold.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Poured the melted metal into the dagger mold."
+msgstr ""
+
+# mes "Poured the melted metal into the shuriken mold.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Poured the melted metal into the shuriken mold."
+msgstr ""
+
+# mes "Looks like the metal is taking shape. Now what next?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Looks like the metal is taking shape. Now what next?"
+msgstr ""
+
+# mes "Now what next?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Now what next?"
+msgstr ""
+
+# mes "Start to sharpen the tool using a whetstone for finishing touches.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Start to sharpen the tool using a whetstone for finishing touches."
+msgstr ""
+
+# mes "The weapon was created successfully.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "The weapon was created successfully."
+msgstr ""
+
+# mes "Let's take it to Red Leopard Joe.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Let's take it to Red Leopard Joe."
+msgstr ""
+
+# mes "The weapon was destroyed while doing the finishing touches to it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "The weapon was destroyed while doing the finishing touches to it."
+msgstr ""
+
+# mes "There must have been something missed while creating the weapon. Very sad this happened but you'll have to start all over again.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "There must have been something missed while creating the weapon. Very sad this happened but you'll have to start all over again."
+msgstr ""
+
+# mes "But you do not have any more metal to melt. Let's try again after getting more metal.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "But you do not have any more metal to melt. Let's try again after getting more metal."
+msgstr ""
+
+# set .@i, select("Grind the weapon", "Temper the weapon" + getarg(0));
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Grind the weapon"
+msgstr ""
+
+# set .@i, select("Grind the weapon", "Temper the weapon" + getarg(0));
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Temper the weapon"
+msgstr ""
+
+# mes "Ground the weapon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Ground the weapon."
+msgstr ""
+
+# mes "Tempered the weapon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Crafting Tools#ko_01"
+msgid "Tempered the weapon."
+msgstr ""
+
+# mes "This tool helps you refine your weapons automatically. However, you won't need this just now.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "This tool helps you refine your weapons automatically. However, you won't need this just now."
+msgstr ""
+
+# mes "You turn on the refinement tool.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "You turn on the refinement tool."
+msgstr ""
+
+# mes "The equipment starts up with a pleasant vibration.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "The equipment starts up with a pleasant vibration."
+msgstr ""
+
+# mes "Looks like you can use the tool right away for refinement because it holds a good deal of Elunium and Oridecon within it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Looks like you can use the tool right away for refinement because it holds a good deal of Elunium and Oridecon within it."
+msgstr ""
+
+# if(select("Start refining.", "Do not start refining.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Start refining."
+msgstr ""
+
+# if(select("Start refining.", "Do not start refining.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Do not start refining."
+msgstr ""
+
+# mes "You turned off the tool.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "You turned off the tool."
+msgstr ""
+
+# mes "Bzzzt";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Bzzzt"
+msgstr ""
+
+# mes "A warning beep comes from the tool.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "A warning beep comes from the tool."
+msgstr ""
+
+# mes "[Red Leopard Joe]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "[Red Leopard Joe]"
+msgstr ""
+
+# mes "This equipment does not work without an equipped item to refine.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "This equipment does not work without an equipped item to refine."
+msgstr ""
+
+# mes "Analyzing the weapon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Analyzing the weapon."
+msgstr ""
+
+# mes "Wait... this weapon is not a customized one.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Wait... this weapon is not a customized one."
+msgstr ""
+
+# mes "Why don't you refine this with those hot-headed blacksmiths out there?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Why don't you refine this with those hot-headed blacksmiths out there?"
+msgstr ""
+
+# mes "That weapon cannot be refined. Where did you get it?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "That weapon cannot be refined. Where did you get it?"
+msgstr ""
+
+# mes "This equipment is perfectly refined. Keep it for yourself!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "This equipment is perfectly refined. Keep it for yourself!"
+msgstr ""
+
+# mes "This is very well refined equipment. Do you want to continue? Refine skill decreases by 1 if refinement fails.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "This is very well refined equipment. Do you want to continue? Refine skill decreases by 1 if refinement fails."
+msgstr ""
+
+# if(select("Continue.", "Stop.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Continue."
+msgstr ""
+
+# if(select("Continue.", "Stop.") == 2) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Stop."
+msgstr ""
+
+# mes "Starting to refine.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Starting to refine."
+msgstr ""
+
+# mes "Succeeded in refining.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Succeeded in refining."
+msgstr ""
+
+# mes "Turned off the refining tool.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Turned off the refining tool."
+msgstr ""
+
+# mes "Failed in refining.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Failed in refining."
+msgstr ""
+
+# mes "Your weapon refinement skill dropped by 1.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Refinement Tools#ko_01"
+msgid "Your weapon refinement skill dropped by 1."
+msgstr ""
+
+# mes "[Leader Gion]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "[Leader Gion]"
+msgstr ""
+
+# mes "You don't need so many things now!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "You don't need so many things now!"
+msgstr ""
+
+# mes "Looks like you haven't taken care of the target yet.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Looks like you haven't taken care of the target yet."
+msgstr ""
+
+# mes "I'll tell you once more. The target is the ^FF0000Clan Secret^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I'll tell you once more. The target is the ^FF0000Clan Secret^000000."
+msgstr ""
+
+# mes "Of course the path will be difficult, so continue searching!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Of course the path will be difficult, so continue searching!"
+msgstr ""
+
+# mes "Looks like you've taken care of the target. Hmm.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Looks like you've taken care of the target. Hmm."
+msgstr ""
+
+# mes "But please get down from your frog. Otherwise I can't continue!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "But please get down from your frog. Otherwise I can't continue!"
+msgstr ""
+
+# mes "How did you get weaker? Come back once you've regained your previous levels.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "How did you get weaker? Come back once you've regained your previous levels."
+msgstr ""
+
+# mes "Please come back after using all your Skill Points.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Please come back after using all your Skill Points."
+msgstr ""
+
+# mes "The Test of Battle will be put off for a while. Don't worry because this does not have affect to other tests.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "The Test of Battle will be put off for a while. Don't worry because this does not have affect to other tests."
+msgstr ""
+
+# mes "My friend " + strcharinfo(PC_NAME) + " made it to " + (Sex == SEX_MALE ? "Kagerou" : "Oboro") + " Path. Congratulations!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "My friend "
+msgstr ""
+
+# mes "It is pleasant to meet a youth that is walking through a new path.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "It is pleasant to meet a youth that is walking through a new path."
+msgstr ""
+
+# mes "[Someone's Voice]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "[Someone's Voice]"
+msgstr ""
+
+# mes "Wait for a while, Gion.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Wait for a while, Gion."
+msgstr ""
+
+# mes "I'm sorry I almost forgot about you two. Do you have anything to share with " + strcharinfo(PC_NAME) + "?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I'm sorry I almost forgot about you two. Do you have anything to share with "
+msgstr ""
+
+# mes "[Kuuga Gai]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "[Kuuga Gai]"
+msgstr ""
+
+# mes "Hmm... Embarrassing... to speak so suddenly...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Hmm... Embarrassing... to speak so suddenly..."
+msgstr ""
+
+# mes "^777777(Gai's voice fades out.)^000000.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "^777777(Gai's voice fades out.)^000000."
+msgstr ""
+
+# mes "I'm sorry I strangled you when we first met.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I'm sorry I strangled you when we first met."
+msgstr ""
+
+# mes "[Red Leopard Joe]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "[Red Leopard Joe]"
+msgstr ""
+
+# mes "Puhahaha! Gai is all talk. I know I was know valuable to you than that Gai.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Puhahaha! Gai is all talk. I know I was know valuable to you than that Gai."
+msgstr ""
+
+# mes "I did some work on the prototype " + .@weapon$ + " you made.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I did some work on the prototype "
+msgstr ""
+
+# mes "I did some work on the prototype " + .@weapon$ + " you made.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid " you made."
+msgstr ""
+
+# mes "I named your weapons on my own but I know you'll like the name.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I named your weapons on my own but I know you'll like the name."
+msgstr ""
+
+# mes "Leader Gion, please continue.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "Leader Gion, please continue."
+msgstr ""
+
+# mes "I don't have much to add because Gai and Joe said it all.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I don't have much to add because Gai and Joe said it all."
+msgstr ""
+
+# mes "I'm just sorry that the environment of all these tests could have been better for our later generation.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I'm just sorry that the environment of all these tests could have been better for our later generation."
+msgstr ""
+
+# mes "You only need to look forward and never turn back.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "You only need to look forward and never turn back."
+msgstr ""
+
+# mes "I hope the blessings of Kagerou, dancing sun and Oboro, misty moonlight will be with you on your journey ahead.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "I hope the blessings of Kagerou, dancing sun and Oboro, misty moonlight will be with you on your journey ahead."
+msgstr ""
+
+# mes "You should not be here. Please leave!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide Gion#ko2"
+msgid "You should not be here. Please leave!"
+msgstr ""
+
+# mes "[Kuuga Gai]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko2"
+msgid "[Kuuga Gai]"
+msgstr ""
+
+# mes "Congratulation for choosing the road of development!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Kuuga Gai#ko2"
+msgid "Congratulation for choosing the road of development!"
+msgstr ""
+
+# mes "[Red Leopard Joe]";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko2"
+msgid "[Red Leopard Joe]"
+msgstr ""
+
+# mes "You have not found the target? Continue searching it.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Red Leopard Joe#ko2"
+msgid "You have not found the target? Continue searching it."
+msgstr ""
+
+# mes "This is the Battle Test Control NPC.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "This is the Battle Test Control NPC."
+msgstr ""
+
+# mes "Incorrect password.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Incorrect password."
+msgstr ""
+
+# switch(select("Summon Target", "Summon Target Disable", "Summon Fake", "Summon Fake Disable")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Target"
+msgstr ""
+
+# switch(select("Summon Target", "Summon Target Disable", "Summon Fake", "Summon Fake Disable")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Target Disable"
+msgstr ""
+
+# switch(select("Summon Target", "Summon Target Disable", "Summon Fake", "Summon Fake Disable")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Fake"
+msgstr ""
+
+# switch(select("Summon Target", "Summon Target Disable", "Summon Fake", "Summon Fake Disable")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Fake Disable"
+msgstr ""
+
+# mes "Summon Target activated.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Target activated."
+msgstr ""
+
+# mes "Summon Target disabled.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Target disabled."
+msgstr ""
+
+# mes "Summon Fake activated.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Fake activated."
+msgstr ""
+
+# mes "Summon Fake disabled.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Summon Fake disabled."
+msgstr ""
+
+# mes "Control has completed.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Battle Test Control#ko"
+msgid "Control has completed."
+msgstr ""
+
+# mes "This is the Kagerou and Oboro Job Change assistant NPC.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "This is the Kagerou and Oboro Job Change assistant NPC."
+msgstr ""
+
+# mes "Incorrect password.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Incorrect password."
+msgstr ""
+
+# mes "I can solve any problems in the job change quest.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "I can solve any problems in the job change quest."
+msgstr ""
+
+# switch(select("Current Status", "Test Set", "Pre-Transfer", "Initialize")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Current Status"
+msgstr ""
+
+# switch(select("Current Status", "Test Set", "Pre-Transfer", "Initialize")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Test Set"
+msgstr ""
+
+# switch(select("Current Status", "Test Set", "Pre-Transfer", "Initialize")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Pre-Transfer"
+msgstr ""
+
+# switch(select("Current Status", "Test Set", "Pre-Transfer", "Initialize")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Initialize"
+msgstr ""
+
+# mes "Variable states (current/maximum)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Variable states (current/maximum)"
+msgstr ""
+
+# mes "job_kagero (" + job_kagero + "/9)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "job_kagero ("
+msgstr ""
+
+# mes "job_kagero (" + job_kagero + "/9)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "/9)"
+msgstr ""
+
+# mes "job_kagero_lp (" + job_kagero_lp + "/100)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "job_kagero_lp ("
+msgstr ""
+
+# mes "job_kagero_lp (" + job_kagero_lp + "/100)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "/100)"
+msgstr ""
+
+# mes "Quest states (current/maximum)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Quest states (current/maximum)"
+msgstr ""
+
+# mes "5131 (" + questprogress(5131) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5131 ("
+msgstr ""
+
+# mes "5132 (" + questprogress(5132) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5132 ("
+msgstr ""
+
+# mes "5133 (" + questprogress(5133) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5133 ("
+msgstr ""
+
+# mes "5134 (" + questprogress(5134) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5134 ("
+msgstr ""
+
+# mes "5135 (" + questprogress(5135) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5135 ("
+msgstr ""
+
+# mes "5136 (" + questprogress(5136) + "/2)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5136 ("
+msgstr ""
+
+# mes "5139 (" + questprogress(5139) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5139 ("
+msgstr ""
+
+# mes "5137 (" + questprogress(5137) + "/2)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5137 ("
+msgstr ""
+
+# mes "5140 (" + questprogress(5140) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5140 ("
+msgstr ""
+
+# mes "5141 (" + questprogress(5141,PLAYTIME) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5141 ("
+msgstr ""
+
+# mes "5138 (" + questprogress(5138) + "/2)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5138 ("
+msgstr ""
+
+# mes "5142 (" + questprogress(5142) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5142 ("
+msgstr ""
+
+# mes "5143 (" + questprogress(5143) + "/2)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5143 ("
+msgstr ""
+
+# mes "5144 (" + questprogress(5144) + "/2)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5144 ("
+msgstr ""
+
+# mes "5145 (" + questprogress(5145) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5145 ("
+msgstr ""
+
+# mes "5146 (" + questprogress(5146) + "/1)";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "5146 ("
+msgstr ""
+
+# mes "Which test do you want to set as completed?";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Which test do you want to set as completed?"
+msgstr ""
+
+# mes "Three tests must be completed before changing jobs. If you wish to reach a job change state, please select [Pre-Transfer] directly from the previous menu!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Three tests must be completed before changing jobs. If you wish to reach a job change state, please select [Pre-Transfer] directly from the previous menu!"
+msgstr ""
+
+# switch(select("Complete Test of Knowledge", "Complete Test of Survival", "Complete Test of Weaponry")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Complete Test of Knowledge"
+msgstr ""
+
+# switch(select("Complete Test of Knowledge", "Complete Test of Survival", "Complete Test of Weaponry")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Complete Test of Survival"
+msgstr ""
+
+# switch(select("Complete Test of Knowledge", "Complete Test of Survival", "Complete Test of Weaponry")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Complete Test of Weaponry"
+msgstr ""
+
+# mes "The Test of Knowledge has been set as complete. I hope you have finished your initialization.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "The Test of Knowledge has been set as complete. I hope you have finished your initialization."
+msgstr ""
+
+# mes "The Test of Survival has been set as complete. I hope you have finished your initialization.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "The Test of Survival has been set as complete. I hope you have finished your initialization."
+msgstr ""
+
+# mes "The Test of Weaponry has been set as complete. I hope you have finished your initialization.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "The Test of Weaponry has been set as complete. I hope you have finished your initialization."
+msgstr ""
+
+# mes "I will change your quest status to Pre-Transfer, but before that...";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "I will change your quest status to Pre-Transfer, but before that..."
+msgstr ""
+
+# mes "Please select a weapon.";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Please select a weapon."
+msgstr ""
+
+# switch(select("Dagger", "Shuriken")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Dagger"
+msgstr ""
+
+# switch(select("Dagger", "Shuriken")) {
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "Shuriken"
+msgstr ""
+
+# mes "I've set the Pre-Transfer status. Good luck!!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "I've set the Pre-Transfer status. Good luck!!"
+msgstr ""
+
+# mes "The task of initialization is complete. You can confirm this through the [Current Status] option!";
+#: npc/re/jobs/2e/kagerou_oboro.txt
+msgctxt "Guide#ko_helper"
+msgid "The task of initialization is complete. You can confirm this through the [Current Status] option!"
+msgstr ""
+
