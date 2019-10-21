@@ -1,0 +1,433 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2019-10-21 10:58\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/merchants/ammo_boxes_txt.pot\n"
+
+# mes "[Kenny]";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "[Kenny]"
+msgstr ""
+
+# mes "Welcome to my Magazine Shop.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Welcome to my Magazine Shop."
+msgstr ""
+
+# mes "As you may know, large numbers";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "As you may know, large numbers"
+msgstr ""
+
+# mes "of bullets can be carried more";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "of bullets can be carried more"
+msgstr ""
+
+# mes "easily when they're in Magazines. Now, can I interest you in";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "easily when they're in Magazines. Now, can I interest you in"
+msgstr ""
+
+# mes "anything in particular?";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "anything in particular?"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Wind Sphere Pack"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Shadow Sphere Pack"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Poison Sphere Pack"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Water Sphere Pack"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Fire Sphere Pack"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Cartridge"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Blood Cartridge"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Silver Cartridge"
+msgstr ""
+
+# switch(select("Wind Sphere Pack", "Shadow Sphere Pack", "Poison Sphere Pack", "Water Sphere Pack", "Fire Sphere Pack", "Cartridge", "Blood Cartridge", "Silver Cartridge", "Cancel")) {
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Cancel"
+msgstr ""
+
+# mes "Well, if you ever find";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Well, if you ever find"
+msgstr ""
+
+# mes "that you have too many";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "that you have too many"
+msgstr ""
+
+# mes "bullets, come and see me.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "bullets, come and see me."
+msgstr ""
+
+# mes "It's a smart idea to store";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "It's a smart idea to store"
+msgstr ""
+
+# mes "bullets with my Magazines.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "bullets with my Magazines."
+msgstr ""
+
+# mes "Welcome to my shop.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Welcome to my shop."
+msgstr ""
+
+# mes "Here, I provide Magazines";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Here, I provide Magazines"
+msgstr ""
+
+# mes "and Cartridges for Gunslingers.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "and Cartridges for Gunslingers."
+msgstr ""
+
+# mes "Sorry, but it doesn't look like";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Sorry, but it doesn't look like"
+msgstr ""
+
+# mes "my services would be of any";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "my services would be of any"
+msgstr ""
+
+# mes "use to you, adventurer.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "use to you, adventurer."
+msgstr ""
+
+# mes "Eh, but if you happen to";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "Eh, but if you happen to"
+msgstr ""
+
+# mes "know any Gunslingers, send";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "know any Gunslingers, send"
+msgstr ""
+
+# mes "them my way. You can never";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "them my way. You can never"
+msgstr ""
+
+# mes "have too many bullets.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Magazine Dealer Kenny::mdk"
+msgid "have too many bullets."
+msgstr ""
+
+# mes "[Kenny]";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "[Kenny]"
+msgstr ""
+
+# mes "Now, you can trade";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Now, you can trade"
+msgstr ""
+
+# mes "500 "+getitemname(getarg(0))+"s";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "500 "
+msgstr ""
+
+# mes "and 500 zeny for 1 "+getitemname(getarg(1))+", so make sure";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "and 500 zeny for 1 "
+msgstr ""
+
+# mes "you have sufficient bullets";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "you have sufficient bullets"
+msgstr ""
+
+# mes "and zeny for this exchange.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "and zeny for this exchange."
+msgstr ""
+
+# mes "You can exchange 500 "+getitemname(getarg(0))+"s and 500 zeny";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "You can exchange 500 "
+msgstr ""
+
+# mes "with 1 "+getitemname(getarg(1))+".";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "with 1 "
+msgstr ""
+
+# mes "Remember that I can't give";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Remember that I can't give"
+msgstr ""
+
+# mes "you more than 50 Magazines";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "you more than 50 Magazines"
+msgstr ""
+
+# mes "at a time. Now please enter";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "at a time. Now please enter"
+msgstr ""
+
+# mes "the number of Magazines you";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "the number of Magazines you"
+msgstr ""
+
+# mes "want to receive. If you want to cancel, then just enter ''0.''";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "want to receive. If you want to cancel, then just enter ''0.''"
+msgstr ""
+
+# mes "Hey, I can't give you";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Hey, I can't give you"
+msgstr ""
+
+# mes "that many Magazines.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "that many Magazines."
+msgstr ""
+
+# mes "Please try again, and";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Please try again, and"
+msgstr ""
+
+# mes "enter a number no";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "enter a number no"
+msgstr ""
+
+# mes "greater than 50.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "greater than 50."
+msgstr ""
+
+# mes "Hey, you've got a lot";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Hey, you've got a lot"
+msgstr ""
+
+# mes "of junk crammed in your";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "of junk crammed in your"
+msgstr ""
+
+# mes "Inventory. Free up some";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Inventory. Free up some"
+msgstr ""
+
+# mes "space, and then come back";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "space, and then come back"
+msgstr ""
+
+# mes "and trade your bullets for";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "and trade your bullets for"
+msgstr ""
+
+# mes "some Magazines later, okay?";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "some Magazines later, okay?"
+msgstr ""
+
+# mes "Alright, here are";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Alright, here are"
+msgstr ""
+
+# mes "your Magazines. Thanks";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "your Magazines. Thanks"
+msgstr ""
+
+# mes "for visiting my shop, and";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "for visiting my shop, and"
+msgstr ""
+
+# mes "I hope that you use all";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "I hope that you use all"
+msgstr ""
+
+# mes "of your ammo wisely.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "of your ammo wisely."
+msgstr ""
+
+# mes "Sorry, but you don't";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Sorry, but you don't"
+msgstr ""
+
+# mes "have enough zeny for";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "have enough zeny for"
+msgstr ""
+
+# mes "this Magazine exchange.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "this Magazine exchange."
+msgstr ""
+
+# mes "Come back to my shop";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Come back to my shop"
+msgstr ""
+
+# mes "after you've saved up";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "after you've saved up"
+msgstr ""
+
+# mes "some more money.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "some more money."
+msgstr ""
+
+# mes "have enough bullets for";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "have enough bullets for"
+msgstr ""
+
+# mes "Maybe you should double";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "Maybe you should double"
+msgstr ""
+
+# mes "check your Inventory, and";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "check your Inventory, and"
+msgstr ""
+
+# mes "then come back to me later.";
+#: npc/merchants/ammo_boxes.txt
+msgctxt "Func_Casing"
+msgid "then come back to me later."
+msgstr ""
+
