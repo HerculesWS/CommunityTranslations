@@ -1,0 +1,416 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:52+0200\n"
+"PO-Revision-Date: 2019-10-21 10:38\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/merchants/quivers_txt.pot\n"
+
+# mes "[Inventor Jaax]";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "[Inventor Jaax]"
+msgstr ""
+
+# mes "Hey, you're carrying";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Hey, you're carrying"
+msgstr ""
+
+# mes "way too much stuff. Why don't you stash it away in Kafra Storage? We can talk after you do that, right?";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "way too much stuff. Why don't you stash it away in Kafra Storage? We can talk after you do that, right?"
+msgstr ""
+
+# mes "My name is Jaax.";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "My name is Jaax."
+msgstr ""
+
+# mes "Without ego, I can";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Without ego, I can"
+msgstr ""
+
+# mes "say that I am perhaps the";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "say that I am perhaps the"
+msgstr ""
+
+# mes "^663300greatest inventor of our time^000000.";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "^663300greatest inventor of our time^000000."
+msgstr ""
+
+# mes "This time, I've";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "This time, I've"
+msgstr ""
+
+# mes "created something";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "created something"
+msgstr ""
+
+# mes "truly extraordinary. I call them... ^663300Magic Quivers^000000 !! This will be remembered in history as an";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "truly extraordinary. I call them... ^663300Magic Quivers^000000 !! This will be remembered in history as an"
+msgstr ""
+
+# mes "arrow revolution!";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "arrow revolution!"
+msgstr ""
+
+# mes "I've studied magic and quivers for years, working night and day until I finally figured how to condense arrows with magic! With magic quivers, you'll be carrying more arrows, but with less weight!";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "I've studied magic and quivers for years, working night and day until I finally figured how to condense arrows with magic! With magic quivers, you'll be carrying more arrows, but with less weight!"
+msgstr ""
+
+# mes "Would you like to try using one of my arrow quivers? I have no doubt that someone like you can appreciate my genius!";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Would you like to try using one of my arrow quivers? I have no doubt that someone like you can appreciate my genius!"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Iron Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Steel Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Oridecon Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Fire Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Silver Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Wind Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Stone Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Crystal Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Shadow Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Immaterial Arrow Quiver"
+msgstr ""
+
+# switch(select("Quiver", "Iron Arrow Quiver", "Steel Arrow Quiver", "Oridecon Arrow Quiver", "Fire Arrow Quiver", "Silver Arrow Quiver", "Wind Arrow Quiver", "Stone Arrow Quiver", "Crystal Arrow Quiver", "Shadow Arrow Quiver", "Immaterial Arrow Quiver", "Rusty Arrow Quiver")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Rusty Arrow Quiver"
+msgstr ""
+
+# mes "Excellent!";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Excellent!"
+msgstr ""
+
+# mes "Are you carrying any Arrows with you? I'll provide you with a quiver that can carry "+getarg(1)+" of your "+getitemname(getarg(0))+"s for only ^FF3131"+getarg(2)+" Zeny^000000.";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Are you carrying any Arrows with you? I'll provide you with a quiver that can carry "
+msgstr ""
+
+# switch(select("Store as many Arrows in quivers as possible", "Purchase 1 quiver", "Cancel")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Store as many Arrows in quivers as possible"
+msgstr ""
+
+# switch(select("Store as many Arrows in quivers as possible", "Purchase 1 quiver", "Cancel")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Purchase 1 quiver"
+msgstr ""
+
+# switch(select("Store as many Arrows in quivers as possible", "Purchase 1 quiver", "Cancel")) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Cancel"
+msgstr ""
+
+# mes "Number of";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Number of"
+msgstr ""
+
+# mes "Arrows: ^3131FF"+.@arrows+" ^000000";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Arrows: ^3131FF"
+msgstr ""
+
+# mes "Arrows: ^3131FF"+.@arrows+" ^000000";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid " ^000000"
+msgstr ""
+
+# mes "Maximum Number";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Maximum Number"
+msgstr ""
+
+# mes "of Purchasable";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "of Purchasable"
+msgstr ""
+
+# mes "Quivers: ^3131FF"+.@quiver+" ^000000";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Quivers: ^3131FF"
+msgstr ""
+
+# mes "Zeny required: ^3131FF"+.@arrow_zeny01+" Zeny^000000";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Zeny required: ^3131FF"
+msgstr ""
+
+# mes "Zeny required: ^3131FF"+.@arrow_zeny01+" Zeny^000000";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid " Zeny^000000"
+msgstr ""
+
+# mes "Would you like to";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Would you like to"
+msgstr ""
+
+# mes "buy as many Quivers";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "buy as many Quivers"
+msgstr ""
+
+# mes "as you can for the Arrows";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "as you can for the Arrows"
+msgstr ""
+
+# mes "you are currently carrying?";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "you are currently carrying?"
+msgstr ""
+
+# if (select("Yes", "Cancel") == 1) {
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Yes"
+msgstr ""
+
+# mes "There you go!";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "There you go!"
+msgstr ""
+
+# mes "Just remember, ^FF0000you won't be able to use the Quiver when your carried weight is 90% of your maximum weight limit^000000.";
+#: npc/merchants/quivers.txt
+#, no-c-format
+msgctxt "Inventor Jaax"
+msgid "Just remember, ^FF0000you won't be able to use the Quiver when your carried weight is 90% of your maximum weight limit^000000."
+msgstr ""
+
+# mes "So...";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "So..."
+msgstr ""
+
+# mes "Just keep track";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Just keep track"
+msgstr ""
+
+# mes "of how much you're";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "of how much you're"
+msgstr ""
+
+# mes "carrying from time";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "carrying from time"
+msgstr ""
+
+# mes "to time and you should";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "to time and you should"
+msgstr ""
+
+# mes "be alright.";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "be alright."
+msgstr ""
+
+# mes "I'm sorry, but you don't have enough Zeny. I can't just give these away after working years";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "I'm sorry, but you don't have enough Zeny. I can't just give these away after working years"
+msgstr ""
+
+# mes "to develop this revolutionary technology!";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "to develop this revolutionary technology!"
+msgstr ""
+
+# mes "You changed your mind?";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "You changed your mind?"
+msgstr ""
+
+# mes "When the glory of owning";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "When the glory of owning"
+msgstr ""
+
+# mes "a quiver is so close?";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "a quiver is so close?"
+msgstr ""
+
+# mes "You don't even";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "You don't even"
+msgstr ""
+
+# mes "have "+getarg(2)+" Zeny?";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "have "
+msgstr ""
+
+# mes "I'm so sorry. I had no";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "I'm so sorry. I had no"
+msgstr ""
+
+# mes "idea that you were so...";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "idea that you were so..."
+msgstr ""
+
+# mes "^333333Destitute^000000.";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "^333333Destitute^000000."
+msgstr ""
+
+# mes "What...?";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "What...?"
+msgstr ""
+
+# mes "Do you not see that this invention can forever change the way Arrows are carried?! The future is now!";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "Do you not see that this invention can forever change the way Arrows are carried?! The future is now!"
+msgstr ""
+
+# mes "You can carry a maximum of "+getarg(1)+" Arrows within this quiver. It was made using my secret method,";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "You can carry a maximum of "
+msgstr ""
+
+# mes "so the total weight of the Arrows and Quiver is less than carrying the Arrows alone.";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "so the total weight of the Arrows and Quiver is less than carrying the Arrows alone."
+msgstr ""
+
+# mes "It's a miracle of science! One that you can experience for yourself if you bring me at least "+getarg(1)+" Arrows and "+getarg(2)+" Zeny for each Quiver.";
+#: npc/merchants/quivers.txt
+msgctxt "Inventor Jaax"
+msgid "It's a miracle of science! One that you can experience for yourself if you bring me at least "
+msgstr ""
+
