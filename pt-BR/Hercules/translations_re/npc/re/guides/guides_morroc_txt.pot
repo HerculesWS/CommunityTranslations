@@ -1,0 +1,685 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:01\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/guides/guides_morroc_txt.pot\n"
+
+# mes "[Morroc Guide]";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[Morroc Guide]"
+msgstr ""
+
+# mes "Welcome to ^8B4513Morroc^000000,";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Welcome to ^8B4513Morroc^000000,"
+msgstr ""
+
+# mes "the Desert Town.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "the Desert Town."
+msgstr ""
+
+# mes "Do you need help navigating the town?";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Do you need help navigating the town?"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Cancel"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Thief Guild ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Sphinx Dungeon ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Oasis Entrance ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Forge ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Weapon & Armor Shop ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Inn ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Tavern ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Oasis Entrance ]", "[ Forge ]", "[ Weapon & Armor Shop ]", "[ Inn ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Previous Menu"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","morocc,26,294","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "The "
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","morocc,26,294","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Thief Guild"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","morocc,26,294","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "morocc,26,294"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","morocc,26,294","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "^B9062F"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","morocc,26,294","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid " is located"
+msgstr ""
+
+# mes "inside the ^B9062FPyramids^000000";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "inside the ^B9062FPyramids^000000"
+msgstr ""
+
+# mes "that is near the ^B9062FOasis^000000.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "that is near the ^B9062FOasis^000000."
+msgstr ""
+
+# mes "Would you like to check any other locations?";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+# mes "The "+F_Navi("Sphinx Dungeon","morocc,26,164","^0000FF")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Sphinx Dungeon"
+msgstr ""
+
+# mes "The "+F_Navi("Sphinx Dungeon","morocc,26,164","^0000FF")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "morocc,26,164"
+msgstr ""
+
+# mes "The "+F_Navi("Sphinx Dungeon","morocc,26,164","^0000FF")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "^0000FF"
+msgstr ""
+
+# mes "The "+F_Navi("Sphinx Dungeon","morocc,26,164","^0000FF")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid " is"
+msgstr ""
+
+# mes "right outside the western gate.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "right outside the western gate."
+msgstr ""
+
+# mes "Let me mark the entrance to the "+F_Navi("Oasis","morocc,26,294","^FF5400");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Let me mark the entrance to the "
+msgstr ""
+
+# mes "Let me mark the entrance to the "+F_Navi("Oasis","morocc,26,294","^FF5400");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Oasis"
+msgstr ""
+
+# mes "Let me mark the entrance to the "+F_Navi("Oasis","morocc,26,294","^FF5400");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "^FF5400"
+msgstr ""
+
+# mes "on your mini-map.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "on your mini-map."
+msgstr ""
+
+# mes "Currently the "+F_Navi("Inn","morocc,273,269","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Currently the "
+msgstr ""
+
+# mes "Currently the "+F_Navi("Inn","morocc,273,269","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Inn"
+msgstr ""
+
+# mes "Currently the "+F_Navi("Inn","morocc,273,269","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "morocc,273,269"
+msgstr ""
+
+# mes "Currently the "+F_Navi("Inn","morocc,273,269","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "^800080"
+msgstr ""
+
+# mes "has been shut down until further notice,";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "has been shut down until further notice,"
+msgstr ""
+
+# mes "but I'll mark its location";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "but I'll mark its location"
+msgstr ""
+
+# switch(select("[ Kafra Employee ]", "[ Poison Herb Salesman ]", "[ Dye Maker ]", "[ Seiyablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+# switch(select("[ Kafra Employee ]", "[ Poison Herb Salesman ]", "[ Dye Maker ]", "[ Seiyablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Poison Herb Salesman ]"
+msgstr ""
+
+# switch(select("[ Kafra Employee ]", "[ Poison Herb Salesman ]", "[ Dye Maker ]", "[ Seiyablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Dye Maker ]"
+msgstr ""
+
+# switch(select("[ Kafra Employee ]", "[ Poison Herb Salesman ]", "[ Dye Maker ]", "[ Seiyablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "[ Seiyablem ]"
+msgstr ""
+
+# mes "The "+F_Navi("Dye Maker","morocc,273,269","^7F3300")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Dye Maker"
+msgstr ""
+
+# mes "currently staying";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "currently staying"
+msgstr ""
+
+# mes "on the 1st floor of the Inn.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "on the 1st floor of the Inn."
+msgstr ""
+
+# mes "Let me mark his location";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Let me mark his location"
+msgstr ""
+
+# mes F_Navi("Seiyablem","morocc,51,41","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Seiyablem"
+msgstr ""
+
+# mes F_Navi("Seiyablem","morocc,51,41","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "morocc,51,41"
+msgstr ""
+
+# mes "is a technician";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "is a technician"
+msgstr ""
+
+# mes "who can create ^0000FFslots^000000 on weapons and armors,";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "who can create ^0000FFslots^000000 on weapons and armors,"
+msgstr ""
+
+# mes "but not all equipment";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "but not all equipment"
+msgstr ""
+
+# mes "can be slotted. Well, that's what he says.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "can be slotted. Well, that's what he says."
+msgstr ""
+
+# mes "Sure, I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Be safe on your travels.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Be safe on your travels."
+msgstr ""
+
+# mes "Let me mark the location of the";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01morocc::GuideMorroc"
+msgid "Let me mark the location of the"
+msgstr ""
+
+# mes "[Morroc Guide]";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[Morroc Guide]"
+msgstr ""
+
+# mes "Welcome to ^8B4513Morroc^000000,";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Welcome to ^8B4513Morroc^000000,"
+msgstr ""
+
+# mes "the Desert Town.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "the Desert Town."
+msgstr ""
+
+# mes "Do you need help navigating the town?";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Do you need help navigating the town?"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Cancel"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Morroc Entrance ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Thief Guild ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Morroc Entrance ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Sphinx Dungeon ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Morroc Entrance ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Morroc Entrance ]"
+msgstr ""
+
+# switch(select("[ Thief Guild ]", "[ Sphinx Dungeon ]", "[ Morroc Entrance ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Previous Menu"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","moc_ruins,56,161","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "The "
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","moc_ruins,56,161","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Thief Guild"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","moc_ruins,56,161","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "moc_ruins,56,161"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","moc_ruins,56,161","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "^B9062F"
+msgstr ""
+
+# mes "The "+F_Navi("Thief Guild","moc_ruins,56,161","^B9062F")+" is located";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid " is located"
+msgstr ""
+
+# mes "inside the ^B9062FPyramids^000000.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "inside the ^B9062FPyramids^000000."
+msgstr ""
+
+# mes "Let me mark its location";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Let me mark its location"
+msgstr ""
+
+# mes "on your mini-map.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "on your mini-map."
+msgstr ""
+
+# mes "Would you like to check any other locations?";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+# mes "The "+F_Navi("Sphinx Dungeon","moc_ruins,71,19","^0000FF");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Sphinx Dungeon"
+msgstr ""
+
+# mes "The "+F_Navi("Sphinx Dungeon","moc_ruins,71,19","^0000FF");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "moc_ruins,71,19"
+msgstr ""
+
+# mes "The "+F_Navi("Sphinx Dungeon","moc_ruins,71,19","^0000FF");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "^0000FF"
+msgstr ""
+
+# mes "is outside the south entrance of this Oasis.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "is outside the south entrance of this Oasis."
+msgstr ""
+
+# mes F_Navi("Morroc","moc_ruins,158,40","^FF5400")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Morroc"
+msgstr ""
+
+# mes F_Navi("Morroc","moc_ruins,158,40","^FF5400")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "moc_ruins,158,40"
+msgstr ""
+
+# mes F_Navi("Morroc","moc_ruins,158,40","^FF5400")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "^FF5400"
+msgstr ""
+
+# mes F_Navi("Morroc","moc_ruins,158,40","^FF5400")+" is";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid " is"
+msgstr ""
+
+# mes "right outside the southeast entrance of this Oasis.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "right outside the southeast entrance of this Oasis."
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Tool Dealer ]", "[ Kafra Employee ]", "[ Repairman ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Leablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Tool Dealer ]", "[ Kafra Employee ]", "[ Repairman ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Leablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Tool Dealer ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Tool Dealer ]", "[ Kafra Employee ]", "[ Repairman ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Leablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Tool Dealer ]", "[ Kafra Employee ]", "[ Repairman ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Leablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Repairman ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Tool Dealer ]", "[ Kafra Employee ]", "[ Repairman ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Leablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Pet Groomer ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Tool Dealer ]", "[ Kafra Employee ]", "[ Repairman ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Leablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Chef Assistant ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Tool Dealer ]", "[ Kafra Employee ]", "[ Repairman ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Leablem ]", "Previous Menu")) {
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "[ Leablem ]"
+msgstr ""
+
+# mes "Let me mark the location of the";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Let me mark the location of the"
+msgstr ""
+
+# mes F_Navi("Northern Tool Dealer","moc_ruins,92,128","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Northern Tool Dealer"
+msgstr ""
+
+# mes F_Navi("Northern Tool Dealer","moc_ruins,92,128","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "moc_ruins,92,128"
+msgstr ""
+
+# mes F_Navi("Northern Tool Dealer","moc_ruins,92,128","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "^800080"
+msgstr ""
+
+# mes "and "+F_Navi("Southern Tool Dealer","moc_ruins,114,63","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "and "
+msgstr ""
+
+# mes "and "+F_Navi("Southern Tool Dealer","moc_ruins,114,63","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Southern Tool Dealer"
+msgstr ""
+
+# mes "and "+F_Navi("Southern Tool Dealer","moc_ruins,114,63","^800080");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "moc_ruins,114,63"
+msgstr ""
+
+# mes F_Navi("Leablem","moc_ruins,154,86","^7F3300");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Leablem"
+msgstr ""
+
+# mes F_Navi("Leablem","moc_ruins,154,86","^7F3300");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "moc_ruins,154,86"
+msgstr ""
+
+# mes F_Navi("Leablem","moc_ruins,154,86","^7F3300");
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "^7F3300"
+msgstr ""
+
+# mes "is a technician";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "is a technician"
+msgstr ""
+
+# mes "who can create ^0000FFslots^000000 on weapons and armors,";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "who can create ^0000FFslots^000000 on weapons and armors,"
+msgstr ""
+
+# mes "but not all equipment";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "but not all equipment"
+msgstr ""
+
+# mes "can be slotted. Well, that's what he says.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "can be slotted. Well, that's what he says."
+msgstr ""
+
+# mes "Sure, I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Be safe on your travels.";
+#: npc/re/guides/guides_morroc.txt
+msgctxt "Guide#01ruins::GuideMocRuins"
+msgid "Be safe on your travels."
+msgstr ""
+
