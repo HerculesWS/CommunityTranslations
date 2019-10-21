@@ -1,0 +1,297 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:22+0200\n"
+"PO-Revision-Date: 2019-10-21 10:55\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/battleground/kvm/kvm01_txt.pot\n"
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM01_BG::OnGuillaumeJoin", 1);
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Waiting Room#a::KvM01R_Guillaume"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# waitingroom(_("Battle Station 5 Players"), 6, "KvM01_BG::OnCroixJoin", 1);
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Waiting Room#b::KvM01R_Croix"
+msgid "Battle Station 5 Players"
+msgstr ""
+
+# mapannounce("bat_c01", sprintf(_$("The number of Guillaumes is %d."), .Guillaume_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+#, c-format
+msgctxt "KvM01_BG"
+msgid "The number of Guillaumes is %d."
+msgstr ""
+
+# mapannounce("bat_c01", sprintf(_$("The number of Croixes is %d."), .Croix_Count), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+#, c-format
+msgctxt "KvM01_BG"
+msgid "The number of Croixes is %d."
+msgstr ""
+
+# mapannounce("bat_c01", _("In 1 minute, KVM will start."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "In 1 minute, KVM will start."
+msgstr ""
+
+# mapannounce("bat_c01", _("The maximum time for a KVM battle is 5 minutes."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "The maximum time for a KVM battle is 5 minutes."
+msgstr ""
+
+# mapannounce("bat_c01", _("Please prepare for the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Please prepare for the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("You can buff your people."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "You can buff your people."
+msgstr ""
+
+# mapannounce("bat_c01", _("30 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "30 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("15 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "15 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("10 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "10 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("5 seconds remaining to start KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "5 seconds remaining to start KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("KVM is now commencing."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "KVM is now commencing."
+msgstr ""
+
+# mapannounce("bat_c01", _("There are not enough players to start the battle"), bc_map, "0x696969");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "There are not enough players to start the battle"
+msgstr ""
+
+# mapannounce("bat_c01", _("1 minute remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "1 minute remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("30 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "30 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("15 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "15 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("10 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "10 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("5 seconds remaining to finish the KVM battle."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "5 seconds remaining to finish the KVM battle."
+msgstr ""
+
+# mapannounce("bat_c01", _("The KVM battle is over."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "The KVM battle is over."
+msgstr ""
+
+# mapannounce("bat_c01", _("This battle has ended in a draw."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "This battle has ended in a draw."
+msgstr ""
+
+# mapannounce("bat_c01", _("Guillaume wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Guillaume wins!"
+msgstr ""
+
+# mapannounce("bat_c01", _("Congratulations to Guillaume members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Congratulations to Guillaume members."
+msgstr ""
+
+# mapannounce("bat_c01", _("Everyone will be moved to the start point."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Everyone will be moved to the start point."
+msgstr ""
+
+# mapannounce("bat_c01", _("Croix wins!"), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Croix wins!"
+msgstr ""
+
+# mapannounce("bat_c01", _("Congratulations to Croix members."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG"
+msgid "Congratulations to Croix members."
+msgstr ""
+
+# mapannounce("bat_c01", _("Please apply with the Officer to acquire KVM points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "Please apply with the Officer to acquire KVM points."
+msgstr ""
+
+# mapannounce("bat_c01", _("The Officer will grant you the points for 30 seconds."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "The Officer will grant you the points for 30 seconds."
+msgstr ""
+
+# mapannounce("bat_c01", _("In 30 seconds, the Officer will be sent away."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "In 30 seconds, the Officer will be sent away."
+msgstr ""
+
+# mapannounce("bat_c01", _("Unless you talk to the Officer, you cannot gain the points."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "Unless you talk to the Officer, you cannot gain the points."
+msgstr ""
+
+# mapannounce("bat_c01", _("Please be careful."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "Please be careful."
+msgstr ""
+
+# mapannounce("bat_c01", _("You will be sent back."), bc_map, "0x00ff00");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KvM01_BG_Out"
+msgid "You will be sent back."
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 5");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "You aquire the winning points: 5"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 1");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01A"
+msgid "You aquire the losing points: 1"
+msgstr ""
+
+# mes("[KVM Officer]");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "[KVM Officer]"
+msgstr ""
+
+# mes("Good Game.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "Good Game."
+msgstr ""
+
+# mes("May the glory of KVM be with you.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "May the glory of KVM be with you."
+msgstr ""
+
+# mes("You aquire the winning points: 5");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "You aquire the winning points: 5"
+msgstr ""
+
+# mes("I am so sorry.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "I am so sorry."
+msgstr ""
+
+# mes("I wish you better luck next time.");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "I wish you better luck next time."
+msgstr ""
+
+# mes("You aquire the losing points: 1");
+#: npc/battleground/kvm/kvm01.txt
+msgctxt "KVM Officer#KVM01B"
+msgid "You aquire the losing points: 1"
+msgstr ""
+
