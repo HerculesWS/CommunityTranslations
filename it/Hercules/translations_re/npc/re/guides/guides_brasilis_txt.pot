@@ -1,0 +1,229 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:20\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/guides/guides_brasilis_txt.pot\n"
+
+# mes "[Brasilis Guide]";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "[Brasilis Guide]"
+msgstr ""
+
+# mes "Welcome to ^8B4513Brasilis^000000, a country as passionate as the sun.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Welcome to ^8B4513Brasilis^000000, a country as passionate as the sun."
+msgstr ""
+
+# mes "If you have any questions, please ask me.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "If you have any questions, please ask me."
+msgstr ""
+
+# switch(select("Ask about locations", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Ask about locations"
+msgstr ""
+
+# switch(select("Ask about locations", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("Ask about locations", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Cancel"
+msgstr ""
+
+# mes "Where can I guide you?";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Where can I guide you?"
+msgstr ""
+
+# switch(select("[ Hotel ]", "[ Jungle Cable ]", "[ Art Museum ]", "[ Market ]", "[ Verass Monument ]")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "[ Hotel ]"
+msgstr ""
+
+# switch(select("[ Hotel ]", "[ Jungle Cable ]", "[ Art Museum ]", "[ Market ]", "[ Verass Monument ]")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "[ Jungle Cable ]"
+msgstr ""
+
+# switch(select("[ Hotel ]", "[ Jungle Cable ]", "[ Art Museum ]", "[ Market ]", "[ Verass Monument ]")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "[ Art Museum ]"
+msgstr ""
+
+# switch(select("[ Hotel ]", "[ Jungle Cable ]", "[ Art Museum ]", "[ Market ]", "[ Verass Monument ]")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "[ Market ]"
+msgstr ""
+
+# switch(select("[ Hotel ]", "[ Jungle Cable ]", "[ Art Museum ]", "[ Market ]", "[ Verass Monument ]")) {
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "[ Verass Monument ]"
+msgstr ""
+
+# mes "The "+F_Navi("Brasilis Hotel","brasilis,274,151")+" is located just above, ^FF3355+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "The "
+msgstr ""
+
+# mes "The "+F_Navi("Brasilis Hotel","brasilis,274,151")+" is located just above, ^FF3355+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Brasilis Hotel"
+msgstr ""
+
+# mes "The "+F_Navi("Brasilis Hotel","brasilis,274,151")+" is located just above, ^FF3355+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "brasilis,274,151"
+msgstr ""
+
+# mes "The "+F_Navi("Brasilis Hotel","brasilis,274,151")+" is located just above, ^FF3355+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid " is located just above, ^FF3355+^000000."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Do you want to go through the rough jungle? You can take a ";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Do you want to go through the rough jungle? You can take a "
+msgstr ""
+
+# mes F_Navi("Jungle Cable","brasilis,308,335")+" here ^CE6300+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Jungle Cable"
+msgstr ""
+
+# mes F_Navi("Jungle Cable","brasilis,308,335")+" here ^CE6300+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "brasilis,308,335"
+msgstr ""
+
+# mes F_Navi("Jungle Cable","brasilis,308,335")+" here ^CE6300+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid " here ^CE6300+^000000."
+msgstr ""
+
+# mes "The pride of Brasilis, the world scale "+F_Navi("Art Museum","brasilis,137,167")+" is at ^A5BAAD+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "The pride of Brasilis, the world scale "
+msgstr ""
+
+# mes "The pride of Brasilis, the world scale "+F_Navi("Art Museum","brasilis,137,167")+" is at ^A5BAAD+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Art Museum"
+msgstr ""
+
+# mes "The pride of Brasilis, the world scale "+F_Navi("Art Museum","brasilis,137,167")+" is at ^A5BAAD+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "brasilis,137,167"
+msgstr ""
+
+# mes "The pride of Brasilis, the world scale "+F_Navi("Art Museum","brasilis,137,167")+" is at ^A5BAAD+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid " is at ^A5BAAD+^000000."
+msgstr ""
+
+# mes "You can buy items for hunting at the "+F_Navi("Market","brasilis,254,248")+" here ^55FF33+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "You can buy items for hunting at the "
+msgstr ""
+
+# mes "You can buy items for hunting at the "+F_Navi("Market","brasilis,254,248")+" here ^55FF33+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Market"
+msgstr ""
+
+# mes "You can buy items for hunting at the "+F_Navi("Market","brasilis,254,248")+" here ^55FF33+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "brasilis,254,248"
+msgstr ""
+
+# mes "You can buy items for hunting at the "+F_Navi("Market","brasilis,254,248")+" here ^55FF33+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid " here ^55FF33+^000000."
+msgstr ""
+
+# mes "The iconic monument of Brasilis, the "+F_Navi("Verass Monument","brasilis,195,222")+" stands at ^3355FF+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "The iconic monument of Brasilis, the "
+msgstr ""
+
+# mes "The iconic monument of Brasilis, the "+F_Navi("Verass Monument","brasilis,195,222")+" stands at ^3355FF+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Verass Monument"
+msgstr ""
+
+# mes "The iconic monument of Brasilis, the "+F_Navi("Verass Monument","brasilis,195,222")+" stands at ^3355FF+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "brasilis,195,222"
+msgstr ""
+
+# mes "The iconic monument of Brasilis, the "+F_Navi("Verass Monument","brasilis,195,222")+" stands at ^3355FF+^000000.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid " stands at ^3355FF+^000000."
+msgstr ""
+
+# mes "I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "I'll remove all marks from your mini-map."
+msgstr ""
+
+# mes "Wandering on your own is always the best way to explore. Anyway, take care.";
+#: npc/re/guides/guides_brasilis.txt
+msgctxt "Brasilis Guide"
+msgid "Wandering on your own is always the best way to explore. Anyway, take care."
+msgstr ""
+
