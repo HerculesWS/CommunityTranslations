@@ -1,0 +1,184 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:04\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/shadow_refiner_txt.pot\n"
+
+# mesf("%s", .@npc_name$);
+#: npc/re/merchants/shadow_refiner.txt
+#, c-format
+msgctxt "Shadow Blacksmith#nomal"
+msgid "%s"
+msgstr ""
+
+# mes("Do you want to refine a Shadow item?");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Do you want to refine a Shadow item?"
+msgstr ""
+
+# mes("Please choose the part you want to refine.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Please choose the part you want to refine."
+msgstr ""
+
+# mes("Shadow items gain extra bonus effects depending on their refine level, similar to normal weapon and armor items.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Shadow items gain extra bonus effects depending on their refine level, similar to normal weapon and armor items."
+msgstr ""
+
+# mes("Refining effects for each Shadow item parts are -");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Refining effects for each Shadow item parts are -"
+msgstr ""
+
+# mes("Weapon: ATK, MATK + 1 increase for each +1 refine success.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Weapon: ATK, MATK + 1 increase for each +1 refine success."
+msgstr ""
+
+# mes("Etc: HP + 10 increase for each +1 refine success.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Etc: HP + 10 increase for each +1 refine success."
+msgstr ""
+
+# mesf("You need %s and %s as the ingredient, along with a refine fee %d Zeny.", getitemname(Oridecon), getitemname(Elunium), .@zeny_cost);
+#: npc/re/merchants/shadow_refiner.txt
+#, c-format
+msgctxt "Shadow Blacksmith#nomal"
+msgid "You need %s and %s as the ingredient, along with a refine fee %d Zeny."
+msgstr ""
+
+# mes("When refining to +5 or higher, you risk breaking your Shadow item.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "When refining to +5 or higher, you risk breaking your Shadow item."
+msgstr ""
+
+# mes("You may also use Enriched or HD ingredients for the refinement.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "You may also use Enriched or HD ingredients for the refinement."
+msgstr ""
+
+# mesf("%d Zeny will be spent as a refine fee.", .@zeny_cost);
+#: npc/re/merchants/shadow_refiner.txt
+#, c-format
+msgctxt "Shadow Blacksmith#nomal"
+msgid "%d Zeny will be spent as a refine fee."
+msgstr ""
+
+# mes("Choose the ingredient and start refining.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Choose the ingredient and start refining."
+msgstr ""
+
+# .@option = select("Cancel", .@mate$[0], .@mate$[1], .@mate$[2]);
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Cancel"
+msgstr ""
+
+# mes("You've cancelled refining.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "You've cancelled refining."
+msgstr ""
+
+# mes("HD ingredients are only possible to be used when refining an item of quality +7 or higher.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "HD ingredients are only possible to be used when refining an item of quality +7 or higher."
+msgstr ""
+
+# mes("You do not have the proper ingredient to proceed with refining.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "You do not have the proper ingredient to proceed with refining."
+msgstr ""
+
+# mes("You do not have enough Zeny to pay the refine fee.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "You do not have enough Zeny to pay the refine fee."
+msgstr ""
+
+# mes("Shadow item refining is only possible up to +10 level.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Shadow item refining is only possible up to +10 level."
+msgstr ""
+
+# mes("This item cannot be refined.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "This item cannot be refined."
+msgstr ""
+
+# mes("Safety guaranteed refine limit for shadow item is until +4.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Safety guaranteed refine limit for shadow item is until +4."
+msgstr ""
+
+# mes("If you try more refining, the item might break upon failing. Do you still want to refine?");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "If you try more refining, the item might break upon failing. Do you still want to refine?"
+msgstr ""
+
+# mes("If you try more refining, the item refine level might go down when failed. Do you still want to refine?");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "If you try more refining, the item refine level might go down when failed. Do you still want to refine?"
+msgstr ""
+
+# if (select("Proceed","Cancel") == 2) {
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Proceed"
+msgstr ""
+
+# mes("Here we go--!!!");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Here we go--!!!"
+msgstr ""
+
+# mes("You do not have enough "+ getitemname(.@choose) +".");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "You do not have enough "
+msgstr ""
+
+# mes("Refine was successful.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Refine was successful."
+msgstr ""
+
+# mes("Oh no.. Refine has failed.");
+#: npc/re/merchants/shadow_refiner.txt
+msgctxt "Shadow Blacksmith#nomal"
+msgid "Oh no.. Refine has failed."
+msgstr ""
+
