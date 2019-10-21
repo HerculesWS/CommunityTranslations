@@ -1,0 +1,665 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:04\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/ninja_craftsman_txt.pot\n"
+
+# mes "[Gyo]";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "[Gyo]"
+msgstr ""
+
+# mes "How would you define victory?";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "How would you define victory?"
+msgstr ""
+
+# mes "To fell the enemy...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "To fell the enemy..."
+msgstr ""
+
+# mes "However, the most important thing is...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "However, the most important thing is..."
+msgstr ""
+
+# mes "Never to fall yourself!";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Never to fall yourself!"
+msgstr ""
+
+# mes "For that, you must better protect yourself.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "For that, you must better protect yourself."
+msgstr ""
+
+# mes "You cannot protect 'others' while you hinder your 'own' protection.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "You cannot protect 'others' while you hinder your 'own' protection."
+msgstr ""
+
+# if (select("Combine armor.", "End conversation.") == 2) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Combine armor."
+msgstr ""
+
+# if (select("Combine armor.", "End conversation.") == 2) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "End conversation."
+msgstr ""
+
+# mes "Prudence is also an important virtue in battle.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Prudence is also an important virtue in battle."
+msgstr ""
+
+# switch (select("Wolf Armguard", "Crescent Armguard", "Ninja Scale Armor", "Shadow King's Armor", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Wolf Armguard"
+msgstr ""
+
+# switch (select("Wolf Armguard", "Crescent Armguard", "Ninja Scale Armor", "Shadow King's Armor", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Crescent Armguard"
+msgstr ""
+
+# switch (select("Wolf Armguard", "Crescent Armguard", "Ninja Scale Armor", "Shadow King's Armor", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Ninja Scale Armor"
+msgstr ""
+
+# switch (select("Wolf Armguard", "Crescent Armguard", "Ninja Scale Armor", "Shadow King's Armor", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Shadow King's Armor"
+msgstr ""
+
+# switch (select("Wolf Armguard", "Crescent Armguard", "Ninja Scale Armor", "Shadow King's Armor", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Quit."
+msgstr ""
+
+# mes "Wolf Armguard... One beastly piece of armor.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Wolf Armguard... One beastly piece of armor."
+msgstr ""
+
+# mes "Crescent Armguard... A thing of beauty and strength... With none the lesser.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Crescent Armguard... A thing of beauty and strength... With none the lesser."
+msgstr ""
+
+# mes "Ninja Scale Armor... It's said that a legendary Ninja once wore it.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Ninja Scale Armor... It's said that a legendary Ninja once wore it."
+msgstr ""
+
+# mes "Shadow King's Armor... It was made to protect others.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Shadow King's Armor... It was made to protect others."
+msgstr ""
+
+# mes "Looks like you need more time to decide.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Looks like you need more time to decide."
+msgstr ""
+
+# switch(select("Check Ingredients.", "Check Stats.", "Combine.", "Quit.")){
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Check Ingredients."
+msgstr ""
+
+# switch(select("Check Ingredients.", "Check Stats.", "Combine.", "Quit.")){
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Check Stats."
+msgstr ""
+
+# switch(select("Check Ingredients.", "Check Stats.", "Combine.", "Quit.")){
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Combine."
+msgstr ""
+
+# mes "To make a ^ff0000"+getitemname(.@item_make)+", "+callsub(L_Ingredients,.@item_make)+".^000000";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "To make a ^ff0000"
+msgstr ""
+
+# mes "Can you feel it? The throbbing of the wolf blood...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Can you feel it? The throbbing of the wolf blood..."
+msgstr ""
+
+# mes "A crescent as beautiful and clear as a crystal will be engraved on it.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "A crescent as beautiful and clear as a crystal will be engraved on it."
+msgstr ""
+
+# mes "You can feel its legendary powers.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "You can feel its legendary powers."
+msgstr ""
+
+# mes "With the darkness it erases existence itself...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "With the darkness it erases existence itself..."
+msgstr ""
+
+# mes "["+ getitemname(getarg(0)) +"]";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "["
+msgstr ""
+
+# mes "Chance to have 5 sec. of ATK +100, FLEE -50 upon melee attack.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Chance to have 5 sec. of ATK +100, FLEE -50 upon melee attack."
+msgstr ""
+
+# mes "Shield Type, Defense 45, Slot 1";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Shield Type, Defense 45, Slot 1"
+msgstr ""
+
+# mes "Required Level 100, Ninja Type Only";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Required Level 100, Ninja Type Only"
+msgstr ""
+
+# mes "Decreases post skill delay for 2% for every enhancement.";
+#: npc/re/merchants/ninja_craftsman.txt
+#, no-c-format
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Decreases post skill delay for 2% for every enhancement."
+msgstr ""
+
+# mes "Shield Type, Defense 70, Slot 1";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Shield Type, Defense 70, Slot 1"
+msgstr ""
+
+# mes "MHP+15%, MSP-30%.";
+#: npc/re/merchants/ninja_craftsman.txt
+#, no-c-format
+msgctxt "Master Craftsman Gyo#arm"
+msgid "MHP+15%, MSP-30%."
+msgstr ""
+
+# mes "Armor Type, Defense 90, Slot 1";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Armor Type, Defense 90, Slot 1"
+msgstr ""
+
+# mes "Chance to activate Lvl. 1 Illusion - Shadow when attacked by melee attacks.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Chance to activate Lvl. 1 Illusion - Shadow when attacked by melee attacks."
+msgstr ""
+
+# mes "Armor Type, Defense 60, Slot 1";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Armor Type, Defense 60, Slot 1"
+msgstr ""
+
+# mes "Make sure that ^ff0000you have the correct ingredients and equipment at hand.^000000";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Make sure that ^ff0000you have the correct ingredients and equipment at hand.^000000"
+msgstr ""
+
+# mes "No use crying over it later.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "No use crying over it later."
+msgstr ""
+
+# mes "- Hold on!! -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "- Hold on!! -"
+msgstr ""
+
+# mes "- You cannot receive items -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "- You cannot receive items -"
+msgstr ""
+
+# mes "- because you carry too much. -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "- because you carry too much. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after lightening your burden. -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "- after lightening your burden. -"
+msgstr ""
+
+# mes "Can you feel the wolfish instinct?";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Can you feel the wolfish instinct?"
+msgstr ""
+
+# mes "Wild, but beautiful...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Wild, but beautiful..."
+msgstr ""
+
+# mes "You don't have enough ingredients.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "You don't have enough ingredients."
+msgstr ""
+
+# mes "Look again......";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Look again......"
+msgstr ""
+
+# mes "B-e-a-utiful......";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "B-e-a-utiful......"
+msgstr ""
+
+# mes "Feel the overwhelming magic within.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Feel the overwhelming magic within."
+msgstr ""
+
+# mes "This armor holds a legend...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "This armor holds a legend..."
+msgstr ""
+
+# mes "Though I don't believe in them...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "Though I don't believe in them..."
+msgstr ""
+
+# mes "How about it?";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "How about it?"
+msgstr ""
+
+# mes "It looks like two sets of them, doesn't it?";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Gyo#arm"
+msgid "It looks like two sets of them, doesn't it?"
+msgstr ""
+
+# mes "[Ki]";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "[Ki]"
+msgstr ""
+
+# mes "To attack is the best means of defense.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "To attack is the best means of defense."
+msgstr ""
+
+# mes "A powerful weapon will make you truly complete.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "A powerful weapon will make you truly complete."
+msgstr ""
+
+# mes "Of course, it would be better to have something special at hand.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Of course, it would be better to have something special at hand."
+msgstr ""
+
+# if (select("Combine weapon.", "End conversation.") == 2) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Combine weapon."
+msgstr ""
+
+# if (select("Combine weapon.", "End conversation.") == 2) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "End conversation."
+msgstr ""
+
+# mes "Being too careful could sometimes be lethal.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Being too careful could sometimes be lethal."
+msgstr ""
+
+# switch (select("Raksasa Dagger", "Mikatsuki", "Petal Shuriken", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Raksasa Dagger"
+msgstr ""
+
+# switch (select("Raksasa Dagger", "Mikatsuki", "Petal Shuriken", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Mikatsuki"
+msgstr ""
+
+# switch (select("Raksasa Dagger", "Mikatsuki", "Petal Shuriken", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Petal Shuriken"
+msgstr ""
+
+# switch (select("Raksasa Dagger", "Mikatsuki", "Petal Shuriken", "Quit.")) {
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Quit."
+msgstr ""
+
+# mes "Raksasa Dagger can only be used after plenty of training.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Raksasa Dagger can only be used after plenty of training."
+msgstr ""
+
+# mes "Mikatsuki... A beautiful curve like the crescent moon...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Mikatsuki... A beautiful curve like the crescent moon..."
+msgstr ""
+
+# mes "There aren't many who can make them.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "There aren't many who can make them."
+msgstr ""
+
+# mes "Petal Shuriken... Have you every seen petals swirl?";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Petal Shuriken... Have you every seen petals swirl?"
+msgstr ""
+
+# mes "Think carefully~~";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Think carefully~~"
+msgstr ""
+
+# switch(select("Check Ingredients.", "Check Stats.", "Combine.", "Quit.")){
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Check Ingredients."
+msgstr ""
+
+# switch(select("Check Ingredients.", "Check Stats.", "Combine.", "Quit.")){
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Check Stats."
+msgstr ""
+
+# switch(select("Check Ingredients.", "Check Stats.", "Combine.", "Quit.")){
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Combine."
+msgstr ""
+
+# mes "To make a ^ff0000"+getitemname(.@item_make)+", "+callsub(L_Ingredients,.@item_make)+".^000000";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "To make a ^ff0000"
+msgstr ""
+
+# mes "The garnet gives the Raksasa Dagger its unique color.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "The garnet gives the Raksasa Dagger its unique color."
+msgstr ""
+
+# mes "The opal is what gives off the translucent glow.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "The opal is what gives off the translucent glow."
+msgstr ""
+
+# mes "It may seem like too many shurikens are needed... But it is essential for the beautiful fluttering effect.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "It may seem like too many shurikens are needed... But it is essential for the beautiful fluttering effect."
+msgstr ""
+
+# mes "["+ getitemname(getarg(0)) +"]";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "["
+msgstr ""
+
+# mes "INT+3 MATK+100.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "INT+3 MATK+100."
+msgstr ""
+
+# mes "Dagger Type, ATK 120, Slot 1";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Dagger Type, ATK 120, Slot 1"
+msgstr ""
+
+# mes "Required Level 110, Ninja Type Only";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Required Level 110, Ninja Type Only"
+msgstr ""
+
+# mes "MATK + 120, Fluctuated Casting and SP use decreased by 5% upon skill use.";
+#: npc/re/merchants/ninja_craftsman.txt
+#, no-c-format
+msgctxt "Master Craftsman Ki#weap"
+msgid "MATK + 120, Fluctuated Casting and SP use decreased by 5% upon skill use."
+msgstr ""
+
+# mes "Dagger Type, ATK 50, Weapon Lvl. 4";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Dagger Type, ATK 50, Weapon Lvl. 4"
+msgstr ""
+
+# mes "Slot 1";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Slot 1"
+msgstr ""
+
+# mes "Required Level 100, Ninja Type Only";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Required Level 100, Ninja Type Only"
+msgstr ""
+
+# mes "MATK + 50, Petal Shuriken skill damage increased by 20%.";
+#: npc/re/merchants/ninja_craftsman.txt
+#, no-c-format
+msgctxt "Master Craftsman Ki#weap"
+msgid "MATK + 50, Petal Shuriken  skill damage increased by 20%."
+msgstr ""
+
+# mes "Shuriken Type, ATK 150";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Shuriken Type, ATK 150"
+msgstr ""
+
+# mes "Weapon Lvl. 3, Slot 2";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Weapon Lvl. 3, Slot 2"
+msgstr ""
+
+# mes "Make sure that ^ff0000you have the correct ingredients and equipment at hand.^000000";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Make sure that ^ff0000you have the correct ingredients and equipment at hand.^000000"
+msgstr ""
+
+# mes "No use crying over it later.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "No use crying over it later."
+msgstr ""
+
+# mes "- Hold on!! -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "- Hold on!! -"
+msgstr ""
+
+# mes "- You cannot receive items -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "- You cannot receive items -"
+msgstr ""
+
+# mes "- because you carry too much. -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "- because you carry too much. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after lightening your burden. -";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "- after lightening your burden. -"
+msgstr ""
+
+# mes "Oh yes...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Oh yes..."
+msgstr ""
+
+# mes "It is a beautiful glow...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "It is a beautiful glow..."
+msgstr ""
+
+# mes "Hmm... You do not have enough to make a Raksasa Dagger.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Hmm... You do not have enough to make a Raksasa Dagger."
+msgstr ""
+
+# mes "Why don't you check again?";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Why don't you check again?"
+msgstr ""
+
+# mes "Some just can't give up what they hold.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Some just can't give up what they hold."
+msgstr ""
+
+# mes "Splendid...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Splendid..."
+msgstr ""
+
+# mes "It is always mesmerizing to look upon such a beautiful weapon...";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "It is always mesmerizing to look upon such a beautiful weapon..."
+msgstr ""
+
+# mes "Hmm... You do not have enough to make a Mikatsuki.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Hmm... You do not have enough to make a Mikatsuki."
+msgstr ""
+
+# mes "Swirling Petal!!";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Swirling Petal!!"
+msgstr ""
+
+# mes "Hmm... You do not have enough to make Petal Shurikens.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Hmm... You do not have enough to make Petal Shurikens."
+msgstr ""
+
+# mes "Looks like you need more time to decide.";
+#: npc/re/merchants/ninja_craftsman.txt
+msgctxt "Master Craftsman Ki#weap"
+msgid "Looks like you need more time to decide."
+msgstr ""
+
