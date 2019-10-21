@@ -1,0 +1,1286 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/eden/121-130.txt
+# mes "[Melody-Jack]";
+msgctxt "Melody-Jack#1"
+msgid "[Melody-Jack]"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Who the hell are you? Get out of here!";
+msgctxt "Melody-Jack#1"
+msgid "Who the hell are you? Get out of here!"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I'm only talking to base level ^FF0000121-130^000000 adventurers.";
+msgctxt "Melody-Jack#1"
+msgid "I'm only talking to base level ^FF0000121-130^000000 adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "What? do not bother me. I am busy now.";
+msgctxt "Melody-Jack#1"
+msgid "What? do not bother me. I am busy now."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You got a request from that little girl? The small, talktive and half-naked one over there?";
+msgctxt "Melody-Jack#1"
+msgid "You got a request from that little girl? The small, talktive and half-naked one over there?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# select("Say yes.", "Avoid answering.");
+msgctxt "Melody-Jack#1"
+msgid "Say yes."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# select("Say yes.", "Avoid answering.");
+msgctxt "Melody-Jack#1"
+msgid "Avoid answering."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "No. I do not care It will be fine if you stepped into this room not because you are lost. I need anyone except that kind of fool.";
+msgctxt "Melody-Jack#1"
+msgid "No. I do not care It will be fine if you stepped into this room not because you are lost. I need anyone except that kind of fool."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Please listen to me, I will offer you an attractive suggestion.";
+msgctxt "Melody-Jack#1"
+msgid "Please listen to me, I will offer you an attractive suggestion."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I am ^ff0000Melody - Jack!^000000 The best man with best dagger skills.";
+msgctxt "Melody-Jack#1"
+msgid "I am ^ff0000Melody - Jack!^000000 The best man with best dagger skills."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Melody-Jack swipes a dagger in your direction.";
+msgctxt "Melody-Jack#1"
+msgid "Melody-Jack swipes a dagger in your direction."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I am qualified to take secret missions. And right now you're in luck.";
+msgctxt "Melody-Jack#1"
+msgid "I am qualified to take secret missions. And right now you're in luck."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It seems that I have to lose one mission, deal and promise, I can not take it right now.";
+msgctxt "Melody-Jack#1"
+msgid "It seems that I have to lose one mission, deal and promise, I can not take it right now."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Take my mission and solve the request of Aigu. I will compensate you.";
+msgctxt "Melody-Jack#1"
+msgid "Take my mission and solve the request of Aigu. I will compensate you."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Our deal will be kept as a secret to Aigu. If you do not have 9 lives. Lets start.";
+msgctxt "Melody-Jack#1"
+msgid "Our deal will be kept as a secret to Aigu. If you do not have 9 lives. Lets start."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "......";
+msgctxt "Melody-Jack#1"
+msgid "......"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Show me the requests!", "Make small-talk." ) == 2) {
+msgctxt "Melody-Jack#1"
+msgid "Show me the requests!"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Show me the requests!", "Make small-talk." ) == 2) {
+msgctxt "Melody-Jack#1"
+msgid "Make small-talk."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "What? Are you interested in me?";
+msgctxt "Melody-Jack#1"
+msgid "What? Are you interested in me?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "I am interested.", "About requests", "About a deal", "What is a promise?" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "I am interested."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "I am interested.", "About requests", "About a deal", "What is a promise?" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "About requests"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "I am interested.", "About requests", "About a deal", "What is a promise?" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "About a deal"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "I am interested.", "About requests", "About a deal", "What is a promise?" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "What is a promise?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Well go away. I have no interest in you.";
+msgctxt "Melody-Jack#1"
+msgid "Well go away. I have no interest in you."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I cannot stop it because of my bad credit. It drives me crazy.";
+msgctxt "Melody-Jack#1"
+msgid "I cannot stop it because of my bad credit. It drives me crazy."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I am lucky to make a double contract with an adventurer like you. They are not included in our contract.";
+msgctxt "Melody-Jack#1"
+msgid "I am lucky to make a double contract with an adventurer like you. They are not included in our contract."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "To be honest I don't think there is anyone worthy of trust. Trust or promises are both silly.";
+msgctxt "Melody-Jack#1"
+msgid "To be honest I don't think there is anyone worthy of trust. Trust or promises are both silly."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I trust only me and my deal. Trust or promises are empty if they ar broken but if a deal is broken there is compensation or revenge.";
+msgctxt "Melody-Jack#1"
+msgid "I trust only me and my deal. Trust or promises are empty if they ar broken but if a deal is broken there is compensation or revenge."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Who're all of these kids?";
+msgctxt "Melody-Jack#1"
+msgid "Who're all of these kids?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I came out for nothing but I am supposed to fulfill my duty. I don't owe anyone a thing.";
+msgctxt "Melody-Jack#1"
+msgid "I came out for nothing but I am supposed to fulfill my duty. I don't owe anyone a thing."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Oh, I made a mistake. You are not the level of adventurer I am looking for. I'm looking for base level 121 to 130 adventurers.";
+msgctxt "Melody-Jack#1"
+msgid "Oh, I made a mistake. You are not the level of adventurer I am looking for. I'm looking for base level 121 to 130 adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I do not like it but a deal is a deal. Please come back after clearing monsters in the places where Aigu asked to search.";
+msgctxt "Melody-Jack#1"
+msgid "I do not like it but a deal is a deal. Please come back after clearing monsters in the places where Aigu asked to search."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower related ", "Rachel Shrine related ", "Nameless Island related ", "Abyss Lake related " ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Thanatos Tower related "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower related ", "Rachel Shrine related ", "Nameless Island related ", "Abyss Lake related " ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Rachel Shrine related "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower related ", "Rachel Shrine related ", "Nameless Island related ", "Abyss Lake related " ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Nameless Island related "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower related ", "Rachel Shrine related ", "Nameless Island related ", "Abyss Lake related " ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Abyss Lake related "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Thanatos tower is the most annoying place. Do not worry about your compensation. I keep my word.";
+msgctxt "Melody-Jack#1"
+msgid "Thanatos tower is the most annoying place. Do not worry about your compensation. I keep my word."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Baroness of Retribution", "Lady Solace", "Mistress of Shelter", "Dame of Sentinel" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Baroness of Retribution"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Baroness of Retribution", "Lady Solace", "Mistress of Shelter", "Dame of Sentinel" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Lady Solace"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Baroness of Retribution", "Lady Solace", "Mistress of Shelter", "Dame of Sentinel" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Mistress of Shelter"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Baroness of Retribution", "Lady Solace", "Mistress of Shelter", "Dame of Sentinel" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Dame of Sentinel"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I think I finished today's performance. I cannot relax what if monsters show up suddenly.";
+msgctxt "Melody-Jack#1"
+msgid "I think I finished today's performance. I cannot relax what if monsters show up suddenly."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I do not like that creature not because Aigu doesn't like them... How dare you? Who is punishing whom?";
+msgctxt "Melody-Jack#1"
+msgid "I do not like that creature not because Aigu doesn't like them... How dare you? Who is punishing whom?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "These are some of the most dangerous creatures in the world. These creatures deserve no justice.";
+msgctxt "Melody-Jack#1"
+msgid "These are some of the most dangerous creatures in the world. These creatures deserve no justice."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Of course you can trust me. Because I believe in real deals. Lets sweep the creatures away.";
+msgctxt "Melody-Jack#1"
+msgid "Of course you can trust me. Because I believe in real deals. Lets sweep the creatures away."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Did you clear them? So that does not bother that little boy for a day. Good job.";
+msgctxt "Melody-Jack#1"
+msgid "Did you clear them? So that does not bother that little boy for a day. Good job."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "As you know, Thanatos Tower is where Aigu cares the most. It is the most dangerous place in some ways.";
+msgctxt "Melody-Jack#1"
+msgid "As you know, Thanatos Tower is where Aigu cares the most. It is the most dangerous place in some ways."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Please clear monsters to help Aigu. Amateurs will make things messy.";
+msgctxt "Melody-Jack#1"
+msgid "Please clear monsters to help Aigu. Amateurs will make things messy."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Take the request.", "Stop." ) == 1) {
+msgctxt "Melody-Jack#1"
+msgid "Take the request."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Take the request.", "Stop." ) == 1) {
+msgctxt "Melody-Jack#1"
+msgid "Stop."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "There must be a lot of them. Do not forget to keep this a secret. ";
+msgctxt "Melody-Jack#1"
+msgid "There must be a lot of them. Do not forget to keep this a secret. "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I think I finished today's performance. I can not relax... What if monsters show up suddenly?";
+msgctxt "Melody-Jack#1"
+msgid "I think I finished today's performance. I can not relax... What if monsters show up suddenly?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "The building does not seem to be designed by human beings and a strange melody is always playing there.";
+msgctxt "Melody-Jack#1"
+msgid "The building does not seem to be designed by human beings and a strange melody is always playing there."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Do not fall into the mood of the melody because that can be your last song you hear.";
+msgctxt "Melody-Jack#1"
+msgid "Do not fall into the mood of the melody because that can be your last song you hear."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Remember, there is strange music as sharp as knife to kill people in the world.";
+msgctxt "Melody-Jack#1"
+msgid "Remember, there is strange music as sharp as knife to kill people in the world."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Have you ever heard the melody they are playing? You will have a chance if that little boy begins to play the performance again.";
+msgctxt "Melody-Jack#1"
+msgid "Have you ever heard the melody they are playing? You will have a chance if that little boy begins to play the performance again."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Beautiful melody. Maybe it sounds beautiful because creatures are playing.";
+msgctxt "Melody-Jack#1"
+msgid "Beautiful melody. Maybe it sounds beautiful because creatures are playing."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "However that is another obstacle. A deal is prior to personal interest anytime. So clear Lady Solace.";
+msgctxt "Melody-Jack#1"
+msgid "However that is another obstacle. A deal is prior to personal interest anytime. So clear Lady Solace."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "We are just keeping our end of the deal. Clear those creatures now.";
+msgctxt "Melody-Jack#1"
+msgid "We are just keeping our end of the deal. Clear those creatures now."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Do you know an angel that turned into a monster? I do not know if it was an angel or not. But its appearance was an angel.";
+msgctxt "Melody-Jack#1"
+msgid "Do you know an angel that turned into a monster? I do not know if it was an angel or not. But its appearance was an angel."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Do not panic due to beautiful appearances regardless if it is an angel or a creature. You should do your job.";
+msgctxt "Melody-Jack#1"
+msgid "Do not panic due to beautiful appearances regardless if it is an angel or a creature. You should do your job."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Everything has its time. Maybe you requested this because that time has come.";
+msgctxt "Melody-Jack#1"
+msgid "Everything has its time. Maybe you requested this because that time has come."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Good. Let me know if someone is looking for me. If so, I might need to change the details of the deal.";
+msgctxt "Melody-Jack#1"
+msgid "Good. Let me know if someone is looking for me. If so, I might need to change the details of the deal."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I don't care if it is a real angel or just a creature. Clear Mistress of Shelter.";
+msgctxt "Melody-Jack#1"
+msgid "I don't care if it is a real angel or just a creature. Clear Mistress of Shelter."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Dying flowers fall down by rain and wind. That is what you have to do.";
+msgctxt "Melody-Jack#1"
+msgid "Dying flowers fall down by rain and wind. That is what you have to do."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I finished my performance for today. I can not relax what if monsters show up suddenly.";
+msgctxt "Melody-Jack#1"
+msgid "I finished my performance for today. I can not relax what if monsters show up suddenly."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You may have felt they are watching once you stepped into the upper area of Thanatos Tower.";
+msgctxt "Melody-Jack#1"
+msgid "You may have felt they are watching once you stepped into the upper area of Thanatos Tower."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Dame of Sentinel is not easy to handle so be sure to be ready to fight.";
+msgctxt "Melody-Jack#1"
+msgid "Dame of Sentinel is not easy to handle so be sure to be ready to fight."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It is a fine day to die. It will be you or them so do your best.";
+msgctxt "Melody-Jack#1"
+msgid "It is a fine day to die. It will be you or them so do your best."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You look fine. Maybe you are better than I thought? I did not check with my eyes though.";
+msgctxt "Melody-Jack#1"
+msgid "You look fine. Maybe you are better than I thought? I did not check with my eyes though."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You will meet them if Aigu requests. The Dame of Sentinels.";
+msgctxt "Melody-Jack#1"
+msgid "You will meet them if Aigu requests. The Dame of Sentinels."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I wish they are cleared as well for her to request this adventure easily.";
+msgctxt "Melody-Jack#1"
+msgid "I wish they are cleared as well for her to request this adventure easily."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "A request for a request... Whatever.";
+msgctxt "Melody-Jack#1"
+msgid "A request for a request... Whatever."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Aigu's adventure leads to Rachel Shrine. Okay... It is not strange if ^FF0000that human^000000 Aigu looking for is found anywhere.";
+msgctxt "Melody-Jack#1"
+msgid "Aigu's adventure leads to Rachel Shrine. Okay... It is not strange if ^FF0000that human^000000 Aigu looking for is found anywhere."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Vanberk and Isilla", "Hodremlin", "Agav and Echio" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Vanberk and Isilla"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Vanberk and Isilla", "Hodremlin", "Agav and Echio" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Hodremlin"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Vanberk and Isilla", "Hodremlin", "Agav and Echio" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Agav and Echio"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You may take a rest for a day. You cleared enough but fanatic is increased.";
+msgctxt "Melody-Jack#1"
+msgid "You may take a rest for a day. You cleared enough but fanatic is increased."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Someone who believes they are right are the most dangerous. This world is full of fools.";
+msgctxt "Melody-Jack#1"
+msgid "Someone who believes they are right are the most dangerous. This world is full of fools."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Finally force others to believe what they believe. Lets clear Vanberk and Isilla.";
+msgctxt "Melody-Jack#1"
+msgid "Finally force others to believe what they believe. Lets clear Vanberk and Isilla."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It is not my business. But this time is different. A little boy might be in a danger so lets hurry to clear these monsters.";
+msgctxt "Melody-Jack#1"
+msgid "It is not my business. But this time is different. A little boy might be in a danger so lets hurry to clear these monsters."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Just a day. Will be fine.";
+msgctxt "Melody-Jack#1"
+msgid "Just a day. Will be fine."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Sanctuary in Rachel is prohibited to normal people from entering. You gotta know that.";
+msgctxt "Melody-Jack#1"
+msgid "Sanctuary in Rachel is prohibited to normal people from entering. You gotta know that."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "They think they can find a clue there but it is not a safe place. You should clear Vanberk and Isilla in advance.";
+msgctxt "Melody-Jack#1"
+msgid "They think they can find a clue there but it is not a safe place. You should clear Vanberk and Isilla in advance."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Clear all as quickly as you can.";
+msgctxt "Melody-Jack#1"
+msgid "Clear all as quickly as you can."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Unknown mosters are dangerous so clear them first. I will inform you if something happens.";
+msgctxt "Melody-Jack#1"
+msgid "Unknown mosters are dangerous so clear them first. I will inform you if something happens."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Cold teeth might be approaching. Its teeth are faster than your hands.";
+msgctxt "Melody-Jack#1"
+msgid "Cold teeth might be approaching. Its teeth are faster than your hands."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Rachel sanctuary will be approaching from everywhere. You should be careful of this one.";
+msgctxt "Melody-Jack#1"
+msgid "Rachel sanctuary will be approaching from everywhere. You should be careful of this one."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Just think of the job at hand. That will be enough.";
+msgctxt "Melody-Jack#1"
+msgid "Just think of the job at hand. That will be enough."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I am not that worried but are you safe? Not bitten?";
+msgctxt "Melody-Jack#1"
+msgid "I am not that worried but are you safe? Not bitten?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Fanatics are a problem. A more serious problem is that they show up suddenly.";
+msgctxt "Melody-Jack#1"
+msgid "Fanatics are a problem. A more serious problem is that they show up suddenly."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Get rid of ^FF0000Hodremlin^000000 without any hesitation. Because they are very dangerous.";
+msgctxt "Melody-Jack#1"
+msgid "Get rid of ^FF0000Hodremlin^000000 without any hesitation. Because they are very dangerous."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "They need faster hands than a head. I do not worry but you should be careful.";
+msgctxt "Melody-Jack#1"
+msgid "They need faster hands than a head. I do not worry but you should be careful."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "If you can talk. There are no requests right now. Take a rest for the day.";
+msgctxt "Melody-Jack#1"
+msgid "If you can talk. There are no requests right now. Take a rest for the day."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Full of madness here. I just feel disgusting.";
+msgctxt "Melody-Jack#1"
+msgid "Full of madness here. I just feel disgusting."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It is my feeling but you might like it. I am sure ^FF0000Agav^000000 and ^FF0000Echio^000000 will not like you.";
+msgctxt "Melody-Jack#1"
+msgid "It is my feeling but you might like it. I am sure ^FF0000Agav^000000 and ^FF0000Echio^000000 will not like you."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "They will run into you. Do not hesitate and keep focused on the job.";
+msgctxt "Melody-Jack#1"
+msgid "They will run into you. Do not hesitate and keep focused on the job."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Found anyone? I wouldn't worry. A promise ia a promise and a deal is a deal.";
+msgctxt "Melody-Jack#1"
+msgid "Found anyone? I wouldn't worry. A promise ia a promise and a deal is a deal."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It is true that it is getting more dangerous inside of Rachel sanctuary, but Aigu will not care for things we are not sure.";
+msgctxt "Melody-Jack#1"
+msgid "It is true that it is getting more dangerous inside of Rachel sanctuary, but Aigu will not care for things we are not sure."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "That was not that bad. But someone needs to help? Lets clear ^FF0000Agav^000000 and ^FF0000Echio^000000 inside of Rachel Shrine.";
+msgctxt "Melody-Jack#1"
+msgid "That was not that bad. But someone needs to help? Lets clear ^FF0000Agav^000000 and ^FF0000Echio^000000 inside of Rachel Shrine."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I cannot leave so farewell.";
+msgctxt "Melody-Jack#1"
+msgid "I cannot leave so farewell."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Nameless Island is not known to usual adventurers. Aigu is also interested in there.";
+msgctxt "Melody-Jack#1"
+msgid "Nameless Island is not known to usual adventurers. Aigu is also interested in there."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Ragged Zombie Hunting", "Zombie Slaughter Hunting", "Banshee Hunting" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Ragged Zombie Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Ragged Zombie Hunting", "Zombie Slaughter Hunting", "Banshee Hunting" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Zombie Slaughter Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Ragged Zombie Hunting", "Zombie Slaughter Hunting", "Banshee Hunting" ) ) {
+msgctxt "Melody-Jack#1"
+msgid "Banshee Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Ragged Zombie is reduced. It is a good time to proceed Aigu's request for a minute.";
+msgctxt "Melody-Jack#1"
+msgid "Ragged Zombie is reduced. It is a good time to proceed Aigu's request for a minute."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It is easy to meet everything on Nameless Island. So boring.";
+msgctxt "Melody-Jack#1"
+msgid "It is easy to meet everything on Nameless Island. So boring."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Get rid of it and help Aigu and the other adventurers.";
+msgctxt "Melody-Jack#1"
+msgid "Get rid of it and help Aigu and the other adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Did you take a bath? It smells in here. But I am sure that you had a hard time with the smell.";
+msgctxt "Melody-Jack#1"
+msgid "Did you take a bath? It smells in here. But I am sure that you had a hard time with the smell."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "The dead come back at night. Comes back sounds strange. Lets cut the crap.";
+msgctxt "Melody-Jack#1"
+msgid "The dead come back at night. Comes back sounds strange. Lets cut the crap."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Wish to clear ^FF0000Ragged Zombie^000000. It is easy because they show up everywhere.";
+msgctxt "Melody-Jack#1"
+msgid "Wish to clear ^FF0000Ragged Zombie^000000. It is easy because they show up everywhere."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Take a ^FF0000bath^000000 and you won't smell anymore.";
+msgctxt "Melody-Jack#1"
+msgid "Take a ^FF0000bath^000000 and you won't smell anymore."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I know the request to Nameless Island is not easy but I will be happy if you join again.";
+msgctxt "Melody-Jack#1"
+msgid "I know the request to Nameless Island is not easy but I will be happy if you join again."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It was not easy for me either to step into Nameless Island. I am not that patient.";
+msgctxt "Melody-Jack#1"
+msgid "It was not easy for me either to step into Nameless Island. I am not that patient."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "But adventurers should challenge once. ^FF0000Zombie Slaughter^000000 is worth clearing.";
+msgctxt "Melody-Jack#1"
+msgid "But adventurers should challenge once. ^FF0000Zombie Slaughter^000000 is worth clearing."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You are quite good! You cleared them. It will take time to return.";
+msgctxt "Melody-Jack#1"
+msgid "You are quite good! You cleared them. It will take time to return."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "They are dangerous unlike Ragged Zombie because they swing something sharp.";
+msgctxt "Melody-Jack#1"
+msgid "They are dangerous unlike Ragged Zombie because they swing something sharp."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Please clear ^FF0000Zombie Slaughter^000000. Be careful to avoid their blades.";
+msgctxt "Melody-Jack#1"
+msgid "Please clear ^FF0000Zombie Slaughter^000000. Be careful to avoid their blades."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You've got many things to take care of so I will hold my words. Clear them.";
+msgctxt "Melody-Jack#1"
+msgid "You've got many things to take care of so I will hold my words. Clear them."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Banshee is cleared. Request is solved anyway but it is not the end. It will be required again sooner or later.";
+msgctxt "Melody-Jack#1"
+msgid "Banshee is cleared. Request is solved anyway but it is not the end. It will be required again sooner or later."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You will see there are unwelcoming things while adventuring sometimes regardless of monsters and companions.";
+msgctxt "Melody-Jack#1"
+msgid "You will see there are unwelcoming things while adventuring sometimes regardless of monsters and companions."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "This request is like that for me. I just do not like creatures or the reason of giving this request.";
+msgctxt "Melody-Jack#1"
+msgid "This request is like that for me. I just do not like creatures or the reason of giving this request."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You must be tired. You went to that tough place beyond your capability. Do not be angry. I will reward you for that.";
+msgctxt "Melody-Jack#1"
+msgid "You must be tired. You went to that tough place beyond your capability. Do not be angry. I will reward you for that."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Please clear ^FF0000Banshee^000000 inside of Nameless Island. Do not say no. You know it is for Aigu as well.";
+msgctxt "Melody-Jack#1"
+msgid "Please clear ^FF0000Banshee^000000 inside of Nameless Island. Do not say no. You know it is for Aigu as well."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Both Banshee and Aigu are annoying. I would not do this request but you will be different. Right?";
+msgctxt "Melody-Jack#1"
+msgid "Both Banshee and Aigu are annoying. I would not do this request but you will be different. Right?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "See? Someone needs this request. Clear ^FF0000Banshees^000000 at Nameless Island.";
+msgctxt "Melody-Jack#1"
+msgid "See? Someone needs this request. Clear ^FF0000Banshees^000000 at Nameless Island."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Abyss Lake has requests from a little girl. Very dilligent.";
+msgctxt "Melody-Jack#1"
+msgid "Abyss Lake has requests from a little girl. Very dilligent."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Ferus and Bewler are cleared.", "Gold and Blue Acidus are cleared." ) == 1) {
+msgctxt "Melody-Jack#1"
+msgid "Ferus and Bewler are cleared."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Ferus and Bewler are cleared.", "Gold and Blue Acidus are cleared." ) == 1) {
+msgctxt "Melody-Jack#1"
+msgid "Gold and Blue Acidus are cleared."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Green dragons and Red dragons remind me of watermelons.";
+msgctxt "Melody-Jack#1"
+msgid "Green dragons and Red dragons remind me of watermelons."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Abyss Lake... Do you possibly know how to get in there? You are not an adventurer with that information?";
+msgctxt "Melody-Jack#1"
+msgid "Abyss Lake... Do you possibly know how to get in there? You are not an adventurer with that information?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Just in case I will give you a clue that a key and an entrance are going to be found around there.";
+msgctxt "Melody-Jack#1"
+msgid "Just in case I will give you a clue that a key and an entrance are going to be found around there."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Did you clear all of the dragons? Take a rest for a day.";
+msgctxt "Melody-Jack#1"
+msgid "Did you clear all of the dragons? Take a rest for a day."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Abyss Lake is full of dragons in and out. Dragons are not that special but there are so many.";
+msgctxt "Melody-Jack#1"
+msgid "Abyss Lake is full of dragons in and out. Dragons are not that special but there are so many."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Which one is more dangerous between Ferus and Bewler? I do not know. Clear both of them.";
+msgctxt "Melody-Jack#1"
+msgid "Which one is more dangerous between Ferus and Bewler? I do not know. Clear both of them."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Neither green nor red are disturbing. But regardless, come back after clearing all.";
+msgctxt "Melody-Jack#1"
+msgid "Neither green nor red are disturbing. But regardless, come back after clearing all."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Take a rest. We should go and subdue Acidus dragons again.";
+msgctxt "Melody-Jack#1"
+msgid "Take a rest. We should go and subdue Acidus dragons again."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Abyss Lake is not close. But it is worth visiting.";
+msgctxt "Melody-Jack#1"
+msgid "Abyss Lake is not close. But it is worth visiting."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "This is technically a training exercise but just pretend you are helping someone. There will be a reward.";
+msgctxt "Melody-Jack#1"
+msgid "This is technically a training exercise but just pretend you are helping someone. There will be a reward."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You are more of a talented adventurer than I thought. If you found a tactic, take care of it next time. This study is up to you.";
+msgctxt "Melody-Jack#1"
+msgid "You are more of a talented adventurer than I thought. If you found a tactic, take care of it next time. This study is up to you."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "There is a cave where dragons are living inside of Abyss Lake. There are so many but flying things are annoying.";
+msgctxt "Melody-Jack#1"
+msgid "There is a cave where dragons are living inside of Abyss Lake. There are so many but flying things are annoying."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Subdue them as best as you can. Do not mind their colors because they are all to be cleared.";
+msgctxt "Melody-Jack#1"
+msgid "Subdue them as best as you can. Do not mind their colors because they are all to be cleared."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Subdue the Gold and Blue Acidus monsters at the last level of Abyss Lake.";
+msgctxt "Melody-Jack#1"
+msgid "Subdue the Gold and Blue Acidus monsters at the last level of Abyss Lake."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You finished helping Aigu or did you quit? Anyways I have no more business for you. ";
+msgctxt "Melody-Jack#1"
+msgid "You finished helping Aigu or did you quit? Anyways I have no more business for you. "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I am not sure if you found what you are looking for... I cannot be involved anymore. Thanks.";
+msgctxt "Melody-Jack#1"
+msgid "I am not sure if you found what you are looking for... I cannot be involved anymore. Thanks."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Hey there! ... Wait.?";
+msgctxt "Melody-Jack#1"
+msgid "Hey there! ... Wait.?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "[Aigu]";
+msgctxt "Aigu#1"
+msgid "[Aigu]"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Oh, why aren't you a part of Eden Group?";
+msgctxt "Aigu#1"
+msgid "Oh, why aren't you a part of Eden Group?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I'm only talking to base level ^FF0000121-130^000000 adventurers.";
+msgctxt "Aigu#1"
+msgid "I'm only talking to base level ^FF0000121-130^000000 adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Hi? A fine day like today. Can I ask for a favor? I heard that adventurers in Eden Group are nice.";
+msgctxt "Aigu#1"
+msgid "Hi? A fine day like today. Can I ask for a favor? I heard that adventurers in Eden Group are nice."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "I'm not the nice kind.", "Sure, I'll help." ) == 1) {
+msgctxt "Aigu#1"
+msgid "I'm not the nice kind."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "I'm not the nice kind.", "Sure, I'll help." ) == 1) {
+msgctxt "Aigu#1"
+msgid "Sure, I'll help."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "yek.. I hate.";
+msgctxt "Aigu#1"
+msgid "yek.. I hate."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Really? I will introduce myself! I am the head of the ^ff0000Dandelion band Aigu.^000000";
+msgctxt "Aigu#1"
+msgid "Really? I will introduce myself! I am the head of the ^ff0000Dandelion band Aigu.^000000"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I just came back from a local performance. There is someone I wanted to meet but is missing now so I came to Eden Group for a request.";
+msgctxt "Aigu#1"
+msgid "I just came back from a local performance. There is someone I wanted to meet but is missing now so I came to Eden Group for a request."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I just decided to make a request by myself because no one is in charge and everyone is busy. Thanks for the help.";
+msgctxt "Aigu#1"
+msgid "I just decided to make a request by myself because no one is in charge and everyone is busy. Thanks for the help."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It is nice to come back to Midgard! Very exciting as the first day.";
+msgctxt "Aigu#1"
+msgid "It is nice to come back to Midgard! Very exciting as the first day."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "What is your request?", "Talk about something else." ) == 2) {
+msgctxt "Aigu#1"
+msgid "What is your request?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "What is your request?", "Talk about something else." ) == 2) {
+msgctxt "Aigu#1"
+msgid "Talk about something else."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Dandelion band travels all around the world and conveys healing music to people";
+msgctxt "Aigu#1"
+msgid "Dandelion band travels all around the world and conveys healing music to people"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Actually our songs have no magic but I am sure it helps people because I am singing.";
+msgctxt "Aigu#1"
+msgid "Actually our songs have no magic but I am sure it helps people because I am singing."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I think it is difficult for you to get my request? For now, I think it will make more people lost. How about widening your sight by travelling?";
+msgctxt "Aigu#1"
+msgid "I think it is difficult for you to get my request? For now, I think it will make more people lost. How about widening your sight by travelling?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I made a shelter for someone I am looking for and lost adventurers. I want to know which adventurer has been there.";
+msgctxt "Aigu#1"
+msgid "I made a shelter for someone I am looking for and lost adventurers. I want to know which adventurer has been there."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower search", "Rachel Sanctuary search", "Nameless Island search", "Abyss Lake search" ) ) {
+msgctxt "Aigu#1"
+msgid "Thanatos Tower search"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower search", "Rachel Sanctuary search", "Nameless Island search", "Abyss Lake search" ) ) {
+msgctxt "Aigu#1"
+msgid "Rachel Sanctuary search"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower search", "Rachel Sanctuary search", "Nameless Island search", "Abyss Lake search" ) ) {
+msgctxt "Aigu#1"
+msgid "Nameless Island search"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Thanatos Tower search", "Rachel Sanctuary search", "Nameless Island search", "Abyss Lake search" ) ) {
+msgctxt "Aigu#1"
+msgid "Abyss Lake search"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I will ask to search again after for a while because there is hope since a trace of someone was found.";
+msgctxt "Aigu#1"
+msgid "I will ask to search again after for a while because there is hope since a trace of someone was found."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You know someone went there but you do not know who that is? Thank you. But let me ask you to search again tomorrow since we do not know who it is.";
+msgctxt "Aigu#1"
+msgid "You know someone went there but you do not know who that is? Thank you. But let me ask you to search again tomorrow since we do not know who it is."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You may find shelter on top of the tower. Even that shelter only has water and a bonfire.";
+msgctxt "Aigu#1"
+msgid "You may find shelter on top of the tower. Even that shelter only has water and a bonfire."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Adventurers are easily lost because of dangerous monsters and the height of thanatos tower. But it isn't impossible for some adventurers so please check for me.";
+msgctxt "Aigu#1"
+msgid "Adventurers are easily lost because of dangerous monsters and the height of thanatos tower. But it isn't impossible for some adventurers so please check for me."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Begin to search.", "Cancel." ) == 1) {
+msgctxt "Aigu#1"
+msgid "Begin to search."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Begin to search.", "Cancel." ) == 1) {
+msgctxt "Aigu#1"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Thanatos tower is north of the Schwartzvalt Republic! It is not far from Juno or Hugel.";
+msgctxt "Aigu#1"
+msgid "Thanatos tower is north of the Schwartzvalt Republic! It is not far from Juno or Hugel."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Searching Rachel was enough. I will ask you again after a while.";
+msgctxt "Aigu#1"
+msgid "Searching Rachel was enough. I will ask you again after a while."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "How was your trip? No special news. But it is not done yet so I will ask you to search again.";
+msgctxt "Aigu#1"
+msgid "How was your trip? No special news. But it is not done yet so I will ask you to search again."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Not able to enter the sanctuary in a usual way. It is not easy but we can find a clue at Rachel.";
+msgctxt "Aigu#1"
+msgid "Not able to enter the sanctuary in a usual way. It is not easy but we can find a clue at Rachel."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "There is a sanctuary inside of Rachel Shrine. It is possible to get stuck there once you're inside.";
+msgctxt "Aigu#1"
+msgid "There is a sanctuary inside of Rachel Shrine. It is possible to get stuck there once you're inside."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Please take a look if there are any traces of lost adventurers at the southeast part of the 2nd floor in the middle zone.";
+msgctxt "Aigu#1"
+msgid "Please take a look if there are any traces of lost adventurers at the southeast part of the 2nd floor in the middle zone."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Begin the search.", "Stop." ) == 1) {
+msgctxt "Aigu#1"
+msgid "Begin the search."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Begin the search.", "Stop." ) == 1) {
+msgctxt "Aigu#1"
+msgid "Stop."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I wish you safety in your search.";
+msgctxt "Aigu#1"
+msgid "I wish you safety in your search."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Searching Nameless Island will continue at another time. How about taking a rest for a while?";
+msgctxt "Aigu#1"
+msgid "Searching Nameless Island will continue at another time. How about taking a rest for a while?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Thank you! There are wandering adventurers also helping! We should continue to search anyway. Please help me next time again.";
+msgctxt "Aigu#1"
+msgid "Thank you! There are wandering adventurers also helping! We should continue to search anyway. Please help me next time again."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Maybe... hanging out and drinking with the dead. But please talk with me.";
+msgctxt "Aigu#1"
+msgid "Maybe... hanging out and drinking with the dead. But please talk with me."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Yes, Maybe they're not able to come because they've been captured by the dead! Nameless Island will be fine! Please search Nameless Island.";
+msgctxt "Aigu#1"
+msgid "Yes, Maybe they're not able to come because they've been captured by the dead! Nameless Island will be fine! Please search Nameless Island."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I wil ask you to search the 1st underground of the monastery on Nameless Island. I cannot make you take that risk unless you volunteer.";
+msgctxt "Aigu#1"
+msgid "I wil ask you to search the 1st underground of the monastery on Nameless Island. I cannot make you take that risk unless you volunteer."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I will try to search Abyss Lake again after a while.";
+msgctxt "Aigu#1"
+msgid "I will try to search Abyss Lake again after a while."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "You came back safely but I guess there was no good result for your face. I will search more so do not disappoint! Thank you.";
+msgctxt "Aigu#1"
+msgid "You came back safely but I guess there was no good result for your face. I will search more so do not disappoint! Thank you."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Maybe, disappointed and fallen down because a monster was not found on the ground of the lake.";
+msgctxt "Aigu#1"
+msgid "Maybe, disappointed and fallen down because a monster was not found on the ground of the lake."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I suggest to search Abyss Lake precisely the cave at the middle of the lake.";
+msgctxt "Aigu#1"
+msgid "I suggest to search Abyss Lake precisely the cave at the middle of the lake."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Yes! The end of a good adventure needs a dragon! I've heard there is a monster on the ground of a lake.";
+msgctxt "Aigu#1"
+msgid "Yes! The end of a good adventure needs a dragon! I've heard there is a monster on the ground of a lake."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Abyss Lake is the fastest way to get to Hugel. Please visit 3rd floor of underground cave.!";
+msgctxt "Aigu#1"
+msgid "Abyss Lake is the fastest way to get to Hugel. Please visit 3rd floor of underground cave.!"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I can't give you any more search tasks right now! You need harder challenges suitable for your level.";
+msgctxt "Aigu#1"
+msgid "I can't give you any more search tasks right now! You need harder challenges suitable for your level."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Oh, you've been working on "+ getarg(.@i+1) +" Adventure task. Let me clear your record, so you can work on better tasks.";
+msgctxt "Aigu#1"
+msgid "Oh, you've been working on "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Oh, you've already finished "+ getarg(.@i+1) +" Adventure. Thank you for helping me out with this task!.";
+msgctxt "Aigu#1"
+msgid "Oh, you've already finished "
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I found traces of someone who was here but I cannot find a clue. Lets go back and report to Aigu.";
+msgctxt "Trace of an adventurer"
+msgid "I found traces of someone who was here but I cannot find a clue. Lets go back and report to Aigu."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "There are traces of someone being here.";
+msgctxt "Trace of an adventurer"
+msgid "There are traces of someone being here."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "[Disguised Adventurer]";
+msgctxt "Suspicious Monster#1"
+msgid "[Disguised Adventurer]"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I am just working at this dangerous place for 5000 zeny... Are you the adventurer who got a request from Eden Group?";
+msgctxt "Suspicious Monster#1"
+msgid "I am just working at this dangerous place for 5000 zeny... Are you the adventurer who got a request from Eden Group?"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Yes","No" ) ) {
+msgctxt "Suspicious Monster#1"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# switch( select( "Yes","No" ) ) {
+msgctxt "Suspicious Monster#1"
+msgid "No"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "I could see that is not you at first glance!";
+msgctxt "Suspicious Monster#1"
+msgid "I could see that is not you at first glance!"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "The adventurers proceeding the request for Aigu are warped to the upper level on behalf of Aigu.";
+msgctxt "Suspicious Monster#1"
+msgid "The adventurers proceeding the request for Aigu are warped to the upper level on behalf of Aigu."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Go up.", "Do not go up." ) == 1) {
+msgctxt "Suspicious Monster#1"
+msgid "Go up."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# if (select( "Go up.", "Do not go up." ) == 1) {
+msgctxt "Suspicious Monster#1"
+msgid "Do not go up."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "It seems that you're currently not doing the Thanatos Tower adventure request. I'm sorry but I'm doing this for Aigu and not you.";
+msgctxt "Suspicious Monster#1"
+msgid "It seems that you're currently not doing the Thanatos Tower adventure request. I'm sorry but I'm doing this for Aigu and not you."
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Be careful! You can not come down once you go up. For Aigu!";
+msgctxt "Suspicious Monster#1"
+msgid "Be careful! You can not come down once you go up. For Aigu!"
+msgstr ""
+
+#: npc/re/quests/eden/121-130.txt
+# mes "Or please pretend not to know me! I will be in a danger if you blow my cover!";
+msgctxt "Suspicious Monster#1"
+msgid "Or please pretend not to know me! I will be in a danger if you blow my cover!"
+msgstr ""

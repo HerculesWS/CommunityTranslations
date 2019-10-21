@@ -1,0 +1,446 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/merchants/renters.txt
+# mes "[Dragon Breeder]";
+msgctxt "Dragon Breeder"
+msgid "[Dragon Breeder]"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Welcome. Would you like to rent a Dragon?";
+msgctxt "Dragon Breeder"
+msgid "Welcome. Would you like to rent a Dragon?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Yes", "No")) {
+msgctxt "Dragon Breeder"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Yes", "No")) {
+msgctxt "Dragon Breeder"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Please learn how to ride a Dragon first.";
+msgctxt "Dragon Breeder"
+msgid "Please learn how to ride a Dragon first."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "You already have a Dragon.";
+msgctxt "Dragon Breeder"
+msgid "You already have a Dragon."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Please remove your cash mount.";
+msgctxt "Dragon Breeder"
+msgid "Please remove your cash mount."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I see. Then have a great day.";
+msgctxt "Dragon Breeder"
+msgid "I see. Then have a great day."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "What are you doing here?";
+msgctxt "Dragon Breeder"
+msgid "What are you doing here?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Only Rune Knights can rent a Dragon.";
+msgctxt "Dragon Breeder"
+msgid "Only Rune Knights can rent a Dragon."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "[Riding Creature Master]";
+msgctxt "Riding Creature Master"
+msgid "[Riding Creature Master]"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Welcome. Would you like to rent a Dragon?";
+msgctxt "Riding Creature Master"
+msgid "Welcome. Would you like to rent a Dragon?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Yes", "No")) {
+msgctxt "Riding Creature Master"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Yes", "No")) {
+msgctxt "Riding Creature Master"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Please learn how to ride a Dragon first.";
+msgctxt "Riding Creature Master"
+msgid "Please learn how to ride a Dragon first."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "You already have a Dragon.";
+msgctxt "Riding Creature Master"
+msgid "You already have a Dragon."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Please remove your cash mount.";
+msgctxt "Riding Creature Master"
+msgid "Please remove your cash mount."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I see. Then have a great day.";
+msgctxt "Riding Creature Master"
+msgid "I see. Then have a great day."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Welcome. Would you like to rent a Gryphon?";
+msgctxt "Riding Creature Master"
+msgid "Welcome. Would you like to rent a Gryphon?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Please learn how to ride a Gryphon first.";
+msgctxt "Riding Creature Master"
+msgid "Please learn how to ride a Gryphon first."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "You already have a Gryphon.";
+msgctxt "Riding Creature Master"
+msgid "You already have a Gryphon."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I'm here to provide Rune Knights and Royal Guards with riding creatures.";
+msgctxt "Riding Creature Master"
+msgid "I'm here to provide Rune Knights and Royal Guards with riding creatures."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "[Soldier]";
+msgctxt "Peco Peco Remover"
+msgid "[Soldier]"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "If you're unable to dismount from a Peco Peco";
+msgctxt "Peco Peco Remover"
+msgid "If you're unable to dismount from a Peco Peco"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "for some unknown reason,";
+msgctxt "Peco Peco Remover"
+msgid "for some unknown reason,"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "please feel free to use my services.";
+msgctxt "Peco Peco Remover"
+msgid "please feel free to use my services."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "You're riding a Peco Peco.";
+msgctxt "Peco Peco Remover"
+msgid "You're riding a Peco Peco."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Would you like to dismount?";
+msgctxt "Peco Peco Remover"
+msgid "Would you like to dismount?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Yes", "No")) {
+msgctxt "Peco Peco Remover"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Yes", "No")) {
+msgctxt "Peco Peco Remover"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Say, how does it feel to";
+msgctxt "Peco Peco Remover"
+msgid "Say, how does it feel to"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "step on the ground on your own";
+msgctxt "Peco Peco Remover"
+msgid "step on the ground on your own"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "feet again?";
+msgctxt "Peco Peco Remover"
+msgid "feet again?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I see. Please feel free to ask me";
+msgctxt "Peco Peco Remover"
+msgid "I see. Please feel free to ask me"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "if you change your mind.";
+msgctxt "Peco Peco Remover"
+msgid "if you change your mind."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "[Mado Gear Armorer]";
+msgctxt "::mgm"
+msgid "[Mado Gear Armorer]"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Welcome, Mechanic.";
+msgctxt "::mgm"
+msgid "Welcome, Mechanic."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Would you like to rent a Pushcart or";
+msgctxt "::mgm"
+msgid "Would you like to rent a Pushcart or"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "ride a Mado Gear?";
+msgctxt "::mgm"
+msgid "ride a Mado Gear?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Rent a Pushcart", "Ride a Mado Gear", "Buy Emergency Mado Gear", "Upgrade Cooling Device", "Cancel")) {
+msgctxt "::mgm"
+msgid "Rent a Pushcart"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Rent a Pushcart", "Ride a Mado Gear", "Buy Emergency Mado Gear", "Upgrade Cooling Device", "Cancel")) {
+msgctxt "::mgm"
+msgid "Ride a Mado Gear"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Rent a Pushcart", "Ride a Mado Gear", "Buy Emergency Mado Gear", "Upgrade Cooling Device", "Cancel")) {
+msgctxt "::mgm"
+msgid "Buy Emergency Mado Gear"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Rent a Pushcart", "Ride a Mado Gear", "Buy Emergency Mado Gear", "Upgrade Cooling Device", "Cancel")) {
+msgctxt "::mgm"
+msgid "Upgrade Cooling Device"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# switch(select("Rent a Pushcart", "Ride a Mado Gear", "Buy Emergency Mado Gear", "Upgrade Cooling Device", "Cancel")) {
+msgctxt "::mgm"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I'm sorry, but you already";
+msgctxt "::mgm"
+msgid "I'm sorry, but you already"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "have a Pushcart.";
+msgctxt "::mgm"
+msgid "have a Pushcart."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "There you go!";
+msgctxt "::mgm"
+msgid "There you go!"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I'm sorry, but you're already";
+msgctxt "::mgm"
+msgid "I'm sorry, but you're already"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "riding a Mado Gear.";
+msgctxt "::mgm"
+msgid "riding a Mado Gear."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Please learn the skill to get the Mado Gear License first.";
+msgctxt "::mgm"
+msgid "Please learn the skill to get the Mado Gear License first."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Please remove your cash mount.";
+msgctxt "::mgm"
+msgid "Please remove your cash mount."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Have fun, and please come again!";
+msgctxt "::mgm"
+msgid "Have fun, and please come again!"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Emergency Mado Gear is really useful for emergency situations and it is sold at 1,000,000 Zeny.";
+msgctxt "::mgm"
+msgid "Emergency Mado Gear is really useful for emergency situations and it is sold at 1,000,000 Zeny."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# if (select("Purchase", "Cancel") == 2) {
+msgctxt "::mgm"
+msgid "Purchase"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I see. Please feel free to ask me";
+msgctxt "::mgm"
+msgid "I see. Please feel free to ask me"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "if you change your mind.";
+msgctxt "::mgm"
+msgid "if you change your mind."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I'm sorry, but you already have an Emergency Mado Gear.";
+msgctxt "::mgm"
+msgid "I'm sorry, but you already have an Emergency Mado Gear."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I'm sorry, but you don't have enough Zeny to purchase the Emergency Mado Gear.";
+msgctxt "::mgm"
+msgid "I'm sorry, but you don't have enough Zeny to purchase the Emergency Mado Gear."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Which device do you want to upgrade?";
+msgctxt "::mgm"
+msgid "Which device do you want to upgrade?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# if (select("Cooling Device", "High Quality Cooler") == 1) {
+msgctxt "::mgm"
+msgid "Cooling Device"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# if (select("Cooling Device", "High Quality Cooler") == 1) {
+msgctxt "::mgm"
+msgid "High Quality Cooler"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Upgrading Cooling Device to High Quality Cooler needs 1 Cooling Device and 2,000,000 Zeny.";
+msgctxt "::mgm"
+msgid "Upgrading Cooling Device to High Quality Cooler needs 1 Cooling Device and 2,000,000 Zeny."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Upgrading High Quality Cooler to Special Cooler needs 1 High Quality Cooler and 4,000,000 Zeny.";
+msgctxt "::mgm"
+msgid "Upgrading High Quality Cooler to Special Cooler needs 1 High Quality Cooler and 4,000,000 Zeny."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# if (select("Upgrade", "Cancel") == 2) {
+msgctxt "::mgm"
+msgid "Upgrade"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I'm sorry, but you don't have the " + getitemname(.@itemid) + ".";
+msgctxt "::mgm"
+msgid "I'm sorry, but you don't have the "
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "I'm sorry, but you don't have enough Zeny to upgrade the device.";
+msgctxt "::mgm"
+msgid "I'm sorry, but you don't have enough Zeny to upgrade the device."
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Here you are! Your very own " + getitemname(.@itemid) + ".";
+msgctxt "::mgm"
+msgid "Here you are! Your very own "
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "How may I help you?";
+msgctxt "::mgm"
+msgid "How may I help you?"
+msgstr ""
+
+#: npc/re/merchants/renters.txt
+# mes "Mado Gears are only available for Mechanics.";
+msgctxt "::mgm"
+msgid "Mado Gears are only available for Mechanics."
+msgstr ""

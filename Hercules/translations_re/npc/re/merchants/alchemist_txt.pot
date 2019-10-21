@@ -1,0 +1,314 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/merchants/alchemist.txt
+# mes "[Craft Book Merchant]";
+msgctxt "Craft Book Merchant#alde"
+msgid "[Craft Book Merchant]"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Welcome.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Welcome."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "I'm here to sell";
+msgctxt "Craft Book Merchant#alde"
+msgid "I'm here to sell"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "^0000FFspecial craft books^000000 for Geneticists.";
+msgctxt "Craft Book Merchant#alde"
+msgid "^0000FFspecial craft books^000000 for Geneticists."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Geneticists have some skills";
+msgctxt "Craft Book Merchant#alde"
+msgid "Geneticists have some skills"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "that require craft books to activate.";
+msgctxt "Craft Book Merchant#alde"
+msgid "that require craft books to activate."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "The more craft books you have,";
+msgctxt "Craft Book Merchant#alde"
+msgid "The more craft books you have,"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "the more skills you can use.";
+msgctxt "Craft Book Merchant#alde"
+msgid "the more skills you can use."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Please understand that";
+msgctxt "Craft Book Merchant#alde"
+msgid "Please understand that"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "I specialize in the sale of these special books and";
+msgctxt "Craft Book Merchant#alde"
+msgid "I specialize in the sale of these special books and"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "I ^FF0000don't sell other items^000000.";
+msgctxt "Craft Book Merchant#alde"
+msgid "I ^FF0000don't sell other items^000000."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Would you like to take a look at my craft books?";
+msgctxt "Craft Book Merchant#alde"
+msgid "Would you like to take a look at my craft books?"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# if(select("Sure.", "No.") == 2) {
+msgctxt "Craft Book Merchant#alde"
+msgid "Sure."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# if(select("Sure.", "No.") == 2) {
+msgctxt "Craft Book Merchant#alde"
+msgid "No."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Thank you for visiting my shop.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Thank you for visiting my shop."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Please be safe on your travels.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Please be safe on your travels."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "I'm sorry, but your inventory is almost full.";
+msgctxt "Craft Book Merchant#alde"
+msgid "I'm sorry, but your inventory is almost full."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Please empty your inventory first.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Please empty your inventory first."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Okay then, here's the list of available craft books.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Okay then, here's the list of available craft books."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Apple Bomb Craft Book] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Pineapple Bomb Craft Book] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Coconut Bomb Craft Book] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Melon Bomb Craft Book] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Banana Bomb Craft Book] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Plant Gene Cultivation Method] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Superior Potion Craft Manual] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Mix Cooking Book] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Health Improvement Research Book] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "[Vigor Drink Recipe] 100,000 zeny"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# switch(select("[Apple Bomb Craft Book] 100,000 zeny", "[Pineapple Bomb Craft Book] 100,000 zeny", "[Coconut Bomb Craft Book] 100,000 zeny", "[Melon Bomb Craft Book] 100,000 zeny", "[Banana Bomb Craft Book] 100,000 zeny", "[Plant Gene Cultivation Method] 100,000 zeny", "[Superior Potion Craft Manual] 100,000 zeny", "[Mix Cooking Book] 100,000 zeny", "[Health Improvement Research Book] 100,000 zeny", "[Vigor Drink Recipe] 100,000 zeny", "Close")){
+msgctxt "Craft Book Merchant#alde"
+msgid "Close"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Thank you for your patronage.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Thank you for your patronage."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Please come again.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Please come again."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "^0000FF["+getitemname(.@item)+"] costs";
+msgctxt "Craft Book Merchant#alde"
+msgid "^0000FF["
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "100,000 zeny.";
+msgctxt "Craft Book Merchant#alde"
+msgid "100,000 zeny."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "How many would you like to purchase?";
+msgctxt "Craft Book Merchant#alde"
+msgid "How many would you like to purchase?"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Would you like to see some different books?";
+msgctxt "Craft Book Merchant#alde"
+msgid "Would you like to see some different books?"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "You cannot purchase more than 100 at a time.";
+msgctxt "Craft Book Merchant#alde"
+msgid "You cannot purchase more than 100 at a time."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "You've entered "+.@amount+"x ^0000FF["+getitemname(.@item)+"]^000000 to be purchased.";
+msgctxt "Craft Book Merchant#alde"
+msgid "You've entered "
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "You've entered "+.@amount+"x ^0000FF["+getitemname(.@item)+"]^000000 to be purchased.";
+msgctxt "Craft Book Merchant#alde"
+msgid "x ^0000FF["
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Would you like to continue?";
+msgctxt "Craft Book Merchant#alde"
+msgid "Would you like to continue?"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Craft Book Merchant#alde"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Craft Book Merchant#alde"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "I'm sorry, but you don't have enough money.";
+msgctxt "Craft Book Merchant#alde"
+msgid "I'm sorry, but you don't have enough money."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "It doesn't seem like you can carry everything.";
+msgctxt "Craft Book Merchant#alde"
+msgid "It doesn't seem like you can carry everything."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Please check the space in your inventory.";
+msgctxt "Craft Book Merchant#alde"
+msgid "Please check the space in your inventory."
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "Please take your time";
+msgctxt "Craft Book Merchant#alde"
+msgid "Please take your time"
+msgstr ""
+
+#: npc/re/merchants/alchemist.txt
+# mes "before you make your decision.";
+msgctxt "Craft Book Merchant#alde"
+msgid "before you make your decision."
+msgstr ""

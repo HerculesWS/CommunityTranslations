@@ -1,0 +1,752 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/eden/56-70.txt
+# mes "To get these missions, I need to Join the Eden Group first. I must find Secretary Lime Evenor and become a member.";
+msgctxt "Mission [56 - 70]"
+msgid "To get these missions, I need to Join the Eden Group first. I must find Secretary Lime Evenor and become a member."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Here is the list of various adventures for level 56~70 adventurers.";
+msgctxt "Mission [56 - 70]"
+msgid "Here is the list of various adventures for level 56~70 adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Lots of missions such as a Monster Hunting, Delivery Goods, Finding People.";
+msgctxt "Mission [56 - 70]"
+msgid "Lots of missions such as a Monster Hunting, Delivery Goods, Finding People."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Mission Numbers 1~5", "Mission Numbers 6~10", "Mission Numbers 11~15")) {
+msgctxt "Mission [56 - 70]"
+msgid "Mission Numbers 1~5"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Mission Numbers 1~5", "Mission Numbers 6~10", "Mission Numbers 11~15")) {
+msgctxt "Mission [56 - 70]"
+msgid "Mission Numbers 6~10"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Mission Numbers 1~5", "Mission Numbers 6~10", "Mission Numbers 11~15")) {
+msgctxt "Mission [56 - 70]"
+msgid "Mission Numbers 11~15"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("What is this Bandage?", "Dangerous Alligators.", "That wasn't a mermaid...", "My country is calling me!")) {
+msgctxt "Mission [56 - 70]"
+msgid "What is this Bandage?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("What is this Bandage?", "Dangerous Alligators.", "That wasn't a mermaid...", "My country is calling me!")) {
+msgctxt "Mission [56 - 70]"
+msgid "Dangerous Alligators."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("What is this Bandage?", "Dangerous Alligators.", "That wasn't a mermaid...", "My country is calling me!")) {
+msgctxt "Mission [56 - 70]"
+msgid "That wasn't a mermaid..."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("What is this Bandage?", "Dangerous Alligators.", "That wasn't a mermaid...", "My country is calling me!")) {
+msgctxt "Mission [56 - 70]"
+msgid "My country is calling me!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Hunt Wild Boar", "Preparing the Summer", "A Woman's Grudge", "Special ingredients", "Puppet Master's Agony")) {
+msgctxt "Mission [56 - 70]"
+msgid "Hunt Wild Boar"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Hunt Wild Boar", "Preparing the Summer", "A Woman's Grudge", "Special ingredients", "Puppet Master's Agony")) {
+msgctxt "Mission [56 - 70]"
+msgid "Preparing the Summer"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Hunt Wild Boar", "Preparing the Summer", "A Woman's Grudge", "Special ingredients", "Puppet Master's Agony")) {
+msgctxt "Mission [56 - 70]"
+msgid "A Woman's Grudge"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Hunt Wild Boar", "Preparing the Summer", "A Woman's Grudge", "Special ingredients", "Puppet Master's Agony")) {
+msgctxt "Mission [56 - 70]"
+msgid "Special ingredients"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Hunt Wild Boar", "Preparing the Summer", "A Woman's Grudge", "Special ingredients", "Puppet Master's Agony")) {
+msgctxt "Mission [56 - 70]"
+msgid "Puppet Master's Agony"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Tiresome Flies", "Dangerous Munak", "Make the World green", "Magic Wand")) {
+msgctxt "Mission [56 - 70]"
+msgid "Tiresome Flies"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Tiresome Flies", "Dangerous Munak", "Make the World green", "Magic Wand")) {
+msgctxt "Mission [56 - 70]"
+msgid "Dangerous Munak"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Tiresome Flies", "Dangerous Munak", "Make the World green", "Magic Wand")) {
+msgctxt "Mission [56 - 70]"
+msgid "Make the World green"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# switch(select("Tiresome Flies", "Dangerous Munak", "Make the World green", "Magic Wand")) {
+msgctxt "Mission [56 - 70]"
+msgid "Magic Wand"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Would you like to accept this mission?";
+msgctxt "Mission [56 - 70]"
+msgid "Would you like to accept this mission?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# if(select("Accept the mission.", "Do not accept the mission.") == 1) {
+msgctxt "Mission [56 - 70]"
+msgid "Accept the mission."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# if(select("Accept the mission.", "Do not accept the mission.") == 1) {
+msgctxt "Mission [56 - 70]"
+msgid "Do not accept the mission."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "These missions are not fit for my level. I should look for other missions.";
+msgctxt "Mission [56 - 70]"
+msgid "These missions are not fit for my level. I should look for other missions."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I have successfully accepted the mission. I have to come back and confirm my work after I complete the mission.";
+msgctxt "Mission [56 - 70]"
+msgid "I have successfully accepted the mission. I have to come back and confirm my work after I complete the mission."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission doesn't have time limits.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission doesn't have time limits."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "You have an on-going mission. Would you like to check the details?";
+msgctxt "Mission [56 - 70]"
+msgid "You have an on-going mission. Would you like to check the details?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# if(select("Check the details.", "Cancel.") == 1)
+msgctxt "Mission [56 - 70]"
+msgid "Check the details."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# if(select("Check the details.", "Cancel.") == 1)
+msgctxt "Mission [56 - 70]"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I have done pretty well for the mission. Should I report it now?";
+msgctxt "Mission [56 - 70]"
+msgid "I have done pretty well for the mission. Should I report it now?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# if(select("Report the mission.", "Do not report it yet.") == 1) {
+msgctxt "Mission [56 - 70]"
+msgid "Report the mission."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# if(select("Report the mission.", "Do not report it yet.") == 1) {
+msgctxt "Mission [56 - 70]"
+msgid "Do not report it yet."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "You have completed the mission. Get rewards.";
+msgctxt "Mission [56 - 70]"
+msgid "You have completed the mission. Get rewards."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by the Rekenber corporation from Lighthalzen. Below are the details.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by the Rekenber corporation from Lighthalzen. Below are the details."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Rekenber corporation is about to launch a new project called 'Green Medical Center'. For the first product of the project, we are preparing well-being Bandages.";
+msgctxt "Mission [56 - 70]"
+msgid "Rekenber corporation is about to launch a new project called 'Green Medical Center'. For the first product of the project, we are preparing well-being Bandages."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Regarding the project, we need to research monster's reactions when they are wrapped with Rotten Bandages.";
+msgctxt "Mission [56 - 70]"
+msgid "Regarding the project, we need to research monster's reactions when they are wrapped with Rotten Bandages."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "If you are interested, please hunt 30 Mummies and bring 30 Rotten Bandages. You can find them in the Pyramid West of Morroc.";
+msgctxt "Mission [56 - 70]"
+msgid "If you are interested, please hunt 30 Mummies and bring 30 Rotten Bandages. You can find them in the Pyramid West of Morroc."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Please confirm it to us after you complete the mission, then we will give you proper rewards.";
+msgctxt "Mission [56 - 70]"
+msgid "Please confirm it to us after you complete the mission, then we will give you proper rewards."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "- Rekenber corporation chief director 'Julie E Delph' -";
+msgctxt "Mission [56 - 70]"
+msgid "- Rekenber corporation chief director 'Julie E Delph' -"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by the Comodo cooperative society. Below are the details.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by the Comodo cooperative society. Below are the details."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Alligators have gone wild these days, they attack women and drunken people who hang out near the beach.";
+msgctxt "Mission [56 - 70]"
+msgid "Alligators have gone wild these days, they attack women and drunken people who hang out near the beach."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This is a very shameful situation for us, the most wonderful vacation spot in Rune-Midgard.";
+msgctxt "Mission [56 - 70]"
+msgid "This is a very shameful situation for us, the most wonderful vacation spot in Rune-Midgard."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So, it would be very helpful if you hunt 30 Alligators to clean out this situation.";
+msgctxt "Mission [56 - 70]"
+msgid "So, it would be very helpful if you hunt 30 Alligators to clean out this situation."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by an unknown client from Izlude.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by an unknown client from Izlude."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I have admired the beach of Izlude, ever since I was born.";
+msgctxt "Mission [56 - 70]"
+msgid "I have admired the beach of Izlude, ever since I was born."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "When I was young, I found a mysterious creature in the Izlude dungeon, I had never seen something like that before...";
+msgctxt "Mission [56 - 70]"
+msgid "When I was young, I found a mysterious creature in the Izlude dungeon, I had never seen something like that before..."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I instantly thought it was a mermaid. I was so supprised, I have studied about mermaids in whole my life.";
+msgctxt "Mission [56 - 70]"
+msgid "I instantly thought it was a mermaid. I was so supprised, I have studied about mermaids in whole my life."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "But, as I studied harder, I found that the creature was not a mermaid... yes, It wasn't beautiful at all like other mermaids...";
+msgctxt "Mission [56 - 70]"
+msgid "But, as I studied harder, I found that the creature was not a mermaid... yes, It wasn't beautiful at all like other mermaids..."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I finally tracked down the fact that it was a Merman, not a Mermaid!";
+msgctxt "Mission [56 - 70]"
+msgid "I finally tracked down the fact that it was a Merman, not a Mermaid!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Merman... I have wasted my life studying this monster! So please hunt 30 Mermans to make me feel better.";
+msgctxt "Mission [56 - 70]"
+msgid "Merman... I have wasted my life studying this monster! So please hunt 30 Mermans to make me feel better."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Izlude 'The Lost dream mermaid' --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Izlude 'The Lost dream mermaid' --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by the government officer of the Rune-Midgarts Kingdom.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by the government officer of the Rune-Midgarts Kingdom."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "To prevent a flood in Prontera, we decided to build a huge dam to regulate the water supply.";
+msgctxt "Mission [56 - 70]"
+msgid "To prevent a flood in Prontera, we decided to build a huge dam to regulate the water supply."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "But, we are shorthanded on supplies and we need to collect Fine Sand and Grit.";
+msgctxt "Mission [56 - 70]"
+msgid "But, we are shorthanded on supplies and we need to collect Fine Sand and Grit."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So, we would like to ask for help. People, please bring us 10 Fine Sand and 30 Grit each so we can build the dam.";
+msgctxt "Mission [56 - 70]"
+msgid "So, we would like to ask for help. People, please bring us 10 Fine Sand and 30 Grit each so we can build the dam."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "You can get those materials from Sand Man, I wish you good luck!";
+msgctxt "Mission [56 - 70]"
+msgid "You can get those materials from Sand Man, I wish you good luck!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Government officer of the Rune-Midgarts Kingdom, Dufre Kent --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Government officer of the Rune-Midgarts Kingdom, Dufre Kent --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by the Payon town hall.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by the Payon town hall."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Wild animals are always annoyances to farmers.";
+msgctxt "Mission [56 - 70]"
+msgid "Wild animals are always annoyances to farmers."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "They attack our farm and ruin whole crops!! We can't stand it anymore!";
+msgctxt "Mission [56 - 70]"
+msgid "They attack our farm and ruin whole crops!! We can't stand it anymore!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So, we would like to ask for the help from brave adventurers.";
+msgctxt "Mission [56 - 70]"
+msgid "So, we would like to ask for the help from brave adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Please, hunt 30 Savages to save our crops!";
+msgctxt "Mission [56 - 70]"
+msgid "Please, hunt 30 Savages to save our crops!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "You can easily find those monsters around our town and field.";
+msgctxt "Mission [56 - 70]"
+msgid "You can easily find those monsters around our town and field."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Payon town hall members --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Payon town hall members --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by the Morroc blacksmith Aragham.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by the Morroc blacksmith Aragham."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Hello~~~~, Adventurers! This is Aragham, the hottest blacksmith in Morroc!";
+msgctxt "Mission [56 - 70]"
+msgid "Hello~~~~, Adventurers! This is Aragham, the hottest blacksmith in Morroc!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Anyway, I have a son named Aragam Junior, the cute one. Haha.";
+msgctxt "Mission [56 - 70]"
+msgid "Anyway, I have a son named Aragam Junior, the cute one. Haha."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "He will be attending summer camp this summer, but he doesn't know how to swim.";
+msgctxt "Mission [56 - 70]"
+msgid "He will be attending summer camp this summer, but he doesn't know how to swim."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I want to teach him, but as you know I am a blacksmith, a far cry from swimming! Hehe.";
+msgctxt "Mission [56 - 70]"
+msgid "I want to teach him, but as you know I am a blacksmith, a far cry from swimming! Hehe."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "But, I figured that if I make swim fins, it will be great for his confidence~!";
+msgctxt "Mission [56 - 70]"
+msgid "But, I figured that if I make swim fins, it will be great for his confidence~!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "To make it, I need 30 Sticky Webfoots from a Roda Frog. Can you bring them to me?";
+msgctxt "Mission [56 - 70]"
+msgid "To make it, I need 30 Sticky Webfoots from a Roda Frog. Can you bring them to me?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "PS. Do not compare me with Hollgrehenn or Antonio!!!!";
+msgctxt "Mission [56 - 70]"
+msgid "PS. Do not compare me with Hollgrehenn or Antonio!!!!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- The hottest blacksmith, Morroc blacksmith Aragham --";
+msgctxt "Mission [56 - 70]"
+msgid "-- The hottest blacksmith, Morroc blacksmith Aragham --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by an inventor Dorian from Izlude.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by an inventor Dorian from Izlude."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Have you heard the story that if women have a grudge on their mind, it will bring natural disasters.";
+msgctxt "Mission [56 - 70]"
+msgid "Have you heard the story that if women have a grudge on their mind, it will bring natural disasters."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Wow, so guys must watch out for those sensitive women! Make sure they don't have any grudges on you.";
+msgctxt "Mission [56 - 70]"
+msgid "Wow, so guys must watch out for those sensitive women! Make sure they don't have any grudges on you."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Women can bring strange phenomenons with them!";
+msgctxt "Mission [56 - 70]"
+msgid "Women can bring strange phenomenons with them!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I am so intrigued with that story that I'm trying to prove that it can be true.";
+msgctxt "Mission [56 - 70]"
+msgid "I am so intrigued with that story that I'm trying to prove that it can be true."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So I need to make women upset! Haha, I know what a mean idea, right?";
+msgctxt "Mission [56 - 70]"
+msgid "So I need to make women upset! Haha, I know what a mean idea, right?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "But this is seriously just for studying... So please hunt 30 Sohee's who seems to be revived from victimized souls.";
+msgctxt "Mission [56 - 70]"
+msgid "But this is seriously just for studying... So please hunt 30 Sohee's who seems to be revived from victimized souls."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So I can keep observing the case.";
+msgctxt "Mission [56 - 70]"
+msgid "So I can keep observing the case."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Elegance inventor Dorian --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Elegance inventor Dorian --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by Wallah from Payon.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by Wallah from Payon."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Hello, adventurer. How are you? How is your health?";
+msgctxt "Mission [56 - 70]"
+msgid "Hello, adventurer. How are you? How is your health?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I am a pharmacist and I am having a hard time getting special ingredients lately.";
+msgctxt "Mission [56 - 70]"
+msgid "I am a pharmacist and I am having a hard time getting special ingredients lately."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Because I am a little sensitive girl, how can I possibly get those things by myself.";
+msgctxt "Mission [56 - 70]"
+msgid "Because I am a little sensitive girl, how can I possibly get those things by myself."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So, please help me. Just bring 40 Huge Leafs to me, that will be enough to complete my special medicine!";
+msgctxt "Mission [56 - 70]"
+msgid "So, please help me. Just bring 40 Huge Leafs to me, that will be enough to complete my special medicine!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Please bring it as soon as possible, people need my medicine.";
+msgctxt "Mission [56 - 70]"
+msgid "Please bring it as soon as possible, people need my medicine."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Wallah --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Wallah --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by puppet master Woonute from Geffen.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by puppet master Woonute from Geffen."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "You know being a puppet master is kind of a hard job to satisfy people.";
+msgctxt "Mission [56 - 70]"
+msgid "You know being a puppet master is kind of a hard job to satisfy people."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "People can search and see so many different things on their own thesedays.";
+msgctxt "Mission [56 - 70]"
+msgid "People can search and see so many different things on their own thesedays."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Their expectations are getting high, I can't satisfy them anymore.";
+msgctxt "Mission [56 - 70]"
+msgid "Their expectations are getting high, I can't satisfy them anymore."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "But if I can make new toy concepts, like living toys, it will be ground breaking.";
+msgctxt "Mission [56 - 70]"
+msgid "But if I can make new toy concepts, like living toys, it will be ground breaking."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I heard that there are live dolls called Marionettes. Can you hunt 30 Marionettes for me? And also bring 30 Golden Hair, those will be great materials for the new toys.";
+msgctxt "Mission [56 - 70]"
+msgid "I heard that there are live dolls called Marionettes. Can you hunt 30 Marionettes for me? And also bring 30 Golden Hair, those will be great materials for the new toys."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Puppet Master Woonute --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Puppet Master Woonute --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by an exterminator from Prontera.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by an exterminator from Prontera."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "As the weather gets warmer, insects multiply more and more. It is already out of control.";
+msgctxt "Mission [56 - 70]"
+msgid "As the weather gets warmer, insects multiply more and more. It is already out of control."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "People in Prontera cannot sleep because of all the bugs in their house.";
+msgctxt "Mission [56 - 70]"
+msgid "People in Prontera cannot sleep because of all the bugs in their house."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So, please help us, hunt 30 Hunter Flies. Then the flies can be reduced slowly.";
+msgctxt "Mission [56 - 70]"
+msgid "So, please help us, hunt 30 Hunter Flies. Then the flies can be reduced slowly."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- The Prontera exterminator --";
+msgctxt "Mission [56 - 70]"
+msgid "-- The Prontera exterminator --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by Cheese Dongja from Payon.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by Cheese Dongja from Payon."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Have you heard about Munak?";
+msgctxt "Mission [56 - 70]"
+msgid "Have you heard about Munak?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "The ugly monster Munak is threatening people in Payon.";
+msgctxt "Mission [56 - 70]"
+msgid "The ugly monster Munak is threatening people in Payon."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So we need brave adventurers like you!";
+msgctxt "Mission [56 - 70]"
+msgid "So we need brave adventurers like you!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Please hunt 30 Munaks then Payon will be in peace.";
+msgctxt "Mission [56 - 70]"
+msgid "Please hunt 30 Munaks then Payon will be in peace."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "- Payon Cheese Dongja -";
+msgctxt "Mission [56 - 70]"
+msgid "- Payon Cheese Dongja -"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by a gem dealer, Ibraham from Morroc.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by a gem dealer, Ibraham from Morroc."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "A small beautiful flower in the barren desert... What an incredible scene it would be!";
+msgctxt "Mission [56 - 70]"
+msgid "A small beautiful flower in the barren desert... What an incredible scene it would be!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Planting flowers can make the world green and it will be so pretty everywhere.";
+msgctxt "Mission [56 - 70]"
+msgid "Planting flowers can make the world green and it will be so pretty everywhere."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I plan to plant strong flowers in the Morroc desert so the soil gets better.";
+msgctxt "Mission [56 - 70]"
+msgid "I plan to plant strong flowers in the Morroc desert so the soil gets better."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I need 40 Maneater Blossom from Flora, I know Maneater Blossom is an ugly flower, but still it is a plant.";
+msgctxt "Mission [56 - 70]"
+msgid "I need 40 Maneater Blossom from Flora, I know Maneater Blossom is an ugly flower, but still it is a plant."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "I hope you can hunt Flora and get me 40 Maneater Blossoms. You are making the world green! Be proud!";
+msgctxt "Mission [56 - 70]"
+msgid "I hope you can hunt Flora and get me 40 Maneater Blossoms. You are making the world green! Be proud!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Morroc Ibraham --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Morroc Ibraham --"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "This mission is assigned by the Payon blacksmith Antonio.";
+msgctxt "Mission [56 - 70]"
+msgid "This mission is assigned by the Payon blacksmith Antonio."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Magic wand! Have you heard about it? It is an incredible wand!";
+msgctxt "Mission [56 - 70]"
+msgid "Magic wand! Have you heard about it? It is an incredible wand!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "If you say the magic words and swing the wand, it will make your wishes come true.";
+msgctxt "Mission [56 - 70]"
+msgid "If you say the magic words and swing the wand, it will make your wishes come true."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "So, I decided to make it by myself. Then I will be rich and powerful~! Haha!!";
+msgctxt "Mission [56 - 70]"
+msgid "So, I decided to make it by myself. Then I will be rich and powerful~! Haha!!"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "To make the wand, I need some special materials.";
+msgctxt "Mission [56 - 70]"
+msgid "To make the wand, I need some special materials."
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "Please bring me 30 Dokebi Horns and 30 Bamboo Cut. If you do so, I will lend you my magic wand once. Haha, good deal?";
+msgctxt "Mission [56 - 70]"
+msgid "Please bring me 30 Dokebi Horns and 30 Bamboo Cut. If you do so, I will lend you my magic wand once. Haha, good deal?"
+msgstr ""
+
+#: npc/re/quests/eden/56-70.txt
+# mes "-- Payon blacksmith Antonio --";
+msgctxt "Mission [56 - 70]"
+msgid "-- Payon blacksmith Antonio --"
+msgstr ""

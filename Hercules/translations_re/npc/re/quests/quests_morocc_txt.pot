@@ -1,0 +1,458 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/quests_morocc.txt
+# mes "[Continental Guard]";
+msgctxt "Continental Guard#man"
+msgid "[Continental Guard]"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "We've received orders from Headquarters to block access to this area since an unusual space-time phenomenon has been detected.";
+msgctxt "Continental Guard#man"
+msgid "We've received orders from Headquarters to block access to this area since an unusual space-time phenomenon has been detected."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "If you really want to go to the next area, you'll be responsible for your own safety.";
+msgctxt "Continental Guard#man"
+msgid "If you really want to go to the next area, you'll be responsible for your own safety."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Nevermind.", "Enter the Field.")) {
+msgctxt "Continental Guard#man"
+msgid "Nevermind."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Nevermind.", "Enter the Field.")) {
+msgctxt "Continental Guard#man"
+msgid "Enter the Field."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Wise choice.";
+msgctxt "Continental Guard#man"
+msgid "Wise choice."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Have a safe journey.";
+msgctxt "Continental Guard#man"
+msgid "Have a safe journey."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "I see.";
+msgctxt "Continental Guard#man"
+msgid "I see."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "I'll send you to the field shortly.";
+msgctxt "Continental Guard#man"
+msgid "I'll send you to the field shortly."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "[Suspicious Cat]";
+msgctxt "Suspicious Cat#night"
+msgid "[Suspicious Cat]"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "I can't believe a mummy could do this to me. Oh man, it hurts. Nobody should find out about this....";
+msgctxt "Suspicious Cat#night"
+msgid "I can't believe a mummy could do this to me. Oh man, it hurts. Nobody should find out about this...."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# if(select("Mummy? What happened?", "Pretend not to know anything.") == 2)
+msgctxt "Suspicious Cat#night"
+msgid "Mummy? What happened?"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# if(select("Mummy? What happened?", "Pretend not to know anything.") == 2)
+msgctxt "Suspicious Cat#night"
+msgid "Pretend not to know anything."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "You caught me! Darn it...I didn't expect my reputation as a tomb raider would get damaged like this...";
+msgctxt "Suspicious Cat#night"
+msgid "You caught me! Darn it...I didn't expect my reputation as a tomb raider would get damaged like this..."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "But come on, they're so strange! They're mummies! Just mummies, you know? They shouldn't be that strong!";
+msgctxt "Suspicious Cat#night"
+msgid "But come on, they're so strange! They're mummies! Just mummies, you know? They shouldn't be that strong!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# if(select("Strong mummies? Where are they?", "End the conversation.") == 2) {
+msgctxt "Suspicious Cat#night"
+msgid "Strong mummies? Where are they?"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# if(select("Strong mummies? Where are they?", "End the conversation.") == 2) {
+msgctxt "Suspicious Cat#night"
+msgid "End the conversation."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Whaaat~ you don't want to hear my story? Fine! You'd better not mention my name anywhere else!";
+msgctxt "Suspicious Cat#night"
+msgid "Whaaat~ you don't want to hear my story? Fine! You'd better not mention my name anywhere else!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Haha, it's a secret.";
+msgctxt "Suspicious Cat#night"
+msgid "Haha, it's a secret."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "I found out while I was stealing... No, I mean, just walking through the pyramid.";
+msgctxt "Suspicious Cat#night"
+msgid "I found out while I was stealing... No, I mean, just walking through the pyramid."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "When I saw a mummy coming toward me, I was like 'whatever' and didn't care. But then he knocked me down with a slap in the face! How could he do that to a cute cat like me! You bandaged freak... you just wait and see!";
+msgctxt "Suspicious Cat#night"
+msgid "When I saw a mummy coming toward me, I was like 'whatever' and didn't care. But then he knocked me down with a slap in the face! How could he do that to a cute cat like me! You bandaged freak... you just wait and see!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# if(select("I would like to go, too.", "End the conversation.") == 2)
+msgctxt "Suspicious Cat#night"
+msgid "I would like to go, too."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "No way! I spent so much time finding that path!!";
+msgctxt "Suspicious Cat#night"
+msgid "No way! I spent so much time finding that path!!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Hmm... but if you insist, just give me 5000 Zeny. I'll lead you.";
+msgctxt "Suspicious Cat#night"
+msgid "Hmm... but if you insist, just give me 5000 Zeny. I'll lead you."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "What~? Don't give me that look! Do you have any idea how hard it is for a cat to survive in Midgard!";
+msgctxt "Suspicious Cat#night"
+msgid "What~? Don't give me that look! Do you have any idea how hard it is for a cat to survive in Midgard!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "^FF0000But come to think of it, a weakling like you won't survive there. Maybe for a second if you're lucky?^000000";
+msgctxt "Suspicious Cat#night"
+msgid "^FF0000But come to think of it, a weakling like you won't survive there. Maybe for a second if you're lucky?^000000"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Well, it's none of my business. But I warned you anyway!";
+msgctxt "Suspicious Cat#night"
+msgid "Well, it's none of my business. But I warned you anyway!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Pay 5,000 zeny and set out.", "Forget it.")) {
+msgctxt "Suspicious Cat#night"
+msgid "Pay 5,000 zeny and set out."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Pay 5,000 zeny and set out.", "Forget it.")) {
+msgctxt "Suspicious Cat#night"
+msgid "Forget it."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Where do you think you're going! You're so broke!";
+msgctxt "Suspicious Cat#night"
+msgid "Where do you think you're going! You're so broke!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Bah, what's up with this old money... you don't have anything sparkly or shiny?!";
+msgctxt "Suspicious Cat#night"
+msgid "Bah, what's up with this old money... you don't have anything sparkly or shiny?!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Ahh, just follow me!";
+msgctxt "Suspicious Cat#night"
+msgid "Ahh, just follow me!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Gosh, you don't even have 5000 Zeny, do you?";
+msgctxt "Suspicious Cat#night"
+msgid "Gosh, you don't even have 5000 Zeny, do you?"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "[Suspicious Cat]";
+msgctxt "Suspicious Cat#night2"
+msgid "[Suspicious Cat]"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "That stupid mummy slapped me again while you were looking away! Sniff sniff... Let's go back, meow!";
+msgctxt "Suspicious Cat#night2"
+msgid "That stupid mummy slapped me again while you were looking away! Sniff sniff... Let's go back, meow!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Go back to Thief Guild", "Eliminate Verit", "Eliminate Ancient Mummy", "It's nothing")) {
+msgctxt "Suspicious Cat#night2"
+msgid "Go back to Thief Guild"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Go back to Thief Guild", "Eliminate Verit", "Eliminate Ancient Mummy", "It's nothing")) {
+msgctxt "Suspicious Cat#night2"
+msgid "Eliminate Verit"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Go back to Thief Guild", "Eliminate Verit", "Eliminate Ancient Mummy", "It's nothing")) {
+msgctxt "Suspicious Cat#night2"
+msgid "Eliminate Ancient Mummy"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Go back to Thief Guild", "Eliminate Verit", "Eliminate Ancient Mummy", "It's nothing")) {
+msgctxt "Suspicious Cat#night2"
+msgid "It's nothing"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Right right... let's go back.";
+msgctxt "Suspicious Cat#night2"
+msgid "Right right... let's go back."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Look at that Verit, he's afraid of us! Kyaahaha! We're safe, at least for a while!";
+msgctxt "Suspicious Cat#night2"
+msgid "Look at that Verit, he's afraid of us! Kyaahaha! We're safe, at least for a while!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Did you know that cats and dogs don't get along?";
+msgctxt "Suspicious Cat#night2"
+msgid "Did you know that cats and dogs don't get along?"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Look at that ugly and hideous Verit. He's scowling, wagging his tail and trying to come closer.";
+msgctxt "Suspicious Cat#night2"
+msgid "Look at that ugly and hideous Verit. He's scowling, wagging his tail and trying to come closer."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Oh, you don't have a tail, right? He thinks I'm a thorn in his side, and he's trying to start a fight now!";
+msgctxt "Suspicious Cat#night2"
+msgid "Oh, you don't have a tail, right? He thinks I'm a thorn in his side, and he's trying to start a fight now!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Look at him, so greedy and drooly... I don't like the way he breathes, either. I can't stand how he's making those gobbling sounds...";
+msgctxt "Suspicious Cat#night2"
+msgid "Look at him, so greedy and drooly... I don't like the way he breathes, either. I can't stand how he's making those gobbling sounds..."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "It's so obvious that he's waiting to attack me from behind.";
+msgctxt "Suspicious Cat#night2"
+msgid "It's so obvious that he's waiting to attack me from behind."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Gosh, I could have scratched his face so hard if it wasn't for my stomachache!";
+msgctxt "Suspicious Cat#night2"
+msgid "Gosh, I could have scratched his face so hard if it wasn't for my stomachache!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Hey, it's not because I'm afraid of Majoruros!";
+msgctxt "Suspicious Cat#night2"
+msgid "Hey, it's not because I'm afraid of Majoruros!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "If you want to go home, you'd better beat up that ugly doggie! Otherwise, he'll bite you!";
+msgctxt "Suspicious Cat#night2"
+msgid "If you want to go home, you'd better beat up that ugly doggie! Otherwise, he'll bite you!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Help him", "Stay away")) {
+msgctxt "Suspicious Cat#night2"
+msgid "Help him"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Help him", "Stay away")) {
+msgctxt "Suspicious Cat#night2"
+msgid "Stay away"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Good, the target number is 20! Good luck!";
+msgctxt "Suspicious Cat#night2"
+msgid "Good, the target number is 20! Good luck!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Pah! You don't care about me? Fine, you traitor!";
+msgctxt "Suspicious Cat#night2"
+msgid "Pah! You don't care about me? Fine, you traitor!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Is Verit's training going well?";
+msgctxt "Suspicious Cat#night2"
+msgid "Is Verit's training going well?"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Sure.", "I want to stop.")) {
+msgctxt "Suspicious Cat#night2"
+msgid "Sure."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# switch(select("Sure.", "I want to stop.")) {
+msgctxt "Suspicious Cat#night2"
+msgid "I want to stop."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Good. Keep up the good work!";
+msgctxt "Suspicious Cat#night2"
+msgid "Good. Keep up the good work!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "What? You're so irresponsible!";
+msgctxt "Suspicious Cat#night2"
+msgid "What? You're so irresponsible!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Hey, you're actually useful! Good job!";
+msgctxt "Suspicious Cat#night2"
+msgid "Hey, you're actually useful! Good job!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "That Verit wouldn't dare come around here for a while, right? Muhahah!";
+msgctxt "Suspicious Cat#night2"
+msgid "That Verit wouldn't dare come around here for a while, right? Muhahah!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Good, I'll make a good use of the time you gained! But I gotta do something about this stomachache first.....";
+msgctxt "Suspicious Cat#night2"
+msgid "Good, I'll make a good use of the time you gained! But I gotta do something about this stomachache first....."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Precious treasures are supposed to be hidden in the deep secret places here!";
+msgctxt "Suspicious Cat#night2"
+msgid "Precious treasures are supposed to be hidden in the deep secret places here!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "I'm sure the mummy's precious treasures are hidden in the second basement level.";
+msgctxt "Suspicious Cat#night2"
+msgid "I'm sure the mummy's precious treasures are hidden in the second basement level."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "But Ancient Mummies caught me off guard and hit my head before I knew it!";
+msgctxt "Suspicious Cat#night2"
+msgid "But Ancient Mummies caught me off guard and hit my head before I knew it!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "I'm sure they're trying to stop me from finding the treasures by decreasing my superior brain cells!!";
+msgctxt "Suspicious Cat#night2"
+msgid "I'm sure they're trying to stop me from finding the treasures by decreasing my superior brain cells!!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "They can't stop me! Let's go get rid of Ancient Mummies!!";
+msgctxt "Suspicious Cat#night2"
+msgid "They can't stop me! Let's go get rid of Ancient Mummies!!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Don't ask why! I'm sure you wouldn't want those beautiful treasures to be hidden in the dark either!";
+msgctxt "Suspicious Cat#night2"
+msgid "Don't ask why! I'm sure you wouldn't want those beautiful treasures to be hidden in the dark either!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Alright, the target number is 20! Good luck!";
+msgctxt "Suspicious Cat#night2"
+msgid "Alright, the target number is 20! Good luck!"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Bah, you're so cold-hearted.";
+msgctxt "Suspicious Cat#night2"
+msgid "Bah, you're so cold-hearted."
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "Is fighting Ancient Mummies going well?";
+msgctxt "Suspicious Cat#night2"
+msgid "Is fighting Ancient Mummies going well?"
+msgstr ""
+
+#: npc/re/quests/quests_morocc.txt
+# mes "That Ancient Mummy wouldn't dare come around here for a while, right? Muhahah!";
+msgctxt "Suspicious Cat#night2"
+msgid "That Ancient Mummy wouldn't dare come around here for a while, right? Muhahah!"
+msgstr ""

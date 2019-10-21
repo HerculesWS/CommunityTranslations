@@ -1,0 +1,1568 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/magic_books.txt
+# mes "You're carrying too many items. Please make some room in your bag first.";
+msgctxt "Master Velofos"
+msgid "You're carrying too many items. Please make some room in your bag first."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You're overweight with items. Please lose some item weight first.";
+msgctxt "Master Velofos"
+msgid "You're overweight with items. Please lose some item weight first."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "[Master Velofos]";
+msgctxt "Master Velofos"
+msgid "[Master Velofos]"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "What are you, a baby?";
+msgctxt "Master Velofos"
+msgid "What are you, a baby?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm not here to babysit. Get lost!";
+msgctxt "Master Velofos"
+msgid "I'm not here to babysit. Get lost!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Ha ha, are you also seeking new knowledge?";
+msgctxt "Master Velofos"
+msgid "Ha ha, are you also seeking new knowledge?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry, but my knowledge doesn't concern you.";
+msgctxt "Master Velofos"
+msgid "I'm sorry, but my knowledge doesn't concern you."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Well, you've met all the qualifications except one: you need the Release spell.";
+msgctxt "Master Velofos"
+msgid "Well, you've met all the qualifications except one: you need the Release spell."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Learn the spell first. I've got so many things to tell you.";
+msgctxt "Master Velofos"
+msgid "Learn the spell first. I've got so many things to tell you."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Welcome, my friend.";
+msgctxt "Master Velofos"
+msgid "Welcome, my friend."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Congratulations on entering a brand new world of magic.";
+msgctxt "Master Velofos"
+msgid "Congratulations on entering a brand new world of magic."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "We magic practitioners are always thirsty for new knowledge and power.";
+msgctxt "Master Velofos"
+msgid "We magic practitioners are always thirsty for new knowledge and power."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "We endure great hardship and pain to achieve what we want. When we finally do, the sense of accomplishment defies description. That's why both you and I have chosen the way of magic.";
+msgctxt "Master Velofos"
+msgid "We endure great hardship and pain to achieve what we want. When we finally do, the sense of accomplishment defies description. That's why both you and I have chosen the way of magic."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "By the way, what brings you to me today?";
+msgctxt "Master Velofos"
+msgid "By the way, what brings you to me today?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Nothing.", "Do you know the Reading Spell Book?", "What's the Freezing Spell?", "Can I have a Magic Book?", "Can I use the Reading Spell Book without the Freezing Spell?", "About the Ultimate Magic Book")) {
+msgctxt "Master Velofos"
+msgid "Nothing."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Nothing.", "Do you know the Reading Spell Book?", "What's the Freezing Spell?", "Can I have a Magic Book?", "Can I use the Reading Spell Book without the Freezing Spell?", "About the Ultimate Magic Book")) {
+msgctxt "Master Velofos"
+msgid "Do you know the Reading Spell Book?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Nothing.", "Do you know the Reading Spell Book?", "What's the Freezing Spell?", "Can I have a Magic Book?", "Can I use the Reading Spell Book without the Freezing Spell?", "About the Ultimate Magic Book")) {
+msgctxt "Master Velofos"
+msgid "What's the Freezing Spell?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Nothing.", "Do you know the Reading Spell Book?", "What's the Freezing Spell?", "Can I have a Magic Book?", "Can I use the Reading Spell Book without the Freezing Spell?", "About the Ultimate Magic Book")) {
+msgctxt "Master Velofos"
+msgid "Can I have a Magic Book?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Nothing.", "Do you know the Reading Spell Book?", "What's the Freezing Spell?", "Can I have a Magic Book?", "Can I use the Reading Spell Book without the Freezing Spell?", "About the Ultimate Magic Book")) {
+msgctxt "Master Velofos"
+msgid "Can I use the Reading Spell Book without the Freezing Spell?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Nothing.", "Do you know the Reading Spell Book?", "What's the Freezing Spell?", "Can I have a Magic Book?", "Can I use the Reading Spell Book without the Freezing Spell?", "About the Ultimate Magic Book")) {
+msgctxt "Master Velofos"
+msgid "About the Ultimate Magic Book"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Hah! You're silly.";
+msgctxt "Master Velofos"
+msgid "Hah! You're silly."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Reading Spell Book literally means 'read a spell book.' Do you know how to use Magic Books?";
+msgctxt "Master Velofos"
+msgid "Reading Spell Book literally means 'read a spell book.' Do you know how to use Magic Books?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Yes, I do.", "No, I don't.")) {
+msgctxt "Master Velofos"
+msgid "Yes, I do."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Yes, I do.", "No, I don't.")) {
+msgctxt "Master Velofos"
+msgid "No, I don't."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Well then, you don't need an additional lecture.";
+msgctxt "Master Velofos"
+msgid "Well then, you don't need an additional lecture."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Magic Books are an advanced type of magic scroll. While spells on scrolls disappear after one use, the ones in Magic Books can be cast multiple times.";
+msgctxt "Master Velofos"
+msgid "Magic Books are an advanced type of magic scroll. While spells on scrolls disappear after one use, the ones in Magic Books can be cast multiple times."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Let's compare a spell on a scroll to a wire. When the wire is used to open a door or do something else, it's bent and crushed, losing its original shape. A spell from a Magic Book is more like a shape memory alloy.";
+msgctxt "Master Velofos"
+msgid "Let's compare a spell on a scroll to a wire. When the wire is used to open a door or do something else, it's bent and crushed, losing its original shape. A spell from a Magic Book is more like a shape memory alloy."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Huh, don't you now what shape memory alloy is? Eh, just remember this: a wire made from shape memory alloy restores its shape over time.";
+msgctxt "Master Velofos"
+msgid "Huh, don't you now what shape memory alloy is? Eh, just remember this: a wire made from shape memory alloy restores its shape over time."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Like the alloy, a spell on a Magic Book remains after a use, although reusing the spell has a downtime for its restoration.";
+msgctxt "Master Velofos"
+msgid "Like the alloy, a spell on a Magic Book remains after a use, although reusing the spell has a downtime for its restoration."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "...Oh, I didn't mean to talk for too long. Anyways, you can use Magic Books to cast spells that you've learned. Its concept is different from normal spells.";
+msgctxt "Master Velofos"
+msgid "...Oh, I didn't mean to talk for too long. Anyways, you can use Magic Books to cast spells that you've learned. Its concept is different from normal spells."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("What's the difference?");
+msgctxt "Master Velofos"
+msgid "What's the difference?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Why do you have to write your existing spells in Magic Books, you asked?";
+msgctxt "Master Velofos"
+msgid "Why do you have to write your existing spells in Magic Books, you asked?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "That's a good question. It's related to Magic Binding.";
+msgctxt "Master Velofos"
+msgid "That's a good question. It's related to Magic Binding."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You already learned Release, which allows you to hold the energy of the four different elements before the actual casting. Magic Binding is similar to Release.";
+msgctxt "Master Velofos"
+msgid "You already learned Release, which allows you to hold the energy of the four different elements before the actual casting. Magic Binding is similar to Release."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Since you've learned Release, you're capable of using Magic Binding as well. Well, let's talk about that later.";
+msgctxt "Master Velofos"
+msgid "Since you've learned Release, you're capable of using Magic Binding as well. Well, let's talk about that later."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You know how to hold an existing spell, and then cast it at a desired timing via Release.";
+msgctxt "Master Velofos"
+msgid "You know how to hold an existing spell, and then cast it at a desired timing via Release."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Carrying the globes of the four elements is also related to Magic Binding.";
+msgctxt "Master Velofos"
+msgid "Carrying the globes of the four elements is also related to Magic Binding."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "As you know, the four elements are Fire, Water, Wind, and Earth. Being able to employ them freely is the essential principle of magic.";
+msgctxt "Master Velofos"
+msgid "As you know, the four elements are Fire, Water, Wind, and Earth. Being able to employ them freely is the essential principle of magic."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "We Humans use torches to keep fire, fans to blow wind, and bowls to hold water. We also use clay to make earthenware.";
+msgctxt "Master Velofos"
+msgid "We Humans use torches to keep fire, fans to blow wind, and bowls to hold water. We also use clay to make earthenware."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Those activities may differ from magic, but both are the same in the sense of employing the four elements.";
+msgctxt "Master Velofos"
+msgid "Those activities may differ from magic, but both are the same in the sense of employing the four elements."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "When you use complex magic spells to summon a storm, drop lightning, or burn an area, that consumes a lot of your energy, both physically and mentally.";
+msgctxt "Master Velofos"
+msgid "When you use complex magic spells to summon a storm, drop lightning, or burn an area, that consumes a lot of your energy, both physically and mentally."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "When you fail to bind such powerful magic spells or fail to control them, you can receive irreparable damage to your mind and body.";
+msgctxt "Master Velofos"
+msgid "When you fail to bind such powerful magic spells or fail to control them, you can receive irreparable damage to your mind and body."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "That's why we use Magic Books to reduce that burden. It helps summon pre-cast spells while you're focusing on binding their magic power.";
+msgctxt "Master Velofos"
+msgid "That's why we use Magic Books to reduce that burden. It helps summon pre-cast spells while you're focusing on binding their magic power."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "There's one downside though: Magic Books cannot be used for spells that you haven't learned.";
+msgctxt "Master Velofos"
+msgid "There's one downside though: Magic Books cannot be used for spells that you haven't learned."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "As I said earlier, spells in Magic Books tend to go back to what they are.";
+msgctxt "Master Velofos"
+msgid "As I said earlier, spells in Magic Books tend to go back to what they are."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "That said, as a Circler, you cannot change or create spells in Magic Books.";
+msgctxt "Master Velofos"
+msgid "That said, as a Circler, you cannot change or create spells in Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Even if you create one, its power will be beyond your capacity.";
+msgctxt "Master Velofos"
+msgid "Even if you create one, its power will be beyond your capacity."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "In order to use the Reading Spell Book, you must learn the Freezing Spell to bind magic.";
+msgctxt "Master Velofos"
+msgid "In order to use the Reading Spell Book, you must learn the Freezing Spell to bind magic."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The Freezing Spell is used for Magic Binding. It helps you to insert a magic spell to a circle.";
+msgctxt "Master Velofos"
+msgid "The Freezing Spell is used for Magic Binding. It helps you to insert a magic spell to a circle."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Circles of magic work organically with each other. When you use the Freezing Spell to bind a spell, the spell won't activate until you cast the release spell.";
+msgctxt "Master Velofos"
+msgid "Circles of magic work organically with each other. When you use the Freezing Spell to bind a spell, the spell won't activate until you cast the release spell."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Of course, binding a spell continuously consumes your mana, but it consumes less mana than conventional magic spells.";
+msgctxt "Master Velofos"
+msgid "Of course, binding a spell continuously consumes your mana, but it consumes less mana than conventional magic spells."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Magic Binding becomes more difficult when you use more powerful magic spells.";
+msgctxt "Master Velofos"
+msgid "Magic Binding becomes more difficult when you use more powerful magic spells."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "For weak spells, you can bind two to three of them with your circle. For more powerful spells, maybe one or two is possible.";
+msgctxt "Master Velofos"
+msgid "For weak spells, you can bind two to three of them with your circle. For more powerful spells, maybe one or two is possible."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "That all depends on your ability to control your spells. You'll have to try and experience Magic Binding after you first learn it to really understand.";
+msgctxt "Master Velofos"
+msgid "That all depends on your ability to control your spells. You'll have to try and experience Magic Binding after you first learn it to really understand."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry, but I only have Magic Books for beginners, but they're obviously not suitable for you. Do you still want one?";
+msgctxt "Master Velofos"
+msgid "I'm sorry, but I only have Magic Books for beginners, but they're obviously not suitable for you. Do you still want one?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Sure thing.", "Where can I find advanced books?")) {
+msgctxt "Master Velofos"
+msgid "Sure thing."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Sure thing.", "Where can I find advanced books?")) {
+msgctxt "Master Velofos"
+msgid "Where can I find advanced books?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Please go talk to [Lea] in the Archive. Tell her that you need one of the Magic Books that I've stored in there.";
+msgctxt "Master Velofos"
+msgid "Please go talk to [Lea] in the Archive. Tell her that you need one of the Magic Books that I've stored in there."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "For your information, she won't give it to you without anything in return. Expect her to ask you for something!";
+msgctxt "Master Velofos"
+msgid "For your information, she won't give it to you without anything in return. Expect her to ask you for something!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry, but our management has recently decided to limit the availability of Magic Books for Multi Circlers. It's because their numbers are increasing more quickly than we expected.";
+msgctxt "Master Velofos"
+msgid "I'm sorry, but our management has recently decided to limit the availability of Magic Books for Multi Circlers. It's because their numbers are increasing more quickly than we expected."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You could find one if you try hard, but I don't have any with me.";
+msgctxt "Master Velofos"
+msgid "You could find one if you try hard, but I don't have any with me."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "If our management releases the restriction, you'll be the first one to know. Don't worry.";
+msgctxt "Master Velofos"
+msgid "If our management releases the restriction, you'll be the first one to know. Don't worry."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Nothing will happen when you try to bind magic without using Magic Binding because you have nothing to hold magic.";
+msgctxt "Master Velofos"
+msgid "Nothing will happen when you try to bind magic without using Magic Binding because you have nothing to hold magic."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "It's like water that needs a bowl to stay in place.";
+msgctxt "Master Velofos"
+msgid "It's like water that needs a bowl to stay in place."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The problem is when you try to forcefully cast a spell that you haven't learned. It'll definately backfire on you.";
+msgctxt "Master Velofos"
+msgid "The problem is when you try to forcefully cast a spell that you haven't learned. It'll definately backfire on you."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Of course, the damage won't be severe: you'll fall asleep or be thrown into confusion. This is all because there's a conflict between your Magic Book and the force of Magic Binding when you're trying to summon and hold a unlearned spell.";
+msgctxt "Master Velofos"
+msgid "Of course, the damage won't be severe: you'll fall asleep or be thrown into confusion. This is all because there's a conflict between your Magic Book and the force of Magic Binding when you're trying to summon and hold a unlearned spell."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Don't try it out just to see what happens for yourself! Falling asleep while casting a spell? There's nothing more humiliating than that to magic practitioners like us.";
+msgctxt "Master Velofos"
+msgid "Don't try it out just to see what happens for yourself! Falling asleep while casting a spell? There's nothing more humiliating than that to magic practitioners like us."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry, but could you ask someone else? I'm kind of busy right now.";
+msgctxt "Master Velofos"
+msgid "I'm sorry, but could you ask someone else? I'm kind of busy right now."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Huh, are you looking for the Ultimate Magic Book? Who sent you?";
+msgctxt "Master Velofos"
+msgid "Huh, are you looking for the Ultimate Magic Book? Who sent you?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("Ms. Lea.");
+msgctxt "Master Velofos"
+msgid "Ms. Lea."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry, but there's not much information left about the Ultimate Magic Book.";
+msgctxt "Master Velofos"
+msgid "I'm sorry, but there's not much information left about the Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "A few scholars in the Midgard Continent once tried to collect ancient Magic Books and reproduce that book, but...";
+msgctxt "Master Velofos"
+msgid "A few scholars in the Midgard Continent once tried to collect ancient Magic Books and reproduce that book, but..."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("But what?");
+msgctxt "Master Velofos"
+msgid "But what?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Oh yes, perhaps he might know something.";
+msgctxt "Master Velofos"
+msgid "Oh yes, perhaps he might know something."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("Yes, I knew this was coming!");
+msgctxt "Master Velofos"
+msgid "Yes, I knew this was coming!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "My brother is just like you. He's very interested in recreating the Ultimate Magic Book.";
+msgctxt "Master Velofos"
+msgid "My brother is just like you. He's very interested in recreating the Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "His name is Galfos.";
+msgctxt "Master Velofos"
+msgid "His name is Galfos."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "He's been taking a great interest in the ancient Magic Books.";
+msgctxt "Master Velofos"
+msgid "He's been taking a great interest in the ancient Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I didn't support him or give him any advice for his research since I thought he'd give on it pretty quickly, but...";
+msgctxt "Master Velofos"
+msgid "I didn't support him or give him any advice for his research since I thought he'd give on it pretty quickly, but..."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "If he's discovered anything useful, maybe it can helpful to you.";
+msgctxt "Master Velofos"
+msgid "If he's discovered anything useful, maybe it can helpful to you."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("Where's Galfos now?");
+msgctxt "Master Velofos"
+msgid "Where's Galfos now?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I've heard that he's near the Expedition Camp beyond the Dimensional Rift to seek information about the ancient Magic Books.";
+msgctxt "Master Velofos"
+msgid "I've heard that he's near the Expedition Camp beyond the Dimensional Rift to seek information about the ancient Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "If you want to see him, you should prepare for a long journey.";
+msgctxt "Master Velofos"
+msgid "If you want to see him, you should prepare for a long journey."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Galfos is near the Expedition Camp beyond the Dimensional Rift.";
+msgctxt "Master Velofos"
+msgid "Galfos is near the Expedition Camp beyond the Dimensional Rift."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Ha ha, I'm sorry, but you should focus on strengthening your body rather than creating Magic Books.";
+msgctxt "Master Velofos"
+msgid "Ha ha, I'm sorry, but you should focus on strengthening your body rather than creating Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You're carrying too many items. Please make some room in your bag first.";
+msgctxt "Lea"
+msgid "You're carrying too many items. Please make some room in your bag first."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You're overweight with items. Please lose some item weight first.";
+msgctxt "Lea"
+msgid "You're overweight with items. Please lose some item weight first."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "[Lea]";
+msgctxt "Lea"
+msgid "[Lea]"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You can only read books here. If you'd like to borrow any books, please receive an approval from 1 manager and 1 High Mage.";
+msgctxt "Lea"
+msgid "You can only read books here. If you'd like to borrow any books, please receive an approval from 1 manager and 1 High Mage."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "How may I help you?";
+msgctxt "Lea"
+msgid "How may I help you?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("Master Velofos asked me to bring his Magic Book.");
+msgctxt "Lea"
+msgid "Master Velofos asked me to bring his Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Are you borrowing a book?";
+msgctxt "Lea"
+msgid "Are you borrowing a book?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Let me think.", "I want the Beginner's Magic Books.", "I want the Intermediate Magic Books.", "I want the Superior Magic Books.", "I want the Ultimate Magic Book.")) {
+msgctxt "Lea"
+msgid "Let me think."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Let me think.", "I want the Beginner's Magic Books.", "I want the Intermediate Magic Books.", "I want the Superior Magic Books.", "I want the Ultimate Magic Book.")) {
+msgctxt "Lea"
+msgid "I want the Beginner's Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Let me think.", "I want the Beginner's Magic Books.", "I want the Intermediate Magic Books.", "I want the Superior Magic Books.", "I want the Ultimate Magic Book.")) {
+msgctxt "Lea"
+msgid "I want the Intermediate Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Let me think.", "I want the Beginner's Magic Books.", "I want the Intermediate Magic Books.", "I want the Superior Magic Books.", "I want the Ultimate Magic Book.")) {
+msgctxt "Lea"
+msgid "I want the Superior Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# switch (select("Let me think.", "I want the Beginner's Magic Books.", "I want the Intermediate Magic Books.", "I want the Superior Magic Books.", "I want the Ultimate Magic Book.")) {
+msgctxt "Lea"
+msgid "I want the Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "No problem.";
+msgctxt "Lea"
+msgid "No problem."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "We're in trouble because so many people want to borrow our Magic Books.";
+msgctxt "Lea"
+msgid "We're in trouble because so many people want to borrow our Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Unfortunately, many of our lent books aren't returned on time. That's why we've decided to charge a security deposit.";
+msgctxt "Lea"
+msgid "Unfortunately, many of our lent books aren't returned on time. That's why we've decided to charge a security deposit."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("A security deposit?");
+msgctxt "Lea"
+msgid "A security deposit?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Yes. You may pay a minimum of 10,000 Rune-Midgarts zeny. Alternatively, you can bring 2 Old Magic Books or 50 Old Pages. Once you pay the deposit, I'll let you borrow some Magic Books.";
+msgctxt "Lea"
+msgid "Yes. You may pay a minimum of 10,000 Rune-Midgarts zeny. Alternatively, you can bring 2 Old Magic Books or 50 Old Pages. Once you pay the deposit, I'll let you borrow some Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Magic Books and Old Pages?", "I'll pay with zeny.", "I'll pay with Old Magic Books.", "I'll pay with Old Pages.")-1;
+msgctxt "Lea"
+msgid "Where can I find Old Magic Books and Old Pages?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Magic Books and Old Pages?", "I'll pay with zeny.", "I'll pay with Old Magic Books.", "I'll pay with Old Pages.")-1;
+msgctxt "Lea"
+msgid "I'll pay with zeny."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Magic Books and Old Pages?", "I'll pay with zeny.", "I'll pay with Old Magic Books.", "I'll pay with Old Pages.")-1;
+msgctxt "Lea"
+msgid "I'll pay with Old Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Magic Books and Old Pages?", "I'll pay with zeny.", "I'll pay with Old Magic Books.", "I'll pay with Old Pages.")-1;
+msgctxt "Lea"
+msgid "I'll pay with Old Pages."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I heard that you can find them from Ride Words, Death Words, Bathorys, and other monsters. I ask that you please don't strain yourself to find those items.";
+msgctxt "Lea"
+msgid "I heard that you can find them from Ride Words, Death Words, Bathorys, and other monsters. I ask that you please don't strain yourself to find those items."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Your life is more important than anything else, you know?";
+msgctxt "Lea"
+msgid "Your life is more important than anything else, you know?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "What kind of Magic Book do you want?";
+msgctxt "Lea"
+msgid "What kind of Magic Book do you want?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Fire Bolt)", "Magic Book (Cold Bolt)", "Magic Book (Lightning Bolt)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Fire Bolt)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Fire Bolt)", "Magic Book (Cold Bolt)", "Magic Book (Lightning Bolt)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Cold Bolt)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Fire Bolt)", "Magic Book (Cold Bolt)", "Magic Book (Lightning Bolt)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Lightning Bolt)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You already have that Magic Book. You can't borrow a new book until you return the current one.";
+msgctxt "Lea"
+msgid "You already have that Magic Book. You can't borrow a new book until you return the current one."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Don't you know how many others would want the book you already have? It's a bit selfish to want more than one, you know.";
+msgctxt "Lea"
+msgid "Don't you know how many others would want the book you already have? It's a bit selfish to want more than one, you know."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The book's return date is written on the lending card on the back cover of the book.";
+msgctxt "Lea"
+msgid "The book's return date is written on the lending card on the back cover of the book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Please try not to lose or damage the book to avoid paying any extra charges.";
+msgctxt "Lea"
+msgid "Please try not to lose or damage the book to avoid paying any extra charges."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry, but you don't have enough funds.";
+msgctxt "Lea"
+msgid "I'm sorry, but you don't have enough funds."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Ah, so you want the Intermediate Magic Books. Please pay 50,000 Rune-Midgartian zeny, or you can bring me 2 Old Blue Boxes or 9 Eluniums to borrow the Intermediate Magic Books.";
+msgctxt "Lea"
+msgid "Ah, so you want the Intermediate Magic Books. Please pay 50,000 Rune-Midgartian zeny, or you can bring me 2 Old Blue Boxes or 9 Eluniums to borrow the Intermediate Magic Books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Blue Boxes and Eluniums?", "I'll pay 50,000 zeny.", "I'll pay with Old Blue Boxes.", "I'll pay with Eluniums.")-1;
+msgctxt "Lea"
+msgid "Where can I find Old Blue Boxes and Eluniums?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Blue Boxes and Eluniums?", "I'll pay 50,000 zeny.", "I'll pay with Old Blue Boxes.", "I'll pay with Eluniums.")-1;
+msgctxt "Lea"
+msgid "I'll pay 50,000 zeny."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Blue Boxes and Eluniums?", "I'll pay 50,000 zeny.", "I'll pay with Old Blue Boxes.", "I'll pay with Eluniums.")-1;
+msgctxt "Lea"
+msgid "I'll pay with Old Blue Boxes."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find Old Blue Boxes and Eluniums?", "I'll pay 50,000 zeny.", "I'll pay with Old Blue Boxes.", "I'll pay with Eluniums.")-1;
+msgctxt "Lea"
+msgid "I'll pay with Eluniums."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Old Blue Boxes are quite rare to find, but they can be obtained from monsters everywhere in the world, including Myst Cases, Megalogons, Mimics, Nightmares, Krabens, Requiems, Nine Tails, Noxiouses, and Byorgues.";
+msgctxt "Lea"
+msgid "Old Blue Boxes are quite rare to find, but they can be obtained from monsters everywhere in the world, including Myst Cases, Megalogons, Mimics, Nightmares, Krabens, Requiems, Nine Tails, Noxiouses, and Byorgues."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "If you have sufficient funds, you may buy the boxes from street vendors.";
+msgctxt "Lea"
+msgid "If you have sufficient funds, you may buy the boxes from street vendors."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Eluniums can be obtained from Hyeguns, Zombie Prisoners, Teddy Bears, Obsedians, and Loli Ruris. Or you can refine Rough Eluniums to Eluniums at the Forge in town, and that may be easier.";
+msgctxt "Lea"
+msgid "Eluniums can be obtained from Hyeguns, Zombie Prisoners, Teddy Bears, Obsedians, and Loli Ruris. Or you can refine Rough Eluniums to Eluniums at the Forge in town, and that may be easier."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Storm Gust)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Lord of Vermillion)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Meteor Storm)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Thunderstorm)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Jupitel Thunder)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Water Ball)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Heaven's Drive)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Storm Gust)", "Magic Book (Lord of Vermillion)", "Magic Book (Meteor Storm)", "Magic Book (Thunderstorm)", "Magic Book (Jupitel Thunder)", "Magic Book (Water Ball)", "Magic Book (Heaven's Drive)", "Magic Book (Earth Spike)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Earth Spike)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Thank you for your deposit. The book's return date is written on the lending card on the back cover of the book. Please try not to lose or damage the book and avoid paying compensation.";
+msgctxt "Lea"
+msgid "Thank you for your deposit. The book's return date is written on the lending card on the back cover of the book. Please try not to lose or damage the book and avoid paying compensation."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The Intermediate and Superior Magic Books must be returned upon borrowing the Ultimate Magic Book. Remember that you're just borrowing them, so make sure you take good care of those books.";
+msgctxt "Lea"
+msgid "The Intermediate and Superior Magic Books must be returned upon borrowing the Ultimate Magic Book. Remember that you're just borrowing them, so make sure you take good care of those books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Oh, do you want the Superior Magic Books? For your information, borrowing those Magic Books requires many conditions and restrictions. Are you sure that you want it?";
+msgctxt "Lea"
+msgid "Oh, do you want the Superior Magic Books? For your information, borrowing those Magic Books requires many conditions and restrictions. Are you sure that you want it?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("Yes.");
+msgctxt "Lea"
+msgid "Yes."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I see. If you're determined to borrow the Superior Magic Books, please choose one of the following tyes of payment for the security deposit.";
+msgctxt "Lea"
+msgid "I see. If you're determined to borrow the Superior Magic Books, please choose one of the following tyes of payment for the security deposit."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "[12 Mystery Pieces and 100,000 zeny], [7 Oridecons and 100,000 zeny], or [1 Old Violet Box and 100,000 zeny]. Now how would you like to pay your deposit?";
+msgctxt "Lea"
+msgid "[12 Mystery Pieces and 100,000 zeny], [7 Oridecons and 100,000 zeny], or [1 Old Violet Box and 100,000 zeny]. Now how would you like to pay your deposit?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find those items?", "Let me think.", "I'll pay with 12 Mystery Pieces and 100,000 zeny.", "I'll pay with 7 Oridecons and 100,000 zeny.", "I'll pay with 1 Old Violet Box and 100,000 zeny.")-1;
+msgctxt "Lea"
+msgid "Where can I find those items?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find those items?", "Let me think.", "I'll pay with 12 Mystery Pieces and 100,000 zeny.", "I'll pay with 7 Oridecons and 100,000 zeny.", "I'll pay with 1 Old Violet Box and 100,000 zeny.")-1;
+msgctxt "Lea"
+msgid "I'll pay with 12 Mystery Pieces and 100,000 zeny."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find those items?", "Let me think.", "I'll pay with 12 Mystery Pieces and 100,000 zeny.", "I'll pay with 7 Oridecons and 100,000 zeny.", "I'll pay with 1 Old Violet Box and 100,000 zeny.")-1;
+msgctxt "Lea"
+msgid "I'll pay with 7 Oridecons and 100,000 zeny."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@Payment = select("Where can I find those items?", "Let me think.", "I'll pay with 12 Mystery Pieces and 100,000 zeny.", "I'll pay with 7 Oridecons and 100,000 zeny.", "I'll pay with 1 Old Violet Box and 100,000 zeny.")-1;
+msgctxt "Lea"
+msgid "I'll pay with 1 Old Violet Box and 100,000 zeny."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Mystery Pieces can be obtained from machine creatures in the Juperos Dungeon, and they're the fountain of knowledge from the ancient civilization. Ah, I get excited thinking about those artifacts.";
+msgctxt "Lea"
+msgid "Mystery Pieces can be obtained from machine creatures in the Juperos Dungeon, and they're the fountain of knowledge from the ancient civilization. Ah, I get excited thinking about those artifacts."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Oridecons can be obtained from Executioners, Gryphons, Jokers, and Abysmal Knights, but it'll be easier to collect Rough Oridecons than Oridecons.";
+msgctxt "Lea"
+msgid "Oridecons can be obtained from Executioners, Gryphons, Jokers, and Abysmal Knights, but it'll be easier to collect Rough Oridecons than Oridecons."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You can refine Rough Oridecons to Oridecons at the Forge in town.";
+msgctxt "Lea"
+msgid "You can refine Rough Oridecons to Oridecons at the Forge in town."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Old Violet Boxes can be obtained from Mimics, Megaliths, Orc Lords, Stormy Knights, and Osirises.";
+msgctxt "Lea"
+msgid "Old Violet Boxes can be obtained from Mimics, Megaliths, Orc Lords, Stormy Knights, and Osirises."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The boxes are a subject worthy of serious study since they're used to test Schrodinger's pet cat.";
+msgctxt "Lea"
+msgid "The boxes are a subject worthy of serious study since they're used to test Schrodinger's pet cat."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "If you're unable to collect the items for the security deposit, I can offer you an alternate payment method.";
+msgctxt "Lea"
+msgid "If you're unable to collect the items for the security deposit, I can offer you an alternate payment method."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "How does 200,000 Rune-Midgartian zeny sound?";
+msgctxt "Lea"
+msgid "How does 200,000 Rune-Midgartian zeny sound?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# if(select("I'm sorry, but I can't pay that much.", "Sounds good.") == 1) {
+msgctxt "Lea"
+msgid "I'm sorry, but I can't pay that much."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# if(select("I'm sorry, but I can't pay that much.", "Sounds good.") == 1) {
+msgctxt "Lea"
+msgid "Sounds good."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I see.";
+msgctxt "Lea"
+msgid "I see."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Earth Strain)", "Magic Book (Chain Lightning)", "Magic Book (Crimson Rock)", "Magic Book (Drain Life)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Earth Strain)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Earth Strain)", "Magic Book (Chain Lightning)", "Magic Book (Crimson Rock)", "Magic Book (Drain Life)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Chain Lightning)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Earth Strain)", "Magic Book (Chain Lightning)", "Magic Book (Crimson Rock)", "Magic Book (Drain Life)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Crimson Rock)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("Let me think.", "Magic Book (Earth Strain)", "Magic Book (Chain Lightning)", "Magic Book (Crimson Rock)", "Magic Book (Drain Life)")-1;
+msgctxt "Lea"
+msgid "Magic Book (Drain Life)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Did... Did you just say the Ultimate Magic Book?";
+msgctxt "Lea"
+msgid "Did... Did you just say the Ultimate Magic Book?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Oh, my....";
+msgctxt "Lea"
+msgid "Oh, my...."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I can't believe someone actually wants that book.";
+msgctxt "Lea"
+msgid "I can't believe someone actually wants that book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("Please don't say that you don't have it.");
+msgctxt "Lea"
+msgid "Please don't say that you don't have it."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Frankly, I've never even seen the Ultimate Magic Book.";
+msgctxt "Lea"
+msgid "Frankly, I've never even seen the Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You should ask Master Velofos if you want to know more about that book.";
+msgctxt "Lea"
+msgid "You should ask Master Velofos if you want to know more about that book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry that I can't help you more than that.";
+msgctxt "Lea"
+msgid "I'm sorry that I can't help you more than that."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You should ask Master Velofos for some information about that book.";
+msgctxt "Lea"
+msgid "You should ask Master Velofos for some information about that book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "How about practicing your magic spells for now?";
+msgctxt "Lea"
+msgid "How about practicing your magic spells for now?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "In order to obtain the Ultimate Magic Book, you must reach Level 140 and learn Tetera Bolt and Comet.";
+msgctxt "Lea"
+msgid "In order to obtain the Ultimate Magic Book, you must reach Level 140 and learn Tetera Bolt and Comet."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "That book can't be used by just anyone, you know?";
+msgctxt "Lea"
+msgid "That book can't be used by just anyone, you know?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Welcome to the Magic Archive. You can read and borrow books from here under certain conditions.";
+msgctxt "Lea"
+msgid "Welcome to the Magic Archive. You can read and borrow books from here under certain conditions."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You're carrying too many items. Please make some room in your bag first.";
+msgctxt "Galfos"
+msgid "You're carrying too many items. Please make some room in your bag first."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You're overweight with items. Please lose some item weight first.";
+msgctxt "Galfos"
+msgid "You're overweight with items. Please lose some item weight first."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "[Galfos]";
+msgctxt "Galfos"
+msgid "[Galfos]"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "What are you, a baby?";
+msgctxt "Galfos"
+msgid "What are you, a baby?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm not here to babysit. Get lost!";
+msgctxt "Galfos"
+msgid "I'm not here to babysit. Get lost!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "My right arm feels hot while my left arm feels cold. I can never get used to this weird weather!";
+msgctxt "Galfos"
+msgid "My right arm feels hot while my left arm feels cold. I can never get used to this weird weather!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Ah, I'll get myself in trouble if I stay here any longer. Maybe I'm already in...";
+msgctxt "Galfos"
+msgid "Ah, I'll get myself in trouble if I stay here any longer. Maybe I'm already in..."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm sorry, but I don't talk to people that aren't even ready for this.";
+msgctxt "Galfos"
+msgid "I'm sorry, but I don't talk to people that aren't even ready for this."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You look strong, but you don't seem to have any business with me.";
+msgctxt "Galfos"
+msgid "You look strong, but you don't seem to have any business with me."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "What brings you to me?";
+msgctxt "Galfos"
+msgid "What brings you to me?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("I heard that you've studied the Ultimate Magic Book.");
+msgctxt "Galfos"
+msgid "I heard that you've studied the Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Why, are you interested too?";
+msgctxt "Galfos"
+msgid "Why, are you interested too?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I didn't know someone would actually take an interest in that book. Yes, I'm studying that magic book. How did you find that out?";
+msgctxt "Galfos"
+msgid "I didn't know someone would actually take an interest in that book. Yes, I'm studying that magic book. How did you find that out?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("You're Velof's brother, right?");
+msgctxt "Galfos"
+msgid "You're Velof's brother, right?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Yes, I'm Galfos, and Velofos is my brother.";
+msgctxt "Galfos"
+msgid "Yes, I'm Galfos, and Velofos is my brother."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Wait a minute,";
+msgctxt "Galfos"
+msgid "Wait a minute,"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "did the old man recommend me to you?";
+msgctxt "Galfos"
+msgid "did the old man recommend me to you?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("That's right.");
+msgctxt "Galfos"
+msgid "That's right."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Wow!";
+msgctxt "Galfos"
+msgid "Wow!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "This is surprising. He never took my research very seriously. I'm glad that he finally changed his mind.";
+msgctxt "Galfos"
+msgid "This is surprising. He never took my research very seriously. I'm glad that he finally changed his mind."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Heh! Your timing couldn't be better: I was looking for a test object.";
+msgctxt "Galfos"
+msgid "Heh! Your timing couldn't be better: I was looking for a test object."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("A test object?");
+msgctxt "Galfos"
+msgid "A test object?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Frankly, I'm only interested in creating the Ultimate Magic Book.";
+msgctxt "Galfos"
+msgid "Frankly, I'm only interested in creating the Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I'm not good at using magic, not to mention that I prefer fists in fighting. Nevertheless, I find Magic Books to be incredibly intriguing.";
+msgctxt "Galfos"
+msgid "I'm not good at using magic, not to mention that I prefer fists in fighting. Nevertheless, I find Magic Books to be incredibly intriguing."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The problem is that I can't use the Ultimate Magic Book, even if I made one. That's why I can't really test it on my own.";
+msgctxt "Galfos"
+msgid "The problem is that I can't use the Ultimate Magic Book, even if I made one. That's why I can't really test it on my own."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "That's why I've been waiting for a true magic practitioner like you that can help me test my Ultimate Magic Book.";
+msgctxt "Galfos"
+msgid "That's why I've been waiting for a true magic practitioner like you that can help me test my Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("(What is he talking about?)");
+msgctxt "Galfos"
+msgid "(What is he talking about?)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "My research is almost done,";
+msgctxt "Galfos"
+msgid "My research is almost done,"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "and I need to solve one last problem to create the Magic Book.";
+msgctxt "Galfos"
+msgid "and I need to solve one last problem to create the Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "To make the ancient Ultimate Magic Book, I need an artifact and some spells to fuse into it.";
+msgctxt "Galfos"
+msgid "To make the ancient Ultimate Magic Book, I need an artifact and some spells to fuse into it."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I've perfectly restored the spells based on the ancient documents, but I still have no information about the necessary artifact.";
+msgctxt "Galfos"
+msgid "I've perfectly restored the spells based on the ancient documents, but I still have no information about the necessary artifact."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Ah, but there's a silver lining!";
+msgctxt "Galfos"
+msgid "Ah, but there's a silver lining!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# select("(Now we're getting somewhere!)");
+msgctxt "Galfos"
+msgid "(Now we're getting somewhere!)"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Ha ha...";
+msgctxt "Galfos"
+msgid "Ha ha..."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "There's a great archive in El Dicastes, the Capital City of the Evil Giants, where all knowledge in this world is stored.";
+msgctxt "Galfos"
+msgid "There's a great archive in El Dicastes, the Capital City of the Evil Giants, where all knowledge in this world is stored."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Maybe that's the place to find some information about the artifact for this Ultimate Magic Book.";
+msgctxt "Galfos"
+msgid "Maybe that's the place to find some information about the artifact for this Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You know what to do, don't you? Find information about the artifact in the El Dicastes archive, using everything in your power.";
+msgctxt "Galfos"
+msgid "You know what to do, don't you? Find information about the artifact in the El Dicastes archive, using everything in your power."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Afterwards, create and bring me the artifact. We'll talk about creating the Magic Book afterwards.";
+msgctxt "Galfos"
+msgid "Afterwards, create and bring me the artifact. We'll talk about creating the Magic Book afterwards."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Oh, did you find";
+msgctxt "Galfos"
+msgid "Oh, did you find"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "anything useful?";
+msgctxt "Galfos"
+msgid "anything useful?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("I've discovered everything about Comet.", "I've mastered the zenith of Tetra Vortex.");
+msgctxt "Galfos"
+msgid "I've discovered everything about Comet."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# .@i = select("I've discovered everything about Comet.", "I've mastered the zenith of Tetra Vortex.");
+msgctxt "Galfos"
+msgid "I've mastered the zenith of Tetra Vortex."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Are you kidding me? You already have the book!";
+msgctxt "Galfos"
+msgid "Are you kidding me? You already have the book!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Oh my, I sense incredible energy coming from you. This is great! Now we're ready to make the Ultimate Magic Book.";
+msgctxt "Galfos"
+msgid "Oh my, I sense incredible energy coming from you. This is great! Now we're ready to make the Ultimate Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "There's one problem, though: I'm so broke that I don't even have enough money to buy the tools to make the book.";
+msgctxt "Galfos"
+msgid "There's one problem, though: I'm so broke that I don't even have enough money to buy the tools to make the book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I need at least ^0000aa1,000,000 zeny^000000 to buy all the necessary tools. Do you have the money?";
+msgctxt "Galfos"
+msgid "I need at least ^0000aa1,000,000 zeny^000000 to buy all the necessary tools. Do you have the money?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# if(select("Wh-what? No!", "Sure.") == 1) {
+msgctxt "Galfos"
+msgid "Wh-what? No!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# if(select("Wh-what? No!", "Sure.") == 1) {
+msgctxt "Galfos"
+msgid "Sure."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Aw, you don't? It's disappointing, but there's nothing I can do. Come back when you have enough money, okay?";
+msgctxt "Galfos"
+msgid "Aw, you don't? It's disappointing, but there's nothing I can do. Come back when you have enough money, okay?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Alright then, let's get started!";
+msgctxt "Galfos"
+msgid "Alright then, let's get started!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Man, I almost lost my control to the incredible magic energy! Here's your Magic Book.";
+msgctxt "Galfos"
+msgid "Man, I almost lost my control to the incredible magic energy! Here's your Magic Book."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Thank you for making my dream come true. Feel free to come back if you need another one of these books.";
+msgctxt "Galfos"
+msgid "Thank you for making my dream come true. Feel free to come back if you need another one of these books."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Hey, what did I tell you? I can't buy the tools to make the book without money!";
+msgctxt "Galfos"
+msgid "Hey, what did I tell you? I can't buy the tools to make the book without money!"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Are you sure that you've found something? It doesn't seem like you've learned what we need...";
+msgctxt "Galfos"
+msgid "Are you sure that you've found something? It doesn't seem like you've learned what we need..."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Is there anything else you need?";
+msgctxt "Galfos"
+msgid "Is there anything else you need?"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "I better not forget to equip my ring.";
+msgctxt "Mysterious Documents"
+msgid "I better not forget to equip my ring."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "When you approach the documents, an Evil Giant that looks like the archive manager tries to call Guard Galton. You should get out of here quickly.";
+msgctxt "Mysterious Documents"
+msgid "When you approach the documents, an Evil Giant that looks like the archive manager tries to call Guard Galton. You should get out of here quickly."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The documents are making you feel nauseous. You should come back later after your stomach settles.";
+msgctxt "Mysterious Documents"
+msgid "The documents are making you feel nauseous. You should come back later after your stomach settles."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You don't feel as nauseous anymore. It should be safe to proceed now.";
+msgctxt "Mysterious Documents"
+msgid "You don't feel as nauseous anymore. It should be safe to proceed now."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The documents in this container aren't legible. It's no use trying to read them.";
+msgctxt "Mysterious Documents"
+msgid "The documents in this container aren't legible. It's no use trying to read them."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have discovered records about magic, acceleration, and particle waves.";
+msgctxt "Mysterious Documents"
+msgid "You have discovered records about magic, acceleration, and particle waves."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have discovered records about magic, acceleration, and particle waves. These documents must be the ones that Galfos is looking for.";
+msgctxt "Mysterious Documents"
+msgid "You have discovered records about magic, acceleration, and particle waves. These documents must be the ones that Galfos is looking for."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You already own this document.";
+msgctxt "Mysterious Documents"
+msgid "You already own this document."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^660066In order to create the essence of lava, you must refine 40 Burning Hearts at the hottest place on the 2nd floor of the Thor's Volcano Dungeon.^000000";
+msgctxt "Mysterious Documents"
+msgid "^660066In order to create the essence of lava, you must refine 40 Burning Hearts at the hottest place on the 2nd floor of the Thor's Volcano Dungeon.^000000"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^660066You must do this by using the greatest power in that place. The Humans have used this method to study the acceleration of magic particles since ancient times.^000000";
+msgctxt "Mysterious Documents"
+msgid "^660066You must do this by using the greatest power in that place. The Humans have used this method to study the acceleration of magic particles since ancient times.^000000"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have discovered the ^990099Lava Essence Creation Method^000000. Please check your Quest window for more details.";
+msgctxt "Mysterious Documents"
+msgid "You have discovered the ^990099Lava Essence Creation Method^000000. Please check your Quest window for more details."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Nothing in this document looks useful.";
+msgctxt "Mysterious Documents"
+msgid "Nothing in this document looks useful."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^660066The essence of flame can be refined on stable ground on the 1st floor of the Thor's Volcano Dungeon. 10 Love Coals are necessary to refine the essence.^000000";
+msgctxt "Mysterious Documents"
+msgid "^660066The essence of flame can be refined on stable ground on the 1st floor of the Thor's Volcano Dungeon. 10 Love Coals are necessary to refine the essence.^000000"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^660066According to Humans' information, this essence constitutes one of the four natural elements.^000000";
+msgctxt "Mysterious Documents"
+msgid "^660066According to Humans' information, this essence constitutes one of the four natural elements.^000000"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have discovered the ^990099Flame Essence Creation Method^000000. Please check your Quest window for more details.";
+msgctxt "Mysterious Documents"
+msgid "You have discovered the ^990099Flame Essence Creation Method^000000. Please check your Quest window for more details."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^660066I succeeded in refining the essence of glacier deep inside the 3rd floor of the Ice Cave. If you'd like to try, prepare 10 Ice Hearts and go to the following location.^000000";
+msgctxt "Mysterious Documents"
+msgid "^660066I succeeded in refining the essence of glacier deep inside the 3rd floor of the Ice Cave. If you'd like to try, prepare 10 Ice Hearts and go to the following location.^000000"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have discovered the ^990099Glacier Essence Creation Method^000000. Please check your Quest window for more details.";
+msgctxt "Mysterious Documents"
+msgid "You have discovered the ^990099Glacier Essence Creation Method^000000. Please check your Quest window for more details."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^660066I was able to refine the essence of fossil from old rocks on the 2nd floor of the Mine Dungeon. So far, that place is the most stable among all the testing grounds.";
+msgctxt "Mysterious Documents"
+msgid "^660066I was able to refine the essence of fossil from old rocks on the 2nd floor of the Mine Dungeon. So far, that place is the most stable among all the testing grounds."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "If you'd like to try, prepare 10 Jubilees and go to the dungeon. Good luck.^000000";
+msgctxt "Mysterious Documents"
+msgid "If you'd like to try, prepare 10 Jubilees and go to the dungeon. Good luck.^000000"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have discovered the ^990099Fossil Essence Creation Method^000000. Please check your Quest window for more details.";
+msgctxt "Mysterious Documents"
+msgid "You have discovered the ^990099Fossil Essence Creation Method^000000. Please check your Quest window for more details."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^660066In order to refine the essence of storm, I visited the Hermit's Checkerboard in Kunlun where the spirit of the wind resides.";
+msgctxt "Mysterious Documents"
+msgid "^660066In order to refine the essence of storm, I visited the Hermit's Checkerboard in Kunlun where the spirit of the wind resides."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "The refining process was easy, but I had a hard time finding the catalyst, Dragon Teeth.^000000";
+msgctxt "Mysterious Documents"
+msgid "The refining process was easy, but I had a hard time finding the catalyst, Dragon Teeth.^000000"
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have discovered the ^990099Storm Essence Creation Method^000000. Please check your Quest window for more details.";
+msgctxt "Mysterious Documents"
+msgid "You have discovered the ^990099Storm Essence Creation Method^000000. Please check your Quest window for more details."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You suddenly feel sick, and this nausea won't go away easily. You should try finding the documents you need later.";
+msgctxt "Mysterious Documents"
+msgid "You suddenly feel sick, and this nausea won't go away easily. You should try finding the documents you need later."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Nothing here looks special.";
+msgctxt "Mysterious Documents"
+msgid "Nothing here looks special."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You no longer need to search this place.";
+msgctxt "Mysterious Documents"
+msgid "You no longer need to search this place."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Please lighten your bag.";
+msgctxt "Magic_Book_Essence"
+msgid "Please lighten your bag."
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You have used "+getarg(2)+" "+getitemname(getarg(1))+"s to create ^999900"+getarg(3)+" Essence^000000.";
+msgctxt "Magic_Book_Essence"
+msgid "You have used "
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^008800The "+getarg(3)+" Essence will last permanently, unless there's a problem.^000000";
+msgctxt "Magic_Book_Essence"
+msgid "^008800The "
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "^008888You have failed to refine the essence using "+getarg(2)+" "+getitemname(getarg(1))+"s.^000000";
+msgctxt "Magic_Book_Essence"
+msgid "^008888You have failed to refine the essence using "
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "You've already created "+getarg(3)+" Essence in this area.";
+msgctxt "Magic_Book_Essence"
+msgid "You've already created "
+msgstr ""
+
+#: npc/re/quests/magic_books.txt
+# mes "Someone already used this area.";
+msgctxt "Magic_Book_Essence"
+msgid "Someone already used this area."
+msgstr ""

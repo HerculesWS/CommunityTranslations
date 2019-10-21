@@ -1,0 +1,254 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/pile_bunker.txt
+# mes "[Gomer]";
+msgctxt "Gomer"
+msgid "[Gomer]"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "You are carrying so much. Drop off some of your luggage and come back to me.";
+msgctxt "Gomer"
+msgid "You are carrying so much. Drop off some of your luggage and come back to me."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "So how's that Pilebuncker working out for you?";
+msgctxt "Gomer"
+msgid "So how's that Pilebuncker working out for you?"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "I'm a retired Mechanic and I don't think I have any business with you.";
+msgctxt "Gomer"
+msgid "I'm a retired Mechanic and I don't think I have any business with you."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "So? What does it feel like to be on a Madogear?";
+msgctxt "Gomer"
+msgid "So? What does it feel like to be on a Madogear?"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "It's something that's not allowed for those who failed to seek out their own path.";
+msgctxt "Gomer"
+msgid "It's something that's not allowed for those who failed to seek out their own path."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Me? I retired a long time ago. Because I got into an accident... got badly hurt and won't be able to ride again. I am upset about it.";
+msgctxt "Gomer"
+msgid "Me? I retired a long time ago. Because I got into an accident... got badly hurt and won't be able to ride again. I am upset about it."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "So I've decided to stay here forging gears for Madogear.";
+msgctxt "Gomer"
+msgid "So I've decided to stay here forging gears for Madogear."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Huh? I'm not saying I have any complaints about this work.";
+msgctxt "Gomer"
+msgid "Huh? I'm not saying I have any complaints about this work."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Forced to do something you don't like, there is nothing more miserable than that.";
+msgctxt "Gomer"
+msgid "Forced to do something you don't like, there is nothing more miserable than that."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "There are people who are happy just being props, you know, like being the wall for someone to lean on.";
+msgctxt "Gomer"
+msgid "There are people who are happy just being props, you know, like being the wall for someone to lean on."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "That makes me feel good and I am about to make a new gear. I want you to help me. What do you say?";
+msgctxt "Gomer"
+msgid "That makes me feel good and I am about to make a new gear. I want you to help me. What do you say?"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# switch(select("I am not that interested.", "What are you going to make?", "Where do you get the materials?", "I brought the materials.")) {
+msgctxt "Gomer"
+msgid "I am not that interested."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# switch(select("I am not that interested.", "What are you going to make?", "Where do you get the materials?", "I brought the materials.")) {
+msgctxt "Gomer"
+msgid "What are you going to make?"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# switch(select("I am not that interested.", "What are you going to make?", "Where do you get the materials?", "I brought the materials.")) {
+msgctxt "Gomer"
+msgid "Where do you get the materials?"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# switch(select("I am not that interested.", "What are you going to make?", "Where do you get the materials?", "I brought the materials.")) {
+msgctxt "Gomer"
+msgid "I brought the materials."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Nothing I can do";
+msgctxt "Gomer"
+msgid "Nothing I can do"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "about it then.";
+msgctxt "Gomer"
+msgid "about it then."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "See you next time!";
+msgctxt "Gomer"
+msgid "See you next time!"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Um, a huge metal stick that could smash an opponent in one hit!";
+msgctxt "Gomer"
+msgid "Um, a huge metal stick that could smash an opponent in one hit!"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "It doesn't look fancy, but I've designed a spring-loaded device to attack with great strength.";
+msgctxt "Gomer"
+msgid "It doesn't look fancy, but I've designed a spring-loaded device to attack with great strength."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "It's concealed, so when you find a chance, one shot could put an opponent in critical condition!";
+msgctxt "Gomer"
+msgid "It's concealed, so when you find a chance, one shot could put an opponent in critical condition!"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "I can't wait to see it in action!";
+msgctxt "Gomer"
+msgid "I can't wait to see it in action!"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "If you were to imagine how good this kind of weapon could be, I will make it come true.";
+msgctxt "Gomer"
+msgid "If you were to imagine how good this kind of weapon could be, I will make it come true."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Bring me 200 Steel, 30 Flexible Tubes, and 1 Brocca. I could make what I just described with those materials.";
+msgctxt "Gomer"
+msgid "Bring me 200 Steel, 30 Flexible Tubes, and 1 Brocca. I could make what I just described with those materials."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "You should be able get steel from many monsters like Kobolds.";
+msgctxt "Gomer"
+msgid "You should be able get steel from many monsters like Kobolds."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Flexible Tubes are more rare, dropped by Metalings around Einbroch and Lighthalzen.";
+msgctxt "Gomer"
+msgid "Flexible Tubes are more rare, dropped by Metalings around Einbroch and Lighthalzen."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Lastly, finding a Brocca is very hard, but you should be able to do something about it. Haha, go get it!";
+msgctxt "Gomer"
+msgid "Lastly, finding a Brocca is very hard, but you should be able to do something about it. Haha, go get it!"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "You haven't brought all of the materials that I asked for.";
+msgctxt "Gomer"
+msgid "You haven't brought all of the materials that I asked for."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "I have a habit of giving up what I've been making and trying to make new things when the inspiration comes up.";
+msgctxt "Gomer"
+msgid "I have a habit of giving up what I've been making and trying to make new things when the inspiration comes up."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "You'd better hurry!";
+msgctxt "Gomer"
+msgid "You'd better hurry!"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Oh, I've been waiting. You didn't come on time, so I was wondering if you forgot about it. Please wait there a little bit.";
+msgctxt "Gomer"
+msgid "Oh, I've been waiting. You didn't come on time, so I was wondering if you forgot about it. Please wait there a little bit."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "It's done. What do you think? Not bad, eh? Although I made it myself, I have to say it's pretty decently done.";
+msgctxt "Gomer"
+msgid "It's done. What do you think? Not bad, eh? Although I made it myself, I have to say it's pretty decently done."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Combination of weight, volume and look at its color and gloss. It catches my heart!";
+msgctxt "Gomer"
+msgid "Combination of weight, volume and look at its color and gloss. It catches my heart!"
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "...........";
+msgctxt "Gomer"
+msgid "..........."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Uh, with little improvement, it could be mass produced and delivered. I'm sure I can make more of these so I will give this one to you.";
+msgctxt "Gomer"
+msgid "Uh, with little improvement, it could be mass produced and delivered. I'm sure I can make more of these so I will give this one to you."
+msgstr ""
+
+#: npc/re/quests/pile_bunker.txt
+# mes "Oh, and it turns out that I didn't need all that Steel after all. So here, take most of it back.";
+msgctxt "Gomer"
+msgid "Oh, and it turns out that I didn't need all that Steel after all. So here, take most of it back."
+msgstr ""

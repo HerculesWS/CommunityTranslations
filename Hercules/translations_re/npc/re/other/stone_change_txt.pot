@@ -1,0 +1,134 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/other/stone_change.txt
+# mes "[Ore Tester Sorty]";
+msgctxt "Ore Tester#sorty"
+msgid "[Ore Tester Sorty]"
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "Do you have ^3131FFany same type of ores in your inventories^000000 which take many spaces?";
+msgctxt "Ore Tester#sorty"
+msgid "Do you have ^3131FFany same type of ores in your inventories^000000 which take many spaces?"
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "I can distinguish your ores and organize them right away~!";
+msgctxt "Ore Tester#sorty"
+msgid "I can distinguish your ores and organize them right away~!"
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# switch(select("Refine my Ore.", "Cancel.")) {
+msgctxt "Ore Tester#sorty"
+msgid "Refine my Ore."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# switch(select("Refine my Ore.", "Cancel.")) {
+msgctxt "Ore Tester#sorty"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "At the moment I can only distinguish ^FF0000Steel^000000, ^FF0000Iron^000000, ^FF0000Iron Ore^000000, and ^FF0000Rough Oridecon^000000 and organize them.";
+msgctxt "Ore Tester#sorty"
+msgid "At the moment I can only distinguish ^FF0000Steel^000000, ^FF0000Iron^000000, ^FF0000Iron Ore^000000, and ^FF0000Rough Oridecon^000000 and organize them."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "Please note that ^3131FFother items are unable^000000!";
+msgctxt "Ore Tester#sorty"
+msgid "Please note that ^3131FFother items are unable^000000!"
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "So, would you like me to organize your ores?";
+msgctxt "Ore Tester#sorty"
+msgid "So, would you like me to organize your ores?"
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+msgctxt "Ore Tester#sorty"
+msgid "Steel, please."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+msgctxt "Ore Tester#sorty"
+msgid "Iron, please."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+msgctxt "Ore Tester#sorty"
+msgid "Iron Ore, please."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+msgctxt "Ore Tester#sorty"
+msgid "Rough Oridecon, please."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# .@i = select("Steel, please.", "Iron, please.", "Iron Ore, please.", "Rough Oridecon, please.", "No, thanks.");
+msgctxt "Ore Tester#sorty"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "Huh, I really hate messy people!";
+msgctxt "Ore Tester#sorty"
+msgid "Huh, I really hate messy people!"
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "You don't have any "+getitemname(.@item)+"...";
+msgctxt "Ore Tester#sorty"
+msgid "You don't have any "
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "It's done. Looks great! Don't you think so?";
+msgctxt "Ore Tester#sorty"
+msgid "It's done. Looks great! Don't you think so?"
+msgstr ""
+
+#: npc/re/other/stone_change.txt
+# mes "It seems that your bag is clean? Huhu! You might be the master of cleaning!";
+msgctxt "Ore Tester#sorty"
+msgid "It seems that your bag is clean? Huhu! You might be the master of cleaning!"
+msgstr ""

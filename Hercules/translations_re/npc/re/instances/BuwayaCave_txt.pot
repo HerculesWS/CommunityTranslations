@@ -1,0 +1,589 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("[Guard]");
+msgctxt "Guard#buwaya_cave"
+msgid "[Guard]"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("People under ^ff0000level 130^000000");
+msgctxt "Guard#buwaya_cave"
+msgid "People under ^ff0000level 130^000000"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("cannot enter this place.");
+msgctxt "Guard#buwaya_cave"
+msgid "cannot enter this place."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("This place is dangerous. Please go back.");
+msgctxt "Guard#buwaya_cave"
+msgid "This place is dangerous. Please go back."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# .@md_name$ = _("Buwaya Cave");
+msgctxt "Guard#buwaya_cave"
+msgid "Buwaya Cave"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Buwaya is dangerous.");
+msgctxt "Guard#buwaya_cave"
+msgid "Buwaya is dangerous."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Please come back after you form a");
+msgctxt "Guard#buwaya_cave"
+msgid "Please come back after you form a"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("team with other people.");
+msgctxt "Guard#buwaya_cave"
+msgid "team with other people."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("If you dont have any business here, please go back.");
+msgctxt "Guard#buwaya_cave"
+msgid "If you dont have any business here, please go back."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Why is it so dangerous?", "I'm here to hunt down Buwaya.", "End conversation.")) {
+msgctxt "Guard#buwaya_cave"
+msgid "Why is it so dangerous?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Why is it so dangerous?", "I'm here to hunt down Buwaya.", "End conversation.")) {
+msgctxt "Guard#buwaya_cave"
+msgid "I'm here to hunt down Buwaya."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Why is it so dangerous?", "I'm here to hunt down Buwaya.", "End conversation.")) {
+msgctxt "Guard#buwaya_cave"
+msgid "End conversation."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Recently, there has been a case");
+msgctxt "Guard#buwaya_cave"
+msgid "Recently, there has been a case"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("where villagers have disappeared.");
+msgctxt "Guard#buwaya_cave"
+msgid "where villagers have disappeared."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("After investigating the tracks, ");
+msgctxt "Guard#buwaya_cave"
+msgid "After investigating the tracks, "
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("we found out the giant monster Buwaya");
+msgctxt "Guard#buwaya_cave"
+msgid "we found out the giant monster Buwaya"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("was responsible.");
+msgctxt "Guard#buwaya_cave"
+msgid "was responsible."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Soldiers and mercenaries have been dispatched to ");
+msgctxt "Guard#buwaya_cave"
+msgid "Soldiers and mercenaries have been dispatched to "
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("hunt down Buwaya, but were never");
+msgctxt "Guard#buwaya_cave"
+msgid "hunt down Buwaya, but were never"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("completely successful.");
+msgctxt "Guard#buwaya_cave"
+msgid "completely successful."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Buwaya is still kidnapping");
+msgctxt "Guard#buwaya_cave"
+msgid "Buwaya is still kidnapping"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("the villagers to this day.");
+msgctxt "Guard#buwaya_cave"
+msgid "the villagers to this day."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Please gather some people to get rid of Buwaya.");
+msgctxt "Guard#buwaya_cave"
+msgid "Please gather some people to get rid of Buwaya."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Buwaya is still hiding.");
+msgctxt "Guard#buwaya_cave"
+msgid "Buwaya is still hiding."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Even if you enter now, Buwaya will not come out. ");
+msgctxt "Guard#buwaya_cave"
+msgid "Even if you enter now, Buwaya will not come out. "
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Please come back later.");
+msgctxt "Guard#buwaya_cave"
+msgid "Please come back later."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mesf("Party name is... %s.", getpartyname(.@party_id));
+#, c-format
+msgctxt "Guard#buwaya_cave"
+msgid "Party name is... %s."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mesf("Party leader is... %s", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Guard#buwaya_cave"
+msgid "Party leader is... %s"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mesf("^0000ff%s^000000 cannot be opened now.", .@md_name$);
+#, c-format
+msgctxt "Guard#buwaya_cave"
+msgid "^0000ff%s^000000 cannot be opened now."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Please try a moment later.");
+msgctxt "Guard#buwaya_cave"
+msgid "Please try a moment later."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mesf("I will open up the tunnel to ^0000ff%s^000000.", .@md_name$);
+#, c-format
+msgctxt "Guard#buwaya_cave"
+msgid "I will open up the tunnel to ^0000ff%s^000000."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("I wish you good luck.");
+msgctxt "Guard#buwaya_cave"
+msgid "I wish you good luck."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("This place is dangerous. You cannot enter.");
+msgctxt "Guard#buwaya_cave"
+msgid "This place is dangerous. You cannot enter."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Let me talk with the party leader.");
+msgctxt "Guard#buwaya_cave"
+msgid "Let me talk with the party leader."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Please call forth the leader.");
+msgctxt "Guard#buwaya_cave"
+msgid "Please call forth the leader."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("[Guard]");
+msgctxt "Cave Entrance#buwaya"
+msgid "[Guard]"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("People under ^ff0000level 130^000000");
+msgctxt "Cave Entrance#buwaya"
+msgid "People under ^ff0000level 130^000000"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("cannot enter this place.");
+msgctxt "Cave Entrance#buwaya"
+msgid "cannot enter this place."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("This place is dangerous. Please go back.");
+msgctxt "Cave Entrance#buwaya"
+msgid "This place is dangerous. Please go back."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Buwaya is still hiding.");
+msgctxt "Cave Entrance#buwaya"
+msgid "Buwaya is still hiding."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Even if you enter now, Buwaya will not come out.");
+msgctxt "Cave Entrance#buwaya"
+msgid "Even if you enter now, Buwaya will not come out."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Please come back later.");
+msgctxt "Cave Entrance#buwaya"
+msgid "Please come back later."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Enter.", "Turn back.")) {
+msgctxt "Cave Entrance#buwaya"
+msgid "Enter."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Enter.", "Turn back.")) {
+msgctxt "Cave Entrance#buwaya"
+msgid "Turn back."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("The memorial dungeon Buwaya Cave does not exist.");
+msgctxt "Cave Entrance#buwaya"
+msgid "The memorial dungeon Buwaya Cave does not exist."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("The party leader did not generate the dungeon yet.");
+msgctxt "Cave Entrance#buwaya"
+msgid "The party leader did not generate the dungeon yet."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce("ma_fild02", sprintf(_$("%s party's %s member began hunting Buwaya in Buwaya Cave."), getpartyname(getcharid(CHAR_ID_PARTY)), strcharinfo(PC_NAME)), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+#, c-format
+msgctxt "Cave Entrance#buwaya"
+msgid "%s party's %s member began hunting Buwaya in Buwaya Cave."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("You must value your life.");
+msgctxt "Cave Entrance#buwaya"
+msgid "You must value your life."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("It is better to think carefully before you act.");
+msgctxt "Cave Entrance#buwaya"
+msgid "It is better to think carefully before you act."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("[Kidnapped Residents]");
+msgctxt "Kidnapped People#1"
+msgid "[Kidnapped Residents]"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Buwaya was running around,");
+msgctxt "Kidnapped People#1"
+msgid "Buwaya was running around,"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("and new people got caught.");
+msgctxt "Kidnapped People#1"
+msgid "and new people got caught."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("We will be stuck in here for the rest of our lives.");
+msgctxt "Kidnapped People#1"
+msgid "We will be stuck in here for the rest of our lives."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Get me outta here!!", "Ca...can't escape?")) {
+msgctxt "Kidnapped People#1"
+msgid "Get me outta here!!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Get me outta here!!", "Ca...can't escape?")) {
+msgctxt "Kidnapped People#1"
+msgid "Ca...can't escape?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("We don't have enough power to destroy it but Buwaya has a weakness.");
+msgctxt "Kidnapped People#1"
+msgid "We don't have enough power to destroy it but Buwaya has a weakness."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Look at the wall over there.");
+msgctxt "Kidnapped People#1"
+msgid "Look at the wall over there."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("If you knock there, Buywaya will feel pain and spit you out.");
+msgctxt "Kidnapped People#1"
+msgid "If you knock there, Buywaya will feel pain and spit you out."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("[Kidnapped People]");
+msgctxt "Kidnapped People#1"
+msgid "[Kidnapped People]"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Somthing is wrong here...");
+msgctxt "Kidnapped People#1"
+msgid "Somthing is wrong here..."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Have you experienced this before?");
+msgctxt "Kidnapped People#1"
+msgid "Have you experienced this before?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("[Kidnapped Residents]");
+msgctxt "Kidnapped People#2"
+msgid "[Kidnapped Residents]"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Ahaa! I wish I had a little more power...");
+msgctxt "Kidnapped People#2"
+msgid "Ahaa! I wish I had a little more power..."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("I know its weakness...");
+msgctxt "Kidnapped People#2"
+msgid "I know its weakness..."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Tell me.", "Do you really know?")) {
+msgctxt "Kidnapped People#2"
+msgid "Tell me."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# switch (select("Tell me.", "Do you really know?")) {
+msgctxt "Kidnapped People#2"
+msgid "Do you really know?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Are you sure you can do it...?");
+msgctxt "Kidnapped People#2"
+msgid "Are you sure you can do it...?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Ok, listen carefully,");
+msgctxt "Kidnapped People#2"
+msgid "Ok, listen carefully,"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("its weakness is...");
+msgctxt "Kidnapped People#2"
+msgid "its weakness is..."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("...behind us on the walls.");
+msgctxt "Kidnapped People#2"
+msgid "...behind us on the walls."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("WHAT?!");
+msgctxt "Kidnapped People#2"
+msgid "WHAT?!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Are you ignoring me");
+msgctxt "Kidnapped People#2"
+msgid "Are you ignoring me"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("because I'm captured in here?");
+msgctxt "Kidnapped People#2"
+msgid "because I'm captured in here?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# monster(.@map$, 30, 118, _("Buwaya's Weakness"), BUWAYA_WEAK, 1, .@label$);
+msgctxt "#box_mob_call"
+msgid "Buwaya's Weakness"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(instance_mapname("1@ma_c"), _("Buwaya : I will put you in my treasure box!"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#box_call"
+msgid "Buwaya : I will put you in my treasure box!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(instance_mapname("1@ma_c"), _("Buwaya : I had enough with this, let's go till the end!"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#bunshin"
+msgid "Buwaya : I had enough with this, let's go till the end!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(instance_mapname("1@ma_c"), _("Buwaya : This is!"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#bunshin"
+msgid "Buwaya : This is!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(instance_mapname("1@ma_c"), _("Buwaya : This is...MY!"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#bunshin"
+msgid "Buwaya : This is...MY!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(instance_mapname("1@ma_c"), _("Buwaya : This is...MY...Deadly!"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#bunshin"
+msgid "Buwaya : This is...MY...Deadly!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(instance_mapname("1@ma_c"), _("Buwaya : This is...MY...Deadly... ATTACK!"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#bunshin"
+msgid "Buwaya : This is...MY...Deadly... ATTACK!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# areamonster(.@map$, 112, 89, 122, 99, _("Buwaya"), BUWAYA_GHOST, 1, .@label$);
+msgctxt "#bunshin"
+msgid "Buwaya"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(instance_mapname("1@ma_c"), _("Buwaya : Are you scared?"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#bunshin"
+msgid "Buwaya : Are you scared?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# areamonster(instance_mapname("1@ma_c"), 90, 67, 104, 81, _("Buwaya"), BUWAYA, 1, instance_npcname("#buwaya_con")+"::OnMyMobDead");
+msgctxt "#buwaya_con"
+msgid "Buwaya"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mapannounce(.@map$, _("Guard : You did great work. Please hurry up and escape to the way you came in!"), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+msgctxt "#buwaya_con"
+msgid "Guard : You did great work. Please hurry up and escape to the way you came in!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# areamonster(.@map$, 43, 58, 47, 60, _("Water Plant"), MA_SEAW, .@amount, .@label$);
+msgctxt "#exit_mob"
+msgid "Water Plant"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# areamonster(.@map$, 43, 58, 47, 60, _("Egg"), BUWAYA_EGG, .@amount, .@label$);
+msgctxt "#exit_mob"
+msgid "Egg"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# mes("Would like to go out?");
+msgctxt "#cave_out"
+msgid "Would like to go out?"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# if (select("Yes!", "No, I will stay.") == 1)
+msgctxt "#cave_out"
+msgid "Yes!"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# if (select("Yes!", "No, I will stay.") == 1)
+msgctxt "#cave_out"
+msgid "No, I will stay."
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# areamonster(.@map$, 73, 81, 93, 101, _("Seaweed"), MA_SEAW, 18);
+msgctxt "#buwaya_spawn_mobs"
+msgid "Seaweed"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# areamonster(.@map$, 73, 81, 93, 101, _("Buwaya's Egg"), BUWAYA_EGG, 10);
+msgctxt "#buwaya_spawn_mobs"
+msgid "Buwaya's Egg"
+msgstr ""
+
+#: npc/re/instances/BuwayaCave.txt
+# monster(.@map$, 0, 0, _("Buwaya's Slave"), BUWAYA_SLAVE, 5);
+msgctxt "#buwaya_spawn_mobs"
+msgid "Buwaya's Slave"
+msgstr ""

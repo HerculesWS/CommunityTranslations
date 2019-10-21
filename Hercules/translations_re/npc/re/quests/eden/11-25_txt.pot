@@ -1,0 +1,338 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/eden/11-25.txt
+# mes "- You need to have an -";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "- You need to have an -"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "- ^4d4dff'Eden Group Mark'^000000 -";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "- ^4d4dff'Eden Group Mark'^000000 -"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "- to receive these missions. -";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "- to receive these missions. -"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - You must collect your - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - You must collect your - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - reward before starting - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - reward before starting - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - a new mission. - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - a new mission. - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - Manager : Spike - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - Manager : Spike - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - You can only request - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - You can only request - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - one mission at a time. - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - one mission at a time. - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - There are no tasks - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - There are no tasks - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - open for you right now. - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - open for you right now. - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - These missions are too - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - These missions are too - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - easy for your caliber - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - easy for your caliber - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - search for a more level - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - search for a more level - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - appropriate mission. - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - appropriate mission. - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - Mission bulletin board -";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - Mission bulletin board -"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - for beginners. -";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - for beginners. -"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - Manager : Spike -";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - Manager : Spike -"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Hornet Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Condor Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Grasshopper's Leg"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Worm Tail Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Spore Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Pest Control"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Muka Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Familiar Hunting"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Collect Feathers"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Collect Poison Spores"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# switch(select("Hornet Hunting", "Condor Hunting", "Grasshopper's Leg", "Worm Tail Hunting", "Spore Hunting", "Pest Control", "Muka Hunting", "Familiar Hunting", "Collect Feathers", "Collect Poison Spores", "Cancel")) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# case 11: mes " - Stop reading the bulletin board. - "; close;
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - Stop reading the bulletin board. - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - Mission ^4d4dff"+getarg(1)+"^000000 - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - Mission ^4d4dff"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - is already finished for today. - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - is already finished for today. - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - Mission '"+getarg(1)+"' - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - Mission '"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# if(select("I will do this mission.", "Look for other missions.") == 2) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "I will do this mission."
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# if(select("I will do this mission.", "Look for other missions.") == 2) {
+msgctxt "Mission [11 - 25]#Tuto"
+msgid "Look for other missions."
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - Let's search for -";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - Let's search for -"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes " - other missions. - ";
+msgctxt "Mission [11 - 25]#Tuto"
+msgid " - other missions. - "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "[Spike]";
+msgctxt "Spike"
+msgid "[Spike]"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "You haven't finished your mission yet.";
+msgctxt "Spike"
+msgid "You haven't finished your mission yet."
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "Keep up the good work. You are almost done.";
+msgctxt "Spike"
+msgid "Keep up the good work. You are almost done."
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "Are you looking for a job?";
+msgctxt "Spike"
+msgid "Are you looking for a job?"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "We always have lots of work to do.";
+msgctxt "Spike"
+msgid "We always have lots of work to do."
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "Why don't you look around and find some interesting tasks?";
+msgctxt "Spike"
+msgid "Why don't you look around and find some interesting tasks?"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "You don't have enough "+getitemname(getarg(3))+".";
+msgctxt "Spike"
+msgid "You don't have enough "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "You need to bring "+getarg(4)+" "+getitemname(getarg(3))+".";
+msgctxt "Spike"
+msgid "You need to bring "
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "Hmm... let me see~";
+msgctxt "Spike"
+msgid "Hmm... let me see~"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "You have completed the '"+getarg(1)+"' mission.";
+msgctxt "Spike"
+msgid "You have completed the '"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "Good work~!!";
+msgctxt "Spike"
+msgid "Good work~!!"
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "Our client is so happy with your work. He will appreciate what you have done.";
+msgctxt "Spike"
+msgid "Our client is so happy with your work. He will appreciate what you have done."
+msgstr ""
+
+#: npc/re/quests/eden/11-25.txt
+# mes "Please help us again. Thanks!";
+msgctxt "Spike"
+msgid "Please help us again. Thanks!"
+msgstr ""

@@ -1,0 +1,2354 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You have too many kinds of objects. Let's try to continue after reducing those objects.";
+msgctxt "Coin Exchanger CX-1"
+msgid "You have too many kinds of objects. Let's try to continue after reducing those objects."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Can't continue because you have too many heavy objects. Let's try to continue after reducing the weight.";
+msgctxt "Coin Exchanger CX-1"
+msgid "Can't continue because you have too many heavy objects. Let's try to continue after reducing the weight."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Coin Exchanger CX-1]";
+msgctxt "Coin Exchanger CX-1"
+msgid "[Coin Exchanger CX-1]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Welcome to CX-1. If you have coins, you can exchange them to high or low grade coins.";
+msgctxt "Coin Exchanger CX-1"
+msgid "Welcome to CX-1. If you have coins, you can exchange them to high or low grade coins."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Thank you for coming.";
+msgctxt "Coin Exchanger CX-1"
+msgid "Thank you for coming."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You chose a coin that you don't have.";
+msgctxt "Coin Exchanger CX-1"
+msgid "You chose a coin that you don't have."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "----Rate of exchange----";
+msgctxt "Coin Exchanger CX-1"
+msgid "----Rate of exchange----"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Higher exchange - 30 to 10";
+msgctxt "Coin Exchanger CX-1"
+msgid "Higher exchange - 30 to 10"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Lower exchange - 10 to 30";
+msgctxt "Coin Exchanger CX-1"
+msgid "Lower exchange - 10 to 30"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "------------------------";
+msgctxt "Coin Exchanger CX-1"
+msgid "------------------------"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^ff3333When you exchange, we charge a fee according to the current market price.^000000";
+msgctxt "Coin Exchanger CX-1"
+msgid "^ff3333When you exchange, we charge a fee according to the current market price.^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This coin is not available to exchange to "+.@exchange_name$[.@i]+" coin.";
+msgctxt "Coin Exchanger CX-1"
+msgid "This coin is not available to exchange to "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This coin is not available to exchange to "+.@exchange_name$[.@i]+" coin.";
+msgctxt "Coin Exchanger CX-1"
+msgid " coin."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You don't have enough coins to exchange to "+.@exchange_name$[.@i]+" coin.";
+msgctxt "Coin Exchanger CX-1"
+msgid "You don't have enough coins to exchange to "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^003399"+.@exchange_rate[.@i]+"^000000 unit(s) of ^003399 "+getitemname(.@coin)+"^000000 taken.";
+msgctxt "Coin Exchanger CX-1"
+msgid "^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^003399"+.@exchange_rate[.@i]+"^000000 unit(s) of ^003399 "+getitemname(.@coin)+"^000000 taken.";
+msgctxt "Coin Exchanger CX-1"
+msgid "^000000 unit(s) of ^003399 "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I exchanged them for ^003399"+.@exchange_name$[.@i]+" coins^000000, after deducting ^003399"+.@exchange_loss[(!.@i)]+"^000000 unit(s), ^003399"+.@exchange_total+"^000000 unit(s) remaining.";
+msgctxt "Coin Exchanger CX-1"
+msgid "I exchanged them for ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I exchanged them for ^003399"+.@exchange_name$[.@i]+" coins^000000, after deducting ^003399"+.@exchange_loss[(!.@i)]+"^000000 unit(s), ^003399"+.@exchange_total+"^000000 unit(s) remaining.";
+msgctxt "Coin Exchanger CX-1"
+msgid " coins^000000, after deducting ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I exchanged them for ^003399"+.@exchange_name$[.@i]+" coins^000000, after deducting ^003399"+.@exchange_loss[(!.@i)]+"^000000 unit(s), ^003399"+.@exchange_total+"^000000 unit(s) remaining.";
+msgctxt "Coin Exchanger CX-1"
+msgid "^000000 unit(s), ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I exchanged them for ^003399"+.@exchange_name$[.@i]+" coins^000000, after deducting ^003399"+.@exchange_loss[(!.@i)]+"^000000 unit(s), ^003399"+.@exchange_total+"^000000 unit(s) remaining.";
+msgctxt "Coin Exchanger CX-1"
+msgid "^000000 unit(s) remaining."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You have too many kinds of objects. Let's try to continue after reducing those objects.";
+msgctxt "Special Vending Machine"
+msgid "You have too many kinds of objects. Let's try to continue after reducing those objects."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Can't continue because you have too many heavy objects. Let's try to continue after reducing the weight.";
+msgctxt "Special Vending Machine"
+msgid "Can't continue because you have too many heavy objects. Let's try to continue after reducing the weight."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Special Vending Machine]";
+msgctxt "Special Vending Machine"
+msgid "[Special Vending Machine]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Welcome to CX-82. You have a Silvervine Fruit, so you can purchase the Malangdo Specialty that has special ability.";
+msgctxt "Special Vending Machine"
+msgid "Welcome to CX-82. You have a Silvervine Fruit, so you can purchase the Malangdo Specialty that has special ability."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Seagod's Protection is an item used for entering the Culvert memorial dungeon during a certain period.";
+msgctxt "Special Vending Machine"
+msgid "Seagod's Protection is an item used for entering the Culvert memorial dungeon during a certain period."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Octopus Hunting Stick is an item used for entering the Culvert memorial dungeon during a certain period.";
+msgctxt "Special Vending Machine"
+msgid "Octopus Hunting Stick is an item used for entering the Culvert memorial dungeon during a certain period."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Premium and Ordinary Lubricant are items used for separation of equipment and cards. If you visit the specialist Jeremy with either item, he will explain more details of the effects.";
+msgctxt "Special Vending Machine"
+msgid "Premium and Ordinary Lubricant are items used for separation of equipment and cards. If you visit the specialist Jeremy with either item, he will explain more details of the effects."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Sillit Pong is special item that separates sockets with MVP cards. Unable to separate MVP card by Premium and Ordinary Lubricant.";
+msgctxt "Special Vending Machine"
+msgid "Sillit Pong is special item that separates sockets with MVP cards. Unable to separate MVP card by Premium and Ordinary Lubricant."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You choose ^005500"+getarg(.@i*3)+"^000000. For purchasing, you need ^005500"+.@cost+"^000000 unit(s) of Silvervine Fruit.";
+msgctxt "Special Vending Machine"
+msgid "You choose ^005500"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("Stop", ""+.@ven_menu$)) {
+msgctxt "Special Vending Machine"
+msgid "Stop"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Thank you for coming.";
+msgctxt "Special Vending Machine"
+msgid "Thank you for coming."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Not enough Silvervine Fruit.";
+msgctxt "Special Vending Machine"
+msgid "Not enough Silvervine Fruit."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Closing the transaction.";
+msgctxt "Special Vending Machine"
+msgid "Closing the transaction."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "The transaction is completed. Thank you for coming.";
+msgctxt "Special Vending Machine"
+msgid "The transaction is completed. Thank you for coming."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It seems you have too much in your inventory. Let's try again after getting rid of some of your belongings.";
+msgctxt "Dark Merchant K"
+msgid "It seems you have too much in your inventory. Let's try again after getting rid of some of your belongings."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Your inventory is too heavy now. Please come back after getting rid of some of your belongings.";
+msgctxt "Dark Merchant K"
+msgid "Your inventory is too heavy now. Please come back after getting rid of some of your belongings."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Merchant K]";
+msgctxt "Dark Merchant K"
+msgid "[Merchant K]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Thank you for the trade.";
+msgctxt "Dark Merchant K"
+msgid "Thank you for the trade."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "We exchange ^ff000010 C Grade Coin^000000 to ^3333ff1 Mora Coin^000000. Shall we begin then?";
+msgctxt "Dark Merchant K"
+msgid "We exchange ^ff000010 C Grade Coin^000000 to ^3333ff1 Mora Coin^000000. Shall we begin then?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@i = select(.@menu$+"Quit")-1;
+msgctxt "Dark Merchant K"
+msgid "Quit"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Let's exchange some other time.";
+msgctxt "Dark Merchant K"
+msgid "Let's exchange some other time."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You need ^ff0000"+.@coin_amount[.@i]+"^000000 C Grade Coin to perform the exchange. But you don't seem to have enough now.";
+msgctxt "Dark Merchant K"
+msgid "You need ^ff0000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You need ^ff0000"+.@coin_amount[.@i]+"^000000 C Grade Coin to perform the exchange. But you don't seem to have enough now.";
+msgctxt "Dark Merchant K"
+msgid "^000000 C Grade Coin to perform the exchange. But you don't seem to have enough now."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "C Grade Coin ^003399"+.@coin_amount[.@i]+"^000000 well received."; //FIXME: Dialogue.
+msgctxt "Dark Merchant K"
+msgid "C Grade Coin ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "C Grade Coin ^003399"+.@coin_amount[.@i]+"^000000 well received."; //FIXME: Dialogue.
+msgctxt "Dark Merchant K"
+msgid "^000000 well received."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Exchanged to ^003399"+(.@coin_amount[.@i]/10)+"^000000 Mora Coin.";
+msgctxt "Dark Merchant K"
+msgid "Exchanged to ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Exchanged to ^003399"+(.@coin_amount[.@i]/10)+"^000000 Mora Coin.";
+msgctxt "Dark Merchant K"
+msgid "^000000 Mora Coin."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Would you like to continue?";
+msgctxt "Dark Merchant K"
+msgid "Would you like to continue?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It seems you have too much in your inventory. Let's try again after getting rid of some of your belongings.";
+msgctxt "Dark MachineTX100"
+msgid "It seems you have too much in your inventory. Let's try again after getting rid of some of your belongings."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Your inventory is too heavy now. Please come back after getting rid of some of your belongings.";
+msgctxt "Dark MachineTX100"
+msgid "Your inventory is too heavy now. Please come back after getting rid of some of your belongings."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Dark Machine TX100]";
+msgctxt "Dark MachineTX100"
+msgid "[Dark Machine TX100]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Thank you for visiting TX100. You can exchange coins into higher or lower level coins.";
+msgctxt "Dark MachineTX100"
+msgid "Thank you for visiting TX100. You can exchange coins into higher or lower level coins."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "For a lower level coin exchange you can do 500 as a 1 time maximum, and for higher level coin exchange you can do 99 as a 1 time maximum.";
+msgctxt "Dark MachineTX100"
+msgid "For a lower level coin exchange you can do 500 as a 1 time maximum, and for higher level coin exchange you can do 99 as a 1 time maximum."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Thank you for coming.";
+msgctxt "Dark MachineTX100"
+msgid "Thank you for coming."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You've chosen abnormal menu.";
+msgctxt "Dark MachineTX100"
+msgid "You've chosen abnormal menu."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Aborting process. Thank you for coming.";
+msgctxt "Dark MachineTX100"
+msgid "Aborting process. Thank you for coming."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You chose a coin that you don't have.";
+msgctxt "Dark MachineTX100"
+msgid "You chose a coin that you don't have."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "----Exchange Rate----";
+msgctxt "Dark MachineTX100"
+msgid "----Exchange Rate----"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Higher Coin - 3 to 1";
+msgctxt "Dark MachineTX100"
+msgid "Higher Coin - 3 to 1"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Lower Coin - 1 to 3";
+msgctxt "Dark MachineTX100"
+msgid "Lower Coin - 1 to 3"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "---------------------";
+msgctxt "Dark MachineTX100"
+msgid "---------------------"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^ff3333We take a small vendor fee from your exchanged coins.^000000";
+msgctxt "Dark MachineTX100"
+msgid "^ff3333We take a small vendor fee from your exchanged coins.^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This coin cannot be exchanged to a "+.@exchange_name$[.@i]+" level coin.";
+msgctxt "Dark MachineTX100"
+msgid "This coin cannot be exchanged to a "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This coin cannot be exchanged to a "+.@exchange_name$[.@i]+" level coin.";
+msgctxt "Dark MachineTX100"
+msgid " level coin."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You have not enough coins for a "+.@exchange_name$[.@i]+" level coin exchange.";
+msgctxt "Dark MachineTX100"
+msgid "You have not enough coins for a "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You have not enough coins for a "+.@exchange_name$[.@i]+" level coin exchange.";
+msgctxt "Dark MachineTX100"
+msgid " level coin exchange."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You have too many "+.@exchange_name$[.@i]+" level coins already. Please come back with less coins.";
+msgctxt "Dark MachineTX100"
+msgid "You have too many "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You have too many "+.@exchange_name$[.@i]+" level coins already. Please come back with less coins.";
+msgctxt "Dark MachineTX100"
+msgid " level coins already. Please come back with less coins."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Received ^003399"+getitemname(.@coin)+"^000000 for ^003399"+.@payment_amount+"^000000 unit(s).";
+msgctxt "Dark MachineTX100"
+msgid "Received ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "We have excanged your coin to ^003399"+(.@reward_amount-.@fee)+"^000000 unit(s) of ^003399"+.@coin_text$+" Level Coin^000000, deducted ^003399"+.@fee+"^000000 unit(s) as exchanging fee.";
+msgctxt "Dark MachineTX100"
+msgid "We have excanged your coin to ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "We have excanged your coin to ^003399"+(.@reward_amount-.@fee)+"^000000 unit(s) of ^003399"+.@coin_text$+" Level Coin^000000, deducted ^003399"+.@fee+"^000000 unit(s) as exchanging fee.";
+msgctxt "Dark MachineTX100"
+msgid "^000000 unit(s) of ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "We have excanged your coin to ^003399"+(.@reward_amount-.@fee)+"^000000 unit(s) of ^003399"+.@coin_text$+" Level Coin^000000, deducted ^003399"+.@fee+"^000000 unit(s) as exchanging fee.";
+msgctxt "Dark MachineTX100"
+msgid " Level Coin^000000, deducted ^003399"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "We have excanged your coin to ^003399"+(.@reward_amount-.@fee)+"^000000 unit(s) of ^003399"+.@coin_text$+" Level Coin^000000, deducted ^003399"+.@fee+"^000000 unit(s) as exchanging fee.";
+msgctxt "Dark MachineTX100"
+msgid "^000000 unit(s) as exchanging fee."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You seem to have too many items. Give it a try after sorting out the item kinds.";
+msgctxt "Can Agency Guard"
+msgid "You seem to have too many items. Give it a try after sorting out the item kinds."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You're not likely to be able to go on due to the heavy items you've got. Give it a try after lightening the weight.";
+msgctxt "Can Agency Guard"
+msgid "You're not likely to be able to go on due to the heavy items you've got. Give it a try after lightening the weight."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Can Agency Guard]";
+msgctxt "Can Agency Guard"
+msgid "[Can Agency Guard]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Hey, you there... Have you seen any ^0000ffMalangdo Cat Can^000000s around here?";
+msgctxt "Can Agency Guard"
+msgid "Hey, you there... Have you seen any ^0000ffMalangdo Cat Can^000000s around here?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("Why are you asking?", "Oh, you mean these?")) {
+msgctxt "Can Agency Guard"
+msgid "Why are you asking?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("Why are you asking?", "Oh, you mean these?")) {
+msgctxt "Can Agency Guard"
+msgid "Oh, you mean these?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Umm.";
+msgctxt "Can Agency Guard"
+msgid "Umm."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "We at the Can Agency recently got some suspicious intelligence about them...";
+msgctxt "Can Agency Guard"
+msgid "We at the Can Agency recently got some suspicious intelligence about them..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "There were faulty products in bulk on the can production line for Malangdo specialty. These products, to be discarded, seem to have fallen into a retail dealer's hands.";
+msgctxt "Can Agency Guard"
+msgid "There were faulty products in bulk on the can production line for Malangdo specialty. These products, to be discarded, seem to have fallen into a retail dealer's hands."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Actually they were hard to distinguish from normal products. But it obviously says ^0000ffMalangdo Cat Can^000000 outside.";
+msgctxt "Can Agency Guard"
+msgid "Actually they were hard to distinguish from normal products. But it obviously says ^0000ffMalangdo Cat Can^000000 outside."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "As faulty products are moving around on the market, we've been collecting them as is our duty. Have you ever seen anyone who has things like what I'm describing?";
+msgctxt "Can Agency Guard"
+msgid "As faulty products are moving around on the market, we've been collecting them as is our duty. Have you ever seen anyone who has things like what I'm describing?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "If you find anyone selling these products, please come and tell me.";
+msgctxt "Can Agency Guard"
+msgid "If you find anyone selling these products, please come and tell me."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Umm? I cannot see the ^0000ffMalangdo Cat Can^000000 from you. Don't forget to bring it to me if you've found out...";
+msgctxt "Can Agency Guard"
+msgid "Umm? I cannot see the ^0000ffMalangdo Cat Can^000000 from you. Don't forget to bring it to me if you've found out..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "The Malangdo Cat Can is a faulty product. Let me exchange it to 3 E Grade Coins. How about that?";
+msgctxt "Can Agency Guard"
+msgid "The Malangdo Cat Can is a faulty product. Let me exchange it to 3 E Grade Coins. How about that?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("I won't exchange", "^0000ff1^000000 Can -> ^0000ff3^000000 E Grade Coin", "^0000ff10^000000 Can -> ^0000ff30^000000 E Grade Coin", "^0000ff100^000000 Can -> ^0000ff300^000000 E Grade Coin", "Exchange all I've got")) {
+msgctxt "Can Agency Guard"
+msgid "I won't exchange"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("I won't exchange", "^0000ff1^000000 Can -> ^0000ff3^000000 E Grade Coin", "^0000ff10^000000 Can -> ^0000ff30^000000 E Grade Coin", "^0000ff100^000000 Can -> ^0000ff300^000000 E Grade Coin", "Exchange all I've got")) {
+msgctxt "Can Agency Guard"
+msgid "^0000ff1^000000 Can -> ^0000ff3^000000 E Grade Coin"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("I won't exchange", "^0000ff1^000000 Can -> ^0000ff3^000000 E Grade Coin", "^0000ff10^000000 Can -> ^0000ff30^000000 E Grade Coin", "^0000ff100^000000 Can -> ^0000ff300^000000 E Grade Coin", "Exchange all I've got")) {
+msgctxt "Can Agency Guard"
+msgid "^0000ff10^000000 Can -> ^0000ff30^000000 E Grade Coin"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("I won't exchange", "^0000ff1^000000 Can -> ^0000ff3^000000 E Grade Coin", "^0000ff10^000000 Can -> ^0000ff30^000000 E Grade Coin", "^0000ff100^000000 Can -> ^0000ff300^000000 E Grade Coin", "Exchange all I've got")) {
+msgctxt "Can Agency Guard"
+msgid "^0000ff100^000000 Can -> ^0000ff300^000000 E Grade Coin"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("I won't exchange", "^0000ff1^000000 Can -> ^0000ff3^000000 E Grade Coin", "^0000ff10^000000 Can -> ^0000ff30^000000 E Grade Coin", "^0000ff100^000000 Can -> ^0000ff300^000000 E Grade Coin", "Exchange all I've got")) {
+msgctxt "Can Agency Guard"
+msgid "Exchange all I've got"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Umm, I'm not here forever, so come to me if you'd like to exchange while I still am.";
+msgctxt "Can Agency Guard"
+msgid "Umm, I'm not here forever, so come to me if you'd like to exchange while I still am."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Umm? I don't think you have enough to exchange... Come to me again when the amount is exactly decided.";
+msgctxt "Can Agency Guard"
+msgid "Umm? I don't think you have enough to exchange... Come to me again when the amount is exactly decided."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Exchanged "+.@count+" Malangdo Cat Can to "+(.@count*3)+" E Class Coin. Check it out.";
+msgctxt "Can Agency Guard"
+msgid "Exchanged "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Exchanged "+.@count+" Malangdo Cat Can to "+(.@count*3)+" E Class Coin. Check it out.";
+msgctxt "Can Agency Guard"
+msgid " Malangdo Cat Can to "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Exchanged "+.@count+" Malangdo Cat Can to "+(.@count*3)+" E Class Coin. Check it out.";
+msgctxt "Can Agency Guard"
+msgid " E Class Coin. Check it out."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Ahaaa~";
+msgctxt "F_mal_coin"
+msgid "Ahaaa~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "If you want to buy this stuff,";
+msgctxt "F_mal_coin"
+msgid "If you want to buy this stuff,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "you can talk to me";
+msgctxt "F_mal_coin"
+msgid "you can talk to me"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "when you grow up a little more.";
+msgctxt "F_mal_coin"
+msgid "when you grow up a little more."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This stuff is too expensive";
+msgctxt "F_mal_coin"
+msgid "This stuff is too expensive"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "for a child~";
+msgctxt "F_mal_coin"
+msgid "for a child~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Nice to meet you~~";
+msgctxt "F_mal_coin"
+msgid "Nice to meet you~~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I am! YES~~ That's right!";
+msgctxt "F_mal_coin"
+msgid "I am! YES~~ That's right!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'm selling special stuff";
+msgctxt "F_mal_coin"
+msgid "I'm selling special stuff"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "which you can see only here on Meow Meow Island!";
+msgctxt "F_mal_coin"
+msgid "which you can see only here on Meow Meow Island!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "How about it? What are you waiting for?";
+msgctxt "F_mal_coin"
+msgid "How about it? What are you waiting for?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Why don't you take a look at";
+msgctxt "F_mal_coin"
+msgid "Why don't you take a look at"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "what kinds of stuff I have?";
+msgctxt "F_mal_coin"
+msgid "what kinds of stuff I have?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Wandering Merchant]";
+msgctxt "F_mal_coin"
+msgid "[Wandering Merchant]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Oh~";
+msgctxt "F_mal_coin"
+msgid "Oh~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "These are rental items, so make sure you know if you have the ^0000FF1 hour^000000 or ^0000FF7 day^000000 version.";
+msgctxt "F_mal_coin"
+msgid "These are rental items, so make sure you know if you have the ^0000FF1 hour^000000 or ^0000FF7 day^000000 version."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Roving Merchant]";
+msgctxt "F_mal_coin"
+msgid "[Roving Merchant]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Just for your information,";
+msgctxt "F_mal_coin"
+msgid "Just for your information,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Sow Bug, Starfish, Dried Squid, and Flying Fish are the items which you can use for 1 hour.";
+msgctxt "F_mal_coin"
+msgid "Sow Bug, Starfish, Dried Squid, and Flying Fish are the items which you can use for 1 hour."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Well then, do you want to take a look at what I have now?";
+msgctxt "F_mal_coin"
+msgid "Well then, do you want to take a look at what I have now?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("Yes", "No")) {
+msgctxt "F_mal_coin"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch(select("Yes", "No")) {
+msgctxt "F_mal_coin"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It seems that there are too many items in your inventory.";
+msgctxt "F_mal_coin"
+msgid "It seems that there are too many items in your inventory."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Please make space and come back again~";
+msgctxt "F_mal_coin"
+msgid "Please make space and come back again~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It seems that you're overweight.";
+msgctxt "F_mal_coin"
+msgid "It seems that you're overweight."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Please reduce your weight and come back again~";
+msgctxt "F_mal_coin"
+msgid "Please reduce your weight and come back again~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Well, take a good look at them~~~";
+msgctxt "F_mal_coin"
+msgid "Well, take a good look at them~~~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Well, then. I'll see you next time.";
+msgctxt "F_mal_coin"
+msgid "Well, then. I'll see you next time."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Goodbye.";
+msgctxt "F_mal_coin"
+msgid "Goodbye."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "The price of ^0000FF["+getarg(2)+"]^000000 is";
+msgctxt "F_mal_coin"
+msgid "The price of ^0000FF["
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Would you like to purchase";
+msgctxt "F_mal_coin"
+msgid "Would you like to purchase"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^0000FF["+getarg(2)+"]^000000 with E Grade Coins?";
+msgctxt "F_mal_coin"
+msgid "^0000FF["
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Would you like to";
+msgctxt "F_mal_coin"
+msgid "Would you like to"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "purchase ^0000FF["+getarg(2)+"]^000000?";
+msgctxt "F_mal_coin"
+msgid "purchase ^0000FF["
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'm sorry, you need more "+.@str$+".";
+msgctxt "F_mal_coin"
+msgid "I'm sorry, you need more "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'm sorry, you need more "+.@str$+".";
+msgctxt "F_mal_coin"
+msgid "."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Sorry, you've purchased too many.";
+msgctxt "F_mal_coin"
+msgid "Sorry, you've purchased too many."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You need to make more space in your inventory. Please come back later.";
+msgctxt "F_mal_coin"
+msgid "You need to make more space in your inventory. Please come back later."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Thank you.";
+msgctxt "F_mal_coin"
+msgid "Thank you."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Always be careful";
+msgctxt "F_mal_coin"
+msgid "Always be careful"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "when you purchase items.";
+msgctxt "F_mal_coin"
+msgid "when you purchase items."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Spearfish(1hr)] 8 E-Coins/50 Cans",
+msgctxt "Wandering Merchant#mal"
+msgid "[Spearfish(1hr)] 8 E-Coins/50 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Tuna(1hr)] 8 E-Coins/50 Cans",
+msgctxt "Wandering Merchant#mal"
+msgid "[Tuna(1hr)] 8 E-Coins/50 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Hairtail(1hr)] 8 E-Coins/50 Cans",
+msgctxt "Wandering Merchant#mal"
+msgid "[Hairtail(1hr)] 8 E-Coins/50 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Saurel(1hr)] 8 E-Coins/50 Can",
+msgctxt "Wandering Merchant#mal"
+msgid "[Saurel(1hr)] 8 E-Coins/50 Can"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Malang Snow Crab(1hr)] 8 E-Coins/50 Can",
+msgctxt "Wandering Merchant#mal"
+msgid "[Malang Snow Crab(1hr)] 8 E-Coins/50 Can"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Brindle Eel(1hr)] 8 E-Coins/50 Can",
+msgctxt "Wandering Merchant#mal"
+msgid "[Brindle Eel(1hr)] 8 E-Coins/50 Can"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Hairtail(7Days)] 10 Silvervine Fruit",
+msgctxt "Wandering Merchant#mal"
+msgid "[Hairtail(7Days)] 10 Silvervine Fruit"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Spearfish(7Days)] 10 Silvervine Fruit",
+msgctxt "Wandering Merchant#mal"
+msgid "[Spearfish(7Days)] 10 Silvervine Fruit"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Saurel(7Days)] 10 Silvervine Fruit",
+msgctxt "Wandering Merchant#mal"
+msgid "[Saurel(7Days)] 10 Silvervine Fruit"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Tuna(7Days)] 10 Silvervine Fruit",
+msgctxt "Wandering Merchant#mal"
+msgid "[Tuna(7Days)] 10 Silvervine Fruit"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Brindle Eel(7Days)] 10 Silvervine Fruit",
+msgctxt "Wandering Merchant#mal"
+msgid "[Brindle Eel(7Days)] 10 Silvervine Fruit"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Malang Snow Crab(7Days)] 10 Silvervine Fruit",
+msgctxt "Wandering Merchant#mal"
+msgid "[Malang Snow Crab(7Days)] 10 Silvervine Fruit"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "End purchasing."
+msgctxt "Wandering Merchant#mal"
+msgid "End purchasing."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Well, then. I'll see you next time.";
+msgctxt "Wandering Merchant#mal"
+msgid "Well, then. I'll see you next time."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Goodbye.";
+msgctxt "Wandering Merchant#mal"
+msgid "Goodbye."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Are you interested in ^0000FF["+.@names$[.@i]+"]^000000?";
+msgctxt "Wandering Merchant#mal"
+msgid "Are you interested in ^0000FF["
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Are you interested in ^0000FF["+.@names$[.@i]+"]^000000?";
+msgctxt "Wandering Merchant#mal"
+msgid "]^000000?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is... a fish that moves according to the season, very tasty!";
+msgctxt "Wandering Merchant#mal"
+msgid "This is... a fish that moves according to the season, very tasty!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "But this is only a food that I'm talking about, yummy~";
+msgctxt "Wandering Merchant#mal"
+msgid "But this is only a food that I'm talking about, yummy~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Of course, this is ^DC143CTwo-Handed Spear^000000.";
+msgctxt "Wandering Merchant#mal"
+msgid "Of course, this is ^DC143CTwo-Handed Spear^000000."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It gives a high chance of";
+msgctxt "Wandering Merchant#mal"
+msgid "It gives a high chance of"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "causing the Bleeding status";
+msgctxt "Wandering Merchant#mal"
+msgid "causing the Bleeding status"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "when you're using Pierce or Clashing Spiral~";
+msgctxt "Wandering Merchant#mal"
+msgid "when you're using Pierce or Clashing Spiral~"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "More details are...";
+msgctxt "Wandering Merchant#mal"
+msgid "More details are..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Increase 100% of Clashing Spiral ATK and 50% of Inspiration ATK,";
+#, no-c-format
+msgctxt "Wandering Merchant#mal"
+msgid "Increase 100% of Clashing Spiral ATK and 50% of Inspiration ATK,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "additional ATK + 30 when Base Lv. is over 100.";
+msgctxt "Wandering Merchant#mal"
+msgid "additional ATK + 30 when Base Lv. is over 100."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Base ATK is 220.";
+msgctxt "Wandering Merchant#mal"
+msgid "Base ATK is 220."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a very popular fish";
+msgctxt "Wandering Merchant#mal"
+msgid "This is a very popular fish"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "which is used in various dishes.";
+msgctxt "Wandering Merchant#mal"
+msgid "which is used in various dishes."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Swordman, Merchant, and Acolyte classes can use it";
+msgctxt "Wandering Merchant#mal"
+msgid "Swordman, Merchant, and Acolyte classes can use it"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "as a ^DC143CMace^000000.";
+msgctxt "Wandering Merchant#mal"
+msgid "as a ^DC143CMace^000000."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It gives a high chance of executing the Stun or Auto-Spell Bash";
+msgctxt "Wandering Merchant#mal"
+msgid "It gives a high chance of executing the Stun or Auto-Spell Bash"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "when using close-range physical attacks.";
+msgctxt "Wandering Merchant#mal"
+msgid "when using close-range physical attacks."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Base ATK is 180.";
+msgctxt "Wandering Merchant#mal"
+msgid "Base ATK is 180."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "additional ATK + 20 when Base Lv. is over 100,";
+msgctxt "Wandering Merchant#mal"
+msgid "additional ATK + 20 when Base Lv. is over 100,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "freeze self with low rate.";
+msgctxt "Wandering Merchant#mal"
+msgid "freeze self with low rate."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This fish looks like a long belt.";
+msgctxt "Wandering Merchant#mal"
+msgid "This fish looks like a long belt."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CTwo-Handed Sword^000000";
+msgctxt "Wandering Merchant#mal"
+msgid "This is a ^DC143CTwo-Handed Sword^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "which most swordmen can use.";
+msgctxt "Wandering Merchant#mal"
+msgid "which most swordmen can use."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It increases 50% of critical damage when attacking and CRI + 20.";
+#, no-c-format
+msgctxt "Wandering Merchant#mal"
+msgid "It increases 50% of critical damage when attacking and CRI + 20."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "additional ATK + 50 when Base Lv. is over 100.";
+msgctxt "Wandering Merchant#mal"
+msgid "additional ATK + 50 when Base Lv. is over 100."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CDagger^000000 which gives MATK + 100";
+msgctxt "Wandering Merchant#mal"
+msgid "This is a ^DC143CDagger^000000 which gives MATK + 100"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "and ATK + 30 for 7sec at a certain rate with physical attacks.";
+msgctxt "Wandering Merchant#mal"
+msgid "and ATK + 30 for 7sec at a certain rate with physical attacks."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "gives MATK + 20 for 7sec at a certain rate with magical attacks";
+msgctxt "Wandering Merchant#mal"
+msgid "gives MATK + 20 for 7sec at a certain rate with magical attacks"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "and additional MATK + 10, ATK + 10 when Base Lv. is over 100.";
+msgctxt "Wandering Merchant#mal"
+msgid "and additional MATK + 10, ATK + 10 when Base Lv. is over 100."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Base ATK is 160.";
+msgctxt "Wandering Merchant#mal"
+msgid "Base ATK is 160."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CBow^000000 which increases LUK + 3 and 50% of critical damage,";
+#, no-c-format
+msgctxt "Wandering Merchant#mal"
+msgid "This is a ^DC143CBow^000000 which increases LUK + 3 and 50% of critical damage,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "and increases 20% of long rage phyical ATK when Base Lv. is over 100.";
+#, no-c-format
+msgctxt "Wandering Merchant#mal"
+msgid "and increases 20% of long rage phyical ATK when Base Lv. is over 100."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Base ATK is 120.";
+msgctxt "Wandering Merchant#mal"
+msgid "Base ATK is 120."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "can be used by Archer, Thief, and Rogue classes.";
+msgctxt "Wandering Merchant#mal"
+msgid "can be used by Archer, Thief, and Rogue classes."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CBow^000000.";
+msgctxt "Wandering Merchant#mal"
+msgid "This is a ^DC143CBow^000000."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Because it has elastic force,";
+msgctxt "Wandering Merchant#mal"
+msgid "Because it has elastic force,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "we started to use it as a Bow.";
+msgctxt "Wandering Merchant#mal"
+msgid "we started to use it as a Bow."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "AGI + 3, and ASPD + 2 for 5sec at a certain rate with long range physical attacks.";
+msgctxt "Wandering Merchant#mal"
+msgid "AGI + 3, and ASPD + 2 for 5sec at a certain rate with long range physical attacks."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Also gives additional 20% of long range physical ATK when Base Lv. is over 100.";
+#, no-c-format
+msgctxt "Wandering Merchant#mal"
+msgid "Also gives additional 20% of long range physical ATK when Base Lv. is over 100."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Hunter, Bard, and Dancer classes can use it.";
+msgctxt "Wandering Merchant#mal"
+msgid "Hunter, Bard, and Dancer classes can use it."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Cat Hand Glove] 32 E-Coins/200 Cans",
+msgctxt "Stinky Merchant"
+msgid "[Cat Hand Glove] 32 E-Coins/200 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Cat Club] 32 E-Coins/200 Cans",
+msgctxt "Stinky Merchant"
+msgid "[Cat Club] 32 E-Coins/200 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "End purchasing."
+msgctxt "Stinky Merchant"
+msgid "End purchasing."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Well, then. I'll see you next time.";
+msgctxt "Stinky Merchant"
+msgid "Well, then. I'll see you next time."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Goodbye.";
+msgctxt "Stinky Merchant"
+msgid "Goodbye."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Are you interested in ^0000FF["+.@names$[.@i]+"]^000000?";
+msgctxt "Stinky Merchant"
+msgid "Are you interested in ^0000FF["
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Are you interested in ^0000FF["+.@names$[.@i]+"]^000000?";
+msgctxt "Stinky Merchant"
+msgid "]^000000?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a glove which can give happiness";
+msgctxt "Stinky Merchant"
+msgid "This is a glove which can give happiness"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "just by wearing it.";
+msgctxt "Stinky Merchant"
+msgid "just by wearing it."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is an ^DC143CAccessory^000000";
+msgctxt "Stinky Merchant"
+msgid "This is an ^DC143CAccessory^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "and its defense is 5.";
+msgctxt "Stinky Merchant"
+msgid "and its defense is 5."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It also gives";
+msgctxt "Stinky Merchant"
+msgid "It also gives"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "VIT + 1, AGI + 1, DEX + 1, LUK + 1.";
+msgctxt "Stinky Merchant"
+msgid "VIT + 1, AGI + 1, DEX + 1, LUK + 1."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "More details are...";
+msgctxt "Stinky Merchant"
+msgid "More details are..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "SLOT : 1 / Refine : Unable / Destruction : Unable";
+msgctxt "Stinky Merchant"
+msgid "SLOT : 1 / Refine : Unable / Destruction : Unable"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It looks like it wouldn't hurt, don't you think so?";
+msgctxt "Stinky Merchant"
+msgid "It looks like it wouldn't hurt, don't you think so?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "But I'm telling you, it can hurt someone.";
+msgctxt "Stinky Merchant"
+msgid "But I'm telling you, it can hurt someone."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CMace^000000 that increases 15% of damage to the animal type of monster.";
+#, no-c-format
+msgctxt "Stinky Merchant"
+msgid "This is a ^DC143CMace^000000 that increases 15% of damage to the animal type of monster."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Base ATK is 88.";
+msgctxt "Stinky Merchant"
+msgid "Base ATK is 88."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "The other details are";
+msgctxt "Stinky Merchant"
+msgid "The other details are"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Weapon Lv : 1 / SLOT : 3 / Refine : Able / Destruction : Unable";
+msgctxt "Stinky Merchant"
+msgid "Weapon Lv : 1 / SLOT : 3 / Refine : Able / Destruction : Unable"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Flying Fish] 200 Cans",
+msgctxt "Roving Merchant"
+msgid "[Flying Fish] 200 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Sow Bug] 200 Cans",
+msgctxt "Roving Merchant"
+msgid "[Sow Bug] 200 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Dried Squid] 200 Cans",
+msgctxt "Roving Merchant"
+msgid "[Dried Squid] 200 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "[Starfish] 200 Cans",
+msgctxt "Roving Merchant"
+msgid "[Starfish] 200 Cans"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# "End purchasing."
+msgctxt "Roving Merchant"
+msgid "End purchasing."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Well, then. I'll see you next time.";
+msgctxt "Roving Merchant"
+msgid "Well, then. I'll see you next time."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Goodbye.";
+msgctxt "Roving Merchant"
+msgid "Goodbye."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Are you interested in ^0000FF["+.@names$[.@i]+"]^000000?";
+msgctxt "Roving Merchant"
+msgid "Are you interested in ^0000FF["
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Are you interested in ^0000FF["+.@names$[.@i]+"]^000000?";
+msgctxt "Roving Merchant"
+msgid "]^000000?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is the one that flies";
+msgctxt "Roving Merchant"
+msgid "This is the one that flies"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "with a big pectoral.";
+msgctxt "Roving Merchant"
+msgid "with a big pectoral."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CThrowing Weapon^000000.";
+msgctxt "Roving Merchant"
+msgid "This is a ^DC143CThrowing Weapon^000000."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Of course, it can give fatal wounds to the enemy";
+msgctxt "Roving Merchant"
+msgid "Of course, it can give fatal wounds to the enemy"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "at a certain rate when attacking.";
+msgctxt "Roving Merchant"
+msgid "at a certain rate when attacking."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Its property is neutral and ATK is 50.";
+msgctxt "Roving Merchant"
+msgid "Its property is neutral and ATK is 50."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "In that case, I'll explain for you.";
+msgctxt "Roving Merchant"
+msgid "In that case, I'll explain for you."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CBullet^000000 which stuns the enemy at a certain rate when attacking.";
+msgctxt "Roving Merchant"
+msgid "This is a ^DC143CBullet^000000 which stuns the enemy at a certain rate when attacking."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I feel somthing bad";
+msgctxt "Roving Merchant"
+msgid "I feel somthing bad"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "is moving in my pocket but...";
+msgctxt "Roving Merchant"
+msgid "is moving in my pocket but..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "it is neutral property and its ATK is 50.";
+msgctxt "Roving Merchant"
+msgid "it is neutral property and its ATK is 50."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'll explain about this item.";
+msgctxt "Roving Merchant"
+msgid "I'll explain about this item."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CThrowing Weapon^000000 which causes darkness at a certain rate.";
+msgctxt "Roving Merchant"
+msgid "This is a ^DC143CThrowing Weapon^000000 which causes darkness at a certain rate."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It's neutral property and its ATK is 50.";
+msgctxt "Roving Merchant"
+msgid "It's neutral property and its ATK is 50."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It is compressed";
+msgctxt "Roving Merchant"
+msgid "It is compressed"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "and put into a very small box,";
+msgctxt "Roving Merchant"
+msgid "and put into a very small box,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "so be careful when you open it.";
+msgctxt "Roving Merchant"
+msgid "so be careful when you open it."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "This is a ^DC143CThrowing Weapon^000000 which stuns the enemy at a certain rate.";
+msgctxt "Roving Merchant"
+msgid "This is a ^DC143CThrowing Weapon^000000 which stuns the enemy at a certain rate."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It is perfectly organized and packed";
+msgctxt "Roving Merchant"
+msgid "It is perfectly organized and packed"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "so you can't even see inside.";
+msgctxt "Roving Merchant"
+msgid "so you can't even see inside."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It is neutral property and its ATK is 110.";
+msgctxt "Roving Merchant"
+msgid "It is neutral property and its ATK is 110."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "For your information,";
+msgctxt "Roving Merchant"
+msgid "For your information,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "one box contains";
+msgctxt "Roving Merchant"
+msgid "one box contains"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "200 units.";
+msgctxt "Roving Merchant"
+msgid "200 units."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- Stop Here!! -";
+msgctxt "Armor Merchant Naphara#e"
+msgid "- Stop Here!! -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- You have too many items. -";
+msgctxt "Armor Merchant Naphara#e"
+msgid "- You have too many items. -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- You cannot carry any more items. -";
+msgctxt "Armor Merchant Naphara#e"
+msgid "- You cannot carry any more items. -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- Lighten your load and -";
+msgctxt "Armor Merchant Naphara#e"
+msgid "- Lighten your load and -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- try again. -";
+msgctxt "Armor Merchant Naphara#e"
+msgid "- try again. -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Armor Merchant]";
+msgctxt "Armor Merchant Naphara#e"
+msgid "[Armor Merchant]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Hello, this is Naphara's store, a place of high class goods.";
+msgctxt "Armor Merchant Naphara#e"
+msgid "Hello, this is Naphara's store, a place of high class goods."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "What would you need?";
+msgctxt "Armor Merchant Naphara#e"
+msgid "What would you need?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Agi Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Armor Merchant Naphara#e"
+msgid "Str Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Agi Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Armor Merchant Naphara#e"
+msgid "Int Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Agi Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Armor Merchant Naphara#e"
+msgid "Agi Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Agi Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Armor Merchant Naphara#e"
+msgid "Vit Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Agi Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Armor Merchant Naphara#e"
+msgid "Dex Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Agi Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Armor Merchant Naphara#e"
+msgid "Luk Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^3131FF" + .name$[.@choice] + " For ^000000,";
+msgctxt "Armor Merchant Naphara#e"
+msgid "^3131FF"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^3131FF" + .name$[.@choice] + " For ^000000,";
+msgctxt "Armor Merchant Naphara#e"
+msgid " For ^000000,"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^3131FFMHP + 100, MSP + 20^000000";
+msgctxt "Armor Merchant Naphara#e"
+msgid "^3131FFMHP + 100, MSP + 20^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^3131FF" + .descript$[.@choice] + "^000000";
+msgctxt "Armor Merchant Naphara#e"
+msgid "^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^3131FFRequired Level: 100^000000";
+msgctxt "Armor Merchant Naphara#e"
+msgid "^3131FFRequired Level: 100^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^3131FFSlot:0^000000";
+msgctxt "Armor Merchant Naphara#e"
+msgid "^3131FFSlot:0^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^3131FFWeight:10^000000";
+msgctxt "Armor Merchant Naphara#e"
+msgid "^3131FFWeight:10^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "are the characteristic options.";
+msgctxt "Armor Merchant Naphara#e"
+msgid "are the characteristic options."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It costs 10 Splendide Coins.";
+msgctxt "Armor Merchant Naphara#e"
+msgid "It costs 10 Splendide Coins."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Would you like to buy it?";
+msgctxt "Armor Merchant Naphara#e"
+msgid "Would you like to buy it?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Buy it.", "Don't buy it.")==1) {
+msgctxt "Armor Merchant Naphara#e"
+msgid "Buy it."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Buy it.", "Don't buy it.")==1) {
+msgctxt "Armor Merchant Naphara#e"
+msgid "Don't buy it."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It seems like you don't have enough coins.";
+msgctxt "Armor Merchant Naphara#e"
+msgid "It seems like you don't have enough coins."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Great, it's yours. Thank you.";
+msgctxt "Armor Merchant Naphara#e"
+msgid "Great, it's yours. Thank you."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Slot Expert]";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "[Slot Expert]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I am Slot Expert Nattuer.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "I am Slot Expert Nattuer."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "If you bring me an item from my little brother Naphara along with 5 Splendide Coins, I will open up one Slot for you.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "If you bring me an item from my little brother Naphara along with 5 Splendide Coins, I will open up one Slot for you."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Activate a Slot.", "Forget it.")==2){
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Activate a Slot."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Activate a Slot.", "Forget it.")==2){
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Forget it."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Slot activation is an extremely difficult procedure that can fail even with heightened care and the use of a magnifying lens.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Slot activation is an extremely difficult procedure that can fail even with heightened care and the use of a magnifying lens."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Of course, if your heart were as big as that flower-filled land, you wouldn't mind. Right? Should I go for it?";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Of course, if your heart were as big as that flower-filled land, you wouldn't mind. Right? Should I go for it?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Continue.", "Forget it.")==2) {
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Continue."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Which item would you like to activate with a Slot?";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Which item would you like to activate with a Slot?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Ag Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Str Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Ag Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Int Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Ag Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Ag Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Ag Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Vit Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Ag Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Dex Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@choice = select("Str Glove", "Int Glove", "Ag Glove", "Vit Glove", "Dex Glove", "Luk Glove");
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Luk Glove"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Let's confirm for the last time. Is the one you want " + getitemname(.@choice) + "?";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Let's confirm for the last time. Is the one you want "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Yes", "No")==2) {
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Yes", "No")==2) {
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Why don't you talk to me when you know for sure.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Why don't you talk to me when you know for sure."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You don't have that item. Why don't you talk to me when you know for sure.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "You don't have that item. Why don't you talk to me when you know for sure."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You don't have enough coins. Why don't you talk to me when you know for sure.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "You don't have enough coins. Why don't you talk to me when you know for sure."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Shoot, I'm sorry. It failed.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Shoot, I'm sorry. It failed."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "But I'm sure it will work next time. I have a feeling.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "But I'm sure it will work next time. I have a feeling."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "My eyes feel like they're gonna pop out.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "My eyes feel like they're gonna pop out."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Nonetheless, congratulations. Slot activation was successful.";
+msgctxt "Slot Expert Nattuer#ecl"
+msgid "Nonetheless, congratulations. Slot activation was successful."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- Stop Here!! -";
+msgctxt "Herb Merchant Plafina#e"
+msgid "- Stop Here!! -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- You have too many items. -";
+msgctxt "Herb Merchant Plafina#e"
+msgid "- You have too many items. -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- You cannot carry any more items. -";
+msgctxt "Herb Merchant Plafina#e"
+msgid "- You cannot carry any more items. -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- Lighten your load and -";
+msgctxt "Herb Merchant Plafina#e"
+msgid "- Lighten your load and -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "- try again. -";
+msgctxt "Herb Merchant Plafina#e"
+msgid "- try again. -"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Herb Merchant]";
+msgctxt "Herb Merchant Plafina#e"
+msgid "[Herb Merchant]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Welcome, this is Plafina's Herb Store where only the freshest herbs are provided~!";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Welcome, this is Plafina's Herb Store where only the freshest herbs are provided~!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@item = select("Snow Flip", "Peony Mommy", "Slapping Herb", "Yggdrasil Dust", "End conversation")-1;
+msgctxt "Herb Merchant Plafina#e"
+msgid "Snow Flip"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@item = select("Snow Flip", "Peony Mommy", "Slapping Herb", "Yggdrasil Dust", "End conversation")-1;
+msgctxt "Herb Merchant Plafina#e"
+msgid "Peony Mommy"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@item = select("Snow Flip", "Peony Mommy", "Slapping Herb", "Yggdrasil Dust", "End conversation")-1;
+msgctxt "Herb Merchant Plafina#e"
+msgid "Slapping Herb"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@item = select("Snow Flip", "Peony Mommy", "Slapping Herb", "Yggdrasil Dust", "End conversation")-1;
+msgctxt "Herb Merchant Plafina#e"
+msgid "Yggdrasil Dust"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@item = select("Snow Flip", "Peony Mommy", "Slapping Herb", "Yggdrasil Dust", "End conversation")-1;
+msgctxt "Herb Merchant Plafina#e"
+msgid "End conversation"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Come back anytime.";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Come back anytime."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Snow Flip has special effects on ^3131FFBurning, Bleeding, Deep Sleep, Sleep^000000.";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Snow Flip has special effects on ^3131FFBurning, Bleeding, Deep Sleep, Sleep^000000."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Peony Mamy has special effects on ^3131FFFrost, Frozen, Freezing^000000";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Peony Mamy has special effects on ^3131FFFrost, Frozen, Freezing^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Slapping Herb has special effects on ^3131FFStun, Fear, Chaos, Hallucination^000000";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Slapping Herb has special effects on ^3131FFStun, Fear, Chaos, Hallucination^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Yggdrasil Dust has special effects on ^3131FFBlind, Curse, Decrease Agility, Reverse Orcish^000000.";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Yggdrasil Dust has special effects on ^3131FFBlind, Curse, Decrease Agility, Reverse Orcish^000000."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Requires 5 seconds between uses.";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Requires 5 seconds between uses."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It costs "+ .cost[.@item] +" Splendide Coins for each.";
+msgctxt "Herb Merchant Plafina#e"
+msgid "It costs "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It costs "+ .cost[.@item] +" Splendide Coins for each.";
+msgctxt "Herb Merchant Plafina#e"
+msgid " Splendide Coins for each."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@buy = select("Buy 1.", "Buy 10.", "Don't buy.");
+msgctxt "Herb Merchant Plafina#e"
+msgid "Buy 1."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@buy = select("Buy 1.", "Buy 10.", "Don't buy.");
+msgctxt "Herb Merchant Plafina#e"
+msgid "Buy 10."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# .@buy = select("Buy 1.", "Buy 10.", "Don't buy.");
+msgctxt "Herb Merchant Plafina#e"
+msgid "Don't buy."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Would you like to buy "+ .@buy +" "+ getitemname(.items[.@item]) +"?";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Would you like to buy "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Would you like to buy "+ .@buy +" "+ getitemname(.items[.@item]) +"?";
+msgctxt "Herb Merchant Plafina#e"
+msgid " "
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Buy.", "Don't buy.")==2){
+msgctxt "Herb Merchant Plafina#e"
+msgid "Buy."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You don't have enough coins.";
+msgctxt "Herb Merchant Plafina#e"
+msgid "You don't have enough coins."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Thank you for your business.";
+msgctxt "Herb Merchant Plafina#e"
+msgid "Thank you for your business."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You have too many items to continue.";
+msgctxt "Replication Expert Paltu"
+msgid "You have too many items to continue."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "[Paltu]";
+msgctxt "Replication Expert Paltu"
+msgid "[Paltu]"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Woohoo- Greetings. What are you looking for? Lots of goods here.";
+msgctxt "Replication Expert Paltu"
+msgid "Woohoo- Greetings. What are you looking for? Lots of goods here."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch (select("No thanks.", "Replication?", "I know you got lots up your sleeve!")) {
+msgctxt "Replication Expert Paltu"
+msgid "No thanks."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch (select("No thanks.", "Replication?", "I know you got lots up your sleeve!")) {
+msgctxt "Replication Expert Paltu"
+msgid "Replication?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# switch (select("No thanks.", "Replication?", "I know you got lots up your sleeve!")) {
+msgctxt "Replication Expert Paltu"
+msgid "I know you got lots up your sleeve!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Really? Hmm?";
+msgctxt "Replication Expert Paltu"
+msgid "Really? Hmm?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "One can say that there's no one better in Eclage than I at utilizing magic resistance.";
+msgctxt "Replication Expert Paltu"
+msgid "One can say that there's no one better in Eclage than I at utilizing magic resistance."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'll give you a good price whatever it is. Just trust me.";
+msgctxt "Replication Expert Paltu"
+msgid "I'll give you a good price whatever it is. Just trust me."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# select("Could you do something for me?");
+msgctxt "Replication Expert Paltu"
+msgid "Could you do something for me?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Hey, I like your attitude.";
+msgctxt "Replication Expert Paltu"
+msgid "Hey, I like your attitude."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Ah- you know the hat you're wearing?";
+msgctxt "Replication Expert Paltu"
+msgid "Ah- you know the hat you're wearing?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Don't you have any of those hats lying around in storage that are solid but too ugly to wear? You do, right?";
+msgctxt "Replication Expert Paltu"
+msgid "Don't you have any of those hats lying around in storage that are solid but too ugly to wear? You do, right?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# select(".........");
+msgctxt "Replication Expert Paltu"
+msgid "........."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "See! I knew it. I knew it from the first minute.";
+msgctxt "Replication Expert Paltu"
+msgid "See! I knew it. I knew it from the first minute."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "If you bring me ^ff0000 50 Splendide Coins and the ingredients^000000, I'll make you a new hat in the same shape but worn as a ^ff0000Costume^000000.";
+msgctxt "Replication Expert Paltu"
+msgid "If you bring me ^ff0000 50 Splendide Coins and the ingredients^000000, I'll make you a new hat in the same shape but worn as a ^ff0000Costume^000000."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Hmm, what was it...?";
+msgctxt "Replication Expert Paltu"
+msgid "Hmm, what was it...?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I think you adventurers call them ^0571B0Costumes^000000? right?";
+msgctxt "Replication Expert Paltu"
+msgid "I think you adventurers call them ^0571B0Costumes^000000? right?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# select("Yes~ What do you need?");
+msgctxt "Replication Expert Paltu"
+msgid "Yes~ What do you need?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I need 1 ^0571B0hat to replicate^000000 and";
+msgctxt "Replication Expert Paltu"
+msgid "I need 1 ^0571B0hat to replicate^000000 and"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I need ^E1281E 4 Crystal Mirrors^000000 for magic resistance, ^E1281E 1 Fairy Magic Powder^000000 as the catalyst, and ^E1281E Emerald, Ruby, Sapphire, Topaz, and Zircon, 10 of each^000000, to be used for amplifying the magic power.";
+msgctxt "Replication Expert Paltu"
+msgid "I need ^E1281E 4 Crystal Mirrors^000000 for magic resistance, ^E1281E 1 Fairy Magic Powder^000000 as the catalyst, and ^E1281E Emerald, Ruby, Sapphire, Topaz, and Zircon, 10 of each^000000, to be used for amplifying the magic power."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "There's quite a lot of ingredients, right? Well, I can't do anything about that. Dealing with magic power is not a joke.";
+msgctxt "Replication Expert Paltu"
+msgid "There's quite a lot of ingredients, right? Well, I can't do anything about that. Dealing with magic power is not a joke."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# select("Which hats can be replicated?");
+msgctxt "Replication Expert Paltu"
+msgid "Which hats can be replicated?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Oh! You're pretty sharp!";
+msgctxt "Replication Expert Paltu"
+msgid "Oh! You're pretty sharp!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Almost forgot the most important thing.";
+msgctxt "Replication Expert Paltu"
+msgid "Almost forgot the most important thing."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Hats that I can replicate are:";
+msgctxt "Replication Expert Paltu"
+msgid "Hats that I can replicate are:"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^0571B0Frog Hat, Romantic Flower, Magestic Goat, Blush, Valkyrie Helm, Deviruchi Hat, Assassin Mask, Elven Ears, Hahoe Mask, and Boys Cap^000000 a total of 10 types.";
+msgctxt "Replication Expert Paltu"
+msgid "^0571B0Frog Hat, Romantic Flower, Magestic Goat, Blush, Valkyrie Helm, Deviruchi Hat, Assassin Mask, Elven Ears, Hahoe Mask, and Boys Cap^000000 a total of 10 types."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "What do you think? I'll make it happen as long as I have the ingredients and the compensation.";
+msgctxt "Replication Expert Paltu"
+msgid "What do you think? I'll make it happen as long as I have the ingredients and the compensation."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("I'll do it later.", "Show me what you got!") == 1) {
+msgctxt "Replication Expert Paltu"
+msgid "I'll do it later."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("I'll do it later.", "Show me what you got!") == 1) {
+msgctxt "Replication Expert Paltu"
+msgid "Show me what you got!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "What? Are you kidding me? Please tell me you are!";
+msgctxt "Replication Expert Paltu"
+msgid "What? Are you kidding me? Please tell me you are!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Oh wow.";
+msgctxt "Replication Expert Paltu"
+msgid "Oh wow."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "You made the right call. I thought I was going to starve to death because the Laphines have no interest in pretty hats.";
+msgctxt "Replication Expert Paltu"
+msgid "You made the right call. I thought I was going to starve to death because the Laphines have no interest in pretty hats."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'll make it a great deal for you. You really should know I'm giving you a good deal here.";
+msgctxt "Replication Expert Paltu"
+msgid "I'll make it a great deal for you. You really should know I'm giving you a good deal here."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Is there something you had in mind? Why don't you take a look?";
+msgctxt "Replication Expert Paltu"
+msgid "Is there something you had in mind? Why don't you take a look?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Is ^0571B0"+getitemname(.@items[.@i])+"^000000 what you wanted?";
+msgctxt "Replication Expert Paltu"
+msgid "Is ^0571B0"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Ay... Credit purchases are difficult for me.";
+msgctxt "Replication Expert Paltu"
+msgid "Ay... Credit purchases are difficult for me."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^0571B0"+getitemname(.@items[.@i])+"^000000 and";
+msgctxt "Replication Expert Paltu"
+msgid "^0571B0"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^E1281E50 Splendide Coins, 4 Crystal Mirrors, 1 Fairy Magic Powder, 10 of each Emerald, Ruby, Sapphire, Topaz, and Zircon^000000 are necessary.";
+msgctxt "Replication Expert Paltu"
+msgid "^E1281E50 Splendide Coins, 4 Crystal Mirrors, 1 Fairy Magic Powder, 10 of each Emerald, Ruby, Sapphire, Topaz, and Zircon^000000 are necessary."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'm in a tight spot myself. Please consider my situation also.";
+msgctxt "Replication Expert Paltu"
+msgid "I'm in a tight spot myself. Please consider my situation also."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Yes, this is more than enough. Should I make it now?";
+msgctxt "Replication Expert Paltu"
+msgid "Yes, this is more than enough. Should I make it now?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Please make it now.", "Oops, I have to take care of something...") == 2) {
+msgctxt "Replication Expert Paltu"
+msgid "Please make it now."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Please make it now.", "Oops, I have to take care of something...") == 2) {
+msgctxt "Replication Expert Paltu"
+msgid "Oops, I have to take care of something..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Hey.. Hey! Hey! Where you going?";
+msgctxt "Replication Expert Paltu"
+msgid "Hey.. Hey! Hey! Where you going?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I got it. Oh right! Almost forgot again.";
+msgctxt "Replication Expert Paltu"
+msgid "I got it. Oh right! Almost forgot again."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^FF0000In the process of replication, magic intervention phenomenon causes the hat to lose all of its refinements, cards, and hidden enchantments.^000000";
+msgctxt "Replication Expert Paltu"
+msgid "^FF0000In the process of replication, magic intervention phenomenon causes the hat to lose all of its refinements, cards, and hidden enchantments.^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "^FF0000And if you possess multiple hats of the same type, the one you don't want can undergo the replication process, so please check to make sure.^000000";
+msgctxt "Replication Expert Paltu"
+msgid "^FF0000And if you possess multiple hats of the same type, the one you don't want can undergo the replication process, so please check to make sure.^000000"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "So any problems with that?";
+msgctxt "Replication Expert Paltu"
+msgid "So any problems with that?"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Let me go check.", "Start the replication process.")==1) {
+msgctxt "Replication Expert Paltu"
+msgid "Let me go check."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# if (select("Let me go check.", "Start the replication process.")==1) {
+msgctxt "Replication Expert Paltu"
+msgid "Start the replication process."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Yeah, please make sure!";
+msgctxt "Replication Expert Paltu"
+msgid "Yeah, please make sure!"
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Woohoo- Got it.";
+msgctxt "Replication Expert Paltu"
+msgid "Woohoo- Got it."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "It's finally time for me to use my skills again.";
+msgctxt "Replication Expert Paltu"
+msgid "It's finally time for me to use my skills again."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Do this thing here, and do that thing there, and then do this thing here again...";
+msgctxt "Replication Expert Paltu"
+msgid "Do this thing here, and do that thing there, and then do this thing here again..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "... .. ...";
+msgctxt "Replication Expert Paltu"
+msgid "... .. ..."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "Good. This is a satisfying result.";
+msgctxt "Replication Expert Paltu"
+msgid "Good. This is a satisfying result."
+msgstr ""
+
+#: npc/re/merchants/coin_exchange.txt
+# mes "I'll do even a better job next time. Please tell others about my work. Have a good day~";
+msgctxt "Replication Expert Paltu"
+msgid "I'll do even a better job next time. Please tell others about my work. Have a good day~"
+msgstr ""

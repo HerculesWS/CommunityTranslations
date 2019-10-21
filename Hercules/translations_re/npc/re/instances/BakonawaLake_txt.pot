@@ -1,0 +1,692 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("You are carrying too many items. Come back after taking off some of them.");
+msgctxt "Taho"
+msgid "You are carrying too many items. Come back after taking off some of them."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("You are carrying too much weight. Come back after reducing the weight.");
+msgctxt "Taho"
+msgid "You are carrying too much weight. Come back after reducing the weight."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("[Taho]");
+msgctxt "Taho"
+msgid "[Taho]"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Hey. This is too dangerous a place for you. You cannot keep yourself safe. Get out of here and go to the village right now!");
+msgctxt "Taho"
+msgid "Hey. This is too dangerous a place for you. You cannot keep yourself safe. Get out of here and go to the village right now!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("We are gonna be killed all by that Bakonawa. Ah, we must slay him but unfortunately we are not prepared.");
+msgctxt "Taho"
+msgid "We are gonna be killed all by that Bakonawa. Ah, we must slay him but unfortunately we are not prepared."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# .@md_name$ = _("Bakonawa Lake");
+msgctxt "Taho"
+msgid "Bakonawa Lake"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Isn't there any company who can go with you? Or even if you wanna go alone, come after organizing a party.");
+msgctxt "Taho"
+msgid "Isn't there any company who can go with you? Or even if you wanna go alone, come after organizing a party."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Are you the leader of the Bakonawa slayers? The road is not well so we have to go down the cliff with a rope, is that OK?");
+msgctxt "Taho"
+msgid "Are you the leader of the Bakonawa slayers? The road is not well so we have to go down the cliff with a rope, is that OK?"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# .@i = select("Please weave a rope.", "Now I will go down.", "Cancel.");
+msgctxt "Taho"
+msgid "Please weave a rope."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# .@i = select("Please weave a rope.", "Now I will go down.", "Cancel.");
+msgctxt "Taho"
+msgid "Now I will go down."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# .@i = select("Please weave a rope.", "Now I will go down.", "Cancel.");
+msgctxt "Taho"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("You came for slaying Bakonawa. The leader of your party has to help me weaving the rope for going down.");
+msgctxt "Taho"
+msgid "You came for slaying Bakonawa. The leader of your party has to help me weaving the rope for going down."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Oh, the rope got dropped. I have to make a new one.");
+msgctxt "Taho"
+msgid "Oh, the rope got dropped. I have to make a new one."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Now I'm weaving, so you can go down when I'm done.");
+msgctxt "Taho"
+msgid "Now I'm weaving, so you can go down when I'm done."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mesf("The memorial dungeon %s does not exist.", .@md_name$);
+#, c-format
+msgctxt "Taho"
+msgid "The memorial dungeon %s does not exist."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("The party leader did not generate the dungeon yet.");
+msgctxt "Taho"
+msgid "The party leader did not generate the dungeon yet."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce("ma_scene01", sprintf(_$("A party member, %s of the party %s is entering the dungeon, %s."), strcharinfo(PC_NAME), getpartyname(.@party_id), .@md_name$), bc_map, C_SPRINGGREEN); //FW_NORMAL 12 0 0
+#, c-format
+msgctxt "Taho"
+msgid "A party member, %s of the party %s is entering the dungeon, %s."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("The rope used for getting to the Lake is already broken. We are now cleaning up the surroundings so come back after some time.");
+msgctxt "Taho"
+msgid "The rope used for getting to the Lake is already broken. We are now cleaning up the surroundings so come back after some time."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("It's all cleaned up around here. Now you can go down again after getting a rope.");
+msgctxt "Taho"
+msgid "It's all cleaned up around here. Now you can go down again after getting a rope."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("[Taho]");
+msgctxt "Bakonawa's Rage"
+msgid "[Taho]"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("My name is Minky.");
+msgctxt "Bakonawa's Rage"
+msgid "My name is Minky."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("[Taho]");
+msgctxt "Taho#nf"
+msgid "[Taho]"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Heehee, I could join the Bakonawa hunt, but I'd rather hide behind that rock and cheer you guys on.");
+msgctxt "Taho#nf"
+msgid "Heehee, I could join the Bakonawa hunt, but I'd rather hide behind that rock and cheer you guys on."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Bakonawa becomes invincible at some point. When that time comes, listen to my guides carefully. Just trust me and all will be good.");
+msgctxt "Taho#nf"
+msgid "Bakonawa becomes invincible at some point. When that time comes, listen to my guides carefully. Just trust me and all will be good."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Now I will make Bakonawa spring out from the lake.");
+msgctxt "Taho#nf"
+msgid "Now I will make Bakonawa spring out from the lake."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# switch (select("Hold on! I'm not ready yet!", "Let's do it!")) {
+msgctxt "Taho#nf"
+msgid "Hold on! I'm not ready yet!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# switch (select("Hold on! I'm not ready yet!", "Let's do it!")) {
+msgctxt "Taho#nf"
+msgid "Let's do it!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Oh... alright... tell me when you are ready.");
+msgctxt "Taho#nf"
+msgid "Oh... alright... tell me when you are ready."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Then I will drop a drop of Albopal to this lake.");
+msgctxt "Taho#nf"
+msgid "Then I will drop a drop of Albopal to this lake."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Once Bakonawa tastes this, he will surface...");
+msgctxt "Taho#nf"
+msgid "Once Bakonawa tastes this, he will surface..."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("I am dropping the Alpopal to make Bakonawa mad. Bakonawa can be a good source of protein once we get him.");
+msgctxt "Taho#nf"
+msgid "I am dropping the Alpopal to make Bakonawa mad. Bakonawa can be a good source of protein once we get him."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(.@map$, _("Taho: I can see him there on the surface! ATTACK!!!"), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "#Bakonawan1"
+msgid "Taho: I can see him there on the surface! ATTACK!!!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# monster(.@map$, 78, 81, _("Bakonawa"), BAKONAWA_1, 1, instance_npcname("#Bakonawan1")+"::OnMyMobDead"); //original: (78, 83)
+msgctxt "#Bakonawan1"
+msgid "Bakonawa"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("10 minutes"));
+msgctxt "#Bakonawan1"
+msgid "10 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("9 minutes"));
+msgctxt "#Bakonawan1"
+msgid "9 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("8 minutes"));
+msgctxt "#Bakonawan1"
+msgid "8 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("7 minutes"));
+msgctxt "#Bakonawan1"
+msgid "7 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("6 minutes"));
+msgctxt "#Bakonawan1"
+msgid "6 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("5 minutes"));
+msgctxt "#Bakonawan1"
+msgid "5 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("4 minutes"));
+msgctxt "#Bakonawan1"
+msgid "4 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("3 minutes"));
+msgctxt "#Bakonawan1"
+msgid "3 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("2 minutes"));
+msgctxt "#Bakonawan1"
+msgid "2 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("1 minute"));
+msgctxt "#Bakonawan1"
+msgid "1 minute"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Time Limit: 30 seconds"), bc_map, "0xff4400"); //FW_NORMAL 18 0 0
+msgctxt "#Bakonawan1"
+msgid "Time Limit: 30 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(.@map$, _("Bakonawa has escaped deep into the lake."), bc_map, C_YELLOW); //FW_NORMAL 20 0 0
+msgctxt "#Bakonawan1"
+msgid "Bakonawa has escaped deep into the lake."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), sprintf(_$("Time Limit: %s"), getarg(0)), bc_map, "0xff4400"); //FW_NORMAL 15 0 0
+#, c-format
+msgctxt "#Bakonawan1"
+msgid "Time Limit: %s"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# monster(.@map$, .@x[.@i], .@y[.@i], _("Bakonawa's Will"), HIDDEN_MOB, 1, instance_npcname("#SummonPuppetsn1")+"::OnMyMobDead");
+msgctxt "#SummonPuppetsn1"
+msgid "Bakonawa's Will"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Taho: Good! Bakonawa is hidden under water. He will now try to swallow the moon."), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "#BakonawaDeadn1"
+msgid "Taho: Good! Bakonawa is hidden under water. He will now try to swallow the moon."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Taho: We must make loud noises with caldron and gong so he can never concentrate on the moon!"), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "#BakonawaDeadn1"
+msgid "Taho: We must make loud noises with caldron and gong so he can never concentrate on the moon!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Taho: Do not engage on him even if he come above the surface. Just make loud noises!"), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "#BakonawaDeadn1"
+msgid "Taho: Do not engage on him even if he come above the surface. Just make loud noises!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Mission - Destroy 2 caldrons and 2 gongs on left and right sides of the lake."), bc_map, "0xff3300"); //FW_NORMAL 15 0 0
+msgctxt "#BakonawaDeadn1"
+msgid "Mission - Destroy 2 caldrons and 2 gongs on left and right sides of the lake."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# monster(.@map$, 95, 98, _("Caldron"), MA_DRUM, 1, .@label$);
+msgctxt "#Bakonawan2"
+msgid "Caldron"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# monster(.@map$, 97, 104, _("Gong"), MA_DRUM, 1, .@label$);
+msgctxt "#Bakonawan2"
+msgid "Gong"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(.@map$, sprintf(_$("Taho: Good! %d left to go!"), .@mob_dead_num), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+#, c-format
+msgctxt "#Bakonawan2"
+msgid "Taho: Good! %d left to go!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("5 minutes"), 15, 1);
+msgctxt "#Bakonawan2"
+msgid "5 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("4 minutes"), 15, 1);
+msgctxt "#Bakonawan2"
+msgid "4 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("3 minutes"), 15, 1);
+msgctxt "#Bakonawan2"
+msgid "3 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("2 minutes"), 15, 1);
+msgctxt "#Bakonawan2"
+msgid "2 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("1 minute"), 15, 1);
+msgctxt "#Bakonawan2"
+msgid "1 minute"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("30 seconds"), 15, 0);
+msgctxt "#Bakonawan2"
+msgid "30 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("20 seconds"), 15, 0);
+msgctxt "#Bakonawan2"
+msgid "20 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("10 seconds"), 15, 0);
+msgctxt "#Bakonawan2"
+msgid "10 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("5 seconds"), 16, 0);
+msgctxt "#Bakonawan2"
+msgid "5 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("4 seconds"), 17, 0);
+msgctxt "#Bakonawan2"
+msgid "4 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("3 seconds"), 18, 0);
+msgctxt "#Bakonawan2"
+msgid "3 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("2 seconds"), 19, 0);
+msgctxt "#Bakonawan2"
+msgid "2 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("1 second"), 20, 0);
+msgctxt "#Bakonawan2"
+msgid "1 second"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(.@map$, _("Bakonawa has escaped deep into the lake."), bc_map, C_YELLOW); //FW_NORMAL 20 0 0
+msgctxt "#Bakonawan2"
+msgid "Bakonawa has escaped deep into the lake."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), sprintf(_$("Time Limit: %s"), getarg(0)), bc_map, "0xff4400"); //FW_NORMAL getarg(1) 0 0
+#, c-format
+msgctxt "#Bakonawan2"
+msgid "Time Limit: %s"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# monster(instance_mapname("1@ma_b"), 78, 81, _("Enraged Bakonawa"), BAKONAWA_2, 1, instance_npcname("#Bakonawan2-1")+"::OnMyMobDead"); //original: (78, 93)
+msgctxt "#Bakonawan2-1"
+msgid "Enraged Bakonawa"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Taho: He is back into the lake again. Is it over?"), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "#Bakonawan2-1"
+msgid "Taho: He is back into the lake again. Is it over?"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Taho: UHM! Something is moving up rapidly under the water! Ba... Bakonawa is coming!!"), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "#Bakonawan2-1"
+msgid "Taho: UHM! Something is moving up rapidly under the water! Ba... Bakonawa is coming!!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Mission - Eliminate Bakonawa who became more fierce."), bc_map, "0xff3300"); //FW_NORMAL 15 0 0
+msgctxt "#Bakonawan2-1"
+msgid "Mission - Eliminate Bakonawa who became more fierce."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# monster(instance_mapname("1@ma_b"), 78, 81, _("Enraged Bakonawa"), BAKONAWA_3, 1, instance_npcname("#Bakonawan3")+"::OnMyMobDead"); //original: (78, 83)
+msgctxt "#Bakonawan3"
+msgid "Enraged Bakonawa"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(.@map$, _("Taho: We got him! I can see he has threw up something that looks like a box."), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "#Bakonawan3"
+msgid "Taho: We got him! I can see he has threw up something that looks like a box."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("10 minutes"), 15, 1);
+msgctxt "#Bakonawan3"
+msgid "10 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("5 minutes"), 15, 1);
+msgctxt "#Bakonawan3"
+msgid "5 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("4 minutes"), 15, 1);
+msgctxt "#Bakonawan3"
+msgid "4 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("3 minutes"), 15, 1);
+msgctxt "#Bakonawan3"
+msgid "3 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("2 minutes"), 15, 1);
+msgctxt "#Bakonawan3"
+msgid "2 minutes"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("1 minute"), 15, 1);
+msgctxt "#Bakonawan3"
+msgid "1 minute"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("30 seconds"), 15, 0);
+msgctxt "#Bakonawan3"
+msgid "30 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("20 seconds"), 15, 0);
+msgctxt "#Bakonawan3"
+msgid "20 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("10 seconds"), 15, 0);
+msgctxt "#Bakonawan3"
+msgid "10 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("5 seconds"), 16, 0);
+msgctxt "#Bakonawan3"
+msgid "5 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("4 seconds"), 17, 0);
+msgctxt "#Bakonawan3"
+msgid "4 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("3 seconds"), 18, 0);
+msgctxt "#Bakonawan3"
+msgid "3 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("2 seconds"), 19, 0);
+msgctxt "#Bakonawan3"
+msgid "2 seconds"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# callsub(OnAnnounce, _("1 second"), 20, 0);
+msgctxt "#Bakonawan3"
+msgid "1 second"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(.@map$, _("Bakonawa has escaped deep into the lake."), bc_map, C_YELLOW); //FW_NORMAL 20 0 0
+msgctxt "#Bakonawan3"
+msgid "Bakonawa has escaped deep into the lake."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), sprintf(_$("Time Limit: %s"), getarg(0)), bc_map, "0xff4400"); //FW_NORMAL getarg(1) 0 0
+#, c-format
+msgctxt "#Bakonawan3"
+msgid "Time Limit: %s"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# areamonster(.@map$, 74, 74, 82, 74, _("Bakonawa's Puppet"), G_WAKWAK, 1, .@label$);
+msgctxt "#Bakonawan3-1"
+msgid "Bakonawa's Puppet"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("It seems you are carrying too many different kinds of items. Please try again after reducing it.");
+msgctxt "Taho#Completed"
+msgid "It seems you are carrying too many different kinds of items. Please try again after reducing it."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("It seems you are already carrying items of too much weight. Please try again after reducing the weight.");
+msgctxt "Taho#Completed"
+msgid "It seems you are already carrying items of too much weight. Please try again after reducing the weight."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("[Taho]");
+msgctxt "Taho#Completed"
+msgid "[Taho]"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("This was found from Bakonawa's corpse. It would be better if you take this.");
+msgctxt "Taho#Completed"
+msgid "This was found from Bakonawa's corpse. It would be better if you take this."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("We better hurry and get out of this place. This place is still dangerous even without Bakonawa...");
+msgctxt "Taho#Completed"
+msgid "We better hurry and get out of this place. This place is still dangerous even without Bakonawa..."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Then let's use to the rope to go up!");
+msgctxt "Taho#Completed"
+msgid "Then let's use to the rope to go up!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# monster(instance_mapname("1@ma_b"), 78, 74, _("Bakonawa Treasure Box"), MA_TREASURE, 1);
+msgctxt "Taho#Completed"
+msgid "Bakonawa Treasure Box"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mapannounce(instance_mapname("1@ma_b"), _("Taho: After opening the treasure box, please visit me at the top of the hill. I've got something to give to you."), bc_map, C_AQUA); //FW_NORMAL 15 0 0
+msgctxt "Taho#Completed"
+msgid "Taho: After opening the treasure box, please visit me at the top of the hill. I've got something to give to you."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("[Taho]");
+msgctxt "Taho#Fail"
+msgid "[Taho]"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("HMM. We almost got him but he is one fast creature...");
+msgctxt "Taho#Fail"
+msgid "HMM. We almost got him but he is one fast creature..."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Are we going to try again?");
+msgctxt "Taho#Fail"
+msgid "Are we going to try again?"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# switch (select("Hold on a sec!", "Of course! We cannot stand back now!")) {
+msgctxt "Taho#Fail"
+msgid "Hold on a sec!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# switch (select("Hold on a sec!", "Of course! We cannot stand back now!")) {
+msgctxt "Taho#Fail"
+msgid "Of course! We cannot stand back now!"
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("AWW... I almost brought him out.");
+msgctxt "Taho#Fail"
+msgid "AWW... I almost brought him out."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("Then I will use Albopal once again to the lake.");
+msgctxt "Taho#Fail"
+msgid "Then I will use Albopal once again to the lake."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("We are about to see Bakonawa with intenser anger...");
+msgctxt "Taho#Fail"
+msgid "We are about to see Bakonawa with intenser anger..."
+msgstr ""
+
+#: npc/re/instances/BakonawaLake.txt
+# mes("I am dropping Albopal like I did a while ago. I hope it pisses him off...");
+msgctxt "Taho#Fail"
+msgid "I am dropping Albopal like I did a while ago. I hope it pisses him off..."
+msgstr ""

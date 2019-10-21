@@ -1,0 +1,386 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- Only members of the -";
+msgctxt "Mission [71 - 85]"
+msgid "- Only members of the -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- Eden Group can read -";
+msgctxt "Mission [71 - 85]"
+msgid "- Eden Group can read -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- this bulletin board. -";
+msgctxt "Mission [71 - 85]"
+msgid "- this bulletin board. -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- Since the client has moved -";
+msgctxt "Mission [71 - 85]"
+msgid "- Since the client has moved -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- to another place, -";
+msgctxt "Mission [71 - 85]"
+msgid "- to another place, -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- the application form has been removed. -";
+msgctxt "Mission [71 - 85]"
+msgid "- the application form has been removed. -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- right level can read -";
+msgctxt "Mission [71 - 85]"
+msgid "- right level can read -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- Try to find a board -";
+msgctxt "Mission [71 - 85]"
+msgid "- Try to find a board -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- that suits your level. -";
+msgctxt "Mission [71 - 85]"
+msgid "- that suits your level. -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "You have quests in progress.";
+msgctxt "Mission [71 - 85]"
+msgid "You have quests in progress."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "Do you want to turn them in?";
+msgctxt "Mission [71 - 85]"
+msgid "Do you want to turn them in?"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# if(select("Of course.", "No.") == 2)
+msgctxt "Mission [71 - 85]"
+msgid "Of course."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# if(select("Of course.", "No.") == 2)
+msgctxt "Mission [71 - 85]"
+msgid "No."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- Choose where you -";
+msgctxt "Mission [71 - 85]"
+msgid "- Choose where you -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- would like to hunt. -";
+msgctxt "Mission [71 - 85]"
+msgid "- would like to hunt. -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Sphinx Dungeon", "Glast Heim", "Juno Area", "Clock Tower", "Localized Islands")) {
+msgctxt "Mission [71 - 85]"
+msgid "Sphinx Dungeon"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Sphinx Dungeon", "Glast Heim", "Juno Area", "Clock Tower", "Localized Islands")) {
+msgctxt "Mission [71 - 85]"
+msgid "Glast Heim"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Sphinx Dungeon", "Glast Heim", "Juno Area", "Clock Tower", "Localized Islands")) {
+msgctxt "Mission [71 - 85]"
+msgid "Juno Area"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Sphinx Dungeon", "Glast Heim", "Juno Area", "Clock Tower", "Localized Islands")) {
+msgctxt "Mission [71 - 85]"
+msgid "Clock Tower"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Sphinx Dungeon", "Glast Heim", "Juno Area", "Clock Tower", "Localized Islands")) {
+msgctxt "Mission [71 - 85]"
+msgid "Localized Islands"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- There are several requests -";
+msgctxt "Mission [71 - 85]"
+msgid "- There are several requests -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- related to the Sphinx Dungeon -";
+msgctxt "Mission [71 - 85]"
+msgid "- related to the Sphinx Dungeon -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- on this mission Board. -";
+msgctxt "Mission [71 - 85]"
+msgid "- on this mission Board. -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Requiem", "Hunt Marduk", "Hunt Pasana")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Requiem"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Requiem", "Hunt Marduk", "Hunt Pasana")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Marduk"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Requiem", "Hunt Marduk", "Hunt Pasana")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Pasana"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- related to Glast Heim -";
+msgctxt "Mission [71 - 85]"
+msgid "- related to Glast Heim -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Dark Frame", "Hunt Evil Druid", "Hunt Wraith", "Hunt Raydric Archer")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Dark Frame"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Dark Frame", "Hunt Evil Druid", "Hunt Wraith", "Hunt Raydric Archer")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Evil Druid"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Dark Frame", "Hunt Evil Druid", "Hunt Wraith", "Hunt Raydric Archer")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Wraith"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Dark Frame", "Hunt Evil Druid", "Hunt Wraith", "Hunt Raydric Archer")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Raydric Archer"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- related to the area -";
+msgctxt "Mission [71 - 85]"
+msgid "- related to the area -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- around Juno. -";
+msgctxt "Mission [71 - 85]"
+msgid "- around Juno. -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Grand Peco", "Hunt Sleeper", "Hunt Goat", "Hunt Harpy")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Grand Peco"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Grand Peco", "Hunt Sleeper", "Hunt Goat", "Hunt Harpy")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Sleeper"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Grand Peco", "Hunt Sleeper", "Hunt Goat", "Hunt Harpy")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Goat"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Grand Peco", "Hunt Sleeper", "Hunt Goat", "Hunt Harpy")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Harpy"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- related to the Clock Tower -";
+msgctxt "Mission [71 - 85]"
+msgid "- related to the Clock Tower -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Clock", "Hunt Punk", "Hunt Rideword")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Clock"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Clock", "Hunt Punk", "Hunt Rideword")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Punk"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Clock", "Hunt Punk", "Hunt Rideword")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Rideword"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "- related to the Localized Islands -";
+msgctxt "Mission [71 - 85]"
+msgid "- related to the Localized Islands -"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Kikimora", "Hunt Miyabi Doll", "Hunt Mi Gao", "Hunt Headless Mule", "Hunt Tamruan", "Gather Festival Masks for the Festival")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Kikimora"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Kikimora", "Hunt Miyabi Doll", "Hunt Mi Gao", "Hunt Headless Mule", "Hunt Tamruan", "Gather Festival Masks for the Festival")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Miyabi Doll"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Kikimora", "Hunt Miyabi Doll", "Hunt Mi Gao", "Hunt Headless Mule", "Hunt Tamruan", "Gather Festival Masks for the Festival")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Mi Gao"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Kikimora", "Hunt Miyabi Doll", "Hunt Mi Gao", "Hunt Headless Mule", "Hunt Tamruan", "Gather Festival Masks for the Festival")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Headless Mule"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Kikimora", "Hunt Miyabi Doll", "Hunt Mi Gao", "Hunt Headless Mule", "Hunt Tamruan", "Gather Festival Masks for the Festival")) {
+msgctxt "Mission [71 - 85]"
+msgid "Hunt Tamruan"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# switch(select("Hunt Kikimora", "Hunt Miyabi Doll", "Hunt Mi Gao", "Hunt Headless Mule", "Hunt Tamruan", "Gather Festival Masks for the Festival")) {
+msgctxt "Mission [71 - 85]"
+msgid "Gather Festival Masks for the Festival"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "'"+.@name$+"' completed. Do you want to turn it in and receive your reward?";
+msgctxt "Mission [71 - 85]"
+msgid "'"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "'"+.@name$+"' completed. Do you want to turn it in and receive your reward?";
+msgctxt "Mission [71 - 85]"
+msgid "' completed. Do you want to turn it in and receive your reward?"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# if(select("Turn in quest.", "Cancel.") == 1) {
+msgctxt "Mission [71 - 85]"
+msgid "Turn in quest."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# if(select("Turn in quest.", "Cancel.") == 1) {
+msgctxt "Mission [71 - 85]"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "You've received EXP for finishing the quest.";
+msgctxt "Mission [71 - 85]"
+msgid "You've received EXP for finishing the quest."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "Return here when you've finished the quest.";
+msgctxt "Mission [71 - 85]"
+msgid "Return here when you've finished the quest."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "You have completed the quest.";
+msgctxt "Mission [71 - 85]"
+msgid "You have completed the quest."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "Do you want to accept the quest?";
+msgctxt "Mission [71 - 85]"
+msgid "Do you want to accept the quest?"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# if(select("Yes.", "No.") == 1) {
+msgctxt "Mission [71 - 85]"
+msgid "Yes."
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "You've received the quest '"+.@name$+"'. View your quest info for more details.";
+msgctxt "Mission [71 - 85]"
+msgid "You've received the quest '"
+msgstr ""
+
+#: npc/re/quests/eden/71-85.txt
+# mes "You've received the quest '"+.@name$+"'. View your quest info for more details.";
+msgctxt "Mission [71 - 85]"
+msgid "'. View your quest info for more details."
+msgstr ""

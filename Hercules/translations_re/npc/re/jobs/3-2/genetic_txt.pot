@@ -1,0 +1,2294 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "[Alchemist Union Member]";
+msgctxt "Alchemist Union Member"
+msgid "[Alchemist Union Member]"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- You still have unused skill points. Come back when you have used all of them. -";
+msgctxt "Alchemist Union Member"
+msgid "- You still have unused skill points. Come back when you have used all of them. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Our Alchemist Union brings up many junior alchemists with various promotions and investigations.";
+msgctxt "Alchemist Union Member"
+msgid "Our Alchemist Union brings up many junior alchemists with various promotions and investigations."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "They have spread to all corners of Rune-Midgart and were active in many fields like sciences or special item production methods.";
+msgctxt "Alchemist Union Member"
+msgid "They have spread to all corners of Rune-Midgart and were active in many fields like sciences or special item production methods."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "We call the members of our new union ^3131FF'Geneticists'^000000.";
+msgctxt "Alchemist Union Member"
+msgid "We call the members of our new union ^3131FF'Geneticists'^000000."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Geneticists are the ones who have reached their peak potential in the world of Alchemy. They are the ones who currently spearhead alchemy throughout all of Rune-Midgart.";
+msgctxt "Alchemist Union Member"
+msgid "Geneticists are the ones who have reached their peak potential in the world of Alchemy. They are the ones who currently spearhead alchemy throughout all of Rune-Midgart."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It looks like you are an expert in this field, how about meeting other geneticists?";
+msgctxt "Alchemist Union Member"
+msgid "It looks like you are an expert in this field, how about meeting other geneticists?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Not long ago there was a Geneticist who announced a sensational new life studying research.";
+msgctxt "Alchemist Union Member"
+msgid "Not long ago there was a Geneticist who announced a sensational new life studying research."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You are very knowledgeable. Do you think you might understand her work?";
+msgctxt "Alchemist Union Member"
+msgid "You are very knowledgeable. Do you think you might understand her work?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Her study may help you gain the knowledge to help you make a Geneticist!";;
+msgctxt "Alchemist Union Member"
+msgid "Her study may help you gain the knowledge to help you make a Geneticist!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "How's that sound? Do you want to meet a Geneticist?";
+msgctxt "Alchemist Union Member"
+msgid "How's that sound? Do you want to meet a Geneticist?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Of course, I want to meet a Geneticist.", "I don't want to meet a Geneticist.")) {
+msgctxt "Alchemist Union Member"
+msgid "Of course, I want to meet a Geneticist."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Of course, I want to meet a Geneticist.", "I don't want to meet a Geneticist.")) {
+msgctxt "Alchemist Union Member"
+msgid "I don't want to meet a Geneticist."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Wise choice!";
+msgctxt "Alchemist Union Member"
+msgid "Wise choice!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "The infamous Geneticist 'Devries'.";
+msgctxt "Alchemist Union Member"
+msgid "The infamous Geneticist 'Devries'."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You can find her in the Alchemy Lab at the western part of Lighthalzen. There is also another Geneticist studying weaponry there, you might want to pay her a visit as well.";
+msgctxt "Alchemist Union Member"
+msgid "You can find her in the Alchemy Lab at the western part of Lighthalzen. There is also another Geneticist studying weaponry there, you might want to pay her a visit as well."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Aren't you interested in the study of life?";
+msgctxt "Alchemist Union Member"
+msgid "Aren't you interested in the study of life?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "The infamous Geneticist is studying at the Alchemy Lab in the western part of Lighthalzen.";
+msgctxt "Alchemist Union Member"
+msgid "The infamous Geneticist is studying at the Alchemy Lab in the western part of Lighthalzen."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "If you are interested, go meet with her.";
+msgctxt "Alchemist Union Member"
+msgid "If you are interested, go meet with her."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Geneticists are the ones who have reached their peak potential in the world of Alchemy. They are the ones who currently spearhead alchemy throughout all of Rune-Midgard.";
+msgctxt "Alchemist Union Member"
+msgid "Geneticists are the ones who have reached their peak potential in the world of Alchemy. They are the ones who currently spearhead alchemy throughout all of Rune-Midgard."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- You still have some unused skill points. -";
+msgctxt "Devries#gen"
+msgid "- You still have some unused skill points. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "[Devries]";
+msgctxt "Devries#gen"
+msgid "[Devries]"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh! The bloodsucking plant sample C is withering again.";
+msgctxt "Devries#gen"
+msgid "Oh! The bloodsucking plant sample C is withering again."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Should I change the ingredient of the growth care?";
+msgctxt "Devries#gen"
+msgid "Should I change the ingredient of the growth care?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Hey please cheer up soon!";
+msgctxt "Devries#gen"
+msgid "Hey please cheer up soon!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh? A stranger?";
+msgctxt "Devries#gen"
+msgid "Oh? A stranger?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Your look tells me that you are doing Alchemy as well right?";
+msgctxt "Devries#gen"
+msgid "Your look tells me that you are doing Alchemy as well right?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "People say the number of alchemists is increasing nowadays though there aren't may who study this field properly!";
+msgctxt "Devries#gen"
+msgid "People say the number of alchemists is increasing nowadays though there aren't may who study this field properly!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "They're all too worried about saying things like, ''Look at my bomb damage!'' or ''isn?t my homunculus prettier?''";
+msgctxt "Devries#gen"
+msgid "They're all too worried about saying things like, ''Look at my bomb damage!'' or ''isn?t my homunculus prettier?''"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "The Alchemist Union was saying they'd support the researchers but actually what you get from the studying is just 'Spores Which Can Be Easily Raised'!";
+msgctxt "Devries#gen"
+msgid "The Alchemist Union was saying they'd support the researchers but actually what you get from the studying is just 'Spores Which Can Be Easily Raised'!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Thanks to that, there are spores everywhere in my lab! There are spores everywhere!";
+msgctxt "Devries#gen"
+msgid "Thanks to that, there are spores everywhere in my lab! There are spores everywhere!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Why do you talk like that?");
+msgctxt "Devries#gen"
+msgid "Why do you talk like that?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "'Cause I'm from Rune-Midgart!";
+msgctxt "Devries#gen"
+msgid "'Cause I'm from Rune-Midgart!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Have you ever been to Rune-Midgart? Everyone in Rune-Midgart speaks like this.";
+msgctxt "Devries#gen"
+msgid "Have you ever been to Rune-Midgart? Everyone in Rune-Midgart speaks like this."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Impossible?!", "I'm also from Rune-Midgart.")) {
+msgctxt "Devries#gen"
+msgid "Impossible?!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Impossible?!", "I'm also from Rune-Midgart.")) {
+msgctxt "Devries#gen"
+msgid "I'm also from Rune-Midgart."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Impossible?";
+msgctxt "Devries#gen"
+msgid "Impossible?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Do you come from a Rune-Midgart village?";
+msgctxt "Devries#gen"
+msgid "Do you come from a Rune-Midgart village?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "My village is very big, everyone there speaks like this.";
+msgctxt "Devries#gen"
+msgid "My village is very big, everyone there speaks like this."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Really! That's why I felt some kind of familiar atmosphere around you.";
+msgctxt "Devries#gen"
+msgid "Really! That's why I felt some kind of familiar atmosphere around you."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Meeting a hometown person in Schwaltzvalt, it's my pleasure to meet you!";
+msgctxt "Devries#gen"
+msgid "Meeting a hometown person in Schwaltzvalt, it's my pleasure to meet you!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Thump!! -";
+msgctxt "Devries#gen"
+msgid "- Thump!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Ughhhhh! That woman started again!";
+msgctxt "Devries#gen"
+msgid "Ughhhhh! That woman started again!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("What's that sound?");
+msgctxt "Devries#gen"
+msgid "What's that sound?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "That's the sound of an experiment being carried out by my roommate, Demi Calberine..";
+msgctxt "Devries#gen"
+msgid "That's the sound of an experiment being carried out by my roommate, Demi Calberine.."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Demi's a fire shell technician so she's always noisy like that.";
+msgctxt "Devries#gen"
+msgid "Demi's a fire shell technician so she's always noisy like that."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Look at that!";
+msgctxt "Devries#gen"
+msgid "Look at that!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "My spores and plants are all freaked out!";
+msgctxt "Devries#gen"
+msgid "My spores and plants are all freaked out!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I can't do my work with those noisy sounds. It gives me so much stress!!";
+msgctxt "Devries#gen"
+msgid "I can't do my work with those noisy sounds. It gives me so much stress!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Munch Crunch -";
+msgctxt "Devries#gen"
+msgid "- Munch Crunch -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "When I don't feel good, I savor Mr. Orlean's handmade cookies little by little.";
+msgctxt "Devries#gen"
+msgid "When I don't feel good, I savor Mr. Orlean's handmade cookies little by little."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It's a high-quality cookie that I got from Prontera. When I get one bite, it seems like I'm floating to Asgard.";
+msgctxt "Devries#gen"
+msgid "It's a high-quality cookie that I got from Prontera. When I get one bite, it seems like I'm floating to Asgard."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "The softness of the sweet cookie drowns out the clashing sounds from Demi Calberine.";
+msgctxt "Devries#gen"
+msgid "The softness of the sweet cookie drowns out the clashing sounds from Demi Calberine."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Wanna try one?";
+msgctxt "Devries#gen"
+msgid "Wanna try one?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Ah, I've eaten all of it.";
+msgctxt "Devries#gen"
+msgid "Ah, I've eaten all of it."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "But it's okay! On the 2nd floor of my room, there are boxes of those!";
+msgctxt "Devries#gen"
+msgid "But it's okay! On the 2nd floor of my room, there are boxes of those!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I couldn't stop buying it all in bulk. Ho ho ho.";
+msgctxt "Devries#gen"
+msgid "I couldn't stop buying it all in bulk. Ho ho ho."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Zooooooooooooooooing -";
+msgctxt "Devries#gen"
+msgid "- Zooooooooooooooooing -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- (Screeching Sounds)!!! -";
+msgctxt "Devries#gen"
+msgid "- (Screeching Sounds)!!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- (Screeching)!!! -";
+msgctxt "Devries#gen"
+msgid "- (Screeching)!!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Bump! Bump! Bump! -";
+msgctxt "Devries#gen"
+msgid "- Bump! Bump! Bump! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "..................";
+msgctxt "Devries#gen"
+msgid ".................."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Yoooooooooooow";
+msgctxt "Devries#gen"
+msgid "Yoooooooooooow"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Yipeeeeeeeeee!!!";
+msgctxt "Devries#gen"
+msgid "Yipeeeeeeeeee!!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Demiiiiiiiiiiiiiiiiiiiiiiii!!!";
+msgctxt "Devries#gen"
+msgid "Demiiiiiiiiiiiiiiiiiiiiiiii!!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Demiiiiiiiiiiiiiiiiiiiii!!!";
+msgctxt "Devries#gen"
+msgid "Demiiiiiiiiiiiiiiiiiiiii!!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- For now it seems that I -";
+msgctxt "Devries#gen"
+msgid "- For now it seems that I -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- need to calm down Devries. -";
+msgctxt "Devries#gen"
+msgid "- need to calm down Devries. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Demiiiiii!!!";
+msgctxt "Devries#gen"
+msgid "Demiiiiii!!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Demiiiiiiiii!!!";
+msgctxt "Devries#gen"
+msgid "Demiiiiiiiii!!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Hmm. -";
+msgctxt "Devries#gen"
+msgid "- Hmm. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- What'll make her calm? -";
+msgctxt "Devries#gen"
+msgid "- What'll make her calm? -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Hand Devries a cookie.");
+msgctxt "Devries#gen"
+msgid "Hand Devries a cookie."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Devries quickly snatches -";
+msgctxt "Devries#gen"
+msgid "- Devries quickly snatches -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- away the cookie and stuffs -";
+msgctxt "Devries#gen"
+msgid "- away the cookie and stuffs -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- it all in her mouth. -";
+msgctxt "Devries#gen"
+msgid "- it all in her mouth. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Crunch Crunch Crunch -";
+msgctxt "Devries#gen"
+msgid "- Crunch Crunch Crunch -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Ah, The sweet buttery taste remains at the end of my tongue.";
+msgctxt "Devries#gen"
+msgid "Ah, The sweet buttery taste remains at the end of my tongue."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This really gives me peace of mind.";
+msgctxt "Devries#gen"
+msgid "This really gives me peace of mind."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Demi is studying hard today as well";
+msgctxt "Devries#gen"
+msgid "Demi is studying hard today as well"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Huhuhu. She's really a hard worker.";
+msgctxt "Devries#gen"
+msgid "Huhuhu. She's really a hard worker."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- That cookie changed her mood quick. -";
+msgctxt "Devries#gen"
+msgid "- That cookie changed her mood quick. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You came here with a love for Alchemy?";
+msgctxt "Devries#gen"
+msgid "You came here with a love for Alchemy?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh wait, We haven't introduced ourselves yet.";
+msgctxt "Devries#gen"
+msgid "Oh wait, We haven't introduced ourselves yet."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "My name is Devries.";
+msgctxt "Devries#gen"
+msgid "My name is Devries."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I'm very interested in making living things that show new and peculiar growth.";
+msgctxt "Devries#gen"
+msgid "I'm very interested in making living things that show new and peculiar growth."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What's your name, young alchemist?";
+msgctxt "Devries#gen"
+msgid "What's your name, young alchemist?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("I'm "+strcharinfo(PC_NAME)+".");
+msgctxt "Devries#gen"
+msgid "I'm "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, "+strcharinfo(PC_NAME)+"!";
+msgctxt "Devries#gen"
+msgid "Oh, "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "That's a very unusual name. Pleased to meet you.";
+msgctxt "Devries#gen"
+msgid "That's a very unusual name. Pleased to meet you."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "But I can't memorize the name well.";
+msgctxt "Devries#gen"
+msgid "But I can't memorize the name well."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "So I'll just call you <Popo>. Would that be ok?";
+msgctxt "Devries#gen"
+msgid "So I'll just call you <Popo>. Would that be ok?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("I uhh...");
+msgctxt "Devries#gen"
+msgid "I uhh..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Great...";
+msgctxt "Devries#gen"
+msgid "Great..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Popo, have you heard of my research?";
+msgctxt "Devries#gen"
+msgid "Popo, have you heard of my research?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You came here because of that, am I right?";
+msgctxt "Devries#gen"
+msgid "You came here because of that, am I right?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("No.", "Yes.")) {
+msgctxt "Devries#gen"
+msgid "No."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("No.", "Yes.")) {
+msgctxt "Devries#gen"
+msgid "Yes."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Well, it's all over your face.";
+msgctxt "Devries#gen"
+msgid "Well, it's all over your face."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You don't have to be shy.";
+msgctxt "Devries#gen"
+msgid "You don't have to be shy."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "That's right huh?";
+msgctxt "Devries#gen"
+msgid "That's right huh?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Well, as I expected, there really is something that makes homeland people get each other";
+msgctxt "Devries#gen"
+msgid "Well, as I expected, there really is something that makes homeland people get each other"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "When you saw me in that feverish state, you remembered what I said before and that calmed me down.";
+msgctxt "Devries#gen"
+msgid "When you saw me in that feverish state, you remembered what I said before and that calmed me down."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I like the way you manage yourself and take care to remember small details.";
+msgctxt "Devries#gen"
+msgid "I like the way you manage yourself and take care to remember small details."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You have the talent to become a Geneticist.";
+msgctxt "Devries#gen"
+msgid "You have the talent to become a Geneticist."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "^FF0000If you become a Geneticist, you can't take the Alchemist's or Biochemist study course that you haven't investigated before.^000000";
+msgctxt "Devries#gen"
+msgid "^FF0000If you become a Geneticist, you can't take the Alchemist's or Biochemist study course that you haven't investigated before.^000000"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "If that's all right for you, how about giving it a shot right now?.";
+msgctxt "Devries#gen"
+msgid "If that's all right for you, how about giving it a shot right now?."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("I'll try later.", "I want to become a Geneticist!")) {
+msgctxt "Devries#gen"
+msgid "I'll try later."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("I'll try later.", "I want to become a Geneticist!")) {
+msgctxt "Devries#gen"
+msgid "I want to become a Geneticist!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Alright.";
+msgctxt "Devries#gen"
+msgid "Alright."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Even though your knowledge is not that great as that of Geneticists, a fundamental knowledge is also important.";
+msgctxt "Devries#gen"
+msgid "Even though your knowledge is not that great as that of Geneticists, a fundamental knowledge is also important."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Popo, come back to me once you've finished your studies.";
+msgctxt "Devries#gen"
+msgid "Popo, come back to me once you've finished your studies."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Good!";
+msgctxt "Devries#gen"
+msgid "Good!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Let's do it!";
+msgctxt "Devries#gen"
+msgid "Let's do it!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Popo!";
+msgctxt "Devries#gen"
+msgid "Popo!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Are you ready to give it a shot?";
+msgctxt "Devries#gen"
+msgid "Are you ready to give it a shot?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("No.", "Yes!")) {
+msgctxt "Devries#gen"
+msgid "Yes!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You have to do your best! There is no easy way when looking for knowledge!";
+msgctxt "Devries#gen"
+msgid "You have to do your best! There is no easy way when looking for knowledge!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Very good!";
+msgctxt "Devries#gen"
+msgid "Very good!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What do you think of plants, Popo";
+msgctxt "Devries#gen"
+msgid "What do you think of plants, Popo"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Do you like plants? What kind of plants are you interested in?";
+msgctxt "Devries#gen"
+msgid "Do you like plants? What kind of plants are you interested in?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Boom, Boom, Boom -";
+msgctxt "Devries#gen"
+msgid "- Boom, Boom, Boom -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Ah, please tell me Demi Calberine is not starting again?";
+msgctxt "Devries#gen"
+msgid "Ah, please tell me Demi Calberine is not starting again?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Please let my expectation be wrong ... Please... Demi, please...";
+msgctxt "Devries#gen"
+msgid "Please let my expectation be wrong ... Please... Demi, please..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Where did I stop talking";
+msgctxt "Devries#gen"
+msgid "Where did I stop talking"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, right. Plants are very important in Alchemy.";
+msgctxt "Devries#gen"
+msgid "Oh, right. Plants are very important in Alchemy."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Alchemy can make Flora's and Geographers grow immensely fast, so they can help in battle, like those Alchemists...";
+msgctxt "Devries#gen"
+msgid "Alchemy can make Flora's and Geographers grow immensely fast, so they can help in battle, like those Alchemists..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Boom!! Boom!! Boom!! Boom!! -";
+msgctxt "Devries#gen"
+msgid "- Boom!! Boom!! Boom!! Boom!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes ".......................";
+msgctxt "Devries#gen"
+msgid "......................."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Techniques, plants are relatively easy to...";
+msgctxt "Devries#gen"
+msgid "Techniques, plants are relatively easy to..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Boom!!!!!! -";
+msgctxt "Devries#gen"
+msgid "- Boom!!!!!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Crossbreed...";
+msgctxt "Devries#gen"
+msgid "Crossbreed..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Pop!!!!!! -";
+msgctxt "Devries#gen"
+msgid "- Pop!!!!!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Keeeeeeeeeeeeeh!!!! -";
+msgctxt "Devries#gen"
+msgid "- Keeeeeeeeeeeeeh!!!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Boooooooooooooom!!!! -";
+msgctxt "Devries#gen"
+msgid "- Boooooooooooooom!!!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Boom!! Boom!! Boom!! -";
+msgctxt "Devries#gen"
+msgid "- Boom!! Boom!! Boom!! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Popo.";
+msgctxt "Devries#gen"
+msgid "Popo."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I'll give you the test to become a Geneticist.";
+msgctxt "Devries#gen"
+msgid "I'll give you the test to become a Geneticist."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "The subject is <The Perfect Soundproof System>!";
+msgctxt "Devries#gen"
+msgid "The subject is <The Perfect Soundproof System>!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Please think of a way to save me from Demi Calberine's noise, using plants and experimental equipment that are here on the 1st floor of the lab.";
+msgctxt "Devries#gen"
+msgid "Please think of a way to save me from Demi Calberine's noise, using plants and experimental equipment that are here on the 1st floor of the lab."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Well, you better get started!";
+msgctxt "Devries#gen"
+msgid "Well, you better get started!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Please think of a way to save me from Demi Calbereine's noise, using plants and experimental equipment that are here on the 1st floor of the lab.";
+msgctxt "Devries#gen"
+msgid "Please think of a way to save me from Demi Calbereine's noise, using plants and experimental equipment that are here on the 1st floor of the lab."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "There are some guides in the cabinet that you may use.";
+msgctxt "Devries#gen"
+msgid "There are some guides in the cabinet that you may use."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Is there a problem?";
+msgctxt "Devries#gen"
+msgid "Is there a problem?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Nothing.", "The experiment failed.")) {
+msgctxt "Devries#gen"
+msgid "Nothing."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Nothing.", "The experiment failed.")) {
+msgctxt "Devries#gen"
+msgid "The experiment failed."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Better get started, or I'll start to scream!!!";
+msgctxt "Devries#gen"
+msgid "Better get started, or I'll start to scream!!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You can start from the beginning then?";
+msgctxt "Devries#gen"
+msgid "You can start from the beginning then?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Why are you asking me such things?";
+msgctxt "Devries#gen"
+msgid "Why are you asking me such things?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Zing Zing Zigi Zigi -";
+msgctxt "Devries#gen"
+msgid "- Zing Zing Zigi Zigi -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What the hell is Demi Calberine doing?";
+msgctxt "Devries#gen"
+msgid "What the hell is Demi Calberine doing?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "That's really a noisy one.";
+msgctxt "Devries#gen"
+msgid "That's really a noisy one."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Your study is done, Popo?";
+msgctxt "Devries#gen"
+msgid "Your study is done, Popo?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Give me those seeds.";
+msgctxt "Devries#gen"
+msgid "Give me those seeds."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What happened?";
+msgctxt "Devries#gen"
+msgid "What happened?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "How could you say the study is completed without any result?";
+msgctxt "Devries#gen"
+msgid "How could you say the study is completed without any result?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Start again.";
+msgctxt "Devries#gen"
+msgid "Start again."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Well, I'll take a look at the seeds Popo made.";
+msgctxt "Devries#gen"
+msgid "Well, I'll take a look at the seeds Popo made."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What's the result?";
+msgctxt "Devries#gen"
+msgid "What's the result?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "When you put a seed in a Super Cultivator, and adjust the temperature...";
+msgctxt "Devries#gen"
+msgid "When you put a seed in a Super Cultivator, and adjust the temperature..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Damn!";
+msgctxt "Devries#gen"
+msgid "Damn!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Popo, look at that!";
+msgctxt "Devries#gen"
+msgid "Popo, look at that!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "That's really a mysterious plant!";
+msgctxt "Devries#gen"
+msgid "That's really a mysterious plant!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "The inside of the Cultivator is now full of thorny stems!";
+msgctxt "Devries#gen"
+msgid "The inside of the Cultivator is now full of thorny stems!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It's as if the stems are making a wall and growing very sturdily and those are getting tangled!";
+msgctxt "Devries#gen"
+msgid "It's as if the stems are making a wall and growing very sturdily and those are getting tangled!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This is it, Popo!";
+msgctxt "Devries#gen"
+msgid "This is it, Popo!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This plant's properties can be used for many applications!";
+msgctxt "Devries#gen"
+msgid "This plant's properties can be used for many applications!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This is really great, Popo.";
+msgctxt "Devries#gen"
+msgid "This is really great, Popo."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I knew that you were knowledgeable but your ability is more than that!";
+msgctxt "Devries#gen"
+msgid "I knew that you were knowledgeable but your ability is more than that!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I will tell the outcome to the Alchemist Union.";
+msgctxt "Devries#gen"
+msgid "I will tell the outcome to the Alchemist Union."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I will send a recommendation letter saying that your ability is really great and that you could be a brilliant member.";
+msgctxt "Devries#gen"
+msgid "I will send a recommendation letter saying that your ability is really great and that you could be a brilliant member."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Getting an answer from the Union will take some time, so could you wait a moment?";
+msgctxt "Devries#gen"
+msgid "Getting an answer from the Union will take some time, so could you wait a moment?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Why don't you go up to Demi Calberine?";
+msgctxt "Devries#gen"
+msgid "Why don't you go up to Demi Calberine?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "She is a fellow Geneticist, specializing in mini cannons.";
+msgctxt "Devries#gen"
+msgid "She is a fellow Geneticist, specializing in mini cannons."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Go take a look at her experiment results.";
+msgctxt "Devries#gen"
+msgid "Go take a look at her experiment results."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Could you give this message to her? Tell her to conduct her experiments quietly.";
+msgctxt "Devries#gen"
+msgid "Could you give this message to her? Tell her to conduct her experiments quietly."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Uh oh! You failed, Popo.";
+msgctxt "Devries#gen"
+msgid "Uh oh! You failed, Popo."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It didn't grow at all, it's withered already.";
+msgctxt "Devries#gen"
+msgid "It didn't grow at all, it's withered already."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Go and start over!";
+msgctxt "Devries#gen"
+msgid "Go and start over!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, wait a second.";
+msgctxt "Devries#gen"
+msgid "Oh, wait a second."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It seems that the mail's has arrived.";
+msgctxt "Devries#gen"
+msgid "It seems that the mail's has arrived."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You can take a look at the Demi Calberine's work place while we get an answer from the Union.";
+msgctxt "Devries#gen"
+msgid "You can take a look at the Demi Calberine's work place while we get an answer from the Union."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I've got good news for you!";
+msgctxt "Devries#gen"
+msgid "I've got good news for you!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Wait a minute !! -";
+msgctxt "Devries#gen"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Currently you're carrying -";
+msgctxt "Devries#gen"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- too many items with you. -";
+msgctxt "Devries#gen"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Please try again -";
+msgctxt "Devries#gen"
+msgid "- Please try again -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- after you lose some weight. -";
+msgctxt "Devries#gen"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, it looks like you're not ready to hear it.";
+msgctxt "Devries#gen"
+msgid "Oh, it looks like you're not ready to hear it."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "First take off that heavy and dirty cart, that doesn't suit you on this happy moment.";
+msgctxt "Devries#gen"
+msgid "First take off that heavy and dirty cart, that doesn't suit you on this happy moment."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "But you look like you have a lingering desire for previous studies.";
+msgctxt "Devries#gen"
+msgid "But you look like you have a lingering desire for previous studies."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "A letter has arrived from the Alchemist Union.";
+msgctxt "Devries#gen"
+msgid "A letter has arrived from the Alchemist Union."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I'll read it to you, Popo!";
+msgctxt "Devries#gen"
+msgid "I'll read it to you, Popo!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<Dearest Miss Devries,>";
+msgctxt "Devries#gen"
+msgid "<Dearest Miss Devries,>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<We are very aware of the brilliant activities you've shown lately.>";
+msgctxt "Devries#gen"
+msgid "<We are very aware of the brilliant activities you've shown lately.>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<Miss. Devries>";
+msgctxt "Devries#gen"
+msgid "<Miss. Devries>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This guy is also from my hometown.";
+msgctxt "Devries#gen"
+msgid "This guy is also from my hometown."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<I heard very good news that your research results are taking the step of commercial use.>";
+msgctxt "Devries#gen"
+msgid "<I heard very good news that your research results are taking the step of commercial use.>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<I'm sure it will be a great inspiration for other Alchemists.>";
+msgctxt "Devries#gen"
+msgid "<I'm sure it will be a great inspiration for other Alchemists.>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<Come to think of it, you've attached a paper?>";
+msgctxt "Devries#gen"
+msgid "<Come to think of it, you've attached a paper?>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<It was a new plant which makes plants grow super-fast, discovered by an Alchemist named, "+strcharinfo(PC_NAME)+">";
+msgctxt "Devries#gen"
+msgid "<It was a new plant which makes plants grow super-fast, discovered by an Alchemist named, "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<Myself and many other Alchemists from the Alchemist union are taking great interest in this.>";
+msgctxt "Devries#gen"
+msgid "<Myself and many other Alchemists from the Alchemist union are taking great interest in this.>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<We are looking forward to more volumes of study papers and outcomes, especially from other Geneticists who?ve heard this news.>";
+msgctxt "Devries#gen"
+msgid "<We are looking forward to more volumes of study papers and outcomes, especially from other Geneticists who?ve heard this news.>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<I think that "+strcharinfo(PC_NAME)+" has enough ability and talent to be a Geneticist.>";
+msgctxt "Devries#gen"
+msgid "<I think that "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<Please tell "+strcharinfo(PC_NAME)+" as soon as possible that we are expecting remarkable activities as a Geneticist from now on.>";
+msgctxt "Devries#gen"
+msgid "<Please tell "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<The Alchemist Union is very proud of Miss Devries, Miss Demi Calberine and "+strcharinfo(PC_NAME)+" who are excellent talented people.>";
+msgctxt "Devries#gen"
+msgid "<The Alchemist Union is very proud of Miss Devries, Miss Demi Calberine and "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<We hope that you yield good fruits in the future as well.>";
+msgctxt "Devries#gen"
+msgid "<We hope that you yield good fruits in the future as well.>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You are on a riding pet,";
+msgctxt "Devries#gen"
+msgid "You are on a riding pet,"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "so you cannot change your job.";
+msgctxt "Devries#gen"
+msgid "so you cannot change your job."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Please unequip your riding pet and try again!";
+msgctxt "Devries#gen"
+msgid "Please unequip your riding pet and try again!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Congratulations, Popo!";
+msgctxt "Devries#gen"
+msgid "Congratulations, Popo!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You are a Geneticist from now on!!";
+msgctxt "Devries#gen"
+msgid "You are a Geneticist from now on!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Just like the word from the Union, I'm also looking forward to your awesome activities.";
+msgctxt "Devries#gen"
+msgid "Just like the word from the Union, I'm also looking forward to your awesome activities."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Let's try hard together! To become the best Geneticist!";
+msgctxt "Devries#gen"
+msgid "Let's try hard together! To become the best Geneticist!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Popo, do you want to join my Love Orleans club? It's a club for those that love cookies. Of course, we don't think of doing weird things with Charles Orleans.";
+msgctxt "Devries#gen"
+msgid "Popo, do you want to join my Love Orleans club? It's a club for those that love cookies. Of course, we don't think of doing weird things with Charles Orleans."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Am I that pretty to you? Why are you staring at me like that?";
+msgctxt "Devries#gen"
+msgid "Am I that pretty to you? Why are you staring at me like that?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- There's a big box. -";
+msgctxt "Delivery Box#generic"
+msgid "- There's a big box. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Open the box.", "Check the address.", "Do nothing.")) {
+msgctxt "Delivery Box#generic"
+msgid "Open the box."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Open the box.", "Check the address.", "Do nothing.")) {
+msgctxt "Delivery Box#generic"
+msgid "Check the address."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Open the box.", "Check the address.", "Do nothing.")) {
+msgctxt "Delivery Box#generic"
+msgid "Do nothing."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- There are several cookie bags which are packed carefully in the box. -";
+msgctxt "Delivery Box#generic"
+msgid "- There are several cookie bags which are packed carefully in the box. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Take out a cookie bag.", "Do nothing.")) {
+msgctxt "Delivery Box#generic"
+msgid "Take out a cookie bag."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- You've taken out a cookie bag out of the box. -";
+msgctxt "Delivery Box#generic"
+msgid "- You've taken out a cookie bag out of the box. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You do nothing.";
+msgctxt "Delivery Box#generic"
+msgid "You do nothing."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "[From: Rune-Midgarts Kingdom, Prontera, Charles Orleans]";
+msgctxt "Delivery Box#generic"
+msgid "[From: Rune-Midgarts Kingdom, Prontera, Charles Orleans]"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "[Recipient: Schwaltzvalt Republic, Lighthalzen, Devries]";
+msgctxt "Delivery Box#generic"
+msgid "[Recipient: Schwaltzvalt Republic, Lighthalzen, Devries]"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "<The Easiest Alchemy in the World>";
+msgctxt "Plant Guide#generic"
+msgid "<The Easiest Alchemy in the World>"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Written by Bob Ross.";
+msgctxt "Plant Guide#generic"
+msgid "Written by Bob Ross."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Animals", "Plants", "Minerals", "Etc")) {
+msgctxt "Plant Guide#generic"
+msgid "Animals"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Animals", "Plants", "Minerals", "Etc")) {
+msgctxt "Plant Guide#generic"
+msgid "Plants"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Animals", "Plants", "Minerals", "Etc")) {
+msgctxt "Plant Guide#generic"
+msgid "Minerals"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Animals", "Plants", "Minerals", "Etc")) {
+msgctxt "Plant Guide#generic"
+msgid "Etc"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "...Using animals in Alchemy can easily be practiced by anyone.";
+msgctxt "Plant Guide#generic"
+msgid "...Using animals in Alchemy can easily be practiced by anyone."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You can put the animals that you want to use on the white tray, imagine the goal you want to make and then practice the alchemy.";
+msgctxt "Plant Guide#generic"
+msgid "You can put the animals that you want to use on the white tray, imagine the goal you want to make and then practice the alchemy."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It's very easy.";
+msgctxt "Plant Guide#generic"
+msgid "It's very easy."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "...The animals that are used in Alchemy might in the danger of getting extinct because of being captured by thoughtless alchemists.";
+msgctxt "Plant Guide#generic"
+msgid "...The animals that are used in Alchemy might in the danger of getting extinct because of being captured by thoughtless alchemists."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "So I won't mention them.";
+msgctxt "Plant Guide#generic"
+msgid "So I won't mention them."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "...The guide of Alchemy using plants is easy to follow, even for a little kid.";
+msgctxt "Plant Guide#generic"
+msgid "...The guide of Alchemy using plants is easy to follow, even for a little kid."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You can put the plants on the table, and break or cut them, connect them using a simple tool, then do alchemy.";
+msgctxt "Plant Guide#generic"
+msgid "You can put the plants on the table, and break or cut them, connect them using a simple tool, then do alchemy."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "That's really an extraordinary method.";
+msgctxt "Plant Guide#generic"
+msgid "That's really an extraordinary method."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "...The plants usually used for Alchemy are Bigibigi Grass and Muka Trees that have sharp thorns but are delicate inside and Bogi Creeper whose growth speed is really fast but parasitic on living things.";
+msgctxt "Plant Guide#generic"
+msgid "...The plants usually used for Alchemy are Bigibigi Grass and Muka Trees that have sharp thorns but are delicate inside and Bogi Creeper whose growth speed is really fast but parasitic on living things."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "...Using minerals in Alchemy is a way that beginners find pretty easy.";
+msgctxt "Plant Guide#generic"
+msgid "...Using minerals in Alchemy is a way that beginners find pretty easy."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You can put the minerals you want to in the beautifully crafted box, and sing any song that you can think of twice and then practice the alchemy.";
+msgctxt "Plant Guide#generic"
+msgid "You can put the minerals you want to in the beautifully crafted box, and sing any song that you can think of twice and then practice the alchemy."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "That's really an easy way.";
+msgctxt "Plant Guide#generic"
+msgid "That's really an easy way."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "...A mineral that's usually used for Alchemy is 'Phracon' which doesn't cost a lot.";
+msgctxt "Plant Guide#generic"
+msgid "...A mineral that's usually used for Alchemy is 'Phracon' which doesn't cost a lot."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "...Alchemy is the easiest thing in the world.";
+msgctxt "Plant Guide#generic"
+msgid "...Alchemy is the easiest thing in the world."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This writer shows a cobalt blue Alchemy demonstration in front of students every week, and always get a big applaud from them.";
+msgctxt "Plant Guide#generic"
+msgid "This writer shows a cobalt blue Alchemy demonstration in front of students every week, and always get a big applaud from them."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I'm sure that you would be into the Alchemy world at the moment you read this book.";
+msgctxt "Plant Guide#generic"
+msgid "I'm sure that you would be into the Alchemy world at the moment you read this book."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- "+getarg(2)+" -";
+msgctxt "Genetic_Job_Plant"
+msgid "- "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Use it as a material.", "Do not use.")) {
+msgctxt "Genetic_Job_Plant"
+msgid "Use it as a material."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Use it as a material.", "Do not use.")) {
+msgctxt "Genetic_Job_Plant"
+msgid "Do not use."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- You've acquired "+.@str$+getarg(1)+". -";
+msgctxt "Genetic_Job_Plant"
+msgid "- You've acquired "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- This plant doesn't look suitable as an experiment sample. -";
+msgctxt "Genetic_Job_Plant"
+msgid "- This plant doesn't look suitable as an experiment sample. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- You've already acquired "+getarg(1)+". -";
+msgctxt "Genetic_Job_Plant"
+msgid "- You've already acquired "
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Information related to this plant can be found in the Plant Guide in the cabinet.";
+msgctxt "Genetic_Job_Plant"
+msgid "Information related to this plant can be found in the Plant Guide in the cabinet."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- This is a testing table with a lot of equipment. I think I can study the combinations here with plants. -";
+msgctxt "Testing Table#gen"
+msgid "- This is a testing table with a lot of equipment. I think I can study the combinations here with plants. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# if(select("Conduct an experiment.", "Do not conduct an experiment.") == 2) {
+msgctxt "Testing Table#gen"
+msgid "Conduct an experiment."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# if(select("Conduct an experiment.", "Do not conduct an experiment.") == 2) {
+msgctxt "Testing Table#gen"
+msgid "Do not conduct an experiment."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- It's not the time to start an experiment. -";
+msgctxt "Testing Table#gen"
+msgid "- It's not the time to start an experiment. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Testing Table#gen"
+msgid "["
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Hmm, I need to gather plant materials first.";
+msgctxt "Testing Table#gen"
+msgid "Hmm, I need to gather plant materials first."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What shall I do with these plant materials?";
+msgctxt "Testing Table#gen"
+msgid "What shall I do with these plant materials?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Break.", "Smash into little pieces.", "Crush.");
+msgctxt "Testing Table#gen"
+msgid "Break."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Break.", "Smash into little pieces.", "Crush.");
+msgctxt "Testing Table#gen"
+msgid "Smash into little pieces."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Break.", "Smash into little pieces.", "Crush.");
+msgctxt "Testing Table#gen"
+msgid "Crush."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What shall I do now?";
+msgctxt "Testing Table#gen"
+msgid "What shall I do now?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Burn into Ashes.", "Dip into distilled water.", "Steam.");
+msgctxt "Testing Table#gen"
+msgid "Burn into Ashes."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Burn into Ashes.", "Dip into distilled water.", "Steam.");
+msgctxt "Testing Table#gen"
+msgid "Dip into distilled water."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Burn into Ashes.", "Dip into distilled water.", "Steam.");
+msgctxt "Testing Table#gen"
+msgid "Steam."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Put it into a Testing Flask and Shake.", "Freeze.", "Heat.");
+msgctxt "Testing Table#gen"
+msgid "Put it into a Testing Flask and Shake."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Put it into a Testing Flask and Shake.", "Freeze.", "Heat.");
+msgctxt "Testing Table#gen"
+msgid "Freeze."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Put it into a Testing Flask and Shake.", "Freeze.", "Heat.");
+msgctxt "Testing Table#gen"
+msgid "Heat."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Inject it into a testing seed.");
+msgctxt "Testing Table#gen"
+msgid "Inject it into a testing seed."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What kind of seed should I pick?";
+msgctxt "Testing Table#gen"
+msgid "What kind of seed should I pick?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Testing Seed - Type A", "Testing Seed - Type B", "Testing Seed - Type C", "Testing Seed - Type D");
+msgctxt "Testing Table#gen"
+msgid "Testing Seed - Type A"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Testing Seed - Type A", "Testing Seed - Type B", "Testing Seed - Type C", "Testing Seed - Type D");
+msgctxt "Testing Table#gen"
+msgid "Testing Seed - Type B"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Testing Seed - Type A", "Testing Seed - Type B", "Testing Seed - Type C", "Testing Seed - Type D");
+msgctxt "Testing Table#gen"
+msgid "Testing Seed - Type C"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Testing Seed - Type A", "Testing Seed - Type B", "Testing Seed - Type C", "Testing Seed - Type D");
+msgctxt "Testing Table#gen"
+msgid "Testing Seed - Type D"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I've put the prepared materials into the chosen testing seed.";
+msgctxt "Testing Table#gen"
+msgid "I've put the prepared materials into the chosen testing seed."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Good. Now I can let Miss Devries take a look at this seed!";
+msgctxt "Testing Table#gen"
+msgid "Good. Now I can let Miss Devries take a look at this seed!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- It looks like the experiment has failed. I better start over. -";
+msgctxt "Testing Table#gen"
+msgid "- It looks like the experiment has failed. I better start over. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes " - It looks like I need to let Miss Devries take a look at this seed! -";
+msgctxt "Testing Table#gen"
+msgid " - It looks like I need to let Miss Devries take a look at this seed! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "[Demi Calberine]";
+msgctxt "Demi Calberine#gen"
+msgid "[Demi Calberine]"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Hmm~ Where'd that bolt go?";
+msgctxt "Demi Calberine#gen"
+msgid "Hmm~ Where'd that bolt go?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh that blue cart~";
+msgctxt "Demi Calberine#gen"
+msgid "Oh that blue cart~"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Load picture-like cannon~";
+msgctxt "Demi Calberine#gen"
+msgid "Load picture-like cannon~"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "With my lovely darling~";
+msgctxt "Demi Calberine#gen"
+msgid "With my lovely darling~"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Wanna shoot cannon foereva~~";
+msgctxt "Demi Calberine#gen"
+msgid "Wanna shoot cannon foereva~~"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Er~ Where's the bolt?";
+msgctxt "Demi Calberine#gen"
+msgid "Er~ Where's the bolt?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Why aren't their enough screws? Didn't I order new ones just recently?";
+msgctxt "Demi Calberine#gen"
+msgid "Why aren't their enough screws? Didn't I order new ones just recently?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Hello~?");
+msgctxt "Demi Calberine#gen"
+msgid "Hello~?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, my~?";
+msgctxt "Demi Calberine#gen"
+msgid "Oh, my~?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "When did you... Who are you?";
+msgctxt "Demi Calberine#gen"
+msgid "When did you... Who are you?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, my god!";
+msgctxt "Demi Calberine#gen"
+msgid "Oh, my god!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Hey! Please help me!";
+msgctxt "Demi Calberine#gen"
+msgid "Hey! Please help me!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I need to complete and ordered mini cannon today, but I can't find the parts!";
+msgctxt "Demi Calberine#gen"
+msgid "I need to complete and ordered mini cannon today, but I can't find the parts!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Ugh~ I think they dropped around here somewhere.";
+msgctxt "Demi Calberine#gen"
+msgid "Ugh~ I think they dropped around here somewhere."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I only need 10! I need to put the other parts together first... Please could you help me?!";
+msgctxt "Demi Calberine#gen"
+msgid "I only need 10! I need to put the other parts together first... Please could you help me?!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Ah, oh no, oh no~~~";
+msgctxt "Demi Calberine#gen"
+msgid "Ah, oh no, oh no~~~"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Did you find the parts? No, not yet? You promised, please hurry up!";
+msgctxt "Demi Calberine#gen"
+msgid "Did you find the parts? No, not yet? You promised, please hurry up!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "With this cart, the firepower won't do well, then let's put it in this way...";
+msgctxt "Demi Calberine#gen"
+msgid "With this cart, the firepower won't do well, then let's put it in this way..."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("I've got the parts.");
+msgctxt "Demi Calberine#gen"
+msgid "I've got the parts."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, gosh!";
+msgctxt "Demi Calberine#gen"
+msgid "Oh, gosh!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You scared me to death!!";
+msgctxt "Demi Calberine#gen"
+msgid "You scared me to death!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, are these my lost screws and bolts?";
+msgctxt "Demi Calberine#gen"
+msgid "Oh, are these my lost screws and bolts?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Where did you find these?";
+msgctxt "Demi Calberine#gen"
+msgid "Where did you find these?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("You asked me to find them!");
+msgctxt "Demi Calberine#gen"
+msgid "You asked me to find them!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh?, really?";
+msgctxt "Demi Calberine#gen"
+msgid "Oh?, really?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Did I? Hohohohoho.";
+msgctxt "Demi Calberine#gen"
+msgid "Did I? Hohohohoho."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I don't even know where my mind is.";
+msgctxt "Demi Calberine#gen"
+msgid "I don't even know where my mind is."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Please wait a moment.";
+msgctxt "Demi Calberine#gen"
+msgid "Please wait a moment."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I will be done quickly with these.";
+msgctxt "Demi Calberine#gen"
+msgid "I will be done quickly with these."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Snap Snap Snap -";
+msgctxt "Demi Calberine#gen"
+msgid "- Snap Snap Snap -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Okay, I've connected the cannon to the cart... Now shall we test the performance?";
+msgctxt "Demi Calberine#gen"
+msgid "Okay, I've connected the cannon to the cart... Now shall we test the performance?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Sizlle... -";
+msgctxt "Demi Calberine#gen"
+msgid "- Sizlle... -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Pop! Pop! Pop! Pop! -";
+msgctxt "Demi Calberine#gen"
+msgid "- Pop! Pop! Pop! Pop! -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Great! Success!";
+msgctxt "Demi Calberine#gen"
+msgid "Great! Success!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Whew. You've been a lot of help to me.";
+msgctxt "Demi Calberine#gen"
+msgid "Whew. You've been a lot of help to me."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Thank you very much.";
+msgctxt "Demi Calberine#gen"
+msgid "Thank you very much."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Oh, by the way what made you come here?";
+msgctxt "Demi Calberine#gen"
+msgid "Oh, by the way what made you come here?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Did you come here to order something";
+msgctxt "Demi Calberine#gen"
+msgid "Did you come here to order something"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Demi Calberine#gen"
+msgid "["
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I'm a Geneticist applicant.";
+msgctxt "Demi Calberine#gen"
+msgid "I'm a Geneticist applicant."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I heard that you were very knowledgeable about portable mini cannons and stuff.";
+msgctxt "Demi Calberine#gen"
+msgid "I heard that you were very knowledgeable about portable mini cannons and stuff."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Yep, I deal with many kinds of cannons.";
+msgctxt "Demi Calberine#gen"
+msgid "Yep, I deal with many kinds of cannons."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Nowadays, there are those who want to remodel their carts, so I've been installing several additional functions such as mini cannons to their carts.";
+msgctxt "Demi Calberine#gen"
+msgid "Nowadays, there are those who want to remodel their carts, so I've been installing several additional functions such as mini cannons to their carts."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Cart remodeling?";
+msgctxt "Demi Calberine#gen"
+msgid "Cart remodeling?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Yes, didn't you want to race out when you went downhill?";
+msgctxt "Demi Calberine#gen"
+msgid "Yes, didn't you want to race out when you went downhill?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Or haven't you ever thought that it was so boring dragging around that plain old cart?";
+msgctxt "Demi Calberine#gen"
+msgid "Or haven't you ever thought that it was so boring dragging around that plain old cart?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Carts are no longer just a wagon for storage.";
+msgctxt "Demi Calberine#gen"
+msgid "Carts are no longer just a wagon for storage."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You could hang a cannon on a cart to make it help you boost your attack power.";
+msgctxt "Demi Calberine#gen"
+msgid "You could hang a cannon on a cart to make it help you boost your attack power."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Miss Devries seems to be studying childish experiments downstairs.";
+msgctxt "Demi Calberine#gen"
+msgid "Miss Devries seems to be studying childish experiments downstairs."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I don't understand why those research papers get so popular.";
+msgctxt "Demi Calberine#gen"
+msgid "I don't understand why those research papers get so popular."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "See this mini-mini cannon.";
+msgctxt "Demi Calberine#gen"
+msgid "See this mini-mini cannon."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This is the smallest and the lightest cannon in the world.";
+msgctxt "Demi Calberine#gen"
+msgid "This is the smallest and the lightest cannon in the world."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "This is what I made but isn?t this so cute? Yipee~";
+msgctxt "Demi Calberine#gen"
+msgid "This is what I made but isn?t this so cute? Yipee~"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# select("Can I get my cart remodeled?");
+msgctxt "Demi Calberine#gen"
+msgid "Can I get my cart remodeled?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Unfortunately, the cart remodeling is only allowed for Geneticists.";
+msgctxt "Demi Calberine#gen"
+msgid "Unfortunately, the cart remodeling is only allowed for Geneticists."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It's a rule from the Alchemist Union, so I can't help it.";
+msgctxt "Demi Calberine#gen"
+msgid "It's a rule from the Alchemist Union, so I can't help it."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "But don't get disappointed.";
+msgctxt "Demi Calberine#gen"
+msgid "But don't get disappointed."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You can be a Geneticist too!";
+msgctxt "Demi Calberine#gen"
+msgid "You can be a Geneticist too!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Hohoho.";
+msgctxt "Demi Calberine#gen"
+msgid "Hohoho."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "And what's more, you can?t so the cart remodeling to just any cart.";
+msgctxt "Demi Calberine#gen"
+msgid "And what's more, you can?t so the cart remodeling to just any cart."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It can only be done on quality certified carts that've been polished for a long time.";
+msgctxt "Demi Calberine#gen"
+msgid "It can only be done on quality certified carts that've been polished for a long time."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "You should practice your cart skills whenever you have time until you become a Geneticist.";
+msgctxt "Demi Calberine#gen"
+msgid "You should practice your cart skills whenever you have time until you become a Geneticist."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Till your muscles are dealing with your cart in powerful harmony and your cart moves beautifully,";
+msgctxt "Demi Calberine#gen"
+msgid "Till your muscles are dealing with your cart in powerful harmony and your cart moves beautifully,"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "If you want, ^FF0000I'll show you a good training spot.^000000";
+msgctxt "Demi Calberine#gen"
+msgid "If you want, ^FF0000I'll show you a good training spot.^000000"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "^FF0000Devries won't like it much^000000, but it's the best place. Haha.";
+msgctxt "Demi Calberine#gen"
+msgid "^FF0000Devries won't like it much^000000, but it's the best place. Haha."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "How about you swing your cart around as practice?";
+msgctxt "Demi Calberine#gen"
+msgid "How about you swing your cart around as practice?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "When you swing your cart at least ^FF0000100^000000 times, you can get rid of stress and the cart will be polished up enough.";
+msgctxt "Demi Calberine#gen"
+msgid "When you swing your cart at least ^FF0000100^000000 times, you can get rid of stress and the cart will be polished up enough."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Well, I need to get to work for the next order.";
+msgctxt "Demi Calberine#gen"
+msgid "Well, I need to get to work for the next order."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Come and find me whenever you need training.";
+msgctxt "Demi Calberine#gen"
+msgid "Come and find me whenever you need training."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "I'll help you out whenever you need your cart remodeled.";
+msgctxt "Demi Calberine#gen"
+msgid "I'll help you out whenever you need your cart remodeled."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- Rattle -";
+msgctxt "Demi Calberine#gen"
+msgid "- Rattle -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- What's this? I feel like the floor is missing somewhere. -";
+msgctxt "Demi Calberine#gen"
+msgid "- What's this? I feel like the floor is missing somewhere. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It seem Miss Devries found out that I put you in her spore pen.";
+msgctxt "Demi Calberine#gen"
+msgid "It seem Miss Devries found out that I put you in her spore pen."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "It's funny when you look at her face. After you've killed all those spores.";
+msgctxt "Demi Calberine#gen"
+msgid "It's funny when you look at her face. After you've killed all those spores."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Sigh, haven't you finished practicing?";
+msgctxt "Demi Calberine#gen"
+msgid "Sigh, haven't you finished practicing?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Do you want to enter the spore pen?";
+msgctxt "Demi Calberine#gen"
+msgid "Do you want to enter the spore pen?"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Yes.", "No.")) {
+msgctxt "Demi Calberine#gen"
+msgid "Yes."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Yes.", "No.")) {
+msgctxt "Demi Calberine#gen"
+msgid "No."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "Have fun swinging your cart around~";
+msgctxt "Demi Calberine#gen"
+msgid "Have fun swinging your cart around~"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "What a shame! I wanted to see Miss Devries's angry face.";
+msgctxt "Demi Calberine#gen"
+msgid "What a shame! I wanted to see Miss Devries's angry face."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- There are so many scattered things on the floor that the lab is in chaos. -";
+msgctxt "Scattered Stuff#gen"
+msgid "- There are so many scattered things on the floor that the lab is in chaos. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- You found a little metal fragment. -";
+msgctxt "Scattered Stuff#gen"
+msgid "- You found a little metal fragment. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- I think I've gathered all of the parts. -";
+msgctxt "Scattered Stuff#gen"
+msgid "- I think I've gathered all of the parts. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "= Warning =";
+msgctxt "Warning#gen"
+msgid "= Warning ="
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "If you bully my spores, I'll scream!!!";
+msgctxt "Warning#gen"
+msgid "If you bully my spores, I'll scream!!!"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Get out of the pen.", "Stay still.")) {
+msgctxt "Warning#gen"
+msgid "Get out of the pen."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# switch(select("Get out of the pen.", "Stay still.")) {
+msgctxt "Warning#gen"
+msgid "Stay still."
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- I'd better get out before I get caught by Miss Devries. -";
+msgctxt "Warning#gen"
+msgid "- I'd better get out before I get caught by Miss Devries. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- I decide to stay still. -";
+msgctxt "Warning#gen"
+msgid "- I decide to stay still. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- 'Monthly Bang!' magazines are piled up in disorder. -";
+msgctxt "Stacked Magazines#gen"
+msgid "- 'Monthly Bang!' magazines are piled up in disorder. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- A checker patterned blanket set which looks like it was picked carefully is too good for this dirty bed. -";
+msgctxt "Bed#gen"
+msgid "- A checker patterned blanket set which looks like it was picked carefully is too good for this dirty bed. -"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "< Do you want to have my pretty room? Do you have enough zeny? Is there enough room? Run to the Lighthalzen Department Store right away and get the most high-end wall papers and interior accessories! >";
+msgctxt "Opened Book#gen"
+msgid "< Do you want to have my pretty room? Do you have enough zeny? Is there enough room? Run to the Lighthalzen Department Store right away and get the most high-end wall papers and interior accessories! >"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "< Luxurious candles that'll lighten up your room, a huge golden mirror that every lady owns, you cannot miss any of them! >";
+msgctxt "Opened Book#gen"
+msgid "< Luxurious candles that'll lighten up your room, a huge golden mirror that every lady owns, you cannot miss any of them! >"
+msgstr ""
+
+#: npc/re/jobs/3-2/genetic.txt
+# mes "- It's a room that looks like a storehouse, thanks to so many parcels piled up in the room. -";
+msgctxt "#dbroom"
+msgid "- It's a room that looks like a storehouse, thanks to so many parcels piled up in the room. -"
+msgstr ""

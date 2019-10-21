@@ -1,0 +1,332 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_comodo.txt
+# mes "[Comodo Guide]";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[Comodo Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Welcome to ^8B4513Comodo^000000,";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Welcome to ^8B4513Comodo^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "the Beach Town of the Rune-Midgarts Kingdom.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "the Beach Town of the Rune-Midgarts Kingdom."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Do you need help navigating the town?";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Do you need help navigating the town?"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel", "About ^8B4513Comodo^000000")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel", "About ^8B4513Comodo^000000")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel", "About ^8B4513Comodo^000000")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel", "About ^8B4513Comodo^000000")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel", "About ^8B4513Comodo^000000")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "About ^8B4513Comodo^000000"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Tavern ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Casino ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Weapon & Armor Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Campsite ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Souvenir Vendor ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ East Cave Mao ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ West Cave Karu ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ North Cave Ruanda ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Hula Dance Stage ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Kafra Co. Western Branch ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Tavern ]", "[ Casino ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Campsite ]", "[ Souvenir Vendor ]", "[ East Cave Mao ]", "[ West Cave Karu ]", "[ North Cave Ruanda ]", "[ Hula Dance Stage ]", "[ Kafra Co. Western Branch ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Previous Menu"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Let me mark the location of the";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Let me mark the location of the"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes F_Navi("Kafra Corporation Western Branch","comodo,131,195","^DB7093");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Kafra Corporation Western Branch"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes F_Navi("Kafra Corporation Western Branch","comodo,131,195","^DB7093");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "comodo,131,195"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes F_Navi("Kafra Corporation Western Branch","comodo,131,195","^DB7093");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "^DB7093"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "on your mini-map.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Would you like to check any other locations?";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Chief's House ]", "[ Bor Robin ]", "[ Kafra Employee ]", "[ Roaming Bard ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Chief's House ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Chief's House ]", "[ Bor Robin ]", "[ Kafra Employee ]", "[ Roaming Bard ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Bor Robin ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Chief's House ]", "[ Bor Robin ]", "[ Kafra Employee ]", "[ Roaming Bard ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# switch(select("[ Chief's House ]", "[ Bor Robin ]", "[ Kafra Employee ]", "[ Roaming Bard ]", "Previous Menu")) {
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "[ Roaming Bard ]"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes F_Navi("Bor Robin","comodo,193,151","^228B22");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Bor Robin"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes F_Navi("Bor Robin","comodo,193,151","^228B22");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "comodo,193,151"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes F_Navi("Bor Robin","comodo,193,151","^228B22");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "^228B22"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "helps adventurers to become ^228B22Dancers^000000.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "helps adventurers to become ^228B22Dancers^000000."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "The "+F_Navi("Roaming Bard","comodo,211,155","^DB7093");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "The "+F_Navi("Roaming Bard","comodo,211,155","^DB7093");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Roaming Bard"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "The "+F_Navi("Roaming Bard","comodo,211,155","^DB7093");
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "comodo,211,155"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "helps adventurers to become ^DB7093Bards^000000.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "helps adventurers to become ^DB7093Bards^000000."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Is there anything else I can do for you?";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Enjoy your stay.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Enjoy your stay."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "^8B4513Comodo^000000 is";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "^8B4513Comodo^000000 is"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "located inside a cave";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "located inside a cave"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "and can never be reached by natural sunlight.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "and can never be reached by natural sunlight."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "The villagers of ^8B4513Comodo^000000";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "The villagers of ^8B4513Comodo^000000"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "have overcome their poor natural surroundings";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "have overcome their poor natural surroundings"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "to create a popular tourist site.";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "to create a popular tourist site."
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "Let me mark the location of";
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "Let me mark the location of"
+msgstr ""
+
+#: npc/re/guides/guides_comodo.txt
+# mes "the "+getarg(0);
+msgctxt "Comodo Guide#01comodo::GuideComodo"
+msgid "the "
+msgstr ""

@@ -1,0 +1,518 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "[Artisan Tene]";
+msgctxt "Artisan Tene#ko"
+msgid "[Artisan Tene]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Hello? I'm Artisan Tene, the most respectful blacksmith of them all.";
+msgctxt "Artisan Tene#ko"
+msgid "Hello? I'm Artisan Tene, the most respectful blacksmith of them all."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "How may I help you?";
+msgctxt "Artisan Tene#ko"
+msgid "How may I help you?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Which blacksmith?", "I want to add option.", "I want to remove option.")) {
+msgctxt "Artisan Tene#ko"
+msgid "Which blacksmith?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Which blacksmith?", "I want to add option.", "I want to remove option.")) {
+msgctxt "Artisan Tene#ko"
+msgid "I want to add option."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Which blacksmith?", "I want to add option.", "I want to remove option.")) {
+msgctxt "Artisan Tene#ko"
+msgid "I want to remove option."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Oh! Sorry, I didn't introduce myself.";
+msgctxt "Artisan Tene#ko"
+msgid "Oh! Sorry, I didn't introduce myself."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "I can add or remove options from some weapons and armor at a small price.";
+msgctxt "Artisan Tene#ko"
+msgid "I can add or remove options from some weapons and armor at a small price."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Oh! Do you want to know the list of weapons and armor I work on?";
+msgctxt "Artisan Tene#ko"
+msgid "Oh! Do you want to know the list of weapons and armor I work on?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Take a look at the weapon list.", "Take a look at the armor list.")) {
+msgctxt "Artisan Tene#ko"
+msgid "Take a look at the weapon list."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Take a look at the weapon list.", "Take a look at the armor list.")) {
+msgctxt "Artisan Tene#ko"
+msgid "Take a look at the armor list."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Are you interested in the weapon list?";
+msgctxt "Artisan Tene#ko"
+msgid "Are you interested in the weapon list?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "The weapons I work on are ";
+msgctxt "Artisan Tene#ko"
+msgid "The weapons I work on are "
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Raksasa Dagger [1]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Raksasa Dagger [1]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Mikatsuki[1]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Mikatsuki[1]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Huuma Swirling Petal [2]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Huuma Swirling Petal [2]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Huuma Fluttering Snow^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Huuma Fluttering Snow^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Huuma Thunderstorm^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Huuma Thunderstorm^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Are you interested in the armor list?";
+msgctxt "Artisan Tene#ko"
+msgid "Are you interested in the armor list?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "The armor I work on is";
+msgctxt "Artisan Tene#ko"
+msgid "The armor I work on is"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Wolf Armguard [1]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Wolf Armguard [1]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Crescent Armguard [1]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Crescent Armguard [1]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Ninja Scale Armor [1]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Ninja Scale Armor [1]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Tenebris Latitantes [1]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Tenebris Latitantes [1]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Special Ninja Suit [1]^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Special Ninja Suit [1]^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "This is it. I'm still in practice to learn and handle more battlegear.";
+msgctxt "Artisan Tene#ko"
+msgid "This is it. I'm still in practice to learn and handle more battlegear."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "If you'd like, I can add options to your 4th and 3rd Slots at a small cost.";
+msgctxt "Artisan Tene#ko"
+msgid "If you'd like, I can add options to your 4th and 3rd Slots at a small cost."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Oh! You need to add an option.";
+msgctxt "Artisan Tene#ko"
+msgid "Oh! You need to add an option."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "I use the method of adding options to your 4th and 3rd slots of battlegear equipped.";
+msgctxt "Artisan Tene#ko"
+msgid "I use the method of adding options to your 4th and 3rd slots of battlegear equipped."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Since I use a stable and unique way of adding options, there are no risks of ^ff0000'Reset Refine'^000000 or ^ff0000'Losing Cards'^000000 equipped.";
+msgctxt "Artisan Tene#ko"
+msgid "Since I use a stable and unique way of adding options, there are no risks of ^ff0000'Reset Refine'^000000 or ^ff0000'Losing Cards'^000000 equipped."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "But since the costs of materials are high, I only ask for a ^5565AA small cost^000000 for my services with the exception of the material expenses.";
+msgctxt "Artisan Tene#ko"
+msgid "But since the costs of materials are high, I only ask for a ^5565AA small cost^000000 for my services with the exception of the material expenses."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Ha ha. I must have talked too much. Which class of equipment do you want to add an option to?";
+msgctxt "Artisan Tene#ko"
+msgid "Ha ha. I must have talked too much. Which class of equipment do you want to add an option to?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Weapon...", "Armor...")) {
+msgctxt "Artisan Tene#ko"
+msgid "Weapon..."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Weapon...", "Armor...")) {
+msgctxt "Artisan Tene#ko"
+msgid "Armor..."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "So you want to add an option to your weapon. That will be ^ff0000100,000 Zeny for a 1 time service.^000000";
+msgctxt "Artisan Tene#ko"
+msgid "So you want to add an option to your weapon. That will be ^ff0000100,000 Zeny for a 1 time service.^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^FF0000Ah! I can add an additional option if you equip a one-handed weapon on your right hand because it is easier for me to work on.^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^FF0000Ah! I can add an additional option if you equip a one-handed weapon on your right hand because it is easier for me to work on.^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Which weapon do you want to add an option to?";
+msgctxt "Artisan Tene#ko"
+msgid "Which weapon do you want to add an option to?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Raksasa Dagger [1]", "Mikatsuki [1]", "Huuma Swirling Petal [2]", "Huuma Fluttering Snow", "Huuma Thunderstorm")) {
+msgctxt "Artisan Tene#ko"
+msgid "Later..."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Raksasa Dagger [1]", "Mikatsuki [1]", "Huuma Swirling Petal [2]", "Huuma Fluttering Snow", "Huuma Thunderstorm")) {
+msgctxt "Artisan Tene#ko"
+msgid "Raksasa Dagger [1]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Raksasa Dagger [1]", "Mikatsuki [1]", "Huuma Swirling Petal [2]", "Huuma Fluttering Snow", "Huuma Thunderstorm")) {
+msgctxt "Artisan Tene#ko"
+msgid "Mikatsuki [1]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Raksasa Dagger [1]", "Mikatsuki [1]", "Huuma Swirling Petal [2]", "Huuma Fluttering Snow", "Huuma Thunderstorm")) {
+msgctxt "Artisan Tene#ko"
+msgid "Huuma Swirling Petal [2]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Raksasa Dagger [1]", "Mikatsuki [1]", "Huuma Swirling Petal [2]", "Huuma Fluttering Snow", "Huuma Thunderstorm")) {
+msgctxt "Artisan Tene#ko"
+msgid "Huuma Fluttering Snow"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Raksasa Dagger [1]", "Mikatsuki [1]", "Huuma Swirling Petal [2]", "Huuma Fluttering Snow", "Huuma Thunderstorm")) {
+msgctxt "Artisan Tene#ko"
+msgid "Huuma Thunderstorm"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Changed your mind? Very well. Hope to see you later.";
+msgctxt "Artisan Tene#ko"
+msgid "Changed your mind? Very well. Hope to see you later."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "So you want to add an option to your armor. That will be ^ff0000100,000 Zeny for a 1 time service.^000000";
+msgctxt "Artisan Tene#ko"
+msgid "So you want to add an option to your armor. That will be ^ff0000100,000 Zeny for a 1 time service.^000000"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Which armor do you want to add an option to?";
+msgctxt "Artisan Tene#ko"
+msgid "Which armor do you want to add an option to?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Wolf Armguard [1]", "Crescent Armguard [1]", "Ninja Scale Armor [1]", "Tenebris Latitantes [1]", "Special Ninja Suit [1]")) {
+msgctxt "Artisan Tene#ko"
+msgid "Wolf Armguard [1]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Wolf Armguard [1]", "Crescent Armguard [1]", "Ninja Scale Armor [1]", "Tenebris Latitantes [1]", "Special Ninja Suit [1]")) {
+msgctxt "Artisan Tene#ko"
+msgid "Crescent Armguard [1]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Wolf Armguard [1]", "Crescent Armguard [1]", "Ninja Scale Armor [1]", "Tenebris Latitantes [1]", "Special Ninja Suit [1]")) {
+msgctxt "Artisan Tene#ko"
+msgid "Ninja Scale Armor [1]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Wolf Armguard [1]", "Crescent Armguard [1]", "Ninja Scale Armor [1]", "Tenebris Latitantes [1]", "Special Ninja Suit [1]")) {
+msgctxt "Artisan Tene#ko"
+msgid "Tenebris Latitantes [1]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Later...", "Wolf Armguard [1]", "Crescent Armguard [1]", "Ninja Scale Armor [1]", "Tenebris Latitantes [1]", "Special Ninja Suit [1]")) {
+msgctxt "Artisan Tene#ko"
+msgid "Special Ninja Suit [1]"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "You want to remove an option from your item. You didn't like the option?";
+msgctxt "Artisan Tene#ko"
+msgid "You want to remove an option from your item. You didn't like the option?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Sorry but I'm not experienced enough. You've paid me for nothing.";
+msgctxt "Artisan Tene#ko"
+msgid "Sorry but I'm not experienced enough. You've paid me for nothing."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^ff0000Removing an option will be 100,000 Zeny.^000000 Which option from the list of items do you want to remove?";
+msgctxt "Artisan Tene#ko"
+msgid "^ff0000Removing an option will be 100,000 Zeny.^000000 Which option from the list of items do you want to remove?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Removing options is expensive, isn't it? Sorry. I will work harder in developing my skills and bring down costs as well.";
+msgctxt "Artisan Tene#ko"
+msgid "Removing options is expensive, isn't it? Sorry. I will work harder in developing my skills and bring down costs as well."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "You want to reset ^44B7BC" + getitemname(.@equip_id) + "^000000?";
+msgctxt "Artisan Tene#ko"
+msgid "You want to reset ^44B7BC"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "The cost is the same but I do provide a service to remove only the option on the 3rd slot and leave the 4th slot as is. Are you interested?";
+msgctxt "Artisan Tene#ko"
+msgid "The cost is the same but I do provide a service to remove only the option on the 3rd slot and leave the 4th slot as is. Are you interested?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Reset only the 3rd Slot.", "Reset all.")) {
+msgctxt "Artisan Tene#ko"
+msgid "Reset only the 3rd Slot."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# switch (select("Reset only the 3rd Slot.", "Reset all.")) {
+msgctxt "Artisan Tene#ko"
+msgid "Reset all."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Very well. I will reset only your 3rd slot.";
+msgctxt "Artisan Tene#ko"
+msgid "Very well. I will reset only your 3rd slot."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Very well. I will reset all slots.";
+msgctxt "Artisan Tene#ko"
+msgid "Very well. I will reset all slots."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "You will have to equip all items before ^44B7BC" + getitemname(.@equip_id) + "^000000.";
+msgctxt "Artisan Tene#ko"
+msgid "You will have to equip all items before ^44B7BC"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "I'm sorry, but you don't have enough Zeny!";
+msgctxt "Artisan Tene#ko"
+msgid "I'm sorry, but you don't have enough Zeny!"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Our charge is very low, so please bear with me.";
+msgctxt "Artisan Tene#ko"
+msgid "Our charge is very low, so please bear with me."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "I don't think this is the equipment you requested.";
+msgctxt "Artisan Tene#ko"
+msgid "I don't think this is the equipment you requested."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "I cannot work on equipment other than those from my list.";
+msgctxt "Artisan Tene#ko"
+msgid "I cannot work on equipment other than those from my list."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "This equipment is is not enchanted. Please check again."; //custom translation
+msgctxt "Artisan Tene#ko"
+msgid "This equipment is is not enchanted. Please check again."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "The third slot is is not enchanted. Please check again."; //custom translation
+msgctxt "Artisan Tene#ko"
+msgid "The third slot is is not enchanted. Please check again."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Initialization complete.";
+msgctxt "Artisan Tene#ko"
+msgid "Initialization complete."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "This equipment cannot be further enchanted.";
+msgctxt "Artisan Tene#ko"
+msgid "This equipment cannot be further enchanted."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "If you are not satisfied with the enchantments, I suggest that you initialize.";
+msgctxt "Artisan Tene#ko"
+msgid "If you are not satisfied with the enchantments, I suggest that you initialize."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "The fourth slot has already been enchanted. Shall I enchant the third slot as well?";
+msgctxt "Artisan Tene#ko"
+msgid "The fourth slot has already been enchanted. Shall I enchant the third slot as well?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "This equipment is not currently enchanted. Shall I enchant the fourth slot?";
+msgctxt "Artisan Tene#ko"
+msgid "This equipment is not currently enchanted. Shall I enchant the fourth slot?"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# if (select("Do it later", "Do it now") == 1) {
+msgctxt "Artisan Tene#ko"
+msgid "Do it later"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# if (select("Do it later", "Do it now") == 1) {
+msgctxt "Artisan Tene#ko"
+msgid "Do it now"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Very well. Hope to see you later.";
+msgctxt "Artisan Tene#ko"
+msgid "Very well. Hope to see you later."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Starting to enchant the third slot.";
+msgctxt "Artisan Tene#ko"
+msgid "Starting to enchant the third slot."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "Starting to enchant the fourth slot.";
+msgctxt "Artisan Tene#ko"
+msgid "Starting to enchant the fourth slot."
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "An unknown error has occurred. Please contact customer service. *^_^*";
+msgctxt "Artisan Tene#ko"
+msgid "An unknown error has occurred. Please contact customer service. *^_^*"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "^44B7BC" + getitemname(.@equip_id) + "^000000";
+msgctxt "Artisan Tene#ko"
+msgid "^44B7BC"
+msgstr ""
+
+#: npc/re/merchants/enchan_ko.txt
+# mes "The equipment has been enchanted."; //custom translation
+msgctxt "Artisan Tene#ko"
+msgid "The equipment has been enchanted."
+msgstr ""

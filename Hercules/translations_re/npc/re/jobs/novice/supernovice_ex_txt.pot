@@ -1,0 +1,1858 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "[Esseray]";
+msgctxt "Esseray_Ex"
+msgid "[Esseray]"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "A legend in the Novice world has disappeared to do something in Comodo.";
+msgctxt "Esseray_Ex"
+msgid "A legend in the Novice world has disappeared to do something in Comodo."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You should find him.";
+msgctxt "Esseray_Ex"
+msgid "You should find him."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "He can guide you along";
+msgctxt "Esseray_Ex"
+msgid "He can guide you along"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "the correct path...";
+msgctxt "Esseray_Ex"
+msgid "the correct path..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Oh? Are you one of our Novice Society?";
+msgctxt "Esseray_Ex"
+msgid "Oh? Are you one of our Novice Society?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You're looking good.";
+msgctxt "Esseray_Ex"
+msgid "You're looking good."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You look full of energy...";
+msgctxt "Esseray_Ex"
+msgid "You look full of energy..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You seem strong enough to endure the test.";
+msgctxt "Esseray_Ex"
+msgid "You seem strong enough to endure the test."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I know a way to become stronger. Are you willing you try it?";
+msgctxt "Esseray_Ex"
+msgid "I know a way to become stronger. Are you willing you try it?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No, I'm okay now.", "I want to be stronger!") == 1) {
+msgctxt "Esseray_Ex"
+msgid "No, I'm okay now."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No, I'm okay now.", "I want to be stronger!") == 1) {
+msgctxt "Esseray_Ex"
+msgid "I want to be stronger!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "If you are satisfied with mediocrity, I can't help you.";
+msgctxt "Esseray_Ex"
+msgid "If you are satisfied with mediocrity, I can't help you."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Live a normal life then.";
+msgctxt "Esseray_Ex"
+msgid "Live a normal life then."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Good!";
+msgctxt "Esseray_Ex"
+msgid "Good!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "[Fishing Novice]";
+msgctxt "Fishing Novice#sp2"
+msgid "[Fishing Novice]"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Sh --------- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "Sh --------- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Be quiet please.";
+msgctxt "Fishing Novice#sp2"
+msgid "Be quiet please."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You'll scare the fish.";
+msgctxt "Fishing Novice#sp2"
+msgid "You'll scare the fish."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Hmm... 'scuse me...");
+msgctxt "Fishing Novice#sp2"
+msgid "Hmm... 'scuse me..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Aaaaaaak!!";
+msgctxt "Fishing Novice#sp2"
+msgid "Aaaaaaak!!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What are you doing?";
+msgctxt "Fishing Novice#sp2"
+msgid "What are you doing?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I told you be quiet!";
+msgctxt "Fishing Novice#sp2"
+msgid "I told you be quiet!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "They're swimmin' away bacause of the noise~";
+msgctxt "Fishing Novice#sp2"
+msgid "They're swimmin' away bacause of the noise~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "(-- sh--aking --)";
+msgctxt "Fishing Novice#sp2"
+msgid "(-- sh--aking --)"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Who... are you?";
+msgctxt "Fishing Novice#sp2"
+msgid "Who... are you?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Why are you disrupting my fishing?";
+msgctxt "Fishing Novice#sp2"
+msgid "Why are you disrupting my fishing?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("I have a delivery from Esseray...");
+msgctxt "Fishing Novice#sp2"
+msgid "I have a delivery from Esseray..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What? Esseray? Esseray?";
+msgctxt "Fishing Novice#sp2"
+msgid "What? Esseray? Esseray?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hmm! I know him...";
+msgctxt "Fishing Novice#sp2"
+msgid "Hmm! I know him..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Esseray... Esseray... hmm.";
+msgctxt "Fishing Novice#sp2"
+msgid "Esseray... Esseray... hmm."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "..................";
+msgctxt "Fishing Novice#sp2"
+msgid ".................."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Ahhhh --- !! ----- Ahhhh ---!!";
+msgctxt "Fishing Novice#sp2"
+msgid "Ahhhh --- !! ----- Ahhhh ---!!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Got it! --- Got it!";
+msgctxt "Fishing Novice#sp2"
+msgid "Got it! --- Got it!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "^0000FFA member of Novice Society in Aldebaran.^000000";
+msgctxt "Fishing Novice#sp2"
+msgid "^0000FFA member of Novice Society in Aldebaran.^000000"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Esseray, right? Wrong?";
+msgctxt "Fishing Novice#sp2"
+msgid "Esseray, right? Wrong?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No he isn't", "Yes, right") == 2) {
+msgctxt "Fishing Novice#sp2"
+msgid "No he isn't"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No he isn't", "Yes, right") == 2) {
+msgctxt "Fishing Novice#sp2"
+msgid "Yes, right"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hu hu~ my sense is still alive...";
+msgctxt "Fishing Novice#sp2"
+msgid "Hu hu~ my sense is still alive..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "So what do you want from me?";
+msgctxt "Fishing Novice#sp2"
+msgid "So what do you want from me?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What?! He isn't?";
+msgctxt "Fishing Novice#sp2"
+msgid "What?! He isn't?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Then where is Esseray from?";
+msgctxt "Fishing Novice#sp2"
+msgid "Then where is Esseray from?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes ".... .... .... ....";
+msgctxt "Fishing Novice#sp2"
+msgid ".... .... .... ...."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What -------- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "What -------- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "That isn't important, right?";
+msgctxt "Fishing Novice#sp2"
+msgid "That isn't important, right?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Then -------- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "Then -------- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Why did you come here?";
+msgctxt "Fishing Novice#sp2"
+msgid "Why did you come here?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- You explain why you're here. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- You explain why you're here. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hmm... it is an easy and hard question at the same time.";
+msgctxt "Fishing Novice#sp2"
+msgid "Hmm... it is an easy and hard question at the same time."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- You hear a voice complaining about something. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- You hear a voice complaining about something. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Esseray! Such a son of a %@&$# spoiling my vacation...";
+#, no-c-format
+msgctxt "Fishing Novice#sp2"
+msgid "Esseray! Such a son of a %@&$# spoiling my vacation..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Haaaaa~";
+msgctxt "Fishing Novice#sp2"
+msgid "Haaaaa~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "My poor life~";
+msgctxt "Fishing Novice#sp2"
+msgid "My poor life~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Ahhh~ so many problems.";
+msgctxt "Fishing Novice#sp2"
+msgid "Ahhh~ so many problems."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Too ~ hard. Hey, little kid!";
+msgctxt "Fishing Novice#sp2"
+msgid "Too ~ hard. Hey, little kid!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What's your name?";
+msgctxt "Fishing Novice#sp2"
+msgid "What's your name?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "[Nodor]";
+msgctxt "Fishing Novice#sp2"
+msgid "[Nodor]"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "My name is Nodor! Nodor.";
+msgctxt "Fishing Novice#sp2"
+msgid "My name is Nodor! Nodor."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes ".... .... .....";
+msgctxt "Fishing Novice#sp2"
+msgid ".... .... ....."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey! I can see what you are thinking about in your face~";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey! I can see what you are thinking about in your face~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Since my name is Nodor I've been made fun of my whole life.";
+msgctxt "Fishing Novice#sp2"
+msgid "Since my name is Nodor I've been made fun of my whole life."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Condor and Odor...";
+msgctxt "Fishing Novice#sp2"
+msgid "Condor and Odor..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't try to fool me.";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't try to fool me."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Whatever the reason is... you are here!";
+msgctxt "Fishing Novice#sp2"
+msgid "Whatever the reason is... you are here!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Let's get together to go further.";
+msgctxt "Fishing Novice#sp2"
+msgid "Let's get together to go further."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Come again after a while~";
+msgctxt "Fishing Novice#sp2"
+msgid "Come again after a while~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- Talk to him again. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- Talk to him again. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Emmhmm ----- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "Emmhmm ----- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- Nodor gives you a suspicious look. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- Nodor gives you a suspicious look. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Didn't you know that the ^0000FFSuper Novice^000000 was excellent?";
+msgctxt "Fishing Novice#sp2"
+msgid "Didn't you know that the ^0000FFSuper Novice^000000 was excellent?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- Nodor asks with confidence. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- Nodor asks with confidence. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey! Super Novice~";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey! Super Novice~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Do you know who I am?";
+msgctxt "Fishing Novice#sp2"
+msgid "Do you know who I am?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("What are you talking about?!");
+msgctxt "Fishing Novice#sp2"
+msgid "What are you talking about?!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Heh...";
+msgctxt "Fishing Novice#sp2"
+msgid "Heh..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You've got a lot of nerve, don't you?";
+msgctxt "Fishing Novice#sp2"
+msgid "You've got a lot of nerve, don't you?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("... ..... ...");
+msgctxt "Fishing Novice#sp2"
+msgid "... ..... ..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- This guy is a weirdo. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- This guy is a weirdo. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey! Super Novice ~";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey! Super Novice ~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I will make you stronger!";
+msgctxt "Fishing Novice#sp2"
+msgid "I will make you stronger!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "So will you believe what I tell you?";
+msgctxt "Fishing Novice#sp2"
+msgid "So will you believe what I tell you?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("I won't follow you.", "Why not? kehehe~") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "I won't follow you."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("I won't follow you.", "Why not? kehehe~") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "Why not? kehehe~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Refusing? Don't you want to be strong?";
+msgctxt "Fishing Novice#sp2"
+msgid "Refusing? Don't you want to be strong?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I'd love to do nothing too.";
+msgctxt "Fishing Novice#sp2"
+msgid "I'd love to do nothing too."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Just let me fish if you want to go.";
+msgctxt "Fishing Novice#sp2"
+msgid "Just let me fish if you want to go."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Emmhmm~ Do I sound harsh?";
+msgctxt "Fishing Novice#sp2"
+msgid "Emmhmm~ Do I sound harsh?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hmm, I can't help using such words.";
+msgctxt "Fishing Novice#sp2"
+msgid "Hmm, I can't help using such words."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't sweat it.";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't sweat it."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "It's no problem for me to teach you to be stronger.";
+msgctxt "Fishing Novice#sp2"
+msgid "It's no problem for me to teach you to be stronger."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Great~!";
+msgctxt "Fishing Novice#sp2"
+msgid "Great~!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What is your issue?";
+msgctxt "Fishing Novice#sp2"
+msgid "What is your issue?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You don't know how to be stronger. Right?";
+msgctxt "Fishing Novice#sp2"
+msgid "You don't know how to be stronger. Right?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Yes, I can't get stronger.");
+msgctxt "Fishing Novice#sp2"
+msgid "Yes, I can't get stronger."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hhhmmm ~!";
+msgctxt "Fishing Novice#sp2"
+msgid "Hhhmmm ~!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "There's a way to do it...";
+msgctxt "Fishing Novice#sp2"
+msgid "There's a way to do it..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "It is dangerous, but I can";
+msgctxt "Fishing Novice#sp2"
+msgid "It is dangerous, but I can"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "tell you how.";
+msgctxt "Fishing Novice#sp2"
+msgid "tell you how."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I'll only do this on one condition. You do not ask anything and you do everything I tell you!";
+msgctxt "Fishing Novice#sp2"
+msgid "I'll only do this on one condition. You do not ask anything and you do everything I tell you!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "How about it?";
+msgctxt "Fishing Novice#sp2"
+msgid "How about it?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Are you willing to do this?";
+msgctxt "Fishing Novice#sp2"
+msgid "Are you willing to do this?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No, I will not!", "Let's do this!") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "No, I will not!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No, I will not!", "Let's do this!") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "Let's do this!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "To be strong is the only way to live!";
+msgctxt "Fishing Novice#sp2"
+msgid "To be strong is the only way to live!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Do you want to be a weakling forever?";
+msgctxt "Fishing Novice#sp2"
+msgid "Do you want to be a weakling forever?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I will give you a tip.";
+msgctxt "Fishing Novice#sp2"
+msgid "I will give you a tip."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You can't always be right.";
+msgctxt "Fishing Novice#sp2"
+msgid "You can't always be right."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Sometimes you need to check your ego and listen to others.";
+msgctxt "Fishing Novice#sp2"
+msgid "Sometimes you need to check your ego and listen to others."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "All right --------- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "All right --------- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Your passion will make you stronger.";
+msgctxt "Fishing Novice#sp2"
+msgid "Your passion will make you stronger."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You calm?";
+msgctxt "Fishing Novice#sp2"
+msgid "You calm?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What I want you to do is...";
+msgctxt "Fishing Novice#sp2"
+msgid "What I want you to do is..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hunt 1,000 monsters.";
+msgctxt "Fishing Novice#sp2"
+msgid "Hunt 1,000 monsters."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Do you know what this is for?";
+msgctxt "Fishing Novice#sp2"
+msgid "Do you know what this is for?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You know what a ^FF0000"+.@Monsters$[.@i]+"^000000 monster is, right?";
+msgctxt "Fishing Novice#sp2"
+msgid "You know what a ^FF0000"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You know what a ^FF0000"+.@Monsters$[.@i]+"^000000 monster is, right?";
+msgctxt "Fishing Novice#sp2"
+msgid "^000000 monster is, right?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hunt 1,000!";
+msgctxt "Fishing Novice#sp2"
+msgid "Hunt 1,000!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Do not say you can't do this!";
+msgctxt "Fishing Novice#sp2"
+msgid "Do not say you can't do this!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I know that's a lot of monsters, but they're so weak!";
+msgctxt "Fishing Novice#sp2"
+msgid "I know that's a lot of monsters, but they're so weak!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Are you kidding me?");
+msgctxt "Fishing Novice#sp2"
+msgid "Are you kidding me?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Huh huh~!";
+msgctxt "Fishing Novice#sp2"
+msgid "Huh huh~!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Rembember, no questions!";
+msgctxt "Fishing Novice#sp2"
+msgid "Rembember, no questions!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't come back until you've hunted 1,000.";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't come back until you've hunted 1,000."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Fishing Novice#sp2"
+msgid "["
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey, Nodor!";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey, Nodor!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Oh my god!";
+msgctxt "Fishing Novice#sp2"
+msgid "Oh my god!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "So frightened... let me see?";
+msgctxt "Fishing Novice#sp2"
+msgid "So frightened... let me see?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey! Super Novice!";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey! Super Novice!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Didn't I say to hunt 1,000?";
+msgctxt "Fishing Novice#sp2"
+msgid "Didn't I say to hunt 1,000?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't come back until you have.";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't come back until you have."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Have you hunted all 1,000 already?";
+msgctxt "Fishing Novice#sp2"
+msgid "Have you hunted all 1,000 already?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You are better than I thought.";
+msgctxt "Fishing Novice#sp2"
+msgid "You are better than I thought."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Anyway, what was the monster that I told you to hunt?";
+msgctxt "Fishing Novice#sp2"
+msgid "Anyway, what was the monster that I told you to hunt?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# .@i = select("Poring", "Lunatic", "Fabre", "Picky", "Baphomet")-1;
+msgctxt "Fishing Novice#sp2"
+msgid "Baphomet"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Heheh? Can you seriously hunt Baphomet alone?";
+msgctxt "Fishing Novice#sp2"
+msgid "Heheh? Can you seriously hunt Baphomet alone?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't tell a lie!! I will hit you!!";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't tell a lie!! I will hit you!!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't tell a lie!";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't tell a lie!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I didn't tell you to hunt this!";
+msgctxt "Fishing Novice#sp2"
+msgid "I didn't tell you to hunt this!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "keheheheheheh~";
+msgctxt "Fishing Novice#sp2"
+msgid "keheheheheheh~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You annoyed me so I made you do this task...";
+msgctxt "Fishing Novice#sp2"
+msgid "You annoyed me so I made you do this task..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Wow! You actually hunted all 1,000?";
+msgctxt "Fishing Novice#sp2"
+msgid "Wow! You actually hunted all 1,000?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I guess I can't question your passion to be stronger.";
+msgctxt "Fishing Novice#sp2"
+msgid "I guess I can't question your passion to be stronger."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Okay! So far so good.";
+msgctxt "Fishing Novice#sp2"
+msgid "Okay! So far so good."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I will let you know how to overcome your strength deficiencies.";
+msgctxt "Fishing Novice#sp2"
+msgid "I will let you know how to overcome your strength deficiencies."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Oh! You already came here?";
+msgctxt "Fishing Novice#sp2"
+msgid "Oh! You already came here?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Didn't you say you have something to handle?";
+msgctxt "Fishing Novice#sp2"
+msgid "Didn't you say you have something to handle?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You have enough passion but...";
+msgctxt "Fishing Novice#sp2"
+msgid "You have enough passion but..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "you need to learn patience.";
+msgctxt "Fishing Novice#sp2"
+msgid "you need to learn patience."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hhhhhhhhhh~";
+msgctxt "Fishing Novice#sp2"
+msgid "Hhhhhhhhhh~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Oh sorry! Sorry!";
+msgctxt "Fishing Novice#sp2"
+msgid "Oh sorry! Sorry!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I got a letter from my brother a long time ago, will you read my letter for your information?";
+msgctxt "Fishing Novice#sp2"
+msgid "I got a letter from my brother a long time ago, will you read my letter for your information?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("Yes, I will", "No, I won't") == 2) {
+msgctxt "Fishing Novice#sp2"
+msgid "Yes, I will"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("Yes, I will", "No, I won't") == 2) {
+msgctxt "Fishing Novice#sp2"
+msgid "No, I won't"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You should read more!";
+msgctxt "Fishing Novice#sp2"
+msgid "You should read more!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Tsk*... Ok...";
+msgctxt "Fishing Novice#sp2"
+msgid "Tsk*... Ok..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- He throws a bundled letter at you. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- He throws a bundled letter at you. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Dear Bro. Nodor,";
+msgctxt "Fishing Novice#sp2"
+msgid "Dear Bro. Nodor,"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes " ";
+msgctxt "Fishing Novice#sp2"
+msgid " "
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey Bro, it's your brother Nudor. How have you been? The reason I'm writing this letter is...";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey Bro, it's your brother Nudor. How have you been? The reason I'm writing this letter is..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I need money for food. You've got so much money, so help me out.";
+msgctxt "Fishing Novice#sp2"
+msgid "I need money for food. You've got so much money, so help me out."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "If you don't... Remember last time you %$&*@*&%$...";
+#, no-c-format
+msgctxt "Fishing Novice#sp2"
+msgid "If you don't... Remember last time you %$&*@*&%$..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- The letter is crumpled, so you can't read more. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- The letter is crumpled, so you can't read more. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I'm still in the Schwaltzvalt Republic.";
+msgctxt "Fishing Novice#sp2"
+msgid "I'm still in the Schwaltzvalt Republic."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "~ Nudor";
+msgctxt "Fishing Novice#sp2"
+msgid "~ Nudor"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- You get an uneasy feeling from reading this letter. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- You get an uneasy feeling from reading this letter. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hu~u~";
+msgctxt "Fishing Novice#sp2"
+msgid "Hu~u~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hmm, I only have one brother and he's always asking for money.";
+msgctxt "Fishing Novice#sp2"
+msgid "Hmm, I only have one brother and he's always asking for money."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "It's got to be my fame... T_T";
+msgctxt "Fishing Novice#sp2"
+msgid "It's got to be my fame... T_T"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- Now you really have an uneasy feeling. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- Now you really have an uneasy feeling. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey- Super Novice "+strcharinfo(PC_NAME)+"!";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey- Super Novice "
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You can give some to my bro. He's up in the airship.";
+msgctxt "Fishing Novice#sp2"
+msgid "You can give some to my bro. He's up in the airship."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Have you visited already?";
+msgctxt "Fishing Novice#sp2"
+msgid "Have you visited already?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("How much money should I give?");
+msgctxt "Fishing Novice#sp2"
+msgid "How much money should I give?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Oh, you didn't go there yet?";
+msgctxt "Fishing Novice#sp2"
+msgid "Oh, you didn't go there yet?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Give him a little, ya~";
+msgctxt "Fishing Novice#sp2"
+msgid "Give him a little, ya~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "100,000 zeny is okay~";
+msgctxt "Fishing Novice#sp2"
+msgid "100,000 zeny is okay~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "1,000,000 zeny is okay~";
+msgctxt "Fishing Novice#sp2"
+msgid "1,000,000 zeny is okay~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "10,000,000 zeny is okay~";
+msgctxt "Fishing Novice#sp2"
+msgid "10,000,000 zeny is okay~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hey, have you gone there?";
+msgctxt "Fishing Novice#sp2"
+msgid "Hey, have you gone there?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I got another message from my bro.";
+msgctxt "Fishing Novice#sp2"
+msgid "I got another message from my bro."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Bro, someone gave me...";
+msgctxt "Fishing Novice#sp2"
+msgid "Bro, someone gave me..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes .@str$+" Zeny.";
+msgctxt "Fishing Novice#sp2"
+msgid " Zeny."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You do care about me...";
+msgctxt "Fishing Novice#sp2"
+msgid "You do care about me..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("He seemed so hungry...");
+msgctxt "Fishing Novice#sp2"
+msgid "He seemed so hungry..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "By the way...";
+msgctxt "Fishing Novice#sp2"
+msgid "By the way..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes .@str$+" Zeny is so little considering my celebrity status, don't you think?";
+msgctxt "Fishing Novice#sp2"
+msgid " Zeny is so little considering my celebrity status, don't you think?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Eh.....");
+msgctxt "Fishing Novice#sp2"
+msgid "Eh....."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Anyway~";
+msgctxt "Fishing Novice#sp2"
+msgid "Anyway~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes .@str$+" Zeny...";
+msgctxt "Fishing Novice#sp2"
+msgid " Zeny..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't you think you gave him too little? My reputation is gonna take a hit now.";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't you think you gave him too little? My reputation is gonna take a hit now."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Hey...");
+msgctxt "Fishing Novice#sp2"
+msgid "Hey..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Wow, you've got my point already?";
+msgctxt "Fishing Novice#sp2"
+msgid "Wow, you've got my point already?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I think you are right.";
+msgctxt "Fishing Novice#sp2"
+msgid "I think you are right."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "This test is about your ability to open someone else's sympathy.";
+msgctxt "Fishing Novice#sp2"
+msgid "This test is about your ability to open someone else's sympathy."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I mean your consuming habit and your gut...";
+msgctxt "Fishing Novice#sp2"
+msgid "I mean your consuming habit and your gut..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hahahaha!";
+msgctxt "Fishing Novice#sp2"
+msgid "Hahahaha!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Hey, that's not my...");
+msgctxt "Fishing Novice#sp2"
+msgid "Hey, that's not my..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hmm? Ah...";
+msgctxt "Fishing Novice#sp2"
+msgid "Hmm? Ah..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I almost forgot to tell";
+msgctxt "Fishing Novice#sp2"
+msgid "I almost forgot to tell"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "you how to exceed your limit,";
+msgctxt "Fishing Novice#sp2"
+msgid "you how to exceed your limit,"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "didn't I?";
+msgctxt "Fishing Novice#sp2"
+msgid "didn't I?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Eh-hem! I was not just killing time after I sent you!!";
+msgctxt "Fishing Novice#sp2"
+msgid "Eh-hem! I was not just killing time after I sent you!!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What the? --- ah? --- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "What the? --- ah? --- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("??????");
+msgctxt "Fishing Novice#sp2"
+msgid "??????"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Watch out!! A bunch of Golems are running after us!";
+msgctxt "Fishing Novice#sp2"
+msgid "Watch out!! A bunch of Golems are running after us!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "We... have to run...!!!";
+msgctxt "Fishing Novice#sp2"
+msgid "We... have to run...!!!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("What?!", "Um?") == 2) {
+msgctxt "Fishing Novice#sp2"
+msgid "What?!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("What?!", "Um?") == 2) {
+msgctxt "Fishing Novice#sp2"
+msgid "Um?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- You look around, and -";
+msgctxt "Fishing Novice#sp2"
+msgid "- You look around, and -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- there is nothing behind you. -";
+msgctxt "Fishing Novice#sp2"
+msgid "- there is nothing behind you. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- When you are about to doubt... -";
+msgctxt "Fishing Novice#sp2"
+msgid "- When you are about to doubt... -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- You ask Nodor once -";
+msgctxt "Fishing Novice#sp2"
+msgid "- You ask Nodor once -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- again in your fright... -";
+msgctxt "Fishing Novice#sp2"
+msgid "- again in your fright... -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You've still got some skill points that aren't used up.";
+msgctxt "Fishing Novice#sp2"
+msgid "You've still got some skill points that aren't used up."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I can't make you stronger until you use those points.";
+msgctxt "Fishing Novice#sp2"
+msgid "I can't make you stronger until you use those points."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Haha ------------- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "Haha ------------- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "----- uhhahaha----- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "----- uhhahaha----- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "------------ yay -- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "------------ yay -- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Puhahahahahahahahahahah!!";
+msgctxt "Fishing Novice#sp2"
+msgid "Puhahahahahahahahahahah!!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Good! You scared yet?";
+msgctxt "Fishing Novice#sp2"
+msgid "Good! You scared yet?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("... ... ...");
+msgctxt "Fishing Novice#sp2"
+msgid "... ... ..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Sorry for scaring you!";
+msgctxt "Fishing Novice#sp2"
+msgid "Sorry for scaring you!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I think our duty and mission as Novices is to make days joyful.";
+msgctxt "Fishing Novice#sp2"
+msgid "I think our duty and mission as Novices is to make days joyful."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Well then, don't you feel something just changed?";
+msgctxt "Fishing Novice#sp2"
+msgid "Well then, don't you feel something just changed?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Feel your body lighter than before...?";
+msgctxt "Fishing Novice#sp2"
+msgid "Feel your body lighter than before...?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Or more powerful?";
+msgctxt "Fishing Novice#sp2"
+msgid "Or more powerful?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("...? ...? ...?");
+msgctxt "Fishing Novice#sp2"
+msgid "...? ...? ...?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Oh--- My--- (tut,tut,tut)!!";
+msgctxt "Fishing Novice#sp2"
+msgid "Oh--- My--- (tut,tut,tut)!!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Mr. Sieu Ngu --";
+msgctxt "Fishing Novice#sp2"
+msgid "Mr. Sieu Ngu --"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Not to be mean, but";
+msgctxt "Fishing Novice#sp2"
+msgid "Not to be mean, but"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "you are a little dull...";
+msgctxt "Fishing Novice#sp2"
+msgid "you are a little dull..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't you feel different now?";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't you feel different now?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("What are you talking about?", "I got it!") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "What are you talking about?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("What are you talking about?", "I got it!") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "I got it!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Eh--- right, you are dull, aren't you?";
+msgctxt "Fishing Novice#sp2"
+msgid "Eh--- right, you are dull, aren't you?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You already exceeded your limit.";
+msgctxt "Fishing Novice#sp2"
+msgid "You already exceeded your limit."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You can be stronger than before.";
+msgctxt "Fishing Novice#sp2"
+msgid "You can be stronger than before."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Wasn't it your dream?";
+msgctxt "Fishing Novice#sp2"
+msgid "Wasn't it your dream?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Ok~!";
+msgctxt "Fishing Novice#sp2"
+msgid "Ok~!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Now march to the world and live as a Novice and enjoy your free, happy life!";
+msgctxt "Fishing Novice#sp2"
+msgid "Now march to the world and live as a Novice and enjoy your free, happy life!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "That's it!";
+msgctxt "Fishing Novice#sp2"
+msgid "That's it!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "(Pouting) ------------- !!";
+msgctxt "Fishing Novice#sp2"
+msgid "(Pouting) ------------- !!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "So you're finally back.";
+msgctxt "Fishing Novice#sp2"
+msgid "So you're finally back."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "To celebrate this new Novice comrade, I've prepared some equipment to give you --";
+msgctxt "Fishing Novice#sp2"
+msgid "To celebrate this new Novice comrade, I've prepared some equipment to give you --"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't forget to make sure that you have enough ^FF0000inventory^000000 to take these items from me.";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't forget to make sure that you have enough ^FF0000inventory^000000 to take these items from me."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "And don't say I didn't warn you either.";
+msgctxt "Fishing Novice#sp2"
+msgid "And don't say I didn't warn you either."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("Yes, let me check my inventory.", "I'm good, show me.") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "Yes, let me check my inventory."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("Yes, let me check my inventory.", "I'm good, show me.") == 1) {
+msgctxt "Fishing Novice#sp2"
+msgid "I'm good, show me."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Well, well!";
+msgctxt "Fishing Novice#sp2"
+msgid "Well, well!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "You know! Have no regrets.";
+msgctxt "Fishing Novice#sp2"
+msgid "You know! Have no regrets."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "There are what I used to wear when I was younger,";
+msgctxt "Fishing Novice#sp2"
+msgid "There are what I used to wear when I was younger,"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "but they are still good.";
+msgctxt "Fishing Novice#sp2"
+msgid "but they are still good."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Second-hand stuff, huh?");
+msgctxt "Fishing Novice#sp2"
+msgid "Second-hand stuff, huh?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Give them back to me.";
+msgctxt "Fishing Novice#sp2"
+msgid "Give them back to me."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "How can you react like that when I offer you my possessions?";
+msgctxt "Fishing Novice#sp2"
+msgid "How can you react like that when I offer you my possessions?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I...";
+msgctxt "Fishing Novice#sp2"
+msgid "I..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I can't take back what I already gave away.";
+msgctxt "Fishing Novice#sp2"
+msgid "I can't take back what I already gave away."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Now I am going to say greetings again.";
+msgctxt "Fishing Novice#sp2"
+msgid "Now I am going to say greetings again."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Let Super Novice "+strcharinfo(PC_NAME)+" be blessed with the Super Novice Guardian!";
+msgctxt "Fishing Novice#sp2"
+msgid "Let Super Novice "
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't forget that you are a Novice.";
+msgctxt "Fishing Novice#sp2"
+msgid "Don't forget that you are a Novice."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Be a Novice always!";
+msgctxt "Fishing Novice#sp2"
+msgid "Be a Novice always!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "The aim of life is to have a nice and normal time!";
+msgctxt "Fishing Novice#sp2"
+msgid "The aim of life is to have a nice and normal time!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Hush!";
+msgctxt "Fishing Novice#sp2"
+msgid "Hush!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Please be quiet because you'll";
+msgctxt "Fishing Novice#sp2"
+msgid "Please be quiet because you'll"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "scare all the fish away.";
+msgctxt "Fishing Novice#sp2"
+msgid "scare all the fish away."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "[Nudor]";
+msgctxt "Nudor#sp2"
+msgid "[Nudor]"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Ahhh~ I have no money to buy any food.";
+msgctxt "Nudor#sp2"
+msgid "Ahhh~ I have no money to buy any food."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I'm hungry, but I have no idea when Brother is coming...";
+msgctxt "Nudor#sp2"
+msgid "I'm hungry, but I have no idea when Brother is coming..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# select("Hey, are you... Mr. Nudor?");
+msgctxt "Nudor#sp2"
+msgid "Hey, are you... Mr. Nudor?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Eeeeeh?! Who wants to know?";
+msgctxt "Nudor#sp2"
+msgid "Eeeeeh?! Who wants to know?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Do I know you?";
+msgctxt "Nudor#sp2"
+msgid "Do I know you?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- You explain to Nudor why you have come to see him. -";
+msgctxt "Nudor#sp2"
+msgid "- You explain to Nudor why you have come to see him. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Aha! You've come to give me some pocket money in place of my bro~";
+msgctxt "Nudor#sp2"
+msgid "Aha! You've come to give me some pocket money in place of my bro~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Wowowow~~ How much did he give you?";
+msgctxt "Nudor#sp2"
+msgid "Wowowow~~ How much did he give you?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- Nudor stares with twinkling -";
+msgctxt "Nudor#sp2"
+msgid "- Nudor stares with twinkling -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- eyes, holding out his hands. -";
+msgctxt "Nudor#sp2"
+msgid "- eyes, holding out his hands. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- How much do you want to give? -";
+msgctxt "Nudor#sp2"
+msgid "- How much do you want to give? -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# .@i = select("I have no money", "Give 100,000 Zeny", "Give 300,000 Zeny", "Give 1,000,000 Zeny", "Give all the money you have");
+msgctxt "Nudor#sp2"
+msgid "I have no money"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# .@i = select("I have no money", "Give 100,000 Zeny", "Give 300,000 Zeny", "Give 1,000,000 Zeny", "Give all the money you have");
+msgctxt "Nudor#sp2"
+msgid "Give 100,000 Zeny"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# .@i = select("I have no money", "Give 100,000 Zeny", "Give 300,000 Zeny", "Give 1,000,000 Zeny", "Give all the money you have");
+msgctxt "Nudor#sp2"
+msgid "Give 300,000 Zeny"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# .@i = select("I have no money", "Give 100,000 Zeny", "Give 300,000 Zeny", "Give 1,000,000 Zeny", "Give all the money you have");
+msgctxt "Nudor#sp2"
+msgid "Give 1,000,000 Zeny"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# .@i = select("I have no money", "Give 100,000 Zeny", "Give 300,000 Zeny", "Give 1,000,000 Zeny", "Give all the money you have");
+msgctxt "Nudor#sp2"
+msgid "Give all the money you have"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- crying -";
+msgctxt "Nudor#sp2"
+msgid "- crying -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I hate Nodor --- !";
+msgctxt "Nudor#sp2"
+msgid "I hate Nodor --- !"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I hate you too --- !";
+msgctxt "Nudor#sp2"
+msgid "I hate you too --- !"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Lovely~~ Did he give you "+.@str$+" Zeny? That's pretty much!";
+msgctxt "Nudor#sp2"
+msgid "Lovely~~ Did he give you "
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Lovely~~ Did he give you "+.@str$+" Zeny? That's pretty much!";
+msgctxt "Nudor#sp2"
+msgid " Zeny? That's pretty much!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What? But where is "+.@str$+" Zeny?";
+msgctxt "Nudor#sp2"
+msgid "What? But where is "
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "What? But where is "+.@str$+" Zeny?";
+msgctxt "Nudor#sp2"
+msgid " Zeny?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Oh... oh my gosh, are you really giving me all the Zeny you have? Really?";
+msgctxt "Nudor#sp2"
+msgid "Oh... oh my gosh, are you really giving me all the Zeny you have? Really?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No, not really...", "Give it all") == 1) {
+msgctxt "Nudor#sp2"
+msgid "No, not really..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# if(select("No, not really...", "Give it all") == 1) {
+msgctxt "Nudor#sp2"
+msgid "Give it all"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Pshaw! How disappointing!";
+msgctxt "Nudor#sp2"
+msgid "Pshaw! How disappointing!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Eh? But you don't have any money. You're so poor, huh?";
+msgctxt "Nudor#sp2"
+msgid "Eh? But you don't have any money. You're so poor, huh?"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Woa~!! "+.@n+" Zeny! This helped me so much~ Tehee~";
+msgctxt "Nudor#sp2"
+msgid "Woa~!! "
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Woa~!! "+.@n+" Zeny! This helped me so much~ Tehee~";
+msgctxt "Nudor#sp2"
+msgid " Zeny! This helped me so much~ Tehee~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I can't believe it...";
+msgctxt "Nudor#sp2"
+msgid "I can't believe it..."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Did you know? You're really handsome~";
+msgctxt "Nudor#sp2"
+msgid "Did you know? You're really handsome~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I need to tell you, you are really... really~ beautiful.";
+msgctxt "Nudor#sp2"
+msgid "I need to tell you, you are really... really~ beautiful."
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- You feel like you're being -";
+msgctxt "Nudor#sp2"
+msgid "- You feel like you're being -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "- tricked, so go back to Nodor. -";
+msgctxt "Nudor#sp2"
+msgid "- tricked, so go back to Nodor. -"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "I cannot believe that my bro sent me money... I love it~";
+msgctxt "Nudor#sp2"
+msgid "I cannot believe that my bro sent me money... I love it~"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Ooooops!";
+msgctxt "Nudor#sp2"
+msgid "Ooooops!"
+msgstr ""
+
+#: npc/re/jobs/novice/supernovice_ex.txt
+# mes "Don't tell Nodor about this~~";
+msgctxt "Nudor#sp2"
+msgid "Don't tell Nodor about this~~"
+msgstr ""

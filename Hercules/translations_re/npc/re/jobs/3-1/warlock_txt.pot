@@ -1,0 +1,1658 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - There is a strange distortion here - ";
+msgctxt "#distorted_space_"
+msgid " - There is a strange distortion here - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Extend your hand.", "Ignore it.")) {
+msgctxt "#distorted_space_"
+msgid "Extend your hand."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Extend your hand.", "Ignore it.")) {
+msgctxt "#distorted_space_"
+msgid "Ignore it."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - I extend my arm as a fierce sound resonates in my ear and a cool wave surrounds me - ";
+msgctxt "#distorted_space_"
+msgid " - I extend my arm as a fierce sound resonates in my ear and a cool wave surrounds me - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - You ignore the distortion. - ";
+msgctxt "#distorted_space_"
+msgid " - You ignore the distortion. - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Search the area.", "Ignore it.")) {
+msgctxt "#distorted_space_"
+msgid "Search the area."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - There appears to be nothing here. But I can definitely feel something around here... - ";
+msgctxt "#distorted_space_"
+msgid " - There appears to be nothing here. But I can definitely feel something around here... - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Extend arm.", "Leave it alone.")) {
+msgctxt "#distorted_space_"
+msgid "Extend arm."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Extend arm.", "Leave it alone.")) {
+msgctxt "#distorted_space_"
+msgid "Leave it alone."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - You decide to leave it alone. - ";
+msgctxt "#distorted_space_"
+msgid " - You decide to leave it alone. - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - You ignore it. - ";
+msgctxt "#distorted_space_"
+msgid " - You ignore it. - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Assistant]";
+msgctxt "F_Warlock"
+msgid "[Assistant]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Huh!!! Human!?!";
+msgctxt "F_Warlock"
+msgid "Huh!!! Human!?!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "How did you enter here?";
+msgctxt "F_Warlock"
+msgid "How did you enter here?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "This is only connected with a special gate!";
+msgctxt "F_Warlock"
+msgid "This is only connected with a special gate!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I don't know how...";
+msgctxt "F_Warlock"
+msgid "I don't know how..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "But we should leave before my master spots you...!";
+msgctxt "F_Warlock"
+msgid "But we should leave before my master spots you...!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[???]";
+msgctxt "F_Warlock"
+msgid "[???]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "What's that noise out there?";
+msgctxt "F_Warlock"
+msgid "What's that noise out there?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I warned them to be quiet while I'm meditating.";
+msgctxt "F_Warlock"
+msgid "I warned them to be quiet while I'm meditating."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Huh!?!";
+msgctxt "F_Warlock"
+msgid "Huh!?!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Master...";
+msgctxt "F_Warlock"
+msgid "Master..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It's nothing...";
+msgctxt "F_Warlock"
+msgid "It's nothing..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Master]";
+msgctxt "F_Warlock"
+msgid "[Master]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Oh~ there's a human being in front of me.";
+msgctxt "F_Warlock"
+msgid "Oh~ there's a human being in front of me."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Oh this thing?";
+msgctxt "F_Warlock"
+msgid "Oh this thing?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I was just leading it out.";
+msgctxt "F_Warlock"
+msgid "I was just leading it out."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yoop!!!";
+msgctxt "F_Warlock"
+msgid "Yoop!!!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Yoop]";
+msgctxt "F_Warlock"
+msgid "[Yoop]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yeap...!!";
+msgctxt "F_Warlock"
+msgid "Yeap...!!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "There's the warp portal beyond you... Is it an illusion?";
+msgctxt "F_Warlock"
+msgid "There's the warp portal beyond you... Is it an illusion?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Sorry!!!";
+msgctxt "F_Warlock"
+msgid "Sorry!!!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It's my mistake...";
+msgctxt "F_Warlock"
+msgid "It's my mistake..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Fool...";
+msgctxt "F_Warlock"
+msgid "Fool..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I'll deal with you after you send the human away.";
+msgctxt "F_Warlock"
+msgid "I'll deal with you after you send the human away."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "MushSartas Ir Cyamar";
+msgctxt "F_Warlock"
+msgid "MushSartas Ir Cyamar"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "UdenLo";
+msgctxt "F_Warlock"
+msgid "UdenLo"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - The fairy with the green hair chants a spell. - ";
+msgctxt "F_Warlock"
+msgid " - The fairy with the green hair chants a spell. - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes " - I feel like something special surrounds me. - ";
+msgctxt "F_Warlock"
+msgid " - I feel like something special surrounds me. - "
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Oh, that's interesting.";
+msgctxt "F_Warlock"
+msgid "Oh, that's interesting."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "How dare you resist me human?";
+msgctxt "F_Warlock"
+msgid "How dare you resist me human?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# select("I'm not sure. Who are you?");
+msgctxt "F_Warlock"
+msgid "I'm not sure. Who are you?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I am the leader of the ^000077Warlock^000000s.";
+msgctxt "F_Warlock"
+msgid "I am the leader of the ^000077Warlock^000000s."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "'^000077Sila Egnoloria^000000'";
+msgctxt "F_Warlock"
+msgid "'^000077Sila Egnoloria^000000'"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If you are a Wizard, it would be good of you to memorize my name.";
+msgctxt "F_Warlock"
+msgid "If you are a Wizard, it would be good of you to memorize my name."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# select("What is a ^000077Warlock^000000?");
+msgctxt "F_Warlock"
+msgid "What is a ^000077Warlock^000000?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Master Egnoloria]";
+msgctxt "F_Warlock"
+msgid "[Master Egnoloria]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Oh...are you interested?";
+msgctxt "F_Warlock"
+msgid "Oh...are you interested?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "A ^000077Warlock^000000 is someone who uses the magic of the giants of Jotunheim.";
+msgctxt "F_Warlock"
+msgid "A ^000077Warlock^000000 is someone who uses the magic of the giants of Jotunheim."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It can't be defined in any other words.";
+msgctxt "F_Warlock"
+msgid "It can't be defined in any other words."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Only the strong magic can explain it.";
+msgctxt "F_Warlock"
+msgid "Only the strong magic can explain it."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# select("Could I become Warlock?");
+msgctxt "F_Warlock"
+msgid "Could I become Warlock?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You?";
+msgctxt "F_Warlock"
+msgid "You?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You want to become a Warlock?";
+msgctxt "F_Warlock"
+msgid "You want to become a Warlock?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Hahaha";
+msgctxt "F_Warlock"
+msgid "Hahaha"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You're so interesting.";
+msgctxt "F_Warlock"
+msgid "You're so interesting."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It would be difficult for a human to become a Warlock.";
+msgctxt "F_Warlock"
+msgid "It would be difficult for a human to become a Warlock."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "The strong power would gnaw at your weak body.";
+msgctxt "F_Warlock"
+msgid "The strong power would gnaw at your weak body."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If you dare to face death, you can try to become one.";
+msgctxt "F_Warlock"
+msgid "If you dare to face death, you can try to become one."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("What do I need to do?", "Cancel.")) {
+msgctxt "F_Warlock"
+msgid "What do I need to do?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("What do I need to do?", "Cancel.")) {
+msgctxt "F_Warlock"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Are you serious?";
+msgctxt "F_Warlock"
+msgid "Are you serious?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You hunger for power don't you human.";
+msgctxt "F_Warlock"
+msgid "You hunger for power don't you human."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "The strong desire to be more powerful makes your soul more beautiful.";
+msgctxt "F_Warlock"
+msgid "The strong desire to be more powerful makes your soul more beautiful."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "But, I need to check that you're qualified.";
+msgctxt "F_Warlock"
+msgid "But, I need to check that you're qualified."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yoop!";
+msgctxt "F_Warlock"
+msgid "Yoop!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yeap!!";
+msgctxt "F_Warlock"
+msgid "Yeap!!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Give this to the human.";
+msgctxt "F_Warlock"
+msgid "Give this to the human."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Talk to the guy with the weird hair.";
+msgctxt "F_Warlock"
+msgid "Talk to the guy with the weird hair."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "He'll let you know what you should do.";
+msgctxt "F_Warlock"
+msgid "He'll let you know what you should do."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Good.";
+msgctxt "F_Warlock"
+msgid "Good."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You are a human being so that's for you.";
+msgctxt "F_Warlock"
+msgid "You are a human being so that's for you."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You're still quite far too low of a level to even consider this.";
+msgctxt "F_Warlock"
+msgid "You're still quite far too low of a level to even consider this."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Yoop]";
+msgctxt "Assistant#Warlock1"
+msgid "[Yoop]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You're... we've met before.";
+msgctxt "Assistant#Warlock1"
+msgid "You're... we've met before."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Can you imagine how severely I was scolded by my master?!";
+msgctxt "Assistant#Warlock1"
+msgid "Can you imagine how severely I was scolded by my master?!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If you have any business with me, just go away!";
+msgctxt "Assistant#Warlock1"
+msgid "If you have any business with me, just go away!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Leave.", "Stay.")) {
+msgctxt "Assistant#Warlock1"
+msgid "Leave."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Leave.", "Stay.")) {
+msgctxt "Assistant#Warlock1"
+msgid "Stay."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Leave me alone...!";
+msgctxt "Assistant#Warlock1"
+msgid "Leave me alone...!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "What?!";
+msgctxt "Assistant#Warlock1"
+msgid "What?!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Just do whatever you want...";
+msgctxt "Assistant#Warlock1"
+msgid "Just do whatever you want..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "My master will deal with you then.";
+msgctxt "Assistant#Warlock1"
+msgid "My master will deal with you then."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Dear, master! My pony-tail is funny looking?!";
+msgctxt "Assistant#Warlock1"
+msgid "Dear, master! My pony-tail is funny looking?!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Oh, but I spent a lot time on it!";
+msgctxt "Assistant#Warlock1"
+msgid "Oh, but I spent a lot time on it!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Master Egnoloria]";
+msgctxt "Assistant#Warlock1"
+msgid "[Master Egnoloria]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It's noisy.";
+msgctxt "Assistant#Warlock1"
+msgid "It's noisy."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I need to meditate";
+msgctxt "Assistant#Warlock1"
+msgid "I need to meditate"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "so do as I said.";
+msgctxt "Assistant#Warlock1"
+msgid "so do as I said."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Huh..";
+msgctxt "Assistant#Warlock1"
+msgid "Huh.."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Oh, yeah!";
+msgctxt "Assistant#Warlock1"
+msgid "Oh, yeah!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Hey, human!";
+msgctxt "Assistant#Warlock1"
+msgid "Hey, human!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Would you like to";
+msgctxt "Assistant#Warlock1"
+msgid "Would you like to"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "become a Warlock?";
+msgctxt "Assistant#Warlock1"
+msgid "become a Warlock?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "First, use all of your remaining job skill points before continuing.";
+msgctxt "Assistant#Warlock1"
+msgid "First, use all of your remaining job skill points before continuing."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "This is the Master's";
+msgctxt "Assistant#Warlock1"
+msgid "This is the Master's"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "decision so let me know.";
+msgctxt "Assistant#Warlock1"
+msgid "decision so let me know."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "We need to test if your body can withstand being a Warlock.";
+msgctxt "Assistant#Warlock1"
+msgid "We need to test if your body can withstand being a Warlock."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "So you need to gather materials to prove yourself.";
+msgctxt "Assistant#Warlock1"
+msgid "So you need to gather materials to prove yourself."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please gather ^000077Glittering Crystal^000000s and ^000077Giant Bradium Fragment^000000s.";
+msgctxt "Assistant#Warlock1"
+msgid "Please gather ^000077Glittering Crystal^000000s and ^000077Giant Bradium Fragment^000000s."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I can't conduct the task here. I need to go to my lab.";
+msgctxt "Assistant#Warlock1"
+msgid "I can't conduct the task here. I need to go to my lab."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "My lab is located on the north western part of Splendide.";
+msgctxt "Assistant#Warlock1"
+msgid "My lab is located on the north western part of Splendide."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "This stone is well made.";
+msgctxt "Assistant#Warlock1"
+msgid "This stone is well made."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please go to my Master.";
+msgctxt "Assistant#Warlock1"
+msgid "Please go to my Master."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "A Magic Chamber is created from magic materials.";
+msgctxt "Assistant#Warlock1"
+msgid "A Magic Chamber is created from magic materials."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "This combined stone is formed differently according to the raw materials and the way of treating it.";
+msgctxt "Assistant#Warlock1"
+msgid "This combined stone is formed differently according to the raw materials and the way of treating it."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "But most of stones are quite similar!";
+msgctxt "Assistant#Warlock1"
+msgid "But most of stones are quite similar!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "We can't differentiate them easily.";
+msgctxt "Assistant#Warlock1"
+msgid "We can't differentiate them easily."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Even I don't know how it all works.";
+msgctxt "Assistant#Warlock1"
+msgid "Even I don't know how it all works."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You must be wearing these Magical Stone Rings to get these items while hunting.";
+msgctxt "Assistant#Warlock1"
+msgid "You must be wearing these Magical Stone Rings to get these items while hunting."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You need to hunt Naga and Bradium Golems while wearing these rings.";
+msgctxt "Assistant#Warlock1"
+msgid "You need to hunt Naga and Bradium Golems while wearing these rings."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Show us how strong you are. And don't forget to wear this.";
+msgctxt "Assistant#Warlock1"
+msgid "Show us how strong you are. And don't forget to wear this."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Bring these stones with you or else you won't be able to return!";
+msgctxt "Assistant#Warlock1"
+msgid "Bring these stones with you or else you won't be able to return!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Be careful!";
+msgctxt "Assistant#Warlock1"
+msgid "Be careful!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "The person next to my Master will let you out if you talk to him.";
+msgctxt "Assistant#Warlock1"
+msgid "The person next to my Master will let you out if you talk to him."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "My lab is located on the north western part of Splendide. Bring these to me when you've gathered them.";
+msgctxt "Assistant#Warlock1"
+msgid "My lab is located on the north western part of Splendide. Bring these to me when you've gathered them."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Yoop]";
+msgctxt "Yoop#Warlock"
+msgid "[Yoop]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Who are you?";
+msgctxt "Yoop#Warlock"
+msgid "Who are you?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Get out of here!";
+msgctxt "Yoop#Warlock"
+msgid "Get out of here!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You're back?";
+msgctxt "Yoop#Warlock"
+msgid "You're back?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("I brought the materials.", "I've lost the Magical Stones.", "Nothing.")) {
+msgctxt "Yoop#Warlock"
+msgid "I brought the materials."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("I brought the materials.", "I've lost the Magical Stones.", "Nothing.")) {
+msgctxt "Yoop#Warlock"
+msgid "I've lost the Magical Stones."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("I brought the materials.", "I've lost the Magical Stones.", "Nothing.")) {
+msgctxt "Yoop#Warlock"
+msgid "Nothing."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "......";
+msgctxt "Yoop#Warlock"
+msgid "......"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "......Where?";
+msgctxt "Yoop#Warlock"
+msgid "......Where?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Don't bother me!";
+msgctxt "Yoop#Warlock"
+msgid "Don't bother me!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "We need to test if your body can withstand being a Warlock.";
+msgctxt "Yoop#Warlock"
+msgid "We need to test if your body can withstand being a Warlock."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "So you need to gather materials to prove yourself.";
+msgctxt "Yoop#Warlock"
+msgid "So you need to gather materials to prove yourself."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please gather ^000077Glittering Crystal^000000s and ^000077Giant Bradium Fragment^000000s.";
+msgctxt "Yoop#Warlock"
+msgid "Please gather ^000077Glittering Crystal^000000s and ^000077Giant Bradium Fragment^000000s."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You must be wearing these Magical Stone Rings to get these items while hunting.";
+msgctxt "Yoop#Warlock"
+msgid "You must be wearing these Magical Stone Rings to get these items while hunting."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You need to hunt Naga and Bradium Golems while wearing these rings.";
+msgctxt "Yoop#Warlock"
+msgid "You need to hunt Naga and Bradium Golems while wearing these rings."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Bring these stones with you or else you won't be able to return!";
+msgctxt "Yoop#Warlock"
+msgid "Bring these stones with you or else you won't be able to return!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Be careful!";
+msgctxt "Yoop#Warlock"
+msgid "Be careful!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Bring me back the magical stones.";
+msgctxt "Yoop#Warlock"
+msgid "Bring me back the magical stones."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It seems that you don't have it?";
+msgctxt "Yoop#Warlock"
+msgid "It seems that you don't have it?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You lost it?";
+msgctxt "Yoop#Warlock"
+msgid "You lost it?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please find that stone and come back to me.";
+msgctxt "Yoop#Warlock"
+msgid "Please find that stone and come back to me."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Alright! All the materials are ready!";
+msgctxt "Yoop#Warlock"
+msgid "Alright! All the materials are ready!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "While I am concentrating on working on this stone. Can you go back to my master?";
+msgctxt "Yoop#Warlock"
+msgid "While I am concentrating on working on this stone. Can you go back to my master?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I will follow up once it's done.";
+msgctxt "Yoop#Warlock"
+msgid "I will follow up once it's done."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "What?!";
+msgctxt "Yoop#Warlock"
+msgid "What?!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I asked you to double check it and make sure you wore it!";
+msgctxt "Yoop#Warlock"
+msgid "I asked you to double check it and make sure you wore it!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please check whether you misplaced it or if you already have it equipped.";
+msgctxt "Yoop#Warlock"
+msgid "Please check whether you misplaced it or if you already have it equipped."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("I found it.", "Nah.")) {
+msgctxt "Yoop#Warlock"
+msgid "I found it."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("I found it.", "Nah.")) {
+msgctxt "Yoop#Warlock"
+msgid "Nah."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Don't tease me!";
+msgctxt "Yoop#Warlock"
+msgid "Don't tease me!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It's not hard to tell if you have it or not!";
+msgctxt "Yoop#Warlock"
+msgid "It's not hard to tell if you have it or not!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Give 3 carat diamond.", "Just quit it.")) {
+msgctxt "Yoop#Warlock"
+msgid "Give 3 carat diamond."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Give 3 carat diamond.", "Just quit it.")) {
+msgctxt "Yoop#Warlock"
+msgid "Just quit it."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I will overlook your fault.";
+msgctxt "Yoop#Warlock"
+msgid "I will overlook your fault."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please be careful with it.";
+msgctxt "Yoop#Warlock"
+msgid "Please be careful with it."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Just show me your good faith!";
+msgctxt "Yoop#Warlock"
+msgid "Just show me your good faith!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "How can you can say that?";
+msgctxt "Yoop#Warlock"
+msgid "How can you can say that?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "^000077Just apologize^000000!";
+msgctxt "Yoop#Warlock"
+msgid "^000077Just apologize^000000!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I guess I could give you more stones if you give me say a 3 carat diamond...";
+msgctxt "Yoop#Warlock"
+msgid "I guess I could give you more stones if you give me say a 3 carat diamond..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please check your equipment window...";
+msgctxt "Yoop#Warlock"
+msgid "Please check your equipment window..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You sure you don't have it?";
+msgctxt "Yoop#Warlock"
+msgid "You sure you don't have it?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Then what's that you are holding now...?";
+msgctxt "Yoop#Warlock"
+msgid "Then what's that you are holding now...?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "What...?";
+msgctxt "Yoop#Warlock"
+msgid "What...?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Don't bother me, I am quite busy.";
+msgctxt "Yoop#Warlock"
+msgid "Don't bother me, I am quite busy."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I am focusing on meditating.";
+msgctxt "Yoop#Warlock"
+msgid "I am focusing on meditating."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "So I can create magic.";
+msgctxt "Yoop#Warlock"
+msgid "So I can create magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "And... you seem to have more talent on this than regular mages.";
+msgctxt "Yoop#Warlock"
+msgid "And... you seem to have more talent on this than regular mages."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Maybe if I become an alchemist, I might be better than I am now don't you think?";
+msgctxt "Yoop#Warlock"
+msgid "Maybe if I become an alchemist, I might be better than I am now don't you think?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I'm studying to better myself.";
+msgctxt "Yoop#Warlock"
+msgid "I'm studying to better myself."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If am inside of 'the room of time and magic', I will catch up with your power!";
+msgctxt "Yoop#Warlock"
+msgid "If am inside of 'the room of time and magic', I will catch up with your power!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Hahahaha...";
+msgctxt "Yoop#Warlock"
+msgid "Hahahaha..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Assistant]";
+msgctxt "Assistant#Warlock2"
+msgid "[Assistant]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Human! What do you want?";
+msgctxt "Assistant#Warlock2"
+msgid "Human! What do you want?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It's not me you are looking for currently.";
+msgctxt "Assistant#Warlock2"
+msgid "It's not me you are looking for currently."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You're carring out too many items.";
+msgctxt "Assistant#Warlock2"
+msgid "You're carring out too many items."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You'd better minimize your weight.";
+msgctxt "Assistant#Warlock2"
+msgid "You'd better minimize your weight."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Yoop]";
+msgctxt "Assistant#Warlock2"
+msgid "[Yoop]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "The test isn't that hard.";
+msgctxt "Assistant#Warlock2"
+msgid "The test isn't that hard."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "We can create the magic stone in the magic room.";
+msgctxt "Assistant#Warlock2"
+msgid "We can create the magic stone in the magic room."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Be careful of the monsters in the test room.";
+msgctxt "Assistant#Warlock2"
+msgid "Be careful of the monsters in the test room."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "These are rainbow Rubies sealed with a Warlock's magic.";
+msgctxt "Assistant#Warlock2"
+msgid "These are rainbow Rubies sealed with a Warlock's magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Use these during the test.";
+msgctxt "Assistant#Warlock2"
+msgid "Use these during the test."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I will guide you into the magic room.";
+msgctxt "Assistant#Warlock2"
+msgid "I will guide you into the magic room."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Would you like to try it again?";
+msgctxt "Assistant#Warlock2"
+msgid "Would you like to try it again?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Let me give you more rubies.";
+msgctxt "Assistant#Warlock2"
+msgid "Let me give you more rubies."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You have successfully crystallized the Hollow Stone.";
+msgctxt "Assistant#Warlock2"
+msgid "You have successfully crystallized the Hollow Stone."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I'm sorry that I've doubted you.";
+msgctxt "Assistant#Warlock2"
+msgid "I'm sorry that I've doubted you."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "All of the tests are done. Now talk to Master Engoloria.";
+msgctxt "Assistant#Warlock2"
+msgid "All of the tests are done. Now talk to Master Engoloria."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I'm so happy that you have succeeded.";
+msgctxt "Assistant#Warlock2"
+msgid "I'm so happy that you have succeeded."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I can feel that you have strong magic.";
+msgctxt "Assistant#Warlock2"
+msgid "I can feel that you have strong magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I envy you.";
+msgctxt "Assistant#Warlock2"
+msgid "I envy you."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It deserves something special.";
+msgctxt "Assistant#Warlock2"
+msgid "It deserves something special."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Don't abuse it.";
+msgctxt "Assistant#Warlock2"
+msgid "Don't abuse it."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Assistant]";
+msgctxt "Assistant#Warlock3"
+msgid "[Assistant]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "......";
+msgctxt "Assistant#Warlock3"
+msgid "......"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# case 1: mes "If you don't have anything to say to me, would you just leave?"; break;
+msgctxt "Assistant#Warlock3"
+msgid "If you don't have anything to say to me, would you just leave?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# case 2: mes "I don't have a pony-tail..."; break;
+msgctxt "Assistant#Warlock3"
+msgid "I don't have a pony-tail..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# default: mes "Please be quiet while my master is meditating."; break;
+msgctxt "Assistant#Warlock3"
+msgid "Please be quiet while my master is meditating."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Leave", "Stay")) {
+msgctxt "Assistant#Warlock3"
+msgid "Leave"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Leave", "Stay")) {
+msgctxt "Assistant#Warlock3"
+msgid "Stay"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Then be careful.";
+msgctxt "Assistant#Warlock3"
+msgid "Then be careful."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Master Egnoloria]";
+msgctxt "Guild Master#Warlock"
+msgid "[Master Egnoloria]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Do you have something to ask me?";
+msgctxt "Guild Master#Warlock"
+msgid "Do you have something to ask me?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("How can I be a Warlock?", "Cancel.")) {
+msgctxt "Guild Master#Warlock"
+msgid "How can I be a Warlock?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("How can I be a Warlock?", "Cancel.")) {
+msgctxt "Guild Master#Warlock"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Are you serious?";
+msgctxt "Guild Master#Warlock"
+msgid "Are you serious?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You hunger for power don't you human.";
+msgctxt "Guild Master#Warlock"
+msgid "You hunger for power don't you human."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "The strong desire to be more powerful makes your soul more beautiful.";
+msgctxt "Guild Master#Warlock"
+msgid "The strong desire to be more powerful makes your soul more beautiful."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "But, I need to check that you're qualified.";
+msgctxt "Guild Master#Warlock"
+msgid "But, I need to check that you're qualified."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yoop!";
+msgctxt "Guild Master#Warlock"
+msgid "Yoop!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Yoop]";
+msgctxt "Guild Master#Warlock"
+msgid "[Yoop]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yeap!!";
+msgctxt "Guild Master#Warlock"
+msgid "Yeap!!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Give this to the human.";
+msgctxt "Guild Master#Warlock"
+msgid "Give this to the human."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Talk to the guy with the weird hair.";
+msgctxt "Guild Master#Warlock"
+msgid "Talk to the guy with the weird hair."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "He'll let you know what you should do.";
+msgctxt "Guild Master#Warlock"
+msgid "He'll let you know what you should do."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Good.";
+msgctxt "Guild Master#Warlock"
+msgid "Good."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You are a human being so that's for you.";
+msgctxt "Guild Master#Warlock"
+msgid "You are a human being so that's for you."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I'm meditating, I said talk to Yoop ok.";
+msgctxt "Guild Master#Warlock"
+msgid "I'm meditating, I said talk to Yoop ok."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yoop has a funny pony-tail.";
+msgctxt "Guild Master#Warlock"
+msgid "Yoop has a funny pony-tail."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "And don't disturb me.";
+msgctxt "Guild Master#Warlock"
+msgid "And don't disturb me."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "......";
+msgctxt "Guild Master#Warlock"
+msgid "......"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Assistant]";
+msgctxt "Guild Master#Warlock"
+msgid "[Assistant]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Master is meditating.";
+msgctxt "Guild Master#Warlock"
+msgid "Master is meditating."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Be quiet.";
+msgctxt "Guild Master#Warlock"
+msgid "Be quiet."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "I've heard from Yoop that a very useful stone can be created.";
+msgctxt "Guild Master#Warlock"
+msgid "I've heard from Yoop that a very useful stone can be created."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "It can be used to make magical jewelry that can cast powerful magic.";
+msgctxt "Guild Master#Warlock"
+msgid "It can be used to make magical jewelry that can cast powerful magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yoop.";
+msgctxt "Guild Master#Warlock"
+msgid "Yoop."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yeap, Master!";
+msgctxt "Guild Master#Warlock"
+msgid "Yeap, Master!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please take him to the magical room.";
+msgctxt "Guild Master#Warlock"
+msgid "Please take him to the magical room."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Yup, Master.";
+msgctxt "Guild Master#Warlock"
+msgid "Yup, Master."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please follow me.";
+msgctxt "Guild Master#Warlock"
+msgid "Please follow me."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "My master is meditating now, please follow me.";
+msgctxt "Guild Master#Warlock"
+msgid "My master is meditating now, please follow me."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Hm...?";
+msgctxt "Guild Master#Warlock"
+msgid "Hm...?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "How did you come this far...";
+msgctxt "Guild Master#Warlock"
+msgid "How did you come this far..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You've got too many items.";
+msgctxt "Guild Master#Warlock"
+msgid "You've got too many items."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please come back after reducing the number of items you have.";
+msgctxt "Guild Master#Warlock"
+msgid "Please come back after reducing the number of items you have."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Unless you like your current job, you should use all your skill points.";
+msgctxt "Guild Master#Warlock"
+msgid "Unless you like your current job, you should use all your skill points."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You are on a riding pet,";
+msgctxt "Guild Master#Warlock"
+msgid "You are on a riding pet,"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "so you cannot change your job.";
+msgctxt "Guild Master#Warlock"
+msgid "so you cannot change your job."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Please unequip your riding pet and try again!";
+msgctxt "Guild Master#Warlock"
+msgid "Please unequip your riding pet and try again!"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Beautiful light...";
+msgctxt "Guild Master#Warlock"
+msgid "Beautiful light..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Don't make me disappointed at you...";
+msgctxt "Guild Master#Warlock"
+msgid "Don't make me disappointed at you..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "You have become a member of the Warlocks.";
+msgctxt "Guild Master#Warlock"
+msgid "You have become a member of the Warlocks."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Be proud.";
+msgctxt "Guild Master#Warlock"
+msgid "Be proud."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "^0000ffYou still have left the skill points, Please use all the skill points and try to start again!^000000";
+msgctxt "Guild Master#Warlock"
+msgid "^0000ffYou still have left the skill points, Please use all the skill points and try to start again!^000000"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "This crystallized magical stone will keep you safe.";
+msgctxt "Guild Master#Warlock"
+msgid "This crystallized magical stone will keep you safe."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "How are you adjusting to the power of a Warlocks?";
+msgctxt "Guild Master#Warlock"
+msgid "How are you adjusting to the power of a Warlocks?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If you get careless, you will be overthrown by your own power.";
+msgctxt "Guild Master#Warlock"
+msgid "If you get careless, you will be overthrown by your own power."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Yoop]";
+msgctxt "Yoop#WRR"
+msgid "[Yoop]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If you ask Ebein to be sent to the magical room, he would send you there.";
+msgctxt "Yoop#WRR"
+msgid "If you ask Ebein to be sent to the magical room, he would send you there."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Wait in the queue to enter the Chamber of Magic.";
+msgctxt "Yoop#WRR"
+msgid "Wait in the queue to enter the Chamber of Magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "[Ebein]";
+msgctxt "Ebein#WRR"
+msgid "[Ebein]"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Would you like to take a test?";
+msgctxt "Ebein#WRR"
+msgid "Would you like to take a test?"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If you stand by in the waiting room, you'll be able to go into the Chamber of Magic.";
+msgctxt "Ebein#WRR"
+msgid "If you stand by in the waiting room, you'll be able to go into the Chamber of Magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "If there're others inside the room, you just need to wait for a while.";
+msgctxt "Ebein#WRR"
+msgid "If there're others inside the room, you just need to wait for a while."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Go to the waiting room.", "Go outside.")) {
+msgctxt "Ebein#WRR"
+msgid "Go to the waiting room."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Go to the waiting room.", "Go outside.")) {
+msgctxt "Ebein#WRR"
+msgid "Go outside."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Then please enter the room yourself.";
+msgctxt "Ebein#WRR"
+msgid "Then please enter the room yourself."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Make sure you have enough potions to survive the test as the monsters are very powerful in the Chamber.";
+msgctxt "Ebein#WRR"
+msgid "Make sure you have enough potions to survive the test as the monsters are very powerful in the Chamber."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "......";
+msgctxt "Ebein#WRR"
+msgid "......"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Then I will send you outside.";
+msgctxt "Ebein#WRR"
+msgid "Then I will send you outside."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Bye...";
+msgctxt "Ebein#WRR"
+msgid "Bye..."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Open Arena", "Close Arena", "Open the Chamber of Magic", "Close the Chamber of Magic", "Hollow Stone On", "Hollow Stone Off", "Cancel")) {
+msgctxt "Button Girl#wl"
+msgid "Open Arena"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Open Arena", "Close Arena", "Open the Chamber of Magic", "Close the Chamber of Magic", "Hollow Stone On", "Hollow Stone Off", "Cancel")) {
+msgctxt "Button Girl#wl"
+msgid "Close Arena"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Open Arena", "Close Arena", "Open the Chamber of Magic", "Close the Chamber of Magic", "Hollow Stone On", "Hollow Stone Off", "Cancel")) {
+msgctxt "Button Girl#wl"
+msgid "Open the Chamber of Magic"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Open Arena", "Close Arena", "Open the Chamber of Magic", "Close the Chamber of Magic", "Hollow Stone On", "Hollow Stone Off", "Cancel")) {
+msgctxt "Button Girl#wl"
+msgid "Close the Chamber of Magic"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Open Arena", "Close Arena", "Open the Chamber of Magic", "Close the Chamber of Magic", "Hollow Stone On", "Hollow Stone Off", "Cancel")) {
+msgctxt "Button Girl#wl"
+msgid "Hollow Stone On"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Open Arena", "Close Arena", "Open the Chamber of Magic", "Close the Chamber of Magic", "Hollow Stone On", "Hollow Stone Off", "Cancel")) {
+msgctxt "Button Girl#wl"
+msgid "Hollow Stone Off"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# switch(select("Open Arena", "Close Arena", "Open the Chamber of Magic", "Close the Chamber of Magic", "Hollow Stone On", "Hollow Stone Off", "Cancel")) {
+msgctxt "Button Girl#wl"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Opening the Arena.";
+msgctxt "Button Girl#wl"
+msgid "Opening the Arena."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Closing the Arena.";
+msgctxt "Button Girl#wl"
+msgid "Closing the Arena."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Opening the Chamber of Magic.";
+msgctxt "Button Girl#wl"
+msgid "Opening the Chamber of Magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Closing the Chamber of Magic.";
+msgctxt "Button Girl#wl"
+msgid "Closing the Chamber of Magic."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Enabing Hollow Stone.";
+msgctxt "Button Girl#wl"
+msgid "Enabing Hollow Stone."
+msgstr ""
+
+#: npc/re/jobs/3-1/warlock.txt
+# mes "Disabling Hollow Stone.";
+msgctxt "Button Girl#wl"
+msgid "Disabling Hollow Stone."
+msgstr ""

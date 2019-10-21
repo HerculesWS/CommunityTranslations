@@ -1,0 +1,512 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/eden/86-90.txt
+# mes "Wait a minute!";
+msgctxt "86-90 Mission Board"
+msgid "Wait a minute!"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "-You need to have an-";
+msgctxt "86-90 Mission Board"
+msgid "-You need to have an-"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "-^4d4dff'Eden Group Mark'^000000-";
+msgctxt "86-90 Mission Board"
+msgid "-^4d4dff'Eden Group Mark'^000000-"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "-to receive these missions.-";
+msgctxt "86-90 Mission Board"
+msgid "-to receive these missions.-"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("Just walk away.", "^0000FFEden Group^000000 missions?", "How can I be a member of the ^0000FFEden Group^000000?")) {
+msgctxt "86-90 Mission Board"
+msgid "Just walk away."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("Just walk away.", "^0000FFEden Group^000000 missions?", "How can I be a member of the ^0000FFEden Group^000000?")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFEden Group^000000 missions?"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("Just walk away.", "^0000FFEden Group^000000 missions?", "How can I be a member of the ^0000FFEden Group^000000?")) {
+msgctxt "86-90 Mission Board"
+msgid "How can I be a member of the ^0000FFEden Group^000000?"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::The Eden Group Missions";
+msgctxt "86-90 Mission Board"
+msgid "::The Eden Group Missions"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::are basically missions";
+msgctxt "86-90 Mission Board"
+msgid "::are basically missions"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::requested by";
+msgctxt "86-90 Mission Board"
+msgid "::requested by"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::people from all around the kingdom.";
+msgctxt "86-90 Mission Board"
+msgid "::people from all around the kingdom."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::We just categorize them.";
+msgctxt "86-90 Mission Board"
+msgid "::We just categorize them."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::In the Eden Group,";
+msgctxt "86-90 Mission Board"
+msgid "::In the Eden Group,"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::we sorted out the missions";
+msgctxt "86-90 Mission Board"
+msgid "::we sorted out the missions"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::according to the level of difficulty.";
+msgctxt "86-90 Mission Board"
+msgid "::according to the level of difficulty."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::According to this level,";
+msgctxt "86-90 Mission Board"
+msgid "::According to this level,"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::you can find";
+msgctxt "86-90 Mission Board"
+msgid "::you can find"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::missions that";
+msgctxt "86-90 Mission Board"
+msgid "::missions that"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::suit you.";
+msgctxt "86-90 Mission Board"
+msgid "::suit you."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::When you are done,";
+msgctxt "86-90 Mission Board"
+msgid "::When you are done,"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::you can come back";
+msgctxt "86-90 Mission Board"
+msgid "::you can come back"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::to the mission board.";
+msgctxt "86-90 Mission Board"
+msgid "::to the mission board."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::Then you will be";
+msgctxt "86-90 Mission Board"
+msgid "::Then you will be"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::rewarded!!";
+msgctxt "86-90 Mission Board"
+msgid "::rewarded!!"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::Simple, isn't it!!";
+msgctxt "86-90 Mission Board"
+msgid "::Simple, isn't it!!"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::No commission required!!";
+msgctxt "86-90 Mission Board"
+msgid "::No commission required!!"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::You can become a member";
+msgctxt "86-90 Mission Board"
+msgid "::You can become a member"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::of the Eden Group";
+msgctxt "86-90 Mission Board"
+msgid "::of the Eden Group"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::to ^0000FFLaime Evenor^000000,";
+msgctxt "86-90 Mission Board"
+msgid "::to ^0000FFLaime Evenor^000000,"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::who is waiting on the 1st floor.";
+msgctxt "86-90 Mission Board"
+msgid "::who is waiting on the 1st floor."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::If you become a member,";
+msgctxt "86-90 Mission Board"
+msgid "::If you become a member,"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::you will get an";
+msgctxt "86-90 Mission Board"
+msgid "::you will get an"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::\"^006400Eden Group Mark^000000\".";
+msgctxt "86-90 Mission Board"
+msgid "::\"^006400Eden Group Mark^000000\"."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::Then you will be able";
+msgctxt "86-90 Mission Board"
+msgid "::Then you will be able"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "::to see the mission board.";
+msgctxt "86-90 Mission Board"
+msgid "::to see the mission board."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "You must be within level 86-90 to accept these missions.";
+msgctxt "86-90 Mission Board"
+msgid "You must be within level 86-90 to accept these missions."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: You cannot proceed in";
+msgctxt "86-90 Mission Board"
+msgid ":: You cannot proceed in"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: ^0000FF"+.@names$[.@quest-4167]+" Hunting^000000.";
+msgctxt "86-90 Mission Board"
+msgid ":: ^0000FF"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: ^0000FF"+.@names$[.@quest-4167]+" Hunting^000000.";
+msgctxt "86-90 Mission Board"
+msgid " Hunting^000000."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: The registration to the mission";
+msgctxt "86-90 Mission Board"
+msgid ":: The registration to the mission"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: is cancelled.";
+msgctxt "86-90 Mission Board"
+msgid ":: is cancelled."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: You added information";
+msgctxt "86-90 Mission Board"
+msgid ":: You added information"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: about the mission";
+msgctxt "86-90 Mission Board"
+msgid ":: about the mission"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: ^0000FF"+.@names$[.@quest-4167]+" Hunting^000000";
+msgctxt "86-90 Mission Board"
+msgid " Hunting^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: on the mission board.";
+msgctxt "86-90 Mission Board"
+msgid ":: on the mission board."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: You've got a";
+msgctxt "86-90 Mission Board"
+msgid ":: You've got a"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes ":: salutary experience.";
+msgctxt "86-90 Mission Board"
+msgid ":: salutary experience."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "[86-90 Mission Board]";
+msgctxt "86-90 Mission Board"
+msgid "[86-90 Mission Board]"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "There are several requests on this board.";
+msgctxt "86-90 Mission Board"
+msgid "There are several requests on this board."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^8B4513Turtle Island^000000", "^8B4513Clock Tower Dungeon^000000", "^8B4513Expansion Towns^000000", "^8B4513Other Regions^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^8B4513Turtle Island^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^8B4513Turtle Island^000000", "^8B4513Clock Tower Dungeon^000000", "^8B4513Expansion Towns^000000", "^8B4513Other Regions^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^8B4513Clock Tower Dungeon^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^8B4513Turtle Island^000000", "^8B4513Clock Tower Dungeon^000000", "^8B4513Expansion Towns^000000", "^8B4513Other Regions^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^8B4513Expansion Towns^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^8B4513Turtle Island^000000", "^8B4513Clock Tower Dungeon^000000", "^8B4513Expansion Towns^000000", "^8B4513Other Regions^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^8B4513Other Regions^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "^8B4513Turtle Island^000000.";
+msgctxt "86-90 Mission Board"
+msgid "^8B4513Turtle Island^000000."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "Which monster will you hunt or have you finished hunting?";
+msgctxt "86-90 Mission Board"
+msgid "Which monster will you hunt or have you finished hunting?"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFDragon Tail^000000", "^0000FFSpring Rabbit^000000", "^0000FFPest^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFDragon Tail^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFDragon Tail^000000", "^0000FFSpring Rabbit^000000", "^0000FFPest^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFSpring Rabbit^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFDragon Tail^000000", "^0000FFSpring Rabbit^000000", "^0000FFPest^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFPest^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "^8B4513Clock Tower Dungeon^000000.";
+msgctxt "86-90 Mission Board"
+msgid "^8B4513Clock Tower Dungeon^000000."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFBathory^000000", "^0000FFAlarm^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFBathory^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFBathory^000000", "^0000FFAlarm^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFAlarm^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "^8B4513Expansion Cities^000000";
+msgctxt "86-90 Mission Board"
+msgid "^8B4513Expansion Cities^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFBaba Yaga^000000", "^0000FFYao Jun^000000", "^0000FFFirelock Soldier^000000", "^0000FFZipper Bear^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFBaba Yaga^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFBaba Yaga^000000", "^0000FFYao Jun^000000", "^0000FFFirelock Soldier^000000", "^0000FFZipper Bear^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFYao Jun^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFBaba Yaga^000000", "^0000FFYao Jun^000000", "^0000FFFirelock Soldier^000000", "^0000FFZipper Bear^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFFirelock Soldier^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFBaba Yaga^000000", "^0000FFYao Jun^000000", "^0000FFFirelock Soldier^000000", "^0000FFZipper Bear^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFZipper Bear^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "Here is a list of random requests to hunt monsters in other regions of Rune Midgard.";
+msgctxt "86-90 Mission Board"
+msgid "Here is a list of random requests to hunt monsters in other regions of Rune Midgard."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFGround Petite^000000", "^0000FFRafflesia^000000", "^0000FFVenomous^000000", "^0000FFPitman^000000", "^0000FFYellow Novus^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFGround Petite^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFGround Petite^000000", "^0000FFRafflesia^000000", "^0000FFVenomous^000000", "^0000FFPitman^000000", "^0000FFYellow Novus^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFRafflesia^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFGround Petite^000000", "^0000FFRafflesia^000000", "^0000FFVenomous^000000", "^0000FFPitman^000000", "^0000FFYellow Novus^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFVenomous^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFGround Petite^000000", "^0000FFRafflesia^000000", "^0000FFVenomous^000000", "^0000FFPitman^000000", "^0000FFYellow Novus^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFPitman^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# switch(select("^0000FFGround Petite^000000", "^0000FFRafflesia^000000", "^0000FFVenomous^000000", "^0000FFPitman^000000", "^0000FFYellow Novus^000000")) {
+msgctxt "86-90 Mission Board"
+msgid "^0000FFYellow Novus^000000"
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "You need to wait 3 hours before you can take this mission again.";
+msgctxt "86-90 Mission Board"
+msgid "You need to wait 3 hours before you can take this mission again."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "Have you finished hunting all 30 "+getarg(1)+getarg(5,"")+" yet?";
+msgctxt "86-90 Mission Board"
+msgid "Have you finished hunting all 30 "
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "You have completed the hunting.";
+msgctxt "86-90 Mission Board"
+msgid "You have completed the hunting."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "Please accept this reward as a compensation.";
+msgctxt "86-90 Mission Board"
+msgid "Please accept this reward as a compensation."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "Hunt 30 "+getarg(1)+" monsters there and post your success on this board.";
+msgctxt "86-90 Mission Board"
+msgid "Hunt 30 "
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# if(select("I'll hunt them.", "No thanks.") == 1) {
+msgctxt "86-90 Mission Board"
+msgid "I'll hunt them."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# if(select("I'll hunt them.", "No thanks.") == 1) {
+msgctxt "86-90 Mission Board"
+msgid "No thanks."
+msgstr ""
+
+#: npc/re/quests/eden/86-90.txt
+# mes "When you have completed the mission, post it on this board and collect your reward.";
+msgctxt "86-90 Mission Board"
+msgid "When you have completed the mission, post it on this board and collect your reward."
+msgstr ""

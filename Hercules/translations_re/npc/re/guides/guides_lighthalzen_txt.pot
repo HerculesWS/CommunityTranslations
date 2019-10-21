@@ -1,0 +1,314 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "[Lighthalzen Guide]";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[Lighthalzen Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "Welcome to ^8B4513Lighthalzen^000000,";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Welcome to ^8B4513Lighthalzen^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "the Corporation City-State.";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "the Corporation City-State."
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "If you need any guidance";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "If you need any guidance"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "around the city, feel free";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "around the city, feel free"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "to ask me and I'll do my";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "to ask me and I'll do my"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "very best to help you.";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "very best to help you."
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "Please be aware that I'm";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Please be aware that I'm"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "in charge of providing info";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "in charge of providing info"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "regarding the West District";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "regarding the West District"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "of ^8B4513Lighthalzen^000000. Now, please";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "of ^8B4513Lighthalzen^000000. Now, please"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "select the location that you'd";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "select the location that you'd"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "like to learn more about.";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "like to learn more about."
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Hotel ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Bank ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Airport ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Department Store ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Police Station ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Jewelry Store ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Cool Event Corp. ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Somatology Laboratory ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Alchemist Association ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Hotel ]", "[ Bank ]", "[ Airport ]", "[ Weapon Shop ]", "[ Department Store ]", "[ Police Station ]", "[ Jewelry Store ]", "[ Cool Event Corp. ]", "[ Somatology Laboratory ]", "[ Alchemist Association ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Previous Menu"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Armsmith ]", "[ Seiayablem ]", "[ Pet Groomer ]", "[ Kafra Employees ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Armsmith ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Armsmith ]", "[ Seiayablem ]", "[ Pet Groomer ]", "[ Kafra Employees ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Seiayablem ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Armsmith ]", "[ Seiayablem ]", "[ Pet Groomer ]", "[ Kafra Employees ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Pet Groomer ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Armsmith ]", "[ Seiayablem ]", "[ Pet Groomer ]", "[ Kafra Employees ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Kafra Employees ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# switch(select("[ Armsmith ]", "[ Seiayablem ]", "[ Pet Groomer ]", "[ Kafra Employees ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "[ Cool Event Corp. Staff ]"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "You may go to Fulerr,";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "You may go to Fulerr,"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "the ^0A9696Armsmith^000000";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "the ^0A9696Armsmith^000000"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "on the 1st floor of the Weapon Shop.";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "on the 1st floor of the Weapon Shop."
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "^4B0082Seiyablem^000000 adds";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "^4B0082Seiyablem^000000 adds"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "sockets on your items";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "sockets on your items"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "on the 1st floor";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "on the 1st floor"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "of the Weapon Shop.";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "of the Weapon Shop."
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "Is there anything else I can do for you?";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "Enjoy your adventures!";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Enjoy your adventures!"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "I will mark the location";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "I will mark the location"
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "of "+((getarg(1,0))?"":"the ")+getarg(0);
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "of "
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "on your mini-map.";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_lighthalzen.txt
+# mes "Would you like to check any other locations?";
+msgctxt "Lighthalzen Guide#lhz01::GuideLighthazlen"
+msgid "Would you like to check any other locations?"
+msgstr ""

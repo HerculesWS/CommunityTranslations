@@ -1,0 +1,362 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "[Moscovia Guide]";
+msgctxt "Moscovia Guide#01mosc"
+msgid "[Moscovia Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "A paradise on the sea,";
+msgctxt "Moscovia Guide#01mosc"
+msgid "A paradise on the sea,"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "beautiful waves and warm sunshine.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "beautiful waves and warm sunshine."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "^8B4513Moscovia^000000 is waiting for you.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "^8B4513Moscovia^000000 is waiting for you."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "I'm supporting to offer information about here.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "I'm supporting to offer information about here."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "If you want to ask anything just feel free tell me.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "If you want to ask anything just feel free tell me."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Palace ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Chapel ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Armor Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Inn ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "[ Return to Alberta ]"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# switch(select("[ Kafra Employee ]", "[ Palace ]", "[ Chapel ]", "[ Weapon Shop ]", "[ Armor Shop ]", "[ Tool Shop ]", "[ Inn ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Moscovia Guide#01mosc"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The ^0000FFKafra Employee^000000 has";
+msgctxt "Moscovia Guide#01mosc"
+msgid "The ^0000FFKafra Employee^000000 has"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "been marked on your mini-map";
+msgctxt "Moscovia Guide#01mosc"
+msgid "been marked on your mini-map"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "Check your mini-map.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Check your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "Do you need anything else?";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Do you need anything else?"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "In the "+F_Navi("Palace","moscovia,255,140","^006400")+" you will find our Lord the Czar and other servants.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "In the "
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "In the "+F_Navi("Palace","moscovia,255,140","^006400")+" you will find our Lord the Czar and other servants.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Palace"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "In the "+F_Navi("Palace","moscovia,255,140","^006400")+" you will find our Lord the Czar and other servants.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "moscovia,255,140"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "In the "+F_Navi("Palace","moscovia,255,140","^006400")+" you will find our Lord the Czar and other servants.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "^006400"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "In the "+F_Navi("Palace","moscovia,255,140","^006400")+" you will find our Lord the Czar and other servants.";
+msgctxt "Moscovia Guide#01mosc"
+msgid " you will find our Lord the Czar and other servants."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Chapel","moscovia,253,179","^008080")+" is located here.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Chapel","moscovia,253,179","^008080")+" is located here.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Chapel"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Chapel","moscovia,253,179","^008080")+" is located here.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "moscovia,253,179"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Chapel","moscovia,253,179","^008080")+" is located here.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "^008080"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Chapel","moscovia,253,179","^008080")+" is located here.";
+msgctxt "Moscovia Guide#01mosc"
+msgid " is located here."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You can buy weapons from the best craftsmen in Moscovia if you go to the "+F_Navi("Weapon Shop","moscovia,186,191","^FF1493")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "You can buy weapons from the best craftsmen in Moscovia if you go to the "
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You can buy weapons from the best craftsmen in Moscovia if you go to the "+F_Navi("Weapon Shop","moscovia,186,191","^FF1493")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Weapon Shop"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You can buy weapons from the best craftsmen in Moscovia if you go to the "+F_Navi("Weapon Shop","moscovia,186,191","^FF1493")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "moscovia,186,191"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You can buy weapons from the best craftsmen in Moscovia if you go to the "+F_Navi("Weapon Shop","moscovia,186,191","^FF1493")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "^FF1493"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You can buy weapons from the best craftsmen in Moscovia if you go to the "+F_Navi("Weapon Shop","moscovia,186,191","^FF1493")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You will find only the best gear at the Moscovia "+F_Navi("Armor Shop","moscovia,204,169","^8B4513")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "You will find only the best gear at the Moscovia "
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You will find only the best gear at the Moscovia "+F_Navi("Armor Shop","moscovia,204,169","^8B4513")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Armor Shop"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You will find only the best gear at the Moscovia "+F_Navi("Armor Shop","moscovia,204,169","^8B4513")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "moscovia,204,169"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You will find only the best gear at the Moscovia "+F_Navi("Armor Shop","moscovia,204,169","^8B4513")+".";
+msgctxt "Moscovia Guide#01mosc"
+msgid "^8B4513"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Tool Shop","moscovia,221,176","^FF1493")+" is located just south from the center of town.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Tool Shop"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Tool Shop","moscovia,221,176","^FF1493")+" is located just south from the center of town.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "moscovia,221,176"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The "+F_Navi("Tool Shop","moscovia,221,176","^FF1493")+" is located just south from the center of town.";
+msgctxt "Moscovia Guide#01mosc"
+msgid " is located just south from the center of town."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You can find all sorts of things you need for your travels.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "You can find all sorts of things you need for your travels."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The Inn "+F_Navi("Sticky Herb Tree","moscovia,227,206")+" is just north from the center of town.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "The Inn "
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The Inn "+F_Navi("Sticky Herb Tree","moscovia,227,206")+" is just north from the center of town.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Sticky Herb Tree"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The Inn "+F_Navi("Sticky Herb Tree","moscovia,227,206")+" is just north from the center of town.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "moscovia,227,206"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "The Inn "+F_Navi("Sticky Herb Tree","moscovia,227,206")+" is just north from the center of town.";
+msgctxt "Moscovia Guide#01mosc"
+msgid " is just north from the center of town."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "If you need to rest, there is no better place to stay.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "If you need to rest, there is no better place to stay."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "You can find the";
+msgctxt "Moscovia Guide#01mosc"
+msgid "You can find the"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes F_Navi("Moscovia P.R. Officer","moscovia,166,53")+" at the docks if";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Moscovia P.R. Officer"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes F_Navi("Moscovia P.R. Officer","moscovia,166,53")+" at the docks if";
+msgctxt "Moscovia Guide#01mosc"
+msgid "moscovia,166,53"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes F_Navi("Moscovia P.R. Officer","moscovia,166,53")+" at the docks if";
+msgctxt "Moscovia Guide#01mosc"
+msgid " at the docks if"
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "you want to return to Alberta.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "you want to return to Alberta."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "I'll remove all marks from your mini-map.";
+msgctxt "Moscovia Guide#01mosc"
+msgid "I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_moscovia.txt
+# mes "Enjoy your trip~!";
+msgctxt "Moscovia Guide#01mosc"
+msgid "Enjoy your trip~!"
+msgstr ""

@@ -1,0 +1,1964 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There are 2 ways to invest, by Zeny or the Investment Certificate given out by the Cat Paw Merchant Guild.";
+msgctxt "F_Invest_Abyss"
+msgid "There are 2 ways to invest, by Zeny or the Investment Certificate given out by the Cat Paw Merchant Guild."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Which way would you like to make your investment?";
+msgctxt "F_Invest_Abyss"
+msgid "Which way would you like to make your investment?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Invest with Zeny.", "Invest with Investment Certificates.", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "Invest with Zeny."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Invest with Zeny.", "Invest with Investment Certificates.", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "Invest with Investment Certificates."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Invest with Zeny.", "Invest with Investment Certificates.", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "So you've decided to invest in Zeny.";
+msgctxt "F_Invest_Abyss"
+msgid "So you've decided to invest in Zeny."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Minimum investment unit is ^4d4dff10,000 Zeny^000000.";
+msgctxt "F_Invest_Abyss"
+msgid "Minimum investment unit is ^4d4dff10,000 Zeny^000000."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You can invest a maximum of 50 units which is ^4d4dff500,000 Zeny^000000.";
+msgctxt "F_Invest_Abyss"
+msgid "You can invest a maximum of 50 units which is ^4d4dff500,000 Zeny^000000."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("1 unit 10,000 Zeny", "10 units 100,000 Zeny", "50 units 500,000 Zeny", "Another amount", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "1 unit 10,000 Zeny"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("1 unit 10,000 Zeny", "10 units 100,000 Zeny", "50 units 500,000 Zeny", "Another amount", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "10 units 100,000 Zeny"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("1 unit 10,000 Zeny", "10 units 100,000 Zeny", "50 units 500,000 Zeny", "Another amount", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "50 units 500,000 Zeny"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("1 unit 10,000 Zeny", "10 units 100,000 Zeny", "50 units 500,000 Zeny", "Another amount", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "Another amount"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please enter the amount you want to invest.";
+msgctxt "F_Invest_Abyss"
+msgid "Please enter the amount you want to invest."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please choose between 1 to 200.";
+msgctxt "F_Invest_Abyss"
+msgid "Please choose between 1 to 200."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please enter 0 to cancel.";
+msgctxt "F_Invest_Abyss"
+msgid "Please enter 0 to cancel."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've exceeded the amount per investment.";
+msgctxt "F_Invest_Abyss"
+msgid "You've exceeded the amount per investment."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please try again.";
+msgctxt "F_Invest_Abyss"
+msgid "Please try again."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Canceled.";
+msgctxt "F_Invest_Abyss"
+msgid "Canceled."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You do not have enough money.";
+msgctxt "F_Invest_Abyss"
+msgid "You do not have enough money."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've invested "+.@units+" unit"+((.@units == 1)?"":"s")+" "+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000 Zeny"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid "You've invested "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've invested "+.@units+" unit"+((.@units == 1)?"":"s")+" "+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000 Zeny"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid " unit"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've invested "+.@units+" unit"+((.@units == 1)?"":"s")+" "+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000 Zeny"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid "s"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've invested "+.@units+" unit"+((.@units == 1)?"":"s")+" "+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000 Zeny"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid " "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Not much but this is a small gift. You can exchange it with items in Malangdo.";
+msgctxt "F_Invest_Abyss"
+msgid "Not much but this is a small gift. You can exchange it with items in Malangdo."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Wow, you've brought Investment Certificates.";
+msgctxt "F_Invest_Abyss"
+msgid "Wow, you've brought Investment Certificates."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "How many certificates will you submit?";
+msgctxt "F_Invest_Abyss"
+msgid "How many certificates will you submit?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("1 Investment Certificate", "5 Investment Certificates", "Another amount", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "1 Investment Certificate"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("1 Investment Certificate", "5 Investment Certificates", "Another amount", "Cancel")) {
+msgctxt "F_Invest_Abyss"
+msgid "5 Investment Certificates"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please enter the number of Investment Certificates you want to submit.";
+msgctxt "F_Invest_Abyss"
+msgid "Please enter the number of Investment Certificates you want to submit."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please choose between 1 to 20.";
+msgctxt "F_Invest_Abyss"
+msgid "Please choose between 1 to 20."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Looks like you have fewer Investment Certificates than you want to submit.";
+msgctxt "F_Invest_Abyss"
+msgid "Looks like you have fewer Investment Certificates than you want to submit."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@tickets+" Investment Certificate"+((.@tickets == 1)?" is":"s are")+" the same as an investment of "+.@units+" units ("+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000z)"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid " Investment Certificate"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@tickets+" Investment Certificate"+((.@tickets == 1)?" is":"s are")+" the same as an investment of "+.@units+" units ("+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000z)"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid " is"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@tickets+" Investment Certificate"+((.@tickets == 1)?" is":"s are")+" the same as an investment of "+.@units+" units ("+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000z)"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid "s are"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@tickets+" Investment Certificate"+((.@tickets == 1)?" is":"s are")+" the same as an investment of "+.@units+" units ("+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000z)"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid " the same as an investment of "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@tickets+" Investment Certificate"+((.@tickets == 1)?" is":"s are")+" the same as an investment of "+.@units+" units ("+((.@units < 100)?.@units:insertchar(""+.@units,",",1))+"0,000z)"+getarg(2,"")+".";
+msgctxt "F_Invest_Abyss"
+msgid " units ("
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Is this not working properly?";
+msgctxt "Investment_total#fund00"
+msgid "Is this not working properly?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If you think the investment timer is dead, please adjust the timer.";
+msgctxt "Investment_total#fund00"
+msgid "If you think the investment timer is dead, please adjust the timer."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Turn on the timer", "Cancel")) {
+msgctxt "Investment_total#fund00"
+msgid "Turn on the timer"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Turn on the timer", "Cancel")) {
+msgctxt "Investment_total#fund00"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've turned on the timer.";
+msgctxt "Investment_total#fund00"
+msgid "You've turned on the timer."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Canceled.";
+msgctxt "Investment_total#fund00"
+msgid "Canceled."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I don't need to adjust anything now.";
+msgctxt "Investment_total#fund00"
+msgid "I don't need to adjust anything now."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "[Revoting Manager]";
+msgctxt "Revoting Manager#Invest1"
+msgid "[Revoting Manager]"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We are not accepting additional votes.";
+msgctxt "Revoting Manager#Invest1"
+msgid "We are not accepting additional votes."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please wait for our results announcement.";
+msgctxt "Revoting Manager#Invest1"
+msgid "Please wait for our results announcement."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "[Revoting Manager]";
+msgctxt "Revoting Manager#Invest2"
+msgid "[Revoting Manager]"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "No! This is not the time to take a revote.";
+msgctxt "Revoting Manager#Invest2"
+msgid "No! This is not the time to take a revote."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've already participated in the vote.";
+msgctxt "Revoting Manager#Invest2"
+msgid "You've already participated in the vote."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please relax and wait for the results.";
+msgctxt "Revoting Manager#Invest2"
+msgid "Please relax and wait for the results."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Would you like to participate in the vote for choosing where to connect the 'Abyss Gate'?";
+msgctxt "Revoting Manager#Invest2"
+msgid "Would you like to participate in the vote for choosing where to connect the 'Abyss Gate'?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# if(select("Participate in the vote.", "Skip for now.") == 2) {
+msgctxt "Revoting Manager#Invest2"
+msgid "Participate in the vote."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# if(select("Participate in the vote.", "Skip for now.") == 2) {
+msgctxt "Revoting Manager#Invest2"
+msgid "Skip for now."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've canceled the vote.";
+msgctxt "Revoting Manager#Invest2"
+msgid "You've canceled the vote."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You can vote once and won't need to invest for your choice.";
+msgctxt "Revoting Manager#Invest2"
+msgid "You can vote once and won't need to invest for your choice."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Plesae choose one WOE area.";
+msgctxt "Revoting Manager#Invest2"
+msgid "Plesae choose one WOE area."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've voted for "+.@menu$[.@vote]+".";
+msgctxt "Revoting Manager#Invest2"
+msgid "You've voted for "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You've voted for "+.@menu$[.@vote]+".";
+msgctxt "Revoting Manager#Invest2"
+msgid "."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Thanks for voting.";
+msgctxt "Revoting Manager#Invest2"
+msgid "Thanks for voting."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'm "+.@name$+", the "+.@intro$+" of the Cat Paw Merchant Guild.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "I'm "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'm "+.@name$+", the "+.@intro$+" of the Cat Paw Merchant Guild.";
+msgctxt "Cat Paw Merchant Guild"
+msgid ", the "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'm "+.@name$+", the "+.@intro$+" of the Cat Paw Merchant Guild.";
+msgctxt "Cat Paw Merchant Guild"
+msgid " of the Cat Paw Merchant Guild."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I consult about investments for the Abyss Gate development.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "I consult about investments for the Abyss Gate development."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "How may I help you?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "How may I help you?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("What is the Abyss Gate?", "Investing in the gate development?", "I want to invest in this area.", "Cancel")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "What is the Abyss Gate?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("What is the Abyss Gate?", "Investing in the gate development?", "I want to invest in this area.", "Cancel")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "Investing in the gate development?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("What is the Abyss Gate?", "Investing in the gate development?", "I want to invest in this area.", "Cancel")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "I want to invest in this area."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("What is the Abyss Gate?", "Investing in the gate development?", "I want to invest in this area.", "Cancel")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "It is only called the Abyss Gate for convenience but it's simply a ^4d4dffgap to another dimension^000000.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "It is only called the Abyss Gate for convenience but it's simply a ^4d4dffgap to another dimension^000000."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "More of these gaps are found here and there after Morroc created the Crack of Dimension.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "More of these gaps are found here and there after Morroc created the Crack of Dimension."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I personally think that the Abyss Gate found recently is part of the past or even from the future.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "I personally think that the Abyss Gate found recently is part of the past or even from the future."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "It is said that the Abyss Gate forcefully connects to another dimension beyond our world.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "It is said that the Abyss Gate forcefully connects to another dimension beyond our world."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Probably because there are those that follow the Emperium's power.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Probably because there are those that follow the Emperium's power."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There are a total of 4 Abyss Gates found so far. They all connect to the Agit region overflowing with the Emperium's force.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "There are a total of 4 Abyss Gates found so far. They all connect to the Agit region overflowing with the Emperium's force."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We named each by dimension beyond the gap.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "We named each by dimension beyond the gap."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^4d4dffWay of the Warrior, Hill of the Dead, Winds of the Ancient, and the Hero's Tears.^000000";
+msgctxt "Cat Paw Merchant Guild"
+msgid "^4d4dffWay of the Warrior, Hill of the Dead, Winds of the Ancient, and the Hero's Tears.^000000"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "And all these four gaps are called the ^4d4dffAbyss Gate^000000.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "And all these four gaps are called the ^4d4dffAbyss Gate^000000."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The gap may lead to the past, future or even an unknown world.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The gap may lead to the past, future or even an unknown world."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The power the Abyss Gate holds is both fearful but sweet";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The power the Abyss Gate holds is both fearful but sweet"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Are you also interested in exploring the Abyss Gate?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Are you also interested in exploring the Abyss Gate?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Ha ha. You'll need to go through several steps before exploring.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Ha ha. You'll need to go through several steps before exploring."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If you are interested,";
+msgctxt "Cat Paw Merchant Guild"
+msgid "If you are interested,"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "will you take the time to sit down and talk about investing in maintaining the Abyss Gate?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "will you take the time to sit down and talk about investing in maintaining the Abyss Gate?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Are you curious about investing in the Gate development?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Are you curious about investing in the Gate development?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "What do you want to know about?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "What do you want to know about?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("About the Gate?", "About investments?", "How to invest?", "Benefits from investing?")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "About the Gate?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("About the Gate?", "About investments?", "How to invest?", "Benefits from investing?")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "About investments?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("About the Gate?", "About investments?", "How to invest?", "Benefits from investing?")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "How to invest?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("About the Gate?", "About investments?", "How to invest?", "Benefits from investing?")) {
+msgctxt "Cat Paw Merchant Guild"
+msgid "Benefits from investing?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The Gate is what it is named after, a door.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The Gate is what it is named after, a door."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "A dimensional passageway that connects here to there.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "A dimensional passageway that connects here to there."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The Abyss Gate was created as a very unstable path from beyond the dimensional gap,";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The Abyss Gate was created as a very unstable path from beyond the dimensional gap,"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "therefore traveling through the Gate will need an artificial dimension connection.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "therefore traveling through the Gate will need an artificial dimension connection."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Humans are far from having the advanced technology that's needed";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Humans are far from having the advanced technology that's needed"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "but our Cat Paw Merchant Guild holds the high technology to use the Crack of Dimension.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "but our Cat Paw Merchant Guild holds the high technology to use the Crack of Dimension."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "So we made a proposal.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "So we made a proposal."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "With the promise of support the Cat Paw Merchant Guild and paying for the immense expense for maintaining the connection with the Gate,";
+msgctxt "Cat Paw Merchant Guild"
+msgid "With the promise of support the Cat Paw Merchant Guild and paying for the immense expense for maintaining the connection with the Gate,"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "we will make the connection to the Crack of Dimension.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "we will make the connection to the Crack of Dimension."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Of course working on the Crack of Dimension is no easy job and it does come with risks.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Of course working on the Crack of Dimension is no easy job and it does come with risks."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There are cases where people go missing from traveling between.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "There are cases where people go missing from traveling between."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The best maintaining duration is about 4 days";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The best maintaining duration is about 4 days"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You invest in us and we create the door that connects to the dimensional gap.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "You invest in us and we create the door that connects to the dimensional gap."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Doesn't this sound like the perfect win-win proposal?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Doesn't this sound like the perfect win-win proposal?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Forcing through the unstable dimensional gap and creating a passageway is very dangerous.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Forcing through the unstable dimensional gap and creating a passageway is very dangerous."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Not to mention the huge resources needed.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Not to mention the huge resources needed."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If you take care of the charges and also the danger pay by investing in the Cat Paw Merchant Guild,";
+msgctxt "Cat Paw Merchant Guild"
+msgid "If you take care of the charges and also the danger pay by investing in the Cat Paw Merchant Guild,"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "we'll create and maintain the gate regardless of the risks.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "we'll create and maintain the gate regardless of the risks."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "But then of course the money involved for the gate costs will be extreme.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "But then of course the money involved for the gate costs will be extreme."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "It will be easy if you can find investors to share the amount.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "It will be easy if you can find investors to share the amount."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There is a basic charge to start connecting the gate.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "There is a basic charge to start connecting the gate."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Results depend on the how much investment money is collected.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Results depend on the how much investment money is collected."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The Abyss Gate exists in each Agit region.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The Abyss Gate exists in each Agit region."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Can you imagine how much money and sacrifice our guild will have to go through to develop in all areas?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Can you imagine how much money and sacrifice our guild will have to go through to develop in all areas?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "This explains the regional competition in investments.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "This explains the regional competition in investments."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If not enough gate maintenance costs are collected then it is obvious the region with the most investments will receive the benefits";
+msgctxt "Cat Paw Merchant Guild"
+msgid "If not enough gate maintenance costs are collected then it is obvious the region with the most investments will receive the benefits"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If ^4d4dffthe Abyss Gate is successfully connected then the dungeon of the hideout area";
+msgctxt "Cat Paw Merchant Guild"
+msgid "If ^4d4dffthe Abyss Gate is successfully connected then the dungeon of the hideout area"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "will be open to others instead of being guild exclusive^000000 which will be very attractive for investment.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "will be open to others instead of being guild exclusive^000000 which will be very attractive for investment."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "But then again, this is only for when the gate is connected.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "But then again, this is only for when the gate is connected."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "It's simple.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "It's simple."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Visit the branch manager of the ^4d4dffregion you want to invest in during the investment duration^000000 and make your investment.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Visit the branch manager of the ^4d4dffregion you want to invest in during the investment duration^000000 and make your investment."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We usually receive ^4d4dffthe common currency here, Zeny^000000.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "We usually receive ^4d4dffthe common currency here, Zeny^000000."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "But since we're talking about supporting our Cat Paw Merchant Guild, you can also invest with items in demand in Malangdo.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "But since we're talking about supporting our Cat Paw Merchant Guild, you can also invest with items in demand in Malangdo."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Provide the items in need to Namis in Malangdo who is in charge of general affairs in our guild.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Provide the items in need to Namis in Malangdo who is in charge of general affairs in our guild."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Bring back your Investment Certificate to add it to the investment tribute.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Bring back your Investment Certificate to add it to the investment tribute."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You must visit and invest at the region you want in order for your investment to be counted as a tribute.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "You must visit and invest at the region you want in order for your investment to be counted as a tribute."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The Abyss Gate is basically contracting and connecting with the castle that owns the Agit;";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The Abyss Gate is basically contracting and connecting with the castle that owns the Agit;"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "therefore, we will provide all we have once the costs for connecting and maintaining the gate are sufficient.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "therefore, we will provide all we have once the costs for connecting and maintaining the gate are sufficient."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "In terms of the minimum and maximum costs for the whole work,";
+msgctxt "Cat Paw Merchant Guild"
+msgid "In terms of the minimum and maximum costs for the whole work,"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "if the collected investment ^4d4dffexceeds the minimum costs^000000, we can connect you to the ^4d4dffdeepest layer of an unknown guild dungeon^000000.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "if the collected investment ^4d4dffexceeds the minimum costs^000000, we can connect you to the ^4d4dffdeepest layer of an unknown guild dungeon^000000."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If investments exceed the maximum costs, that region will be connected to the";
+msgctxt "Cat Paw Merchant Guild"
+msgid "If investments exceed the maximum costs, that region will be connected to the"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^4d4dffAbyss Gate^000000 regardless of the investment rank which includes the deepest layer of the guild dungeon.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "^4d4dffAbyss Gate^000000 regardless of the investment rank which includes the deepest layer of the guild dungeon."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^ff0000If there is no Agit region that reached the maximum investment, then the region with the";
+msgctxt "Cat Paw Merchant Guild"
+msgid "^ff0000If there is no Agit region that reached the maximum investment, then the region with the"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "highest investment participation will get the Abyss Gate connected with the investment collected from all regions.^000000";
+msgctxt "Cat Paw Merchant Guild"
+msgid "highest investment participation will get the Abyss Gate connected with the investment collected from all regions.^000000"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Once the Abyss Gate is connected, the deepest layer (2F) of the guild dungeon";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Once the Abyss Gate is connected, the deepest layer (2F) of the guild dungeon"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "will be open to all adventurers that participated in the regional investment.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "will be open to all adventurers that participated in the regional investment."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Visits to the dungeon will be counted for the next investment for the Agit region";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Visits to the dungeon will be counted for the next investment for the Agit region"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "so being in good terms with the guild that claims the Agit castle will be a bonus.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "so being in good terms with the guild that claims the Agit castle will be a bonus."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "By the way, it isn't easy to maintain the connection with the Abyss Gate and investments and reconnection is needed weekly";
+msgctxt "Cat Paw Merchant Guild"
+msgid "By the way, it isn't easy to maintain the connection with the Abyss Gate and investments and reconnection is needed weekly"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "so please continue your support and investment if you want the power of the unknown.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "so please continue your support and investment if you want the power of the unknown."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Currently you're carrying -";
+msgctxt "Cat Paw Merchant Guild"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- too many items with you. -";
+msgctxt "Cat Paw Merchant Guild"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Please try again after you -";
+msgctxt "Cat Paw Merchant Guild"
+msgid "- Please try again after you -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- lose some weight. -";
+msgctxt "Cat Paw Merchant Guild"
+msgid "- lose some weight. -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You have too many Thank You Tickets to receive any more.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "You have too many Thank You Tickets to receive any more."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Cannot give you any more tickets. Please use your ticket and come back.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Cannot give you any more tickets. Please use your ticket and come back."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The ticket can be exchanged with various items in Malangdo.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The ticket can be exchanged with various items in Malangdo."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We do not receive investments now.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "We do not receive investments now."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please come back during the investment duration.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Please come back during the investment duration."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Would you like to invest in the ^4d4dff"+.@realm$+"^000000 region?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Would you like to invest in the ^4d4dff"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Would you like to invest in the ^4d4dff"+.@realm$+"^000000 region?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "^000000 region?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If there is a castle occupied already, you will invest in the castle and the guild that is occupying it.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "If there is a castle occupied already, you will invest in the castle and the guild that is occupying it."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Canceled.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Canceled."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The guild that is occupying "+.@castle_name$[.@i]+" is "+.@owner_name$[.@i]+".";
+msgctxt "Cat Paw Merchant Guild"
+msgid "The guild that is occupying "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The guild that is occupying "+.@castle_name$[.@i]+" is "+.@owner_name$[.@i]+".";
+msgctxt "Cat Paw Merchant Guild"
+msgid " is "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The guild that is occupying "+.@castle_name$[.@i]+" is "+.@owner_name$[.@i]+".";
+msgctxt "Cat Paw Merchant Guild"
+msgid "."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Doesn't look like your guild.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Doesn't look like your guild."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Invest under "+.@castle_name$[.@i]+"'s"+.@owner_name$[.@i]+" guild name.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Invest under "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Invest under "+.@castle_name$[.@i]+"'s"+.@owner_name$[.@i]+" guild name.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "'s"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Invest under "+.@castle_name$[.@i]+"'s"+.@owner_name$[.@i]+" guild name.";
+msgctxt "Cat Paw Merchant Guild"
+msgid " guild name."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Is that so?";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Is that so?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please come back whenever you are interested in investing in the Abyss Gate development.";
+msgctxt "Cat Paw Merchant Guild"
+msgid "Please come back whenever you are interested in investing in the Abyss Gate development."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There are currently no connected dungeon gates.";
+msgctxt "Gate Manager#realm"
+msgid "There are currently no connected dungeon gates."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We've successfully connected the Abyss Gate ["+.@gate$+"] with the help from your investment.";
+msgctxt "Gate Manager#realm"
+msgid "We've successfully connected the Abyss Gate ["
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We've successfully connected the Abyss Gate ["+.@gate$+"] with the help from your investment.";
+msgctxt "Gate Manager#realm"
+msgid "] with the help from your investment."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The Agit dungeon will be open to everyone with a small entrance fee in "+.@realm$+".";
+msgctxt "Gate Manager#realm"
+msgid "The Agit dungeon will be open to everyone with a small entrance fee in "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The Agit dungeon will be open to everyone with a small entrance fee in "+.@realm$+".";
+msgctxt "Gate Manager#realm"
+msgid "."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please visit as often as possible since the entrance fee is saved as an investment for the region.";
+msgctxt "Gate Manager#realm"
+msgid "Please visit as often as possible since the entrance fee is saved as an investment for the region."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Do you want to enter the Agit dungeon?";
+msgctxt "Gate Manager#realm"
+msgid "Do you want to enter the Agit dungeon?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# .@i = select(.@realm$+" Dungeon 1F - 10000z", ""+.@realm$+" Dungeon 2F - 10000z", "Cancel");
+msgctxt "Gate Manager#realm"
+msgid " Dungeon 1F - 10000z"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# .@i = select(.@realm$+" Dungeon 1F - 10000z", ""+.@realm$+" Dungeon 2F - 10000z", "Cancel");
+msgctxt "Gate Manager#realm"
+msgid " Dungeon 2F - 10000z"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# .@i = select(.@realm$+" Dungeon 1F - 10000z", ""+.@realm$+" Dungeon 2F - 10000z", "Cancel");
+msgctxt "Gate Manager#realm"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Canceled.";
+msgctxt "Gate Manager#realm"
+msgid "Canceled."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'm collecting a small entrance fee.";
+msgctxt "Gate Manager#realm"
+msgid "I'm collecting a small entrance fee."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Your contribution will be saved for the next investment.";
+msgctxt "Gate Manager#realm"
+msgid "Your contribution will be saved for the next investment."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Entrance fee is 10000z.";
+msgctxt "Gate Manager#realm"
+msgid "Entrance fee is 10000z."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'm sending you to the "+.@realm$+" Agit Dungeon "+.@i+"F.";
+msgctxt "Gate Manager#realm"
+msgid "I'm sending you to the "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'm sending you to the "+.@realm$+" Agit Dungeon "+.@i+"F.";
+msgctxt "Gate Manager#realm"
+msgid " Agit Dungeon "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'm sending you to the "+.@realm$+" Agit Dungeon "+.@i+"F.";
+msgctxt "Gate Manager#realm"
+msgid "F."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The "+.@realm$+" Agit Dungeon 2F is now available but since it is not connected with the Abyss Gate,";
+msgctxt "Gate Manager#realm"
+msgid "The "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The "+.@realm$+" Agit Dungeon 2F is now available but since it is not connected with the Abyss Gate,";
+msgctxt "Gate Manager#realm"
+msgid " Agit Dungeon 2F is now available but since it is not connected with the Abyss Gate,"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "the Agit dungeon is only accessible to the Agit guild.";
+msgctxt "Gate Manager#realm"
+msgid "the Agit dungeon is only accessible to the Agit guild."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@realm$+" was not chosen to be connected with a gate this time.";
+msgctxt "Gate Manager#realm"
+msgid " was not chosen to be connected with a gate this time."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please wait for the next investment duration.";
+msgctxt "Gate Manager#realm"
+msgid "Please wait for the next investment duration."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There are currently no investment sums available.";
+msgctxt "Investment Status Board"
+msgid "There are currently no investment sums available."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@str$+" total (unit in 10,000z)";
+msgctxt "Investment Status Board"
+msgid " total (unit in 10,000z)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@realm$+" normal: "+.@fund[0];
+msgctxt "Investment Status Board"
+msgid " normal: "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@realm$+" Investment Grand Total: "+(.@fund[0]+.@fund[1]+.@fund[2]+.@fund[3]+.@fund[4]+.@fund[5]);
+msgctxt "Investment Status Board"
+msgid " Investment Grand Total: "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "!- Notice -!";
+msgctxt "Investment Status Board"
+msgid "!- Notice -!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "No sums are available because the total investment amount is currently being calculated.";
+msgctxt "Investment Status Board"
+msgid "No sums are available because the total investment amount is currently being calculated."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please wait for the announcement of the results.";
+msgctxt "Investment Status Board"
+msgid "Please wait for the announcement of the results."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "!- Investment Results of All Agit Regions -!";
+msgctxt "Investment Status Board"
+msgid "!- Investment Results of All Agit Regions -!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^aaaaaa["+.@invest_region$[.@i]+"] below minimum^000000";
+msgctxt "Investment Status Board"
+msgid "^aaaaaa["
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^aaaaaa["+.@invest_region$[.@i]+"] below minimum^000000";
+msgctxt "Investment Status Board"
+msgid "] below minimum^000000"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "["+.@invest_region$[.@i]+"] minimum achieved";
+msgctxt "Investment Status Board"
+msgid "["
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "["+.@invest_region$[.@i]+"] minimum achieved";
+msgctxt "Investment Status Board"
+msgid "] minimum achieved"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "-> Guild Dungeon Deepest Layer (2F) available";
+msgctxt "Investment Status Board"
+msgid "-> Guild Dungeon Deepest Layer (2F) available"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^4d4dff["+.@invest_region$[.@i]+"] maximum achieved^000000";
+msgctxt "Investment Status Board"
+msgid "^4d4dff["
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^4d4dff["+.@invest_region$[.@i]+"] maximum achieved^000000";
+msgctxt "Investment Status Board"
+msgid "] maximum achieved^000000"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "-> Abyss Gate available";
+msgctxt "Investment Status Board"
+msgid "-> Abyss Gate available"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "No data for ["+.@invest_region$[.@i]+"].";
+msgctxt "Investment Status Board"
+msgid "No data for ["
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "No data for ["+.@invest_region$[.@i]+"].";
+msgctxt "Investment Status Board"
+msgid "]."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "No investment information will be announced now.";
+msgctxt "Investment Status Board"
+msgid "No investment information will be announced now."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "[Gate Manager]";
+msgctxt "Gate Manager#castle"
+msgid "[Gate Manager]"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You don't seem to be the member of guild owning this castle.";
+msgctxt "Gate Manager#castle"
+msgid "You don't seem to be the member of guild owning this castle."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If you need any help, please visit any of our guild members at "+.@realm$+" Square.";
+msgctxt "Gate Manager#castle"
+msgid "If you need any help, please visit any of our guild members at "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "If you need any help, please visit any of our guild members at "+.@realm$+" Square.";
+msgctxt "Gate Manager#castle"
+msgid " Square."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Hello, I am the Gate Manager from Cat Paw Merchant Guild warp department.";
+msgctxt "Gate Manager#castle"
+msgid "Hello, I am the Gate Manager from Cat Paw Merchant Guild warp department."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "How may I help you today?";
+msgctxt "Gate Manager#castle"
+msgid "How may I help you today?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Invest for gate connection", "Deepest Layer Dungeon Access", "Abyss Gate Access", "Cancel")) {
+msgctxt "Gate Manager#castle"
+msgid "Invest for gate connection"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Invest for gate connection", "Deepest Layer Dungeon Access", "Abyss Gate Access", "Cancel")) {
+msgctxt "Gate Manager#castle"
+msgid "Deepest Layer Dungeon Access"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Invest for gate connection", "Deepest Layer Dungeon Access", "Abyss Gate Access", "Cancel")) {
+msgctxt "Gate Manager#castle"
+msgid "Abyss Gate Access"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Invest for gate connection", "Deepest Layer Dungeon Access", "Abyss Gate Access", "Cancel")) {
+msgctxt "Gate Manager#castle"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You have too many items to receive the Thank You Ticket as a small gift for your investment.";
+msgctxt "Gate Manager#castle"
+msgid "You have too many items to receive the Thank You Ticket as a small gift for your investment."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please come back after making room in your inventory.";
+msgctxt "Gate Manager#castle"
+msgid "Please come back after making room in your inventory."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You have too many Thank You Tickets to receive any more.";
+msgctxt "Gate Manager#castle"
+msgid "You have too many Thank You Tickets to receive any more."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Cannot give you any more tickets. Please use your ticket and come back.";
+msgctxt "Gate Manager#castle"
+msgid "Cannot give you any more tickets. Please use your ticket and come back."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The ticket can be exchanged with various items in Malangdo.";
+msgctxt "Gate Manager#castle"
+msgid "The ticket can be exchanged with various items in Malangdo."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We do not receive investments now.";
+msgctxt "Gate Manager#castle"
+msgid "We do not receive investments now."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please come back during the investment duration.";
+msgctxt "Gate Manager#castle"
+msgid "Please come back during the investment duration."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You don't seem to be the member of the guild owning this castle.";
+msgctxt "Gate Manager#castle"
+msgid "You don't seem to be the member of the guild owning this castle."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please use the normal investment from "+.@realm$+" Square.";
+msgctxt "Gate Manager#castle"
+msgid "Please use the normal investment from "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Proceed investing under your guild name.";
+msgctxt "Gate Manager#castle"
+msgid "Proceed investing under your guild name."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You are interested in exploring the "+.@realm$+" Guild Dungeon Deepest Layer (2F).";
+msgctxt "Gate Manager#castle"
+msgid "You are interested in exploring the "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You are interested in exploring the "+.@realm$+" Guild Dungeon Deepest Layer (2F).";
+msgctxt "Gate Manager#castle"
+msgid " Guild Dungeon Deepest Layer (2F)."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Let me guide you. Good luck.";
+msgctxt "Gate Manager#castle"
+msgid "Let me guide you. Good luck."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Let me guide you to the Abyss Gap connected with "+.@realm$+", the Abyss Gate 'Way of the Warrior'.";
+msgctxt "Gate Manager#castle"
+msgid "Let me guide you to the Abyss Gap connected with "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Let me guide you to the Abyss Gap connected with "+.@realm$+", the Abyss Gate 'Way of the Warrior'.";
+msgctxt "Gate Manager#castle"
+msgid ", the Abyss Gate 'Way of the Warrior'."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Canceled.";
+msgctxt "Gate Manager#castle"
+msgid "Canceled."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please wait for the next investment duration.";
+msgctxt "Gate Manager#castle"
+msgid "Please wait for the next investment duration."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There are currently no connected dungeon gates.";
+msgctxt "Gate Manager#castle"
+msgid "There are currently no connected dungeon gates."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "A gate will be connected as soon as the investment results are available.";
+msgctxt "Gate Manager#castle"
+msgid "A gate will be connected as soon as the investment results are available."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please wait.";
+msgctxt "Gate Manager#castle"
+msgid "Please wait."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The gate will disappear soon.";
+msgctxt "Gate Manager#castle"
+msgid "The gate will disappear soon."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The dungeon is no longer accessible.";
+msgctxt "Gate Manager#castle"
+msgid "The dungeon is no longer accessible."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Please try again next time.";
+msgctxt "Gate Manager#castle"
+msgid "Please try again next time."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "<< Cat Paw Merchants Notice >>";
+msgctxt "Cat Paw Merchants Notice"
+msgid "<< Cat Paw Merchants Notice >>"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "'^C379CEInvest Unused Items for Prizes!^000000'";
+msgctxt "Cat Paw Merchants Notice"
+msgid "'^C379CEInvest Unused Items for Prizes!^000000'"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Read Notice", "Check Event 1", "Check Event 2")) {
+msgctxt "Cat Paw Merchants Notice"
+msgid "Read Notice"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Read Notice", "Check Event 1", "Check Event 2")) {
+msgctxt "Cat Paw Merchants Notice"
+msgid "Check Event 1"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Read Notice", "Check Event 1", "Check Event 2")) {
+msgctxt "Cat Paw Merchants Notice"
+msgid "Check Event 2"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Notice -";
+msgctxt "Cat Paw Merchants Notice"
+msgid "- Notice -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Hello all Cat Paw Merchants customers! With your love, we Cat Paw Merchants are growing every day. All executives and staff members promise to do our best to further our frontier and development.";
+msgctxt "Cat Paw Merchants Notice"
+msgid "Hello all Cat Paw Merchants customers! With your love, we Cat Paw Merchants are growing every day. All executives and staff members promise to do our best to further our frontier and development."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Event Notice! -";
+msgctxt "Cat Paw Merchants Notice"
+msgid "- Event Notice! -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes " An Event called '^C379CEInvest Unused Items for Prizes!^000000' is under way, where you could exchange unused items in your storage for Investment Certificate of the Cat Paw Merchants.";
+msgctxt "Cat Paw Merchants Notice"
+msgid " An Event called '^C379CEInvest Unused Items for Prizes!^000000' is under way, where you could exchange unused items in your storage for Investment Certificate of the Cat Paw Merchants."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Exchangeable items will be announced on a separate sheet. Thank you for your time.";
+msgctxt "Cat Paw Merchants Notice"
+msgid "Exchangeable items will be announced on a separate sheet. Thank you for your time."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- From all the employees of Cat Paw Merchants -";
+msgctxt "Cat Paw Merchants Notice"
+msgid "- From all the employees of Cat Paw Merchants -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There is a small warning at the bottom.";
+msgctxt "Cat Paw Merchants Notice"
+msgid "There is a small warning at the bottom."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes " ";
+msgctxt "Cat Paw Merchants Notice"
+msgid " "
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^FF0000This event could be changed or repealed due to the Merchants' situation.^000000";
+msgctxt "Cat Paw Merchants Notice"
+msgid "^FF0000This event could be changed or repealed due to the Merchants' situation.^000000"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "There are details of Event 1.";
+msgctxt "Cat Paw Merchants Notice"
+msgid "There are details of Event 1."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "["+.@event1$[.@i-1]+"]";
+msgctxt "Cat Paw Merchants Notice"
+msgid "["
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "["+.@event1$[.@i-1]+"]";
+msgctxt "Cat Paw Merchants Notice"
+msgid "]"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes .@str$+" for one Cat Paw Merchants Investment Certificate.";
+msgctxt "Cat Paw Merchants Notice"
+msgid " for one Cat Paw Merchants Investment Certificate."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Look out for the next '^C379CEInvest Unused Items for Prizes!^000000' Event 2!! Coming up real soon!";
+msgctxt "Cat Paw Merchants Notice"
+msgid "Look out for the next '^C379CEInvest Unused Items for Prizes!^000000' Event 2!! Coming up real soon!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Currently you're carrying -";
+msgctxt "Namis#invest"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- too many items with you. -";
+msgctxt "Namis#invest"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Please try again after you -";
+msgctxt "Namis#invest"
+msgid "- Please try again after you -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- lose some weight. -";
+msgctxt "Namis#invest"
+msgid "- lose some weight. -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "[Namis]";
+msgctxt "Namis#invest"
+msgid "[Namis]"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Purr-Purr-Purrr-Purrrr-Pur~ Meow!!";
+msgctxt "Namis#invest"
+msgid "Purr-Purr-Purrr-Purrrr-Pur~ Meow!!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Wh-- What? How rude. You scared me.";
+msgctxt "Namis#invest"
+msgid "Wh-- What? How rude. You scared me."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("What do you need? I'll invest!", "What's the purpose of this event?", "Were you asleep?")) {
+msgctxt "Namis#invest"
+msgid "What do you need? I'll invest!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("What do you need? I'll invest!", "What's the purpose of this event?", "Were you asleep?")) {
+msgctxt "Namis#invest"
+msgid "What's the purpose of this event?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("What do you need? I'll invest!", "What's the purpose of this event?", "Were you asleep?")) {
+msgctxt "Namis#invest"
+msgid "Were you asleep?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "So, another pushover in contract with the Cat Paw Merchants?";
+msgctxt "Namis#invest"
+msgid "So, another pushover in contract with the Cat Paw Merchants?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# select("Huh? What! You calling me a pushover?");
+msgctxt "Namis#invest"
+msgid "Huh? What! You calling me a pushover?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "I'll say this just once, so you listen good!";
+msgctxt "Namis#invest"
+msgid "I'll say this just once, so you listen good!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "We, the Cat Paw Merchants have planned an event for loyal workers like yourself.";
+msgctxt "Namis#invest"
+msgid "We, the Cat Paw Merchants have planned an event for loyal workers like yourself."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Run along to your storage and bring back rotting antiques to us and we'll exchange them for the oh-so valuable 'Cat Paw Merchants Investment Certificate'.";
+msgctxt "Namis#invest"
+msgid "Run along to your storage and bring back rotting antiques to us and we'll exchange them for the oh-so valuable 'Cat Paw Merchants Investment Certificate'."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "It will be wise for you to do so because the Cat Paw Merchants are doing this at a loss!";
+msgctxt "Namis#invest"
+msgid "It will be wise for you to do so because the Cat Paw Merchants are doing this at a loss!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Details are on the notice.";
+msgctxt "Namis#invest"
+msgid "Details are on the notice."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Hick- Slurp-";
+msgctxt "Namis#invest"
+msgid "Hick- Slurp-"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Remember, human! There's no other cat who works as hard as I do.";
+msgctxt "Namis#invest"
+msgid "Remember, human! There's no other cat who works as hard as I do."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You must be here to participate in the '^C379CEInvest Unused Items for Prizes!^000000' event of the Cat Paw Merchants.";
+msgctxt "Namis#invest"
+msgid "You must be here to participate in the '^C379CEInvest Unused Items for Prizes!^000000' event of the Cat Paw Merchants."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "So, which event do you wish to participate in?";
+msgctxt "Namis#invest"
+msgid "So, which event do you wish to participate in?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Not interested", "Event 1 Items", "Event 2 Items")) {
+msgctxt "Namis#invest"
+msgid "Not interested"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Not interested", "Event 1 Items", "Event 2 Items")) {
+msgctxt "Namis#invest"
+msgid "Event 1 Items"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Not interested", "Event 1 Items", "Event 2 Items")) {
+msgctxt "Namis#invest"
+msgid "Event 2 Items"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Don't you mess with a busy cat!";
+msgctxt "Namis#invest"
+msgid "Don't you mess with a busy cat!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "So you're in for Event 1.";
+msgctxt "Namis#invest"
+msgid "So you're in for Event 1."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Choose from the shown list.";
+msgctxt "Namis#invest"
+msgid "Choose from the shown list."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Participate in Event 2?";
+msgctxt "Namis#invest"
+msgid "Participate in Event 2?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "It is not yet in motion. Wait for it!";
+msgctxt "Namis#invest"
+msgid "It is not yet in motion. Wait for it!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You don't have the items?";
+msgctxt "Namis#invest"
+msgid "You don't have the items?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Don't bother me and look up the details on the board over there!";
+msgctxt "Namis#invest"
+msgid "Don't bother me and look up the details on the board over there!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "'^8E5601"+getarg(4)+" Event^000000'";
+msgctxt "Namis#invest"
+msgid "'^8E5601"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Seems to be the right items.";
+msgctxt "Namis#invest"
+msgid "Seems to be the right items."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Oh! Almost forgot. Will you invest?";
+msgctxt "Namis#invest"
+msgid "Oh! Almost forgot. Will you invest?"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# if(select("Invest", "Don't Invest") == 2) {
+msgctxt "Namis#invest"
+msgid "Invest"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# if(select("Invest", "Don't Invest") == 2) {
+msgctxt "Namis#invest"
+msgid "Don't Invest"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Here's your Certificate. Always be grateful to the Merchants for these events!";
+msgctxt "Namis#invest"
+msgid "Here's your Certificate. Always be grateful to the Merchants for these events!"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Currently you're carrying -";
+msgctxt "Thanks Ticket Machine"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- too many items with you. -";
+msgctxt "Thanks Ticket Machine"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Please try again after you -";
+msgctxt "Thanks Ticket Machine"
+msgid "- Please try again after you -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- lose some weight. -";
+msgctxt "Thanks Ticket Machine"
+msgid "- lose some weight. -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "[Vending Machine Notice]";
+msgctxt "Thanks Ticket Machine"
+msgid "[Vending Machine Notice]"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "^6815EA1. Don't kick the machine please. @_@";
+msgctxt "Thanks Ticket Machine"
+msgid "^6815EA1. Don't kick the machine please. @_@"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "2. You can only insert Invest Thanks Ticket.";
+msgctxt "Thanks Ticket Machine"
+msgid "2. You can only insert Invest Thanks Ticket."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "3. About the Jelly Box, if you open it, it gives you a random item.";
+msgctxt "Thanks Ticket Machine"
+msgid "3. About the Jelly Box, if you open it, it gives you a random item."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "4. Hope you enjoy~^000000";
+msgctxt "Thanks Ticket Machine"
+msgid "4. Hope you enjoy~^000000"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Mr. Cat, the Machine Owner -";
+msgctxt "Thanks Ticket Machine"
+msgid "- Mr. Cat, the Machine Owner -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "Purchase", "Red Paw Jelly Bag (5 Tickets)", "Black Paw Jelly Bag (50 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "Finish"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "Purchase", "Red Paw Jelly Bag (5 Tickets)", "Black Paw Jelly Bag (50 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "Purchase"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "Purchase", "Red Paw Jelly Bag (5 Tickets)", "Black Paw Jelly Bag (50 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "Red Paw Jelly Bag (5 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "Purchase", "Red Paw Jelly Bag (5 Tickets)", "Black Paw Jelly Bag (50 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "Black Paw Jelly Bag (50 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The Vending Machine is selling items in the following list.";
+msgctxt "Thanks Ticket Machine"
+msgid "The Vending Machine is selling items in the following list."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "1 Siege Arrow Quiver A (2 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "1 Siege Arrow Quiver S (2 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "30 White Potion (12 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "30 White Slim Potion (14 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "10 Dark Water (20 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "20 Siege_Violet_Potion (30 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "10 Coldproof Potion (30 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "10 Thunderproof Potion (30 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "10 Earthproof Potion (30 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "10 Fireproof Potion (30 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# switch(select("Finish", "1 Siege Arrow Quiver A (2 Tickets)", "1 Siege Arrow Quiver S (2 Tickets)", "30 White Potion (12 Tickets)", "30 White Slim Potion (14 Tickets)", "10 Dark Water (20 Tickets)", "20 Siege_Violet_Potion (30 Tickets)", "10 Coldproof Potion (30 Tickets)", "10 Thunderproof Potion (30 Tickets)", "10 Earthproof Potion (30 Tickets)", "10 Fireproof Potion (30 Tickets)", "10 Elemental Converter[Fire] (30 Tickets)")) {
+msgctxt "Thanks Ticket Machine"
+msgid "10 Elemental Converter[Fire] (30 Tickets)"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Red Paw Jelly Bag Button chosen. Need to insert 5 ^FF0000Invest Thanks Ticket^000000 and a random item will appear.";
+msgctxt "Thanks Ticket Machine"
+msgid "Red Paw Jelly Bag Button chosen. Need to insert 5 ^FF0000Invest Thanks Ticket^000000 and a random item will appear."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "You don't have enough ^FF0000Invest Thanks Ticket^000000 to proceed.";
+msgctxt "Thanks Ticket Machine"
+msgid "You don't have enough ^FF0000Invest Thanks Ticket^000000 to proceed."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "Black Paw Jelly Bag Button chosen. Need to insert 50 ^FF0000Invest Thanks Ticket^000000 and a random item will appear.";
+msgctxt "Thanks Ticket Machine"
+msgid "Black Paw Jelly Bag Button chosen. Need to insert 50 ^FF0000Invest Thanks Ticket^000000 and a random item will appear."
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "- Done! -";
+msgctxt "Thanks Ticket Machine"
+msgid "- Done! -"
+msgstr ""
+
+#: npc/re/woe-fe/invest_main.txt
+# mes "The item ^0000FF"+((getargcount() > 3)?getarg(3,""):getitemname(getarg(1)))+"^000000 has been obtained.";
+msgctxt "Thanks Ticket Machine"
+msgid "The item ^0000FF"
+msgstr ""

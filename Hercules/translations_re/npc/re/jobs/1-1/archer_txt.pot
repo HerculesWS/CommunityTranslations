@@ -1,0 +1,314 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "[Archer Guildsman]";
+msgctxt "Archer Guildsman#archer"
+msgid "[Archer Guildsman]"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Hey, I know you.";
+msgctxt "Archer Guildsman#archer"
+msgid "Hey, I know you."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "You took this test";
+msgctxt "Archer Guildsman#archer"
+msgid "You took this test"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "before, didn't you?";
+msgctxt "Archer Guildsman#archer"
+msgid "before, didn't you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Ah, you must have been";
+msgctxt "Archer Guildsman#archer"
+msgid "Ah, you must have been"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "to Valhalla and been reborn.";
+msgctxt "Archer Guildsman#archer"
+msgid "to Valhalla and been reborn."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Wow, that's so impressive!";
+msgctxt "Archer Guildsman#archer"
+msgid "Wow, that's so impressive!"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Err...";
+msgctxt "Archer Guildsman#archer"
+msgid "Err..."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "You'd better learn all the Basic Skills first before you can become an Archer.";
+msgctxt "Archer Guildsman#archer"
+msgid "You'd better learn all the Basic Skills first before you can become an Archer."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Alright, see you later.";
+msgctxt "Archer Guildsman#archer"
+msgid "Alright, see you later."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Well then. I don't";
+msgctxt "Archer Guildsman#archer"
+msgid "Well then. I don't"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "need to say anything else.";
+msgctxt "Archer Guildsman#archer"
+msgid "need to say anything else."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "I know you'll make a great Archer...";
+msgctxt "Archer Guildsman#archer"
+msgid "I know you'll make a great Archer..."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Although there's no special";
+msgctxt "Archer Guildsman#archer"
+msgid "Although there's no special"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "reward for you this time, I hope you understand. Take care of yourself.";
+msgctxt "Archer Guildsman#archer"
+msgid "reward for you this time, I hope you understand. Take care of yourself."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Oh...?";
+msgctxt "Archer Guildsman#archer"
+msgid "Oh...?"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Hey, what are";
+msgctxt "Archer Guildsman#archer"
+msgid "Hey, what are"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "you doing here...?";
+msgctxt "Archer Guildsman#archer"
+msgid "you doing here...?"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "I can tell that you're not cut out to be an Archer. It sort of feels like you're meant to do";
+msgctxt "Archer Guildsman#archer"
+msgid "I can tell that you're not cut out to be an Archer. It sort of feels like you're meant to do"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "something else...";
+msgctxt "Archer Guildsman#archer"
+msgid "something else..."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Nice to meet you. How may I help you?";
+msgctxt "Archer Guildsman#archer"
+msgid "Nice to meet you. How may I help you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# switch(select("I want to be an Archer.", "I need the requirements, please.", "Nothing, thanks.")) {
+msgctxt "Archer Guildsman#archer"
+msgid "I want to be an Archer."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# switch(select("I want to be an Archer.", "I need the requirements, please.", "Nothing, thanks.")) {
+msgctxt "Archer Guildsman#archer"
+msgid "I need the requirements, please."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# switch(select("I want to be an Archer.", "I need the requirements, please.", "Nothing, thanks.")) {
+msgctxt "Archer Guildsman#archer"
+msgid "Nothing, thanks."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Haha, you are kidding me..";
+msgctxt "Archer Guildsman#archer"
+msgid "Haha, you are kidding me.."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "I feel sorry but only Novices can change their job.";
+msgctxt "Archer Guildsman#archer"
+msgid "I feel sorry but only Novices can change their job."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "You already have your own decent job, don't you?";
+msgctxt "Archer Guildsman#archer"
+msgid "You already have your own decent job, don't you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "You are... "+strcharinfo(PC_NAME)+". right?";
+msgctxt "Archer Guildsman#archer"
+msgid "You are... "
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Well, you're not at the right skill level.";
+msgctxt "Archer Guildsman#archer"
+msgid "Well, you're not at the right skill level."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Your job level must be at least ^4A4AFF10^000000 and your Basic Skill level should reach ^4A4AFFlevel 9";
+msgctxt "Archer Guildsman#archer"
+msgid "Your job level must be at least ^4A4AFF10^000000 and your Basic Skill level should reach ^4A4AFFlevel 9"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Because an Archer needs extremely high concentration, so we do not accept those who have little patience.";
+msgctxt "Archer Guildsman#archer"
+msgid "Because an Archer needs extremely high concentration, so we do not accept those who have little patience."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Your Basic Skill is now enough..";
+msgctxt "Archer Guildsman#archer"
+msgid "Your Basic Skill is now enough.."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "....Hm~~ so you are now ready to be an Archer. I will take the step right away.";
+msgctxt "Archer Guildsman#archer"
+msgid "....Hm~~ so you are now ready to be an Archer. I will take the step right away."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Congratulations! You are now an Archer! Also, we hope that you actively participate in many programs for the revival of the Archer Guild.";
+msgctxt "Archer Guildsman#archer"
+msgid "Congratulations! You are now an Archer! Also, we hope that you actively participate in many programs for the revival of the Archer Guild."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Ah, items have arrived from the Production Department. Here, take these! These are all yours!";
+msgctxt "Archer Guildsman#archer"
+msgid "Ah, items have arrived from the Production Department. Here, take these! These are all yours!"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Having a bow and arrows, now you became a real Archer.";
+msgctxt "Archer Guildsman#archer"
+msgid "Having a bow and arrows, now you became a real Archer."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "If you open the arrow container, there are arrows in it and then you can equip them.";
+msgctxt "Archer Guildsman#archer"
+msgid "If you open the arrow container, there are arrows in it and then you can equip them."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Well, I expect to hear better news from you. It's time to say goodbye.";
+msgctxt "Archer Guildsman#archer"
+msgid "Well, I expect to hear better news from you. It's time to say goodbye."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Bye.";
+msgctxt "Archer Guildsman#archer"
+msgid "Bye."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "An Archer has skills using a bow and has various talents.";
+msgctxt "Archer Guildsman#archer"
+msgid "An Archer has skills using a bow and has various talents."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "The greatest ability of an Archer is attacking enemies from a long distance.";
+msgctxt "Archer Guildsman#archer"
+msgid "The greatest ability of an Archer is attacking enemies from a long distance."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Although an Archer has weaker HP, he or she can shoot enemies at a long range,";
+msgctxt "Archer Guildsman#archer"
+msgid "Although an Archer has weaker HP, he or she can shoot enemies at a long range,"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "so an Archer is safer in a real battle.";
+msgctxt "Archer Guildsman#archer"
+msgid "so an Archer is safer in a real battle."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "Although an Archer in Ragnarok has lower HP, he or she has high accuracy and attack rate so that the archer can kill monsters before they get close to an Archer.";
+msgctxt "Archer Guildsman#archer"
+msgid "Although an Archer in Ragnarok has lower HP, he or she has high accuracy and attack rate so that the archer can kill monsters before they get close to an Archer."
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "^8C2121An Archer can change jobs to a Hunter.^000000";
+msgctxt "Archer Guildsman#archer"
+msgid "^8C2121An Archer can change jobs to a Hunter.^000000"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "^8C2121Other than Hunter, if you are a man, you can change your job to Bard and if you are a woman, you can change your job to Dancer.^000000";
+msgctxt "Archer Guildsman#archer"
+msgid "^8C2121Other than Hunter, if you are a man, you can change your job to Bard and if you are a woman, you can change your job to Dancer.^000000"
+msgstr ""
+
+#: npc/re/jobs/1-1/archer.txt
+# mes "If you have any questions, feel free to come and ask me.";
+msgctxt "Archer Guildsman#archer"
+msgid "If you have any questions, feel free to come and ask me."
+msgstr ""

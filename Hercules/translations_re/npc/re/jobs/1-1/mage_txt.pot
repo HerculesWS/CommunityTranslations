@@ -1,0 +1,278 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "[Mage Guildsman]";
+msgctxt "Mage Guildsman#mage"
+msgid "[Mage Guildsman]"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Whoa, long time no see! But weren't you supposed to be dead?";
+msgctxt "Mage Guildsman#mage"
+msgid "Whoa, long time no see! But weren't you supposed to be dead?"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Ah, you must have been reborn. Well, I'm glad to have you back.";
+msgctxt "Mage Guildsman#mage"
+msgid "Ah, you must have been reborn. Well, I'm glad to have you back."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "I'm sorry, but I don't think you're ready to learn magic yet. Why don't you go finish learning the Basic Skills first?";
+msgctxt "Mage Guildsman#mage"
+msgid "I'm sorry, but I don't think you're ready to learn magic yet. Why don't you go finish learning the Basic Skills first?"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Take your time. The more you learn, the more ready you'll be to learn magic again.";
+msgctxt "Mage Guildsman#mage"
+msgid "Take your time. The more you learn, the more ready you'll be to learn magic again."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Well, since you have passed the Mage test once, I will not question your qualification. You want to have your magic skills back immediately, don't you?";
+msgctxt "Mage Guildsman#mage"
+msgid "Well, since you have passed the Mage test once, I will not question your qualification. You want to have your magic skills back immediately, don't you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Wow, for some reason, you look way better than you did before. Anyway, I believe you will do a better job being a Mage as well.";
+msgctxt "Mage Guildsman#mage"
+msgid "Wow, for some reason, you look way better than you did before. Anyway, I believe you will do a better job being a Mage as well."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Is there anything more I can help you with? If not, why don't you go test your skills? The world is waiting for you~!";
+msgctxt "Mage Guildsman#mage"
+msgid "Is there anything more I can help you with? If not, why don't you go test your skills? The world is waiting for you~!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "What, are you interested in the Mage guild? I didn't want to tell you this, but you don't belong here.";
+msgctxt "Mage Guildsman#mage"
+msgid "What, are you interested in the Mage guild? I didn't want to tell you this, but you don't belong here."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "I am not sure why you're still standing in front of me, but I can tell that you're not meant to be a Mage.";
+msgctxt "Mage Guildsman#mage"
+msgid "I am not sure why you're still standing in front of me, but I can tell that you're not meant to be a Mage."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Hey, haven't you realized? You're already a Mage, silly!";
+msgctxt "Mage Guildsman#mage"
+msgid "Hey, haven't you realized? You're already a Mage, silly!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "One of these days you'll realize the power inside of you when you can make Fire with your mind!";
+msgctxt "Mage Guildsman#mage"
+msgid "One of these days you'll realize the power inside of you when you can make Fire with your mind!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Hey~ C'mon. Quit playing games. You can't be a Mage because you already have another Job.";
+msgctxt "Mage Guildsman#mage"
+msgid "Hey~ C'mon. Quit playing games. You can't be a Mage because you already have another Job."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Hey?";
+msgctxt "Mage Guildsman#mage"
+msgid "Hey?"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# switch(select("I want to be a Mage", "What are the requirements to be a Mage?", "Nothing, thanks.")) {
+msgctxt "Mage Guildsman#mage"
+msgid "I want to be a Mage"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# switch(select("I want to be a Mage", "What are the requirements to be a Mage?", "Nothing, thanks.")) {
+msgctxt "Mage Guildsman#mage"
+msgid "What are the requirements to be a Mage?"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# switch(select("I want to be a Mage", "What are the requirements to be a Mage?", "Nothing, thanks.")) {
+msgctxt "Mage Guildsman#mage"
+msgid "Nothing, thanks."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Wanna be a Mage? Eh...";
+msgctxt "Mage Guildsman#mage"
+msgid "Wanna be a Mage? Eh..."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Hey, look at you! You're kinda cute~! Not my type though...";
+msgctxt "Mage Guildsman#mage"
+msgid "Hey, look at you! You're kinda cute~! Not my type though..."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Oooh, you're such a hot babe~!";
+msgctxt "Mage Guildsman#mage"
+msgid "Oooh, you're such a hot babe~!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "I like girls like you~";
+msgctxt "Mage Guildsman#mage"
+msgid "I like girls like you~"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Right, you said that you wanna be a Mage?";
+msgctxt "Mage Guildsman#mage"
+msgid "Right, you said that you wanna be a Mage?"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# if(select("I want to be a Mage.", "Nothing, thanks.") == 2) {
+msgctxt "Mage Guildsman#mage"
+msgid "I want to be a Mage."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Whaaaaat~?! Right after you tell me that you wanna become a Mage, you change your mind?! Be a bit more decisive!";
+msgctxt "Mage Guildsman#mage"
+msgid "Whaaaaat~?! Right after you tell me that you wanna become a Mage, you change your mind?! Be a bit more decisive!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Oh, man your Basic Skill Level doesn't reach enough to be a Mage.";
+msgctxt "Mage Guildsman#mage"
+msgid "Oh, man your Basic Skill Level doesn't reach enough to be a Mage."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Go back and level up your Basic Skill.";
+msgctxt "Mage Guildsman#mage"
+msgid "Go back and level up your Basic Skill."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Alright.. sign the application form.... Wow~ you have good handwriting! Ahh, okay. That's enough.";
+msgctxt "Mage Guildsman#mage"
+msgid "Alright.. sign the application form.... Wow~ you have good handwriting! Ahh, okay. That's enough."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "You are... "+strcharinfo(PC_NAME)+".";
+msgctxt "Mage Guildsman#mage"
+msgid "You are... "
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Hmm I can see that you've tried hard in your own way. Though it seems to be a little clumsy, but well I think it's okay!";
+msgctxt "Mage Guildsman#mage"
+msgid "Hmm I can see that you've tried hard in your own way. Though it seems to be a little clumsy, but well I think it's okay!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Good! Always sticking to the basics is the best! I will transform you right away.";
+msgctxt "Mage Guildsman#mage"
+msgid "Good! Always sticking to the basics is the best! I will transform you right away."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Hahh..! You are now a Mage, one of our colleagues!";
+msgctxt "Mage Guildsman#mage"
+msgid "Hahh..! You are now a Mage, one of our colleagues!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "We welcome you to the Mage Guild, our new friend!";
+msgctxt "Mage Guildsman#mage"
+msgid "We welcome you to the Mage Guild, our new friend!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "'Welcome to the Mage Guild~'";
+msgctxt "Mage Guildsman#mage"
+msgid "'Welcome to the Mage Guild~'"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Congratulations on becoming a member of the Mage Guild! Go for it!";
+msgctxt "Mage Guildsman#mage"
+msgid "Congratulations on becoming a member of the Mage Guild! Go for it!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Wanna be a Mage, eh?";
+msgctxt "Mage Guildsman#mage"
+msgid "Wanna be a Mage, eh?"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "I'd be happy to explain the requirements for a pretty girl like you!";
+msgctxt "Mage Guildsman#mage"
+msgid "I'd be happy to explain the requirements for a pretty girl like you!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "First of all, you have to reach Novice Job Level 10 and learn all of the Basic Skills.";
+msgctxt "Mage Guildsman#mage"
+msgid "First of all, you have to reach Novice Job Level 10 and learn all of the Basic Skills."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "In the past, there was a complicated potion making test. Because of that, we'd lost an aplicant slowly.";
+msgctxt "Mage Guildsman#mage"
+msgid "In the past, there was a complicated potion making test. Because of that, we'd lost an aplicant slowly."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "So, we decided to accept all aplicants who meet the basic requirements.";
+msgctxt "Mage Guildsman#mage"
+msgid "So, we decided to accept all aplicants who meet the basic requirements."
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Don't hesitate. Just be a magician!";
+msgctxt "Mage Guildsman#mage"
+msgid "Don't hesitate. Just be a magician!"
+msgstr ""
+
+#: npc/re/jobs/1-1/mage.txt
+# mes "Nothing...?";
+msgctxt "Mage Guildsman#mage"
+msgid "Nothing...?"
+msgstr ""

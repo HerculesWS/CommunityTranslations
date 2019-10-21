@@ -1,0 +1,440 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_louyang.txt
+# mes "[Representative]";
+msgctxt "Louyang Guide#01louyang"
+msgid "[Representative]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "Welcome to ^8B4513Louyang^000000,";
+msgctxt "Louyang Guide#01louyang"
+msgid "Welcome to ^8B4513Louyang^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "an ancient land with";
+msgctxt "Louyang Guide#01louyang"
+msgid "an ancient land with"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "a history full of tales";
+msgctxt "Louyang Guide#01louyang"
+msgid "a history full of tales"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "of bravery.";
+msgctxt "Louyang Guide#01louyang"
+msgid "of bravery."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "We now provide an ocean lane to accomodate foreign travelers and intercultural exchange from which all can benefit.";
+msgctxt "Louyang Guide#01louyang"
+msgid "We now provide an ocean lane to accomodate foreign travelers and intercultural exchange from which all can benefit."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "^8B4513Louyang^000000 is famous for";
+msgctxt "Louyang Guide#01louyang"
+msgid "^8B4513Louyang^000000 is famous for"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "its elaborate history, as well as specialties that are unique to this nation. Please take your time and enjoy your stay.";
+msgctxt "Louyang Guide#01louyang"
+msgid "its elaborate history, as well as specialties that are unique to this nation. Please take your time and enjoy your stay."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ Dragon Castle ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ Doctor's Office ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ City Hall ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ Tavern ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ Observatory ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "[ Return to Alberta ]"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# switch(select("[ Dragon Castle ]", "[ Doctor's Office ]", "[ City Hall ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Tavern ]", "[ Observatory ]", "[ Return to Alberta ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Louyang Guide#01louyang"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Dragon Castle","louyang,218,253")+" is located at ^0A82FF+^000000. It is where all the nobles reside, including our lord.";
+msgctxt "Louyang Guide#01louyang"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Dragon Castle","louyang,218,253")+" is located at ^0A82FF+^000000. It is where all the nobles reside, including our lord.";
+msgctxt "Louyang Guide#01louyang"
+msgid "Dragon Castle"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Dragon Castle","louyang,218,253")+" is located at ^0A82FF+^000000. It is where all the nobles reside, including our lord.";
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,218,253"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Dragon Castle","louyang,218,253")+" is located at ^0A82FF+^000000. It is where all the nobles reside, including our lord.";
+msgctxt "Louyang Guide#01louyang"
+msgid " is located at ^0A82FF+^000000. It is where all the nobles reside, including our lord."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "Since you're an outsider, I guess it would be appropriate for you to visit our lord first.";
+msgctxt "Louyang Guide#01louyang"
+msgid "Since you're an outsider, I guess it would be appropriate for you to visit our lord first."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "It's a famous "+F_Navi("Doctor's Office","louyang,261,93","^AAFF00");
+msgctxt "Louyang Guide#01louyang"
+msgid "It's a famous "
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "It's a famous "+F_Navi("Doctor's Office","louyang,261,93","^AAFF00");
+msgctxt "Louyang Guide#01louyang"
+msgid "Doctor's Office"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "It's a famous "+F_Navi("Doctor's Office","louyang,261,93","^AAFF00");
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,261,93"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "It's a famous "+F_Navi("Doctor's Office","louyang,261,93","^AAFF00");
+msgctxt "Louyang Guide#01louyang"
+msgid "^AAFF00"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "according to rumor it can cure all diseases. But I'm not sure if it's true or not.";
+msgctxt "Louyang Guide#01louyang"
+msgid "according to rumor it can cure all diseases. But I'm not sure if it's true or not."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "We have a "+F_Navi("City Hall","louyang,309,78")+" where the federal government operates.";
+msgctxt "Louyang Guide#01louyang"
+msgid "We have a "
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "We have a "+F_Navi("City Hall","louyang,309,78")+" where the federal government operates.";
+msgctxt "Louyang Guide#01louyang"
+msgid "City Hall"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "We have a "+F_Navi("City Hall","louyang,309,78")+" where the federal government operates.";
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,309,78"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "We have a "+F_Navi("City Hall","louyang,309,78")+" where the federal government operates.";
+msgctxt "Louyang Guide#01louyang"
+msgid " where the federal government operates."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "It is located at ^008080+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "It is located at ^008080+^000000."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "If you have any problems,";
+msgctxt "Louyang Guide#01louyang"
+msgid "If you have any problems,"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "you should talk with the";
+msgctxt "Louyang Guide#01louyang"
+msgid "you should talk with the"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "employees there.";
+msgctxt "Louyang Guide#01louyang"
+msgid "employees there."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Weapon Shop","louyang,145,172")+" is located at ^55FF33+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "Weapon Shop"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Weapon Shop","louyang,145,172")+" is located at ^55FF33+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,145,172"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Weapon Shop","louyang,145,172")+" is located at ^55FF33+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid " is located at ^55FF33+^000000."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "You will see";
+msgctxt "Louyang Guide#01louyang"
+msgid "You will see"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "marvelous weapons forged";
+msgctxt "Louyang Guide#01louyang"
+msgid "marvelous weapons forged"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "by the well-experienced";
+msgctxt "Louyang Guide#01louyang"
+msgid "by the well-experienced"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "Blacksmiths of Louyang.";
+msgctxt "Louyang Guide#01louyang"
+msgid "Blacksmiths of Louyang."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Tool Shop","louyang,138,99")+" is located at ^3355FF+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "Tool Shop"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Tool Shop","louyang,138,99")+" is located at ^3355FF+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,138,99"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The "+F_Navi("Tool Shop","louyang,138,99")+" is located at ^3355FF+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid " is located at ^3355FF+^000000."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "Knowing your enemy";
+msgctxt "Louyang Guide#01louyang"
+msgid "Knowing your enemy"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "is half the battle!";
+msgctxt "Louyang Guide#01louyang"
+msgid "is half the battle!"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "It's also safer to prepare yourself than to be sorry later. Why don't you go check their supplies?";
+msgctxt "Louyang Guide#01louyang"
+msgid "It's also safer to prepare yourself than to be sorry later. Why don't you go check their supplies?"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "When you get tired during your trip, I suggest that you visit the "+F_Navi("Tavern","louyang,280,165")+". It's located at ^00FF00+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "When you get tired during your trip, I suggest that you visit the "
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "When you get tired during your trip, I suggest that you visit the "+F_Navi("Tavern","louyang,280,165")+". It's located at ^00FF00+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "Tavern"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "When you get tired during your trip, I suggest that you visit the "+F_Navi("Tavern","louyang,280,165")+". It's located at ^00FF00+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,280,165"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "When you get tired during your trip, I suggest that you visit the "+F_Navi("Tavern","louyang,280,165")+". It's located at ^00FF00+^000000.";
+msgctxt "Louyang Guide#01louyang"
+msgid ". It's located at ^00FF00+^000000."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "The Tavern is a good place";
+msgctxt "Louyang Guide#01louyang"
+msgid "The Tavern is a good place"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "to meet other tourists, as well as to hear of any news that may be helpful to know.";
+msgctxt "Louyang Guide#01louyang"
+msgid "to meet other tourists, as well as to hear of any news that may be helpful to know."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "You won't get a better view of the world than you can at the "+F_Navi("Observatory","louyang,136,245")+".";
+msgctxt "Louyang Guide#01louyang"
+msgid "You won't get a better view of the world than you can at the "
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "You won't get a better view of the world than you can at the "+F_Navi("Observatory","louyang,136,245")+".";
+msgctxt "Louyang Guide#01louyang"
+msgid "Observatory"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "You won't get a better view of the world than you can at the "+F_Navi("Observatory","louyang,136,245")+".";
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,136,245"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "You won't get a better view of the world than you can at the "+F_Navi("Observatory","louyang,136,245")+".";
+msgctxt "Louyang Guide#01louyang"
+msgid "."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "It's a must see here.";
+msgctxt "Louyang Guide#01louyang"
+msgid "It's a must see here."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "If you want to return to Alberta,";
+msgctxt "Louyang Guide#01louyang"
+msgid "If you want to return to Alberta,"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "find the "+F_Navi("Girl","louyang,218,22","^00BFFF")+" outside town on the docks.";
+msgctxt "Louyang Guide#01louyang"
+msgid "find the "
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "find the "+F_Navi("Girl","louyang,218,22","^00BFFF")+" outside town on the docks.";
+msgctxt "Louyang Guide#01louyang"
+msgid "Girl"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "find the "+F_Navi("Girl","louyang,218,22","^00BFFF")+" outside town on the docks.";
+msgctxt "Louyang Guide#01louyang"
+msgid "louyang,218,22"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "find the "+F_Navi("Girl","louyang,218,22","^00BFFF")+" outside town on the docks.";
+msgctxt "Louyang Guide#01louyang"
+msgid "^00BFFF"
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "find the "+F_Navi("Girl","louyang,218,22","^00BFFF")+" outside town on the docks.";
+msgctxt "Louyang Guide#01louyang"
+msgid " outside town on the docks."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "I'll remove all marks from your mini-map.";
+msgctxt "Louyang Guide#01louyang"
+msgid "I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_louyang.txt
+# mes "Enjoy your trip~!";
+msgctxt "Louyang Guide#01louyang"
+msgid "Enjoy your trip~!"
+msgstr ""

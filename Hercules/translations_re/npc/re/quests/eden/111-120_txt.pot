@@ -1,0 +1,1796 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/eden/111-120.txt
+# mes "[Mingmin]";
+msgctxt "Mingmin#1"
+msgid "[Mingmin]"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "A stranger. This place is supposed to be for Eden Group Members only.";
+msgctxt "Mingmin#1"
+msgid "A stranger. This place is supposed to be for Eden Group Members only."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I'm in need base level ^FF0000111 - 120^000000 adventurers to help my research.";
+msgctxt "Mingmin#1"
+msgid "I'm in need base level ^FF0000111 - 120^000000 adventurers to help my research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "......";
+msgctxt "Mingmin#1"
+msgid "......"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "(Wow...)";
+msgctxt "Mingmin#1"
+msgid "(Wow...)"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The Geneticist is muttering to herself.";
+msgctxt "Mingmin#1"
+msgid "The Geneticist is muttering to herself."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "...";
+msgctxt "Mingmin#1"
+msgid "..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "^0000ffA question: Art thou my servant?^000000";
+msgctxt "Mingmin#1"
+msgid "^0000ffA question: Art thou my servant?^000000"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "["+ strcharinfo(PC_NAME) +"]";
+msgctxt "Mingmin#1"
+msgid "["
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "(What's this lady talking about?)";
+msgctxt "Mingmin#1"
+msgid "(What's this lady talking about?)"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Answer me!";
+msgctxt "Mingmin#1"
+msgid "Answer me!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Art thou my servant?";
+msgctxt "Mingmin#1"
+msgid "Art thou my servant?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select( "I am not.", "You be trippin'?" );
+msgctxt "Mingmin#1"
+msgid "I am not."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select( "I am not.", "You be trippin'?" );
+msgctxt "Mingmin#1"
+msgid "You be trippin'?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Thou art not? Splendid...because I deigned that any servant of mine would have more dignity.";
+msgctxt "Mingmin#1"
+msgid "Thou art not? Splendid...because I deigned that any servant of mine would have more dignity."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Well, non-servant...What are you looking for here?";
+msgctxt "Mingmin#1"
+msgid "Well, non-servant...What are you looking for here?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# if (select( "Nothing in particular.", "Quests! Who are you?" ) == 1) {
+msgctxt "Mingmin#1"
+msgid "Nothing in particular."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# if (select( "Nothing in particular.", "Quests! Who are you?" ) == 1) {
+msgctxt "Mingmin#1"
+msgid "Quests! Who are you?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "That is acceptable, I hope ye find what ye seek.";
+msgctxt "Mingmin#1"
+msgid "That is acceptable, I hope ye find what ye seek."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Oh me? I am ^E51BD8Busaner Mingmin^000000 and I'm researching monsters by request of the Eden Group.";
+msgctxt "Mingmin#1"
+msgid "Oh me? I am ^E51BD8Busaner Mingmin^000000 and I'm researching monsters by request of the Eden Group."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I used to collect fungus and mold alone at my mountain lab. Since then, I joined a group looking for new monsters...";
+msgctxt "Mingmin#1"
+msgid "I used to collect fungus and mold alone at my mountain lab. Since then, I joined a group looking for new monsters..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "With all my experience, they actually made me a professor here at the Eden Group.";
+msgctxt "Mingmin#1"
+msgid "With all my experience, they actually made me a professor here at the Eden Group."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Anyways, there is a pressing task I must complete, please excuse me for a moment.";
+msgctxt "Mingmin#1"
+msgid "Anyways, there is a pressing task I must complete, please excuse me for a moment."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "^0C0CF2Pop quiz hot shot: Art thou my servant?^000000";
+msgctxt "Mingmin#1"
+msgid "^0C0CF2Pop quiz hot shot: Art thou my servant?^000000"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select("No~ I'm "+ strcharinfo(PC_NAME) +" remember?");
+msgctxt "Mingmin#1"
+msgid "No~ I'm "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Oh I have met you before, living in a house full of fungus seems to cause memory loss.";
+msgctxt "Mingmin#1"
+msgid "Oh I have met you before, living in a house full of fungus seems to cause memory loss."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Who were you again?";
+msgctxt "Mingmin#1"
+msgid "Who were you again?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select("Eden Group requests and research");
+msgctxt "Mingmin#1"
+msgid "Eden Group requests and research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Ah, that I do remember.";
+msgctxt "Mingmin#1"
+msgid "Ah, that I do remember."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I am collecting information on the flora and fauna of Rune Midgard for the Eden Group.";
+msgctxt "Mingmin#1"
+msgid "I am collecting information on the flora and fauna of Rune Midgard for the Eden Group."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The intention is to scientifically catalog and itemize the dangers of the world. I do not like this idea personally.";
+msgctxt "Mingmin#1"
+msgid "The intention is to scientifically catalog and itemize the dangers of the world. I do not like this idea personally."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Theory will only take you so far in this world.";
+msgctxt "Mingmin#1"
+msgid "Theory will only take you so far in this world."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Morever, an adventurer who travelled outside of Rune-Midgarts should be experienced enough to know themselves.";
+msgctxt "Mingmin#1"
+msgid "Morever, an adventurer who travelled outside of Rune-Midgarts should be experienced enough to know themselves."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This is ^ff0000my opinion^000000 only so do not concern thyself.";
+msgctxt "Mingmin#1"
+msgid "This is ^ff0000my opinion^000000 only so do not concern thyself."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Well, after all this talking I need to take a rest. My feet are rather tired.";
+msgctxt "Mingmin#1"
+msgid "Well, after all this talking I need to take a rest. My feet are rather tired."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Oh, "+ strcharinfo(PC_NAME) +" its you... it is good you have ed, I was bored.";
+msgctxt "Mingmin#1"
+msgid "Oh, "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Where was I? I just finished talking about the Eden Group's duty to protect others from danger.";
+msgctxt "Mingmin#1"
+msgid "Where was I? I just finished talking about the Eden Group's duty to protect others from danger."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "To protect more people, I think they need adventurers who have experienced things first-hand.";
+msgctxt "Mingmin#1"
+msgid "To protect more people, I think they need adventurers who have experienced things first-hand."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "So we need those brave or foolhardy enough to venture out to gather info in the field.";
+msgctxt "Mingmin#1"
+msgid "So we need those brave or foolhardy enough to venture out to gather info in the field."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select("Sounds dangerous... when can I start?");
+msgctxt "Mingmin#1"
+msgid "Sounds dangerous... when can I start?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Talk to me in a second and we'll get going.";
+msgctxt "Mingmin#1"
+msgid "Talk to me in a second and we'll get going."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Question "+ strcharinfo(PC_NAME) +"! I was practising because new servant is coming soon.";
+msgctxt "Mingmin#1"
+msgid "Question "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select("Waddya mean new servant?");
+msgctxt "Mingmin#1"
+msgid "Waddya mean new servant?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Oh...sorry, I meant squire...";
+msgctxt "Mingmin#1"
+msgid "Oh...sorry, I meant squire..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I mean adventurer...";
+msgctxt "Mingmin#1"
+msgid "I mean adventurer..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Sorry, the fungus in my home has been getting quite rampant.";
+msgctxt "Mingmin#1"
+msgid "Sorry, the fungus in my home has been getting quite rampant."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I found Rohtert is working here when I arrived with a request from Eden Group.";
+msgctxt "Mingmin#1"
+msgid "I found Rohtert is working here when I arrived with a request from Eden Group."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Thou has met him prior to now? I do have a history with him.";
+msgctxt "Mingmin#1"
+msgid "Thou has met him prior to now? I do have a history with him."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The guy with white hair by the entrance. You should drop by if you are interested, he is managing level 100-110 adventurers.";
+msgctxt "Mingmin#1"
+msgid "The guy with white hair by the entrance. You should drop by if you are interested, he is managing level 100-110 adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Anyways, he had been working here so he knows better than me. I just came by to get advice.";
+msgctxt "Mingmin#1"
+msgid "Anyways, he had been working here so he knows better than me. I just came by to get advice."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "That was not that difficult so..";
+msgctxt "Mingmin#1"
+msgid "That was not that difficult so.."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Silly adventurers are going to come and ask me, ^ff0000'My queen, treat me like a naughty servant!'^000000";
+msgctxt "Mingmin#1"
+msgid "Silly adventurers are going to come and ask me, ^ff0000'My queen, treat me like a naughty servant!'^000000"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select("......Uh......");
+msgctxt "Mingmin#1"
+msgid "......Uh......"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes " For some reason there aren't many people lining up to assist me yet.";
+msgctxt "Mingmin#1"
+msgid " For some reason there aren't many people lining up to assist me yet."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I think it requires ^ff0000bravery^000000 to take a new request.";
+msgctxt "Mingmin#1"
+msgid "I think it requires ^ff0000bravery^000000 to take a new request."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Enough dilly-dallying, I want to make a contract with someone who really craves adventure.";
+msgctxt "Mingmin#1"
+msgid "Enough dilly-dallying, I want to make a contract with someone who really craves adventure."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Maybe "+ strcharinfo(PC_NAME) +" I'll let you be my servant if you are interested in doing this Eden Group request for my research.";
+msgctxt "Mingmin#1"
+msgid "Maybe "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Welcome! "+ strcharinfo(PC_NAME) +"...";
+msgctxt "Mingmin#1"
+msgid "Welcome! "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Hello "+ strcharinfo(PC_NAME) +".";
+msgctxt "Mingmin#1"
+msgid "Hello "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Request to research monsters", "Make small-talk" ) ) {
+msgctxt "Mingmin#1"
+msgid "Request to research monsters"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Request to research monsters", "Make small-talk" ) ) {
+msgctxt "Mingmin#1"
+msgid "Make small-talk"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I think I already told you that I am looking for an adventurer with more experience for my monster research. ";
+msgctxt "Mingmin#1"
+msgid "I think I already told you that I am looking for an adventurer with more experience for my monster research. "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is because this mission has very dangerous requests.";
+msgctxt "Mingmin#1"
+msgid "It is because this mission has very dangerous requests."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Lets see. If you can handle all requests from rohtert standing there, then I will reconsider.";
+msgctxt "Mingmin#1"
+msgid "Lets see. If you can handle all requests from rohtert standing there, then I will reconsider."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I will reconsider if you turn to base level 111.";
+msgctxt "Mingmin#1"
+msgid "I will reconsider if you turn to base level 111."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Oh, you want to help me with my research?";
+msgctxt "Mingmin#1"
+msgid "Oh, you want to help me with my research?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "She seems to be waiting for a ^FF0000special signal.^000000 What do you want to do?";
+msgctxt "Mingmin#1"
+msgid "She seems to be waiting for a ^FF0000special signal.^000000 What do you want to do?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# while(select( "Make a heart with two hands.", "Dance around like a crazy person", "Wink at her", "Whistle at her." ) != 2) {
+msgctxt "Mingmin#1"
+msgid "Make a heart with two hands."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# while(select( "Make a heart with two hands.", "Dance around like a crazy person", "Wink at her", "Whistle at her." ) != 2) {
+msgctxt "Mingmin#1"
+msgid "Dance around like a crazy person"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# while(select( "Make a heart with two hands.", "Dance around like a crazy person", "Wink at her", "Whistle at her." ) != 2) {
+msgctxt "Mingmin#1"
+msgid "Wink at her"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# while(select( "Make a heart with two hands.", "Dance around like a crazy person", "Wink at her", "Whistle at her." ) != 2) {
+msgctxt "Mingmin#1"
+msgid "Whistle at her."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "What's that for?";
+msgctxt "Mingmin#1"
+msgid "What's that for?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Hmm, she didn't go for that.";
+msgctxt "Mingmin#1"
+msgid "Hmm, she didn't go for that."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This signal!?";
+msgctxt "Mingmin#1"
+msgid "This signal!?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "^FF0000..................now?^000000";
+msgctxt "Mingmin#1"
+msgid "^FF0000..................now?^000000"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select("Say nothing and nod...");
+msgctxt "Mingmin#1"
+msgid "Say nothing and nod..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Question...! Art thou my servant?";
+msgctxt "Mingmin#1"
+msgid "Question...! Art thou my servant?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# select("Yes, my leige...");
+msgctxt "Mingmin#1"
+msgid "Yes, my leige..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "............";
+msgctxt "Mingmin#1"
+msgid "............"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Well, that's all settled then! Thou shalt signeth this form.";
+msgctxt "Mingmin#1"
+msgid "Well, that's all settled then! Thou shalt signeth this form."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "[Contract]";
+msgctxt "Mingmin#1"
+msgid "[Contract]"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "A - adventurer shall not talk back to Busaner Mingmin and will not complain under any circumstance.";
+msgctxt "Mingmin#1"
+msgid "A - adventurer shall not talk back to Busaner Mingmin and will not complain under any circumstance."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "B - adventurer shall proceed to complete the request for Busaner Mingmin as quick as humanly possible.";
+msgctxt "Mingmin#1"
+msgid "B - adventurer shall proceed to complete the request for Busaner Mingmin as quick as humanly possible."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "C -This contract is terminated on the day that a request of the adventurer is completed.";
+msgctxt "Mingmin#1"
+msgid "C -This contract is terminated on the day that a request of the adventurer is completed."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "D - this contract shall be confidential except between the adventurer and Mingmin under ^FF0000penalty of death.^000000";
+msgctxt "Mingmin#1"
+msgid "D - this contract shall be confidential except between the adventurer and Mingmin under ^FF0000penalty of death.^000000"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Don't worry too much. The Unions require it you know. Just sign on the line that is dotted.";
+msgctxt "Mingmin#1"
+msgid "Don't worry too much. The Unions require it you know. Just sign on the line that is dotted."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# if (select( "Sign the contract.", "Take time to think." ) == 2) {
+msgctxt "Mingmin#1"
+msgid "Sign the contract."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# if (select( "Sign the contract.", "Take time to think." ) == 2) {
+msgctxt "Mingmin#1"
+msgid "Take time to think."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You can take your time....";
+msgctxt "Mingmin#1"
+msgid "You can take your time...."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Did you sign it?";
+msgctxt "Mingmin#1"
+msgid "Did you sign it?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Haha! I feel much better now.";
+msgctxt "Mingmin#1"
+msgid "Haha! I feel much better now."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Thank you for accepting the strange contract. Looking forward to working with thee.";
+msgctxt "Mingmin#1"
+msgid "Thank you for accepting the strange contract. Looking forward to working with thee."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I was careful for public requests because I have to be polite to adventurers.";
+msgctxt "Mingmin#1"
+msgid "I was careful for public requests because I have to be polite to adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I tried to be poilte . But it just doesn't suit my personality.";
+msgctxt "Mingmin#1"
+msgid "I tried to be poilte . But it just doesn't suit my personality."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Thou shouldst be more careful...Did you notice something about the pen you signed with? There were ^FF0000orange shiitake mushroom spores^000000 on it.";
+msgctxt "Mingmin#1"
+msgid "Thou shouldst be more careful...Did you notice something about the pen you signed with? There were ^FF0000orange shiitake mushroom spores^000000 on it."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "If the spores get in your bloodstream, you might grow mushrooms inside of your own body.";
+msgctxt "Mingmin#1"
+msgid "If the spores get in your bloodstream, you might grow mushrooms inside of your own body."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It takes quite a long time so do thine best. I might give you the antidote if you do well.";
+msgctxt "Mingmin#1"
+msgid "It takes quite a long time so do thine best. I might give you the antidote if you do well."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "All right we became quite familiar now. So. Shall we get start to work?";
+msgctxt "Mingmin#1"
+msgid "All right we became quite familiar now. So. Shall we get start to work?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "We need some more information on the following monsters. Choose.";
+msgctxt "Mingmin#1"
+msgid "We need some more information on the following monsters. Choose."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Glastheim related requests", "Thanatos tower related requests", "Ash Vacuum related requests", "Mingmin's personal request" ) ) {
+msgctxt "Mingmin#1"
+msgid "Glastheim related requests"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Glastheim related requests", "Thanatos tower related requests", "Ash Vacuum related requests", "Mingmin's personal request" ) ) {
+msgctxt "Mingmin#1"
+msgid "Thanatos tower related requests"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Glastheim related requests", "Thanatos tower related requests", "Ash Vacuum related requests", "Mingmin's personal request" ) ) {
+msgctxt "Mingmin#1"
+msgid "Ash Vacuum related requests"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Glastheim related requests", "Thanatos tower related requests", "Ash Vacuum related requests", "Mingmin's personal request" ) ) {
+msgctxt "Mingmin#1"
+msgid "Mingmin's personal request"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I heard something is going on in Glastheim. Monsters are afoot.";
+msgctxt "Mingmin#1"
+msgid "I heard something is going on in Glastheim. Monsters are afoot."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Raydric Research", "Khalitzberg Research", "Wanderer Research" ) ) {
+msgctxt "Mingmin#1"
+msgid "Raydric Research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Raydric Research", "Khalitzberg Research", "Wanderer Research" ) ) {
+msgctxt "Mingmin#1"
+msgid "Khalitzberg Research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Raydric Research", "Khalitzberg Research", "Wanderer Research" ) ) {
+msgctxt "Mingmin#1"
+msgid "Wanderer Research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Raydric's research is going well. It is better off having more samples to research.!";
+msgctxt "Mingmin#1"
+msgid "Raydric's research is going well. It is better off having more samples to research.!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You can find Raydric in the west entrance or on the 2nd floor of Glastheim.";
+msgctxt "Mingmin#1"
+msgid "You can find Raydric in the west entrance or on the 2nd floor of Glastheim."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I need information and document no matter what happens. Come back to me after dealing with ^FF000030 Raydric^000000's.";
+msgctxt "Mingmin#1"
+msgid "I need information and document no matter what happens. Come back to me after dealing with ^FF000030 Raydric^000000's."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The experience you learn by fighting with monsters will be a good record for the research!";
+msgctxt "Mingmin#1"
+msgid "The experience you learn by fighting with monsters will be a good record for the research!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "How do you feel dealing with tough monsters? Good documents and good experience to you as well.";
+msgctxt "Mingmin#1"
+msgid "How do you feel dealing with tough monsters? Good documents and good experience to you as well."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Something is happening in Glastheim. And that clue is in Raydrics that is information I have.";
+msgctxt "Mingmin#1"
+msgid "Something is happening in Glastheim. And that clue is in Raydrics that is information I have."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# if (select( "Take the request.", "Quit" ) == 1) {
+msgctxt "Mingmin#1"
+msgid "Take the request."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# if (select( "Take the request.", "Quit" ) == 1) {
+msgctxt "Mingmin#1"
+msgid "Quit"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please come back to me after dealing with the monsters. I need all your stories for documentation.";
+msgctxt "Mingmin#1"
+msgid "Please come back to me after dealing with the monsters. I need all your stories for documentation."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Khalitzburg's research is going well. It is better off having more samples to research!";
+msgctxt "Mingmin#1"
+msgid "Khalitzburg's research is going well. It is better off having more samples to research!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Khalitzburg will be found in west entrance of Glastheim.";
+msgctxt "Mingmin#1"
+msgid "Khalitzburg will be found in west entrance of Glastheim."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I need information and document no matter what happens. Come back to me after dealing with ^FF000030 Khalitzburg's^000000";
+msgctxt "Mingmin#1"
+msgid "I need information and document no matter what happens. Come back to me after dealing with ^FF000030 Khalitzburg's^000000"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "How do you feel of dealing with tough monsters? Good documents and good experience to you as well.";
+msgctxt "Mingmin#1"
+msgid "How do you feel of dealing with tough monsters? Good documents and good experience to you as well."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Maybe Khalitzburg is linked to what is happening in glastheim so lets research it.";
+msgctxt "Mingmin#1"
+msgid "Maybe Khalitzburg is linked to what is happening in glastheim so lets research it."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please tell me the story after dealing with them one by one. They will be important documents...";
+msgctxt "Mingmin#1"
+msgid "Please tell me the story after dealing with them one by one. They will be important documents..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Wanderer's research is going well. It is better off having more samples to research!";
+msgctxt "Mingmin#1"
+msgid "Wanderer's research is going well. It is better off having more samples to research!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Wanderer will be found if you enter from the north entrance and go to big entrance in the middle of the road in Glastheim.";
+msgctxt "Mingmin#1"
+msgid "Wanderer will be found if you enter from the north entrance and go to big entrance in the middle of the road in Glastheim."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I need information and documents no matter what happens. How about dealing with ^FF000030 Wanderers^000000.";
+msgctxt "Mingmin#1"
+msgid "I need information and documents no matter what happens. How about dealing with ^FF000030 Wanderers^000000."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Wanderer is the representative of Glastheim. It is dangerous but cool!";
+msgctxt "Mingmin#1"
+msgid "Wanderer is the representative of Glastheim. It is dangerous but cool!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It will be a good research. Come back after dealing with ^FF000030 Wanderers^000000.";
+msgctxt "Mingmin#1"
+msgid "It will be a good research. Come back after dealing with ^FF000030 Wanderers^000000."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "We need to research monsters in Thanatos tower.";
+msgctxt "Mingmin#1"
+msgid "We need to research monsters in Thanatos tower."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mimic research", "Deathword research", "Owl Baron research", "Bloody Page research" ) ) {
+msgctxt "Mingmin#1"
+msgid "Ancient Mimic research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mimic research", "Deathword research", "Owl Baron research", "Bloody Page research" ) ) {
+msgctxt "Mingmin#1"
+msgid "Deathword research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mimic research", "Deathword research", "Owl Baron research", "Bloody Page research" ) ) {
+msgctxt "Mingmin#1"
+msgid "Owl Baron research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mimic research", "Deathword research", "Owl Baron research", "Bloody Page research" ) ) {
+msgctxt "Mingmin#1"
+msgid "Bloody Page research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Ancient mimic research is going well. It is better off having more samples for the research!";
+msgctxt "Mingmin#1"
+msgid "Ancient mimic research is going well. It is better off having more samples for the research!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is not far if you move from Juno or Hugel to Thanatos or Abyss lake.";
+msgctxt "Mingmin#1"
+msgid "It is not far if you move from Juno or Hugel to Thanatos or Abyss lake."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Do not complain! It will be a good experience for you!";
+msgctxt "Mingmin#1"
+msgid "Do not complain! It will be a good experience for you!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The experience you learn by fighting with monsters will be a good record to research!";
+msgctxt "Mingmin#1"
+msgid "The experience you learn by fighting with monsters will be a good record to research!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You did good work today!";
+msgctxt "Mingmin#1"
+msgid "You did good work today!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You will see them often at thanatos tower or abyss lake. They are not generous with their drops but that is not important to finishing this request.";
+msgctxt "Mingmin#1"
+msgid "You will see them often at thanatos tower or abyss lake. They are not generous with their drops but that is not important to finishing this request."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I can not find any connection in two areas but they keep coming up so it is worth researching. Come back after taking care of ^FF000030 ancient mimic^000000.";
+msgctxt "Mingmin#1"
+msgid "I can not find any connection in two areas but they keep coming up so it is worth researching. Come back after taking care of ^FF000030 ancient mimic^000000."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "If you possibly get a good drop from them, you know right? Do not forget about me!";
+msgctxt "Mingmin#1"
+msgid "If you possibly get a good drop from them, you know right? Do not forget about me!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Deathword's research is going well. It is better off having more samples for the research!";
+msgctxt "Mingmin#1"
+msgid "Deathword's research is going well. It is better off having more samples for the research!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Thanatos tower will be more dangerous than you thought. You might want to organize a party before going there.";
+msgctxt "Mingmin#1"
+msgid "Thanatos tower will be more dangerous than you thought. You might want to organize a party before going there."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I want to research this so take this request please!";
+msgctxt "Mingmin#1"
+msgid "I want to research this so take this request please!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I will give you a reward...";
+msgctxt "Mingmin#1"
+msgid "I will give you a reward..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Thank you so much. This will be great research.";
+msgctxt "Mingmin#1"
+msgid "Thank you so much. This will be great research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "That is the reason why I chose Thanatos tower to research. Do not be surprised. This one is an old book that became a monster!";
+msgctxt "Mingmin#1"
+msgid "That is the reason why I chose Thanatos tower to research. Do not be surprised. This one is an old book that became a monster!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I want to research the background of those creatures. Please check ^FF000030 Deathwords^000000.";
+msgctxt "Mingmin#1"
+msgid "I want to research the background of those creatures. Please check ^FF000030 Deathwords^000000."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please take care of them one by one. Those books contain precious history of Rune Midgard so I want to research them.";
+msgctxt "Mingmin#1"
+msgid "Please take care of them one by one. Those books contain precious history of Rune Midgard so I want to research them."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Owl Baron's research is going well. It is better off having more samples for the research!";
+msgctxt "Mingmin#1"
+msgid "Owl Baron's research is going well. It is better off having more samples for the research!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You can meet it if you climb the tower according to the rumors. For me, well I've never been up there.";
+msgctxt "Mingmin#1"
+msgid "You can meet it if you climb the tower according to the rumors. For me, well I've never been up there."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The guy with blue hat went to the top but I didn't bother to follow.";
+msgctxt "Mingmin#1"
+msgid "The guy with blue hat went to the top but I didn't bother to follow."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Anyways, There will be enough reward for sure.";
+msgctxt "Mingmin#1"
+msgid "Anyways, There will be enough reward for sure."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Safely back!? Eden Group will be happy.";
+msgctxt "Mingmin#1"
+msgid "Safely back!? Eden Group will be happy."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Personally I have no interest in this monster but it was requested from the Eden Group.";
+msgctxt "Mingmin#1"
+msgid "Personally I have no interest in this monster but it was requested from the Eden Group."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please take care of ^FF000020 Owl Barons^000000. It will help other adventurers to explore Thanatos tower.";
+msgctxt "Mingmin#1"
+msgid "Please take care of ^FF000020 Owl Barons^000000. It will help other adventurers to explore Thanatos tower."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It does not mean I am not going to research them. The more documents the better research.";
+msgctxt "Mingmin#1"
+msgid "It does not mean I am not going to research them. The more documents the better research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I like old books! Okay I need to analyze this. Bloody Pages! Please bring more tomorrow or the day after tomorrow. Anytime!";
+msgctxt "Mingmin#1"
+msgid "I like old books! Okay I need to analyze this. Bloody Pages! Please bring more tomorrow or the day after tomorrow. Anytime!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Wow. It is so curious. It is exciting!";
+msgctxt "Mingmin#1"
+msgid "Wow. It is so curious. It is exciting!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "3rd floor of thanatos has Deathword monsers that drop these bloody pages.";
+msgctxt "Mingmin#1"
+msgid "3rd floor of thanatos has Deathword monsers that drop these bloody pages."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I think if thou shalt collect 20 of these it should be enough for my research. It's barbaric, but it is a job!";
+msgctxt "Mingmin#1"
+msgid "I think if thou shalt collect 20 of these it should be enough for my research. It's barbaric, but it is a job!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "There will be enough reward for sure.";
+msgctxt "Mingmin#1"
+msgid "There will be enough reward for sure."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The fact that I decided to travel to Thanatos has the reason. Haha, I heard that I can get Bloody Pages from Deathword monsters.";
+msgctxt "Mingmin#1"
+msgid "The fact that I decided to travel to Thanatos has the reason. Haha, I heard that I can get Bloody Pages from Deathword monsters."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I know they're gross and bloody but just imagine the centuries of stories preserved in those pages...";
+msgctxt "Mingmin#1"
+msgid "I know they're gross and bloody but just imagine the centuries of stories preserved in those pages..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Can you please get me 20 ^FF0000Bloody Pages^000000? I will be happy if there is one useful bookshelf we can use when you bring them back.";
+msgctxt "Mingmin#1"
+msgid "Can you please get me 20 ^FF0000Bloody Pages^000000? I will be happy if there is one useful bookshelf we can use when you bring them back."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please, I really want to research this.";
+msgctxt "Mingmin#1"
+msgid "Please, I really want to research this."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The research for Ash Vacuum is just beginning. So there are still many thing to study!";
+msgctxt "Mingmin#1"
+msgid "The research for Ash Vacuum is just beginning. So there are still many thing to study!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Dark Pinguicula research", "Nepenthes research", "Naga research", "Centipede Larva research", "Cornus research", "We know the magic power of the horn we saw that day." ) ) {
+msgctxt "Mingmin#1"
+msgid "Dark Pinguicula research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Dark Pinguicula research", "Nepenthes research", "Naga research", "Centipede Larva research", "Cornus research", "We know the magic power of the horn we saw that day." ) ) {
+msgctxt "Mingmin#1"
+msgid "Nepenthes research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Dark Pinguicula research", "Nepenthes research", "Naga research", "Centipede Larva research", "Cornus research", "We know the magic power of the horn we saw that day." ) ) {
+msgctxt "Mingmin#1"
+msgid "Naga research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Dark Pinguicula research", "Nepenthes research", "Naga research", "Centipede Larva research", "Cornus research", "We know the magic power of the horn we saw that day." ) ) {
+msgctxt "Mingmin#1"
+msgid "Centipede Larva research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Dark Pinguicula research", "Nepenthes research", "Naga research", "Centipede Larva research", "Cornus research", "We know the magic power of the horn we saw that day." ) ) {
+msgctxt "Mingmin#1"
+msgid "Cornus research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Dark Pinguicula research", "Nepenthes research", "Naga research", "Centipede Larva research", "Cornus research", "We know the magic power of the horn we saw that day." ) ) {
+msgctxt "Mingmin#1"
+msgid "We know the magic power of the horn we saw that day."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Pinguicula dark's research is ongoing. Please come back to me next time.!";
+msgctxt "Mingmin#1"
+msgid "Pinguicula dark's research is ongoing. Please come back to me next time.!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I think this research is easy. They are not too dangerous from the initial reports I've received.";
+msgctxt "Mingmin#1"
+msgid "I think this research is easy. They are not too dangerous from the initial reports I've received."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is north west from the Allied Forces Camp. It is not that far so hurry up.";
+msgctxt "Mingmin#1"
+msgid "It is north west from the Allied Forces Camp. It is not that far so hurry up."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Good job! keep helping my research. I still have so much to do.";
+msgctxt "Mingmin#1"
+msgid "Good job! keep helping my research. I still have so much to do."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is the monster living northwest of the Allied Forces Camp. I am not interested in going myself but the request was already paid for and I may as well research them.";
+msgctxt "Mingmin#1"
+msgid "It is the monster living northwest of the Allied Forces Camp. I am not interested in going myself but the request was already paid for and I may as well research them."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Hunt ^FF000030 Dark Pinguicula^000000. Battling it will provide some good research materials.";
+msgctxt "Mingmin#1"
+msgid "Hunt ^FF000030 Dark Pinguicula^000000. Battling it will provide some good research materials."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Be careful and safe.";
+msgctxt "Mingmin#1"
+msgid "Be careful and safe."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Nepenthes's research is still ongoing. Please come back to me next time!";
+msgctxt "Mingmin#1"
+msgid "Nepenthes's research is still ongoing. Please come back to me next time!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It could be a simple request or tough request. Try to find friends if you are in trouble. That is adventure too!";
+msgctxt "Mingmin#1"
+msgid "It could be a simple request or tough request. Try to find friends if you are in trouble. That is adventure too!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is east of the Allied Forces Camp. It is not that far so hurry up.";
+msgctxt "Mingmin#1"
+msgid "It is east of the Allied Forces Camp. It is not that far so hurry up."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Good job! Keep assisting with my research. I still have so much to do.";
+msgctxt "Mingmin#1"
+msgid "Good job! Keep assisting with my research. I still have so much to do."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Do you know the monster name as mandragora? There is similar monster to the east of the expedition station. I am sure it will be related for researching monsters.";
+msgctxt "Mingmin#1"
+msgid "Do you know the monster name as mandragora? There is similar monster to the east of the expedition station. I am sure it will be related for researching monsters."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Why don't you hunt 30 ^FF0000Nepenthes^000000? Their vines crawl up everywhere so be careful.";
+msgctxt "Mingmin#1"
+msgid "Why don't you hunt 30 ^FF0000Nepenthes^000000? Their vines crawl up everywhere so be careful."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The request like this satisfies me and the Eden Group. Be careful though.";
+msgctxt "Mingmin#1"
+msgid "The request like this satisfies me and the Eden Group. Be careful though."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Naga's research is still ongoing. Please come back to me next time.";
+msgctxt "Mingmin#1"
+msgid "Naga's research is still ongoing. Please come back to me next time."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You take care of those addicted to magic powers, I have no interest.";
+msgctxt "Mingmin#1"
+msgid "You take care of those addicted to magic powers, I have no interest."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please take care of 30 Naga monsters northwest of the expedition station.";
+msgctxt "Mingmin#1"
+msgid "Please take care of 30 Naga monsters northwest of the expedition station."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Good. Keep helping my research. I have too many to check out.";
+msgctxt "Mingmin#1"
+msgid "Good. Keep helping my research. I have too many to check out."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please take care of 30 ^FF0000Naga^000000 monsters northwest of the expedition station.";
+msgctxt "Mingmin#1"
+msgid "Please take care of 30 ^FF0000Naga^000000 monsters northwest of the expedition station."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I have no interest in it but it bothers my time to research the other monsters that I actually want to study. So I want the number of them to be reduced.";
+msgctxt "Mingmin#1"
+msgid "I have no interest in it but it bothers my time to research the other monsters that I actually want to study. So I want the number of them to be reduced."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please do your best. This request is also important to unlock additional research.";
+msgctxt "Mingmin#1"
+msgid "Please do your best. This request is also important to unlock additional research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I'm still researching the Centipede Larva. Please come and help me next time.";
+msgctxt "Mingmin#1"
+msgid "I'm still researching the Centipede Larva. Please come and help me next time."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Oh... No Lets take a deep breath. For me, I want to exterminate more than 20 for research.";
+msgctxt "Mingmin#1"
+msgid "Oh... No Lets take a deep breath. For me, I want to exterminate more than 20 for research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Be careful. And they're east of the expedition station.";
+msgctxt "Mingmin#1"
+msgid "Be careful. And they're east of the expedition station."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Oh. Okay. You do not need to explain.";
+msgctxt "Mingmin#1"
+msgid "Oh. Okay. You do not need to explain."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Yuck! It is very disgusting. Look at me. It is so creepy I wanted to survey it because I was interested in Nepenthes. But I hate bugs with lots of legs...";
+msgctxt "Mingmin#1"
+msgid "Yuck! It is very disgusting. Look at me. It is so creepy I wanted to survey it because I was interested in Nepenthes. But I hate bugs with lots of legs..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Come back after 20 ^FF0000Centipede Larva^000000 are exterminated. Can you imagine how big they became? Just the thought makes my skin crawl.";
+msgctxt "Mingmin#1"
+msgid "Come back after 20 ^FF0000Centipede Larva^000000 are exterminated. Can you imagine how big they became? Just the thought makes my skin crawl."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I'm sorry that I didn't do it myself. I'm not ashamed to admit that it's too disgusting for me.";
+msgctxt "Mingmin#1"
+msgid "I'm sorry that I didn't do it myself. I'm not ashamed to admit that it's too disgusting for me."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Cornus's research is still ongoing. Please research for other adventurers.";
+msgctxt "Mingmin#1"
+msgid "Cornus's research is still ongoing. Please research for other adventurers."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I need to research those flying horse creatures so please help me out.";
+msgctxt "Mingmin#1"
+msgid "I need to research those flying horse creatures so please help me out."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Of course, It will help your adventurers too in some way I suppose.";
+msgctxt "Mingmin#1"
+msgid "Of course, It will help your adventurers too in some way I suppose."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "How was it ? Is that monster easy for adventurers to get?";
+msgctxt "Mingmin#1"
+msgid "How was it ? Is that monster easy for adventurers to get?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I found the monster that satisfies my research needs and helps adventurers to gain experience from the Eden Group. It is not weak or fierce monster either.";
+msgctxt "Mingmin#1"
+msgid "I found the monster that satisfies my research needs and helps adventurers to gain experience from the Eden Group. It is not weak or fierce monster either."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I believe that Adventurers will handle Cornus in the future, so go out and deal with ^FF000030 Cornus^000000 so I can research that viability.";
+msgctxt "Mingmin#1"
+msgid "I believe that Adventurers will handle Cornus in the future, so go out and deal with ^FF000030 Cornus^000000 so I can research that viability."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This could be a revolution for Eden Group Adventurers. Be positive with this request please.";
+msgctxt "Mingmin#1"
+msgid "This could be a revolution for Eden Group Adventurers. Be positive with this request please."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I'm still researching the Mystic Horns you brought. Quite interesting. I can beat blue hat soon.";
+msgctxt "Mingmin#1"
+msgid "I'm still researching the Mystic Horns you brought. Quite interesting. I can beat blue hat soon."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Yes this one! It is worth doing. Thank you for taking this request.";
+msgctxt "Mingmin#1"
+msgid "Yes this one! It is worth doing. Thank you for taking this request."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I am still researching but I hope to extract magic power from magical touched things.";
+msgctxt "Mingmin#1"
+msgid "I am still researching but I hope to extract magic power from magical touched things."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It will be useful for me and adventurers, right?";
+msgctxt "Mingmin#1"
+msgid "It will be useful for me and adventurers, right?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This is why I accepted the request for this from Eden Group. Find 20 ^FF0000Mystic Horn^000000 from the Cornus monsters.";
+msgctxt "Mingmin#1"
+msgid "This is why I accepted the request for this from Eden Group. Find 20 ^FF0000Mystic Horn^000000 from the Cornus monsters."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I think I can use this horn for good things. It is easy to get. I will let you know later.";
+msgctxt "Mingmin#1"
+msgid "I think I can use this horn for good things. It is easy to get. I will let you know later."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Ye gain experience and I get research material. Good deal right? Excellent!";
+msgctxt "Mingmin#1"
+msgid "Ye gain experience and I get research material. Good deal right? Excellent!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This request is for my personal research. I research for Eden Group and they support me to hire people assisting my research.";
+msgctxt "Mingmin#1"
+msgid "This request is for my personal research. I research for Eden Group and they support me to hire people assisting my research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mummy research", "Geffenia survey", "Juperos survey", "Fragment and Rusty Screw collecting." ) ) {
+msgctxt "Mingmin#1"
+msgid "Ancient Mummy research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mummy research", "Geffenia survey", "Juperos survey", "Fragment and Rusty Screw collecting." ) ) {
+msgctxt "Mingmin#1"
+msgid "Geffenia survey"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mummy research", "Geffenia survey", "Juperos survey", "Fragment and Rusty Screw collecting." ) ) {
+msgctxt "Mingmin#1"
+msgid "Juperos survey"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "Ancient Mummy research", "Geffenia survey", "Juperos survey", "Fragment and Rusty Screw collecting." ) ) {
+msgctxt "Mingmin#1"
+msgid "Fragment and Rusty Screw collecting."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Ancient Mummy's research is still ongoing.";
+msgctxt "Mingmin#1"
+msgid "Ancient Mummy's research is still ongoing."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "If I finish researching, the first thing I'm going to do is eat a 10 year aged strawberry pudding...";
+msgctxt "Mingmin#1"
+msgid "If I finish researching, the first thing I'm going to do is eat a 10 year aged strawberry pudding..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "To finish my research I need you to hunt some Ancient Mummy.";
+msgctxt "Mingmin#1"
+msgid "To finish my research I need you to hunt some Ancient Mummy."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Did a good job. Fantastic strawberry pudding is not easy to make. Trust me. I will let thee taste it someday soon.";
+msgctxt "Mingmin#1"
+msgid "Did a good job. Fantastic strawberry pudding is not easy to make. Trust me. I will let thee taste it someday soon."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Things are supposed to go bad. Most of them but people want to keep and preserve food for a long time. ";
+msgctxt "Mingmin#1"
+msgid "Things are supposed to go bad. Most of them but people want to keep and preserve food for a long time. "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Have you even seen the bandage that Ancient Mummy are wound up in? They last even for centuries at a time.";
+msgctxt "Mingmin#1"
+msgid "Have you even seen the bandage that Ancient Mummy are wound up in? They last even for centuries at a time."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I guess it is rotten but we can make big money if this research goes well. Preservatives can make a strawberry pudding that does not go bad with time.";
+msgctxt "Mingmin#1"
+msgid "I guess it is rotten but we can make big money if this research goes well. Preservatives can make a strawberry pudding that does not go bad with time."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This research is necessary so that I can make my strawberry pudding.";
+msgctxt "Mingmin#1"
+msgid "This research is necessary so that I can make my strawberry pudding."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Geffenia's research has just started. It is beginning so go slowly. Lets research.";
+msgctxt "Mingmin#1"
+msgid "Geffenia's research has just started. It is beginning so go slowly. Lets research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I do not expect a lot because it is very dangerous and not easy to access.";
+msgctxt "Mingmin#1"
+msgid "I do not expect a lot because it is very dangerous and not easy to access."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This request is attempting to an adventurer who used to enjoy it. Simple! Fun! Worthy experience!";
+msgctxt "Mingmin#1"
+msgid "This request is attempting to an adventurer who used to enjoy it. Simple! Fun! Worthy experience!"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You are more talented than I thought. If you found a tact, I will request to you for next time as well. This research is up to you.";
+msgctxt "Mingmin#1"
+msgid "You are more talented than I thought. If you found a tact, I will request to you for next time as well. This research is up to you."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "This is pre-survey for precious research because Geffenia is easy to access.";
+msgctxt "Mingmin#1"
+msgid "This is pre-survey for precious research because Geffenia is easy to access."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The request starts from how to find a way in. Please take a look what kind of monsters are in there. first of all, start by hunting ^FF000010^000000 Incubus, Succubus and Violy. Then lets research the details later.";
+msgctxt "Mingmin#1"
+msgid "The request starts from how to find a way in. Please take a look what kind of monsters are in there. first of all, start by hunting ^FF000010^000000 Incubus, Succubus and Violy. Then lets research the details later."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Try to start from Geffen fountain, if you want more information.";
+msgctxt "Mingmin#1"
+msgid "Try to start from Geffen fountain, if you want more information."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "They all look the same for me. I should research harder.";
+msgctxt "Mingmin#1"
+msgid "They all look the same for me. I should research harder."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "There is one more reason why many adventurers are sent to Juperos and that is my real request.";
+msgctxt "Mingmin#1"
+msgid "There is one more reason why many adventurers are sent to Juperos and that is my real request."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "If you go to Juperos? I wish you to take a request about ^FF0000Venatus^000000.";
+msgctxt "Mingmin#1"
+msgid "If you go to Juperos? I wish you to take a request about ^FF0000Venatus^000000."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You are not confused? I still do not know yet. What is the difference? Anyway good job.";
+msgctxt "Mingmin#1"
+msgid "You are not confused? I still do not know yet. What is the difference? Anyway good job."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The remains of ancient, Juperos is mysterious. There are lots of ^FF0000secrets^000000. But this is yet again a simple monster research survey.";
+msgctxt "Mingmin#1"
+msgid "The remains of ancient, Juperos is mysterious. There are lots of ^FF0000secrets^000000. But this is yet again a simple monster research survey."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The monster ^FF0000Venatu^000000 in juperos has 4 types of colors. Which means there are four types of monsters.";
+msgctxt "Mingmin#1"
+msgid "The monster ^FF0000Venatu^000000 in juperos has 4 types of colors. Which means there are four types of monsters."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I thought they are the same because they look the same. Is it only me? I can not distinguish. Hunt 30 of each Green, Orange and Blue ones just to be sure.";
+msgctxt "Mingmin#1"
+msgid "I thought they are the same because they look the same. Is it only me? I can not distinguish. Hunt 30 of each Green, Orange and Blue ones just to be sure."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It wil not be easy to be alone. But looking for a fellow for adventure is what an adventurer does.";
+msgctxt "Mingmin#1"
+msgid "It wil not be easy to be alone. But looking for a fellow for adventure is what an adventurer does."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I will make anything better than you imagine.";
+msgctxt "Mingmin#1"
+msgid "I will make anything better than you imagine."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Thank you. You will appreciate me if my research is completed.";
+msgctxt "Mingmin#1"
+msgid "Thank you. You will appreciate me if my research is completed."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You can find ^FF0000Fragment and Rusty Screw^000000 in juperos everywhere. Most of the monsters have it.";
+msgctxt "Mingmin#1"
+msgid "You can find ^FF0000Fragment and Rusty Screw^000000 in juperos everywhere. Most of the monsters have it."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I know it is not easy but I wish thee to take this request. Please.";
+msgctxt "Mingmin#1"
+msgid "I know it is not easy but I wish thee to take this request. Please."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Juperos is intense and mysterious. When he showed up, It seems like it is not Midgard.";
+msgctxt "Mingmin#1"
+msgid "Juperos is intense and mysterious. When he showed up, It seems like it is not Midgard."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is core research. I need to know who he is. That will be amazing. Can you bring me 10 ^FF0000Fragment^000000 and 20 ^FF0000Rusty Screw^000000?";
+msgctxt "Mingmin#1"
+msgid "It is core research. I need to know who he is. That will be amazing. Can you bring me 10 ^FF0000Fragment^000000 and 20 ^FF0000Rusty Screw^000000?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I do not know how many drops you can carry but I want as many as you can. May I ask you to bring 10 ^FF0000Fragment^000000 and 20 ^FF0000Rusty Screw^000000?";
+msgctxt "Mingmin#1"
+msgid "I do not know how many drops you can carry but I want as many as you can. May I ask you to bring 10 ^FF0000Fragment^000000 and 20 ^FF0000Rusty Screw^000000?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "The request for researching monsters seem to easy for you.";
+msgctxt "Mingmin#1"
+msgid "The request for researching monsters seem to easy for you."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "There is nothing I can do because these are the rules of the Eden Group.";
+msgctxt "Mingmin#1"
+msgid "There is nothing I can do because these are the rules of the Eden Group."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "There is someone who strongly wishes you to solve your request.";
+msgctxt "Mingmin#1"
+msgid "There is someone who strongly wishes you to solve your request."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Contract is terminated. "+ strcharinfo(PC_NAME) +" reward for completed research. ^FF0000I will delete incompleted research from your quest list.^000000";
+msgctxt "Mingmin#1"
+msgid "Contract is terminated. "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is a little bit inconvenient. I will read to you politely ^FF0000again^000000 in public.";
+msgctxt "Mingmin#1"
+msgid "It is a little bit inconvenient. I will read to you politely ^FF0000again^000000 in public."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Anyway "+ strcharinfo(PC_NAME) +" thank you for helping me start my research.";
+msgctxt "Mingmin#1"
+msgid "Anyway "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Do not worry, I will treat you like a slave if we meet outside of Eden Group or if you tell anyone I was nice to you.";
+msgctxt "Mingmin#1"
+msgid "Do not worry, I will treat you like a slave if we meet outside of Eden Group or if you tell anyone I was nice to you."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Just because I'm being nice now doesn't mean we're automatically friends though.";
+msgctxt "Mingmin#1"
+msgid "Just because I'm being nice now doesn't mean we're automatically friends though."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Do you want to know something? I am busy researching.";
+msgctxt "Mingmin#1"
+msgid "Do you want to know something? I am busy researching."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It is fine day for researching. It is always fun to talk to someone of sufficient intelligence.";
+msgctxt "Mingmin#1"
+msgid "It is fine day for researching. It is always fun to talk to someone of sufficient intelligence."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "^0000ffFriends^000000 story", "Something to research", "Orange beard gluey mushroom...", "Finish conversation" ) ) {
+msgctxt "Mingmin#1"
+msgid "^0000ffFriends^000000 story"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "^0000ffFriends^000000 story", "Something to research", "Orange beard gluey mushroom...", "Finish conversation" ) ) {
+msgctxt "Mingmin#1"
+msgid "Something to research"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "^0000ffFriends^000000 story", "Something to research", "Orange beard gluey mushroom...", "Finish conversation" ) ) {
+msgctxt "Mingmin#1"
+msgid "Orange beard gluey mushroom..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# switch( select( "^0000ffFriends^000000 story", "Something to research", "Orange beard gluey mushroom...", "Finish conversation" ) ) {
+msgctxt "Mingmin#1"
+msgid "Finish conversation"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I found a familiar face since I arrived to Eden Group with this request. ^ff0000Rohtert^000000 is the one.";
+msgctxt "Mingmin#1"
+msgid "I found a familiar face since I arrived to Eden Group with this request. ^ff0000Rohtert^000000 is the one."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I used to join clubs that researched rare monsters. I heard it became a guild and anyway I met him there.";
+msgctxt "Mingmin#1"
+msgid "I used to join clubs that researched rare monsters. I heard it became a guild and anyway I met him there."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I look younger but I am like his sister. There was so many things that happened in that club. However, I shouldn't go on and on about it. I might tell you later when we have time.";
+msgctxt "Mingmin#1"
+msgid "I look younger but I am like his sister. There was so many things that happened in that club. However, I shouldn't go on and on about it. I might tell you later when we have time."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I found a familiar face since I arrived to Eden Group with this request. Do you see the guy ^FF0000Rohtert^000000 with white hair near the entrance?";
+msgctxt "Mingmin#1"
+msgid "I found a familiar face since I arrived to Eden Group with this request. Do you see the guy ^FF0000Rohtert^000000 with white hair near the entrance?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Now that he's grown up... well he used to follow me calling me his sister. By the way where is the blue hat guy who used to stick to him like glue. Did they have a fight?";
+msgctxt "Mingmin#1"
+msgid "Now that he's grown up... well he used to follow me calling me his sister. By the way where is the blue hat guy who used to stick to him like glue. Did they have a fight?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "That blue hat guy... He used to annoy me even at the club. If I see him again I just might smack him...";
+msgctxt "Mingmin#1"
+msgid "That blue hat guy... He used to annoy me even at the club. If I see him again I just might smack him..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I used to talk to Rohtert from time to time while researching. There was a lot of things to talk about ever since I left the guild.";
+msgctxt "Mingmin#1"
+msgid "I used to talk to Rohtert from time to time while researching. There was a lot of things to talk about ever since I left the guild."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I think the guild is still around since there were so many members even when I was there.";
+msgctxt "Mingmin#1"
+msgid "I think the guild is still around since there were so many members even when I was there."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I even heard that blue hat guy made himself a guild master. Imagine that fool being a master oh ho ho ho.";
+msgctxt "Mingmin#1"
+msgid "I even heard that blue hat guy made himself a guild master. Imagine that fool being a master oh ho ho ho."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I research monsters. Especially their features, personality, spleens, locations and relationship with other monsters. Etc.";
+msgctxt "Mingmin#1"
+msgid "I research monsters. Especially their features, personality, spleens, locations and relationship with other monsters. Etc."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Researching these magic items there is more to it than just having them in your possession.";
+msgctxt "Mingmin#1"
+msgid "Researching these magic items there is more to it than just having them in your possession."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "My plan so far is like this. Extracted magic from the Mystic Horn is compressed by the Fragments and Screws. Then I will input the ancient information which was written in the Bloody Pages.";
+msgctxt "Mingmin#1"
+msgid "My plan so far is like this. Extracted magic from the Mystic Horn is compressed by the Fragments and Screws. Then I will input the ancient information which was written in the Bloody Pages."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I'm hoping to create some type of small hand-held storage device.";
+msgctxt "Mingmin#1"
+msgid "I'm hoping to create some type of small hand-held storage device."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I wil be rich if I complete this research! I am sure.";
+msgctxt "Mingmin#1"
+msgid "I wil be rich if I complete this research! I am sure."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Well do you remember my personal research I mentioned before? It is not easy even I tried to develop...";
+msgctxt "Mingmin#1"
+msgid "Well do you remember my personal research I mentioned before? It is not easy even I tried to develop..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I tried to make a magic device that you can hold in your hand.";
+msgctxt "Mingmin#1"
+msgid "I tried to make a magic device that you can hold in your hand."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "No. I can not give up for this. I will make it.";
+msgctxt "Mingmin#1"
+msgid "No. I can not give up for this. I will make it."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Orange mushroom? I do not know.";
+msgctxt "Mingmin#1"
+msgid "Orange mushroom? I do not know."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Do not worry. Ok, maybe worry because mushrooms could be growing in your body. I will get rid of it if you help me to research. It will be dangerous if it takes longer time.";
+msgctxt "Mingmin#1"
+msgid "Do not worry. Ok, maybe worry because mushrooms could be growing in your body. I will get rid of it if you help me to research. It will be dangerous if it takes longer time."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "... orange shiitake gluey mushroom?";
+msgctxt "Mingmin#1"
+msgid "... orange shiitake gluey mushroom?"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Let me see. It might be dangerous.";
+msgctxt "Mingmin#1"
+msgid "Let me see. It might be dangerous."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You helped me to research so let me help you! I will get rid of your mushroom spore infection.";
+msgctxt "Mingmin#1"
+msgid "You helped me to research so let me help you! I will get rid of your mushroom spore infection."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "...hee hee...";
+msgctxt "Mingmin#1"
+msgid "...hee hee..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Hmmph, You are so naive. Did you believe it? Sticky.. some kind of mushroom is growing in your body? Hahaha";
+msgctxt "Mingmin#1"
+msgid "Hmmph, You are so naive. Did you believe it? Sticky.. some kind of mushroom is growing in your body? Hahaha"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "It was just a joke. A little joke between friends.";
+msgctxt "Mingmin#1"
+msgid "It was just a joke. A little joke between friends."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I am sorry if you are upset. You made it too easy...";
+msgctxt "Mingmin#1"
+msgid "I am sorry if you are upset. You made it too easy..."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You are funnier than I thought. Do not worry. That mushroom does not exist.";
+msgctxt "Mingmin#1"
+msgid "You are funnier than I thought. Do not worry. That mushroom does not exist."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "Please help me there are so many things to research.";
+msgctxt "Mingmin#1"
+msgid "Please help me there are so many things to research."
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I hope you have a good time";
+msgctxt "Mingmin#1"
+msgid "I hope you have a good time"
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "I will delete "+ getarg(.@i+2) +" research from request list.";
+msgctxt "Mingmin#1"
+msgid "I will delete "
+msgstr ""
+
+#: npc/re/quests/eden/111-120.txt
+# mes "You finished researching about "+ getarg(.@i+2) +". Thank you.";
+msgctxt "Mingmin#1"
+msgid "You finished researching about "
+msgstr ""

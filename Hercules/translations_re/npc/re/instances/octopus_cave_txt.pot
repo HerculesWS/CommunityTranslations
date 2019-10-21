@@ -1,0 +1,482 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/instances/octopus_cave.txt
+# .@md_name$ = _("Octopus Cave");
+msgctxt "Starfish"
+msgid "Octopus Cave"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("[Starfish]");
+msgctxt "Starfish"
+msgid "[Starfish]"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("You alone is powerless, hehe! Better get someone to help you out. Make a party, and come back later.");
+msgctxt "Starfish"
+msgid "You alone is powerless, hehe! Better get someone to help you out. Make a party, and come back later."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Where is your leader, hehe. I don't talk to some random people. Bring your boss to me.");
+msgctxt "Starfish"
+msgid "Where is your leader, hehe. I don't talk to some random people. Bring your boss to me."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("I am guarding here, hehe! It is just roughly blocked for now. But someday this cave must be sealed forever, hehe!");
+msgctxt "Starfish"
+msgid "I am guarding here, hehe! It is just roughly blocked for now. But someday this cave must be sealed forever, hehe!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# switch (select("Ask what's going on.", "Ask to open the gate.", "Go to other location.")) {
+msgctxt "Starfish"
+msgid "Ask what's going on."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# switch (select("Ask what's going on.", "Ask to open the gate.", "Go to other location.")) {
+msgctxt "Starfish"
+msgid "Ask to open the gate."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# switch (select("Ask what's going on.", "Ask to open the gate.", "Go to other location.")) {
+msgctxt "Starfish"
+msgid "Go to other location."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Lately, our Starfish lady is suffering with some issues, ooh ooh. Something bad happen in this peaceful place, hehe!");
+msgctxt "Starfish"
+msgid "Lately, our Starfish lady is suffering with some issues, ooh ooh. Something bad happen in this peaceful place, hehe!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Weird looking limbs came out from the hole there, tried to kidnap our lady Starfish. Ooh Ooh.");
+msgctxt "Starfish"
+msgid "Weird looking limbs came out from the hole there, tried to kidnap our lady Starfish. Ooh Ooh."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("It seems those limbs belong to that ugly octopus. That monster should be taken care of,\r"
+msgctxt "Starfish"
+msgid "It seems those limbs belong to that ugly octopus. That monster should be taken care of,\rbut it's hard for ourselves only to make it happen, hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("I want to find someone special, and ask to punish this ugly octopus.\r"
+msgctxt "Starfish"
+msgid "I want to find someone special, and ask to punish this ugly octopus.\rI hope this octopus won't ever harass our lady, hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Go catch that octopus and stick it to this pick. If you bring back the pick,\r"
+msgctxt "Starfish"
+msgid "Go catch that octopus and stick it to this pick. If you bring back the pick,\rI will open this gate for a while. You should challenge if you are interested, hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Octopus is not around now, hehe. Please come back later.");
+msgctxt "Starfish"
+msgid "Octopus is not around now, hehe. Please come back later."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mesf("Party name is... %s.", getpartyname(.@party_id));
+#, c-format
+msgctxt "Starfish"
+msgid "Party name is... %s."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mesf("Party leader is... %s.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Starfish"
+msgid "Party leader is... %s."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mesf("^0000FF%s^000000, I cannot open now, hehe.", .@md_name$);
+#, c-format
+msgctxt "Starfish"
+msgid "^0000FF%s^000000, I cannot open now, hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Now is not the time, please wait.");
+msgctxt "Starfish"
+msgid "Now is not the time, please wait."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mesf("I will open the gate for a while to ^0000FF%s^000000.", .@md_name$);
+#, c-format
+msgctxt "Starfish"
+msgid "I will open the gate for a while to ^0000FF%s^000000."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Please catch that pervert octopus, and come back with it sticked to the pick, hehe.");
+msgctxt "Starfish"
+msgid "Please catch that pervert octopus, and come back with it sticked to the pick, hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Prepare a pick first, so you can thread that octopus with that pick.\r"
+msgctxt "Starfish"
+msgid "Prepare a pick first, so you can thread that octopus with that pick.\rThen, I will let you in for a while, hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("This is not a good location, check someplace else.");
+msgctxt "Starfish"
+msgid "This is not a good location, check someplace else."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("There is a strange entrance blocked roughly with some boards.");
+msgctxt "Weird Entrance"
+msgid "There is a strange entrance blocked roughly with some boards."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# switch (select("Go in.", "Stop.")) {
+msgctxt "Weird Entrance"
+msgid "Go in."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# switch (select("Go in.", "Stop.")) {
+msgctxt "Weird Entrance"
+msgid "Stop."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("[Starfish]");
+msgctxt "Weird Entrance"
+msgid "[Starfish]"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Ah, now is not the time... Would you come back later? Hehe.");
+msgctxt "Weird Entrance"
+msgid "Ah, now is not the time... Would you come back later? Hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Shhh... Weird aura is coming from that entrance. Big trouble is waiting, if you go in now.");
+msgctxt "Weird Entrance"
+msgid "Shhh... Weird aura is coming from that entrance. Big trouble is waiting, if you go in now."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce("mal_dun01", sprintf(_$("%s party's %s member started to hunt the Octopus!"), getpartyname(getcharid(CHAR_ID_PARTY)), strcharinfo(PC_NAME)), bc_map, C_SPRINGGREEN);
+#, c-format
+msgctxt "Weird Entrance"
+msgid "%s party's %s member started to hunt the Octopus!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("You should definitely prepare hunting stick if you want to punish the Octopus. Or I will not let you in! Hehe.");
+msgctxt "Weird Entrance"
+msgid "You should definitely prepare hunting stick if you want to punish the Octopus. Or I will not let you in! Hehe."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Yes Yes, you better quit.");
+msgctxt "Weird Entrance"
+msgid "Yes Yes, you better quit."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), _("Pervert Octopus : How dare you to come inside of my place!"), bc_map, C_YELLOW);
+msgctxt "oct_enter_broad"
+msgid "Pervert Octopus : How dare you to come inside of my place!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), _("Pervert Octopus : But I blocked all the cave gates!! There is nothing you can do!"), bc_map, C_YELLOW);
+msgctxt "oct_enter_broad"
+msgid "Pervert Octopus : But I blocked all the cave gates!! There is nothing you can do!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), _("Pervert Octopus : My juniors~ There is your toy! Play with it~ kakaka"), bc_map, C_YELLOW);
+msgctxt "oct_enter_broad"
+msgid "Pervert Octopus : My juniors~ There is your toy! Play with it~ kakaka"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 20, 114, _("Octopus Leg#1"), MD_OCTOPUS_LEG, 1, instance_npcname("oct_foot_4")+"::OnMyMobDead");
+msgctxt "oct_foot_4"
+msgid "Octopus Leg#1"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 88, 190, _("Octopus Leg#2"), MD_OCTOPUS_LEG, 1, instance_npcname("oct_foot_4")+"::OnMyMobDead");
+msgctxt "oct_foot_4"
+msgid "Octopus Leg#2"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 307, 215, _("Octopus Leg#3"), MD_OCTOPUS_LEG, 1, instance_npcname("oct_foot_4")+"::OnMyMobDead");
+msgctxt "oct_foot_4"
+msgid "Octopus Leg#3"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 372, 131, _("Octopus Leg#4"), MD_OCTOPUS_LEG, 1, instance_npcname("oct_foot_4")+"::OnMyMobDead");
+msgctxt "oct_foot_4"
+msgid "Octopus Leg#4"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Hey you!! I'll personally take care of you all! Let's bring it on!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_foot_4"
+msgid "Hey you!! I'll personally take care of you all! Let's bring it on!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Arrgg!! That hurts!!! I need another strategy..."), bc_map, C_SPRINGGREEN);
+msgctxt "oct_foot_4"
+msgid "Arrgg!! That hurts!!! I need another strategy..."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# areamonster(.@map$, 34, 96, 38, 100, _("Octopus's Henchman"), MD_OCTOPUS, 3, .@label$);
+msgctxt "oct_foot1"
+msgid "Octopus's Henchman"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), _("Come out all my babies and help me out!"), bc_map, C_YELLOW);
+msgctxt "oct_foot1"
+msgid "Come out all my babies and help me out!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Let's give them a lesson!"), bc_map, C_YELLOW);
+msgctxt "oct_foot1"
+msgid "Let's give them a lesson!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("You hurt my babies!!? You'll have to pay for this!!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_foot1"
+msgid "You hurt my babies!!? You'll have to pay for this!!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 32, 94, _("Hydra"), HYDRA, 1);
+msgctxt "oct_mob_con"
+msgid "Hydra"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# areamonster(.@map$, 30, 67, 50, 87, _("Stapo"), STAPO, 1);
+msgctxt "oct_mob_con"
+msgid "Stapo"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 39, 59, _("Hydra"), HYDRA, 1);
+msgctxt "oct_backattack1"
+msgid "Hydra"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 41, 53, _("Octopus's Henchman"), MD_OCTOPUS, 1);
+msgctxt "oct_backattack1"
+msgid "Octopus's Henchman"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Don't let them break through, stop them!!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack1"
+msgid "Don't let them break through, stop them!!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 71, 105, _("Octopus's Henchman"), MD_OCTOPUS, 1);
+msgctxt "oct_backattack2"
+msgid "Octopus's Henchman"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Headquarters are empty, GO!!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack2"
+msgid "Headquarters are empty, GO!!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Run, RUN! Go, GO!!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack2"
+msgid "Run, RUN! Go, GO!!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("No time, come out fast!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack2"
+msgid "No time, come out fast!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Let's take over the headquarters!!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack2"
+msgid "Let's take over the headquarters!!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("There is no time to lose, hurry up!!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack2"
+msgid "There is no time to lose, hurry up!!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 293, 153, _("Octopus's Henchman"), MD_OCTOPUS, 1);
+msgctxt "oct_backattack3"
+msgid "Octopus's Henchman"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 293, 152, _("Octopus's Henchman ?"), MD_MARSE, 1);
+msgctxt "oct_backattack3"
+msgid "Octopus's Henchman ?"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Kakaka! Suprised??!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack3"
+msgid "Kakaka! Suprised??!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), _("... Looks like we have a spy among us."), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack3"
+msgid "... Looks like we have a spy among us."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 332, 37, _("Octopus's Henchman"), MD_OCTOPUS, 1);
+msgctxt "oct_backattack4"
+msgid "Octopus's Henchman"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(.@map$, 260, 40, _("Mercenary Squid"), MD_MARSE, 1);
+msgctxt "oct_backattack4"
+msgid "Mercenary Squid"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("What a successful pincer tactic! The enemy is strong! Let's not lose yourselves! Anyway, where are all the mercenaries??"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack4"
+msgid "What a successful pincer tactic! The enemy is strong! Let's not lose yourselves! Anyway, where are all the mercenaries??"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), _("Mercenary Squid : eh...eh... wrong direction. No enemies are shown in this direction."), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack4"
+msgid "Mercenary Squid : eh...eh... wrong direction. No enemies are shown in this direction."
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), _("Pervert Octopus : Fools! Can't you read the map??!! Useless!!"), bc_map, C_SPRINGGREEN);
+msgctxt "oct_backattack4"
+msgid "Pervert Octopus : Fools! Can't you read the map??!! Useless!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# monster(instance_mapname("1@cash"), 199, 188, _("Disgusting Octopus"), MD_GIANT_OCTOPUS, 1, instance_npcname("oct_boss_con")+"::OnMyMobDead");
+msgctxt "oct_boss_con"
+msgid "Disgusting Octopus"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(instance_mapname("1@cash"), sprintf(_$("Disgusting Octopus : %s"), getarg(rand(3))), bc_map, C_YELLOW);
+#, c-format
+msgctxt "oct_boss_con"
+msgid "Disgusting Octopus : %s"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Disgusting Octopus : That's it for the today! Next time, I will play with you badly!"), bc_map, C_YELLOW);
+msgctxt "oct_boss_con"
+msgid "Disgusting Octopus : That's it for the today! Next time, I will play with you badly!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Disgusting Octopus : Do you know how many legs octopus have? It doesn't matter, I have unlimited legs!!"), bc_map, C_YELLOW);
+msgctxt "oct_boss_foot"
+msgid "Disgusting Octopus : Do you know how many legs octopus have? It doesn't matter, I have unlimited legs!!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# areamonster(.@map$, 192, 181, 206, 195, _("Octopus Leg"), MD_OCTOPUS_LEG, 1, instance_npcname("oct_boss_foot")+"::OnMyMobDead");
+msgctxt "oct_boss_foot"
+msgid "Octopus Leg"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mapannounce(.@map$, _("Disgusting Octopus : I...cannot..hold anymore, my babies~ please come out and fight!"), bc_map, C_YELLOW);
+msgctxt "oct_boss_foot"
+msgid "Disgusting Octopus : I...cannot..hold anymore, my babies~ please come out and fight!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# areamonster(.@map$, 192, 181, 206, 195, _("Octopus's Henchman"), MD_OCTOPUS, 5, instance_npcname("oct_boss_foot")+"::OnMyMobDead");
+msgctxt "oct_boss_foot"
+msgid "Octopus's Henchman"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# mes("Do you want to go out from the octopus dungeon?");
+msgctxt "oct_exit_1"
+msgid "Do you want to go out from the octopus dungeon?"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# if (select("No!", "Yes!") == 2)
+msgctxt "oct_exit_1"
+msgid "No!"
+msgstr ""
+
+#: npc/re/instances/octopus_cave.txt
+# if (select("No!", "Yes!") == 2)
+msgctxt "oct_exit_1"
+msgid "Yes!"
+msgstr ""

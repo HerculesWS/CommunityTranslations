@@ -1,0 +1,338 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/merchants/catalog.txt
+# mes "- You have too many items. Please make space. -";
+msgctxt "Catalog Magician#catal01"
+msgid "- You have too many items. Please make space. -"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "[Catalog Magician]";
+msgctxt "Catalog Magician#catal01"
+msgid "[Catalog Magician]"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "Look... the Magic Academy";
+msgctxt "Catalog Magician#catal01"
+msgid "Look... the Magic Academy"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "in Geffen is now directly";
+msgctxt "Catalog Magician#catal01"
+msgid "in Geffen is now directly"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "selling the brand new";
+msgctxt "Catalog Magician#catal01"
+msgid "selling the brand new"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "^007777Universal Catalog Silver^000000!";
+msgctxt "Catalog Magician#catal01"
+msgid "^007777Universal Catalog Silver^000000!"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "He is looking at the words";
+msgctxt "Catalog Magician#catal01"
+msgid "He is looking at the words"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "written on his hand.";
+msgctxt "Catalog Magician#catal01"
+msgid "written on his hand."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "He seems too busy";
+msgctxt "Catalog Magician#catal01"
+msgid "He seems too busy"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "to look at you.";
+msgctxt "Catalog Magician#catal01"
+msgid "to look at you."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "A brand new catalog";
+msgctxt "Catalog Magician#catal01"
+msgid "A brand new catalog"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "has just come out!";
+msgctxt "Catalog Magician#catal01"
+msgid "has just come out!"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "You can check";
+msgctxt "Catalog Magician#catal01"
+msgid "You can check"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "what items you can trade";
+msgctxt "Catalog Magician#catal01"
+msgid "what items you can trade"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "and what items are on sale";
+msgctxt "Catalog Magician#catal01"
+msgid "and what items are on sale"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "from the vendor.";
+msgctxt "Catalog Magician#catal01"
+msgid "from the vendor."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "The ^007777Universal Catalog Silver^000000";
+msgctxt "Catalog Magician#catal01"
+msgid "The ^007777Universal Catalog Silver^000000"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "costs only 200z!";
+msgctxt "Catalog Magician#catal01"
+msgid "costs only 200z!"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "You can buy up to 50 pieces at once!";
+msgctxt "Catalog Magician#catal01"
+msgid "You can buy up to 50 pieces at once!"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# switch(select("Buy a ^007777Universal Catalog Silver^000000", "I don't need it!", "You don't look like a vendor!")) {
+msgctxt "Catalog Magician#catal01"
+msgid "Buy a ^007777Universal Catalog Silver^000000"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# switch(select("Buy a ^007777Universal Catalog Silver^000000", "I don't need it!", "You don't look like a vendor!")) {
+msgctxt "Catalog Magician#catal01"
+msgid "I don't need it!"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# switch(select("Buy a ^007777Universal Catalog Silver^000000", "I don't need it!", "You don't look like a vendor!")) {
+msgctxt "Catalog Magician#catal01"
+msgid "You don't look like a vendor!"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "You... want all 50 pieces?";
+msgctxt "Catalog Magician#catal01"
+msgid "You... want all 50 pieces?"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "Or how many do you need?";
+msgctxt "Catalog Magician#catal01"
+msgid "Or how many do you need?"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "The trade has been stopped!";
+msgctxt "Catalog Magician#catal01"
+msgid "The trade has been stopped!"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "I don't know what to do next...";
+msgctxt "Catalog Magician#catal01"
+msgid "I don't know what to do next..."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "What should I do?";
+msgctxt "Catalog Magician#catal01"
+msgid "What should I do?"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "It should be less than 50 pieces.";
+msgctxt "Catalog Magician#catal01"
+msgid "It should be less than 50 pieces."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "The total number of catalog(s) that you're trying to purchase is " + .@input + " pieces.";
+msgctxt "Catalog Magician#catal01"
+msgid "The total number of catalog(s) that you're trying to purchase is "
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "The total number of catalog(s) that you're trying to purchase is " + .@input + " pieces.";
+msgctxt "Catalog Magician#catal01"
+msgid " pieces."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "It costs " + .@sell + " z.";
+msgctxt "Catalog Magician#catal01"
+msgid "It costs "
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "It costs " + .@sell + " z.";
+msgctxt "Catalog Magician#catal01"
+msgid " z."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "It seems you don't have enough money.";
+msgctxt "Catalog Magician#catal01"
+msgid "It seems you don't have enough money."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "You can sell your equipment";
+msgctxt "Catalog Magician#catal01"
+msgid "You can sell your equipment"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "to make more money... if you want.";
+msgctxt "Catalog Magician#catal01"
+msgid "to make more money... if you want."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "Ok, here you go.";
+msgctxt "Catalog Magician#catal01"
+msgid "Ok, here you go."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "Argh... you really need this";
+msgctxt "Catalog Magician#catal01"
+msgid "Argh... you really need this"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "item... Do you want me to";
+msgctxt "Catalog Magician#catal01"
+msgid "item... Do you want me to"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "explain again? I don't know";
+msgctxt "Catalog Magician#catal01"
+msgid "explain again? I don't know"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "what to do next...";
+msgctxt "Catalog Magician#catal01"
+msgid "what to do next..."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "My real job is a magician.";
+msgctxt "Catalog Magician#catal01"
+msgid "My real job is a magician."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "I was going to ask the merchant";
+msgctxt "Catalog Magician#catal01"
+msgid "I was going to ask the merchant"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "guild to sell them, but they were";
+msgctxt "Catalog Magician#catal01"
+msgid "guild to sell them, but they were"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "trying use them as an appendix";
+msgctxt "Catalog Magician#catal01"
+msgid "trying use them as an appendix"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "into broom sales. That's why";
+msgctxt "Catalog Magician#catal01"
+msgid "into broom sales. That's why"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "I'm selling these by myself.";
+msgctxt "Catalog Magician#catal01"
+msgid "I'm selling these by myself."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "There are many adventurers";
+msgctxt "Catalog Magician#catal01"
+msgid "There are many adventurers"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "here who come and go.";
+msgctxt "Catalog Magician#catal01"
+msgid "here who come and go."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "I'm pretty sure that I can sell to all of them soon.";
+msgctxt "Catalog Magician#catal01"
+msgid "I'm pretty sure that I can sell to all of them soon."
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "Don't you think so?";
+msgctxt "Catalog Magician#catal01"
+msgid "Don't you think so?"
+msgstr ""
+
+#: npc/re/merchants/catalog.txt
+# mes "So... let's start!! Buy more of them, please! PLEASE...!";
+msgctxt "Catalog Magician#catal01"
+msgid "So... let's start!! Buy more of them, please! PLEASE...!"
+msgstr ""

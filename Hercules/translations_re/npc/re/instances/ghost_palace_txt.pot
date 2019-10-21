@@ -1,0 +1,966 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Unpleasent Royal Guard]");
+msgctxt "Unpleasent Royal Guard"
+msgid "[Unpleasent Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Althought I need help with a task, you are not strong enough to assist me, noob~!");
+msgctxt "Unpleasent Royal Guard"
+msgid "Althought I need help with a task, you are not strong enough to assist me, noob~!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Come back after when you have done some training and are at least level 120!");
+msgctxt "Unpleasent Royal Guard"
+msgid "Come back after when you have done some training and are at least level 120!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("The monsters that attacked the palace are wandering around the secret entrance. It would be very bad if they spotted us... Please wait until the time limit for re-entrance passed.");
+msgctxt "Unpleasent Royal Guard"
+msgid "The monsters that attacked the palace are wandering around the secret entrance. It would be very bad if they spotted us... Please wait until the time limit for re-entrance passed."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Did the gate close?\r"
+msgctxt "Unpleasent Royal Guard"
+msgid "Did the gate close?\rPlease enter the gate as soon as you can next time."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Please go ahead, ^0000ffThe entrance is behind me.^000000\r"
+msgctxt "Unpleasent Royal Guard"
+msgid "Please go ahead, ^0000ffThe entrance is behind me.^000000\rI will be right behind you!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("This is a solo instance. Please form a solo party before continuing.");
+msgctxt "Unpleasent Royal Guard"
+msgid "This is a solo instance. Please form a solo party before continuing."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I'm looking for adventurers to help me!\r"
+msgctxt "Unpleasent Royal Guard"
+msgid "I'm looking for adventurers to help me!\rI want to talk to the team leader, can I?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I need some help, even from the likes of you.");
+msgctxt "Unpleasent Royal Guard"
+msgid "I need some help, even from the likes of you."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("In the middle of the battle the princess disappeared while I was guarding the palace.");
+msgctxt "Unpleasent Royal Guard"
+msgid "In the middle of the battle the princess disappeared while I was guarding the palace."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You run ahead and i will catch up.\r"
+msgctxt "Unpleasent Royal Guard"
+msgid "You run ahead and i will catch up.\rWe must save her."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# if (select("I will help.", "This is not a good time.") == 2) {
+msgctxt "Unpleasent Royal Guard"
+msgid "I will help."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# if (select("I will help.", "This is not a good time.") == 2) {
+msgctxt "Unpleasent Royal Guard"
+msgid "This is not a good time."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Even now all the royal guards are fighting and dying to the monsters.");
+msgctxt "Unpleasent Royal Guard"
+msgid "Even now all the royal guards are fighting and dying to the monsters."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("We must save the princess no matter how much fear grips our hearts!");
+msgctxt "Unpleasent Royal Guard"
+msgid "We must save the princess no matter how much fear grips our hearts!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# .@instance = instance_create(_("Ghost Palace"), .@party_id);
+msgctxt "Unpleasent Royal Guard"
+msgid "Ghost Palace"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("Party Name: %s", .@p_name$);
+#, c-format
+msgctxt "Unpleasent Royal Guard"
+msgid "Party Name: %s"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("Party Leader: %s", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Unpleasent Royal Guard"
+msgid "Party Leader: %s"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("^0000FF%s^000000 - Reservation Failed!", .@md_name$);
+#, c-format
+msgctxt "Unpleasent Royal Guard"
+msgid "^0000FF%s^000000 - Reservation Failed!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Thank You..\r"
+msgctxt "Unpleasent Royal Guard"
+msgid "Thank You..\rI will open the secret passage to ^0000FFGhost Palace.^000000\rPlease be ready!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Unpleasent Royal Guard]");
+msgctxt "Interdimensional Device::gpportal"
+msgid "[Unpleasent Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Althought I need help with a task, you are not strong enough to assist me, noob~!");
+msgctxt "Interdimensional Device::gpportal"
+msgid "Althought I need help with a task, you are not strong enough to assist me, noob~!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Come back after when you have done some training and are at least level 120!");
+msgctxt "Interdimensional Device::gpportal"
+msgid "Come back after when you have done some training and are at least level 120!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("The monsters that attacked the palace are wandering around the secret entrance. It would be very bad if they spotted us... Please wait until the time limit for re-entrance passed.");
+msgctxt "Interdimensional Device::gpportal"
+msgid "The monsters that attacked the palace are wandering around the secret entrance. It would be very bad if they spotted us... Please wait until the time limit for re-entrance passed."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I'm looking for adventurers to help me!\r"
+msgctxt "Interdimensional Device::gpportal"
+msgid "I'm looking for adventurers to help me!\rI want to talk to the team leader, can I?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I can see the secret passage into the Palace... Are you ready to save the princess?!");
+msgctxt "Interdimensional Device::gpportal"
+msgid "I can see the secret passage into the Palace... Are you ready to save the princess?!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# if (select("Enter", "Stop") == 2) {
+msgctxt "Interdimensional Device::gpportal"
+msgid "Enter"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# if (select("Enter", "Stop") == 2) {
+msgctxt "Interdimensional Device::gpportal"
+msgid "Stop"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Even now all the royal guards are fighting and dying to the monsters.");
+msgctxt "Interdimensional Device::gpportal"
+msgid "Even now all the royal guards are fighting and dying to the monsters."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("We must save the princess no matter how much fear grips our hearts!");
+msgctxt "Interdimensional Device::gpportal"
+msgid "We must save the princess no matter how much fear grips our hearts!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("^FF0000Inside the device you see a dark hole. If you wish to enter you may wish to talk to the Unpleasant Royal Guard first.^000000");
+msgctxt "Interdimensional Device::gpportal"
+msgid "^FF0000Inside the device you see a dark hole. If you wish to enter you may wish to talk to the Unpleasant Royal Guard first.^000000"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mapannounce("dali", sprintf(_$("%s of the party, %s, is entering the Ghost Palace."), strcharinfo(PC_NAME), getpartyname(getcharid(CHAR_ID_PARTY))), bc_map, C_SPRINGGREEN);
+#, c-format
+msgctxt "Interdimensional Device::gpportal"
+msgid "%s of the party, %s, is entering the Ghost Palace."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[King]");
+msgctxt "King#gp1"
+msgid "[King]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You are hereby appointed as the personal guard to Princess Tiara. I trust your loyalty above all else.");
+msgctxt "King#gp1"
+msgid "You are hereby appointed as the personal guard to Princess Tiara. I trust your loyalty above all else."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Lurid Royal Guard]");
+msgctxt "King#gp1"
+msgid "[Lurid Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I will protect the Princess with my life.");
+msgctxt "King#gp1"
+msgid "I will protect the Princess with my life."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("The marriage arrangements are going as planned. The prince is here to meet the princess.");
+msgctxt "King#gp1"
+msgid "The marriage arrangements are going as planned. The prince is here to meet the princess."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("...Yes, your majesty.");
+msgctxt "King#gp1"
+msgid "...Yes, your majesty."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("My gods, there are monsters in the castle! Get rid of them now!");
+msgctxt "King#gp1"
+msgid "My gods, there are monsters in the castle! Get rid of them now!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# areamonster(.@map$, 182, 190, 214, 214, _("Cursed Sentinel"), CURSED_SENTINEL, 2, instance_npcname("#gp1control")+"::OnMyMobDead");
+msgctxt "#gp1control"
+msgid "Cursed Sentinel"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# areamonster(.@map$, 182, 190, 214, 214, _("Cursed Solider"), CURSED_SOLDIER, 2, instance_npcname("#gp1control")+"::OnMyMobDead");
+msgctxt "#gp1control"
+msgid "Cursed Solider"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mapannounce(instance_mapname("1@spa"), _("The passage on 2nd floor in the palace of the ghost is open."), bc_map, C_YELLOW);
+msgctxt "#gp1control"
+msgid "The passage on 2nd floor in the palace of the ghost is open."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Lurid Royal Guard]");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "[Lurid Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Your Highness, the King has invited a prince from a neighboring country to be your betrothed. Be ready to meet him...");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "Your Highness, the King has invited a prince from a neighboring country to be your betrothed. Be ready to meet him..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Princess Tiara]");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "[Princess Tiara]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("If...if a marriage is arranged what should I do ?");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "If...if a marriage is arranged what should I do ?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("The only thing I can do is protect you from physical harm.");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "The only thing I can do is protect you from physical harm."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Then, what can I do?");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "Then, what can I do?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("......");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "......"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You must decide that for yourself your highness...");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "You must decide that for yourself your highness..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Would it be easier for you if I were married and sent off to another country?");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "Would it be easier for you if I were married and sent off to another country?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I will alway stand by you and protect you forever.");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "I will alway stand by you and protect you forever."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Monsters in the castle? Protect me!");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "Monsters in the castle? Protect me!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Step back, Let's go!");
+msgctxt "Lurid Royal Guard#gp2"
+msgid "Step back, Let's go!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# areamonster(.@map$, 143, 96, 94, 143, _("Broken Mind"), BROKEN_MIND, 3, instance_npcname("#gp2control")+"::OnMyMobDead");
+msgctxt "#gp2control"
+msgid "Broken Mind"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# areamonster(.@map$, 143, 96, 94, 143, _("Floating Word"), FLOATING_WORD, 4, instance_npcname("#gp2control")+"::OnMyMobDead");
+msgctxt "#gp2control"
+msgid "Floating Word"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# areamonster(.@map$, 143, 96, 94, 143, _("Like Love"), LIKE_LOVE, 3, instance_npcname("#gp2control")+"::OnMyMobDead");
+msgctxt "#gp2control"
+msgid "Like Love"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mapannounce(instance_mapname("1@spa"), _("The passage on the 3rd floor of the palace is open."), bc_map, C_YELLOW);
+msgctxt "#gp2control"
+msgid "The passage on the 3rd floor of the palace is open."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[King]");
+msgctxt "King#gp3"
+msgid "[King]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("It was you who brought the monsters here, you want to get rid of me and have the princess for yourself?");
+msgctxt "King#gp3"
+msgid "It was you who brought the monsters here, you want to get rid of me and have the princess for yourself?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Lurid Royal Guard]");
+msgctxt "King#gp3"
+msgid "[Lurid Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("It's a trap, you should trust me, your majesty!");
+msgctxt "King#gp3"
+msgid "It's a trap, you should trust me, your majesty!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Shut up! You're betrayed me ! I trusted you... you must pay for your disgrace.");
+msgctxt "King#gp3"
+msgid "Shut up! You're betrayed me ! I trusted you... you must pay for your disgrace."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You will suffer for the rest of your life.");
+msgctxt "King#gp3"
+msgid "You will suffer for the rest of your life."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("It is time to leave Palace of the ghost.\r"
+msgctxt "#gp3warp"
+msgid "It is time to leave Palace of the ghost.\rEverything is completed.\rEverything will be vanished..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("Oh, faithful royal guard, you are trapped."));
+msgctxt "Ominous Voice#gp3"
+msgid "Oh, faithful royal guard, you are trapped."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("The conspiracy in the palace has your princess in grave danger..."));
+msgctxt "Ominous Voice#gp3"
+msgid "The conspiracy in the palace has your princess in grave danger..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("Who are you? Show yourself!"), instance_npcname("Lurid Royal Guard#gp3"));
+msgctxt "Ominous Voice#gp3"
+msgid "Who are you? Show yourself!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("Ah... so you do hear me?"));
+msgctxt "Ominous Voice#gp3"
+msgid "Ah... so you do hear me?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("...?"), instance_npcname("Lurid Royal Guard#gp3"));
+msgctxt "Ominous Voice#gp3"
+msgid "...?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("I...I..."), instance_npcname("Lurid Royal Guard#gp3"));
+msgctxt "Ominous Voice#gp3"
+msgid "I...I..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("Kukuku... What do you want boy?"));
+msgctxt "Ominous Voice#gp3"
+msgid "Kukuku... What do you want boy?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# 'talkid[0] = areamonster(.@map$, 61, 63, 24, 24, _("Cursed Memory"), CURSED_MEMORY, 2 + 'gp3, instance_npcname("#gp3control")+"::OnMyMobDead");
+msgctxt "#gp3control"
+msgid "Cursed Memory"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# 'talkid[1] = areamonster(.@map$, 61, 63, 24, 24, _("Colorless Vow"), COLORLESS_VOW, 3 + 'gp3, instance_npcname("#gp3control")+"::OnMyMobDead");
+msgctxt "#gp3control"
+msgid "Colorless Vow"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# 'talkid[2] = areamonster(.@map$, 61, 63, 24, 24, _("Old Friendship"), OLD_FRIENDSHIP, 2 + 'gp3, instance_npcname("#gp3control")+"::OnMyMobDead");
+msgctxt "#gp3control"
+msgid "Old Friendship"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# unittalk('talkid[0], _("Faithful Guards"));
+msgctxt "#gp3control"
+msgid "Faithful Guards"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# unittalk('talkid[1], _("Run!"));
+msgctxt "#gp3control"
+msgid "Run!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# unittalk('talkid[2], _("Being framed..."));
+msgctxt "#gp3control"
+msgid "Being framed..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mapannounce(instance_mapname("1@spa"), _("The passage on the 4rd floor of the palace is open."), bc_map, C_YELLOW);
+msgctxt "#gp3control"
+msgid "The passage on the 4rd floor of the palace is open."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Lurid Royal Guard]");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "[Lurid Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Where is Princess Tiara?");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "Where is Princess Tiara?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Visiting Prince]");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "[Visiting Prince]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You are too late... but you brought what I was looking for. Thanks for your help.");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "You are too late... but you brought what I was looking for. Thanks for your help."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Cursed Thanatos Magic Trace! Are you ready to have a new master?");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "Cursed Thanatos Magic Trace! Are you ready to have a new master?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Thanatos Magic Trace]");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "[Thanatos Magic Trace]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("How dare you!");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "How dare you!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Aah, aah!!!");
+msgctxt "Lurid Royal Guard#gp4"
+msgid "Aah, aah!!!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# areamonster(.@map$, 182, 217, 214, 188, _("Cursed Sentinel"), CURSED_SENTINEL, rand(2, 3), instance_npcname("#gp4control")+"::OnMyMobDead");
+msgctxt "#gp4control"
+msgid "Cursed Sentinel"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# areamonster(.@map$, 182, 217, 214, 188, _("Sweet Slaughter"), SWEET_SLAUGHTER, rand(2, 3), instance_npcname("#gp4control")+"::OnMyMobDead");
+msgctxt "#gp4control"
+msgid "Sweet Slaughter"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# monster(instance_mapname("1@spa"), 197, 218, _("Torturous Redeemer"), TORTUROUS_REDEEMER, 1, instance_npcname("#gp4control")+"::OnBossDead");
+msgctxt "#gp4control"
+msgid "Torturous Redeemer"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mapannounce(instance_mapname("1@spa"), _("The passage on the 5th floor of the palace is open."), bc_map, C_YELLOW);
+msgctxt "#gp4control"
+msgid "The passage on the 5th floor of the palace is open."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Princess Tiara]");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "[Princess Tiara]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You kept your promise.");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "You kept your promise."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Lurid Royal Guard]");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "[Lurid Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("princess!");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "princess!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("princess"), instance_npcname("Lurid Royal Guard#gp5"));
+msgctxt "Lurid Royal Guard#gp5"
+msgid "princess"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Thank you..now I can rest at beside you...");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "Thank you..now I can rest at beside you..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("No..NO!!!!!!");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "No..NO!!!!!!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[The Voice of Princess Tiara]");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "[The Voice of Princess Tiara]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I want to be with you forever in peace...forever...");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "I want to be with you forever in peace...forever..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("no.....Ahh ahh ahh!!!~!");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "no.....Ahh ahh ahh!!!~!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I love you...");
+msgctxt "Lurid Royal Guard#gp5"
+msgid "I love you..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Lurid Royal Guard]");
+msgctxt "Sakray#gp5"
+msgid "[Lurid Royal Guard]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Are you satisfied..? Thanatos Magic Trace?");
+msgctxt "Sakray#gp5"
+msgid "Are you satisfied..? Thanatos Magic Trace?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Thanatos Magic Trace]");
+msgctxt "Sakray#gp5"
+msgid "[Thanatos Magic Trace]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I need more blood..Sakray, offer me his blood.");
+msgctxt "Sakray#gp5"
+msgid "I need more blood..Sakray, offer me his blood."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[Sakray]");
+msgctxt "Sakray#gp5"
+msgid "[Sakray]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Okay, that is good. A traveler.\r"
+msgctxt "Sakray#gp5"
+msgid "Okay, that is good. A traveler.\rDid you see?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("Okay, that is good. A traveler. Did you see?"), instance_npcname("Sakray#gp5"));
+msgctxt "Sakray#gp5"
+msgid "Okay, that is good. A traveler. Did you see?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("[%s]", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Sakray#gp5"
+msgid "[%s]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Sakray, What do you want sympathy? Or is it a trap?");
+msgctxt "Sakray#gp5"
+msgid "Sakray, What do you want sympathy? Or is it a trap?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Non...I did not need to make an effort to catch a novice.");
+msgctxt "Sakray#gp5"
+msgid "Non...I did not need to make an effort to catch a novice."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("If so... then why...?");
+msgctxt "Sakray#gp5"
+msgid "If so... then why...?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I wanted to get rid of a piece of humanity inside of me through you.");
+msgctxt "Sakray#gp5"
+msgid "I wanted to get rid of a piece of humanity inside of me through you."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I am quite satisfied with the result.");
+msgctxt "Sakray#gp5"
+msgid "I am quite satisfied with the result."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Sakray, offer the blood to me now!");
+msgctxt "Sakray#gp5"
+msgid "Sakray, offer the blood to me now!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("If you were me, what would you do?");
+msgctxt "Sakray#gp5"
+msgid "If you were me, what would you do?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Can you set yourself free from this curse?");
+msgctxt "Sakray#gp5"
+msgid "Can you set yourself free from this curse?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("...");
+msgctxt "Sakray#gp5"
+msgid "..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Heh heh... I will keep watching you until the day you grow up enough.");
+msgctxt "Sakray#gp5"
+msgid "Heh heh... I will keep watching you until the day you grow up enough."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I am willing to hunt you later for Thanatos.");
+msgctxt "Sakray#gp5"
+msgid "I am willing to hunt you later for Thanatos."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Farewell then.");
+msgctxt "Sakray#gp5"
+msgid "Farewell then."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# 'talkid[0] = areamonster(.@map$, 61, 63, 24, 24, _("Forgotten Name"), FORGOTTEN_NAME, rand(1, 2), instance_npcname("#gp5control")+"::OnMyMobDead");
+msgctxt "#gp5control"
+msgid "Forgotten Name"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# 'talkid[1] = areamonster(.@map$, 61, 63, 24, 24, _("Colorless Vow"), COLORLESS_VOW, 2, instance_npcname("#gp5control")+"::OnMyMobDead");
+msgctxt "#gp5control"
+msgid "Colorless Vow"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# 'talkid[2] = areamonster(.@map$, 61, 63, 24, 24, _("Sweet Slaughter"), SWEET_SLAUGHTER, rand(1, 2), instance_npcname("#gp5control")+"::OnMyMobDead");
+msgctxt "#gp5control"
+msgid "Sweet Slaughter"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# unittalk('talkid[0], _("What is this..??"));
+msgctxt "#gp5control"
+msgid "What is this..??"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# unittalk('talkid[1], _("Wake up! look at us... We are monsters?"));
+msgctxt "#gp5control"
+msgid "Wake up! look at us... We are monsters?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# unittalk('talkid[2], _("Sakray killed the princess!"));
+msgctxt "#gp5control"
+msgid "Sakray killed the princess!"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# 'BossID = monster(instance_mapname("1@spa"), 44, 47, _("Torturous Redeemer"), E_TORTUROUS_REDEEMER, 1, instance_npcname("#gp5control")+"::OnBossDead");
+msgctxt "#gp5control"
+msgid "Torturous Redeemer"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# unittalk('BossID, _("Thanatos Magic Trace! I will destroy you if I can't have you... Oh no! How could this be?"));
+msgctxt "#gp5control"
+msgid "Thanatos Magic Trace! I will destroy you if I can't have you... Oh no! How could this be?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("What can I do for you?"), instance_npcname("Voice of Princess Tiara"));
+msgctxt "#gp5control"
+msgid "What can I do for you?"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("I will always stand by you. Please reset beside me."), instance_npcname("Voice of Sakray"));
+msgctxt "#gp5control"
+msgid "I will always stand by you. Please reset beside me."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("Your soul is mine until you find the blood that satisfies me.."), instance_npcname("Thanatos Magic Trace"));
+msgctxt "#gp5control"
+msgid "Your soul is mine until you find the blood that satisfies me.."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("Reset in the shadow with me."), instance_npcname("Voice of Sakray"));
+msgctxt "#gp5control"
+msgid "Reset in the shadow with me."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# npctalk(_("In the dark forever..."), instance_npcname("Voice of Sakray"));
+msgctxt "#gp5control"
+msgid "In the dark forever..."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mapannounce(instance_mapname("1@spa"), _("It is time to leave the Ghost Palace."), bc_map, C_YELLOW);
+msgctxt "#gp5control"
+msgid "It is time to leave the Ghost Palace."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("[King]");
+msgctxt "King#gpend"
+msgid "[King]"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Hey there, are you alive?\r"
+msgctxt "King#gpend"
+msgid "Hey there, are you alive?\rI did not expect to meet someone alive"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Do you possibly have ^009900Gray Piece^000000?\r"
+msgctxt "King#gpend"
+msgid "Do you possibly have ^009900Gray Piece^000000?\rCan you give it to me?\rThe old memory of faithful royal guard,\rthe memory of everyone he loved becomes broken pieces and are contained inside of them."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Will you give ^009900Gray Piece^000000 to me?\r"
+msgctxt "King#gpend"
+msgid "Will you give ^009900Gray Piece^000000 to me?\rThe guilt is eating my soul.\rMy soul is stuck in ghost palace."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("I am collecting Sakray's abandoned memories from these shards.");
+msgctxt "King#gpend"
+msgid "I am collecting Sakray's abandoned memories from these shards."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("If you give any Gray Shards to me, I can make equipment for you.");
+msgctxt "King#gpend"
+msgid "If you give any Gray Shards to me, I can make equipment for you."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("The cursed knight...\r"
+msgctxt "King#gpend"
+msgid "The cursed knight...\rPlease help me save the soul of Sakray."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# .@choice = select(.@menulist$, "Cancel") - 1;
+msgctxt "King#gpend"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Someday, Sakray will get out of his curse for sure.\r"
+msgctxt "King#gpend"
+msgid "Someday, Sakray will get out of his curse for sure.\rI believe collecting Gray Shards is the only method to save him."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("to make a ^FF0000%s^000000 \r"
+#, c-format
+msgctxt "King#gpend"
+msgid "to make a ^FF0000%s^000000 \rI need %d ^009900Gray Shard^000000"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# switch (select("Cancel", sprintf(_$("hand over %d Gray Shard."), .@cost[.@choice]))) {
+#, c-format
+msgctxt "King#gpend"
+msgid "hand over %d Gray Shard."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("Someday, Sakray will get out of curse for sure. I believe");
+msgctxt "King#gpend"
+msgid "Someday, Sakray will get out of curse for sure. I believe"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You don't have enough Gray Shards.");
+msgctxt "King#gpend"
+msgid "You don't have enough Gray Shards."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("I need %d Gray Shards to make a ^FF0000%s.^000000", .@cost[.@choice], getitemname(.@items_list[.@choice]));
+#, c-format
+msgctxt "King#gpend"
+msgid "I need %d Gray Shards to make a ^FF0000%s.^000000"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("I will make a ^FF0000%s^000000 \r"
+#, c-format
+msgctxt "King#gpend"
+msgid "I will make a ^FF0000%s^000000 \rwith %d ^009900Gray Shard^000000"
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("You see a light through the folded hands of the king and it gradually takes on a shape.");
+msgctxt "King#gpend"
+msgid "You see a light through the folded hands of the king and it gradually takes on a shape."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mesf("All right, it is done.\r"
+#, c-format
+msgctxt "King#gpend"
+msgid "All right, it is done.\rTake this ^FF0000%s.^000000\rUse it to confront Sakray and Thanatos."
+msgstr ""
+
+#: npc/re/instances/ghost_palace.txt
+# mes("The power requires a sacrifice.\r"
+msgctxt "King#gpend"
+msgid "The power requires a sacrifice.\rPlease be careful..."
+msgstr ""

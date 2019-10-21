@@ -1,0 +1,236 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_juno.txt
+# mes "[Juno Guide]";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[Juno Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "A place that takes the vision of the future, and gives it form in the present. Welcome to";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "A place that takes the vision of the future, and gives it form in the present. Welcome to"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "the city of ^8B4513Juno^000000!";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "the city of ^8B4513Juno^000000!"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove marks from Mini-Map", "Cancel")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove marks from Mini-Map", "Cancel")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove marks from Mini-Map", "Cancel")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Remove marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove marks from Mini-Map", "Cancel")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Forge ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Airport ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Government Building ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Street of Book Stores ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Inn & Pub ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Sage Castle ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Monster Academy ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Library of the Republic ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Weapon & Armor Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Juphero Plaza ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Monster Museum ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Schweicherbil Magic Academy ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Tool Shop ]", "[ Forge ]", "[ Airport ]", "[ Government Building ]", "[ Street of Book Stores ]", "[ Inn & Pub ]", "[ Sage Castle ]", "[ Monster Academy ]", "[ Library of the Republic ]", "[ Weapon & Armor Shop ]", "[ Juphero Plaza ]", "[ Monster Museum ]", "[ Schweicherbil Magic Academy ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Previous Menu"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "I will mark the location of the";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "I will mark the location of the"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes F_Navi("Schweicherbil Magic Academy","yuno,323,280","^CD1039");
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Schweicherbil Magic Academy"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes F_Navi("Schweicherbil Magic Academy","yuno,323,280","^CD1039");
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "yuno,323,280"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes F_Navi("Schweicherbil Magic Academy","yuno,323,280","^CD1039");
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "^CD1039"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "on your mini-map.";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "Would you like to check any other locations?";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Kafra Employees ]", "[ Eden Teleport Officer ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Kafra Employees ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# switch(select("[ Kafra Employees ]", "[ Eden Teleport Officer ]", "Previous Menu")) {
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "Is there anything else I can do for you?";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "Have fun on your adventures!";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "Have fun on your adventures!"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "I will mark the location";
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "I will mark the location"
+msgstr ""
+
+#: npc/re/guides/guides_juno.txt
+# mes "of the "+getarg(0);
+msgctxt "Juno Guide#yuno01::GuideJuno"
+msgid "of the "
+msgstr ""

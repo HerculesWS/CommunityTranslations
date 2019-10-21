@@ -1,0 +1,1228 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Leon the Adventurer]");
+msgctxt "Leon the Adventurer#Sara"
+msgid "[Leon the Adventurer]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You know... this place doesn't seem to be safe for you. Please return to me once you have achieved LV. 99");
+msgctxt "Leon the Adventurer#Sara"
+msgid "You know... this place doesn't seem to be safe for you. Please return to me once you have achieved LV. 99"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Wow! I thought I was the only one who knew about this place.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "Wow! I thought I was the only one who knew about this place."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Excuse my rudeness! I am Pon de Leon, the famous adventurer!");
+msgctxt "Leon the Adventurer#Sara"
+msgid "Excuse my rudeness! I am Pon de Leon, the famous adventurer!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("My friend calls me Leon the Lion! For my tough appearance and attitude. Plus I have quite a bite!");
+msgctxt "Leon the Adventurer#Sara"
+msgid "My friend calls me Leon the Lion! For my tough appearance and attitude. Plus I have quite a bite!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You know, this is such a strange location...");
+msgctxt "Leon the Adventurer#Sara"
+msgid "You know, this is such a strange location..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("As you explore it you start to see cracks in space and time. Each one covered by a dimensional device.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "As you explore it you start to see cracks in space and time. Each one covered by a dimensional device."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("For example, I think I have caught glimpses of Payon through the dimensional device closest to us.\r"
+msgctxt "Leon the Adventurer#Sara"
+msgid "For example, I think I have caught glimpses of Payon through the dimensional device closest to us.\rBut it doesn't seem right. Almost like it is a little bit older then it should be."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I want to explore it, but with my old age and my knees I don't seem to be quite up to the task.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "I want to explore it, but with my old age and my knees I don't seem to be quite up to the task."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("So, I would like to ask something of you.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "So, I would like to ask something of you."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Please venture through the dimensional device and report to me what you find within.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "Please venture through the dimensional device and report to me what you find within."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Though, I should warn you. It might be unstable. Make sure you enter the first chance you get.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "Though, I should warn you. It might be unstable. Make sure you enter the first chance you get."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You wish to relive the past again?");
+msgctxt "Leon the Adventurer#Sara"
+msgid "You wish to relive the past again?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# if (select("Yes", "No") == 2)
+msgctxt "Leon the Adventurer#Sara"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# if (select("Yes", "No") == 2)
+msgctxt "Leon the Adventurer#Sara"
+msgid "No"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I am not sure you have fully explored the crack in space and time yet. Perhaps you should look a bit further into it.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "I am not sure you have fully explored the crack in space and time yet. Perhaps you should look a bit further into it."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# switch (select("Okay", "Give up")) {
+msgctxt "Leon the Adventurer#Sara"
+msgid "Okay"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# switch (select("Okay", "Give up")) {
+msgctxt "Leon the Adventurer#Sara"
+msgid "Give up"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I am glad to hear that! Maybe someday you can be as brave as old Leon the Lion!");
+msgctxt "Leon the Adventurer#Sara"
+msgid "I am glad to hear that! Maybe	someday you can be as brave as old Leon the Lion!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Well.. I can't force you. Buf if you ever find your courage pelase talk to me again.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "Well.. I can't force you. Buf if you ever find your courage pelase talk to me again."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("What did you see in there?!");
+msgctxt "Leon the Adventurer#Sara"
+msgid "What did you see in there?!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Hrumpf, Sara Irene?! She's one of the 12 Valkyries. I didn't know her story was that tragic....");
+msgctxt "Leon the Adventurer#Sara"
+msgid "Hrumpf, Sara Irene?! She's one of the 12 Valkyries. I didn't know her story was that tragic...."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("It seems that you caused a huge misunderstanding between her and her father.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "It seems that you caused a huge misunderstanding between her and her father."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I would not blame yourself for what occured. Or all the blood that was spilled. It seems that the\r"
+msgctxt "Leon the Adventurer#Sara"
+msgid "I would not blame yourself for what occured. Or all the blood that was spilled. It seems that the\revents that day were fated to happen no matter who was there."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Please don't tell anyone about your time traveling adventure. We can't have anyone thinking you more\r"
+msgctxt "Leon the Adventurer#Sara"
+msgid "Please don't tell anyone about your time traveling adventure. We can't have anyone thinking you more\rimportant then old Leon. Plus they wouldn't believe such a story anyways."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I think that in about 20 hours after you last entered the rift will stable enough for you to transverse it again.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "I think that in about 20 hours after you last entered the rift will stable enough for you to transverse it again."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("What did you see in there?! Was there anything new?");
+msgctxt "Leon the Adventurer#Sara"
+msgid "What did you see in there?! Was there anything new?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# select("Nothing has changed from the last time.");
+msgctxt "Leon the Adventurer#Sara"
+msgid "Nothing has changed from the last time."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I am sorry to hear that... If...");
+msgctxt "Leon the Adventurer#Sara"
+msgid "I am sorry to hear that... If..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("If you want to try again. I think that in about 20 hours after you last entered the rift will be stable enough\r"
+msgctxt "Leon the Adventurer#Sara"
+msgid "If you want to try again. I think that in about 20 hours after you last entered the rift will be stable enough\rfor you to transverse it again."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You should rest up. Travelling Through time would make even Leon tired!");
+msgctxt "Leon the Adventurer#Sara"
+msgid "You should rest up. Travelling Through time would make even Leon tired!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Leon the Adventurer]");
+msgctxt "Dimensional Device#dimen"
+msgid "[Leon the Adventurer]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Before you go playing around with that. Why don't you come over here and talk to me?");
+msgctxt "Dimensional Device#dimen"
+msgid "Before you go playing around with that. Why don't you come over here and talk to me?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I think that in about 20 hours after you last entered the rift will stable enough for you to\r"
+msgctxt "Dimensional Device#dimen"
+msgid "I think that in about 20 hours after you last entered the rift will stable enough for you to\rtransverse it again."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# .@md_name$ = _("Sara's Memory");
+msgctxt "Dimensional Device#dimen"
+msgid "Sara's Memory"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Before you enter you need to organize a party! Don't know how? Type /organize PARTYNAMEHERE. You\r"
+msgctxt "Dimensional Device#dimen"
+msgid "Before you enter you need to organize a party! Don't know how? Type /organize PARTYNAMEHERE. You\rcan use quotes to put spaces in a party name."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# .@menu1$ = _("Boot up the dimensional device");
+msgctxt "Dimensional Device#dimen"
+msgid "Boot up the dimensional device"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# switch (select(.@menu1$, "Use the dimensional device", "Cancel")) {
+msgctxt "Dimensional Device#dimen"
+msgid "Use the dimensional device"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# switch (select(.@menu1$, "Use the dimensional device", "Cancel")) {
+msgctxt "Dimensional Device#dimen"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mesf("Party Name: %s", .@p_name$);
+#, c-format
+msgctxt "Dimensional Device#dimen"
+msgid "Party Name: %s"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mesf("Party Leader: %s", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Dimensional Device#dimen"
+msgid "Party Leader: %s"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mesf("^0000FF%s^000000 - Reservation Failed!", .@md_name$);
+#, c-format
+msgctxt "Dimensional Device#dimen"
+msgid "^0000FF%s^000000 - Reservation Failed!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000The dimensional boots up cleanly. Use the device to enter the crack in space and time.^000000");
+msgctxt "Dimensional Device#dimen"
+msgid "^FF0000The dimensional boots up cleanly. Use the device to enter the crack in space and time.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mesf("The memorial dungeon ^0000FF%s^000000 does not exist.\r"
+#, c-format
+msgctxt "Dimensional Device#dimen"
+msgid "The memorial dungeon ^0000FF%s^000000 does not exist.\rThe party leader did not generate the dungeon yet."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce("dali", sprintf(_$("%s, member of the party %s entered the instance %s."), strcharinfo(PC_NAME), .@p_name$, .@md_name$), bc_map, C_SPRINGGREEN);
+#, c-format
+msgctxt "Dimensional Device#dimen"
+msgid "%s, member of the party %s entered the instance %s."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mesf("[%s]", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "A girl#sarains"
+msgid "[%s]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Where am I?");
+msgctxt "A girl#sarains"
+msgid "Where am I?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[A girl]");
+msgctxt "A girl#sarains"
+msgid "[A girl]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Hello! This is the village of Payon. You don't seem to be from around here...");
+msgctxt "A girl#sarains"
+msgid "Hello! This is the village of Payon. You don't seem to be from around here..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("A girl : Hello! This is the village of Payon. You don't seem to be from around here..."));
+msgctxt "A girl#sarains"
+msgid "A girl : Hello! This is the village of Payon. You don't seem to be from around here..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Are you from here? You don't seem to quite match the locals either.");
+msgctxt "A girl#sarains"
+msgid "Are you from here? You don't seem to quite match the locals either."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# unittalk(getcharid(CHAR_ID_ACCOUNT), _("Are you from here? You don't seem to quite match to locals either."));
+msgctxt "A girl#sarains"
+msgid "Are you from here? You don't seem to quite match to locals either."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Yes! I was born here! My name is Sara. Sara Irene!");
+msgctxt "A girl#sarains"
+msgid "Yes! I was born here! My name is Sara. Sara Irene!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("A girl : Yes! I was born here! My name is Sara. Sara Irene!"));
+msgctxt "A girl#sarains"
+msgid "A girl : Yes! I was born here! My name is Sara. Sara Irene!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Sara Irene]");
+msgctxt "A girl#sarains"
+msgid "[Sara Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("My father is doyen of this village! I just take after my mother.");
+msgctxt "A girl#sarains"
+msgid "My father is doyen of this village! I just take after my mother."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Oh! I am sorry! Uh... Why are you standing out here all alone?");
+msgctxt "A girl#sarains"
+msgid "Oh! I am sorry! Uh... Why are you standing out here all alone?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I am waiting for my father. He said that he will be here soon.");
+msgctxt "A girl#sarains"
+msgid "I am waiting for my father. He said that he will be here soon."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000An older man exits the house. Sara's face brightens at the sight of him.^000000");
+msgctxt "A girl#sarains"
+msgid "^FF0000An older man exits the house. Sara's face brightens at the sight of him.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Hi daddy!");
+msgctxt "A girl#sarains"
+msgid "Hi daddy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Doyen Irene]");
+msgctxt "A girl#sarains"
+msgid "[Doyen Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Sweetheart you look so happy.");
+msgctxt "A girl#sarains"
+msgid "Sweetheart you look so happy."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You said you would come back soon! I waited for you and you lied!");
+msgctxt "A girl#sarains"
+msgid "You said you would come back soon! I waited for you and you lied!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Sweetheart, I am sorry I made you wait so long. The meeting with the village elders took longer than expected.");
+msgctxt "A girl#sarains"
+msgid "Sweetheart, I am sorry I made you wait so long. The meeting with the village elders took longer than expected."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I hate those old fogeys.");
+msgctxt "A girl#sarains"
+msgid "I hate those old fogeys."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Don't say that sweetheart... Who is this with you?");
+msgctxt "A girl#sarains"
+msgid "Don't say that sweetheart... Who is this with you?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000Doyen Irene stares at you with fire in this eyes.^000000");
+msgctxt "A girl#sarains"
+msgid "^FF0000Doyen Irene stares at you with fire in this eyes.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("Doyen Irene stares at you with fire in this eyes."));
+msgctxt "A girl#sarains"
+msgid "Doyen Irene stares at you with fire in this eyes."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000Sara starts humming and singing softly to herself. She picks some wild flowers near by and presents\r"
+msgctxt "A girl#sarains"
+msgid "^FF0000Sara starts humming and singing softly to herself. She picks some wild flowers near by and presents\rthem to the Doyen.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("Sara starts humming and singing softly to herself. She picks some wild flowers near by and presents them to the Doyen."));
+msgctxt "A girl#sarains"
+msgid "Sara starts humming and singing softly to herself. She picks some wild flowers near by and presents them to the Doyen."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Here you go daddy!");
+msgctxt "A girl#sarains"
+msgid "Here you go daddy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Oh Sara, should I have them?");
+msgctxt "A girl#sarains"
+msgid "Oh Sara, should I have them?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Of course silly daddy!");
+msgctxt "A girl#sarains"
+msgid "Of course silly daddy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000After being given the flowers the Doyen's mood seems to greatly improve.^000000");
+msgctxt "A girl#sarains"
+msgid "^FF0000After being given the flowers the Doyen's mood seems to greatly improve.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("After being given the flowers the Doyen's mood seems to greatly improve."));
+msgctxt "A girl#sarains"
+msgid "After being given the flowers the Doyen's mood seems to greatly improve."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Alright my princess, where should we go now?");
+msgctxt "A girl#sarains"
+msgid "Alright my princess, where should we go now?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Oh daddy! Let's go to the top of that hill over there!");
+msgctxt "A girl#sarains"
+msgid "Oh daddy! Let's go to the top of that hill over there!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Hah! Hold onto me tight!");
+msgctxt "A girl#sarains"
+msgid "Hah! Hold onto me tight!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000As they wander off you hear strange voices from around the corner...^000000");
+msgctxt "A girl#sarains"
+msgid "^FF0000As they wander off you hear strange voices from around the corner...^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("As they wander off you hear strange voices from around the corner..."), "");
+msgctxt "A girl#sarains"
+msgid "As they wander off you hear strange voices from around the corner..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Strange Old Man A]");
+msgctxt "A girl#sarains"
+msgid "[Strange Old Man A]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I can feel Sara's power growing. We cannot just stand by and let her achieve her full potential!");
+msgctxt "A girl#sarains"
+msgid "I can feel Sara's power growing. We cannot just stand by and let her achieve her full potential!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Strange Old Man B]");
+msgctxt "A girl#sarains"
+msgid "[Strange Old Man B]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("She was born under a bad sign and her mother isn't even one of us!");
+msgctxt "A girl#sarains"
+msgid "She was born under a bad sign and her mother isn't even one of us!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Someday she will cause blood to flow in our streets.");
+msgctxt "A girl#sarains"
+msgid "Someday she will cause blood to flow in our streets."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("We have to do something before the Holy creatures select her. I asked HIM to take care of it.");
+msgctxt "A girl#sarains"
+msgid "We have to do something before the Holy creatures select her. I asked HIM to take care of it."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("We will see... I look forward to hearing the bad news that has befallen her...");
+msgctxt "A girl#sarains"
+msgid "We will see... I look forward to hearing the bad news that has befallen her..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000The old man wander off it seems Sara might be in danger. We have to do something!^000000");
+msgctxt "A girl#sarains"
+msgid "^FF0000The old man wander off it seems Sara might be in danger. We have to do something!^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("The old man wander off it seems Sara might be in danger. We have to do something!"));
+msgctxt "A girl#sarains"
+msgid "The old man wander off it seems Sara might be in danger. We have to do something!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Sara Irene]");
+msgctxt "Sara Irene#sarains1"
+msgid "[Sara Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Oh! Hello again! I remember you, what's up?");
+msgctxt "Sara Irene#sarains1"
+msgid "Oh! Hello again! I remember you, what's up?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I am here to give flowers to my mommy!");
+msgctxt "Sara Irene#sarains1"
+msgid "I am here to give flowers to my mommy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000Sara leaps forward to open the door, flowers at the ready.^000000");
+msgctxt "Sara Irene#sarains1"
+msgid "^FF0000Sara leaps forward to open the door, flowers at the ready.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("Sara leaps forward to open the door, flowers at the ready."));
+msgctxt "Sara Irene#sarains1"
+msgid "Sara leaps forward to open the door, flowers at the ready."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Mom! Dad! Look what I found!");
+msgctxt "Sara Irene#sarains1"
+msgid "Mom! Dad! Look what I found!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000The door opens to reveal a woman laying dead on the floor and the\r"
+msgctxt "Sara Irene#sarains1"
+msgid "^FF0000The door opens to reveal a woman laying dead on the floor and the\rDoyen standing over the woman with a bloody sword.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("The door opens to reveal a woman laying dead on the floor and the Doyen standing over the woman with a bloody sword."));
+msgctxt "Sara Irene#sarains1"
+msgid "The door opens to reveal a woman laying dead on the floor and the Doyen standing over the woman with a bloody sword."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("...");
+msgctxt "Sara Irene#sarains1"
+msgid "..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("[Sara's Mother] : Sara...Ru-..away..."), bc_map, C_YELLOW);
+msgctxt "Sara Irene#sarains1"
+msgid "[Sara's Mother] :  Sara...Ru-..away..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000A gem rolls from the womans hand and comes to a rest in front of\r"
+msgctxt "Sara Irene#sarains1"
+msgid "^FF0000A gem rolls from the womans hand and comes to a rest in front of\rSara. Unconsciously Sara reaches down and picks up the gem.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("A gem rolls from the womans hand and comes to a rest in front of Sara. Unconsciously Sara reaches down and picks up the gem."));
+msgctxt "Sara Irene#sarains1"
+msgid "A gem rolls from the womans hand and comes to a rest in front of Sara. Unconsciously Sara reaches down and picks up the gem."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000The Doyen turns around and notices Sara.^000000");
+msgctxt "Sara Irene#sarains1"
+msgid "^FF0000The Doyen turns around and notices Sara.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("The Doyen turns around and notices Sara."));
+msgctxt "Sara Irene#sarains1"
+msgid "The Doyen turns around and notices Sara."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Doyen Irene]");
+msgctxt "Sara Irene#sarains1"
+msgid "[Doyen Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Ahh Sara! I was just looking for you...");
+msgctxt "Sara Irene#sarains1"
+msgid "Ahh Sara! I was just looking for you..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# select("Escape with Sara.");
+msgctxt "Sara Irene#sarains1"
+msgid "Escape with Sara."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Guards! GUARDS! There is a murderer here! Catch him!");
+msgctxt "Sara Irene#sarains1"
+msgid "Guards! GUARDS! There is a murderer here! Catch him!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000The sound of many pairs of boots can be heard running outside!^000000");
+msgctxt "Sara Irene#sarains1"
+msgid "^FF0000The sound of many pairs of boots can be heard running outside!^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("The sound of many pairs of boots can be heard running outside!"));
+msgctxt "Sara Irene#sarains1"
+msgid "The sound of many pairs of boots can be heard running outside!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Mommy no!!!!!!!!!!!!!!!");
+msgctxt "Sara Irene#sarains1"
+msgid "Mommy no!!!!!!!!!!!!!!!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000Sara runs aways and the sound of the guards is getting closer...^000000");
+msgctxt "Sara Irene#sarains1"
+msgid "^FF0000Sara runs aways and the sound of the guards is getting closer...^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("Sara runs aways and the sound of the guards is getting closer..."));
+msgctxt "Sara Irene#sarains1"
+msgid "Sara runs aways and the sound of the guards is getting closer..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> The guards must be defeated to gain access to the next area."), bc_map, C_YELLOW);
+msgctxt "#controlsara"
+msgid "<SYSTEM> The guards must be defeated to gain access to the next area."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> The guards have formed groups of their own to fight you!"), bc_map, C_YELLOW);
+msgctxt "#controlsara"
+msgid "<SYSTEM> The guards have formed groups of their own to fight you!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, .@x, .@y, _("Maggot"), MG_ARCLOUSE, .@mobs, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara"
+msgid "Maggot"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 107, 325, _("Payon Town Guard"), PAYONSOLDIER, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara"
+msgid "Payon Town Guard"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 121, 227, _("A Gentle Guard Dog"), GUARDDOG, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara"
+msgid "A Gentle Guard Dog"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> Sara ran away again! You think she went in the 2 O'clock direction!"), bc_map, C_YELLOW);
+msgctxt "#controlsara"
+msgid "<SYSTEM> Sara ran away again! You think she went in the 2 O'clock direction!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 228, 312, _("A Fierce Guard Dog"), GUARDDOG2, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara1"
+msgid "A Fierce Guard Dog"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 247, 290, _("Payon Town Guard"), PAYONSOLDIER2, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara1"
+msgid "Payon Town Guard"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> Sara ran away yet again! You think she went in the 5 O'clock direction!"), bc_map, C_YELLOW);
+msgctxt "#controlsara1"
+msgid "<SYSTEM> Sara ran away yet again! You think she went in the 5 O'clock direction!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 255, 91, _("A Gentle Guard Dog"), GUARDDOG, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara2"
+msgid "A Gentle Guard Dog"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 228, 65, _("Payon Town Guard"), PAYONSOLDIER, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara2"
+msgid "Payon Town Guard"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 198, 62, _("A Fierce Guard Dog"), GUARDDOG2, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara2"
+msgid "A Fierce Guard Dog"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> Sara ran away yet again! *sigh* You think she went in the 6 O'clock direction!"), bc_map, C_YELLOW);
+msgctxt "#controlsara2"
+msgid "<SYSTEM> Sara ran away yet again! *sigh* You think she went in the 6 O'clock direction!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# monster(.@map$, 155, 97, _("Payon Town Guard"), PAYONSOLDIER, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara3"
+msgid "Payon Town Guard"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> Sara ran away yet again! You think she went in the 12 O'clock direction!"), bc_map, C_YELLOW);
+msgctxt "#controlsara3"
+msgid "<SYSTEM> Sara ran away yet again! You think she went in the 12 O'clock direction!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Sara Irene]");
+msgctxt "Sara Irene#sarains2"
+msgid "[Sara Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Mommy!");
+msgctxt "Sara Irene#sarains2"
+msgid "Mommy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Doyen Irene]");
+msgctxt "Sara Irene#sarains2"
+msgid "[Doyen Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Sara...");
+msgctxt "Sara Irene#sarains2"
+msgid "Sara..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("No!");
+msgctxt "Sara Irene#sarains2"
+msgid "No!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I have been looking for you Sara. Please come with daddy it is very dangerous here!");
+msgctxt "Sara Irene#sarains2"
+msgid "I have been looking for you Sara. Please come with daddy it is very dangerous here!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mesf("[%s]", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Sara Irene#sarains2"
+msgid "[%s]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I won't let you take Sara!");
+msgctxt "Sara Irene#sarains2"
+msgid "I won't let you take Sara!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("The murderer is here! Guards! We will finish him once and for all!");
+msgctxt "Sara Irene#sarains2"
+msgid "The murderer is here! Guards! We will finish him once and for all!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Sara... run! Save yourself!");
+msgctxt "Sara Irene#sarains2"
+msgid "Sara... run! Save yourself!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("...okay.");
+msgctxt "Sara Irene#sarains2"
+msgid "...okay."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# .@mobid = monster(.@map$, 150, 232, _("Payon Town Guard"), PAYONSOLDIER2, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara4"
+msgid "Payon Town Guard"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# unittalk(.@mobid, _("I am getting too old for this sh-"));
+msgctxt "#controlsara4"
+msgid "I am getting too old for this sh-"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# unittalk(.@mobid, _("For Payon!!"));
+msgctxt "#controlsara4"
+msgid "For Payon!!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> Doyen Irene draws his blade!"), bc_map, C_YELLOW);
+msgctxt "#controlsara4"
+msgid "<SYSTEM> Doyen Irene draws his blade!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# .@mobid = monster(.@map$, 155, 226, _("Doyen Irene"), IRENE_ELDER, 1, instance_npcname(strnpcinfo(NPC_NAME))+"::OnMyMobDead");
+msgctxt "#controlsara5"
+msgid "Doyen Irene"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# unittalk(.@mobid, _("I will have revenge for Sara's Mom!"));
+msgctxt "#controlsara5"
+msgid "I will have revenge for Sara's Mom!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> Doyen Irene has fallen."), bc_map, C_YELLOW);
+msgctxt "#controlsara5"
+msgid "<SYSTEM> Doyen Irene has fallen."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Doyen Irene]");
+msgctxt "Doyen Irene#sarains3"
+msgid "[Doyen Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You... were too strong for me.");
+msgctxt "Doyen Irene#sarains3"
+msgid "You... were too strong for me."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Why.. *hack* are you trying to kill my wife and daughter?");
+msgctxt "Doyen Irene#sarains3"
+msgid "Why.. *hack* are you trying to kill my wife and daughter?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mesf("[%s]", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Doyen Irene#sarains3"
+msgid "[%s]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("What are you talking about? We saw you standing over Sara's mother with your sword COVERED in blood!");
+msgctxt "Doyen Irene#sarains3"
+msgid "What are you talking about? We saw you standing over Sara's mother with your sword COVERED in blood!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You.. think I killed Sara's mother?");
+msgctxt "Doyen Irene#sarains3"
+msgid "You.. think I killed Sara's mother?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("She *cough* had already been killed by an assassin. I slew him that *hack* is why my blade was covered in blood...");
+msgctxt "Doyen Irene#sarains3"
+msgid "She *cough* had already been killed by an assassin. I slew him that *hack* is why my blade was covered in blood..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000Thinking back you seem to recall another body laying in the left\r"
+msgctxt "Doyen Irene#sarains3"
+msgid "^FF0000Thinking back you seem to recall another body laying in the left\rcorner of the room. Maybe that was the assassin the Doyen is talking about.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("Thinking back you seem to recall another body laying in the left corner of the room. Maybe that was the assassin the Doyen is talking about."));
+msgctxt "Doyen Irene#sarains3"
+msgid "Thinking back you seem to recall another body laying in the left corner of the room. Maybe that was the assassin the Doyen is talking about."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("If.. you are not the assassin sent to kill my wife and daughter, who are you?");
+msgctxt "Doyen Irene#sarains3"
+msgid "If.. you are not the assassin sent to kill my wife and daughter, who are you?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("I am just an adventurer who was passing through. I heard some men plotting their deaths and needed to intervene.");
+msgctxt "Doyen Irene#sarains3"
+msgid "I am just an adventurer who was passing through. I heard some men plotting their deaths and needed to intervene."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("If.. you are telling the truth...\r"
+msgctxt "Doyen Irene#sarains3"
+msgid "If.. you are telling the truth...\rforgive me. I though you were one of them."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("If.. you are telling the truth... forgive me. I though you were one of them."));
+msgctxt "Doyen Irene#sarains3"
+msgid "If.. you are telling the truth... forgive me. I though you were one of them."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Strange men... I bet they were some of the village elders. Ugh...");
+msgctxt "Doyen Irene#sarains3"
+msgid "Strange men... I bet they were some of the village elders. Ugh..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("There might be more assassins so we have to find Sara as fast as we can.");
+msgctxt "Doyen Irene#sarains3"
+msgid "There might be more assassins so we have to find Sara as fast as we can."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Sara believes that you killed her mother. We need to tell her the truth.");
+msgctxt "Doyen Irene#sarains3"
+msgid "Sara believes that you killed her mother. We need to tell her the truth."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("We must do our best to find her. Let's split up and search for her.\r"
+msgctxt "Doyen Irene#sarains3"
+msgid "We must do our best to find her. Let's split up and search for her.\rPlease help me find my daughter and explain everything to her."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("We must do our best to find her. Let's split up and search for her. Please help me find my daughter and explain everything to her."));
+msgctxt "Doyen Irene#sarains3"
+msgid "We must do our best to find her. Let's split up and search for her. Please help me find my daughter and explain everything to her."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mapannounce(instance_mapname("1@sara"), _("<SYSTEM> We must find Sara. You seem remember her running in the 8 O'clock direction."), bc_map, C_YELLOW);
+msgctxt "Doyen Irene#sarains3"
+msgid "<SYSTEM> We must find Sara. You seem remember her running in the 8 O'clock direction."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000As you are about to call out to Sara a sudden blow knocks you down from behind.^000000");
+msgctxt "Sara Irene#sarains3"
+msgid "^FF0000As you are about to call out to Sara a sudden blow knocks you down from behind.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("As you are about to call out to Sara a sudden blow knocks you down from behind."));
+msgctxt "Sara Irene#sarains3"
+msgid "As you are about to call out to Sara a sudden blow knocks you down from behind."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[?????]");
+msgctxt "Sara Irene#sarains3"
+msgid "[?????]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("The time travellers cannot interfere any longer. You cannot stop us from meeting Sara.");
+msgctxt "Sara Irene#sarains3"
+msgid "The time travellers cannot interfere any longer. You cannot stop us from meeting Sara."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("You should go back to the time where you belong.");
+msgctxt "Sara Irene#sarains3"
+msgid "You should go back to the time where you belong."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000As you fall to the ground two dark figures approach Sara.^000000");
+msgctxt "Sara Irene#sarains3"
+msgid "^FF0000As you fall to the ground two dark figures approach Sara.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("As you fall to the ground two dark figures approach Sara."));
+msgctxt "Sara Irene#sarains3"
+msgid "As you fall to the ground two dark figures approach Sara."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("A girl full of betrayal, despair, and hate. We will guide you to your ultimate fate.");
+msgctxt "Sara Irene#sarains3"
+msgid "A girl full of betrayal, despair, and hate. We will guide you to your ultimate fate."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("[Sara Irene]");
+msgctxt "Sara Irene#sarains3"
+msgid "[Sara Irene]"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("...");
+msgctxt "Sara Irene#sarains3"
+msgid "..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("Sara Irene, he will make your dreams come true.");
+msgctxt "Sara Irene#sarains3"
+msgid "Sara Irene, he will make your dreams come true."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000One of the cloaked strangers covers Sara with their cloak and all three figures disappear.^000000");
+msgctxt "Sara Irene#sarains3"
+msgid "^FF0000One of the cloaked strangers covers Sara with their cloak and all three figures disappear.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("One of the cloaked strangers covers Sara with their cloak and all three figures disappear."));
+msgctxt "Sara Irene#sarains3"
+msgid "One of the cloaked strangers covers Sara with their cloak and all three figures disappear."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000At the same time as Sara disappearing this place begin to become unstable, just like what Leon said before.^000000");
+msgctxt "Sara Irene#sarains3"
+msgid "^FF0000At the same time as Sara disappearing this place begin to become unstable, just like what Leon said before.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("At the same time as Sara disappearing this place begin to become unstable, just like what Leon said before."));
+msgctxt "Sara Irene#sarains3"
+msgid "At the same time as Sara disappearing this place begin to become unstable, just like what Leon said before."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# mes("^FF0000We need to get out from this place quickly to the left. And when we at the outside let's talk to him.^000000");
+msgctxt "Sara Irene#sarains3"
+msgid "^FF0000We need to get out from this place quickly to the left. And when we at the outside let's talk to him.^000000"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# dispbottom(_("We need to get out from this place quickly to the left. And when we at the outside let's talk to him."));
+msgctxt "Sara Irene#sarains3"
+msgid "We need to get out from this place quickly to the left. And when we at the outside let's talk to him."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Why daddy?"));
+msgctxt "Sara Irene#sarains4"
+msgid "Why daddy?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Not mommy!"));
+msgctxt "Sara Irene#sarains5"
+msgid "Not mommy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Why did he do it?!"));
+msgctxt "Sara Irene#sarains6"
+msgid "Why did he do it?!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Why.. why?!"));
+msgctxt "Sara Irene#sarains7"
+msgid "Why.. why?!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Noooo..."));
+msgctxt "Sara Irene#sarains8"
+msgid "Noooo..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Why does it hurt so much?"));
+msgctxt "Sara Irene#sarains10"
+msgid "Why does it hurt so much?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("........"));
+msgctxt "Sara Irene#sarains11"
+msgid "........"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("...Mommy"));
+msgctxt "Sara Irene#sarains12"
+msgid "...Mommy"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("What happened to you daddy?"));
+msgctxt "Sara Irene#sarains13"
+msgid "What happened to you daddy?"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("All that blood..."));
+msgctxt "Sara Irene#sarains14"
+msgid "All that blood..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Who are you?!"));
+msgctxt "Sara Irene#sarains15"
+msgid "Who are you?!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("I want my mommy!"));
+msgctxt "Sara Irene#sarains16"
+msgid "I want my mommy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("........"));
+msgctxt "Sara Irene#sarains17"
+msgid "........"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Nooooo..."));
+msgctxt "Sara Irene#sarains18"
+msgid "Nooooo..."
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Mommy!"));
+msgctxt "Sara Irene#sarains19"
+msgid "Mommy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Daddy!"));
+msgctxt "Sara Irene#sarains21"
+msgid "Daddy!"
+msgstr ""
+
+#: npc/re/instances/saras_memory.txt
+# npctalk(_("Why?"));
+msgctxt "Sara Irene#sarains23"
+msgid "Why?"
+msgstr ""

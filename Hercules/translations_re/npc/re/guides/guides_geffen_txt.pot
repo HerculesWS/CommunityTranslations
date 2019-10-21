@@ -1,0 +1,308 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_geffen.txt
+# mes "[Geffen Guide]";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[Geffen Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Welcome to ^8B4513Geffen^000000,";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Welcome to ^8B4513Geffen^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "the City of Magic.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "the City of Magic."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Do you need help navigating the city?";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Do you need help navigating the city?"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Magic Academy ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Geffen Tower ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Fountain ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Buy & Repair Equipment ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Inn ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Tavern ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Christopher's Forge ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Magic Academy ]", "[ Geffen Tower ]", "[ Fountain ]", "[ Tool Shop ]", "[ Buy & Repair Equipment ]", "[ Inn ]", "[ Tavern ]", "[ Christopher's Forge ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Previous Menu"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "The "+F_Navi("Magic Academy","geffen,61,180","^B9062F");
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "The "+F_Navi("Magic Academy","geffen,61,180","^B9062F");
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Magic Academy"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "The "+F_Navi("Magic Academy","geffen,61,180","^B9062F");
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "geffen,61,180"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "The "+F_Navi("Magic Academy","geffen,61,180","^B9062F");
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "^B9062F"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "handles all magic-related affairs,";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "handles all magic-related affairs,"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "including job changes.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "including job changes."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Let me mark its location";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Let me mark its location"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "on your mini-map.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Would you like to check any other locations?";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "If you'd like to ";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "If you'd like to "
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes F_Navi("Buy or Repair Equipment","geffen,99,140","^7F3300");
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Buy or Repair Equipment"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes F_Navi("Buy or Repair Equipment","geffen,99,140","^7F3300");
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "geffen,99,140"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes F_Navi("Buy or Repair Equipment","geffen,99,140","^7F3300");
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "^7F3300"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "then this is the place you'll want to visit.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "then this is the place you'll want to visit."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes F_Navi("Christopher's Forge","geffen,182,59","^0000FF")+" is";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Christopher's Forge"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes F_Navi("Christopher's Forge","geffen,182,59","^0000FF")+" is";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "geffen,182,59"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes F_Navi("Christopher's Forge","geffen,182,59","^0000FF")+" is";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid " is"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "where you can purchase";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "where you can purchase"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Refining materials.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Refining materials."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "It used to be the old Blacksmith Guild.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "It used to be the old Blacksmith Guild."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Dimensional Arcanist Guide ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Dimensional Arcanist Guide ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Dimensional Arcanist Guide ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Pet Groomer ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Dimensional Arcanist Guide ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Chef Assistant ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "[ Dimensional Arcanist Guide ]", "Previous Menu")) {
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "[ Dimensional Arcanist Guide ]"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Is there anything else I can do for you?";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Enjoy your stay.";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Enjoy your stay."
+msgstr ""
+
+#: npc/re/guides/guides_geffen.txt
+# mes "Let me mark the location of the";
+msgctxt "Guide#01geffen::GuideGeffen"
+msgid "Let me mark the location of the"
+msgstr ""

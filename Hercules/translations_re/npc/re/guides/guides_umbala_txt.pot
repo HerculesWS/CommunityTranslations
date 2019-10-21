@@ -1,0 +1,380 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_umbala.txt
+# mes "[Umbala Guide]";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[Umbala Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Welcome to ^8B4513Umbala^000000,";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Welcome to ^8B4513Umbala^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "the Village of the Utan Tribe.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "the Village of the Utan Tribe."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Since I have been exploring here for several months.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Since I have been exploring here for several months."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "I am familiar with this area's geography and the points of interest in this village.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "I am familiar with this area's geography and the points of interest in this village."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Do you need help navigating the village?";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Do you need help navigating the village?"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[ Chief's House ]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[ Shaman's House ]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[ Bungee Jump Area ]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "[ Tree of Yggdrasil ]"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# switch(select("[ Kafra Employee ]", "[ Chief's House ]", "[ Shaman's House ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bungee Jump Area ]", "[ Tree of Yggdrasil ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Let me mark the location of the";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Let me mark the location of the"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "^0000FFKafra Employee^000000";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "^0000FFKafra Employee^000000"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "on your mini-map.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Would you like to check any other locations?";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Only the "+F_Navi("Chief","umbala,68,251","^006400")+" knows the language of the outside world.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Only the "
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Only the "+F_Navi("Chief","umbala,68,251","^006400")+" knows the language of the outside world.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Chief"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Only the "+F_Navi("Chief","umbala,68,251","^006400")+" knows the language of the outside world.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "umbala,68,251"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Only the "+F_Navi("Chief","umbala,68,251","^006400")+" knows the language of the outside world.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "^006400"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Only the "+F_Navi("Chief","umbala,68,251","^006400")+" knows the language of the outside world.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid " knows the language of the outside world."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "So you'd better visit him before anything else.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "So you'd better visit him before anything else."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Shaman","umbala,219,188","^008080")+" has some sort of mystic power.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Shaman","umbala,219,188","^008080")+" has some sort of mystic power.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Shaman"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Shaman","umbala,219,188","^008080")+" has some sort of mystic power.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "umbala,219,188"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Shaman","umbala,219,188","^008080")+" has some sort of mystic power.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "^008080"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Shaman","umbala,219,188","^008080")+" has some sort of mystic power.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid " has some sort of mystic power."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "People say she can create rough enchanted stones, and divide a pure enchanted stone into rough ones.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "People say she can create rough enchanted stones, and divide a pure enchanted stone into rough ones."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Weapon Shop","umbala,125,155","^FF1493")+" inside Umbala";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Weapon Shop"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Weapon Shop","umbala,125,155","^FF1493")+" inside Umbala";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "umbala,125,155"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Weapon Shop","umbala,125,155","^FF1493")+" inside Umbala";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "^FF1493"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "The "+F_Navi("Weapon Shop","umbala,125,155","^FF1493")+" inside Umbala";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid " inside Umbala"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "supplies the weapons";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "supplies the weapons"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "for defending against their enemies.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "for defending against their enemies."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "There are many useful things for";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "There are many useful things for"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "traveling in the "+F_Navi("Tool Shop","umbala,136,127","^8B4513")+" in Umbala.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "traveling in the "
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "traveling in the "+F_Navi("Tool Shop","umbala,136,127","^8B4513")+" in Umbala.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Tool Shop"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "traveling in the "+F_Navi("Tool Shop","umbala,136,127","^8B4513")+" in Umbala.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "umbala,136,127"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "traveling in the "+F_Navi("Tool Shop","umbala,136,127","^8B4513")+" in Umbala.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "^8B4513"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "traveling in the "+F_Navi("Tool Shop","umbala,136,127","^8B4513")+" in Umbala.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid " in Umbala."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Umbala has a unique locale called";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Umbala has a unique locale called"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "the "+F_Navi("Bungee Jump Area","umbala,138,198")+".";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "the "
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "the "+F_Navi("Bungee Jump Area","umbala,138,198")+".";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Bungee Jump Area"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "the "+F_Navi("Bungee Jump Area","umbala,138,198")+".";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "umbala,138,198"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "the "+F_Navi("Bungee Jump Area","umbala,138,198")+".";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "If you're interested in testing";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "If you're interested in testing"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "your courage, why don't you try it.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "your courage, why don't you try it."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "There's the "+F_Navi("Tree of Yggdrasil","umbala,107,284")+" in the northern part of town.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "There's the "
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "There's the "+F_Navi("Tree of Yggdrasil","umbala,107,284")+" in the northern part of town.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Tree of Yggdrasil"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "There's the "+F_Navi("Tree of Yggdrasil","umbala,107,284")+" in the northern part of town.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "umbala,107,284"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "There's the "+F_Navi("Tree of Yggdrasil","umbala,107,284")+" in the northern part of town.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid " in the northern part of town."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "You should pay it a visit since that's a place I recommend when you visit Umbala.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "You should pay it a visit since that's a place I recommend when you visit Umbala."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Is there anything else I can do for you?";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+#: npc/re/guides/guides_umbala.txt
+# mes "Be safe on your travels.";
+msgctxt "Umbala Guide#01umbala::GuideUmbala"
+msgid "Be safe on your travels."
+msgstr ""

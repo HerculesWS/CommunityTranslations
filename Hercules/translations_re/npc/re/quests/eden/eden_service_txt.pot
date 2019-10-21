@@ -1,0 +1,176 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "It is a Goods Storage Cabinet.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "It is a Goods Storage Cabinet."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "A message is written on a piece of paper.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "A message is written on a piece of paper."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "+ Cabinet is exclusively +";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "+ Cabinet is exclusively +"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "+ for the Eden group +";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "+ for the Eden group +"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "If you want to use this";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "If you want to use this"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "cabinet please check";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "cabinet please check"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "the following:";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "the following:"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "1.Are you a member";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "1.Are you a member"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes " of Eden group?";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "   of Eden group?"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "2.Have you learned";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "2.Have you learned"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes " enough basic skills?";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "   enough basic skills?"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "3.Cabinet fee is";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "3.Cabinet fee is"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes " ^4d4dff500 zeny^000000!";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "  ^4d4dff500 zeny^000000!"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "You need to insert zeny to use the cabinet.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "You need to insert zeny to use the cabinet."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "Cost : 500 Zeny ";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "Cost : 500 Zeny "
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "Would you like to use it?";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "Would you like to use it?"
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# switch(select("Use the Cabinet.", "Cancel.")) {
+msgctxt "Goods Cabinet#00::pggc"
+msgid "Use the Cabinet."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# switch(select("Use the Cabinet.", "Cancel.")) {
+msgctxt "Goods Cabinet#00::pggc"
+msgid "Cancel."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "The cabinet is not working for me.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "The cabinet is not working for me."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "Maybe I am not yet qualified to use Cabinet.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "Maybe I am not yet qualified to use Cabinet."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "I don't have enough zeny.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "I don't have enough zeny."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "I need at least 500 zeny to use the Cabinet.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "I need at least 500 zeny to use the Cabinet."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "I will use it next time.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "I will use it next time."
+msgstr ""
+
+#: npc/re/quests/eden/eden_service.txt
+# mes "I need an Eden Group Mark to use this Cabinet.";
+msgctxt "Goods Cabinet#00::pggc"
+msgid "I need an Eden Group Mark to use this Cabinet."
+msgstr ""

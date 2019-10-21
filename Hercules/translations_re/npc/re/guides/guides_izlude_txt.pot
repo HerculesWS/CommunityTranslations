@@ -1,0 +1,440 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_izlude.txt
+# mes "[Izlude Guide]";
+msgctxt "::GuideIzlude"
+msgid "[Izlude Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Welcome to ^8B4513Izlude^000000,";
+msgctxt "::GuideIzlude"
+msgid "Welcome to ^8B4513Izlude^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Prontera's satellite town.";
+msgctxt "::GuideIzlude"
+msgid "Prontera's satellite town."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Do you need help navigating the town?";
+msgctxt "::GuideIzlude"
+msgid "Do you need help navigating the town?"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "::GuideIzlude"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "::GuideIzlude"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "::GuideIzlude"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "::GuideIzlude"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Cryptura Academy ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Marina ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ International Airship ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Arena ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Kit Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Swordsman Guild ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Enchant Association ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Forge ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Cryptura Academy ]", "[ Marina ]", "[ International Airship ]", "[ Arena ]", "[ Kit Shop ]", "[ Swordsman Guild ]", "[ Enchant Association ]", "[ Forge ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "Previous Menu"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Novice adventurers should go to "+F_Navi("Cryptura Academy","iz_ac01,100,39")+" to receive more information and training!";
+msgctxt "::GuideIzlude"
+msgid "Novice adventurers should go to "
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Novice adventurers should go to "+F_Navi("Cryptura Academy","iz_ac01,100,39")+" to receive more information and training!";
+msgctxt "::GuideIzlude"
+msgid "Cryptura Academy"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Novice adventurers should go to "+F_Navi("Cryptura Academy","iz_ac01,100,39")+" to receive more information and training!";
+msgctxt "::GuideIzlude"
+msgid "iz_ac01,100,39"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Novice adventurers should go to "+F_Navi("Cryptura Academy","iz_ac01,100,39")+" to receive more information and training!";
+msgctxt "::GuideIzlude"
+msgid " to receive more information and training!"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Would you like to check any other locations?";
+msgctxt "::GuideIzlude"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "You can use the "+F_Navi("Marina",.@map$+",197,205","^B9062F");
+msgctxt "::GuideIzlude"
+msgid "You can use the "
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "You can use the "+F_Navi("Marina",.@map$+",197,205","^B9062F");
+msgctxt "::GuideIzlude"
+msgid "Marina"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "You can use the "+F_Navi("Marina",.@map$+",197,205","^B9062F");
+msgctxt "::GuideIzlude"
+msgid ",197,205"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "You can use the "+F_Navi("Marina",.@map$+",197,205","^B9062F");
+msgctxt "::GuideIzlude"
+msgid "^B9062F"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "to go to ^8B4513Alberta^000000 or ^8B4513Byalan Island^000000.";
+msgctxt "::GuideIzlude"
+msgid "to go to ^8B4513Alberta^000000 or ^8B4513Byalan Island^000000."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Beware of ^8B4513Izlude Dungeon^000000";
+msgctxt "::GuideIzlude"
+msgid "Beware of ^8B4513Izlude Dungeon^000000"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "on Byalan Island since it is";
+msgctxt "::GuideIzlude"
+msgid "on Byalan Island since it is"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "filled with dreadful monsters.";
+msgctxt "::GuideIzlude"
+msgid "filled with dreadful monsters."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("International Airship",.@map$+",202,75","^0000FF");
+msgctxt "::GuideIzlude"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("International Airship",.@map$+",202,75","^0000FF");
+msgctxt "::GuideIzlude"
+msgid "International Airship"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("International Airship",.@map$+",202,75","^0000FF");
+msgctxt "::GuideIzlude"
+msgid ",202,75"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("International Airship",.@map$+",202,75","^0000FF");
+msgctxt "::GuideIzlude"
+msgid "^0000FF"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "goes to ^8B4513Juno^000000 and ^8B4513Rachel^000000.";
+msgctxt "::GuideIzlude"
+msgid "goes to ^8B4513Juno^000000 and ^8B4513Rachel^000000."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Let me mark its location";
+msgctxt "::GuideIzlude"
+msgid "Let me mark its location"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "on your mini-map.";
+msgctxt "::GuideIzlude"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Arena",.@map$+",213,161","^FF5400");
+msgctxt "::GuideIzlude"
+msgid "Arena"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Arena",.@map$+",213,161","^FF5400");
+msgctxt "::GuideIzlude"
+msgid ",213,161"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Arena",.@map$+",213,161","^FF5400");
+msgctxt "::GuideIzlude"
+msgid "^FF5400"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "is a perfect place to";
+msgctxt "::GuideIzlude"
+msgid "is a perfect place to"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "test your combat capabilities.";
+msgctxt "::GuideIzlude"
+msgid "test your combat capabilities."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Swordsman Guild",.@map$+",51,172")+" is where you can ^800080change your job to Swordsman.^000000";
+msgctxt "::GuideIzlude"
+msgid "Swordsman Guild"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Swordsman Guild",.@map$+",51,172")+" is where you can ^800080change your job to Swordsman.^000000";
+msgctxt "::GuideIzlude"
+msgid ",51,172"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Swordsman Guild",.@map$+",51,172")+" is where you can ^800080change your job to Swordsman.^000000";
+msgctxt "::GuideIzlude"
+msgid " is where you can ^800080change your job to Swordsman.^000000"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Hypnotist ]", "[ Newlywed Helper ]", "[ Mercenary Guildsman ]", "[ Pet Groomer ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Hypnotist ]", "[ Newlywed Helper ]", "[ Mercenary Guildsman ]", "[ Pet Groomer ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Hypnotist ]", "[ Newlywed Helper ]", "[ Mercenary Guildsman ]", "[ Pet Groomer ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Hypnotist ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Hypnotist ]", "[ Newlywed Helper ]", "[ Mercenary Guildsman ]", "[ Pet Groomer ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Newlywed Helper ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Hypnotist ]", "[ Newlywed Helper ]", "[ Mercenary Guildsman ]", "[ Pet Groomer ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Mercenary Guildsman ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Hypnotist ]", "[ Newlywed Helper ]", "[ Mercenary Guildsman ]", "[ Pet Groomer ]", "Previous Menu")) {
+msgctxt "::GuideIzlude"
+msgid "[ Pet Groomer ]"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Eden Teleport Officer",.@map$+",131,148","^0000FF");
+msgctxt "::GuideIzlude"
+msgid "Eden Teleport Officer"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "The "+F_Navi("Eden Teleport Officer",.@map$+",131,148","^0000FF");
+msgctxt "::GuideIzlude"
+msgid ",131,148"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "is currently staying inside";
+msgctxt "::GuideIzlude"
+msgid "is currently staying inside"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "the Swordsman Guild building.";
+msgctxt "::GuideIzlude"
+msgid "the Swordsman Guild building."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Let me mark his location on your mini-map.";
+msgctxt "::GuideIzlude"
+msgid "Let me mark his location on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "If you'd like to go on a honeymoon to";
+msgctxt "::GuideIzlude"
+msgid "If you'd like to go on a honeymoon to"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "^8B4513Jawaii^000000, the paradise of newlyweds,";
+msgctxt "::GuideIzlude"
+msgid "^8B4513Jawaii^000000, the paradise of newlyweds,"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "please speak to the ";
+msgctxt "::GuideIzlude"
+msgid "please speak to the "
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes F_Navi("Newlywed Helper",.@map$+",180,224","^B9062F")+".";
+msgctxt "::GuideIzlude"
+msgid "Newlywed Helper"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes F_Navi("Newlywed Helper",.@map$+",180,224","^B9062F")+".";
+msgctxt "::GuideIzlude"
+msgid ",180,224"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes F_Navi("Newlywed Helper",.@map$+",180,224","^B9062F")+".";
+msgctxt "::GuideIzlude"
+msgid "."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "::GuideIzlude"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Is there anything else I can do for you?";
+msgctxt "::GuideIzlude"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Enjoy your stay.";
+msgctxt "::GuideIzlude"
+msgid "Enjoy your stay."
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Bye~!";
+msgctxt "::GuideIzlude"
+msgid "Bye~!"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Let me mark the location of the";
+msgctxt "::GuideIzlude"
+msgid "Let me mark the location of the"
+msgstr ""
+
+#: npc/re/guides/guides_izlude.txt
+# mes "Let me mark the location of the "+getarg(0);
+msgctxt "::GuideIzlude"
+msgid "Let me mark the location of the "
+msgstr ""

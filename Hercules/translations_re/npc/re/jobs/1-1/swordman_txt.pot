@@ -1,0 +1,326 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "[Swordman]";
+msgctxt "Swordman#swd"
+msgid "[Swordman]"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "It...";
+msgctxt "Swordman#swd"
+msgid "It..."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Can't be...";
+msgctxt "Swordman#swd"
+msgid "Can't be..."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "You've been reborn, haven't you?";
+msgctxt "Swordman#swd"
+msgid "You've been reborn, haven't you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "I see you're retreading the path of the Swordman! Once you've gotten used to brandishing a sword, you can never go back!!";
+msgctxt "Swordman#swd"
+msgid "I see you're retreading the path of the Swordman! Once you've gotten used to brandishing a sword, you can never go back!!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Hmm? Ah, you must first master the Basic Skills before you are ready to become a Swordman.";
+msgctxt "Swordman#swd"
+msgid "Hmm? Ah, you must first master the Basic Skills before you are ready to become a Swordman."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Come back to me when you have finished learning the Basic Novice Skills.";
+msgctxt "Swordman#swd"
+msgid "Come back to me when you have finished learning the Basic Novice Skills."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Excellent! Let me promote you to a Swordman right away!";
+msgctxt "Swordman#swd"
+msgid "Excellent! Let me promote you to a Swordman right away!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Hmm... You look like a well-experienced Swordman. Still, I'm sure that you must train to improve your skills and gain strength!";
+msgctxt "Swordman#swd"
+msgid "Hmm... You look like a well-experienced Swordman. Still, I'm sure that you must train to improve your skills and gain strength!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Hm...?";
+msgctxt "Swordman#swd"
+msgid "Hm...?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "You're a reborn";
+msgctxt "Swordman#swd"
+msgid "You're a reborn"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "warrior, aren't you?";
+msgctxt "Swordman#swd"
+msgid "warrior, aren't you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Hmmm...";
+msgctxt "Swordman#swd"
+msgid "Hmmm..."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "It seems that being";
+msgctxt "Swordman#swd"
+msgid "It seems that being"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "a Swordman is not part";
+msgctxt "Swordman#swd"
+msgid "a Swordman is not part"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "of your destiny. I'm sorry,";
+msgctxt "Swordman#swd"
+msgid "of your destiny. I'm sorry,"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "but it seems there is nothing";
+msgctxt "Swordman#swd"
+msgid "but it seems there is nothing"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "I can do for you.";
+msgctxt "Swordman#swd"
+msgid "I can do for you."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "[Swordman Guildsman]";
+msgctxt "Swordman#swd"
+msgid "[Swordman Guildsman]"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "This is the Swordman Guild.";
+msgctxt "Swordman#swd"
+msgid "This is the Swordman Guild."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Why are you here?";
+msgctxt "Swordman#swd"
+msgid "Why are you here?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# switch(select("Tell me about being a Swordman.", "I want to be a Swordman.", "Nothing.")) {
+msgctxt "Swordman#swd"
+msgid "Tell me about being a Swordman."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# switch(select("Tell me about being a Swordman.", "I want to be a Swordman.", "Nothing.")) {
+msgctxt "Swordman#swd"
+msgid "I want to be a Swordman."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# switch(select("Tell me about being a Swordman.", "I want to be a Swordman.", "Nothing.")) {
+msgctxt "Swordman#swd"
+msgid "Nothing."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "So you wish to know more about the mighty Swordman? Okay!";
+msgctxt "Swordman#swd"
+msgid "So you wish to know more about the mighty Swordman? Okay!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "The most distinctive feature of the Swordman is that the Swordman can show us his/her real abilities in close combat.";
+msgctxt "Swordman#swd"
+msgid "The most distinctive feature of the Swordman is that the Swordman can show us his/her real abilities in close combat."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "There are three reasons!";
+msgctxt "Swordman#swd"
+msgid "There are three reasons!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "First, Swordman has higher HP than other jobs.";
+msgctxt "Swordman#swd"
+msgid "First, Swordman has higher HP than other jobs."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Second, except for Bows and Rods, Swordman can use all other weapons so they can fight at their optimal ability.";
+msgctxt "Swordman#swd"
+msgid "Second, except for Bows and Rods, Swordman can use all other weapons so they can fight at their optimal ability."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "And third, most of the skills of the Swordman give powerful physical attacks.";
+msgctxt "Swordman#swd"
+msgid "And third, most of the skills of the Swordman give powerful physical attacks."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Though I gave you a simple explanation, I believe you understand the core meaning of what it is to be a Swordman.";
+msgctxt "Swordman#swd"
+msgid "Though I gave you a simple explanation, I believe you understand the core meaning of what it is to be a Swordman."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "In my opinion, Swordman is the best job ever!";
+msgctxt "Swordman#swd"
+msgid "In my opinion, Swordman is the best job ever!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "You are already an excellent Swordman, aren't you?";
+msgctxt "Swordman#swd"
+msgid "You are already an excellent Swordman, aren't you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Just devote yourself to be a great Swordman.";
+msgctxt "Swordman#swd"
+msgid "Just devote yourself to be a great Swordman."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "You already have one of the other jobs, don't you?";
+msgctxt "Swordman#swd"
+msgid "You already have one of the other jobs, don't you?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "You've gone too far with that joke.";
+msgctxt "Swordman#swd"
+msgid "You've gone too far with that joke."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "I'm sorry to tell you this but to be a Swordman, you must reach at least ^4A4AFFJob Level 10^000000.";
+msgctxt "Swordman#swd"
+msgid "I'm sorry to tell you this but to be a Swordman, you must reach at least ^4A4AFFJob Level 10^000000."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "and ^4A4AFFBasic Skill Level 9^000000.";
+msgctxt "Swordman#swd"
+msgid "and ^4A4AFFBasic Skill Level 9^000000."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Want to be a Swordman without having the minimum requirement?";
+msgctxt "Swordman#swd"
+msgid "Want to be a Swordman without having the minimum requirement?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Do you think being a Swordman is that easy?";
+msgctxt "Swordman#swd"
+msgid "Do you think being a Swordman is that easy?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Hmm, both your Job Level and Basic Skill Level check out.";
+msgctxt "Swordman#swd"
+msgid "Hmm, both your Job Level and Basic Skill Level check out."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Good. Do you want to be a Swordman right away?";
+msgctxt "Swordman#swd"
+msgid "Good. Do you want to be a Swordman right away?"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# if(select("Yes, I do.", "I'll consider it again.") == 2) {
+msgctxt "Swordman#swd"
+msgid "Yes, I do."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# if(select("Yes, I do.", "I'll consider it again.") == 2) {
+msgctxt "Swordman#swd"
+msgid "I'll consider it again."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Yeah. Prudent decision is needed for choosing a job.";
+msgctxt "Swordman#swd"
+msgid "Yeah. Prudent decision is needed for choosing a job."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "But I feel sorry... that you consider it again after overcoming all the hardships....";
+msgctxt "Swordman#swd"
+msgid "But I feel sorry... that you consider it again after overcoming all the hardships...."
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Congratulations! From now on, you are going to live a Swordman's life!";
+msgctxt "Swordman#swd"
+msgid "Congratulations! From now on, you are going to live a Swordman's life!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Let's do it right now!";
+msgctxt "Swordman#swd"
+msgid "Let's do it right now!"
+msgstr ""
+
+#: npc/re/jobs/1-1/swordman.txt
+# mes "Congratulations again for being a Swordman and I hope that you participate in many activities for the revival of our guild.";
+msgctxt "Swordman#swd"
+msgid "Congratulations again for being a Swordman and I hope that you participate in many activities for the revival of our guild."
+msgstr ""

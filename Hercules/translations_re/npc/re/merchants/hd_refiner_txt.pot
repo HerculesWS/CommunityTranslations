@@ -1,0 +1,489 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/merchants/hd_refiner.txt
+# mes("[Blacksmith Mighty Hammer]");
+msgctxt "::MightyHammer"
+msgid "[Blacksmith Mighty Hammer]"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes("I'm a blacksmith skilled in refining weapons and armors.");
+msgctxt "::MightyHammer"
+msgid "I'm a blacksmith skilled in refining weapons and armors."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes("I can refine an item of your choice among the items you are equipped with.");
+msgctxt "::MightyHammer"
+msgid "I can refine an item of your choice among the items you are equipped with."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes("Which item do you want to refine?");
+msgctxt "::MightyHammer"
+msgid "Which item do you want to refine?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Unlike others, I am a blacksmith who refines a very limited number of items.";
+msgctxt "::MightyHammer"
+msgid "Unlike others, I am a blacksmith who refines a very limited number of items."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I refine only items that are ^CC0000+7 to +9^000000.";
+msgctxt "::MightyHammer"
+msgid "I refine only items that are ^CC0000+7 to +9^000000."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "My specialty is that even if my refining fails, the refine level decreases by 1 without losing the gear. Isn't it great?";
+msgctxt "::MightyHammer"
+msgid "My specialty is that even if my refining fails, the refine level decreases by 1 without losing the gear. Isn't it great?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "So lets kick this into overdrive, what d' ya say? What item do you want to refine?";
+msgctxt "::MightyHammer"
+msgid "So lets kick this into overdrive, what d' ya say? What item do you want to refine?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I'm a blacksmith, not a hairstylist.";
+msgctxt "::MightyHammer"
+msgid "I'm a blacksmith, not a hairstylist."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "With my hammer, I will make you a star of the sky.";
+msgctxt "::MightyHammer"
+msgid "With my hammer, I will make you a star of the sky."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Making artificial hands is not my specialty.";
+msgctxt "::MightyHammer"
+msgid "Making artificial hands is not my specialty."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Bring out the item so I can refine it!";
+msgctxt "::MightyHammer"
+msgid "Bring out the item so I can refine it!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Where is this foot odor coming from?";
+msgctxt "::MightyHammer"
+msgid "Where is this foot odor coming from?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Where is the accessory?";
+msgctxt "::MightyHammer"
+msgid "Where is the accessory?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "What do you want me to refine?";
+msgctxt "::MightyHammer"
+msgid "What do you want me to refine?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Huh? What do you want me to do?";
+msgctxt "::MightyHammer"
+msgid "Huh? What do you want me to do?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "This item can't be refined.";
+msgctxt "::MightyHammer"
+msgid "This item can't be refined."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I only handle items with refine levels from +7 to +9.";
+msgctxt "::MightyHammer"
+msgid "I only handle items with refine levels from +7 to +9."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "In order to refine the gear you selected you need ^ff9999"+getitemname(.@material)+"^000000 and 20,000 zeny as a fee.";
+msgctxt "::MightyHammer"
+msgid "In order to refine the gear you selected you need ^ff9999"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Do you have them ready?";
+msgctxt "::MightyHammer"
+msgid "Do you have them ready?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# if(select("Yes", "No") == 2) {
+msgctxt "::MightyHammer"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# if(select("Yes", "No") == 2) {
+msgctxt "::MightyHammer"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I will wait until you are ready.";
+msgctxt "::MightyHammer"
+msgid "I will wait until you are ready."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "It looks like this item will likely fail to be refined.";
+msgctxt "::MightyHammer"
+msgid "It looks like this item will likely fail to be refined."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Well, even if it fails, it only decreases by 1 refine level.";
+msgctxt "::MightyHammer"
+msgid "Well, even if it fails, it only decreases by 1 refine level."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Would you like to continue refining?";
+msgctxt "::MightyHammer"
+msgid "Would you like to continue refining?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Only those who overcome fear of failure will obtain a masterpiece.";
+msgctxt "::MightyHammer"
+msgid "Only those who overcome fear of failure will obtain a masterpiece."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Didn't you just say you had everything ready?";
+msgctxt "::MightyHammer"
+msgid "Didn't you just say you had everything ready?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Tac! Tac! Tac!";
+msgctxt "::MightyHammer"
+msgid "Tac! Tac! Tac!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "The sound refreshes my mind everytime I hear it.";
+msgctxt "::MightyHammer"
+msgid "The sound refreshes my mind everytime I hear it."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Here, have it. Refine succeeded flawlessly!";
+msgctxt "::MightyHammer"
+msgid "Here, have it. Refine succeeded flawlessly!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Oops!!";
+msgctxt "::MightyHammer"
+msgid "Oops!!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I am sure a person like you would never blame me for a decrease in refine level by 1. Hmm.";
+msgctxt "::MightyHammer"
+msgid "I am sure a person like you would never blame me for a decrease in refine level by 1. Hmm."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "[Basta]";
+msgctxt "::Basta"
+msgid "[Basta]"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I'm the best Blacksmith in the whole world, Basta.";
+msgctxt "::Basta"
+msgid "I'm the best Blacksmith in the whole world, Basta."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "But I don't provide a normal refine service.";
+msgctxt "::Basta"
+msgid "But I don't provide a normal refine service."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I only refine equipment ^CC0000over +10^000000.";
+msgctxt "::Basta"
+msgid "I only refine equipment ^CC0000over +10^000000."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Which equipment do you want to refine?";
+msgctxt "::Basta"
+msgid "Which equipment do you want to refine?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Is your head an equipment?";
+msgctxt "::Basta"
+msgid "Is your head an equipment?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "What do you want me to do?";
+msgctxt "::Basta"
+msgid "What do you want me to do?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Making artificial hands is not my specialty.";
+msgctxt "::Basta"
+msgid "Making artificial hands is not my specialty."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Do you even know what a robe is?";
+msgctxt "::Basta"
+msgid "Do you even know what a robe is?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "If you want to refine your feet, don't come to me, try running a marathon.";
+msgctxt "::Basta"
+msgid "If you want to refine your feet, don't come to me, try running a marathon."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Where is the accessory?";
+msgctxt "::Basta"
+msgid "Where is the accessory?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Well... I don't see any equipment worth refining.";
+msgctxt "::Basta"
+msgid "Well... I don't see any equipment worth refining."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I can't make you smart. Go see a school teacher for that.";
+msgctxt "::Basta"
+msgid "I can't make you smart. Go see a school teacher for that."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Even I cannot refine this item. There's no way.";
+msgctxt "::Basta"
+msgid "Even I cannot refine this item. There's no way."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Haven't I told you? I only refine equipments that are +10 and above.";
+msgctxt "::Basta"
+msgid "Haven't I told you? I only refine equipments that are +10 and above."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "This weapon is perfect, no need to refine it anymore~";
+msgctxt "::Basta"
+msgid "This weapon is perfect, no need to refine it anymore~"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Hmm... is this the one you want to refine?";
+msgctxt "::Basta"
+msgid "Hmm... is this the one you want to refine?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "To refine this equipment, I need 1 ^ff9999"+getitemname(.@material)+"^000000 and 100,000 zeny as a fee.";
+msgctxt "::Basta"
+msgid "To refine this equipment, I need 1 ^ff9999"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Do you really want to refine this?";
+msgctxt "::Basta"
+msgid "Do you really want to refine this?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# if(select("Yes", "No") == 2) {
+msgctxt "::Basta"
+msgid "Yes"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# if(select("Yes", "No") == 2) {
+msgctxt "::Basta"
+msgid "No"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Okay. If that's what you want...";
+msgctxt "::Basta"
+msgid "Okay. If that's what you want..."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "This "+.@type$+" has already been refined pretty high.";
+msgctxt "::Basta"
+msgid "This "
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "This "+.@type$+" has already been refined pretty high.";
+msgctxt "::Basta"
+msgid " has already been refined pretty high."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "If you try to refine it more, the refine level could decrease.";
+msgctxt "::Basta"
+msgid "If you try to refine it more, the refine level could decrease."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I am different from the blacksmiths in others places.";
+msgctxt "::Basta"
+msgid "I am different from the blacksmiths in others places."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "It is impossible that the refine level will drop by, say, 3 or 4... that sounds scary.";
+msgctxt "::Basta"
+msgid "It is impossible that the refine level will drop by, say, 3 or 4... that sounds scary."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Here it can only decrease by 1 level.";
+msgctxt "::Basta"
+msgid "Here it can only decrease by 1 level."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Compared to other blacksmiths, the risk is smaller.";
+msgctxt "::Basta"
+msgid "Compared to other blacksmiths, the risk is smaller."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I've given all precautions. Do you want to try it?";
+msgctxt "::Basta"
+msgid "I've given all precautions. Do you want to try it?"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Well~";
+msgctxt "::Basta"
+msgid "Well~"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Not challenging at all could also be a kind of wisdom in life.";
+msgctxt "::Basta"
+msgid "Not challenging at all could also be a kind of wisdom in life."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Hmm... You didn't bring all the materials needed.";
+msgctxt "::Basta"
+msgid "Hmm... You didn't bring all the materials needed."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Come back when you have them all.";
+msgctxt "::Basta"
+msgid "Come back when you have them all."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Pow! Pow! Pow! Pow!";
+msgctxt "::Basta"
+msgid "Pow! Pow! Pow! Pow!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Great! Nicely done!!";
+msgctxt "::Basta"
+msgid "Great! Nicely done!!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I really am the best blacksmith in the whole wide world!";
+msgctxt "::Basta"
+msgid "I really am the best blacksmith in the whole wide world!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Aaaaaaaaaaak!!!";
+msgctxt "::Basta"
+msgid "Aaaaaaaaaaak!!!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Damn it!";
+msgctxt "::Basta"
+msgid "Damn it!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Refining failed and refine level has decreased!";
+msgctxt "::Basta"
+msgid "Refining failed and refine level has decreased!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Even the best blacksmith in the world doesn't guarantee 100% success!";
+#, no-c-format
+msgctxt "::Basta"
+msgid "Even the best blacksmith in the world doesn't guarantee 100% success!"
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "Too bad.";
+msgctxt "::Basta"
+msgid "Too bad."
+msgstr ""
+
+#: npc/re/merchants/hd_refiner.txt
+# mes "I'll do better next time! Don't worry!";
+msgctxt "::Basta"
+msgid "I'll do better next time! Don't worry!"
+msgstr ""

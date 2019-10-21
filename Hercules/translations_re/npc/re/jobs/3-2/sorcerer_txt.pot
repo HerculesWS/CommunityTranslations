@@ -1,0 +1,890 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "[Merito]";
+msgctxt "Merito"
+msgid "[Merito]"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "You packed so much in your bag. Try again after emptying your bag.";
+msgctxt "Merito"
+msgid "You packed so much in your bag. Try again after emptying your bag."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Please get on with the sprits well~ You should~!";
+msgctxt "Merito"
+msgid "Please get on with the sprits well~ You should~!"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Wow~ you are a young adventurer. I envy you.";
+msgctxt "Merito"
+msgid "Wow~ you are a young adventurer. I envy you."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Ahh~ I think you don't need to have a conversation with me.";
+msgctxt "Merito"
+msgid "Ahh~ I think you don't need to have a conversation with me."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Welcome. What can I help you with?";
+msgctxt "Merito"
+msgid "Welcome. What can I help you with?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("Do you know about Sorcerers?");
+msgctxt "Merito"
+msgid "Do you know about Sorcerers?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Wouldn't it be more comfortable to just live as a scholar? Sorcerers are busy communicating with the spirits and don't have much time to read books...";
+msgctxt "Merito"
+msgid "Wouldn't it be more comfortable to just live as a scholar? Sorcerers are busy communicating with the spirits and don't have much time to read books..."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "What made you want to be a sorcerer?";
+msgctxt "Merito"
+msgid "What made you want to be a sorcerer?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("The spirit of fire led me here.", "The spirit of water led me here.", "The spirit of earth led me here", "The spirit of meat led me here.") == 4) {
+msgctxt "Merito"
+msgid "The spirit of fire led me here."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("The spirit of fire led me here.", "The spirit of water led me here.", "The spirit of earth led me here", "The spirit of meat led me here.") == 4) {
+msgctxt "Merito"
+msgid "The spirit of water led me here."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("The spirit of fire led me here.", "The spirit of water led me here.", "The spirit of earth led me here", "The spirit of meat led me here.") == 4) {
+msgctxt "Merito"
+msgid "The spirit of earth led me here"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("The spirit of fire led me here.", "The spirit of water led me here.", "The spirit of earth led me here", "The spirit of meat led me here.") == 4) {
+msgctxt "Merito"
+msgid "The spirit of meat led me here."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "That kind of spirit doesn't exist!";
+msgctxt "Merito"
+msgid "That kind of spirit doesn't exist!"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Oh, I see.";
+msgctxt "Merito"
+msgid "Oh, I see."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "You must be born with the natural ability to see that you already communicated with the spirits, or you must be an excellent liar.";
+msgctxt "Merito"
+msgid "You must be born with the natural ability to see that you already communicated with the spirits, or you must be an excellent liar."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Hmm... Then first, can you write down your name on this list?";
+msgctxt "Merito"
+msgid "Hmm... Then first, can you write down your name on this list?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("Write name.", "I won't.") == 2) {
+msgctxt "Merito"
+msgid "Write name."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("Write name.", "I won't.") == 2) {
+msgctxt "Merito"
+msgid "I won't."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Well, okay. See you again when you get a chance.";
+msgctxt "Merito"
+msgid "Well, okay. See you again when you get a chance."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "So, you are [" + strcharinfo(PC_NAME) + "].";
+msgctxt "Merito"
+msgid "So, you are ["
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Give me a second to register your name.";
+msgctxt "Merito"
+msgid "Give me a second to register your name."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Talk to me again in a second.";
+msgctxt "Merito"
+msgid "Talk to me again in a second."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Good, then I'll give you a short explanation about the Sorcerer.";
+msgctxt "Merito"
+msgid "Good, then I'll give you a short explanation about the Sorcerer."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "[" + strcharinfo(PC_NAME) + "], can you handle magic skillfully?";
+msgctxt "Merito"
+msgid "["
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("Yes, I can.", "No, I'm not really good at it.") == 2) {
+msgctxt "Merito"
+msgid "Yes, I can."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("Yes, I can.", "No, I'm not really good at it.") == 2) {
+msgctxt "Merito"
+msgid "No, I'm not really good at it."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "What!? You don't know how to use magic?";
+msgctxt "Merito"
+msgid "What!? You don't know how to use magic?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "What are you doing here then? Get out of here. Right now!";
+msgctxt "Merito"
+msgid "What are you doing here then? Get out of here. Right now!"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Okay, that should be obvious.";
+msgctxt "Merito"
+msgid "Okay, that should be obvious."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Of course, Sorcerers use magic, too. But, do you know the main difference Sorcerers have from other magical jobs?";
+msgctxt "Merito"
+msgid "Of course, Sorcerers use magic, too. But, do you know the main difference Sorcerers have from other magical jobs?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# switch(select("They know how to sing.", "They're all old fogies.", "They can deal with the spirits.")) {
+msgctxt "Merito"
+msgid "They know how to sing."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# switch(select("They know how to sing.", "They're all old fogies.", "They can deal with the spirits.")) {
+msgctxt "Merito"
+msgid "They're all old fogies."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# switch(select("They know how to sing.", "They're all old fogies.", "They can deal with the spirits.")) {
+msgctxt "Merito"
+msgid "They can deal with the spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Well maybe some but that's not the main difference.";
+msgctxt "Merito"
+msgid "Well maybe some but that's not the main difference."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "What! How dare you!?!";
+msgctxt "Merito"
+msgid "What! How dare you!?!"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "That's right. That is the most distinguishing feature that Sorcerers have.";
+msgctxt "Merito"
+msgid "That's right. That is the most distinguishing feature that Sorcerers have."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "When the people who want to be a Sorcerer come, the first thing we do is to check whether they can communicate with spirits or not.";
+msgctxt "Merito"
+msgid "When the people who want to be a Sorcerer come, the first thing we do is to check whether they can communicate with spirits or not."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "So that's the basic introduction, so you just need to decide whether or not you want to take the qualification test.";
+msgctxt "Merito"
+msgid "So that's the basic introduction, so you just need to decide whether or not you want to take the qualification test."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Well, it's all up to you. What are you going to do?";
+msgctxt "Merito"
+msgid "Well, it's all up to you. What are you going to do?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# switch(select("I will take the test.", "I'll do it later.")) {
+msgctxt "Merito"
+msgid "I will take the test."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# switch(select("I will take the test.", "I'll do it later.")) {
+msgctxt "Merito"
+msgid "I'll do it later."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Okay. ";
+msgctxt "Merito"
+msgid "Okay. "
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Then I'll hand it over to Karacas who is on the 4th floor. He will guide you through the process of the test.";
+msgctxt "Merito"
+msgid "Then I'll hand it over to Karacas who is on the 4th floor. He will guide you through the process of the test."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "What? I was sure that you wanted to become a Sorcerer.";
+msgctxt "Merito"
+msgid "What? I was sure that you wanted to become a Sorcerer."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "How about your test? Well, Karacas is a little lazy, so that might bother you some... kkk";
+msgctxt "Merito"
+msgid "How about your test? Well, Karacas is a little lazy, so that might bother you some... kkk"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "[Karacas]";
+msgctxt "Karacas"
+msgid "[Karacas]"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Oh, it seems that you're too heavy. Empty your bag and then come again.";
+msgctxt "Karacas"
+msgid "Oh, it seems that you're too heavy. Empty your bag and then come again."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "You look happy. Have a great journey.";
+msgctxt "Karacas"
+msgid "You look happy. Have a great journey."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Is there anything I can do for you?";
+msgctxt "Karacas"
+msgid "Is there anything I can do for you?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "I belong to the Sorcerer association. I don't think you have any business with me.";
+msgctxt "Karacas"
+msgid "I belong to the Sorcerer association. I don't think you have any business with me."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "More people are visiting Geffen Tower these days.";
+msgctxt "Karacas"
+msgid "More people are visiting Geffen Tower these days."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "....";
+msgctxt "Karacas"
+msgid "...."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("Ah... excuse me~");
+msgctxt "Karacas"
+msgid "Ah... excuse me~"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "... (Z z z~)";
+msgctxt "Karacas"
+msgid "... (Z z z~)"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("Hm hm!!!~");
+msgctxt "Karacas"
+msgid "Hm hm!!!~"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Aaaak!! ";
+msgctxt "Karacas"
+msgid "Aaaak!! "
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Oh, my... ";
+msgctxt "Karacas"
+msgid "Oh, my... "
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Wh... where are you from?";
+msgctxt "Karacas"
+msgid "Wh... where are you from?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("Merito told me to visit you.");
+msgctxt "Karacas"
+msgid "Merito told me to visit you."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "I see, give me a moment.";
+msgctxt "Karacas"
+msgid "I see, give me a moment."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "The list... has already arrived.";
+msgctxt "Karacas"
+msgid "The list... has already arrived."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "So, you are [" + strcharinfo(PC_NAME) + "]... right?";
+msgctxt "Karacas"
+msgid "So, you are ["
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("Yes, I am.", "No, I'm not!") == 2) {
+msgctxt "Karacas"
+msgid "Yes, I am."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("Yes, I am.", "No, I'm not!") == 2) {
+msgctxt "Karacas"
+msgid "No, I'm not!"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Oh, there must be some mistake in the list, I think. Will you come again later?";
+msgctxt "Karacas"
+msgid "Oh, there must be some mistake in the list, I think. Will you come again later?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Before you take the Sorcerer test, let me give you the basic information.";
+msgctxt "Karacas"
+msgid "Before you take the Sorcerer test, let me give you the basic information."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "The way to get a Sorcerer registration ticket is really simple. You just need to go and find one of each spirit scattered around the world, and then convert their power into the shape of a certain material.";
+msgctxt "Karacas"
+msgid "The way to get a Sorcerer registration ticket is really simple. You just need to go and find one of each spirit scattered around the world, and then convert their power into the shape of a certain material."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Sounds easy, right?";
+msgctxt "Karacas"
+msgid "Sounds easy, right?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("Ahh... sir. Is that really possible?");
+msgctxt "Karacas"
+msgid "Ahh... sir. Is that really possible?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Well, it is impossible to meet every spirit by yourself. You need to train yourself very hard to give a shape to the spirits and see them clearly through your eyes.";
+msgctxt "Karacas"
+msgid "Well, it is impossible to meet every spirit by yourself. You need to train yourself very hard to give a shape to the spirits and see them clearly through your eyes."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "So, usually we perform a certain ceremony parade toward the place where we can feel the spirits.";
+msgctxt "Karacas"
+msgid "So, usually we perform a certain ceremony parade toward the place where we can feel the spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "I will tell you how to do that. So listen carefully.";
+msgctxt "Karacas"
+msgid "I will tell you how to do that. So listen carefully."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Usually we cannot see the spirits with our eyes but there is a way to realize the part of the spirits through a special medium.";
+msgctxt "Karacas"
+msgid "Usually we cannot see the spirits with our eyes but there is a way to realize the part of the spirits through a special medium."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "For example, if you visit the place where the spirit of wind stays with a certain amount of Wind of Verdure, the reaction of the spirit is amplified.";
+msgctxt "Karacas"
+msgid "For example, if you visit the place where the spirit of wind stays with a certain amount of Wind of Verdure, the reaction of the spirit is amplified."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Likewise, if you approach the place where the spirit of fire seems to stay while you have a certain amount of Red Blood, the spirit will show the adverse reaction.";
+msgctxt "Karacas"
+msgid "Likewise, if you approach the place where the spirit of fire seems to stay while you have a certain amount of Red Blood, the spirit will show the adverse reaction."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Sorcerers use this basic principle, this is the essential knowledge that Sorcerers need to have to reach the spirits.";
+msgctxt "Karacas"
+msgid "Sorcerers use this basic principle, this is the essential knowledge that Sorcerers need to have to reach the spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("So communicating with spirits...");
+msgctxt "Karacas"
+msgid "So communicating with spirits..."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Right~";
+msgctxt "Karacas"
+msgid "Right~"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "This job is based on the power of spirits.";
+msgctxt "Karacas"
+msgid "This job is based on the power of spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Hmm, but it might be hard for someone like you who's focused only on reading books...";
+msgctxt "Karacas"
+msgid "Hmm, but it might be hard for someone like you who's focused only on reading books..."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "First, you need to bring the following materials needed for the test.";
+msgctxt "Karacas"
+msgid "First, you need to bring the following materials needed for the test."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "3 Wind of Verdure.";
+msgctxt "Karacas"
+msgid "3 Wind of Verdure."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "3 Crystal Blue.";
+msgctxt "Karacas"
+msgid "3 Crystal Blue."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "3 Red Blood.";
+msgctxt "Karacas"
+msgid "3 Red Blood."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "3 Green Live.";
+msgctxt "Karacas"
+msgid "3 Green Live."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "When you bring these materials, I'll tell you the next step.";
+msgctxt "Karacas"
+msgid "When you bring these materials, I'll tell you the next step."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Oh, you have all the materials.";
+msgctxt "Karacas"
+msgid "Oh, you have all the materials."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("What should I do next?");
+msgctxt "Karacas"
+msgid "What should I do next?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "I'll tell you about it now. First, I'll tell you the places for the test. You better write them down.";
+msgctxt "Karacas"
+msgid "I'll tell you about it now. First, I'll tell you the places for the test. You better write them down."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "1. 1st floor of Ice Cave";
+msgctxt "Karacas"
+msgid "1. 1st floor of Ice Cave"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "2. 1st floor of Thor Volcano Dungeon";
+msgctxt "Karacas"
+msgid "2. 1st floor of Thor Volcano Dungeon"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "3. 3rd floor of Mjolnir Dead Pit";
+msgctxt "Karacas"
+msgid "3. 3rd floor of Mjolnir Dead Pit"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "4. 2nd floor of Kunlun Dungeon";
+msgctxt "Karacas"
+msgid "4. 2nd floor of Kunlun Dungeon"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "We have set up the detecting poles in these 4 places so that ordinary people can communicate with the spirits.";
+msgctxt "Karacas"
+msgid "We have set up the detecting poles in these 4 places so that ordinary people can communicate with the spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Be aware that these detecting poles are activated only when you have more than the certain amount of property stones.";
+msgctxt "Karacas"
+msgid "Be aware that these detecting poles are activated only when you have more than the certain amount of property stones."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "You need to prepare at least 3 small stones for each property. For example, you need Wind of Verdure, not Rough Wind.";
+msgctxt "Karacas"
+msgid "You need to prepare at least 3 small stones for each property. For example, you need Wind of Verdure, not Rough Wind."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("So I need the property stones...");
+msgctxt "Karacas"
+msgid "So I need the property stones..."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Yes, you have quick wits!";
+msgctxt "Karacas"
+msgid "Yes, you have quick wits!"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Once you bring the stones to the poles, put them into the property decomposing machine which is attached to the pole. The detecting pole will be activated, and you can communicate with the spirit.";
+msgctxt "Karacas"
+msgid "Once you bring the stones to the poles, put them into the property decomposing machine which is attached to the pole. The detecting pole will be activated, and you can communicate with the spirit."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "If you succeed, you can extract a part of the spirit as a reagent. If you fail, the property stone will break up.";
+msgctxt "Karacas"
+msgid "If you succeed, you can extract a part of the spirit as a reagent. If you fail, the property stone will break up."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Of course if you are lucky enough, if you fail, a Wind of Verdure can be changed into a Rough Wind... Well, that's not a common situation so let's leave that out of the discussion for now.";
+msgctxt "Karacas"
+msgid "Of course if you are lucky enough, if you fail, a Wind of Verdure can be changed into a Rough Wind... Well, that's not a common situation so let's leave that out of the discussion for now."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("What if I run out of stones?");
+msgctxt "Karacas"
+msgid "What if I run out of stones?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Ahahaha... If you run out of property stones, you simply have to get more.";
+msgctxt "Karacas"
+msgid "Ahahaha... If you run out of property stones, you simply have to get more."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "So people who have this test usually start with as many property stones as they can carry. The amount I told you to get is just the bare minimum.";
+msgctxt "Karacas"
+msgid "So people who have this test usually start with as many property stones as they can carry. The amount I told you to get is just the bare minimum."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "If you are an advanced Sorcerer, you will be able to talk with spirits without going through this process again. But beginners need to use that kind of medium to talk with them.";
+msgctxt "Karacas"
+msgid "If you are an advanced Sorcerer, you will be able to talk with spirits without going through this process again. But beginners need to use that kind of medium to talk with them."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("So the reagent is...?");
+msgctxt "Karacas"
+msgid "So the reagent is...?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "We don't know which reagent is going to be made from the spirits. It differs by the state of spirits.";
+msgctxt "Karacas"
+msgid "We don't know which reagent is going to be made from the spirits. It differs by the state of spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "When you succeed in getting 3 different kinds of reagents, you can come back.";
+msgctxt "Karacas"
+msgid "When you succeed in getting 3 different kinds of reagents, you can come back."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "A reagent that one spirit makes won't be over 2 kinds so if you're going to make 3 kinds of reagents, I suggest you go around several places.";
+msgctxt "Karacas"
+msgid "A reagent that one spirit makes won't be over 2 kinds so if you're going to make 3 kinds of reagents, I suggest you go around several places."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Have any questions?";
+msgctxt "Karacas"
+msgid "Have any questions?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("No.", "Please explain it again.") == 2) {
+msgctxt "Karacas"
+msgid "No."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# if(select("No.", "Please explain it again.") == 2) {
+msgctxt "Karacas"
+msgid "Please explain it again."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Haha, then can I have a cup of water for a minute? Please come and find me again later.";
+msgctxt "Karacas"
+msgid "Haha, then can I have a cup of water for a minute? Please come and find me again later."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Then I'll write down the progress that I've summarized shortly. Wait...";
+msgctxt "Karacas"
+msgid "Then I'll write down the progress that I've summarized shortly. Wait..."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "^000099You got a paper on which the way of communicating with spirits is written. For more information please open your quest window^000000.";
+msgctxt "Karacas"
+msgid "^000099You got a paper on which the way of communicating with spirits is written. For more information please open your quest window^000000."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Before I let you know the progressing way, you'll need to bring some required material.";
+msgctxt "Karacas"
+msgid "Before I let you know the progressing way, you'll need to bring some required material."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "When you bring these basic things, I'll guide you to the next step.";
+msgctxt "Karacas"
+msgid "When you bring these basic things, I'll guide you to the next step."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Wow~ your skill is good.";
+msgctxt "Karacas"
+msgid "Wow~ your skill is good."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "I thought you'd be overwhelmed by the spirits but you've managed to get the effective medicine!";
+msgctxt "Karacas"
+msgid "I thought you'd be overwhelmed by the spirits but you've managed to get the effective medicine!"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# select("Is this all I need to do?");
+msgctxt "Karacas"
+msgid "Is this all I need to do?"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Well done. First, I will organize the miraculous medicine so please wait a moment.";
+msgctxt "Karacas"
+msgid "Well done. First, I will organize the miraculous medicine so please wait a moment."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "It's not an easy thing to get the desired effect by communicating with spirits.";
+msgctxt "Karacas"
+msgid "It's not an easy thing to get the desired effect by communicating with spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Don't give up and keep on trying~";
+msgctxt "Karacas"
+msgid "Don't give up and keep on trying~"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Originally my teacher needs to check the Sorcerer job change but after he went out to find the spirit of fish, I can't see him. So I'll check it myself.";
+msgctxt "Karacas"
+msgid "Originally my teacher needs to check the Sorcerer job change but after he went out to find the spirit of fish, I can't see him. So I'll check it myself."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Dear [" + strcharinfo(PC_NAME) + "],";
+msgctxt "Karacas"
+msgid "Dear ["
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "you went around the rough wilds to open the door as a Sorcerer and passed all the requirements that our Academy has given.";
+msgctxt "Karacas"
+msgid "you went around the rough wilds to open the door as a Sorcerer and passed all the requirements that our Academy has given."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Of course it is just a beginning, we don't know which spirit you're going to commune with or what kind of hardships await you.";
+msgctxt "Karacas"
+msgid "Of course it is just a beginning, we don't know which spirit you're going to commune with or what kind of hardships await you."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "But with the ability you've shown until now, you will be capable to do anything from now on. Dear [" + strcharinfo(PC_NAME) + "]";
+msgctxt "Karacas"
+msgid "But with the ability you've shown until now, you will be capable to do anything from now on. Dear ["
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "[Kalakas]";
+msgctxt "Karacas"
+msgid "[Kalakas]"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Before I appointed you the need job, please check on your own body status. ";
+msgctxt "Karacas"
+msgid "Before I appointed you the need job, please check on your own body status. "
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "You must have the etiquette of your job now before you accept the new job! ";
+msgctxt "Karacas"
+msgid "You must have the etiquette of your job now before you accept the new job! "
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Good, before we get started...";
+msgctxt "Karacas"
+msgid "Good, before we get started..."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Please unequip your riding pet~";
+msgctxt "Karacas"
+msgid "Please unequip your riding pet~"
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Moreover, I formally acknowledge that you've completed all the job transfer tests of the Sorcerer Academy.";
+msgctxt "Karacas"
+msgid "Moreover, I formally acknowledge that you've completed all the job transfer tests of the Sorcerer Academy."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "Congratulations, [" + strcharinfo(PC_NAME) + "]";
+msgctxt "Karacas"
+msgid "Congratulations, ["
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "I hope that you gain more communion with spirits from now on.";
+msgctxt "Karacas"
+msgid "I hope that you gain more communion with spirits from now on."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "You got a reagent by communicating with an unseen spirit.";
+msgctxt "Spirit Detecting Staff#0"
+msgid "You got a reagent by communicating with an unseen spirit."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "It doesn't seem like you got anything special from the spirits.";
+msgctxt "Spirit Detecting Staff#0"
+msgid "It doesn't seem like you got anything special from the spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "The spirit combined the property stones into a huge property stone.";
+msgctxt "Spirit Detecting Staff#0"
+msgid "The spirit combined the property stones into a huge property stone."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "You used the property stones but it looks like you failed to communicate with the spirits.";
+msgctxt "Spirit Detecting Staff#0"
+msgid "You used the property stones but it looks like you failed to communicate with the spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "I can see the detecting staff that's been installed by the Sorcerer Union to communicate with the spirits.";
+msgctxt "Spirit Detecting Staff#0"
+msgid "I can see the detecting staff that's been installed by the Sorcerer Union to communicate with the spirits."
+msgstr ""
+
+#: npc/re/jobs/3-2/sorcerer.txt
+# mes "If you have the suitable property stones, you should be able to commune with the spirits.";
+msgctxt "Spirit Detecting Staff#0"
+msgid "If you have the suitable property stones, you should be able to commune with the spirits."
+msgstr ""

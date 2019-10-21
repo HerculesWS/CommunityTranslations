@@ -1,0 +1,578 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2019  Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 857650c4f58d347455b0d075b49a53f69e6d0c51\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_payon.txt
+# mes "[Payon Guide]";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[Payon Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Welcome to ^8B4513Payon^000000,";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Welcome to ^8B4513Payon^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "the Mountain Village.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "the Mountain Village."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Do you need help navigating the village?";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Do you need help navigating the village?"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Archer Village ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Weapon & Armor Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Inn & Tavern ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Central Palace ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Palace Court ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Royal Kitchen ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Archer Village ]", "[ Tool Shop ]", "[ Weapon & Armor Shop ]", "[ Inn & Tavern ]", "[ Central Palace ]", "[ Palace Court ]", "[ Royal Kitchen ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Previous Menu"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Archer Village","payon,227,328","^B9062F")+" is where";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Archer Village"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Archer Village","payon,227,328","^B9062F")+" is where";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "payon,227,328"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Archer Village","payon,227,328","^B9062F")+" is where";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "^B9062F"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Archer Village","payon,227,328","^B9062F")+" is where";
+msgctxt "Guide#01payon::GuidePayon"
+msgid " is where"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "the Archer Association resides.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "the Archer Association resides."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Please use the far north gate to enter the village.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Please use the far north gate to enter the village."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Would you like to check any other locations?";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Kafra Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Repair / Armsmith ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Trap Specialist ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Seiayblem ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Leablem ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Jade ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Pet Groomer ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Shop ]", "[ Repair / Armsmith ]", "[ Kafra Employee ]", "[ Trap Specialist ]", "[ Seiayblem ]", "[ Leablem ]", "[ Jade ]", "[ Pet Groomer ]", "[ Chef Assistant ]", "Previous Menu")) {
+msgctxt "Guide#01payon::GuidePayon"
+msgid "[ Chef Assistant ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Seiyablem","payon,140,151","^B9062F");
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Seiyablem"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Seiyablem","payon,140,151","^B9062F");
+msgctxt "Guide#01payon::GuidePayon"
+msgid "payon,140,151"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "is a technician";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "is a technician"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "who can create ^0000FFslots^000000 on weapons and armors,";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "who can create ^0000FFslots^000000 on weapons and armors,"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "but not all equipment";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "but not all equipment"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "can be slotted. Well, that's what he says.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "can be slotted. Well, that's what he says."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Leablem","payon,236,199","^0000FF");
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Leablem"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Leablem","payon,236,199","^0000FF");
+msgctxt "Guide#01payon::GuidePayon"
+msgid "payon,236,199"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Jade","payon,173,238","^FF5400");
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Jade"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Jade","payon,173,238","^FF5400");
+msgctxt "Guide#01payon::GuidePayon"
+msgid "payon,173,238"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "can exchange different types of";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "can exchange different types of"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "^FF5400Gemstones^000000.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "^FF5400Gemstones^000000."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Is there anything else I can do for you?";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Enjoy your stay.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Enjoy your stay."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Let me mark the location of the";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "Let me mark the location of the"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "on your mini-map.";
+msgctxt "Guide#01payon::GuidePayon"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "[Payon Guide]";
+msgctxt "Guide#05payon"
+msgid "[Payon Guide]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Welcome to ^8B4513Archer Village^000000,";
+msgctxt "Guide#05payon"
+msgid "Welcome to ^8B4513Archer Village^000000,"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "a subsidiary village of Payon.";
+msgctxt "Guide#05payon"
+msgid "a subsidiary village of Payon."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Do you need help navigating the village?";
+msgctxt "Guide#05payon"
+msgid "Do you need help navigating the village?"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "[ Payon Dungeon ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "[ Archer Guild ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "[ Mercenary Guildsman ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "[ Alchemist Guildsman ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# switch(select("[ Payon Dungeon ]", "[ Archer Guild ]", "[ Tool Shop ]", "[ Kafra Employee ]", "[ Mercenary Guildsman ]", "[ Alchemist Guildsman ]", "[ Eden Teleport Officer ]", "Remove Marks from Mini-Map", "Cancel")) {
+msgctxt "Guide#05payon"
+msgid "Cancel"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Let me mark the entrance of";
+msgctxt "Guide#05payon"
+msgid "Let me mark the entrance of"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "the "+F_Navi("Payon Dungeon","pay_arche,38,131","^B9062F");
+msgctxt "Guide#05payon"
+msgid "the "
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "the "+F_Navi("Payon Dungeon","pay_arche,38,131","^B9062F");
+msgctxt "Guide#05payon"
+msgid "Payon Dungeon"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "the "+F_Navi("Payon Dungeon","pay_arche,38,131","^B9062F");
+msgctxt "Guide#05payon"
+msgid "pay_arche,38,131"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "the "+F_Navi("Payon Dungeon","pay_arche,38,131","^B9062F");
+msgctxt "Guide#05payon"
+msgid "^B9062F"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "on your mini-map.";
+msgctxt "Guide#05payon"
+msgid "on your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "The "+F_Navi("Archer Guild","pay_arche,143,164","^0000FF");
+msgctxt "Guide#05payon"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "The "+F_Navi("Archer Guild","pay_arche,143,164","^0000FF");
+msgctxt "Guide#05payon"
+msgid "Archer Guild"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "The "+F_Navi("Archer Guild","pay_arche,143,164","^0000FF");
+msgctxt "Guide#05payon"
+msgid "pay_arche,143,164"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "The "+F_Navi("Archer Guild","pay_arche,143,164","^0000FF");
+msgctxt "Guide#05payon"
+msgid "^0000FF"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "is where you can change";
+msgctxt "Guide#05payon"
+msgid "is where you can change"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "your job to Archer.";
+msgctxt "Guide#05payon"
+msgid "your job to Archer."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Let me mark the location of the";
+msgctxt "Guide#05payon"
+msgid "Let me mark the location of the"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Tool Shop","pay_arche,72,156","^FF5400");
+msgctxt "Guide#05payon"
+msgid "Tool Shop"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Tool Shop","pay_arche,72,156","^FF5400");
+msgctxt "Guide#05payon"
+msgid "pay_arche,72,156"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Tool Shop","pay_arche,72,156","^FF5400");
+msgctxt "Guide#05payon"
+msgid "^FF5400"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Let me mark the location of the ^006400Kafra Employee^000000";
+msgctxt "Guide#05payon"
+msgid "Let me mark the location of the ^006400Kafra Employee^000000"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Mercenary Guildsman","pay_arche,101,166","^7F3300");
+msgctxt "Guide#05payon"
+msgid "Mercenary Guildsman"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Mercenary Guildsman","pay_arche,101,166","^7F3300");
+msgctxt "Guide#05payon"
+msgid "pay_arche,101,166"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Mercenary Guildsman","pay_arche,101,166","^7F3300");
+msgctxt "Guide#05payon"
+msgid "^7F3300"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Alchemist Guildsman","pay_arche,126,113,","^800080");
+msgctxt "Guide#05payon"
+msgid "Alchemist Guildsman"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Alchemist Guildsman","pay_arche,126,113,","^800080");
+msgctxt "Guide#05payon"
+msgid "pay_arche,126,113,"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes F_Navi("Alchemist Guildsman","pay_arche,126,113,","^800080");
+msgctxt "Guide#05payon"
+msgid "^800080"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "The "+F_Navi("Eden Teleport Officer","pay_arche,143,164","^0000FF");
+msgctxt "Guide#05payon"
+msgid "Eden Teleport Officer"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "is currently staying inside";
+msgctxt "Guide#05payon"
+msgid "is currently staying inside"
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "the Archer Guild building.";
+msgctxt "Guide#05payon"
+msgid "the Archer Guild building."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Sure, I'll remove all marks from your mini-map.";
+msgctxt "Guide#05payon"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+#: npc/re/guides/guides_payon.txt
+# mes "Enjoy your stay.";
+msgctxt "Guide#05payon"
+msgid "Enjoy your stay."
+msgstr ""
