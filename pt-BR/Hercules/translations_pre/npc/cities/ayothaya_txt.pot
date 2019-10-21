@@ -1,0 +1,853 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2019-10-21 10:53\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/cities/ayothaya_txt.pot\n"
+
+# mes "[Aibakthing]";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "[Aibakthing]"
+msgstr ""
+
+# mes "Hoo! Hah! Hoo! Hah!";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Hoo! Hah! Hoo! Hah!"
+msgstr ""
+
+# mes "Let me take you away to";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Let me take you away to"
+msgstr ""
+
+# mes "a distant spiritual place,";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "a distant spiritual place,"
+msgstr ""
+
+# mes "a land of exotic mystery,";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "a land of exotic mystery,"
+msgstr ""
+
+# mes "my hometown Ayotaya!";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "my hometown Ayotaya!"
+msgstr ""
+
+# switch(select("About Ayotaya.", "Go to Ayotaya.", "Cancel.")) {
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "About Ayotaya."
+msgstr ""
+
+# switch(select("About Ayotaya.", "Go to Ayotaya.", "Cancel.")) {
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Go to Ayotaya."
+msgstr ""
+
+# switch(select("About Ayotaya.", "Go to Ayotaya.", "Cancel.")) {
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Cancel."
+msgstr ""
+
+# mes "We Ayotayans are a pious people who value peace and sincerity. We endeavor to lead simple, yet noble, lives in harmony with nature.";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "We Ayotayans are a pious people who value peace and sincerity. We endeavor to lead simple, yet noble, lives in harmony with nature."
+msgstr ""
+
+# mes "Our traditional cuisine is world famous. It's no surprise when we serve dishes like Tom Yum Goong, made of Shrimp, Lemon and Chillis, which has a tantalizing aroma and flavor beyond imagining.";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Our traditional cuisine is world famous. It's no surprise when we serve dishes like Tom Yum Goong, made of Shrimp, Lemon and Chillis, which has a tantalizing aroma and flavor beyond imagining."
+msgstr ""
+
+# mes "For those who crave adventure, there is an age old story about the Sa-mhing Tiger, an evil creature that haunts our temple ruins.";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "For those who crave adventure, there is an age old story about the Sa-mhing Tiger, an evil creature that haunts our temple ruins."
+msgstr ""
+
+# mes "Hoo! Hahh! Hoo! Hahh!";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Hoo! Hahh! Hoo! Hahh!"
+msgstr ""
+
+# mes "No man alive can resist the";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "No man alive can resist the"
+msgstr ""
+
+# mes "call of this beautiful land.";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "call of this beautiful land."
+msgstr ""
+
+# mes "Rune-Midgardians are";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Rune-Midgardians are"
+msgstr ""
+
+# mes "always welcome!";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "always welcome!"
+msgstr ""
+
+# mes "Ah, you must pay 10,000 Zeny";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Ah, you must pay 10,000 Zeny"
+msgstr ""
+
+# mes "if you wish to visit Ayotaya.";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "if you wish to visit Ayotaya."
+msgstr ""
+
+# mes "If you're ready, we can leave";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "If you're ready, we can leave"
+msgstr ""
+
+# mes "right now~";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "right now~"
+msgstr ""
+
+# if (select("I'm ready, let's go!", "No.") == 1) {
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "I'm ready, let's go!"
+msgstr ""
+
+# if (select("I'm ready, let's go!", "No.") == 1) {
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "No."
+msgstr ""
+
+# mes "Let us be off! Back to my";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Let us be off! Back to my"
+msgstr ""
+
+# mes "beautiful Ayotaya!";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "beautiful Ayotaya!"
+msgstr ""
+
+# mes "I am sorry, but you do not have the 10,000 Zeny to travel to Ayotaya. Such a price is nothing compared to the experiences that await you!";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "I am sorry, but you do not have the 10,000 Zeny to travel to Ayotaya. Such a price is nothing compared to the experiences that await you!"
+msgstr ""
+
+# mes "Have you ever dreamed";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "Have you ever dreamed"
+msgstr ""
+
+# mes "of a beautiful place filled";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "of a beautiful place filled"
+msgstr ""
+
+# mes "with spiritual serenity? You";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "with spiritual serenity? You"
+msgstr ""
+
+# mes "must have been dreaming";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "must have been dreaming"
+msgstr ""
+
+# mes "of Ayotaya, my friend.";
+#: npc/cities/ayothaya.txt
+msgctxt "::Aibakthing_ayothaya"
+msgid "of Ayotaya, my friend."
+msgstr ""
+
+# mes "[Aibakthing]";
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "[Aibakthing]"
+msgstr ""
+
+# mes "Hoo! Hah! Hmm! Hah!";
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "Hoo! Hah! Hmm! Hah!"
+msgstr ""
+
+# mes "So, how did you like Ayotaya? Did you get a chance to try Tom Yum Goong? When you're ready, I shall take you back home.";
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "So, how did you like Ayotaya? Did you get a chance to try Tom Yum Goong? When you're ready, I shall take you back home."
+msgstr ""
+
+# if (select("Go back to Alberta.", "Cancel.") == 1) {
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "Go back to Alberta."
+msgstr ""
+
+# if (select("Go back to Alberta.", "Cancel.") == 1) {
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "Cancel."
+msgstr ""
+
+# mes "You will be welcome to come back whenever you please. I hope that we will see each other again sometime soon. Thank you~";
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "You will be welcome to come back whenever you please. I hope that we will see each other again sometime soon. Thank you~"
+msgstr ""
+
+# mes "Ah yes. I understand that it is difficult to take leave of such a beautiful place. Do not worry";
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "Ah yes. I understand that it is difficult to take leave of such a beautiful place. Do not worry"
+msgstr ""
+
+# mes "and take your time.";
+#: npc/cities/ayothaya.txt
+msgctxt "Aibakthing#ayo2"
+msgid "and take your time."
+msgstr ""
+
+# mes "[Thang]";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "[Thang]"
+msgstr ""
+
+# mes "There's an ancient,";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "There's an ancient,"
+msgstr ""
+
+# mes "dreadful building in";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "dreadful building in"
+msgstr ""
+
+# mes "Ayotaya that no one";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "Ayotaya that no one"
+msgstr ""
+
+# mes "here dares approach...";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "here dares approach..."
+msgstr ""
+
+# mes "In the past, a few curious people went inside, despite the horror stories, and never returned. What on earth could be going on inside of that place?";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "In the past, a few curious people went inside, despite the horror stories, and never returned. What on earth could be going on inside of that place?"
+msgstr ""
+
+# mes "However, if you want to prove your courage to others, confronting the danger inside might be a worthy challenge for an adventurer...";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "However, if you want to prove your courage to others, confronting the danger inside might be a worthy challenge for an adventurer..."
+msgstr ""
+
+# mes "I think.";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#Thang"
+msgid "I think."
+msgstr ""
+
+# mes "[Lalitha]";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "[Lalitha]"
+msgstr ""
+
+# mes "Hello!";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Hello!"
+msgstr ""
+
+# mes "I don't think";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "I don't think"
+msgstr ""
+
+# mes "we've met before.";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "we've met before."
+msgstr ""
+
+# mes "You must be";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "You must be"
+msgstr ""
+
+# mes "from Rune-Midgard.";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "from Rune-Midgard."
+msgstr ""
+
+# mes "After all, I know every single person living in this village.";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "After all, I know every single person living in this village."
+msgstr ""
+
+# mes "Heh heh~";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Heh heh~"
+msgstr ""
+
+# mes "Hmm...";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Hmm..."
+msgstr ""
+
+# mes "May I ask about the land you";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "May I ask about the land you"
+msgstr ""
+
+# mes "come from? I'm curious about";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "come from? I'm curious about"
+msgstr ""
+
+# mes "a lot of things in the outside world.";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "a lot of things in the outside world."
+msgstr ""
+
+# mes "You know, like the dresses and jewelry that ladies wear in other countries, whether or not the men are good looking, what kind of songs you have, what kind of girls that guys over there like...";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "You know, like the dresses and jewelry that ladies wear in other countries, whether or not the men are good looking, what kind of songs you have, what kind of girls that guys over there like..."
+msgstr ""
+
+# mes "[" +strcharinfo(PC_NAME)+ "]";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "["
+msgstr ""
+
+# mes ".........";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "........."
+msgstr ""
+
+# mes "..........";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid ".........."
+msgstr ""
+
+# mes "Okay~!";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Okay~!"
+msgstr ""
+
+# mes "Take care and";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Take care and"
+msgstr ""
+
+# mes "enjoy your travels!";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "enjoy your travels!"
+msgstr ""
+
+# mes "When you go East from this";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "When you go East from this"
+msgstr ""
+
+# mes "village, you will arrive at the ruins of an old shrine. It is now";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "village, you will arrive at the ruins of an old shrine. It is now"
+msgstr ""
+
+# mes "a nest full of fearsome monsters.";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "a nest full of fearsome monsters."
+msgstr ""
+
+# mes "If you plan to venture through these ruins, you better prepare";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "If you plan to venture through these ruins, you better prepare"
+msgstr ""
+
+# mes "as much as you can!";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "as much as you can!"
+msgstr ""
+
+# mes "Ah...";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Ah..."
+msgstr ""
+
+# mes "I wonder where";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "I wonder where"
+msgstr ""
+
+# mes "my Black Knight is~";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "my Black Knight is~"
+msgstr ""
+
+# mes "Don't you mean...";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Don't you mean..."
+msgstr ""
+
+# mes "Knight in shining armor";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Knight in shining armor"
+msgstr ""
+
+# mes "riding a white horse?";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "riding a white horse?"
+msgstr ""
+
+# mes "Hmm...?";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Hmm...?"
+msgstr ""
+
+# mes "Oh, well...";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Oh, well..."
+msgstr ""
+
+# mes "I'll take them both!";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "I'll take them both!"
+msgstr ""
+
+# mes "Hee hee~!";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Hee hee~!"
+msgstr ""
+
+# mes "Mmm...?";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "Mmm...?"
+msgstr ""
+
+# mes "What's up?";
+#: npc/cities/ayothaya.txt
+msgctxt "Girl#Lalitha"
+msgid "What's up?"
+msgstr ""
+
+# mes "[Villager]";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "[Villager]"
+msgstr ""
+
+# mes "Ummm.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Ummm."
+msgstr ""
+
+# mes "Hmmmmm...";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Hmmmmm..."
+msgstr ""
+
+# mes "Ummmmm...?";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Ummmmm...?"
+msgstr ""
+
+# mes "You must be";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "You must be"
+msgstr ""
+
+# mes "an outsider.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "an outsider."
+msgstr ""
+
+# mes "Yes. Yes, indeed.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Yes. Yes, indeed."
+msgstr ""
+
+# mes "Did you just ask";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Did you just ask"
+msgstr ""
+
+# mes "where am I going?";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "where am I going?"
+msgstr ""
+
+# mes "Why, to the Fishing Spot";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Why, to the Fishing Spot"
+msgstr ""
+
+# mes "just ahead. That's what";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "just ahead. That's what"
+msgstr ""
+
+# mes "we old men do: fish.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "we old men do: fish."
+msgstr ""
+
+# mes "Hmmm...";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Hmmm..."
+msgstr ""
+
+# mes "Would you like to hear";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Would you like to hear"
+msgstr ""
+
+# mes "something interesting? I've heard that someone found a ring inside";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "something interesting? I've heard that someone found a ring inside"
+msgstr ""
+
+# mes "a fish he caught in the";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "a fish he caught in the"
+msgstr ""
+
+# mes "Fishing Spot.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Fishing Spot."
+msgstr ""
+
+# mes "Supposedly, there are lots of stories about people finding valuables inside of the fish they've been catching there.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Supposedly, there are lots of stories about people finding valuables inside of the fish they've been catching there."
+msgstr ""
+
+# mes "If you're lucky enough,";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "If you're lucky enough,"
+msgstr ""
+
+# mes "you might even become";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "you might even become"
+msgstr ""
+
+# mes "a millionaire.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "a millionaire."
+msgstr ""
+
+# mes "Heh heh heh~";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Heh heh heh~"
+msgstr ""
+
+# mes "...!?";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "...!?"
+msgstr ""
+
+# mes "Ah, I came into the fish market! ^666666*Sigh*^000000 It seems I went the wrong way. The Fishing Spot is on the opposite side of this village.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Ah, I came into the fish market! ^666666*Sigh*^000000 It seems I went the wrong way. The Fishing Spot is on the opposite side of this village."
+msgstr ""
+
+# mes "Since I'm here, it wouldn't be";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "Since I'm here, it wouldn't be"
+msgstr ""
+
+# mes "a bad idea to look around. All of the seafood in this market is fresh and tasty. You'll regret it if you don't try some of this seafood";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "a bad idea to look around. All of the seafood in this market is fresh and tasty. You'll regret it if you don't try some of this seafood"
+msgstr ""
+
+# mes "at least once.";
+#: npc/cities/ayothaya.txt
+msgctxt "Old Man#ayothaya"
+msgid "at least once."
+msgstr ""
+
+# mes "[Kwan]";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "[Kwan]"
+msgstr ""
+
+# mes "Phew, isn't it";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "Phew, isn't it"
+msgstr ""
+
+# mes "soooo hot today?";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "soooo hot today?"
+msgstr ""
+
+# mes "You must be";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "You must be"
+msgstr ""
+
+# mes "from Rune-Midgard, huh?";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "from Rune-Midgard, huh?"
+msgstr ""
+
+# mes "I've seen a lot of tourists";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "I've seen a lot of tourists"
+msgstr ""
+
+# mes "coming from there recently.";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "coming from there recently."
+msgstr ""
+
+# mes "You'd better be really careful if you travel outside of the village. Whatever you do, don't go into";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "You'd better be really careful if you travel outside of the village. Whatever you do, don't go into"
+msgstr ""
+
+# mes "the ruins of an old shrine";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "the ruins of an old shrine"
+msgstr ""
+
+# mes "in the forest.";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "in the forest."
+msgstr ""
+
+# mes "That place is far too";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "That place is far too"
+msgstr ""
+
+# mes "dangerous to visit. Still, I hear that if you had some kind of amulet, you could go there with";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "dangerous to visit. Still, I hear that if you had some kind of amulet, you could go there with"
+msgstr ""
+
+# mes "a little less worry...";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "a little less worry..."
+msgstr ""
+
+# mes "Well, anyway, it's still a really good idea to stay away from that place. I hope you enjoy visiting Ayotaya, and that you keep safe~";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#1ayothaya"
+msgid "Well, anyway, it's still a really good idea to stay away from that place. I hope you enjoy visiting Ayotaya, and that you keep safe~"
+msgstr ""
+
+# mes "[Detzi]";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya"
+msgid "[Detzi]"
+msgstr ""
+
+# mes "In Ayotaya, we have our own traditional martial arts. We, the young men of the village, practice our traditional martial arts in order to become strong.";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya"
+msgid "In Ayotaya, we have our own traditional martial arts. We, the young men of the village, practice our traditional martial arts in order to become strong."
+msgstr ""
+
+# mes "Why don't you learn our martial arts? I guarantee that it will help you greatly in your travels.";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya"
+msgid "Why don't you learn our martial arts? I guarantee that it will help you greatly in your travels."
+msgstr ""
+
+# mes "[Eik]";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "[Eik]"
+msgstr ""
+
+# mes "Hey...";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "Hey..."
+msgstr ""
+
+# mes "You look pretty strong";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "You look pretty strong"
+msgstr ""
+
+# mes "You wanna challenge";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "You wanna challenge"
+msgstr ""
+
+# mes "me to a match?";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "me to a match?"
+msgstr ""
+
+# if (select("Sure!", "Nah~") == 1) {
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "Sure!"
+msgstr ""
+
+# if (select("Sure!", "Nah~") == 1) {
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "Nah~"
+msgstr ""
+
+# mes "Ow ow ow!";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "Ow ow ow!"
+msgstr ""
+
+# mes "I was just";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "I was just"
+msgstr ""
+
+# mes "kidding, man!";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "kidding, man!"
+msgstr ""
+
+# mes "I'm not so rude as to pick fights with strangers for no reason!";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "I'm not so rude as to pick fights with strangers for no reason!"
+msgstr ""
+
+# mes "Real power is developed after having thousands of matches with other people. So, don't be afraid of fighting, okay?";
+#: npc/cities/ayothaya.txt
+msgctxt "Young Man#5ayothaya2"
+msgid "Real power is developed after having thousands of matches with other people. So, don't be afraid of fighting, okay?"
+msgstr ""
+
