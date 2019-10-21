@@ -1,0 +1,169 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:26+0200\n"
+"PO-Revision-Date: 2019-10-21 10:34\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/woe-fe/payg_cas05_txt.pot\n"
+
+# mes "[ Edict of the Divine Rune-Midgarts Kingdom ]";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "[ Edict of the Divine Rune-Midgarts Kingdom ]"
+msgstr ""
+
+# mes " ";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid " "
+msgstr ""
+
+# mes "1. Follow the ordinance of The Divine Rune-Midgarts Kingdom, ";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "1. Follow the ordinance of The Divine Rune-Midgarts Kingdom, "
+msgstr ""
+
+# mes "We declare that";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "We declare that"
+msgstr ""
+
+# mes "there is no formal master of this castle.";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "there is no formal master of this castle."
+msgstr ""
+
+# mes "2. To the one who can ";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "2. To the one who can "
+msgstr ""
+
+# mes "overcome all trials";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "overcome all trials"
+msgstr ""
+
+# mes "and destroy the Emperium,";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "and destroy the Emperium,"
+msgstr ""
+
+# mes "the king will endow the one with";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "the king will endow the one with"
+msgstr ""
+
+# mes "ownership of this castle.";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "ownership of this castle."
+msgstr ""
+
+# mes "[ Echoing Voice ]";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "[ Echoing Voice ]"
+msgstr ""
+
+# mes "Brave ones...";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "Brave ones..."
+msgstr ""
+
+# mes "Do you wish to return to your honorable place?";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "Do you wish to return to your honorable place?"
+msgstr ""
+
+# if(select("Return to the guild castle.", "Quit.") == 1) {
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "Return to the guild castle."
+msgstr ""
+
+# if(select("Return to the guild castle.", "Quit.") == 1) {
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "Quit."
+msgstr ""
+
+# mes "we approve that this place is in";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "we approve that this place is in"
+msgstr ""
+
+# mes "the private prossession of ^ff0000"+getguildname(.@GID)+"^000000 Guild.";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "the private prossession of ^ff0000"
+msgstr ""
+
+# mes "2. The guild Master of ^ff0000"+getguildname(.@GID)+"^000000 Guild is";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "2. The guild Master of ^ff0000"
+msgstr ""
+
+# mes "^ff0000"+getguildmaster(.@GID)+"^000000";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "^ff0000"
+msgstr ""
+
+# mes "If there is anyone who objects to this,";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "If there is anyone who objects to this,"
+msgstr ""
+
+# mes "prove your strength and honor with a steel blade in your hand.";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "Bamboo Grove Hill#1::OutsideFlagsPA5"
+msgid "prove your strength and honor with a steel blade in your hand."
+msgstr ""
+
+# mes " ";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "#lever_PA05"
+msgid " "
+msgstr ""
+
+# mes "There's a small lever. Will you pull it?";
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "#lever_PA05"
+msgid "There's a small lever. Will you pull it?"
+msgstr ""
+
+# if(select("Pull.", "Do not.") == 1) {
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "#lever_PA05"
+msgid "Pull."
+msgstr ""
+
+# if(select("Pull.", "Do not.") == 1) {
+#: npc/woe-fe/payg_cas05.txt
+msgctxt "#lever_PA05"
+msgid "Do not."
+msgstr ""
+
