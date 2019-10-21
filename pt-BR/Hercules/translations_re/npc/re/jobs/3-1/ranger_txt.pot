@@ -1,0 +1,2323 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: 2019-10-21 11:01\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/jobs/3-1/ranger_txt.pot\n"
+
+# mes "[Survival Instructor, Rescue]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "[Survival Instructor, Rescue]"
+msgstr ""
+
+# mes "eeeeei~ ha!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "eeeeei~ ha!"
+msgstr ""
+
+# mes "The weather is really great.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "The weather is really great."
+msgstr ""
+
+# mes "What's up?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "What's up?"
+msgstr ""
+
+# mes "The monsters here are a";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "The monsters here are a"
+msgstr ""
+
+# mes "little tough so be careful.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "little tough so be careful."
+msgstr ""
+
+# if(select("I came here to become to a Ranger.", "I just came to look around.") == 2) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I came here to become to a Ranger."
+msgstr ""
+
+# if(select("I came here to become to a Ranger.", "I just came to look around.") == 2) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I just came to look around."
+msgstr ""
+
+# mes "Oh ya?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Oh ya?"
+msgstr ""
+
+# mes "The weather is really great. Shall we take a picture to commemorate it?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "The weather is really great. Shall we take a picture to commemorate it?"
+msgstr ""
+
+# mes "No?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "No?"
+msgstr ""
+
+# mes "Then just look around quietly and then go back.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Then just look around quietly and then go back."
+msgstr ""
+
+# mes "Huh?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Huh?"
+msgstr ""
+
+# mes "How did you find me?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "How did you find me?"
+msgstr ""
+
+# mes "Well, it's a passing mark that you recognize me... let me see.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Well, it's a passing mark that you recognize me... let me see."
+msgstr ""
+
+# mes "No.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "No."
+msgstr ""
+
+# mes "I can tell just by looking at you that you seem to be inexperienced.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I can tell just by looking at you that you seem to be inexperienced."
+msgstr ""
+
+# mes "Have more pride in your job and get more experience, and then when you grow as a Hunter or a Sniper you can make an aura by yourself, please come back again.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Have more pride in your job and get more experience, and then when you grow as a Hunter or a Sniper you can make an aura by yourself, please come back again."
+msgstr ""
+
+# mes "Ok!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Ok!"
+msgstr ""
+
+# mes "It looks like you have";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "It looks like you have"
+msgstr ""
+
+# mes "enough experience.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "enough experience."
+msgstr ""
+
+# mes "Good.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Good."
+msgstr ""
+
+# mes "First of all, let me tell you the job change qualifications to be a Ranger.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "First of all, let me tell you the job change qualifications to be a Ranger."
+msgstr ""
+
+# mes "I've already checked the first qualification that you've experienced enough to make an aura as a Hunter or a Sniper.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I've already checked the first qualification that you've experienced enough to make an aura as a Hunter or a Sniper."
+msgstr ""
+
+# mes "For the second qualification to judge one's ability exactly, you need to lighten your body and mind.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "For the second qualification to judge one's ability exactly, you need to lighten your body and mind."
+msgstr ""
+
+# mes "Ah wait, before that.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Ah wait, before that."
+msgstr ""
+
+# mes "When you change a job into a Ranger from a Hunter,";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "When you change a job into a Ranger from a Hunter,"
+msgstr ""
+
+# mes "you won't get any chance to learn the skills of a Sniper, would that be okay?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "you won't get any chance to learn the skills of a Sniper, would that be okay?"
+msgstr ""
+
+# switch(select("I'll think about it more.", "I want to be a Ranger already.")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I'll think about it more."
+msgstr ""
+
+# switch(select("I'll think about it more.", "I want to be a Ranger already.")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I want to be a Ranger already."
+msgstr ""
+
+# mes "Okay.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Okay."
+msgstr ""
+
+# mes "Take your time to think, if it's okay then come back.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Take your time to think, if it's okay then come back."
+msgstr ""
+
+# mes "All right.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "All right."
+msgstr ""
+
+# mes "You are ready then.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "You are ready then."
+msgstr ""
+
+# mes "Well let's continue our conversation.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Well let's continue our conversation."
+msgstr ""
+
+# mes "Before you change into a Ranger, even though you reached the highest level of a Hunter, it is not the best evaluation of your abilities.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Before you change into a Ranger, even though you reached the highest level of a Hunter, it is not the best evaluation of your abilities."
+msgstr ""
+
+# mes "So in order to check your abilities, I'll need to evaluate your pure abilities.~";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "So in order to check your abilities, I'll need to evaluate your pure abilities.~"
+msgstr ""
+
+# mes "Before you change into a Ranger, even though you reached the highest level of a Sniper, it is not the best evaluation of your abilities.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Before you change into a Ranger, even though you reached the highest level of a Sniper, it is not the best evaluation of your abilities."
+msgstr ""
+
+# mes "[Survival Instructor]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "[Survival Instructor]"
+msgstr ""
+
+# mes "To do this you need to be cleansed of body and soul.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "To do this you need to be cleansed of body and soul."
+msgstr ""
+
+# mes "Make sure that your weight equals '0' to continue.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Make sure that your weight equals '0' to continue."
+msgstr ""
+
+# mes "Wow, you've come back so quickly.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Wow, you've come back so quickly."
+msgstr ""
+
+# mes "Ok, now I'll talk about the requirements to take the test to become a Ranger.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Ok, now I'll talk about the requirements to take the test to become a Ranger."
+msgstr ""
+
+# mes "All the tests to become a Ranger are going to be done with practical means.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "All the tests to become a Ranger are going to be done with practical means."
+msgstr ""
+
+# mes "Will there be a written test?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Will there be a written test?"
+msgstr ""
+
+# mes "Why do you want one?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Why do you want one?"
+msgstr ""
+
+# mes "The most important part of this test is the test of your experience on the battlefield.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "The most important part of this test is the test of your experience on the battlefield."
+msgstr ""
+
+# mes "Therefore, what I request of you is to prove your power of survival.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Therefore, what I request of you is to prove your power of survival."
+msgstr ""
+
+# mes "I want to see the real power of survival, even if you fall down and get beat up.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I want to see the real power of survival, even if you fall down and get beat up."
+msgstr ""
+
+# mes "If you succeed with this survival power test, you will receive the first qualification.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "If you succeed with this survival power test, you will receive the first qualification."
+msgstr ""
+
+# mes "Well, let's talk about the details when you get the qualification for taking the test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Well, let's talk about the details when you get the qualification for taking the test."
+msgstr ""
+
+# mes "When you want to take the survival power test, please talk to me again.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "When you want to take the survival power test, please talk to me again."
+msgstr ""
+
+# mes "Before you change into a Ranger, I'll need to evaluate your pure abilities.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Before you change into a Ranger, I'll need to evaluate your pure abilities."
+msgstr ""
+
+# mes "Make sure that your weight equals 0 to continue.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Make sure that your weight equals 0 to continue."
+msgstr ""
+
+# mes "Um. That you talked to me again means that you are determined to change into a Ranger and take the survival power test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Um. That you talked to me again means that you are determined to change into a Ranger and take the survival power test."
+msgstr ""
+
+# if(select("I'll think about it more", "I'll take the test") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I'll think about it more"
+msgstr ""
+
+# if(select("I'll think about it more", "I'll take the test") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I'll take the test"
+msgstr ""
+
+# mes "Prepare yourself very well before taking this test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Prepare yourself very well before taking this test."
+msgstr ""
+
+# mes "Think about it well and come back.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Think about it well and come back."
+msgstr ""
+
+# mes "If you are determined, then there's nothing to wait for.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "If you are determined, then there's nothing to wait for."
+msgstr ""
+
+# mes "I'll explain it simply.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I'll explain it simply."
+msgstr ""
+
+# mes "What I'm going to provide you is 10 Fly Wings, 500 of Arrows and 1 test Bow.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "What I'm going to provide you is 10 Fly Wings, 500 of Arrows and 1 test Bow."
+msgstr ""
+
+# mes "Take the provided items and all you have to do for the survival power test is ^0000ffgo to the Northwestern area of Turtle Island and find Instructor Teardrop^000000.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Take the provided items and all you have to do for the survival power test is ^0000ffgo to the Northwestern area of Turtle Island and find Instructor Teardrop^000000."
+msgstr ""
+
+# mes "Easy, right?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Easy, right?"
+msgstr ""
+
+# mes "Remember that you don't have any other equipment on, so be careful of the monsters.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Remember that you don't have any other equipment on, so be careful of the monsters."
+msgstr ""
+
+# mes "Ready to start?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Ready to start?"
+msgstr ""
+
+# if(select("Wait a second", "Yes, I'm ready") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Wait a second"
+msgstr ""
+
+# if(select("Wait a second", "Yes, I'm ready") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Yes, I'm ready"
+msgstr ""
+
+# mes "What kind of preparation can be so long.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "What kind of preparation can be so long."
+msgstr ""
+
+# mes "Come again when you are absolutely ready.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Come again when you are absolutely ready."
+msgstr ""
+
+# mes "Well, then let's start.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Well, then let's start."
+msgstr ""
+
+# mes "There's no time to hesitate.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "There's no time to hesitate."
+msgstr ""
+
+# mes "Do your best.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Do your best."
+msgstr ""
+
+# mes "I knew it.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I knew it."
+msgstr ""
+
+# mes "Why did you bring so much?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Why did you bring so much?"
+msgstr ""
+
+# mes "It's good that you do your best on the job change but, the key to this test is to test our true abilities...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "It's good that you do your best on the job change but, the key to this test is to test our true abilities..."
+msgstr ""
+
+# mes "If you don't make your weight 0, you wouldn't be able to take the test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "If you don't make your weight 0, you wouldn't be able to take the test."
+msgstr ""
+
+# mes "Umm?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Umm?"
+msgstr ""
+
+# mes "What are you waiting for?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "What are you waiting for?"
+msgstr ""
+
+# if(select("Tell me the mission again.", "I just wanted to talk.") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Tell me the mission again."
+msgstr ""
+
+# if(select("Tell me the mission again.", "I just wanted to talk.") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I just wanted to talk."
+msgstr ""
+
+# mes "Oh, ya.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Oh, ya."
+msgstr ""
+
+# mes "Is this the mind of a person who's going to take the test?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Is this the mind of a person who's going to take the test?"
+msgstr ""
+
+# mes "Stay alert and listen.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Stay alert and listen."
+msgstr ""
+
+# mes "Isn't that so easy?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Isn't that so easy?"
+msgstr ""
+
+# mes "As you don't have any equipment on, be careful of the monsters in the field.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "As you don't have any equipment on, be careful of the monsters in the field."
+msgstr ""
+
+# mes "Well, shall we start?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Well, shall we start?"
+msgstr ""
+
+# if(select("Wait a minute", "I will start") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Wait a minute"
+msgstr ""
+
+# if(select("Wait a minute", "I will start") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I will start"
+msgstr ""
+
+# mes "Okay, let's start.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Okay, let's start."
+msgstr ""
+
+# mes "There's no time to hesitate, so do your best.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "There's no time to hesitate, so do your best."
+msgstr ""
+
+# mes "I don't think you have the time for that.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "I don't think you have the time for that."
+msgstr ""
+
+# mes "Hurry up and finish the test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Hurry up and finish the test."
+msgstr ""
+
+# mes "Are you still wandering about here?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Are you still wandering about here?"
+msgstr ""
+
+# mes "Well, if you are an easy person, that's none of my business but if you decided once, wouldn't it be better to take the practical test in a minute and meet me after becoming a Ranger?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Well, if you are an easy person, that's none of my business but if you decided once, wouldn't it be better to take the practical test in a minute and meet me after becoming a Ranger?"
+msgstr ""
+
+# mes "Oh, hey. What are you doing here?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Oh, hey. What are you doing here?"
+msgstr ""
+
+# mes "Because you've disappeared suddenly, the Ranger Master was looking for you.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Because you've disappeared suddenly, the Ranger Master was looking for you."
+msgstr ""
+
+# mes "Do you want to go to him now?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Do you want to go to him now?"
+msgstr ""
+
+# switch(select("Don't go", "Go")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Don't go"
+msgstr ""
+
+# switch(select("Don't go", "Go")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Go"
+msgstr ""
+
+# mes "Are you busy with something else?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Are you busy with something else?"
+msgstr ""
+
+# mes "Then I'll send you, please be well.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Then I'll send you, please be well."
+msgstr ""
+
+# mes "Oh, hey. Who's this?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Oh, hey. Who's this?"
+msgstr ""
+
+# mes "Hey, you look great.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Hey, you look great."
+msgstr ""
+
+# mes "Congratulations on becoming a Ranger~";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Congratulations on becoming a Ranger~"
+msgstr ""
+
+# mes "Next time, try not to intimidate other people.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Next time, try not to intimidate other people."
+msgstr ""
+
+# mes "Ho. Who's this~";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Ho. Who's this~"
+msgstr ""
+
+# mes "You really look talented...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "You really look talented..."
+msgstr ""
+
+# mes "Ha ~ ha.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Survival Instructor#jr01"
+msgid "Ha ~ ha."
+msgstr ""
+
+# mes "[Test Instructor, Teardrop]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "[Test Instructor, Teardrop]"
+msgstr ""
+
+# mes "Good to goooooo!!!!!!!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Good to goooooo!!!!!!!"
+msgstr ""
+
+# mes "Huh? Who are you? What are you doing here, you baby archer.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Huh? Who are you? What are you doing here, you baby archer."
+msgstr ""
+
+# mes "May I tell you one thing?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "May I tell you one thing?"
+msgstr ""
+
+# mes "If you want to change a job to a Ranger, first talk to Survival Instructor Rescue.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you want to change a job to a Ranger, first talk to Survival Instructor Rescue."
+msgstr ""
+
+# mes "Then he will tell you the requirement for the job change test!!!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Then he will tell you the requirement for the job change test!!!"
+msgstr ""
+
+# mes "That you are coming and going bugs me so, would you please stop?!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "That you are coming and going bugs me so, would you please stop?!"
+msgstr ""
+
+# if(select("Ranger practical test building?", "I came for the test.") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Ranger practical test building?"
+msgstr ""
+
+# if(select("Ranger practical test building?", "I came for the test.") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I came for the test."
+msgstr ""
+
+# mes "What, what are you...?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "What, what are you...?"
+msgstr ""
+
+# mes "What do you think you are looking at?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "What do you think you are looking at?"
+msgstr ""
+
+# mes "How could you be a Ranger if you can't even recognize what's in front of you? Get out of here!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "How could you be a Ranger if you can't even recognize what's in front of you? Get out of here!"
+msgstr ""
+
+# mes "Ho, having come this far, it means you've passed the first survival test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Ho, having come this far, it means you've passed the first survival test."
+msgstr ""
+
+# mes "But, can you be sure that there wasn't any cheating?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "But, can you be sure that there wasn't any cheating?"
+msgstr ""
+
+# mes "See, I knew it.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "See, I knew it."
+msgstr ""
+
+# mes "Having done the test normally, you would have adjusted your weight to 0, and hold the items provided by Rescue!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Having done the test normally, you would have adjusted your weight to 0, and hold the items provided by Rescue!"
+msgstr ""
+
+# mes "But, how come you weigh so much?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "But, how come you weigh so much?"
+msgstr ""
+
+# mes "I consider this as cheating!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I consider this as cheating!"
+msgstr ""
+
+# mes "Come and see me again!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Come and see me again!"
+msgstr ""
+
+# mes "Hmm. It's doubtful...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Hmm. It's doubtful..."
+msgstr ""
+
+# mes "I don't smell any signs of cheating. For now...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I don't smell any signs of cheating. For now..."
+msgstr ""
+
+# mes "Before taking a practical test, I want to eat something.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Before taking a practical test, I want to eat something."
+msgstr ""
+
+# mes "You know the food situation isn't always so good in a foreign land.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You know the food situation isn't always so good in a foreign land."
+msgstr ""
+
+# mes "I know that the very basic way to survive might be raising the strength of one's own body. But, I find that sending adventurers is easier for me.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I know that the very basic way to survive might be raising the strength of one's own body. But, I find that sending adventurers is easier for me."
+msgstr ""
+
+# mes "So, kill ^0000ff1 Dragon Tail^000000 and bring me ^0000ff1 Wing of Dragonfly^000000.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "So, kill ^0000ff1 Dragon Tail^000000 and bring me ^0000ff1 Wing of Dragonfly^000000."
+msgstr ""
+
+# mes "If you run out of the provided items, we cannot support you more so take care.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you run out of the provided items, we cannot support you more so take care."
+msgstr ""
+
+# mes "Consider this as an extension of the survival power test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Consider this as an extension of the survival power test."
+msgstr ""
+
+# mes "Oh! Oh! Woooooow!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Oh! Oh! Woooooow!"
+msgstr ""
+
+# mes "You've brought it! Let me see...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You've brought it! Let me see..."
+msgstr ""
+
+# mes "Hmmmm, it's still hot?!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Hmmmm, it's still hot?!"
+msgstr ""
+
+# mes "You don't seem to be hurt anywhere...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You don't seem to be hurt anywhere..."
+msgstr ""
+
+# mes "Good, for now you're qualified for the practical test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Good, for now you're qualified for the practical test."
+msgstr ""
+
+# mes "Well, before I explain, could you please give me that Dragonfly wing?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Well, before I explain, could you please give me that Dragonfly wing?"
+msgstr ""
+
+# mes "You've heard the saying, 'in any situation, eating comes first'?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You've heard the saying, 'in any situation, eating comes first'?"
+msgstr ""
+
+# mes "What are you doing there? Standing with a blank look.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "What are you doing there? Standing with a blank look."
+msgstr ""
+
+# mes "I'm hungry.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I'm hungry."
+msgstr ""
+
+# mes "Before taking the practical test, I want to eat something.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Before taking the practical test, I want to eat something."
+msgstr ""
+
+# mes "So, kill ^0000ff1 Dragon Tail^000000 and bring me ^0000ff1 Dragon Fly Wing^000000.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "So, kill ^0000ff1 Dragon Tail^000000 and bring me ^0000ff1 Dragon Fly Wing^000000."
+msgstr ""
+
+# mes "If you run out of the provided items, we cannot support more so take care.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you run out of the provided items, we cannot support more so take care."
+msgstr ""
+
+# mes "Awooo. Yumyum.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Awooo. Yumyum."
+msgstr ""
+
+# mes "Eh? What are you looking at?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Eh? What are you looking at?"
+msgstr ""
+
+# mes "You want to eat some?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You want to eat some?"
+msgstr ""
+
+# switch(select("Oh, just eat up", "...")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Oh, just eat up"
+msgstr ""
+
+# switch(select("Oh, just eat up", "...")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "..."
+msgstr ""
+
+# mes "Why aren't you eating?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Why aren't you eating?"
+msgstr ""
+
+# mes "It's quite edible.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "It's quite edible."
+msgstr ""
+
+# mes "If you cover it with rice, it's like roasted seaweed, very tasty and delicious.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you cover it with rice, it's like roasted seaweed, very tasty and delicious."
+msgstr ""
+
+# mes "You need to be strong enough not to be so picky with such things...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You need to be strong enough not to be so picky with such things..."
+msgstr ""
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "["
+msgstr ""
+
+# mes "No thanks... anyway...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "No thanks... anyway..."
+msgstr ""
+
+# mes "Hmm? Oh my, oh my, I've shown you my sloppiness.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Hmm? Oh my, oh my, I've shown you my sloppiness."
+msgstr ""
+
+# mes "Ok, I'll send you to the practical test field.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Ok, I'll send you to the practical test field."
+msgstr ""
+
+# mes "The practical test consists of 3 parts in total.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "The practical test consists of 3 parts in total."
+msgstr ""
+
+# mes "It's to recheck the things you've learned as a hunter or a sniper, so there's nothing much to be worried.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "It's to recheck the things you've learned as a hunter or a sniper, so there's nothing much to be worried."
+msgstr ""
+
+# mes "If you get a passing mark over three tests, you'll be on your way to becoming a Ranger.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you get a passing mark over three tests, you'll be on your way to becoming a Ranger."
+msgstr ""
+
+# mes "I'll explain the paths for the test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I'll explain the paths for the test."
+msgstr ""
+
+# mes "Once you get into the test field, a staff will be waiting for you. Go into the room made by the staff, and standby.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Once you get into the test field, a staff will be waiting for you. Go into the room made by the staff, and standby."
+msgstr ""
+
+# mes "The test is done one by one so, if there's many people, you might need to wait.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "The test is done one by one so, if there's many people, you might need to wait."
+msgstr ""
+
+# mes "The first test is to test of how keen your eyes are.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "The first test is to test of how keen your eyes are."
+msgstr ""
+
+# mes "Different monsters will appear in 8 places. Kill only the monster named 'Poring' and you get a point, when you reach a certain mark, then you pass. Easy, huh?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Different monsters will appear in 8 places. Kill only the monster named 'Poring' and you get a point, when you reach a certain mark, then you pass. Easy, huh?"
+msgstr ""
+
+# mes "The second test is about how much you can use a trap efficiently.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "The second test is about how much you can use a trap efficiently."
+msgstr ""
+
+# mes "Get rid of monsters and do the mission by using only the provided traps, and you pass. Just be careful not to be engulfed by the explosion.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Get rid of monsters and do the mission by using only the provided traps, and you pass. Just be careful not to be engulfed by the explosion."
+msgstr ""
+
+# mes "For the 3rd test, when you become a Ranger you can handle a wolf, so you will be tested on how well you can handle such an animal.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "For the 3rd test, when you become a Ranger you can handle a wolf, so you will be tested on how well you can handle such an animal."
+msgstr ""
+
+# mes "When you remove a bomb by using the given wolf, you get points. You pass when you get a certain mark on the test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "When you remove a bomb by using the given wolf, you get points. You pass when you get a certain mark on the test."
+msgstr ""
+
+# mes "The staff there will tell you more details as well.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "The staff there will tell you more details as well."
+msgstr ""
+
+# mes "Now, I will enter you into the practical test field, is your preparation all done?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Now, I will enter you into the practical test field, is your preparation all done?"
+msgstr ""
+
+# if(select("Please wait a little", "Let's go to the practical test field!") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Please wait a little"
+msgstr ""
+
+# if(select("Please wait a little", "Let's go to the practical test field!") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Let's go to the practical test field!"
+msgstr ""
+
+# mes "Um? Aren't you ready?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Um? Aren't you ready?"
+msgstr ""
+
+# mes "Well. To be careful is good.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Well. To be careful is good."
+msgstr ""
+
+# mes "Come back when you are ready.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Come back when you are ready."
+msgstr ""
+
+# mes "Um? What happened?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Um? What happened?"
+msgstr ""
+
+# mes "Why are you walking about here? What about the test?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Why are you walking about here? What about the test?"
+msgstr ""
+
+# mes "Aha... You've failed the middle!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Aha... You've failed the middle!"
+msgstr ""
+
+# mes "You are such a fool.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You are such a fool."
+msgstr ""
+
+# mes "So what are you going to do? Try again?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "So what are you going to do? Try again?"
+msgstr ""
+
+# switch(select("Wait a minute", "Go to the practical test field!", "I give up the job change.")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Wait a minute"
+msgstr ""
+
+# switch(select("Wait a minute", "Go to the practical test field!", "I give up the job change.")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Go to the practical test field!"
+msgstr ""
+
+# switch(select("Wait a minute", "Go to the practical test field!", "I give up the job change.")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I give up the job change."
+msgstr ""
+
+# mes "Um? Aren't you ready yet?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Um? Aren't you ready yet?"
+msgstr ""
+
+# mes "All right. To be careful is good.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "All right. To be careful is good."
+msgstr ""
+
+# mes "Come when you are ready.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Come when you are ready."
+msgstr ""
+
+# mes "Um? What, you're kidding huh?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Um? What, you're kidding huh?"
+msgstr ""
+
+# mes "Think again.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Think again."
+msgstr ""
+
+# mes "Do you really want to give up the job change to become a Ranger?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Do you really want to give up the job change to become a Ranger?"
+msgstr ""
+
+# switch(select("No, I'll try again", "I give up!")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "No, I'll try again"
+msgstr ""
+
+# switch(select("No, I'll try again", "I give up!")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I give up!"
+msgstr ""
+
+# mes "Hey. You were kidding after all?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Hey. You were kidding after all?"
+msgstr ""
+
+# mes "It's not funny so don't do that kind of joke again.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "It's not funny so don't do that kind of joke again."
+msgstr ""
+
+# mes "You don't have as many guts as I thought.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You don't have as many guts as I thought."
+msgstr ""
+
+# mes "Okay. I'll respect your opinion.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Okay. I'll respect your opinion."
+msgstr ""
+
+# mes "I'll cancel the job change request from "+strcharinfo(PC_NAME)+".";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I'll cancel the job change request from "
+msgstr ""
+
+# mes "Huh? Where's the bow that I gave you for the practical tests?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Huh? Where's the bow that I gave you for the practical tests?"
+msgstr ""
+
+# mes "If you don't return it, I can't cancel you job change request.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you don't return it, I can't cancel you job change request."
+msgstr ""
+
+# mes "Oh, hey. What are you doing here?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Oh, hey. What are you doing here?"
+msgstr ""
+
+# mes "Because you've disappeared suddenly, the Ranger Master was looking for you.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Because you've disappeared suddenly, the Ranger Master was looking for you."
+msgstr ""
+
+# mes "Do you want to go to him now?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Do you want to go to him now?"
+msgstr ""
+
+# switch(select("Don't go", "Go")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Don't go"
+msgstr ""
+
+# switch(select("Don't go", "Go")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Go"
+msgstr ""
+
+# mes "Are you busy with something else?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Are you busy with something else?"
+msgstr ""
+
+# mes "Then I'll send you, please be well.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Then I'll send you, please be well."
+msgstr ""
+
+# mes "Wow. Who's this?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Wow. Who's this?"
+msgstr ""
+
+# mes "It seems that your dull eyes became somewhat keen now?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "It seems that your dull eyes became somewhat keen now?"
+msgstr ""
+
+# mes "Then, enjoy an adventure well as a Ranger.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Then, enjoy an adventure well as a Ranger."
+msgstr ""
+
+# mes "Good to gooooooooooooooo!!!!!!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Good to gooooooooooooooo!!!!!!"
+msgstr ""
+
+# mes "[Test Instructor]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "[Test Instructor]"
+msgstr ""
+
+# mes "Huh? What are you? Where are you from?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Huh? What are you? Where are you from?"
+msgstr ""
+
+# mes "Don't hang around here doing nothing. This is my area!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Don't hang around here doing nothing. This is my area!"
+msgstr ""
+
+# mes "Stop!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Stop!"
+msgstr ""
+
+# mes "Where do you think you're going with that mercenary?!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Where do you think you're going with that mercenary?!"
+msgstr ""
+
+# mes "If you don't cancel the mercenary, you cannot get into the test field! Cancel it first!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you don't cancel the mercenary, you cannot get into the test field! Cancel it first!"
+msgstr ""
+
+# mes "What, what is this?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "What, what is this?"
+msgstr ""
+
+# mes "You shouldn't keep this around!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You shouldn't keep this around!"
+msgstr ""
+
+# mes "What, what is this, a Bombring Capsule.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "What, what is this, a Bombring Capsule."
+msgstr ""
+
+# mes "You shouldn't keep such a dangerous thing!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You shouldn't keep such a dangerous thing!"
+msgstr ""
+
+# mes "What, what are all these Documents?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "What, what are all these Documents?"
+msgstr ""
+
+# mes "I think I know. You were going to send this to Caution, right?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I think I know. You were going to send this to Caution, right?"
+msgstr ""
+
+# mes "If you hold such thing it would disturb your practical test so I'll take this.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "If you hold such thing it would disturb your practical test so I'll take this."
+msgstr ""
+
+# mes "Well, then let's gooooooooo.... oo,um?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Well, then let's gooooooooo.... oo,um?"
+msgstr ""
+
+# mes "Hey, what are you hiding there?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Hey, what are you hiding there?"
+msgstr ""
+
+# mes "I've pointed it out for several times, you should not even think to go in there secretly with anything other than the provided items!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "I've pointed it out for several times, you should not even think to go in there secretly with anything other than the provided items!"
+msgstr ""
+
+# mes "You'd better lighten your weight.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "You'd better lighten your weight."
+msgstr ""
+
+# mes "See, for the last time, I warn you that cheating is strictly banned.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "See, for the last time, I warn you that cheating is strictly banned."
+msgstr ""
+
+# mes "Okay, once again I'll provide you with arrows, then I'll let you in.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Okay, once again I'll provide you with arrows, then I'll let you in."
+msgstr ""
+
+# mes "Good luck.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Good luck."
+msgstr ""
+
+# mes "Become a Ranger and we shall meet again.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Instructor#jr02"
+msgid "Become a Ranger and we shall meet again."
+msgstr ""
+
+# mes "[Staff DTS]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "[Staff DTS]"
+msgstr ""
+
+# mes "Please wait at the practical test waiting room to start the test process.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Please wait at the practical test waiting room to start the test process."
+msgstr ""
+
+# mes "In the order you enter, you can take the practical test one by one.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "In the order you enter, you can take the practical test one by one."
+msgstr ""
+
+# mes "There's 3 kinds of a Ranger job change practical tests, it takes a total of about 10 minutes.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "There's 3 kinds of a Ranger job change practical tests, it takes a total of about 10 minutes."
+msgstr ""
+
+# switch(select("Test explanation", "Cancel", "I give up the Ranger test")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Test explanation"
+msgstr ""
+
+# switch(select("Test explanation", "Cancel", "I give up the Ranger test")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Cancel"
+msgstr ""
+
+# switch(select("Test explanation", "Cancel", "I give up the Ranger test")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "I give up the Ranger test"
+msgstr ""
+
+# mes "Don't you need any explanation?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Don't you need any explanation?"
+msgstr ""
+
+# mes "Enter into the chat room and wait for the order and take the job change practical test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Enter into the chat room and wait for the order and take the job change practical test."
+msgstr ""
+
+# mes "Please think about it again.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Please think about it again."
+msgstr ""
+
+# mes "If you give up here, your job change request will be cancelled. Do you really want to give up the job change to a Ranger?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "If you give up here, your job change request will be cancelled. Do you really want to give up the job change to a Ranger?"
+msgstr ""
+
+# switch(select("No, I'll continue with the test", "I give up the Ranger job change")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "No, I'll continue with the test"
+msgstr ""
+
+# switch(select("No, I'll continue with the test", "I give up the Ranger job change")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "I give up the Ranger job change"
+msgstr ""
+
+# mes "If you want to continue with the practical test, please enter into the chat room.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "If you want to continue with the practical test, please enter into the chat room."
+msgstr ""
+
+# mes "You don't have as many guts as I thought.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "You don't have as many guts as I thought."
+msgstr ""
+
+# mes "Okay. I'll respect your opinion.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Okay. I'll respect your opinion."
+msgstr ""
+
+# mes "I'll cancel the job change request from "+strcharinfo(PC_NAME)+".";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "I'll cancel the job change request from "
+msgstr ""
+
+# mes "Huh? Where's the bow that I gave you for the practical tests?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Huh? Where's the bow that I gave you for the practical tests?"
+msgstr ""
+
+# mes "[Test Instructor, Teardrop]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "[Test Instructor, Teardrop]"
+msgstr ""
+
+# mes "If you don't return it, I can't cancel you job change request.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "If you don't return it, I can't cancel you job change request."
+msgstr ""
+
+# mes "I'll explain the Ranger job change practical test.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "I'll explain the Ranger job change practical test."
+msgstr ""
+
+# mes "Among the 1st, 2nd, and 3rd practical tests, which one's test method are you curious of?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Among the 1st, 2nd, and 3rd practical tests, which one's test method are you curious of?"
+msgstr ""
+
+# switch(select("1st Test", "2nd Test", "3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "1st Test"
+msgstr ""
+
+# switch(select("1st Test", "2nd Test", "3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "2nd Test"
+msgstr ""
+
+# switch(select("1st Test", "2nd Test", "3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "3rd Test"
+msgstr ""
+
+# mes "For the 1st test, we test your eyesight and accuracy.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "For the 1st test, we test your eyesight and accuracy."
+msgstr ""
+
+# mes "Monsters appear randomly from 8 sides of the left, right, up and down of the player, among them if you get rid of a monster named 'Poring' you get a point.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "Monsters appear randomly from 8 sides of the left, right, up and down of the player, among them if you get rid of a monster named 'Poring' you get a point."
+msgstr ""
+
+# mes "^0000ffWhatever the form looks like, you need to kill the monster named 'Poring' to get a point, and if you get rid of others your points get deducted, so be careful.^000000";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "^0000ffWhatever the form looks like, you need to kill the monster named 'Poring' to get a point, and if you get rid of others your points get deducted, so be careful.^000000"
+msgstr ""
+
+# mes "The 1st test progressing time will be about 3 minutes. When you get 15 points or more over 20, you are sent to 2nd test field.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "The 1st test progressing time will be about 3 minutes. When you get 15 points or more over 20, you are sent to 2nd test field."
+msgstr ""
+
+# mes "The 2nd test is to test the mission performance ability and the efficient use of a trap.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "The 2nd test is to test the mission performance ability and the efficient use of a trap."
+msgstr ""
+
+# mes "The attendant receives 10 'Bombring Capsules'. When you consume the Bombring Capsule, a Bombring is summoned near and after the summoning when you reach a certain time, the Bombring explodes.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "The attendant receives 10 'Bombring Capsules'. When you consume the Bombring Capsule, a Bombring is summoned near and after the summoning when you reach a certain time, the Bombring explodes."
+msgstr ""
+
+# mes "^0000ffThe Bombring explosion affects you, so be careful not to get involved in the explosion. You need to get rid of the monster by using the Bombring Capsule, accomplish the mission and come out alive.^000000";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "^0000ffThe Bombring explosion affects you, so be careful not to get involved in the explosion. You need to get rid of the monster by using the Bombring Capsule, accomplish the mission and come out alive.^000000"
+msgstr ""
+
+# mes "The 2nd test progressing time will be about 3 minutes. When you consume all the Bombring Capsules, collect hidden equipment, and survive, you will be sent to the 3rd test field.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "The 2nd test progressing time will be about 3 minutes. When you consume all the Bombring Capsules, collect hidden equipment, and survive, you will be sent to the 3rd test field."
+msgstr ""
+
+# mes "The 3rd is to test how you can efficiently use a wolf which is given Rangers.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "The 3rd is to test how you can efficiently use a wolf which is given Rangers."
+msgstr ""
+
+# mes "The tester is provided with disposable wolf summoning flute. Remove all bombs that are dispersed here and there by controlling the summoned warg and you get a point.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "The tester is provided with disposable wolf summoning flute. Remove all bombs that are dispersed here and there by controlling the summoned warg and you get a point."
+msgstr ""
+
+# mes "^0000ffThe tester cannot move while the test is going on and the test is completed when he or she removes the bombs quickly and accurately in time by using only the warg.^000000";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "^0000ffThe tester cannot move while the test is going on and the test is completed when he or she removes the bombs quickly and accurately in time by using only the warg.^000000"
+msgstr ""
+
+# mes "The 3rd test progressing time would be about 3 minutes, when you get 10 or more over 20, all the practical tests are completed.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "The 3rd test progressing time would be about 3 minutes, when you get 10 or more over 20, all the practical tests are completed."
+msgstr ""
+
+# mes "When you want to progress with the practical test, please enter into the chat room.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Waiting Room#jr_03"
+msgid "When you want to progress with the practical test, please enter into the chat room."
+msgstr ""
+
+# mes "[Staff Rust]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Staff Rust#jr_09"
+msgid "[Staff Rust]"
+msgstr ""
+
+# mes "I'll give you the 'Bombring Capsules.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Staff Rust#jr_09"
+msgid "I'll give you the 'Bombring Capsules."
+msgstr ""
+
+# mes "The 'Bombring Capsules' can be given again only for the one who used it all, so please keep that in mind.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Staff Rust#jr_09"
+msgid "The 'Bombring Capsules' can be given again only for the one who used it all, so please keep that in mind."
+msgstr ""
+
+# mes "And the mission is.... to deliver these documents to the supervisor, Caution. He won't take what I give...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Staff Rust#jr_09"
+msgid "And the mission is.... to deliver these documents to the supervisor, Caution. He won't take what I give..."
+msgstr ""
+
+# mes "I'm sorry, but you already have the 'Bombring Capsules', so I cannot provide you with more.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Staff Rust#jr_09"
+msgid "I'm sorry, but you already have the 'Bombring Capsules', so I cannot provide you with more."
+msgstr ""
+
+# mes "Excuse me, but how did you get in?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Staff Rust#jr_09"
+msgid "Excuse me, but how did you get in?"
+msgstr ""
+
+# mes "If you are not here for the job change test, please leave.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Staff Rust#jr_09"
+msgid "If you are not here for the job change test, please leave."
+msgstr ""
+
+# mes "[Test Supervisor, Caution]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "[Test Supervisor, Caution]"
+msgstr ""
+
+# mes "Come, come near, nearer, nearer!!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Come, come near, nearer, nearer!!"
+msgstr ""
+
+# mes "No, no!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "No, no!"
+msgstr ""
+
+# mes "You need to use all the 'Bombring Capsules'?!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "You need to use all the 'Bombring Capsules'?!"
+msgstr ""
+
+# mes "Use it all and come back!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Use it all and come back!"
+msgstr ""
+
+# mes "Time is ticking so you'd better hurry.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Time is ticking so you'd better hurry."
+msgstr ""
+
+# mes "You've arrived safely!!!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "You've arrived safely!!!"
+msgstr ""
+
+# mes "What are those documents?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "What are those documents?"
+msgstr ""
+
+# select("Mr. Rust asked me to give this to you.");
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Mr. Rust asked me to give this to you."
+msgstr ""
+
+# mes "Haaaaaaaah!!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Haaaaaaaah!!"
+msgstr ""
+
+# mes "I've been avoiding him so much!!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "I've been avoiding him so much!!"
+msgstr ""
+
+# mes "I've never imagined this could be a test...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "I've never imagined this could be a test..."
+msgstr ""
+
+# mes "Anyway you've passed the 2nd test very well.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Anyway you've passed the 2nd test very well."
+msgstr ""
+
+# mes "Pass the 3rd one and you will become a great ranger.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Pass the 3rd one and you will become a great ranger."
+msgstr ""
+
+# mes "You've arrived safely......uh?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "You've arrived safely......uh?"
+msgstr ""
+
+# mes "Didn't Rust give you something?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Didn't Rust give you something?"
+msgstr ""
+
+# mes "Where did you lose that?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Where did you lose that?"
+msgstr ""
+
+# mes "Pick it up quickly!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_11"
+msgid "Pick it up quickly!"
+msgstr ""
+
+# mes "[Test Supervisor, Freeze]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "[Test Supervisor, Freeze]"
+msgstr ""
+
+# mes "Congrats for passing the 2nd practical test! I am the 3rd practical test supervisor Freeze!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Congrats for passing the 2nd practical test! I am the 3rd practical test supervisor Freeze!"
+msgstr ""
+
+# mes "For the 3rd test, I'll test how much you could use a wolf effectively. When you become a Ranger in the future, you'll learn an wolf!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "For the 3rd test, I'll test how much you could use a wolf effectively. When you become a Ranger in the future, you'll learn an wolf!"
+msgstr ""
+
+# mes "^0000ffThe tester is provided with a disposable Wolf summoning Flute! When you remove egg bombs coming out from here and there by controlling the summoned wolf, you get points!^000000";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "^0000ffThe tester is provided with a disposable Wolf summoning Flute! When you remove egg bombs coming out from here and there by controlling the summoned wolf, you get points!^000000"
+msgstr ""
+
+# mes "Tester cannot move during the test, and the test completes when all bombs are removed quickly and accurately within the given time only by using a wolf!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Tester cannot move during the test, and the test completes when all bombs are removed quickly and accurately within the given time only by using a wolf!"
+msgstr ""
+
+# mes "^0000ffThe way to control an wolf is to press the alt key and left-click the surface, then the wolf moves to the point where you've clicked on!^000000";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "^0000ffThe way to control an wolf is to press the alt key and left-click the surface, then the wolf moves to the point where you've clicked on!^000000"
+msgstr ""
+
+# mes "^0000ffWhen you target the bomb and press one more, it starts to attack!^000000";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "^0000ffWhen you target the bomb and press one more, it starts to attack!^000000"
+msgstr ""
+
+# mes "The 3rd test time limit is about 3 minutes, when you get 10 over 20 points, you can pass the practical test!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "The 3rd test time limit is about 3 minutes, when you get 10 over 20 points, you can pass the practical test!"
+msgstr ""
+
+# mes "Well, then first get this Wolf' flutes and after summoning the wolf, talk to me!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Well, then first get this Wolf' flutes and after summoning the wolf, talk to me!"
+msgstr ""
+
+# mes "Good! Then I'll start the test right now!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Good! Then I'll start the test right now!"
+msgstr ""
+
+# mes "Keep in mind! You need to remove the egg bomb before it gets exploded by only using a wolf!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Keep in mind! You need to remove the egg bomb before it gets exploded by only using a wolf!"
+msgstr ""
+
+# mes "Then, good luck!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Then, good luck!"
+msgstr ""
+
+# mes "Huh?! There's no wolf, no Test Flute, where did you get rid of them?!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Huh?! There's no wolf, no Test Flute, where did you get rid of them?!"
+msgstr ""
+
+# mes "I'll give you one more time specially, so hold yourself together!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "I'll give you one more time specially, so hold yourself together!"
+msgstr ""
+
+# mes "Summon the wolf quickly, and talk to me again!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Summon the wolf quickly, and talk to me again!"
+msgstr ""
+
+# mes "Ha? What are you doing?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Ha? What are you doing?"
+msgstr ""
+
+# mes "Play the Test Flute quickly to summon the wolf and talk to me!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Play the Test Flute quickly to summon the wolf and talk to me!"
+msgstr ""
+
+# mes "Who are you?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "Who are you?"
+msgstr ""
+
+# mes "This area is for the Ranger Job Change test!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "This area is for the Ranger Job Change test!"
+msgstr ""
+
+# mes "You are not authorized to be here, please get out!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Test Supervisor#jr_13"
+msgid "You are not authorized to be here, please get out!"
+msgstr ""
+
+# mes "[Ranger Master, Neveragain]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "[Ranger Master, Neveragain]"
+msgstr ""
+
+# mes "... ...Huh?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "... ...Huh?"
+msgstr ""
+
+# mes "It's weird... How did you get here?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "It's weird... How did you get here?"
+msgstr ""
+
+# mes "You don't seem to belong here...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "You don't seem to belong here..."
+msgstr ""
+
+# mes "Go away.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Go away."
+msgstr ""
+
+# mes "You are not supposed to be here.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "You are not supposed to be here."
+msgstr ""
+
+# mes "No.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "No."
+msgstr ""
+
+# mes "I can tell just by looking at you that you seem to be inexperienced.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "I can tell just by looking at you that you seem to be inexperienced."
+msgstr ""
+
+# mes "Have more pride in your job and get more experience, and then when you grow as a Hunter or a Sniper you can make an aura by yourself, please come back again.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Have more pride in your job and get more experience, and then when you grow as a Hunter or a Sniper you can make an aura by yourself, please come back again."
+msgstr ""
+
+# mes "Congratulations!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Congratulations!"
+msgstr ""
+
+# mes "You've completed all the rough practical tests!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "You've completed all the rough practical tests!"
+msgstr ""
+
+# mes "Well, you've had enough experience so I won't need to drag on.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Well, you've had enough experience so I won't need to drag on."
+msgstr ""
+
+# mes "Before you do a job change ^0000ffdismiss your Falcon^000000, and check if you've used all of your ^0000ffSkill Points^000000.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Before you do a job change ^0000ffdismiss your Falcon^000000, and check if you've used all of your ^0000ffSkill Points^000000."
+msgstr ""
+
+# if(select("Wait a minute", "I am ready") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Wait a minute"
+msgstr ""
+
+# if(select("Wait a minute", "I am ready") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "I am ready"
+msgstr ""
+
+# mes "I am not running away so take your time.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "I am not running away so take your time."
+msgstr ""
+
+# mes "Didn't you dismiss your falcon??";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Didn't you dismiss your falcon??"
+msgstr ""
+
+# mes "Please dismiss your falcon, and come back to me.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Please dismiss your falcon, and come back to me."
+msgstr ""
+
+# mes "I think you need to learn more.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "I think you need to learn more."
+msgstr ""
+
+# mes "[Ranger Master Neveragain]";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "[Ranger Master Neveragain]"
+msgstr ""
+
+# mes "Use up all of your skill points before continuing on.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Use up all of your skill points before continuing on."
+msgstr ""
+
+# mes "Good. No falcon and you've used up all your skill points.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Good. No falcon and you've used up all your skill points."
+msgstr ""
+
+# mes "Okay, before you really change the job into a ranger, I'll ask you on more time.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Okay, before you really change the job into a ranger, I'll ask you on more time."
+msgstr ""
+
+# mes "Do you really want to become a ranger?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Do you really want to become a ranger?"
+msgstr ""
+
+# if(select("No", "Yes!") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "No"
+msgstr ""
+
+# if(select("No", "Yes!") == 1) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Yes!"
+msgstr ""
+
+# mes "...Um? That's not the answer that I was waiting for...";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "...Um? That's not the answer that I was waiting for..."
+msgstr ""
+
+# mes "Even after passing through all the rough practical tests, you don't want to become a ranger... are you sure?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Even after passing through all the rough practical tests, you don't want to become a ranger... are you sure?"
+msgstr ""
+
+# mes "You are on a riding pet,";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "You are on a riding pet,"
+msgstr ""
+
+# mes "so you cannot change your job.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "so you cannot change your job."
+msgstr ""
+
+# mes "Please unequip your riding pet and try again!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Please unequip your riding pet and try again!"
+msgstr ""
+
+# mes "Wait, who are you?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Wait, who are you?"
+msgstr ""
+
+# mes "You are not a Hunter or a Sniper?!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "You are not a Hunter or a Sniper?!"
+msgstr ""
+
+# mes "What are you doing here?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "What are you doing here?"
+msgstr ""
+
+# mes "You are not supposed to be here. Get out!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "You are not supposed to be here. Get out!"
+msgstr ""
+
+# mes "Your firm answer seems very trustworthy!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Your firm answer seems very trustworthy!"
+msgstr ""
+
+# mes "Umm?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Umm?"
+msgstr ""
+
+# mes "You need to return the borrowed stuff.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "You need to return the borrowed stuff."
+msgstr ""
+
+# mes "Where is the bow that was given to you for the job change test?";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Where is the bow that was given to you for the job change test?"
+msgstr ""
+
+# mes "From now on be active as a splendid Ranger!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "From now on be active as a splendid Ranger!"
+msgstr ""
+
+# mes "I wish you luck in your future!";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "I wish you luck in your future!"
+msgstr ""
+
+# mes "Hey, you look great.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Hey, you look great."
+msgstr ""
+
+# switch(select("I just came by", "Please let me be out")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "I just came by"
+msgstr ""
+
+# switch(select("I just came by", "Please let me be out")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Please let me be out"
+msgstr ""
+
+# mes "Well, there's nothing to see and you came.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Well, there's nothing to see and you came."
+msgstr ""
+
+# mes "Take a rest as long as you want.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Take a rest as long as you want."
+msgstr ""
+
+# mes "It's the place where you can have a tea easily.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "It's the place where you can have a tea easily."
+msgstr ""
+
+# mes "It was good to see you.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "It was good to see you."
+msgstr ""
+
+# mes "Don't lose the dignity as a Ranger wherever you go.";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Ranger Master#jr_29"
+msgid "Don't lose the dignity as a Ranger wherever you go."
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Enable Waiting Room"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Disable Waiting Room"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Enable 1st Test"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Disable 1st Test"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Enable 2nd Test"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Disable 2nd Test"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Enable 3rd Test"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Disable 3rd Test"
+msgstr ""
+
+# switch(select("Enable Waiting Room", "Disable Waiting Room", "Enable 1st Test", "Disable 1st Test", "Enable 2nd Test", "Disable 2nd Test", "Enable 3rd Test", "Disable 3rd Test", "Cancel")) {
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Cancel"
+msgstr ""
+
+# mes "Enabled Waiting Room";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Enabled Waiting Room"
+msgstr ""
+
+# mes "Disabled Waiting Room";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "Disabled Waiting Room"
+msgstr ""
+
+# mes "1st Test Enabled";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "1st Test Enabled"
+msgstr ""
+
+# mes "1st Test Disabled";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "1st Test Disabled"
+msgstr ""
+
+# mes "2nd Test Enabled";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "2nd Test Enabled"
+msgstr ""
+
+# mes "2nd Test Disabled";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "2nd Test Disabled"
+msgstr ""
+
+# mes "3rd Test has been Enabled";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "3rd Test has been Enabled"
+msgstr ""
+
+# mes "3rd Test has been Disabled";
+#: npc/re/jobs/3-1/ranger.txt
+msgctxt "Worker#job_ranger"
+msgid "3rd Test has been Disabled"
+msgstr ""
+
