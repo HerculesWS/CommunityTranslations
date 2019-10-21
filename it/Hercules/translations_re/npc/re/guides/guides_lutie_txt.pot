@@ -1,0 +1,127 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:19\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/guides/guides_lutie_txt.pot\n"
+
+# mes "[Lutie Guide]";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "[Lutie Guide]"
+msgstr ""
+
+# mes "Welcome to ^8B4513Lutie^000000,";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Welcome to ^8B4513Lutie^000000,"
+msgstr ""
+
+# mes "the Snow Village.";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "the Snow Village."
+msgstr ""
+
+# mes "Do you need help navigating the village?";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Do you need help navigating the village?"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "[ Gift Shop ]"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "[ Church ]"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "[ Weapon & Armor Shop ]"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "[ Santa's House ]"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "[ Toy Factory ]"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Gift Shop ]", "[ Church ]", "[ Weapon & Armor Shop ]", "[ Tool Shop ]", "[ Santa's House ]", "[ Toy Factory ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Cancel"
+msgstr ""
+
+# mes "Sure, I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Be safe on your travels.";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Be safe on your travels."
+msgstr ""
+
+# mes "Let me mark the location of "+((getarg(1,0))?"":"the");
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Let me mark the location of "
+msgstr ""
+
+# mes "on your mini-map.";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "on your mini-map."
+msgstr ""
+
+# mes "Would you like to check any other locations?";
+#: npc/re/guides/guides_lutie.txt
+msgctxt "Lutie Guide#xmas"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
