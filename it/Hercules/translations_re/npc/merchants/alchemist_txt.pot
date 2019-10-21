@@ -1,0 +1,385 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:52+0200\n"
+"PO-Revision-Date: 2019-10-21 10:38\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/merchants/alchemist_txt.pot\n"
+
+# mes "- Wait a minute! -";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "- Wait a minute! -"
+msgstr ""
+
+# mes "- Currently you are carrying -";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "- Currently you are carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please come back again -";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "- Please come back again -"
+msgstr ""
+
+# mes "- after you store some items into kafra storage. -";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "- after you store some items into kafra storage. -"
+msgstr ""
+
+# mes "[Gever Al Sharp]";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "[Gever Al Sharp]"
+msgstr ""
+
+# mes "Welcome to the";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Welcome to the"
+msgstr ""
+
+# mes "Alchemist Union.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Alchemist Union."
+msgstr ""
+
+# mes "How can I assist you today?";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "How can I assist you today?"
+msgstr ""
+
+# switch (select("Purchase materials.", "Purchase a production manual.", "Quit.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Purchase materials."
+msgstr ""
+
+# switch (select("Purchase materials.", "Purchase a production manual.", "Quit.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Purchase a production manual."
+msgstr ""
+
+# switch (select("Purchase materials.", "Purchase a production manual.", "Quit.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Quit."
+msgstr ""
+
+# mes "What would you like?";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "What would you like?"
+msgstr ""
+
+# if (select("Medicine Bowl - " + (RENEWAL ? "250z" : "8 Zeny"), "Cancel.") == 1) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Medicine Bowl - "
+msgstr ""
+
+# if (select("Medicine Bowl - " + (RENEWAL ? "250z" : "8 Zeny"), "Cancel.") == 1) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "250z"
+msgstr ""
+
+# if (select("Medicine Bowl - " + (RENEWAL ? "250z" : "8 Zeny"), "Cancel.") == 1) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "8 Zeny"
+msgstr ""
+
+# if (select("Medicine Bowl - " + (RENEWAL ? "250z" : "8 Zeny"), "Cancel.") == 1) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Cancel."
+msgstr ""
+
+# mes "How many do you want?";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "How many do you want?"
+msgstr ""
+
+# mes "Enter '0' if you want to quit.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Enter '0' if you want to quit."
+msgstr ""
+
+# mes "The deal was cancelled.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "The deal was cancelled."
+msgstr ""
+
+# mes "Come again next time.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Come again next time."
+msgstr ""
+
+# mes "The number must";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "The number must"
+msgstr ""
+
+# mes "be less than 2000.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "be less than 2000."
+msgstr ""
+
+# mes "You don't";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "You don't"
+msgstr ""
+
+# mes "have enough zeny.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "have enough zeny."
+msgstr ""
+
+# mes "Check how much zeny";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Check how much zeny"
+msgstr ""
+
+# mes "you have first.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "you have first."
+msgstr ""
+
+# mes "It doesn't seem like";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "It doesn't seem like"
+msgstr ""
+
+# mes "you can carry everything.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "you can carry everything."
+msgstr ""
+
+# mes "Please check the space";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Please check the space"
+msgstr ""
+
+# mes "in your inventory.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "in your inventory."
+msgstr ""
+
+# mes "Thank you.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Thank you."
+msgstr ""
+
+# mes "Come again.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Come again."
+msgstr ""
+
+# mes "Well then,";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Well then,"
+msgstr ""
+
+# mes "come again when";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "come again when"
+msgstr ""
+
+# mes "you need to purchase";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "you need to purchase"
+msgstr ""
+
+# mes "materials related to";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "materials related to"
+msgstr ""
+
+# mes "Alchemy, alright?";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Alchemy, alright?"
+msgstr ""
+
+# mes "What do you need?";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "What do you need?"
+msgstr ""
+
+# mes "Manuals are generally 100,000 zeny. But there are a couple of special manuals that will cost more.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Manuals are generally 100,000 zeny. But there are a couple of special manuals that will cost more."
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Potion Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Alcohol Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Bottle Grenade Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Acid Bottle Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Plant Bottle Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Marine Sphere Bottle Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Glistening Coat Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Condensed Potion Creation Guide"
+msgstr ""
+
+# switch (select("Potion Creation Guide", "Alcohol Creation Guide", "Bottle Grenade Creation Guide", "Acid Bottle Creation Guide", "Plant Bottle Creation Guide", "Marine Sphere Bottle Creation Guide", "Glistening Coat Creation Guide", "Condensed Potion Creation Guide", "Cancel Deal.")) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Cancel Deal."
+msgstr ""
+
+# mes "Well then...";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Well then..."
+msgstr ""
+
+# mes "Come back if you";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Come back if you"
+msgstr ""
+
+# mes "ever need to buy";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "ever need to buy"
+msgstr ""
+
+# mes "a production manual.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "a production manual."
+msgstr ""
+
+# mes "Alright then,";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Alright then,"
+msgstr ""
+
+# mes "have a good day.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "have a good day."
+msgstr ""
+
+# mes "That'll be "+ getarg(1) +" zeny.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "That'll be "
+msgstr ""
+
+# if (select("Purchase.", "Quit.") == 1) {
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Purchase."
+msgstr ""
+
+# mes "Thank you for";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Thank you for"
+msgstr ""
+
+# mes "your patronage.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "your patronage."
+msgstr ""
+
+# mes "Come again";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "Come again"
+msgstr ""
+
+# mes "next time.";
+#: npc/merchants/alchemist.txt
+msgctxt "Guild Dealer"
+msgid "next time."
+msgstr ""
+
