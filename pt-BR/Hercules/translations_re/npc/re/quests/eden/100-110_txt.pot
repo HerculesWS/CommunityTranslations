@@ -1,0 +1,1909 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:04\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/eden/100-110_txt.pot\n"
+
+# mes "^FF0000- Stop Here!! -";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "^FF0000- Stop Here!! -"
+msgstr ""
+
+# mes "- You have too many items. -";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "- You have too many items. -"
+msgstr ""
+
+# mes "- You cannot carry any more items. -";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "- You cannot carry any more items. -"
+msgstr ""
+
+# mes "- Lighten your load and -";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "- Lighten your load and -"
+msgstr ""
+
+# mes "- try again. -^000000";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "- try again. -^000000"
+msgstr ""
+
+# mes "[Gelkah]";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "[Gelkah]"
+msgstr ""
+
+# mes "- You need to have an -";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "- You need to have an -"
+msgstr ""
+
+# mes "- ^4d4dff'Eden Group Mark'^000000 -";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "- ^4d4dff'Eden Group Mark'^000000 -"
+msgstr ""
+
+# mes "- to receive these missions. -";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "- to receive these missions. -"
+msgstr ""
+
+# mes "You're not a mature enough adventurer. You should be at least base level 100. So basically at least a third class.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You're not a mature enough adventurer. You should be at least base level 100. So basically at least a third class."
+msgstr ""
+
+# mes "The request is from ^FF0000somewhere else^000000 other than Rune Midgard.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The request is from ^FF0000somewhere else^000000 other than Rune Midgard."
+msgstr ""
+
+# mes "Adventurers!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Adventurers!"
+msgstr ""
+
+# mes "I've recently received several requests from clients that need the help of Adventurers just like yourself.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I've recently received several requests from clients that need the help of Adventurers just like yourself."
+msgstr ""
+
+# if (select( "I like requests!", "A boring quest... No thanks!" ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I like requests!"
+msgstr ""
+
+# if (select( "I like requests!", "A boring quest... No thanks!" ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "A boring quest... No thanks!"
+msgstr ""
+
+# mes "You know that harder requests yield better rewards right?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You know that harder requests yield better rewards right?"
+msgstr ""
+
+# mes "Actually, I can't just accept just any schmo off the street. My Master hates indecisive people.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Actually, I can't just accept just any schmo off the street. My Master hates indecisive people."
+msgstr ""
+
+# if (select( "Who's your master?", "I am not indecisive!" ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Who's your master?"
+msgstr ""
+
+# if (select( "Who's your master?", "I am not indecisive!" ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I am not indecisive!"
+msgstr ""
+
+# mes "That person standing next to me is my master... He came back after long journey of practice.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "That person standing next to me is my master... He came back after long journey of practice."
+msgstr ""
+
+# mes "I understand you might wonder why a Sura wants an Archbishop as a teacher...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I understand you might wonder why a Sura wants an Archbishop as a teacher..."
+msgstr ""
+
+# mes "You think you're a veteran just because you've become a third class...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You think you're a veteran just because you've become a third class..."
+msgstr ""
+
+# mes "I know you're not exactly a novice but my Master thinks you're no different from one. In my opinion, You are a great adventurer!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I know you're not exactly a novice but my Master thinks you're no different from one. In my opinion, You are a great adventurer!"
+msgstr ""
+
+# mes "We need adventurers that are willing to help. Will you help us?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "We need adventurers that are willing to help. Will you help us?"
+msgstr ""
+
+# if (select( "Ok, I'll help.", "I have no interest in helping you." ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Ok, I'll help."
+msgstr ""
+
+# if (select( "Ok, I'll help.", "I have no interest in helping you." ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I have no interest in helping you."
+msgstr ""
+
+# mes "How do you know without doing it.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "How do you know without doing it."
+msgstr ""
+
+# mes "That is what an Adventurer does!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "That is what an Adventurer does!"
+msgstr ""
+
+# mes "I would like to know if you are capable of doing a request. Let me see...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I would like to know if you are capable of doing a request. Let me see..."
+msgstr ""
+
+# mes "Collect 50 ^ff0000Brigan.^000000 It is a simple and complicated test.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Collect 50 ^ff0000Brigan.^000000 It is a simple and complicated test."
+msgstr ""
+
+# mes "It is easy to find from monsters at Turtle Island or at Glastheim.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It is easy to find from monsters at Turtle Island or at Glastheim."
+msgstr ""
+
+# mes "Lets do the real request after clearing the simple one.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Lets do the real request after clearing the simple one."
+msgstr ""
+
+# mes "Did you bring all the Brigans I asked for?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Did you bring all the Brigans I asked for?"
+msgstr ""
+
+# mes "I do not need to count one by one. This request is for selecting the best adventurer.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I do not need to count one by one. This request is for selecting the best adventurer."
+msgstr ""
+
+# mes "Don't be upset because Master is ultimately responsible if an Adventurer gets injured during a request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Don't be upset because Master is ultimately responsible if an Adventurer gets injured during a request."
+msgstr ""
+
+# mes "Master decided that adventurer's safety is important because lots of new requests are dangerous.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Master decided that adventurer's safety is important because lots of new requests are dangerous."
+msgstr ""
+
+# mes "[Rohtert]";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "[Rohtert]"
+msgstr ""
+
+# mes "Hmm...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Hmm..."
+msgstr ""
+
+# mes "I hope you didn't peek. The Assessment for your capability of standard requests is almost done.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I hope you didn't peek. The Assessment for your capability of standard requests is almost done."
+msgstr ""
+
+# mes "No time to make ^ff0000The badge of advanced Eden Group.^000000";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "No time to make ^ff0000The badge of advanced Eden Group.^000000"
+msgstr ""
+
+# mes "^ff0000Time is money novice!^000000";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "^ff0000Time is money novice!^000000"
+msgstr ""
+
+# mes "I think that's what a true master would sound like right?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I think that's what a true master would sound like right?"
+msgstr ""
+
+# mes "Haven't found 50 Brigan yet? Master says that it's such a simple task...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Haven't found 50 Brigan yet? Master says that it's such a simple task..."
+msgstr ""
+
+# mes "Please hurry up! We need a real adventurer to perform the request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please hurry up! We need a real adventurer to perform the request."
+msgstr ""
+
+# mes "Wait a minute. I am making a request list. I just do not know which one I have to give to you. I am a good man.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Wait a minute. I am making a request list. I just do not know which one I have to give to you. I am a good man."
+msgstr ""
+
+# mes "The request list is ready. Do you want to start?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The request list is ready. Do you want to start?"
+msgstr ""
+
+# switch( select( "Hunting Quests", "Inquire regards", "Show Courtesy Ticket" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Hunting Quests"
+msgstr ""
+
+# switch( select( "Hunting Quests", "Inquire regards", "Show Courtesy Ticket" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Inquire regards"
+msgstr ""
+
+# switch( select( "Hunting Quests", "Inquire regards", "Show Courtesy Ticket" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Show Courtesy Ticket"
+msgstr ""
+
+# mes "You don't need to take all requests at once. Choose a request area that suits your particular skills. One that enables you to perform the request and enjoy the trip at the same time.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You don't need to take all requests at once. Choose a request area that suits your particular skills. One that enables you to perform the request and enjoy the trip at the same time."
+msgstr ""
+
+# switch( select( "Glastheim related request", "Ash Vacuum related request", "Ice Dungeon related request", "Magma Dungeon related request", "Other requests" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Glastheim related request"
+msgstr ""
+
+# switch( select( "Glastheim related request", "Ash Vacuum related request", "Ice Dungeon related request", "Magma Dungeon related request", "Other requests" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Ash Vacuum related request"
+msgstr ""
+
+# switch( select( "Glastheim related request", "Ash Vacuum related request", "Ice Dungeon related request", "Magma Dungeon related request", "Other requests" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Ice Dungeon related request"
+msgstr ""
+
+# switch( select( "Glastheim related request", "Ash Vacuum related request", "Ice Dungeon related request", "Magma Dungeon related request", "Other requests" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Magma Dungeon related request"
+msgstr ""
+
+# switch( select( "Glastheim related request", "Ash Vacuum related request", "Ice Dungeon related request", "Magma Dungeon related request", "Other requests" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Other requests"
+msgstr ""
+
+# mes "Here are the requests from the Glastheim area.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Here are the requests from the Glastheim area."
+msgstr ""
+
+# switch( select( "Carat Hunting", "Arclouse Hunting", "Anolian Hunting", "Sting Hunting", "Majoruros Hunting" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Carat Hunting"
+msgstr ""
+
+# switch( select( "Carat Hunting", "Arclouse Hunting", "Anolian Hunting", "Sting Hunting", "Majoruros Hunting" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Arclouse Hunting"
+msgstr ""
+
+# switch( select( "Carat Hunting", "Arclouse Hunting", "Anolian Hunting", "Sting Hunting", "Majoruros Hunting" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Anolian Hunting"
+msgstr ""
+
+# switch( select( "Carat Hunting", "Arclouse Hunting", "Anolian Hunting", "Sting Hunting", "Majoruros Hunting" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Sting Hunting"
+msgstr ""
+
+# switch( select( "Carat Hunting", "Arclouse Hunting", "Anolian Hunting", "Sting Hunting", "Majoruros Hunting" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Majoruros Hunting"
+msgstr ""
+
+# mes "You just finished a request. It is important that you rest for a while. There will always be a requests waiting for you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. It is important that you rest for a while. There will always be a requests waiting for you."
+msgstr ""
+
+# mes "This request is to clear ^0000FF30^000000 ^FF0000Carat^000000 inside of Glastheim castle's first floor.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This request is to clear ^0000FF30^000000 ^FF0000Carat^000000 inside of Glastheim castle's first floor."
+msgstr ""
+
+# mes "Please inform me when you've completed the request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please inform me when you've completed the request."
+msgstr ""
+
+# mes "Visiting to scary old castle must be tough. I am sure it would be a good experience for me someday.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Visiting to scary old castle must be tough. I am sure it would be a good experience for me someday."
+msgstr ""
+
+# mes "This request is from a merchant from Morroc who is somehow losing business from these monsters in Glastheim.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This request is from a merchant from Morroc who is somehow losing business from these monsters in Glastheim."
+msgstr ""
+
+# mes "Eden Group is aware that this is not a great reason but a request is a request. So please clear ^FF000030 Carat^000000 monsters inside of Glastheim castle.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Eden Group is aware that this is not a great reason but a request is a request. So please clear ^FF000030 Carat^000000 monsters inside of Glastheim castle."
+msgstr ""
+
+# mes "You just finished a request. Please take a rest. There will always be a request for you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Please take a rest. There will always be a request for you."
+msgstr ""
+
+# mes "Please clear ^FF000022 Arclouse^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please clear ^FF000022 Arclouse^000000."
+msgstr ""
+
+# mes "Please inform me when you've cleared this request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please inform me when you've cleared this request."
+msgstr ""
+
+# mes "You did a great job.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You did a great job."
+msgstr ""
+
+# mes "Do you know there are beans used as food here in Rune Midgard? When an Arclouse rolls, it resembles a bean.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Do you know there are beans used as food here in Rune Midgard? When an Arclouse rolls, it resembles a bean."
+msgstr ""
+
+# mes "Eden Group Headquarters wants to investigate the Arclouse as a possible mascot.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Eden Group Headquarters wants to investigate the Arclouse as a possible mascot."
+msgstr ""
+
+# mes "That is too bad. It was an interesting request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "That is too bad. It was an interesting request."
+msgstr ""
+
+# mes "You just finished a request. Adventure is important but taking a rest is important too. There will always be a request waiting for.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Adventure is important but taking a rest is important too. There will always be a request waiting for."
+msgstr ""
+
+# mes "A monk is on a pilgrimage and seeks protection against some alligator-like creatures.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "A monk is on a pilgrimage and seeks protection against some alligator-like creatures."
+msgstr ""
+
+# mes "Anyways, this request is to clear out Anolians in underground waterway to make way for a safe pilgrimage.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Anyways, this request is to clear out Anolians in underground waterway to make way for a safe pilgrimage."
+msgstr ""
+
+# mes "You fared well with this request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You fared well with this request."
+msgstr ""
+
+# mes "Glastheim seems to be a good sacred place not only to adventurers but also to monks. I have no idea what really attracts them there.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Glastheim seems to be a good sacred place not only to adventurers but also to monks. I have no idea what really attracts them there."
+msgstr ""
+
+# mes "A Pilgrimage from the monastery to the underground waterway is a journey. The request is to clear ^FF000030 Anolian^000000 in the Glastheim sewer for a safe pilgrimage.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "A Pilgrimage from the monastery to the underground waterway is a journey. The request is to clear ^FF000030 Anolian^000000 in the Glastheim sewer for a safe pilgrimage."
+msgstr ""
+
+# mes "There are many Sting monsters in the underground waterway and underground cave so it will be easy to clear.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "There are many Sting monsters in the underground waterway and underground cave so it will be easy to clear."
+msgstr ""
+
+# mes "The request is to clear ^FF000030 Sting^000000 in underground waterway and underground cave for a safe pilgrimage.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The request is to clear ^FF000030 Sting^000000 in underground waterway and underground cave for a safe pilgrimage."
+msgstr ""
+
+# mes "Visiting to filthy and smelly underground must be tough. It would be a good experience for you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Visiting to filthy and smelly underground must be tough. It would be a good experience for you."
+msgstr ""
+
+# mes "Have you heard about a monk's pilgrimage? There are so many Stings in the underground waterway and cave so they disturb the peaceful monks.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Have you heard about a monk's pilgrimage? There are so many Stings in the underground waterway and cave so they disturb the peaceful monks."
+msgstr ""
+
+# mes "Master accepted this request because he respects those monks. The request is to clear ^FF000030 Sting^000000 monsters in underground waterway for a safe pilgrimage.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Master accepted this request because he respects those monks. The request is to clear ^FF000030 Sting^000000 monsters in underground waterway for a safe pilgrimage."
+msgstr ""
+
+# mes "You just finished a request. Adventure is important but taking a rest is important too. Pilgrimage will be continued so there will be another request again.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Adventure is important but taking a rest is important too. Pilgrimage will be continued so there will be another request again."
+msgstr ""
+
+# mes "I wonder what the reason is behind these monk pilgrimages and why they keep doing it... There must be a hidden reason.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I wonder what the reason is behind these monk pilgrimages and why they keep doing it... There must be a hidden reason."
+msgstr ""
+
+# mes "I used to take care of the request but I am worried. The request is to clear ^FF000030 Majoruros^000000 from the 2nd floor of the underground cave.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I used to take care of the request but I am worried. The request is to clear ^FF000030 Majoruros^000000 from the 2nd floor of the underground cave."
+msgstr ""
+
+# mes "Visiting for a long pilgrimage must be tiring.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Visiting for a long pilgrimage must be tiring."
+msgstr ""
+
+# mes "It would be a good experience for you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It would be a good experience for you."
+msgstr ""
+
+# mes "The monk's pilgrimage destination is on the 2nd floor of the Glastheim castle underground cave. It is not an easy journey but will be a good experience.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The monk's pilgrimage destination is on the 2nd floor of the Glastheim castle underground cave. It is not an easy journey but will be a good experience."
+msgstr ""
+
+# mes "Majoururos is not easy to hunt so be careful. The request is to clear ^FF000030 Majoruros^000000 in the underground cave second floor.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Majoururos is not easy to hunt so be careful. The request is to clear ^FF000030 Majoruros^000000 in the underground cave second floor."
+msgstr ""
+
+# mes "There are many requests coming through from the Rune Midgards Expedition.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "There are many requests coming through from the Rune Midgards Expedition."
+msgstr ""
+
+# if (select( "Hunting Quests","Trauma" ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Trauma"
+msgstr ""
+
+# mes "You just finished a request. Adventure is important but taking a rest is important too. Please take a rest. There will always be a request for you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Adventure is important but taking a rest is important too. Please take a rest. There will always be a request for you."
+msgstr ""
+
+# mes "Outbound space is mysterious.. Monsters are unique.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Outbound space is mysterious.. Monsters are unique."
+msgstr ""
+
+# mes "This is an unusual request. Please clear ^FF000030 Pinguicula^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This is an unusual request. Please clear ^FF000030 Pinguicula^000000."
+msgstr ""
+
+# mes "Visiting the Ash Vacuum must be tough.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Visiting the Ash Vacuum must be tough."
+msgstr ""
+
+# mes "Pinguicula is one of the first monsters that adventurers encounter when they step into the Ash Vacuum. They expect us to reduce monsters around the Expedition Camp.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Pinguicula is one of the first monsters that adventurers encounter when they step into the Ash Vacuum. They expect us to reduce monsters around the Expedition Camp."
+msgstr ""
+
+# mes "It is natural to have more accidents with new monsters. It is a common request. Please clear ^FF000030 Pinguicula^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It is natural to have more accidents with new monsters. It is a common request. Please clear ^FF000030 Pinguicula^000000."
+msgstr ""
+
+# mes "You just finished a request. Adventure is important but taking a rest is important too. Please take a rest. This request is not worth working so hard.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Adventure is important but taking a rest is important too. Please take a rest. This request is not worth working so hard."
+msgstr ""
+
+# mes "This is a strange request and a strange reason but we should accept it anyway.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This is a strange request and a strange reason but we should accept it anyway."
+msgstr ""
+
+# mes "Please clear ^FF000030 Luciola Vespa^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please clear ^FF000030 Luciola Vespa^000000."
+msgstr ""
+
+# mes "It must be very tough to do such a strange request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It must be very tough to do such a strange request."
+msgstr ""
+
+# mes "This is a very personal request. It is unusual but this request is from an adventurer who is friendly with Rohtert.. It is requested by Pretty Boy. Why did he write this?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This is a very personal request. It is unusual but this request is from an adventurer who is friendly with Rohtert.. It is requested by Pretty Boy. Why did he write this?"
+msgstr ""
+
+# mes "It is too personal that he got stung by a bee when he was young. It traumatized him so he can't travel to Ash Vacuum.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It is too personal that he got stung by a bee when he was young. It traumatized him so he can't travel to Ash Vacuum."
+msgstr ""
+
+# mes "Gelkah is staring at Rohtert.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Gelkah is staring at Rohtert."
+msgstr ""
+
+# mes "This seems to be a request for increased travelers to the new world. Please clear ^FF000030 Luciola Vespa^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This seems to be a request for increased travelers to the new world. Please clear ^FF000030 Luciola Vespa^000000."
+msgstr ""
+
+# mes "There are many request near or in the Ice Dungeon in Rachel.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "There are many request near or in the Ice Dungeon in Rachel."
+msgstr ""
+
+# switch( select( "Desert Wolf Hunting", "Snowier Hunting", "Ice Titans..." ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Desert Wolf Hunting"
+msgstr ""
+
+# switch( select( "Desert Wolf Hunting", "Snowier Hunting", "Ice Titans..." ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Snowier Hunting"
+msgstr ""
+
+# switch( select( "Desert Wolf Hunting", "Snowier Hunting", "Ice Titans..." ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Ice Titans..."
+msgstr ""
+
+# mes "You just finished a request. Adventure is important but taking a rest is important too.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Adventure is important but taking a rest is important too."
+msgstr ""
+
+# mes "Have you read old books? That is about an adventurer who was fighting with big wolves and it ended up with a friendship. It's called Samba's with Wolves.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Have you read old books? That is about an adventurer who was fighting with big wolves and it ended up with a friendship. It's called Samba's with Wolves."
+msgstr ""
+
+# mes "A novel is a novel. Please clear ^FF000030 Desert Wolf^000000 near the entrance to the Ice dungeon in Rachel.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "A novel is a novel. Please clear ^FF000030 Desert Wolf^000000 near the entrance to the Ice dungeon in Rachel."
+msgstr ""
+
+# mes "Wasn't that cute?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Wasn't that cute?"
+msgstr ""
+
+# mes "The Ice cave is directly north of Rachel. The problem is that the Wolves frighten tourists when they are heading to see the Ice cave.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The Ice cave is directly north of Rachel. The problem is that the Wolves frighten tourists when they are heading to see the Ice cave."
+msgstr ""
+
+# mes "It would be fun if we can talk and samba with wolves! Please clear ^FF000030 Desert Wolf^000000 near Ice dungeon.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It would be fun if we can talk and samba with wolves! Please clear ^FF000030 Desert Wolf^000000 near Ice dungeon."
+msgstr ""
+
+# mes "Rough breath, insecure eyes, freezing cold.. It is not easy request so get yourself warm.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Rough breath, insecure eyes, freezing cold.. It is not easy request so get yourself warm."
+msgstr ""
+
+# mes "Please clear ^FF000030 Snowier^000000 on the second floor of Ice dungeon.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please clear ^FF000030 Snowier^000000 on the second floor of Ice dungeon."
+msgstr ""
+
+# mes "Visiting the freezing ice dungeon must be tough.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Visiting the freezing ice dungeon must be tough."
+msgstr ""
+
+# mes "People who have been to ice dungeon say there are noisy monsters disturbing their visits. Please clear them if you can put up with it.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "People who have been to ice dungeon say there are noisy monsters disturbing their visits. Please clear them if you can put up with it."
+msgstr ""
+
+# mes "Please clear ^FF000030 Ice Titan^000000 at the Ice cave.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please clear ^FF000030 Ice Titan^000000 at the Ice cave."
+msgstr ""
+
+# mes "Visiting that cold dark cave must be tough.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Visiting that cold dark cave must be tough."
+msgstr ""
+
+# mes "Have you been to Ice cave north of Rachel? There are monsters called as Ice Titans deep in the dungeon. Scholars want to determine if they are golems or not.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Have you been to Ice cave north of Rachel? There are monsters called as Ice Titans deep in the dungeon. Scholars want to determine if they are golems or not."
+msgstr ""
+
+# mes "The request is to reduce the number of them for the scholar's safety. Please clear ^FF000030 Ice Titan^000000 at the Ice cave.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The request is to reduce the number of them for the scholar's safety. Please clear ^FF000030 Ice Titan^000000 at the Ice cave."
+msgstr ""
+
+# mes "There is a request for monster hunts in Magma Dungeon. ^DA26DAPretty girl wanderer^000000 is requesting this from Comodo.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "There is a request for monster hunts in Magma Dungeon. ^DA26DAPretty girl wanderer^000000 is requesting this from Comodo."
+msgstr ""
+
+# if (select( "Nightmare Terror Hunting","Deleter Hunting" ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Nightmare Terror Hunting"
+msgstr ""
+
+# if (select( "Nightmare Terror Hunting","Deleter Hunting" ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Deleter Hunting"
+msgstr ""
+
+# mes "You just finished a request. Thanks for keeping memory.. but You should take a rest.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Thanks for keeping memory.. but You should take a rest."
+msgstr ""
+
+# mes "The memory of a girl is important ! Please clear ^FF000030 Nightmare Terror^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The memory of a girl is important ! Please clear ^FF000030 Nightmare Terror^000000."
+msgstr ""
+
+# mes "Consider the memory of others. There is stil abeauty in the world. It would be a good experience for you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Consider the memory of others. There is stil abeauty in the world. It would be a good experience for you."
+msgstr ""
+
+# mes "This request is from a client that is sad because the magma dungeon is full of monsters when she came back to return after breaking up with her lover. Apparently, she spent a lot of time with him there and wants some peace.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This request is from a client that is sad because the magma dungeon is full of monsters when she came back to return after breaking up with her lover. Apparently, she spent a lot of time with him there and wants some peace."
+msgstr ""
+
+# mes "The memory of a girl is important! Please clear ^FF000030 Nightmare Terror^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The memory of a girl is important! Please clear ^FF000030 Nightmare Terror^000000."
+msgstr ""
+
+# mes "You just finished a request. Did you take enough time to cool down? Take enough rest.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You just finished a request. Did you take enough time to cool down? Take enough rest."
+msgstr ""
+
+# mes "A client showed a wonderful dance to a lover. One day, they were attacked from a Deleter while they are dancing in the magma dungeon.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "A client showed a wonderful dance to a lover. One day, they were attacked from a Deleter while they are dancing in the magma dungeon."
+msgstr ""
+
+# mes "The attack ruined their dance and eventually their relationship because the guy blamed the girl for being attacked.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The attack ruined their dance and eventually their relationship because the guy blamed the girl for being attacked."
+msgstr ""
+
+# mes "Now she blames the Deleters so she has made this request. Please clear ^FF000030 Flying Deleter^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Now she blames the Deleters so she has made this request. Please clear ^FF000030 Flying Deleter^000000."
+msgstr ""
+
+# mes "Eden Group protects love, justice and Midgard! hurrah!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Eden Group protects love, justice and Midgard! hurrah!"
+msgstr ""
+
+# mes "It would be a good memory.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It would be a good memory."
+msgstr ""
+
+# mes "Here is a list of other requests from all over Rune Midgard.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Here is a list of other requests from all over Rune Midgard."
+msgstr ""
+
+# switch( select( "Loli Ruri Hunting - Nifflheim", "Medusa Hunting - Comodo", "Anubis Hunting - Sphinx" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Loli Ruri Hunting - Nifflheim"
+msgstr ""
+
+# switch( select( "Loli Ruri Hunting - Nifflheim", "Medusa Hunting - Comodo", "Anubis Hunting - Sphinx" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Medusa Hunting - Comodo"
+msgstr ""
+
+# switch( select( "Loli Ruri Hunting - Nifflheim", "Medusa Hunting - Comodo", "Anubis Hunting - Sphinx" ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Anubis Hunting - Sphinx"
+msgstr ""
+
+# mes "I think you should rest a bit. Even adventurers need their rest right?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I think you should rest a bit. Even adventurers need their rest right?"
+msgstr ""
+
+# mes "Eden Group is planning to send a notice that unmature adventurers are not sent to night time requests because it is too dangerous.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Eden Group is planning to send a notice that unmature adventurers are not sent to night time requests because it is too dangerous."
+msgstr ""
+
+# mes "I wonder why they are scheming this kind of ^FF0000nonsense^000000... makes me wonder if they even know anything about adventuring.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I wonder why they are scheming this kind of ^FF0000nonsense^000000... makes me wonder if they even know anything about adventuring."
+msgstr ""
+
+# mes "We should accept this simple request before we start getting even more nonsense ones. Please clear ^FF000030 Loli Ruri^000000 in Nifflheim.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "We should accept this simple request before we start getting even more nonsense ones. Please clear ^FF000030 Loli Ruri^000000 in Nifflheim."
+msgstr ""
+
+# mes "Are you mentally wounded? I am happy that you're back safely.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Are you mentally wounded? I am happy that you're back safely."
+msgstr ""
+
+# mes "A secret society requested the protection of the Eden Group from the Loli Ruris because they believe that they have mental powers.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "A secret society requested the protection of the Eden Group from the Loli Ruris because they believe that they have mental powers."
+msgstr ""
+
+# mes "They said that they would heal Eden Group adventurers who are exhausted in exchange for the request but we're not sure they'll follow through.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "They said that they would heal Eden Group adventurers who are exhausted in exchange for the request but we're not sure they'll follow through."
+msgstr ""
+
+# mes "We should accept the simple request anyways. Please clear ^FF000030 Loli Ruri^000000 in Nifflheim.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "We should accept the simple request anyways. Please clear ^FF000030 Loli Ruri^000000 in Nifflheim."
+msgstr ""
+
+# mes "Adventure is important but taking a rest is important too.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Adventure is important but taking a rest is important too."
+msgstr ""
+
+# mes "I do not know why master likes this kind of request. He also used to say any request is a good request for an adventurer...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I do not know why master likes this kind of request. He also used to say any request is a good request for an adventurer..."
+msgstr ""
+
+# mes "Please clear ^FF000030 Medusa^000000 in the western cave of Comodo.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please clear ^FF000030 Medusa^000000 in the western cave of Comodo."
+msgstr ""
+
+# mes "How is Comodo beach? Take a look around instead of paying too much attention to the request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "How is Comodo beach? Take a look around instead of paying too much attention to the request."
+msgstr ""
+
+# mes "It will be a good experience for sure.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It will be a good experience for sure."
+msgstr ""
+
+# mes "This is a request from a hair designer in Alberta. He wants to know if the snakes on the Medusa's head are really snakes or fancy hair...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "This is a request from a hair designer in Alberta. He wants to know if the snakes on the Medusa's head are really snakes or fancy hair..."
+msgstr ""
+
+# mes "Obviously they're snakes but who are we to stamp on this crazy guy's dreams right?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Obviously they're snakes but who are we to stamp on this crazy guy's dreams right?"
+msgstr ""
+
+# mes "My master accepted this request simply because it was insane. Please clear ^FF000030 Medusa^000000 monster in the west cave of Comodo.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "My master accepted this request simply because it was insane. Please clear ^FF000030 Medusa^000000 monster in the west cave of Comodo."
+msgstr ""
+
+# mes "The request from Sphinx is done. Please take a rest.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The request from Sphinx is done. Please take a rest."
+msgstr ""
+
+# mes "I shoud investigate about the client by myself but for now please clear ^FF000020 Anubis^000000 on the 4th floor of Sphinx dungeon.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I shoud investigate about the client by myself but for now please clear ^FF000020 Anubis^000000 on the 4th floor of Sphinx dungeon."
+msgstr ""
+
+# mes "Sphinx dungeon is such a maze.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Sphinx dungeon is such a maze."
+msgstr ""
+
+# mes "An anonymous client sent a request to help clear monsters in Sphinx dungeon because adventurers hardly visit Morocc anymore. The monsters seem to be running rampant there.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "An anonymous client sent a request to help clear monsters in Sphinx dungeon because adventurers hardly visit Morocc anymore. The monsters seem to be running rampant there."
+msgstr ""
+
+# mes "Please clear ^FF000020 Anubis^000000 on the 4th floor of Sphinx dungeon.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please clear ^FF000020 Anubis^000000 on the 4th floor of Sphinx dungeon."
+msgstr ""
+
+# mes "We are so busy taking requests that need to be taken care of. It is my first time handling so much pressure.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "We are so busy taking requests that need to be taken care of. It is my first time handling so much pressure."
+msgstr ""
+
+# mes "I thought Eden Group was busy but I could not imagine it is this much. I should do more as an adventurer!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I thought Eden Group was busy but I could not imagine it is this much. I should do more as an adventurer!"
+msgstr ""
+
+# mes "I wish I could have a glass of fresh fruit juice...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I wish I could have a glass of fresh fruit juice..."
+msgstr ""
+
+# mes "Adventurers sometimes bring special things or trophies from where they visited for a request. It is very good!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Adventurers sometimes bring special things or trophies from where they visited for a request. It is very good!"
+msgstr ""
+
+# mes "If there is something good "+ strcharinfo(PC_NAME) +" I will try to give you a couple things. I am not sure if there will be enough to give because of so many adventurers.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "If there is something good "
+msgstr ""
+
+# mes "Handling documents must be difficult. It's so much easier to just be out in the field.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Handling documents must be difficult. It's so much easier to just be out in the field."
+msgstr ""
+
+# mes "I will let you know if there is something good.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I will let you know if there is something good."
+msgstr ""
+
+# mes "Are you get used to the requests? It is weird that I am guiding adventurers instead of taking requests myself.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Are you get used to the requests? It is weird that I am guiding adventurers instead of taking requests myself."
+msgstr ""
+
+# mes "It will be good if you clear one at a time after receiving all the requests from Glastheim.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It will be good if you clear one at a time after receiving all the requests from Glastheim."
+msgstr ""
+
+# mes "I am busy but clearing a lot of requests "+ strcharinfo(PC_NAME) +" I appreciate it. Lets see. I got some good food from an adventurer that he received during a request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I am busy but clearing a lot of requests "
+msgstr ""
+
+# mes "Oops I ate all? Okay just one left. Please drop by later!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Oops I ate all? Okay just one left. Please drop by later!"
+msgstr ""
+
+# mes "Cheer up! "+ strcharinfo(PC_NAME) +" I'm not sure if he thinks of you as his pupil. He is just out of control.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Cheer up! "
+msgstr ""
+
+# mes "There are a lot of presents coming in whenever the requests are done efficiently. Here, take this as a prize.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "There are a lot of presents coming in whenever the requests are done efficiently. Here, take this as a prize."
+msgstr ""
+
+# mes "It is tough work but also fun to with master right "+ strcharinfo(PC_NAME) +"?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It is tough work but also fun to with master right "
+msgstr ""
+
+# switch( select( "I hate that hot-tempered fool.", "I want you to be the master.", "I would follow you to any battle." ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I hate that hot-tempered fool."
+msgstr ""
+
+# switch( select( "I hate that hot-tempered fool.", "I want you to be the master.", "I would follow you to any battle." ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I want you to be the master."
+msgstr ""
+
+# switch( select( "I hate that hot-tempered fool.", "I want you to be the master.", "I would follow you to any battle." ) ) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I would follow you to any battle."
+msgstr ""
+
+# mes "I understand you. I got into a fight when I first met master in Mora village.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I understand you. I got into a fight when I first met master in Mora village."
+msgstr ""
+
+# mes "He was almost crying when I first met him. It was difficult to pretend to lose to him. Please keep it a secret.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "He was almost crying when I first met him. It was difficult to pretend to lose to him. Please keep it a secret."
+msgstr ""
+
+# mes "I'm not sure if I'm cut out for that job. Besides...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I'm not sure if I'm cut out for that job. Besides..."
+msgstr ""
+
+# mes "I am sorry to say this but I am the only pupil of master now and forever... He said ^FF0000I don't need an ugly female pupil^000000 but I still stick to him.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I am sorry to say this but I am the only pupil of master now and forever... He said ^FF0000I don't need an ugly female pupil^000000 but I still stick to him."
+msgstr ""
+
+# mes "Oh no... Please don't do that. I am sorry please keep it as a secret to a master. I was careless.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Oh no... Please don't do that. I am sorry please keep it as a secret to a master. I was careless."
+msgstr ""
+
+# mes "Good luck on the remained requests.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Good luck on the remained requests."
+msgstr ""
+
+# mes "Good luck on the remained request. ^FF0000Master says he has something to say to you.^000000";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Good luck on the remained request. ^FF0000Master says he has something to say to you.^000000"
+msgstr ""
+
+# mes "I am sorry but I am a little bit busy. Can we talk later?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I am sorry but I am a little bit busy. Can we talk later?"
+msgstr ""
+
+# mes "Did you bring the Courtesy Ticket?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Did you bring the Courtesy Ticket?"
+msgstr ""
+
+# if (select( "The ^FF0000Courtesy Ticket^000000?", "Exchange ticket for prizes." ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The ^FF0000Courtesy Ticket^000000?"
+msgstr ""
+
+# if (select( "The ^FF0000Courtesy Ticket^000000?", "Exchange ticket for prizes." ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Exchange ticket for prizes."
+msgstr ""
+
+# mes "I know it sounds childish. Right? The shape is just like the card we used to play when we were kids.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I know it sounds childish. Right? The shape is just like the card we used to play when we were kids."
+msgstr ""
+
+# if (select( "A card? What is it?", "Uh, yeah those were fun..." ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "A card? What is it?"
+msgstr ""
+
+# if (select( "A card? What is it?", "Uh, yeah those were fun..." ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Uh, yeah those were fun..."
+msgstr ""
+
+# mes "I am sorry... It must be popular only in our village. Throw, heat and let it fly it.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I am sorry... It must be popular only in our village. Throw, heat and let it fly it."
+msgstr ""
+
+# mes "As you see, master made it himself and put his picture on it. He used to travel aroung for looking for the paper material to make the card.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "As you see, master made it himself and put his picture on it. He used to travel aroung for looking for the paper material to make the card."
+msgstr ""
+
+# mes "If they were not filed properly, the request of looking for a paper will be included to the request list.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "If they were not filed properly, the request of looking for a paper will be included to the request list."
+msgstr ""
+
+# mes "He is very kind even though he doesn't look like it. Master used it to give something to adventurers for their devotion.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "He is very kind even though he doesn't look like it. Master used it to give something to adventurers for their devotion."
+msgstr ""
+
+# mes "Give the story about adventure or trophy by using 1,10,20 and 30 cards.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Give the story about adventure or trophy by using 1,10,20 and 30 cards."
+msgstr ""
+
+# mes "It will be agood experience if you listen to the story of adventurer. There are so much adventure that we heard from a master.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It will be agood experience if you listen to the story of adventurer. There are so much adventure that we heard from a master."
+msgstr ""
+
+# mes "If you are matured enough not to need a request Make sure that you are not allowed to use a ticket.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "If you are matured enough not to need a request Make sure that you are not allowed to use a ticket."
+msgstr ""
+
+# mes "How do you want to use this ticket?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "How do you want to use this ticket?"
+msgstr ""
+
+# if (select( "Exchange for prizes", "Listen to a story and get EXP" ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Exchange for prizes"
+msgstr ""
+
+# if (select( "Exchange for prizes", "Listen to a story and get EXP" ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Listen to a story and get EXP"
+msgstr ""
+
+# mes "You can pick a trophy in this bag. Please do not be disappointed even if you picked up something you do not want. How many do you want to exchange?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You can pick a trophy in this bag. Please do not be disappointed even if you picked up something you do not want. How many do you want to exchange?"
+msgstr ""
+
+# .@amount = (select( "Exchange ^FF00001^000000 Courtesy Ticket", "Exchange ^FF000010^000000 Courtesy Tickets" ) == 1) ? 1 : 10;
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Exchange ^FF00001^000000 Courtesy Ticket"
+msgstr ""
+
+# .@amount = (select( "Exchange ^FF00001^000000 Courtesy Ticket", "Exchange ^FF000010^000000 Courtesy Tickets" ) == 1) ? 1 : 10;
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Exchange ^FF000010^000000 Courtesy Tickets"
+msgstr ""
+
+# mes "Please give me a ticket and put your hand in a bag to pick.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please give me a ticket and put your hand in a bag to pick."
+msgstr ""
+
+# mes "^FF0000Courtesy Ticket^000000 is insufficient.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "^FF0000Courtesy Ticket^000000 is insufficient."
+msgstr ""
+
+# mes "browsing";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "browsing"
+msgstr ""
+
+# mes "You reach into the bag and grab ^0000FF"+ .@item[1] +" "+ getitemname(.@item[0]) +"^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You reach into the bag and grab ^0000FF"
+msgstr ""
+
+# mes "You reach into the bag and grab ^0000FF"+ .@item[1] +" "+ getitemname(.@item[0]) +"^000000.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid " "
+msgstr ""
+
+# mes "Make good use of it.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Make good use of it."
+msgstr ""
+
+# mes "Ok, I've got a story for you in exchange for the Courtesy Ticket.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Ok, I've got a story for you in exchange for the Courtesy Ticket."
+msgstr ""
+
+# switch( select( "Give ^FF000010^000000 Courtesy Ticket", "Give ^FF000020^000000 Courtesy Ticket", "Give ^FF000030^000000 Courtesy Ticket" ) ) {;
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Give ^FF000010^000000 Courtesy Ticket"
+msgstr ""
+
+# switch( select( "Give ^FF000010^000000 Courtesy Ticket", "Give ^FF000020^000000 Courtesy Ticket", "Give ^FF000030^000000 Courtesy Ticket" ) ) {;
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Give ^FF000020^000000 Courtesy Ticket"
+msgstr ""
+
+# switch( select( "Give ^FF000010^000000 Courtesy Ticket", "Give ^FF000020^000000 Courtesy Ticket", "Give ^FF000030^000000 Courtesy Ticket" ) ) {;
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Give ^FF000030^000000 Courtesy Ticket"
+msgstr ""
+
+# mes "You don't have enough Courtesy Tickets.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You don't have enough Courtesy Tickets."
+msgstr ""
+
+# mes "Have you seen the sunken ship near Alberta?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Have you seen the sunken ship near Alberta?"
+msgstr ""
+
+# mes "Master Rohter and I traveled deep into the ship and battled a monster known as ^FF0000Drake^000000. That day I was determined that I would be the best adventurer.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Master Rohter and I traveled deep into the ship and battled a monster known as ^FF0000Drake^000000. That day I was determined that I would be the best adventurer."
+msgstr ""
+
+# mes "One time, master and I went to the cave west of Comodo and when we saw the Medusa monster...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "One time, master and I went to the cave west of Comodo and when we saw the Medusa monster..."
+msgstr ""
+
+# mes "Oh boy the look on his face was priceless!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Oh boy the look on his face was priceless!"
+msgstr ""
+
+# mes "I once got lost in a maze north of Prontera. I thought I was going in circles forever until I finally made it out.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I once got lost in a maze north of Prontera. I thought I was going in circles forever until I finally made it out."
+msgstr ""
+
+# mes "Rumor has it that if you get lost in that maze you'll turn into one of the monsters there.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Rumor has it that if you get lost in that maze you'll turn into one of the monsters there."
+msgstr ""
+
+# mes "Once I found a secret route to get to Jawaii... It's only for couples but some of us know how to get there still.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Once I found a secret route to get to Jawaii... It's only for couples but some of us know how to get there still."
+msgstr ""
+
+# mes "Kind of useless to be there without a partner but oh well.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Kind of useless to be there without a partner but oh well."
+msgstr ""
+
+# mes "So one time, master was part of a guild called wing something... Chicken wing...?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "So one time, master was part of a guild called wing something... Chicken wing...?"
+msgstr ""
+
+# mes "It was a fun guild because no one took things seriously but master got tired of their laziness so he left.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "It was a fun guild because no one took things seriously but master got tired of their laziness so he left."
+msgstr ""
+
+# mes "Have you been up to ^FF0000endless tower^000000? Master and I went there but only got to the 20th floor because his knee gave out while climbing...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Have you been up to ^FF0000endless tower^000000? Master and I went there but only got to the 20th floor because his knee gave out while climbing..."
+msgstr ""
+
+# mes "^FF0000Endless tower^000000 is somewhere in the sea. You have to find a guy named Jansor or Jans-something in Alberta and he'll sail you there.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "^FF0000Endless tower^000000 is somewhere in the sea. You have to find a guy named Jansor or Jans-something in Alberta and he'll sail you there."
+msgstr ""
+
+# mes "Master's guild was dismissed at the Ash Vacuum because their guild master went missing after a battle with some Cornus monsters.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Master's guild was dismissed at the Ash Vacuum because their guild master went missing after a battle with some Cornus monsters."
+msgstr ""
+
+# mes "Ever since then he started being mean to weaker adventurers...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Ever since then he started being mean to weaker adventurers..."
+msgstr ""
+
+# mes "I don't think he ever saw that guild master again after that day.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I don't think he ever saw that guild master again after that day."
+msgstr ""
+
+# mes "Master started out as a popular support Monk at the Prontera monastery.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Master started out as a popular support Monk at the Prontera monastery."
+msgstr ""
+
+# mes "But he was also regarded as a troublemaker because of his competitive nature so he left.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "But he was also regarded as a troublemaker because of his competitive nature so he left."
+msgstr ""
+
+# mes "Please come back to me if you are received more Courtesy Tickets!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please come back to me if you are received more Courtesy Tickets!"
+msgstr ""
+
+# mes "I do not think you are suitable to the request I can give. Please find other adventures.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I do not think you are suitable to the request I can give. Please find other adventures."
+msgstr ""
+
+# if (select( "Accept the request.","Decline." ) == 2)
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Accept the request."
+msgstr ""
+
+# if (select( "Accept the request.","Decline." ) == 2)
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Decline."
+msgstr ""
+
+# mes "Please inform me when you've cleared the request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please inform me when you've cleared the request."
+msgstr ""
+
+# mes "The journey to the lowest floor of Glastheim is a long trip but it can be fun if you go with a party.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "The journey to the lowest floor of Glastheim is a long trip but it can be fun if you go with a party."
+msgstr ""
+
+# mes "^FF0000"+ getarg(3) +" ^000000 - Quest is Under Progress.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "^FF0000"
+msgstr ""
+
+# mes "Quest has been handed over to other adventurer.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Quest has been handed over to other adventurer."
+msgstr ""
+
+# mes "Please Look for new Adventure";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "Please Look for new Adventure"
+msgstr ""
+
+# mes "You completed the request";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "You completed the request"
+msgstr ""
+
+# mes "I will mark you down as having completed this request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Gelkah#1"
+msgid "I will mark you down as having completed this request."
+msgstr ""
+
+# mes "[Rohtert]";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "[Rohtert]"
+msgstr ""
+
+# mes "You are not even a member of Eden Group. What are you doing here?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You are not even a member of Eden Group. What are you doing here?"
+msgstr ""
+
+# mes "I'm only dealing with base level ^FF0000100 - 110^000000 adventurers.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I'm only dealing with base level ^FF0000100 - 110^000000 adventurers."
+msgstr ""
+
+# mes "......";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "......"
+msgstr ""
+
+# mes "Such a novice... go and train yourself more. What? Don't like the way I talk? Then get stronger.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Such a novice... go and train yourself more. What? Don't like the way I talk? Then get stronger."
+msgstr ""
+
+# mes "You are a little bit too mature of an adventurer. You have no business with me. Just leave. My business is with new third class adventurers up to level 110.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You are a little bit too mature of an adventurer. You have no business with me. Just leave. My business is with new third class adventurers up to level 110."
+msgstr ""
+
+# mes "Yeah waddya want from me kid? You think I'm just gonna say ok I'll be your master and teach you everything I know?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Yeah waddya want from me kid? You think I'm just gonna say ok I'll be your master and teach you everything I know?"
+msgstr ""
+
+# mes "I'm not a charity so get lost.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I'm not a charity so get lost."
+msgstr ""
+
+# mes "You a new adventurer?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You a new adventurer?"
+msgstr ""
+
+# mes "There are so much things to do and you're wasting your time with me. Talk to Gelkah she's more chatty than I'll ever be to you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "There are so much things to do and you're wasting your time with me. Talk to Gelkah she's more chatty than I'll ever be to you."
+msgstr ""
+
+# mes "You seem brave enough to be a good adventurer but you're nothing but a Novice in my eyes.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You seem brave enough to be a good adventurer but you're nothing but a Novice in my eyes."
+msgstr ""
+
+# mes "I used to an adventurer for the Eden Group just like you but of course I was the best.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I used to an adventurer for the Eden Group just like you but of course I was the best."
+msgstr ""
+
+# mes "I guess I'm retired now because my adventuring skills are just too good to compete with all you kids.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I guess I'm retired now because my adventuring skills are just too good to compete with all you kids."
+msgstr ""
+
+# mes "Anyway, I'm doing this a favor to the Eden Group.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Anyway, I'm doing this a favor to the Eden Group."
+msgstr ""
+
+# mes "I am looking for someone who regards friendship or loyalty like a Spoon Stub.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I am looking for someone who regards friendship or loyalty like a Spoon Stub."
+msgstr ""
+
+# if (select( "A Spoon what?", "You're a bad person." ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "A Spoon what?"
+msgstr ""
+
+# if (select( "A Spoon what?", "You're a bad person." ) == 1) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You're a bad person."
+msgstr ""
+
+# mes "You know? A Spoon Stub. Zombie Prisoners drop them and they seem like they're usefull but really they're kinda worthless.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You know? A Spoon Stub. Zombie Prisoners drop them and they seem like they're usefull but really they're kinda worthless."
+msgstr ""
+
+# mes "Anyway, I guess you seem like the loyal type... sort of...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Anyway, I guess you seem like the loyal type... sort of..."
+msgstr ""
+
+# mes "That makes me feel weird. That is not bad but I guess I'm bad and I don't care.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "That makes me feel weird. That is not bad but I guess I'm bad and I don't care."
+msgstr ""
+
+# mes "Remember to stay brave you silly adventurer.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Remember to stay brave you silly adventurer."
+msgstr ""
+
+# mes "Okay ! You are doing the best that you can do.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Okay ! You are doing the best that you can do."
+msgstr ""
+
+# mes "I am afraid if you are becoming like Gelkah. She's like a lost puppy. Don't be like her. Okay?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I am afraid if you are becoming like Gelkah. She's like a lost puppy. Don't be like her. Okay?"
+msgstr ""
+
+# mes "You busy looking all around.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You busy looking all around."
+msgstr ""
+
+# mes "I am done with my business.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I am done with my business."
+msgstr ""
+
+# mes "I am responsible for clearing documents. I hate doing this stuff.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I am responsible for clearing documents. I hate doing this stuff."
+msgstr ""
+
+# mes "I guess I should talk to him one more time... Come back tomorrow!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I guess I should talk to him one more time... Come back tomorrow!"
+msgstr ""
+
+# mes "Oh, how long has it been?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Oh, how long has it been?"
+msgstr ""
+
+# mes "White is a paper and black is a letters. I hate public documents. But, I have to do this so I am busy for a while.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "White is a paper and black is a letters. I hate public documents. But, I have to do this so I am busy for a while."
+msgstr ""
+
+# mes "I know that hunting the Tens Drillion can't be too difficult for you.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I know that hunting the Tens Drillion can't be too difficult for you."
+msgstr ""
+
+# mes "Good ! You are becoming a good adventurer! Do your best!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Good ! You are becoming a good adventurer! Do your best!"
+msgstr ""
+
+# mes "Tens Drillion I think we should teach it more lessons to show it who's boss!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Tens Drillion I think we should teach it more lessons to show it who's boss!"
+msgstr ""
+
+# if (select( "Lets give a good lesson for sure.", "I think once is enough." ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Lets give a good lesson for sure."
+msgstr ""
+
+# if (select( "Lets give a good lesson for sure.", "I think once is enough." ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I think once is enough."
+msgstr ""
+
+# mes "It is fine there are still many adventurers that can do this.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "It is fine there are still many adventurers that can do this."
+msgstr ""
+
+# mes "It is not because I am coward.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "It is not because I am coward."
+msgstr ""
+
+# mes "Good luck. Make sure you finish it off this time. Hah hah!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Good luck. Make sure you finish it off this time. Hah hah!"
+msgstr ""
+
+# mes "You still there novice? If you can't handle this by yourself then ask your friends because this is not the easiest thing to do.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You still there novice? If you can't handle this by yourself then ask your friends because this is not the easiest thing to do."
+msgstr ""
+
+# mes "Oh you're back safely!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Oh you're back safely!"
+msgstr ""
+
+# mes "I guess you're not a scrub like I thought you were.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I guess you're not a scrub like I thought you were."
+msgstr ""
+
+# mes "Do you mind doing a simple errand?";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Do you mind doing a simple errand?"
+msgstr ""
+
+# if (select( "No I don't mind!", "Simple errands are for simpletons." ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "No I don't mind!"
+msgstr ""
+
+# if (select( "No I don't mind!", "Simple errands are for simpletons." ) == 2) {
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Simple errands are for simpletons."
+msgstr ""
+
+# mes "You are a strange adventurer...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You are a strange adventurer..."
+msgstr ""
+
+# mes "One fine windy day, I was collecting flowers in west south of the Rune Midgard Allied Forces Post to fulfill an Eden Group request.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "One fine windy day, I was collecting flowers in west south of the Rune Midgard Allied Forces Post to fulfill an Eden Group request."
+msgstr ""
+
+# mes "Then that one suddenly showed up.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Then that one suddenly showed up."
+msgstr ""
+
+# select("One what?");
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "One what?"
+msgstr ""
+
+# mes "It was a ^FF0000Tens Drillion.^000000";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "It was a ^FF0000Tens Drillion.^000000"
+msgstr ""
+
+# mes "[^FF0000Gelkah^000000]";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "[^FF0000Gelkah^000000]"
+msgstr ""
+
+# mes "Oops! Its actually ^FF0000Tendrilion^000000!! Master!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Oops! Its actually ^FF0000Tendrilion^000000!! Master!"
+msgstr ""
+
+# mes "Yeah yeah potato po-tah-toh!";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Yeah yeah potato po-tah-toh!"
+msgstr ""
+
+# mes "We realized when we faced the eyes of the beast that it looked like a lion but it isn't any normal animal.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "We realized when we faced the eyes of the beast that it looked like a lion but it isn't any normal animal."
+msgstr ""
+
+# mes "^8008F8I knew that it was kill or be killed.^000000";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "^8008F8I knew that it was kill or be killed.^000000"
+msgstr ""
+
+# mes "Of course I beat that beast easily! It was easier than taking candy from a Poring.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Of course I beat that beast easily! It was easier than taking candy from a Poring."
+msgstr ""
+
+# mes "But to my surprise, the beast got back up. I was forced to beat it down 12 more times before it stayed down. This was not a normal Tens Drillion.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "But to my surprise, the beast got back up. I was forced to beat it down 12 more times before it stayed down. This was not a normal Tens Drillion."
+msgstr ""
+
+# mes "I heard it is still wandering place to palce but I am kind of busy now.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I heard it is still wandering place to palce but I am kind of busy now."
+msgstr ""
+
+# mes "I want you to take care of it. For me it was fine to be there alone. But for you.. I recommend you to bring more adventurers.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I want you to take care of it. For me it was fine to be there alone. But for you.. I recommend you to bring more adventurers."
+msgstr ""
+
+# select("You sure you did this yourself?");
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You sure you did this yourself?"
+msgstr ""
+
+# mes "The fact that I am strong is more important than the number. Just go there and take the beast out.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "The fact that I am strong is more important than the number. Just go there and take the beast out."
+msgstr ""
+
+# mes "You'll find it west of the Rune Midgard Allied Forces Post at the Ash Vacuum.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You'll find it west of the Rune Midgard Allied Forces Post at the Ash Vacuum."
+msgstr ""
+
+# select("I guess I have no choice.");
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I guess I have no choice."
+msgstr ""
+
+# mes "You still there novice? If you can not handle by yourself then ask to your friends because it is not easy one.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "You still there novice? If you can not handle by yourself then ask to your friends because it is not easy one."
+msgstr ""
+
+# mes "......."+ strcharinfo(PC_NAME) +" wait...";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "......."
+msgstr ""
+
+# mes "If you find it don't be scared. Master did not have to fight the Tendrilion 12 times.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "If you find it don't be scared. Master did not have to fight the Tendrilion 12 times."
+msgstr ""
+
+# mes "In fact, master was so drunk he barely remembers the thing.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "In fact, master was so drunk he barely remembers the thing."
+msgstr ""
+
+# mes "I just left it alone because it was a little bit cute that a master was fighting with one Tendrilion. Now its becoming a problem.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "I just left it alone because it was a little bit cute that a master was fighting with one Tendrilion. Now its becoming a problem."
+msgstr ""
+
+# mes "Please come back after clearing one Tendrilion. Oh and please keep this a secret from master.";
+#: npc/re/quests/eden/100-110.txt
+msgctxt "Rohtert#12"
+msgid "Please come back after clearing one Tendrilion. Oh and please keep this a secret from master."
+msgstr ""
+
