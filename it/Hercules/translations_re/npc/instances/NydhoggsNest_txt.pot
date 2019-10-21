@@ -1,0 +1,3564 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:52+0200\n"
+"PO-Revision-Date: 2019-10-21 10:33\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/instances/NydhoggsNest_txt.pot\n"
+
+# mes("A great stone gate stands before you. The sculpture of a terrible dragon spreads its powerful looking wings.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "A great stone gate stands before you. The sculpture of a terrible dragon spreads its powerful looking wings."
+msgstr ""
+
+# mes("Near the bottom of the gate, Laphine tribeswomen have been turned to stone and now look like they are part of the great door.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Near the bottom of the gate, Laphine tribeswomen have been turned to stone and now look like they are part of the great door."
+msgstr ""
+
+# switch (select("Move closer to look more carefully.", "Step back.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Move closer to look more carefully."
+msgstr ""
+
+# switch (select("Move closer to look more carefully.", "Step back.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Step back."
+msgstr ""
+
+# mes("A mysterious power prevents you from getting too close. It looks like there is something strong beyond the door...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "A mysterious power prevents you from getting too close. It looks like there is something strong beyond the door..."
+msgstr ""
+
+# mes("Perhaps there's a great hidden secret beyond the gate, beyond expectation.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Perhaps there's a great hidden secret beyond the gate, beyond expectation."
+msgstr ""
+
+# mes("It would be better to go back to camp and inform the others and ask for help.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "It would be better to go back to camp and inform the others and ask for help."
+msgstr ""
+
+# mes("You'll have to obtain the others trust in the expendition camp by working hard.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "You'll have to obtain the others trust in the expendition camp by working hard."
+msgstr ""
+
+# mes("The strange sensation surrounding your body has disappeared");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "The strange sensation surrounding your body has disappeared"
+msgstr ""
+
+# mes("When you touch the stone gate, you hear a commanding voice.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "When you touch the stone gate, you hear a commanding voice."
+msgstr ""
+
+# mes("[??????]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "[??????]"
+msgstr ""
+
+# mes("Wingless one... Our promised words...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Wingless one... Our promised words..."
+msgstr ""
+
+# switch (select("'Guardian's spell'!", "Take a step back.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "'Guardian's spell'!"
+msgstr ""
+
+# switch (select("'Guardian's spell'!", "Take a step back.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Take a step back."
+msgstr ""
+
+# mes("Promised words... Guardian's spell... proof of their existence.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Promised words... Guardian's spell... proof of their existence."
+msgstr ""
+
+# mes("[Yggdrasil Gatekeeper]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "[Yggdrasil Gatekeeper]"
+msgstr ""
+
+# mes("In the name of Yggdrasiliad, I will accept you as a servant of the Guardian.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "In the name of Yggdrasiliad, I will accept you as a servant of the Guardian."
+msgstr ""
+
+# mes("I accept your entrance through the Guardian's gate. You are now considered a faithful servant of the Guardian Nidhoggur.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "I accept your entrance through the Guardian's gate. You are now considered a faithful servant of the Guardian Nidhoggur."
+msgstr ""
+
+# mes("The voice has disappeared, and the dark power is calming down from behind the stone gate.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "The voice has disappeared, and the dark power is calming down from behind the stone gate."
+msgstr ""
+
+# .@md_name$ = _("Nidhoggur's Nest");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Nidhoggur's Nest"
+msgstr ""
+
+# mes("As I put my hands on the stone gate, a voice sounded from the depth of my heart.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "As I put my hands on the stone gate, a voice sounded from the depth of my heart."
+msgstr ""
+
+# mes("Where are the other servants, so you can work together? Each servant cannot be admitted here individually...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Where are the other servants, so you can work together? Each servant cannot be admitted here individually..."
+msgstr ""
+
+# mes("Come with at least 1 more servant... Only party leaders can accept admission to Nidhoggur's Nest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Come with at least 1 more servant... Only party leaders can accept admission to Nidhoggur's Nest."
+msgstr ""
+
+# mes("And only 1 representative of you needs to talk to me, so don't annoy me...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "And only 1 representative of you needs to talk to me, so don't annoy me..."
+msgstr ""
+
+# mes("The loyal servants of the Guardian... what can I do for you?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "The loyal servants of the Guardian... what can I do for you?"
+msgstr ""
+
+# switch (select("Please allow me to enter.", "I want to go in.", "I want to leave.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "Please allow me to enter."
+msgstr ""
+
+# switch (select("Please allow me to enter.", "I want to go in.", "I want to leave.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "I want to go in."
+msgstr ""
+
+# switch (select("Please allow me to enter.", "I want to go in.", "I want to leave.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "I want to leave."
+msgstr ""
+
+# mes("The Guardian seems to wish to be alone. I will go in and check, please wait out here.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "The Guardian seems to wish to be alone. I will go in and check, please wait out here."
+msgstr ""
+
+# mes("I've recorded your request, are you ready to go inside?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "I've recorded your request, are you ready to go inside?"
+msgstr ""
+
+# mes("If you are ready, I will allow you to enter.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "If you are ready, I will allow you to enter."
+msgstr ""
+
+# mes("If you have the dungeon generated already, you can enter it.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "If you have the dungeon generated already, you can enter it."
+msgstr ""
+
+# mes("With the defeat of Nidhoggur's Shadow, the roots of the World Tree Yggdrasil are also affected.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "With the defeat of Nidhoggur's Shadow, the roots of the World Tree Yggdrasil are also affected."
+msgstr ""
+
+# mes("After Nidhoggur's Shadow disappears, at least 3 days is needed for stabilizing.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "After Nidhoggur's Shadow disappears, at least 3 days is needed for stabilizing."
+msgstr ""
+
+# mes("The time limit to enter the dungeon has expired. You must wait for the World Tree to stabilize its power before trying to re-enter.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "The time limit to enter the dungeon has expired. You must wait for the World Tree to stabilize its power before trying to re-enter."
+msgstr ""
+
+# mes("The World Tree Yggdrasil has stabilized. Would you like to enter Nidhoggur's Nest again?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "The World Tree Yggdrasil has stabilized. Would you like to enter Nidhoggur's Nest again?"
+msgstr ""
+
+# mes("If you would like to enter again, please register with me.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "If you would like to enter again, please register with me."
+msgstr ""
+
+# mes("You did not request for entrance. Please let your leader request entrance.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Yggdrasil Gatekeeper"
+msgid "You did not request for entrance. Please let your leader request entrance."
+msgstr ""
+
+# mapannounce("nyd_dun02", sprintf(_$("%s's party member %s has entered Nidhoggur's Nest."), getpartyname(getcharid(CHAR_ID_PARTY)), strcharinfo(PC_NAME)), bc_map, C_SPRINGGREEN);
+#: npc/instances/NydhoggsNest.txt
+#, c-format
+msgctxt "Yggdrasil Gatekeeper"
+msgid "%s's party member %s has entered Nidhoggur's Nest."
+msgstr ""
+
+# mes("[Historian Magniffer]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "[Historian Magniffer]"
+msgstr ""
+
+# mes("Sure, the mainland also has lots of interesting adventures... Hello, I am Magnifier, a historian dispatched from the Prontera royal court.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Sure, the mainland also has lots of interesting adventures... Hello, I am Magnifier, a historian dispatched from the Prontera royal court."
+msgstr ""
+
+# mes("Finding another line of work might make for a really worthy job, but only a historian gets to know the world over..");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Finding another line of work might make for a really worthy job, but only a historian gets to know the world over.."
+msgstr ""
+
+# mes("How this world is organized... and the way of the future! With our studies of the past and present we can predict what is to come.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "How this world is organized... and the way of the future! With our studies of the past and present we can predict what is to come."
+msgstr ""
+
+# mes("We are expecting a lot from you, expert adventurer. So, if you find anything... just tell me.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "We are expecting a lot from you, expert adventurer. So, if you find anything... just tell me."
+msgstr ""
+
+# mes("Does Commander Agip want to talk to me? Let's listen to his story.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Does Commander Agip want to talk to me? Let's listen to his story."
+msgstr ""
+
+# mes("Did you find the cave that the fairy tribes treat as a holy place? You are a really tough cookie. What did you find?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Did you find the cave that the fairy tribes treat as a holy place? You are a really tough cookie. What did you find?"
+msgstr ""
+
+# mes("[Historian Magnifier]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "[Historian Magnifier]"
+msgstr ""
+
+# mes("...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "..."
+msgstr ""
+
+# mes("... ...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "... ..."
+msgstr ""
+
+# mes("Wait a second... I have a brilliant idea.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Wait a second... I have a brilliant idea."
+msgstr ""
+
+# mes("Let's see... This book... No... this one...? Hmm... Maybe this...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Let's see... This book... No... this one...? Hmm... Maybe this..."
+msgstr ""
+
+# mes("Oh, here it is! World Tree Yggdrasil and God's tribes... This is their book!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Oh, here it is! World Tree Yggdrasil and God's tribes... This is their book!"
+msgstr ""
+
+# mes("Maybe you found the central line to enter into the World Tree Yggdrasil!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Maybe you found the central line to enter into the World Tree Yggdrasil!"
+msgstr ""
+
+# mes("If that's true, you've found the greatest discovery since the harnessing of mana. Isn't this exciting?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "If that's true, you've found the greatest discovery since the harnessing of mana. Isn't this exciting?"
+msgstr ""
+
+# mes("But we need a lot more information... Are they refusing you admission?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "But we need a lot more information... Are they refusing you admission?"
+msgstr ""
+
+# mes("I will send a message to my assistant who is in the Prontera Library. So, help her find more information.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "I will send a message to my assistant who is in the Prontera Library. So, help her find more information."
+msgstr ""
+
+# mes("I will definitely help you find a way to enter the World Tree directly so, just believe in me! Okay~!!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "I will definitely help you find a way to enter the World Tree directly so, just believe in me! Okay~!!"
+msgstr ""
+
+# mes("Why are you standing there? Go to my assistant in the Prontera Library!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Why are you standing there? Go to my assistant in the Prontera Library!"
+msgstr ""
+
+# mes("You've come back... Good, how's Naomi? Actually, I don't need to worry about her. She is always cheerful. Haha.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "You've come back... Good, how's Naomi? Actually, I don't need to worry about her. She is always cheerful. Haha."
+msgstr ""
+
+# mes("You look like you have a lot on your mind... Your face is full of curiosity and questions.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "You look like you have a lot on your mind... Your face is full of curiosity and questions."
+msgstr ""
+
+# mes("So, did you read the whole story that I have prepared?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "So, did you read the whole story that I have prepared?"
+msgstr ""
+
+# switch (select("Not yet.", "I read all the stories.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Not yet."
+msgstr ""
+
+# switch (select("Not yet.", "I read all the stories.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "I read all the stories."
+msgstr ""
+
+# mes("Sheesh~ I prepared these stories for you carefully, but you didn't bother to check anything out did you?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Sheesh~ I prepared these stories for you carefully, but you didn't bother to check anything out did you?"
+msgstr ""
+
+# mes("It would be better if you returned after reading all of them. That's very basic data of what we should do for the future.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "It would be better if you returned after reading all of them. That's very basic data of what we should do for the future."
+msgstr ""
+
+# mes("Hm, good job. Maybe I don't need to check anything else, right?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Hm, good job. Maybe I don't need to check anything else, right?"
+msgstr ""
+
+# mes("I sent you to figure out which basic materials will be needed for the jobs ahead of us. You should bring research reports...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "I sent you to figure out which basic materials will be needed for the jobs ahead of us. You should bring research reports..."
+msgstr ""
+
+# mes("You might complain about why I didn't bring any myself... That's because I trust your abilities, don't ever take anything for granted.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "You might complain about why I didn't bring any myself... That's because I trust your abilities, don't ever take anything for granted."
+msgstr ""
+
+# mes("But a while ago, while you were tranferring reports from Commander Agip to the mainland, you lost those reports... remember?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "But a while ago, while you were tranferring reports from Commander Agip to the mainland, you lost those reports... remember?"
+msgstr ""
+
+# mes("So far, nothing's come up... Was it that somebody attacked you?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "So far, nothing's come up... Was it that somebody attacked you?"
+msgstr ""
+
+# mes("Somehow, the truth will come out, but we should be careful of shocking the natives if we go there unannounced and they're not prepared for our arrival.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Somehow, the truth will come out, but we should be careful of shocking the natives if we go there unannounced and they're not prepared for our arrival."
+msgstr ""
+
+# mes("I've talked too much... Anyway, as you know through my report, you've found a great thing!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "I've talked too much... Anyway, as you know through my report, you've found a great thing!"
+msgstr ""
+
+# mes("Firstly, we should find out more about the place. I expect we can, but... we can't do much without help from others.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Firstly, we should find out more about the place. I expect we can, but... we can't do much without help from others."
+msgstr ""
+
+# mes("I have heard about recent expeditions of adventurers that have tried to contact the tribes... Have you heard anything about this?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "I have heard about recent expeditions of adventurers that have tried to contact the tribes... Have you heard anything about this?"
+msgstr ""
+
+# mes("Anyway, let's try to contact them first, to be clear about any caves or treasures.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Anyway, let's try to contact them first, to be clear about any caves or treasures."
+msgstr ""
+
+# mes("For now, you try to contact the Sapha and Laphine tribes, and try to extract information from them.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "For now, you try to contact the Sapha and Laphine tribes, and try to extract information from them."
+msgstr ""
+
+# mes("I'll also keep searching here. If you find anything, come back and let me know.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "I'll also keep searching here. If you find anything, come back and let me know."
+msgstr ""
+
+# mes("Okay, let's try to contact them first, to be clear about any caves or treasures.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Okay, let's try to contact them first, to be clear about any caves or treasures."
+msgstr ""
+
+# mes("For now, you try to contact the Sapha and Laphine tribes, and try to extract more information.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "For now, you try to contact the Sapha and Laphine tribes, and try to extract more information."
+msgstr ""
+
+# mes("Ah, you've come at a proper time. I found a curious thing while looking for reports from Arunafeltz.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Ah, you've come at a proper time. I found a curious thing while looking for reports from Arunafeltz."
+msgstr ""
+
+# mes("Right now, we are standing on part of one of the roots of the World Tree Yggdrasil.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Right now, we are standing on part of one of the roots of the World Tree Yggdrasil."
+msgstr ""
+
+# mes("This spot is connected to World Tree by the root. I think we can expect confrontations between the Sapha and Laphine here eventually, don't you think?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "This spot is connected to World Tree by the root. I think we can expect confrontations between the Sapha and Laphine here eventually, don't you think?"
+msgstr ""
+
+# mes("As I expected, the cave is the entrance to go to one of Yggdrasil's roots...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "As I expected, the cave is the entrance to go to one of Yggdrasil's roots..."
+msgstr ""
+
+# mes("Did you find anything about the Sapha and Laphine?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Did you find anything about the Sapha and Laphine?"
+msgstr ""
+
+# mes("Both sides act ambiguously, so... I'm getting worried...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Both sides act ambiguously, so... I'm getting worried..."
+msgstr ""
+
+# mes("The two tribes have some trouble amongst their top leaders. It's not anything official, but...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "The two tribes have some trouble amongst their top leaders. It's not anything official, but..."
+msgstr ""
+
+# mes("Let's report to Commander Agip about the situation so far. Then, we wait on his decision.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Let's report to Commander Agip about the situation so far. Then, we wait on his decision."
+msgstr ""
+
+# mes("Report to Commander Hibba Agip about what we have discovered, since time is dependent on his decision.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "Report to Commander Hibba Agip about what we have discovered, since time is dependent on his decision."
+msgstr ""
+
+# mes("So that's how it is... we were right about some parts of it... it's called the Guardian's Nest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "So that's how it is... we were right about some parts of it... it's called the Guardian's Nest."
+msgstr ""
+
+# mes("We have gained a large amount of knowledge today, but...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "We have gained a large amount of knowledge today, but..."
+msgstr ""
+
+# mes("What we have figured out... how is it going to influence mankind? It's so unpredictable...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "What we have figured out... how is it going to influence mankind? It's so unpredictable..."
+msgstr ""
+
+# mes("This is only the beginning...we will be quite busy from now on.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "This is only the beginning...we will be quite busy from now on."
+msgstr ""
+
+# mes("First, report to Commander Agip, then act according to the situation. Let me organize my research findings...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Historian Magnifier#edq"
+msgid "First, report to Commander Agip, then act according to the situation. Let me organize my research findings..."
+msgstr ""
+
+# mes("[Assistant Naomi]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "[Assistant Naomi]"
+msgstr ""
+
+# mes("The doctor never ever tries to come back, and there're too many things to do... How can I do it all...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The doctor never ever tries to come back, and there're too many things to do... How can I do it all..."
+msgstr ""
+
+# mes("Hey, you. Please move these books. Put them into shelf 3 row B.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Hey, you. Please move these books. Put them into shelf 3 row B."
+msgstr ""
+
+# mesf("[%s]", .@name$);
+#: npc/instances/NydhoggsNest.txt
+#, c-format
+msgctxt "Assistant Naomi#edq"
+msgid "[%s]"
+msgstr ""
+
+# mes("Ah...um..I...am...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Ah...um..I...am..."
+msgstr ""
+
+# mes("Don't you see I am too busy? Don't hesitate. Just do it.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Don't you see I am too busy? Don't hesitate. Just do it."
+msgstr ""
+
+# switch (select("Look busy, and take a step back.", "Help her just this once.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Look busy, and take a step back."
+msgstr ""
+
+# switch (select("Look busy, and take a step back.", "Help her just this once.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Help her just this once."
+msgstr ""
+
+# mes("Gosh! Where is-? Where did-? Ugh! It's so difficult!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Gosh! Where is-? Where did-? Ugh! It's so difficult!"
+msgstr ""
+
+# mes("Ah... if you're done moving those, then these should go in shelf 3 row B.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Ah... if you're done moving those, then these should go in shelf 3 row B."
+msgstr ""
+
+# mes("Ah...I...see...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Ah...I...see..."
+msgstr ""
+
+# mes("Now, I am almost done... Who are you? Are you a new assistant to Dr. Magnifier?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Now, I am almost done... Who are you? Are you a new assistant to Dr. Magnifier?"
+msgstr ""
+
+# mes("He asked me to bring some reports. Didn't he say anything?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "He asked me to bring some reports. Didn't he say anything?"
+msgstr ""
+
+# mes("Hmm... I haven't seen him in over a year! What's he doing now?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Hmm... I haven't seen him in over a year! What's he doing now?"
+msgstr ""
+
+# mes("He said that he would send a message to you... didn't you get it?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "He said that he would send a message to you... didn't you get it?"
+msgstr ""
+
+# mes("Message? ...Let's see... I never expected him to write a message...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Message? ...Let's see... I never expected him to write a message..."
+msgstr ""
+
+# mes("I will check the mailbox, wait a minute. If you get bored read those books.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "I will check the mailbox, wait a minute. If you get bored read those books."
+msgstr ""
+
+# mes("...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "..."
+msgstr ""
+
+# mes("... ...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "... ..."
+msgstr ""
+
+# mes("It's too messy due to lots of stacked books and files. Dr. Magnifier looks like he has a ton of reports.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "It's too messy due to lots of stacked books and files. Dr. Magnifier looks like he has a ton of reports."
+msgstr ""
+
+# mes("'Birth of the World', 'The Fiction of Odin's Myth', 'God's Battle Then After', 'Dreams of the Tribes'. There are a variety of books...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "'Birth of the World', 'The Fiction of Odin's Myth', 'God's Battle Then After', 'Dreams of the Tribes'. There are a variety of books..."
+msgstr ""
+
+# mes("Oh, sorry I took so long. There was too much mail, so it took me a while to find stuff.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Oh, sorry I took so long. There was too much mail, so it took me a while to find stuff."
+msgstr ""
+
+# mes("He has sent me mail over 20 times. I did not know that...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "He has sent me mail over 20 times. I did not know that..."
+msgstr ""
+
+# mes("Ah, here's the message about you. He's said to share the information on research and reports.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Ah, here's the message about you. He's said to share the information on research and reports."
+msgstr ""
+
+# mes("What is the Doctor's area of expertise?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "What is the Doctor's area of expertise?"
+msgstr ""
+
+# mes("Ever since 5 years ago, he has been curious about how the world started, and so he began his search for the God of creation.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Ever since 5 years ago, he has been curious about how the world started, and so he began his search for the God of creation."
+msgstr ""
+
+# mes("He researches combat between Odin and the Gods, and about the Gods' origins and life.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "He researches combat between Odin and the Gods, and about the Gods' origins and life."
+msgstr ""
+
+# mes("So, did he already know that the Rebirth of Satan Morocc has occured before?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "So, did he already know that the Rebirth of Satan Morocc has occured before?"
+msgstr ""
+
+# mes("I can't be sure, but he thought someday it would occur. It broke out earlier than he expected though.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "I can't be sure, but he thought someday it would occur. It broke out earlier than he expected though."
+msgstr ""
+
+# mes("But Rune-Midgarts approved this research?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "But Rune-Midgarts approved this research?"
+msgstr ""
+
+# mes("Our academics are not a religion. And they too have curiosity about this world's history.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Our academics are not a religion. And they too have curiosity about this world's history."
+msgstr ""
+
+# mes("The combat of Odin vs. the Gods, and the God's sons and their purpose... The Doctor has researched this his whole life.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The combat of Odin vs. the Gods, and the God's sons and their purpose... The Doctor has researched this his whole life."
+msgstr ""
+
+# mes("But those reports haven't come out yet. Have they?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "But those reports haven't come out yet. Have they?"
+msgstr ""
+
+# mes("That's why he sent you here. By the way, this isn't the first time I've heard this.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "That's why he sent you here. By the way, this isn't the first time I've heard this."
+msgstr ""
+
+# mes("After the establishment of the Rune-Midgarts Kingdom and Arunafeltz, the rumors have spread in secret about their tribes, myths, etc.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "After the establishment of the Rune-Midgarts Kingdom and Arunafeltz, the rumors have spread in secret about their tribes, myths, etc."
+msgstr ""
+
+# mes("Anyway, I should make sure that you read all these books, and I'll just keep doing my work.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Anyway, I should make sure that you read all these books, and I'll just keep doing my work."
+msgstr ""
+
+# mes("Shouldn't I have filed the books?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Shouldn't I have filed the books?"
+msgstr ""
+
+# mes("The Doctor said he will pick up the books through another person. Besides, don't you need the basic information on what to do?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The Doctor said he will pick up the books through another person. Besides, don't you need the basic information on what to do?"
+msgstr ""
+
+# mes("Before you go back to the Doctor, you had better read these books. So, I will go back to work.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Before you go back to the Doctor, you had better read these books. So, I will go back to work."
+msgstr ""
+
+# mes("Browse around, to take a look at the books.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Browse around, to take a look at the books."
+msgstr ""
+
+# switch (select("Discovery of Heterogeneity", "Report of Indigenous Tribes")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Discovery of Heterogeneity"
+msgstr ""
+
+# switch (select("Discovery of Heterogeneity", "Report of Indigenous Tribes")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Report of Indigenous Tribes"
+msgstr ""
+
+# mes("Satan Morocc has known that he didn't resurrect normally or by himself.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Satan Morocc has known that he didn't resurrect normally or by himself."
+msgstr ""
+
+# mes("Continuously, adventurers from Rune-Midgarts have attacked him and he is slowly losing his power. He would need more time to resurrect completely.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Continuously, adventurers from Rune-Midgarts have attacked him and he is slowly losing his power. He would need more time to resurrect completely."
+msgstr ""
+
+# mes("Satan Morroc stopped to destroy the city of Morroc, turning it into a ruined desert, then started to rip the world apart.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Satan Morroc stopped to destroy the city of Morroc, turning it into a ruined desert, then started to rip the world apart."
+msgstr ""
+
+# mes("Satan Morroc was worried about those who would give chase, so he created Morocc clones to keep watch behind him.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Satan Morroc was worried about those who would give chase, so he created Morocc clones to keep watch behind him."
+msgstr ""
+
+# mes("Modeled after Morocc, their appearance made it difficult to go around the time-space gap.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Modeled after Morocc, their appearance made it difficult to go around the time-space gap."
+msgstr ""
+
+# mes("Still the adventurers gave chase. They came from all over the world, trying to approach the Dimensional Gorge.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Still the adventurers gave chase. They came from all over the world, trying to approach the Dimensional Gorge."
+msgstr ""
+
+# mes("The reports of these adventurers have been sent to representatives of all kingdoms, and an expedition team has been created to find out more information.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The reports of these adventurers have been sent to representatives of all kingdoms, and an expedition team has been created to find out more information."
+msgstr ""
+
+# mes("The scientists of Schwartzwalt created a combination metal, using fragments of metals found in the dimensional gorge.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The scientists of Schwartzwalt created a combination metal, using fragments of metals found in the dimensional gorge."
+msgstr ""
+
+# mes("The Schwaltzvalt Republic requested approval to find the source of the new metal, and since Rune-Midgart couldn't complete the test themselves, they finally accepted.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The Schwaltzvalt Republic requested approval to find the source of the new metal, and since Rune-Midgart couldn't complete the test themselves, they finally accepted."
+msgstr ""
+
+# mes("They associated together to gather volunteers. The Assassin Guild was the first to volunteer.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "They associated together to gather volunteers. The Assassin Guild was the first to volunteer."
+msgstr ""
+
+# mes("The Assassins have a terrible past with Satan Morroc, so they gathered 18 members to chase him down.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The Assassins have a terrible past with Satan Morroc, so they gathered 18 members to chase him down."
+msgstr ""
+
+# mes("About 3 hours later, all 18 members returned without any problem, and each man and woman shared the information that they had collected.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "About 3 hours later, all 18 members returned without any problem, and each man and woman shared the information that they had collected."
+msgstr ""
+
+# mes("They had discovered another world with a definitively different nature and environment. And indeed, people could also live there.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "They had discovered another world with a definitively different nature and environment. And indeed, people could also live there."
+msgstr ""
+
+# mes("The most surprising thing is the flow of time. The 18 assassins had stayed for about 2 weeks in there, yet they returned within 3 hours after departing.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The most surprising thing is the flow of time. The 18 assassins had stayed for about 2 weeks in there, yet they returned within 3 hours after departing."
+msgstr ""
+
+# mes("The last thing to be tested... was to send adventurers who volunteered to explore the new world.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The last thing to be tested... was to send adventurers who volunteered to explore the new world."
+msgstr ""
+
+# mes("There was a flood of adventurer applications. Lots of volunteers disappeared over the dimensional gorge, and they brought back new data.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "There was a flood of adventurer applications. Lots of volunteers disappeared over the dimensional gorge, and they brought back new data."
+msgstr ""
+
+# mes("The new world could support 3 completely different eco-systems dependant upon the race of people that lived there.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The new world could support 3 completely different eco-systems dependant upon the race of people that lived there."
+msgstr ""
+
+# mes("The heterogenous phenomenon needed to be studied thoroughly and carefully in order to under the relationship between thair world and ours.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The heterogenous phenomenon needed to be studied thoroughly and carefully in order to under the relationship between thair world and ours."
+msgstr ""
+
+# mes("Just when it was expected to be impossible to travel into a different world, the first page of a new chapter was opened.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Just when it was expected to be impossible to travel into a different world, the first page of a new chapter was opened."
+msgstr ""
+
+# mes("Long ago, there wasn't a sun, moon, or stars; just empty earth... and Ymir was born. Then, by making sons, Ymir grew.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Long ago, there wasn't a sun, moon, or stars; just empty earth... and Ymir was born. Then, by making sons, Ymir grew."
+msgstr ""
+
+# mes("But, his sons grew as well and he was killed by Odin, Vili, and Ve; 3 brothers, Gods, that attacked from different sides.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "But, his sons grew as well and he was killed by Odin, Vili, and Ve; 3 brothers, Gods, that attacked from different sides."
+msgstr ""
+
+# mes("At that time of Ymir's fall his blood flooded the world... killing all in it's path.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "At that time of Ymir's fall his blood flooded the world... killing all in it's path."
+msgstr ""
+
+# mes("Only Hvergelmir of the Sapha tribe escaped from this flooding of blood. And he swore vengeance in Jotunheim, which is covered with foggy snow.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Only Hvergelmir of the Sapha tribe escaped from this flooding of blood. And he swore vengeance in Jotunheim, which is covered with foggy snow."
+msgstr ""
+
+# mes("Currently, one of the Sapha tribe has been discovered from beyond the Dimensional Gorge.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Currently, one of the Sapha tribe has been discovered from beyond the Dimensional Gorge."
+msgstr ""
+
+# mes("Other than the Sapha tribe, there was another tribe beyond the time-space gap, known as the Laphine.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Other than the Sapha tribe, there was another tribe beyond the time-space gap, known as the Laphine."
+msgstr ""
+
+# mes("The Laphine tribes gathered as well for an expedition to explore the time-space gap and figure out the World Tree's strange symptoms and perharps a cure method.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The Laphine tribes gathered as well for an expedition to explore the time-space gap and figure out the World Tree's strange symptoms and perharps a cure method."
+msgstr ""
+
+# mes("The Laphine tribe was charged with the management of Yggdrasil, to establish their lands close to Asgard, and to protect the balance of Yggdrasil's magic power.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The Laphine tribe was charged with the management of Yggdrasil, to establish their lands close to Asgard, and to protect the balance of Yggdrasil's magic power."
+msgstr ""
+
+# mes("The Laphine tribe has never contacted anyone outside of Asgard. But since they found that Yggdrasil's power if weakening...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "The Laphine tribe has never contacted anyone outside of Asgard. But since they found that Yggdrasil's power if weakening..."
+msgstr ""
+
+# mes("They have declared they will attend to the high courts for the first time in 1000 human years, since the end of the battles of Gods vs. Magicians.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "They have declared they will attend to the high courts for the first time in 1000 human years, since the end of the battles of Gods vs. Magicians."
+msgstr ""
+
+# mes("Don't you see that I'm too busy? Don't dawdle, just go!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Assistant Naomi#edq"
+msgid "Don't you see that I'm too busy? Don't dawdle, just go!"
+msgstr ""
+
+# mes("[Grumbling Soldier]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "[Grumbling Soldier]"
+msgstr ""
+
+# mes("Nowadays, the world has turned unstable. I can't even fly comfortably anymore.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "Nowadays, the world has turned unstable. I can't even fly comfortably anymore."
+msgstr ""
+
+# switch (select("What's with the cave up north?", "Who are the Sapha tribesmen?", "Hmm. We can talk later.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "What's with the cave up north?"
+msgstr ""
+
+# switch (select("What's with the cave up north?", "Who are the Sapha tribesmen?", "Hmm. We can talk later.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "Who are the Sapha tribesmen?"
+msgstr ""
+
+# switch (select("What's with the cave up north?", "Who are the Sapha tribesmen?", "Hmm. We can talk later.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "Hmm. We can talk later."
+msgstr ""
+
+# mes("What? If you wander around there... you might return with injuries.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "What? If you wander around there... you might return with injuries."
+msgstr ""
+
+# mes("I don't know exactly how to explain it, but it's like it has a bad mood. There are lots of terrible monsters there.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "I don't know exactly how to explain it, but it's like it has a bad mood. There are lots of terrible monsters there."
+msgstr ""
+
+# mes("They whisper to each other, so... something is there... But I don't care...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "They whisper to each other, so... something is there... But I don't care..."
+msgstr ""
+
+# mes("Might be... those Sapha tribesmen have dug in the cave before... They do have a special talent for digging.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "Might be... those Sapha tribesmen have dug in the cave before... They do have a special talent for digging."
+msgstr ""
+
+# mes("Oh! It is because of them that we have been living here, a lowdown and dirty city, for over one hundred years.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "Oh! It is because of them that we have been living here, a lowdown and dirty city, for over one hundred years."
+msgstr ""
+
+# mes("They don't care if there's trouble with the Yggdrasil.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "They don't care if there's trouble with the Yggdrasil."
+msgstr ""
+
+# mes("They are surely full of bad ideas, so... they have destroyed the Yggdrasil's root.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "They are surely full of bad ideas, so... they have destroyed the Yggdrasil's root."
+msgstr ""
+
+# mes("We are here to make sure that the Sapha don't make things worse.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "We are here to make sure that the Sapha don't make things worse."
+msgstr ""
+
+# mes("What can you expect when Manuk giants start to dig into the world to destroy the Yggdrasil...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "What can you expect when Manuk giants start to dig into the world to destroy the Yggdrasil..."
+msgstr ""
+
+# mes("And the worst thing is... that strange things are strutting along the streets of the towns...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "And the worst thing is... that strange things are strutting along the streets of the towns..."
+msgstr ""
+
+# mes("Yes, you... What do you think about the way the government is handling this...?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "Yes, you... What do you think about the way the government is handling this...?"
+msgstr ""
+
+# mes("Although they ignore your track record, still, one should be careful...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "Although they ignore your track record, still, one should be careful..."
+msgstr ""
+
+# mes("SeLarsmar Di marThusVil U SeMushVohl");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Grumbling Soldier#edq"
+msgid "SeLarsmar Di marThusVil U SeMushVohl"
+msgstr ""
+
+# mes("[Sighing Soldier]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "[Sighing Soldier]"
+msgstr ""
+
+# mes("When will we be finished with this combat with the Sapha? Ugghhhh...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "When will we be finished with this combat with the Sapha? Ugghhhh..."
+msgstr ""
+
+# switch (select("What's with the cave up north?", "Who are the Sapha tribesmen?", "Hmm. We can talk later.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "What's with the cave up north?"
+msgstr ""
+
+# switch (select("What's with the cave up north?", "Who are the Sapha tribesmen?", "Hmm. We can talk later.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Who are the Sapha tribesmen?"
+msgstr ""
+
+# switch (select("What's with the cave up north?", "Who are the Sapha tribesmen?", "Hmm. We can talk later.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Hmm. We can talk later."
+msgstr ""
+
+# mes("Well... I'm not sure, but we have avoided going to that area.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Well... I'm not sure, but we have avoided going to that area."
+msgstr ""
+
+# mes("Sometimes, the dispatched researchers hang around here... I feel bad that there's nothing to see... without any reason...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Sometimes, the dispatched researchers hang around here... I feel bad that there's nothing to see... without any reason..."
+msgstr ""
+
+# mes("But the command officers make sure that there's something hidden in there.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "But the command officers make sure that there's something hidden in there."
+msgstr ""
+
+# mes("We don't know if the monsters there are strong, so we never checked it out. But on a personal level, nobody wants to go there...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "We don't know if the monsters there are strong, so we never checked it out. But on a personal level, nobody wants to go there..."
+msgstr ""
+
+# mes("I don't know what others think about it... but we've had some trouble with our attitude against the Sapha tribes.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "I don't know what others think about it... but we've had some trouble with our attitude against the Sapha tribes."
+msgstr ""
+
+# mes("We didn't try to solve the problems with talk. We attacked them first.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "We didn't try to solve the problems with talk. We attacked them first."
+msgstr ""
+
+# mes("Maybe... our command officers don't want to accept other species different than us...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Maybe... our command officers don't want to accept other species different than us..."
+msgstr ""
+
+# mes("Don't misunderstand... Recently, we have talked about your particular species and our commanders feel grateful to you.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Don't misunderstand... Recently, we have talked about your particular species and our commanders feel grateful to you."
+msgstr ""
+
+# mes("Anyway... I'm just exhausted during this useless and nerve-wracking situation... Sigh.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Anyway... I'm just exhausted during this useless and nerve-wracking situation... Sigh."
+msgstr ""
+
+# mes("Frankly, I don't think of you or any Sapha is our enemy. Sigh...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Frankly, I don't think of you or any Sapha is our enemy. Sigh..."
+msgstr ""
+
+# mes("Is there no way to resolve this by communicating? There's no meaning in useless combat! Geez.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "Is there no way to resolve this by communicating? There's no meaning in useless combat! Geez."
+msgstr ""
+
+# mes("VohlLarsmar Ha DielCyatas");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Sighing Soldier#edq"
+msgid "VohlLarsmar Ha DielCyatas"
+msgstr ""
+
+# mes("[Commander Lebiordirr]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "[Commander Lebiordirr]"
+msgstr ""
+
+# mes("Are you...? Are you the one collecting information from my soldiers...?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Are you...? Are you the one collecting information from my soldiers...?"
+msgstr ""
+
+# mes("You should be cautious. Our tribe has respected the existence of you humans but...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "You should be cautious. Our tribe has respected the existence of you humans but..."
+msgstr ""
+
+# mes("I've taken a great risk in allowing you in here. So be wary.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I've taken a great risk in allowing you in here. So be wary."
+msgstr ""
+
+# mes("Don't attract too much attention because that would make your people look bad.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Don't attract too much attention because that would make your people look bad."
+msgstr ""
+
+# mes("Now, we don't need to talk much about this, so just go back where you came from.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Now, we don't need to talk much about this, so just go back where you came from."
+msgstr ""
+
+# mes("Unless you have any messages for me...? Your face says you do...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Unless you have any messages for me...? Your face says you do..."
+msgstr ""
+
+# if (select("No. Nothing. We can talk later.", "I intend to stay. For good reasons.") == 1)
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "No. Nothing. We can talk later."
+msgstr ""
+
+# if (select("No. Nothing. We can talk later.", "I intend to stay. For good reasons.") == 1)
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I intend to stay. For good reasons."
+msgstr ""
+
+# mes("[Splendide Guard]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "[Splendide Guard]"
+msgstr ""
+
+# mes("Sir, I can drag this pest out right now.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Sir, I can drag this pest out right now."
+msgstr ""
+
+# mes("No. Let's hear an explanation. Good? Now, if you want...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "No. Let's hear an explanation. Good? Now, if you want..."
+msgstr ""
+
+# mes("I have known that, recently, time has broken... so, you're here exploring for a solution, no?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I have known that, recently, time has broken... so, you're here exploring for a solution, no?"
+msgstr ""
+
+# mes("Our tribe has respected you, so just forget about the searching and exploring around here.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Our tribe has respected you, so just forget about the searching and exploring around here."
+msgstr ""
+
+# mes("I heard that you are to search for any treasure in the closed cave to the north.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I heard that you are to search for any treasure in the closed cave to the north."
+msgstr ""
+
+# mes("That place is banned by order of the Laphine tribe. So, people can't just go there without permission.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "That place is banned by order of the Laphine tribe. So, people can't just go there without permission."
+msgstr ""
+
+# mes("If you can't follow this rule, I will stop associating with you and ban all of your people from here.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "If you can't follow this rule, I will stop associating with you and ban all of your people from here."
+msgstr ""
+
+# mes("We still have an unstable relationship with the Sapha, we usually don't worry about outsiders.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "We still have an unstable relationship with the Sapha, we usually don't worry about outsiders."
+msgstr ""
+
+# mes("Now, if you understand this, inform your friends.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Now, if you understand this, inform your friends."
+msgstr ""
+
+# mes("Why have you come back, outsider?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Why have you come back, outsider?"
+msgstr ""
+
+# select("To ask the Laphines about exploring...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "To ask the Laphines about exploring..."
+msgstr ""
+
+# mes("Exploring what? Choose your words wisely?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Exploring what? Choose your words wisely?"
+msgstr ""
+
+# mes("Do we not understand each other? What do you want?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Do we not understand each other? What do you want?"
+msgstr ""
+
+# select("I must explore the cave.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I must explore the cave."
+msgstr ""
+
+# mes("That means... that you are ignoring my warning? Is this your decision or are you just following orders?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "That means... that you are ignoring my warning? Is this your decision or are you just following orders?"
+msgstr ""
+
+# select("I'm just following orders");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I'm just following orders"
+msgstr ""
+
+# mes("Are you trying to insult me on purpose, outsider?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Are you trying to insult me on purpose, outsider?"
+msgstr ""
+
+# mes("Why do you want to explore? It better be a very good reason.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Why do you want to explore? It better be a very good reason."
+msgstr ""
+
+# select("It's about Dr. Magnifier's report...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "It's about Dr. Magnifier's report..."
+msgstr ""
+
+# mes("So... What do I care about an outsider's report?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "So... What do I care about an outsider's report?"
+msgstr ""
+
+# mes("To protect the Yggdrasil! That's the Laphine's fate. Can you say that about yourself?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "To protect the Yggdrasil! That's the Laphine's fate. Can you say that about yourself?"
+msgstr ""
+
+# mes("Do you have any proof of your birth with Odin and Yggdrasil's blessings?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Do you have any proof of your birth with Odin and Yggdrasil's blessings?"
+msgstr ""
+
+# mes("I shouldn't say anymore. Please don't take this as being rude but, please go now!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I shouldn't say anymore. Please don't take this as being rude but, please go now!"
+msgstr ""
+
+# select("Then I'll ask the Sapha for help.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Then I'll ask the Sapha for help."
+msgstr ""
+
+# mes("What are you talking about, outsider?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "What are you talking about, outsider?"
+msgstr ""
+
+# mes("Sir, I can get rid of this rude outsider if you wish?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Sir, I can get rid of this rude outsider if you wish?"
+msgstr ""
+
+# mes("No, wait... The Sapha tribesmen know the meaning of that place? Did you ask to associate with them?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "No, wait... The Sapha tribesmen know the meaning of that place? Did you ask to associate with them?"
+msgstr ""
+
+# mes("Ah... How tricky... Are you testing us?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Ah... How tricky... Are you testing us?"
+msgstr ""
+
+# mes("Calm down, sir. I will throw this outsider into prison.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Calm down, sir. I will throw this outsider into prison."
+msgstr ""
+
+# mes("No... No, wait. Ok, I will accept it. I can accept your admission into the Holy Sekos.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "No... No, wait. Ok, I will accept it. I can accept your admission into the Holy Sekos."
+msgstr ""
+
+# mes("Okay. If you are a servant of the Yggdrasil as you claim to be, I will allow you admission. But I am not responsible for your actions.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Okay. If you are a servant of the Yggdrasil as you claim to be, I will allow you admission. But I am not responsible for your actions."
+msgstr ""
+
+# mes("And make sure that if you find anything out of the ordinary in there, that you share it with us!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "And make sure that if you find anything out of the ordinary in there, that you share it with us!"
+msgstr ""
+
+# select("But of course!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "But of course!"
+msgstr ""
+
+# mes("So... since I have agreed to allow your exploration... Arioss, help them, and take the results.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "So... since I have agreed to allow your exploration... Arioss, help them, and take the results."
+msgstr ""
+
+# mes("[Aide Arioss]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "[Aide Arioss]"
+msgstr ""
+
+# mes("Sir... are you sure? This is an invasion of the Holy Sekos...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Sir... are you sure? This is an invasion of the Holy Sekos..."
+msgstr ""
+
+# mes("Invasion is a harsh word. I am allowing them entrance. Better them than a dirty giant. It might just save our lives...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Invasion is a harsh word. I am allowing them entrance. Better them than a dirty giant. It might just save our lives..."
+msgstr ""
+
+# mes("Here, outsider. Arioss will explain the situation with the giants. Talk with him...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Here, outsider. Arioss will explain the situation with the giants. Talk with him..."
+msgstr ""
+
+# mes("Outsider. Arioss here will explain the situation with the giants, talk with him...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Outsider. Arioss here will explain the situation with the giants, talk with him..."
+msgstr ""
+
+# mes("Welcome to the Laphine camp in Splendide, outsider... I am Lebiordirr. I am in charge here.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Welcome to the Laphine camp in Splendide, outsider... I am Lebiordirr. I am in charge here."
+msgstr ""
+
+# mes("Be cautious of your actions. We already have lots of problems with the Sapha tribe as it is.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Be cautious of your actions. We already have lots of problems with the Sapha tribe as it is."
+msgstr ""
+
+# mes("If you are cautious with your actions, I won't place any harm on you. Fare well.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "If you are cautious with your actions, I won't place any harm on you. Fare well."
+msgstr ""
+
+# mes("I was waiting for you. You came back safe, that's good news. Did you find anything?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "I was waiting for you. You came back safe, that's good news. Did you find anything?"
+msgstr ""
+
+# select("Explain about the guardian Nidhoggur's leave.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Explain about the guardian Nidhoggur's leave."
+msgstr ""
+
+# mes("What? The Guardian is not in his nest...?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "What? The Guardian is not in his nest...?"
+msgstr ""
+
+# mes("And because of his disppearance, the Guardian's Shadow is currently destorying the roots of the World Tree...?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "And because of his disppearance, the Guardian's Shadow is currently destorying the roots of the World Tree...?"
+msgstr ""
+
+# mes("That's unbelievable. You must be insulting the Guardian's and our pride. I did not provide you with our help for that.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "That's unbelievable. You must be insulting the Guardian's and our pride. I did not provide you with our help for that."
+msgstr ""
+
+# mes("It's not like that, Commander, they speak the truth.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "It's not like that, Commander, they speak the truth."
+msgstr ""
+
+# mes("What are you saying? Arioss, do not forget your place as the Guardian's priest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "What are you saying? Arioss, do not forget your place as the Guardian's priest."
+msgstr ""
+
+# mes("Even though I have not seen it with my own eyes, this does explain why we lost communication with the great World Tree Yggdrasil.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Even though I have not seen it with my own eyes, this does explain why we lost communication with the great World Tree Yggdrasil."
+msgstr ""
+
+# mes("Do not speak of His Highness, the World Tree Yggdrasil's name so lightly.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Do not speak of His Highness, the World Tree Yggdrasil's name so lightly."
+msgstr ""
+
+# select("Pass along World Tree Yggdrasil's words.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Pass along World Tree Yggdrasil's words."
+msgstr ""
+
+# mes("His Highness, the World Tree Yggdrasil, said that?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "His Highness, the World Tree Yggdrasil, said that?"
+msgstr ""
+
+# mes("The reason behind all of this... is not because of the Sapha tribe, but because of the sudden leave of the Guardian? And the Guaridan has given up on his identity?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "The reason behind all of this... is not because of the Sapha tribe, but because of the sudden leave of the Guardian? And the Guaridan has given up on his identity?"
+msgstr ""
+
+# mes("This must be reported... reported to the High Priest of Alfheim... Unbelievable.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "This must be reported... reported to the High Priest of Alfheim... Unbelievable."
+msgstr ""
+
+# mes("Commander... do we need to alert the rest of the tribe...?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Commander... do we need to alert the rest of the tribe...?"
+msgstr ""
+
+# mes("You don't need to worry about this, Arioss. As commander, I will handle it. You just pretend nothing happened...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "You don't need to worry about this, Arioss. As commander, I will handle it. You just pretend nothing happened..."
+msgstr ""
+
+# mes("Strange one, thank you for your cooperation in such situations... Please forget what has happened today...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Strange one, thank you for your cooperation in such situations... Please forget what has happened today..."
+msgstr ""
+
+# mes("Arioss, please compensate this strange one for the help. I need to go rest...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Arioss, please compensate this strange one for the help. I need to go rest..."
+msgstr ""
+
+# mes("Commander...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "Commander..."
+msgstr ""
+
+# mes("ThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Commander Lebiordirr#edq"
+msgid "ThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee..."
+msgstr ""
+
+# mes("[Aide Arioss]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "[Aide Arioss]"
+msgstr ""
+
+# mes("Sigh, since it's Commander Lebiordirr's wish, I will cooperate with you...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Sigh, since it's Commander Lebiordirr's wish, I will cooperate with you..."
+msgstr ""
+
+# mes("You want to go there to find out exactly what that place is?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "You want to go there to find out exactly what that place is?"
+msgstr ""
+
+# mes("Alright...it's as you have assumed, a place connecting to the World Tree. It's also the Guardian's Nest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Alright...it's as you have assumed, a place connecting to the World Tree. It's also the Guardian's Nest."
+msgstr ""
+
+# select("Guardian's Nest?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Guardian's Nest?"
+msgstr ""
+
+# mes("Yes, that's the nest of Nidhoggur, the Guardian of the World Tree...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Yes, that's the nest of Nidhoggur, the Guardian of the World Tree..."
+msgstr ""
+
+# mes("Only a marked guardian's servant from the Laphine tribe is allowed to enter.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Only a marked guardian's servant from the Laphine tribe is allowed to enter."
+msgstr ""
+
+# mes("That place was initially closed off from the public, but then the giants of the Sapha tribe turned things around...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "That place was initially closed off from the public, but then the giants of the Sapha tribe turned things around..."
+msgstr ""
+
+# mes("To obtain more minerals, they started to dig with madness.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "To obtain more minerals, they started to dig with madness."
+msgstr ""
+
+# mes("In the end, they have harmed a part of the World Tree's root that lies very close to their mine, and thus, the World Tree became very ill.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "In the end, they have harmed a part of the World Tree's root that lies very close to their mine, and thus, the World Tree became very ill."
+msgstr ""
+
+# mes("After we have arrived here knowing the facts, the World Tree was already in a very bad state due to the many factories built by the Sapha tribe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "After we have arrived here knowing the facts, the World Tree was already in a very bad state due to the many factories built by the Sapha tribe."
+msgstr ""
+
+# mes("Even though, for a long time, we have been attacking the Sapha tribe, trying to force them to leave, they are not so easily defeated, leading to this stalemate.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Even though, for a long time, we have been attacking the Sapha tribe, trying to force them to leave, they are not so easily defeated, leading to this stalemate."
+msgstr ""
+
+# mes("During this time, your people have travelled through the space-time gap to this land.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "During this time, your people have travelled through the space-time gap to this land."
+msgstr ""
+
+# mes("Because of those many unexpected reasons, the Guardian's nest, which was meant to stay hidden deep underground, has been discovered by your race...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Because of those many unexpected reasons, the Guardian's nest, which was meant to stay hidden deep underground, has been discovered by your race..."
+msgstr ""
+
+# mes("Now you understand how serious this situation is. Because of the Sapha tribe, we are no longer able to approach the Guardian, and seek his teachings of wisdom.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Now you understand how serious this situation is. Because of the Sapha tribe, we are no longer able to approach the Guardian, and seek his teachings of wisdom."
+msgstr ""
+
+# mes("It's very insulting to our pride... but if you can help us enter that place again, and speak to the Guardian, maybe we can find a solution...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "It's very insulting to our pride... but if you can help us enter that place again, and speak to the Guardian, maybe we can find a solution..."
+msgstr ""
+
+# mes("Then we'll leave it to you. As for your request, I will do my best to cooperate.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Then we'll leave it to you. As for your request, I will do my best to cooperate."
+msgstr ""
+
+# mes("I have already told you what you wanted to know... If you need anything else, just let me know.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "I have already told you what you wanted to know... If you need anything else, just let me know."
+msgstr ""
+
+# mes("Ah, you said that there is a strange power blocking the entrance to the Guardian's nest, right?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Ah, you said that there is a strange power blocking the entrance to the Guardian's nest, right?"
+msgstr ""
+
+# mes("That's because only the ones chosen by the Guardian may enter.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "That's because only the ones chosen by the Guardian may enter."
+msgstr ""
+
+# mes("We have been the Guardian's servants for generations, and have been protecting the World Tree ever since.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "We have been the Guardian's servants for generations, and have been protecting the World Tree ever since."
+msgstr ""
+
+# mes("Before we were captured and brought here, there were 3 servants including me. Our task was to heal the World Tree.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Before we were captured and brought here, there were 3 servants including me. Our task was to heal the World Tree."
+msgstr ""
+
+# mes("One was killed in our last war with the Sapha tribe... and the other has been taken captive.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "One was killed in our last war with the Sapha tribe... and the other has been taken captive."
+msgstr ""
+
+# mes("I will give you my proof. Don't worry, I'm just temporarily marking you as a guardian's servant.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "I will give you my proof. Don't worry, I'm just temporarily marking you as a guardian's servant."
+msgstr ""
+
+# mes("Also, remember this spell, it's needed to open the gate of the Guardian.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Also, remember this spell, it's needed to open the gate of the Guardian."
+msgstr ""
+
+# mes("AnomarDu Ha OdesUdenVer Ie ");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "AnomarDu Ha OdesUdenVer Ie "
+msgstr ""
+
+# mes("remuAlaAsh Mu ModtasAn Yu Dur");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "remuAlaAsh Mu ModtasAn Yu Dur"
+msgstr ""
+
+# mes("TalsehrDur So CyaReMush Di DielAlaWos Ie RuffserIman Ie ");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "TalsehrDur So CyaReMush Di DielAlaWos Ie RuffserIman Ie "
+msgstr ""
+
+# mes("Go find the fairy guarding the gate, and say this spell.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Go find the fairy guarding the gate, and say this spell."
+msgstr ""
+
+# mes("The proof and the spell will confirm that you are one of the Guardian's servants.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "The proof and the spell will confirm that you are one of the Guardian's servants."
+msgstr ""
+
+# mes("Please meet the Guardian, and come back with an answer to everything. I believe in you.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Please meet the Guardian, and come back with an answer to everything. I believe in you."
+msgstr ""
+
+# mes("Please meet with the Guardian and take a wise answer from him. I will trust you.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Please meet with the Guardian and take a wise answer from him. I will trust you."
+msgstr ""
+
+# mes("... ...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "... ..."
+msgstr ""
+
+# mes("Not even caring about this a single bit? What a stupid woman...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Not even caring about this a single bit? What a stupid woman..."
+msgstr ""
+
+# mes("Things have actually become like this... as priests of the Guardian, it's our responsibility...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Things have actually become like this... as priests of the Guardian, it's our responsibility..."
+msgstr ""
+
+# mes("I represent the entire Laphine tribe, and show you our gratitude. This must all be very hard for our commander...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "I represent the entire Laphine tribe, and show you our gratitude. This must all be very hard for our commander..."
+msgstr ""
+
+# mes("It can't compare with the effort you have put in for us... but please accept our token of friendship.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "It can't compare with the effort you have put in for us... but please accept our token of friendship."
+msgstr ""
+
+# mes("If we can help you with anything in the future, we will do all we can to assist you. Once again, thank you.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "If we can help you with anything in the future, we will do all we can to assist you. Once again, thank you."
+msgstr ""
+
+# mes("Never give attention to... um... a blunt woman...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "Never give attention to... um... a blunt woman..."
+msgstr ""
+
+# mes("AmanVilShar Ie DorLuShar Mu Re");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Aide Arioss#edq"
+msgid "AmanVilShar Ie DorLuShar Mu Re"
+msgstr ""
+
+# mes("[Splendide Guard]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "trap#s_edq"
+msgid "[Splendide Guard]"
+msgstr ""
+
+# mes("That man is currently under arrest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "trap#s_edq"
+msgid "That man is currently under arrest."
+msgstr ""
+
+# mes("You'd better behave, Aide Arioss says that different races shall be treated the same way.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "trap#s_edq"
+msgid "You'd better behave, Aide Arioss says that different races shall be treated the same way."
+msgstr ""
+
+# mes("[Splendide Guard]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Splendide Guard#1_edq"
+msgid "[Splendide Guard]"
+msgstr ""
+
+# mes("This is the Splendide office. Don't act impolitely.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Splendide Guard#1_edq"
+msgid "This is the Splendide office. Don't act impolitely."
+msgstr ""
+
+# mes("ThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee ");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Splendide Guard#1_edq"
+msgid "ThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee "
+msgstr ""
+
+# mes("[Splendide Guard]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Splendide Guard#2_edq"
+msgid "[Splendide Guard]"
+msgstr ""
+
+# mes("This is the Splendide office. Don't act impolitely.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Splendide Guard#2_edq"
+msgid "This is the Splendide office. Don't act impolitely."
+msgstr ""
+
+# mes("ThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee ");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Splendide Guard#2_edq"
+msgid "ThusDurnah Ra SharVeldIyaz U UorAmanDur Yee neaOsaAdor Yee "
+msgstr ""
+
+# mes("[Neat Etorr]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "[Neat Etorr]"
+msgstr ""
+
+# mes("Guest from the other world, please excuse our rudeness...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Guest from the other world, please excuse our rudeness..."
+msgstr ""
+
+# mes("As the leader of the Sapha tribe, I have something very important to tell you. That is why I asked for you...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "As the leader of the Sapha tribe, I have something very important to tell you. That is why I asked for you..."
+msgstr ""
+
+# mes("Your race has come to this land not long ago through the space-time gap.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Your race has come to this land not long ago through the space-time gap."
+msgstr ""
+
+# mes("You should have already seen what is going on. We have been at war with the Laphine tribe for a very long time.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "You should have already seen what is going on. We have been at war with the Laphine tribe for a very long time."
+msgstr ""
+
+# mes("Recently, because you do not understand the current situations, you have done some things that I, as a leader, can't ignore any longer.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Recently, because you do not understand the current situations, you have done some things that I, as a leader, can't ignore any longer."
+msgstr ""
+
+# mes("I hope that your people will becareful of your actions on this land, and terminate any unnecessary interventions.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "I hope that your people will becareful of your actions on this land, and terminate any unnecessary interventions."
+msgstr ""
+
+# if (select("Leave quietly.", "Don't know what he's talking about, and ask for details.") == 1)
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Leave quietly."
+msgstr ""
+
+# if (select("Leave quietly.", "Don't know what he's talking about, and ask for details.") == 1)
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Don't know what he's talking about, and ask for details."
+msgstr ""
+
+# mes("[Manuk Field Elite Soldier]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "[Manuk Field Elite Soldier]"
+msgstr ""
+
+# mes("Are we really just letting these people go after they have stirred up problems on our land?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Are we really just letting these people go after they have stirred up problems on our land?"
+msgstr ""
+
+# mes("After what happened, I don't think they know what else they can do. Let me explain.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "After what happened, I don't think they know what else they can do. Let me explain."
+msgstr ""
+
+# mes("For now, we have acknowledged your race, and have been tolerant towards your activities.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "For now, we have acknowledged your race, and have been tolerant towards your activities."
+msgstr ""
+
+# mes("But we have recently started to suspect you of being the Laphine tribe's eyes and ears.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "But we have recently started to suspect you of being the Laphine tribe's eyes and ears."
+msgstr ""
+
+# mes("Not long ago, We have heard that you have found remains in an abandoned cave in the north, and have been conducting investigations and researches regarding it.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Not long ago, We have heard that you have found remains in an abandoned cave in the north, and have been conducting investigations and researches regarding it."
+msgstr ""
+
+# mes("We have captured a Laphine tribe priest during the last war, and we have heard that you have had contact with said captive.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "We have captured a Laphine tribe priest during the last war, and we have heard that you have had contact with said captive."
+msgstr ""
+
+# mes("That captive is the only reference for our tribe, so we have taken good care of her. She is related to your current investigation.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "That captive is the only reference for our tribe, so we have taken good care of her. She is related to your current investigation."
+msgstr ""
+
+# mes("For your people, who have no direct connections, it is not a place satisfy your curiosity. I hope that you stop your investigations, and mind your own business.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "For your people, who have no direct connections, it is not a place satisfy your curiosity. I hope that you stop your investigations, and mind your own business."
+msgstr ""
+
+# mes("If you don't accept our request, then do not expect any cooperations between our races in the future.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "If you don't accept our request, then do not expect any cooperations between our races in the future."
+msgstr ""
+
+# mes("Because of the war against the Laphine tribe, everything is a mess. But even then, we cannot allow a foreign race to interfere.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Because of the war against the Laphine tribe, everything is a mess. But even then, we cannot allow a foreign race to interfere."
+msgstr ""
+
+# mes("You have heard it all, now please report back to your race.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "You have heard it all, now please report back to your race."
+msgstr ""
+
+# mes("For your people, who have no direct connections, it is not a place to satisfy your curiosity. I hope that you stop your investigations, and mind your own business.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "For your people, who have no direct connections, it is not a place to satisfy your curiosity. I hope that you stop your investigations, and mind your own business."
+msgstr ""
+
+# mes("Do you need me for something, strange one?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Do you need me for something, strange one?"
+msgstr ""
+
+# select("Received invitation from the Sapha tribe to cooperate and investigate.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Received invitation from the Sapha tribe to cooperate and investigate."
+msgstr ""
+
+# mes("Cooperate and investigate? What do you mean?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Cooperate and investigate? What do you mean?"
+msgstr ""
+
+# mes("It seems like you did not understand what I said. What are you thinking?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "It seems like you did not understand what I said. What are you thinking?"
+msgstr ""
+
+# select("Please allow me to investigate the cave.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Please allow me to investigate the cave."
+msgstr ""
+
+# mes("From what I can tell, you are disrespecting my request. Is this your intention, or your people's intention?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "From what I can tell, you are disrespecting my request. Is this your intention, or your people's intention?"
+msgstr ""
+
+# select("It's our intention.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "It's our intention."
+msgstr ""
+
+# mes("Ah, it is not an easy decision. You frighten me.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Ah, it is not an easy decision. You frighten me."
+msgstr ""
+
+# mes("But may I ask why you want to do this?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "But may I ask why you want to do this?"
+msgstr ""
+
+# select("Explain Professor Magnifier's theory.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Explain Professor Magnifier's theory."
+msgstr ""
+
+# mes("It's surprising that you are able to obtain such results. We also have a similar theory.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "It's surprising that you are able to obtain such results. We also have a similar theory."
+msgstr ""
+
+# mes("At least we also think that we must use the Laphine prisoner to get information.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "At least we also think that we must use the Laphine prisoner to get information."
+msgstr ""
+
+# mes("This problem has been the root of our conflicts with the Laphine tribe. Of course, it may also be an opportunity to resolve them.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "This problem has been the root of our conflicts with the Laphine tribe. Of course, it may also be an opportunity to resolve them."
+msgstr ""
+
+# mes("Therefore, it's more of a reason to depend on our own powers. There is no room for you to interfere. Please give up.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Therefore, it's more of a reason to depend on our own powers. There is no room for you to interfere. Please give up."
+msgstr ""
+
+# select("Give up request, and ask Laphine tribe for help instead.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Give up request, and ask Laphine tribe for help instead."
+msgstr ""
+
+# mes("You finally showed your true face. I knew you were a spy from the Laphine tribe!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "You finally showed your true face. I knew you were a spy from the Laphine tribe!"
+msgstr ""
+
+# mes("Ah...you'd go as far as saying that. What good will it do for you, helping the Laphine tribe?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Ah...you'd go as far as saying that. What good will it do for you, helping the Laphine tribe?"
+msgstr ""
+
+# mes("Those obnoxious dwarves offended our right of living, and are trying to get rid of us.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Those obnoxious dwarves offended our right of living, and are trying to get rid of us."
+msgstr ""
+
+# mes("The reason we don't allow anyone to enter that site is because it's full of suspicions.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "The reason we don't allow anyone to enter that site is because it's full of suspicions."
+msgstr ""
+
+# mes("Alright, I'll approve of your request, and let you investigate the secret the Laphine tribe has hidden inside the cave.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Alright, I'll approve of your request, and let you investigate the secret the Laphine tribe has hidden inside the cave."
+msgstr ""
+
+# mes("If you promise to share all of your research results and findings, we will accept your request.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "If you promise to share all of your research results and findings, we will accept your request."
+msgstr ""
+
+# select("Of course.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Of course."
+msgstr ""
+
+# mes("Alright, from now on, we will cooperate with you, and allow you to directly communicate with the Laphine prisoner.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Alright, from now on, we will cooperate with you, and allow you to directly communicate with the Laphine prisoner."
+msgstr ""
+
+# mes("Commander...are you sure of this? We don't even know if they're friend or foe...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Commander...are you sure of this? We don't even know if they're friend or foe..."
+msgstr ""
+
+# mes("With just our powers, it's impossible to figure out what the Laphine is up to. I think the past has proven that.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "With just our powers, it's impossible to figure out what the Laphine is up to. I think the past has proven that."
+msgstr ""
+
+# mes("What they're doing right now could potentially lead us to a solution.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "What they're doing right now could potentially lead us to a solution."
+msgstr ""
+
+# mes("Strange one, we hope our cooperation will be a good one. Now please go interrogate the Laphine prisoner.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Strange one, we hope our cooperation will be a good one. Now please go interrogate the Laphine prisoner."
+msgstr ""
+
+# mes("Outsider. Welcome to Manuk, the village of the Sapha. I am its representative, Neat Etorr.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Outsider. Welcome to Manuk, the village of the Sapha. I am its representative, Neat Etorr."
+msgstr ""
+
+# mes("We are just a small village, nothing special... but rest comfortably.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "We are just a small village, nothing special... but rest comfortably."
+msgstr ""
+
+# mes("I was waiting for you. It's good that you're safe. Did you find anything?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "I was waiting for you. It's good that you're safe. Did you find anything?"
+msgstr ""
+
+# select("Explain the sudden leave of the Guardian.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Explain the sudden leave of the Guardian."
+msgstr ""
+
+# mes("So... that's the nest of the Guardian of the World Tree, the sacred grounds for the Laphine tribe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "So... that's the nest of the Guardian of the World Tree, the sacred grounds for the Laphine tribe."
+msgstr ""
+
+# mes("But because of the angry leave of the Guardian, his shadow is wreaking havoc on the World Tree?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "But because of the angry leave of the Guardian, his shadow is wreaking havoc on the World Tree?"
+msgstr ""
+
+# mes("If what you're saying is true, then there is no more reason for us to continue fighting the Laphine tribe...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "If what you're saying is true, then there is no more reason for us to continue fighting the Laphine tribe..."
+msgstr ""
+
+# mes("What a huge discovery... So Nidhoggur is no longer the Guardian of the World Tree...?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "What a huge discovery... So Nidhoggur is no longer the Guardian of the World Tree...?"
+msgstr ""
+
+# mes("Nidhoggur's Shadow came to exist in this world, and harmed the roots of the World Tree... what a disaster.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Nidhoggur's Shadow came to exist in this world, and harmed the roots of the World Tree... what a disaster."
+msgstr ""
+
+# select("Pass along the World Tree Yggdrasil's message.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Pass along the World Tree Yggdrasil's message."
+msgstr ""
+
+# mes("Is that what the priest of the Guardian said?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Is that what the priest of the Guardian said?"
+msgstr ""
+
+# mes("From now on, we need to talk about this with the Laphine tribe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "From now on, we need to talk about this with the Laphine tribe."
+msgstr ""
+
+# mes("But of course...we don't know if they're reasonable enough...hehe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "But of course...we don't know if they're reasonable enough...hehe."
+msgstr ""
+
+# mes("This is all we needed from you...What is left is business between us and the Laphine tribe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "This is all we needed from you...What is left is business between us and the Laphine tribe."
+msgstr ""
+
+# mes("Thank you for helping us with such a huge problem. You may forget about it now.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Thank you for helping us with such a huge problem. You may forget about it now."
+msgstr ""
+
+# mes("It's not a lot, but please this as a token of our appreciation.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "It's not a lot, but please this as a token of our appreciation."
+msgstr ""
+
+# mes("Strange one, thank you for helping us in the time of need. I will never forget your kindness.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Strange one, thank you for helping us in the time of need. I will never forget your kindness."
+msgstr ""
+
+# mes("Outsider. Welcome to the Manuk village of Sapha. I am its representative, Neat Etorr.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Outsider. Welcome to the Manuk village of Sapha. I am its representative, Neat Etorr."
+msgstr ""
+
+# mes("Tkeh likek Ohek QekhlHkl PkedlioH.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Neat Etorr#edq"
+msgid "Tkeh likek Ohek QekhlHkl PkedlioH."
+msgstr ""
+
+# mes("[Manuk Guard]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Manuk Guard#1_edq"
+msgid "[Manuk Guard]"
+msgstr ""
+
+# mes("I'm guarding this Laphine prisoner. Leave me alone.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Manuk Guard#1_edq"
+msgid "I'm guarding this Laphine prisoner. Leave me alone."
+msgstr ""
+
+# mes("Klekod Oi Thekd Pheid Okei.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Manuk Guard#1_edq"
+msgid "Klekod Oi Thekd Pheid Okei."
+msgstr ""
+
+# mes("[Manuk Guard]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Manuk Guard#2_edq"
+msgid "[Manuk Guard]"
+msgstr ""
+
+# mes("I'm guarding this Laphine prisoner. Leave me alone.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Manuk Guard#2_edq"
+msgid "I'm guarding this Laphine prisoner. Leave me alone."
+msgstr ""
+
+# mes("Liek QUekdk Ohei Vue.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Manuk Guard#2_edq"
+msgid "Liek QUekdk Ohei Vue."
+msgstr ""
+
+# mes("[Laphine Prisoner]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "[Laphine Prisoner]"
+msgstr ""
+
+# mes("You... are not of the Sapha tribe... Are you... an outsider?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "You... are not of the Sapha tribe... Are you... an outsider?"
+msgstr ""
+
+# mes("Have you ever come in contact with the Laphine tribe? Have you ever been to Splendide?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Have you ever come in contact with the Laphine tribe? Have you ever been to Splendide?"
+msgstr ""
+
+# mes("Please, talk to my people in Splendide. They will come to help me.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Please, talk to my people in Splendide. They will come to help me."
+msgstr ""
+
+# switch (select("What happened to you?", "What's in the cave to the north?", "Tell me about your tribe.", "I will leave you alone.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "What happened to you?"
+msgstr ""
+
+# switch (select("What happened to you?", "What's in the cave to the north?", "Tell me about your tribe.", "I will leave you alone.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "What's in the cave to the north?"
+msgstr ""
+
+# switch (select("What happened to you?", "What's in the cave to the north?", "Tell me about your tribe.", "I will leave you alone.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Tell me about your tribe."
+msgstr ""
+
+# switch (select("What happened to you?", "What's in the cave to the north?", "Tell me about your tribe.", "I will leave you alone.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "I will leave you alone."
+msgstr ""
+
+# mes("During out last battle with the Sapha tribe... they caught me and took me prisoner.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "During out last battle with the Sapha tribe... they caught me and took me prisoner."
+msgstr ""
+
+# mes("The Sapha tribe attacked first. They are destroying the World Tree.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "The Sapha tribe attacked first. They are destroying the World Tree."
+msgstr ""
+
+# mes("That's why the war started. But I don't want to fight with the Sapha tribe anymore...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "That's why the war started. But I don't want to fight with the Sapha tribe anymore..."
+msgstr ""
+
+# mes("If it wasn't for that... I wouldn't survive here...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "If it wasn't for that... I wouldn't survive here..."
+msgstr ""
+
+# mes("Please. Bring this news to all of Splendide. Send someone to save me... or they might kill me.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Please. Bring this news to all of Splendide. Send someone to save me... or they might kill me."
+msgstr ""
+
+# mes("There is...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "There is..."
+msgstr ""
+
+# mes("No... I can't tell you... It's the secret of our tribe...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "No... I can't tell you... It's the secret of our tribe..."
+msgstr ""
+
+# mes("I just want to say this...if the Sapha tribe intrude that place, we will never forgive them!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "I just want to say this...if the Sapha tribe intrude that place, we will never forgive them!"
+msgstr ""
+
+# mes("The Laphines have protected the Yggdrasil World Tree for generations.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "The Laphines have protected the Yggdrasil World Tree for generations."
+msgstr ""
+
+# mes("We live in a... different time, different land... we came for an expedition.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "We live in a... different time, different land... we came for an expedition."
+msgstr ""
+
+# mes("After we received reports from our spy about the World Tree's strange symptoms, we recgnized the Manuk's existence.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "After we received reports from our spy about the World Tree's strange symptoms, we recgnized the Manuk's existence."
+msgstr ""
+
+# mes("They are mining metal, and in so doing, destroying the World Tree's roots...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "They are mining metal, and in so doing, destroying the World Tree's roots..."
+msgstr ""
+
+# mes("So we dispatched an expedition here. Soonafter, the war with the Sapha began...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "So we dispatched an expedition here. Soonafter, the war with the Sapha began..."
+msgstr ""
+
+# mes("The sapha tribe went as far as cooperating with an unknown race?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "The sapha tribe went as far as cooperating with an unknown race?"
+msgstr ""
+
+# mes("What is your purpose? Why do you want to know what that place is?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "What is your purpose? Why do you want to know what that place is?"
+msgstr ""
+
+# mes("lright...it's as you have assumed, a place connecting to the World Tree. It's also the Guardian's Nest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "lright...it's as you have assumed, a place connecting to the World Tree. It's also the Guardian's Nest."
+msgstr ""
+
+# select("Guardian's Nest?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Guardian's Nest?"
+msgstr ""
+
+# mes("Yes, that's the nest of Nidhoggur, the Guardian of the World Tree...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Yes, that's the nest of Nidhoggur, the Guardian of the World Tree..."
+msgstr ""
+
+# mes("Only a marked guardian's servant from the Laphine tribe is allowed to enter.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Only a marked guardian's servant from the Laphine tribe is allowed to enter."
+msgstr ""
+
+# mes("That place was initially closed off from the public, but then the giants of the Sapha tribe turned things around...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "That place was initially closed off from the public, but then the giants of the Sapha tribe turned things around..."
+msgstr ""
+
+# mes("To obtain more minerals, they started to dig with madness.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "To obtain more minerals, they started to dig with madness."
+msgstr ""
+
+# mes("In the end, they have harmed a part of the World Tree's root that lies very close to their mine, and thus, the World Tree became very ill.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "In the end, they have harmed a part of the World Tree's root that lies very close to their mine, and thus, the World Tree became very ill."
+msgstr ""
+
+# mes("After we have arrived here knowing the facts, the World Tree was already in a very bad state due to the many factories built by the Sapha tribe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "After we have arrived here knowing the facts, the World Tree was already in a very bad state due to the many factories built by the Sapha tribe."
+msgstr ""
+
+# mes("Even though, for a long time, we have been attacking the Sapha tribe, trying to force them to leave, they are not so easily defeated, leading to this stalemate.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Even though, for a long time, we have been attacking the Sapha tribe, trying to force them to leave, they are not so easily defeated, leading to this stalemate."
+msgstr ""
+
+# mes("During this time, your people have travelled through the space-time gap to this land.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "During this time, your people have travelled through the space-time gap to this land."
+msgstr ""
+
+# mes("Because of those many unexpected reasons, the Guardian's nest, which was meant to stay hidden deep underground, has been discovered by your race...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Because of those many unexpected reasons, the Guardian's nest, which was meant to stay hidden deep underground, has been discovered by your race..."
+msgstr ""
+
+# mes("Now you understand how serious this situation is. Because of the Sapha tribe, we are no longer able to approach the Guardian, and seek his teachings of wisdom.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Now you understand how serious this situation is. Because of the Sapha tribe, we are no longer able to approach the Guardian, and seek his teachings of wisdom."
+msgstr ""
+
+# mes("Hmph...even if I don't cooperate, I know you will find other means to get in...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Hmph...even if I don't cooperate, I know you will find other means to get in..."
+msgstr ""
+
+# mes("Looking at the current situation of the Laphine tribe, we do not have enough power to surround the Manuk fields, and chase the giants away.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Looking at the current situation of the Laphine tribe, we do not have enough power to surround the Manuk fields, and chase the giants away."
+msgstr ""
+
+# mes("Okay, if it has already become like this, I will help you. There are no dead-ends. If you keep going, you will find a solution.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Okay, if it has already become like this, I will help you. There are no dead-ends. If you keep going, you will find a solution."
+msgstr ""
+
+# mes("Even if I don't say anything, my situation will not change.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Even if I don't say anything, my situation will not change."
+msgstr ""
+
+# mes("I have already told you everything you wanted to hear. If you have any other requests, please let me know.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "I have already told you everything you wanted to hear. If you have any other requests, please let me know."
+msgstr ""
+
+# mes("Ah, you said that there is a strange power blocking the entrance to the Guardian's nest, right?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Ah, you said that there is a strange power blocking the entrance to the Guardian's nest, right?"
+msgstr ""
+
+# mes("That's because only the ones chosen by the Guardian may enter.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "That's because only the ones chosen by the Guardian may enter."
+msgstr ""
+
+# mes("We have been the Guardian's servants for generations, and have been protecting the World Tree ever since.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "We have been the Guardian's servants for generations, and have been protecting the World Tree ever since."
+msgstr ""
+
+# mes("Before we were captured and brought here, there were 3 servants including me. Our task was to heal the World Tree.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Before we were captured and brought here, there were 3 servants including me. Our task was to heal the World Tree."
+msgstr ""
+
+# mes("One was killed in our last war with the Sapha tribe...and I have been taken captive.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "One was killed in our last war with the Sapha tribe...and I have been taken captive."
+msgstr ""
+
+# mes("I will give you my proof. Don't worry, I'm just temporarily marking you as a guardian's servant.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "I will give you my proof. Don't worry, I'm just temporarily marking you as a guardian's servant."
+msgstr ""
+
+# mes("Also, remember this spell, it's needed to open the gate of the Guardian.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Also, remember this spell, it's needed to open the gate of the Guardian."
+msgstr ""
+
+# mes("AnomarDu Ha OdesUdenVer Ie ");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "AnomarDu Ha OdesUdenVer Ie "
+msgstr ""
+
+# mes("remuAlaAsh Mu ModtasAn Yu Dur");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "remuAlaAsh Mu ModtasAn Yu Dur"
+msgstr ""
+
+# mes("TalsehrDur So CyaReMush Di DielAlaWos Ie RuffserIman Ie ");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "TalsehrDur So CyaReMush Di DielAlaWos Ie RuffserIman Ie "
+msgstr ""
+
+# mes("Go find the fairy guarding the gate, and say this spell.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Go find the fairy guarding the gate, and say this spell."
+msgstr ""
+
+# mes("he proof and the spell will confirm that you are one of the Guardian's servants.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "he proof and the spell will confirm that you are one of the Guardian's servants."
+msgstr ""
+
+# mes("Please meet the Guardian, and come back with an answer to everything. And tell the answer to...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Please meet the Guardian, and come back with an answer to everything. And tell the answer to..."
+msgstr ""
+
+# mes("... ...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "... ..."
+msgstr ""
+
+# mes("[Manuk Guard]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "[Manuk Guard]"
+msgstr ""
+
+# mes("Hey, outsider! Step away from the prisoner!");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Hey, outsider! Step away from the prisoner!"
+msgstr ""
+
+# mes("Yes...I heard your conversation with the Sapha tribe...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Yes...I heard your conversation with the Sapha tribe..."
+msgstr ""
+
+# mes("If our tribe were to really trust in the Sapha tribe...I don't know.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "If our tribe were to really trust in the Sapha tribe...I don't know."
+msgstr ""
+
+# mes("Our hatred towards them has already reached an abnormal level...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Our hatred towards them has already reached an abnormal level..."
+msgstr ""
+
+# mes("Those giants...can they really be trusted?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "Those giants...can they really be trusted?"
+msgstr ""
+
+# mes("It's...it's better if you don't believe the one called Etorr...the minds of the Sapha tribe is unpredictable.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "It's...it's better if you don't believe the one called Etorr...the minds of the Sapha tribe is unpredictable."
+msgstr ""
+
+# mes("AmanVilShar Ie DorLuShar Mu Re");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Laphine Prisoner#edq"
+msgid "AmanVilShar Ie DorLuShar Mu Re"
+msgstr ""
+
+# mes("[Manuk Field Elite Soldier]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "trap#edq2"
+msgid "[Manuk Field Elite Soldier]"
+msgstr ""
+
+# mes("This is Neat Etorr's order. Please come with us to see him.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "trap#edq2"
+msgid "This is Neat Etorr's order. Please come with us to see him."
+msgstr ""
+
+# mes("Bring him to Neat Etorr. All soldiers be prepared.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "trap#edq2"
+msgid "Bring him to Neat Etorr. All soldiers be prepared."
+msgstr ""
+
+# mes("When a faint light enters your heart, a voice sounds in your head.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "When a faint light enters your heart, a voice sounds in your head."
+msgstr ""
+
+# mes("[World Tree World Tree Yggdrasil]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "[World Tree World Tree Yggdrasil]"
+msgstr ""
+
+# mes("It's all over... servants of the Guardian... Hurry up and leave this place.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "It's all over... servants of the Guardian... Hurry up and leave this place."
+msgstr ""
+
+# switch (select("Who are you?", "What do you mean?")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Who are you?"
+msgstr ""
+
+# switch (select("Who are you?", "What do you mean?")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "What do you mean?"
+msgstr ""
+
+# mes("I... I am the World Tree Yggdrasil, servant of the Guardian of Nidhoggur, as well as the High Priest leading the Laphine Tribe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "I... I am the World Tree Yggdrasil, servant of the Guardian of Nidhoggur, as well as the High Priest leading the Laphine Tribe."
+msgstr ""
+
+# mes("So you're not priestess of the Laphine Tribe... How did you get in? No, there's no time to answer that.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "So you're not priestess of the Laphine Tribe... How did you get in? No, there's no time to answer that."
+msgstr ""
+
+# mes("Hurry... and leave... leave this place before it's too late.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Hurry... and leave... leave this place before it's too late."
+msgstr ""
+
+# mes("The guardian... something's wrong with the guardian. I don't know what made him like this.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The guardian... something's wrong with the guardian. I don't know what made him like this."
+msgstr ""
+
+# mes("This... this is no longer the nest of the Guardian of the World Tree Yggdrasil.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "This... this is no longer the nest of the Guardian of the World Tree Yggdrasil."
+msgstr ""
+
+# mes("[World Tree Yggdrasil]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "[World Tree Yggdrasil]"
+msgstr ""
+
+# mes("Darkness took over the Guardian and destroyed all living things... now this place has become the cursed home of monsters.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Darkness took over the Guardian and destroyed all living things... now this place has become the cursed home of monsters."
+msgstr ""
+
+# mes("Now the vile Nidhoggur's Shadow is wreaking havoc here...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Now the vile Nidhoggur's Shadow is wreaking havoc here..."
+msgstr ""
+
+# mes("Now's not too late, hurry and get out... tell the Laphine Tribe about this... tell the commanders of Alfheim...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Now's not too late, hurry and get out... tell the Laphine Tribe about this... tell the commanders of Alfheim..."
+msgstr ""
+
+# mes("My soul... it has been trapped here. You're the only ones I can trust now.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "My soul... it has been trapped here. You're the only ones I can trust now."
+msgstr ""
+
+# select("Nidhoggur's Shadow?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Nidhoggur's Shadow?"
+msgstr ""
+
+# mes("The Guardian Nidhoggur... he's not in the nest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The Guardian Nidhoggur... he's not in the nest."
+msgstr ""
+
+# mes("He...for some reason abandoned his own shadow, and left.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "He...for some reason abandoned his own shadow, and left."
+msgstr ""
+
+# mes("All that's left, is the ugly Shadow of the Guardian of Nidhoggur...the Shadow that is going mad.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "All that's left, is the ugly Shadow of the Guardian of Nidhoggur...the Shadow that is going mad."
+msgstr ""
+
+# mes("The Shadow sucked all the nutrients from the World Tree Yggdrasil, and has gone mad when there is nothing more left to obtain. Now, he wants this land.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The Shadow sucked all the nutrients from the World Tree Yggdrasil, and has gone mad when there is nothing more left to obtain. Now, he wants this land."
+msgstr ""
+
+# mes("Once the ugly Shadow leaves here to steal power from the other World Yggdrasil Trees, there will be great destruction. This world will become hell.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Once the ugly Shadow leaves here to steal power from the other World Yggdrasil Trees, there will be great destruction. This world will become hell."
+msgstr ""
+
+# mes("You must... tell the commanders of Alfheim about this, and come up with a plan. Only them...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "You must... tell the commanders of Alfheim about this, and come up with a plan. Only them..."
+msgstr ""
+
+# select("Is there nothing else we can do?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Is there nothing else we can do?"
+msgstr ""
+
+# mes("With our current powers...it is impossible to defeat the Guardian.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "With our current powers...it is impossible to defeat the Guardian."
+msgstr ""
+
+# mes("But the one going mad is not the Guardian, but his dark Shadow...maybe we can trap him here...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "But the one going mad is not the Guardian, but his dark Shadow...maybe we can trap him here..."
+msgstr ""
+
+# mes("Are you willing to accept this mission? Even if it means to pay with your life?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Are you willing to accept this mission? Even if it means to pay with your life?"
+msgstr ""
+
+# if (select("Leave it to us.", "We can't do it.") == 2)
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Leave it to us."
+msgstr ""
+
+# if (select("Leave it to us.", "We can't do it.") == 2)
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "We can't do it."
+msgstr ""
+
+# mes("I thank you deeply for your decision. I will use what is left of my powers to open up the path towards the Guardian's Nest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "I thank you deeply for your decision. I will use what is left of my powers to open up the path towards the Guardian's Nest."
+msgstr ""
+
+# mes("The path to the Guardian's Nest is just past the waterfall by the large World Tree Yggdrasil to the North. The defensive mechanisms of the Sanctuary will start immediately.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The path to the Guardian's Nest is just past the waterfall by the large World Tree Yggdrasil to the North. The defensive mechanisms of the Sanctuary will start immediately."
+msgstr ""
+
+# mes("Defeat all of Nidhoggur's guardians and go through the waterfall into the nest... and stop Nidhoggur's Shadow there.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Defeat all of Nidhoggur's guardians and go through the waterfall into the nest... and stop Nidhoggur's Shadow there."
+msgstr ""
+
+# mes("The gate will open soon. Go defeat all of the guardians... you must kill them all in 30 minutes before the gate opens...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The gate will open soon. Go defeat all of the guardians... you must kill them all in 30 minutes before the gate opens..."
+msgstr ""
+
+# mes("30 minutes... that's the limit of my powers. Please hurry.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "30 minutes... that's the limit of my powers. Please hurry."
+msgstr ""
+
+# mes("And... Be careful... Be careful of the shadow's power.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "And... Be careful... Be careful of the shadow's power."
+msgstr ""
+
+# mes("The path to the Guardian's Nest is just past the waterfall by the large World Tree Yggdrasil to the North. The defensive mechanisms will start immediately.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The path to the Guardian's Nest is just past the waterfall by the large World Tree Yggdrasil to the North. The defensive mechanisms will start immediately."
+msgstr ""
+
+# mes("The gate will open soon. Go defeat all of the guardians.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The gate will open soon. Go defeat all of the guardians."
+msgstr ""
+
+# mes("The path to the Guardian's Nest is just past the waterfall by the large World Tree Yggdrasil to the North.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "The path to the Guardian's Nest is just past the waterfall by the large World Tree Yggdrasil to the North."
+msgstr ""
+
+# mes("Use your powers... and destroy the vile Shadow...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Use your powers... and destroy the vile Shadow..."
+msgstr ""
+
+# mes("This is... all I can do for you...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "This is... all I can do for you..."
+msgstr ""
+
+# mes("Those who want to taint the sacred Sanctuary of the Guardian... Get out.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "Those who want to taint the sacred Sanctuary of the Guardian... Get out."
+msgstr ""
+
+# mes("What's a woman from the Laphine Tribe doing here...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "What's a woman from the Laphine Tribe doing here..."
+msgstr ""
+
+# mes("What's happening? Let's go check it out.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Murdered Yggdrasilid#1F"
+msgid "What's happening? Let's go check it out."
+msgstr ""
+
+# monster(.@map$, 220, 250, _("Nidhoggur's Guardian#1"), RHYNCHO, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#1"
+msgstr ""
+
+# monster(.@map$, 220, 252, _("Nidhoggur's Guardian#2"), RHYNCHO, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#2"
+msgstr ""
+
+# monster(.@map$, 240, 270, _("Nidhoggur's Guardian#3"), RHYNCHO, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#3"
+msgstr ""
+
+# monster(.@map$, 240, 272, _("Nidhoggur's Guardian#4"), RHYNCHO, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#4"
+msgstr ""
+
+# monster(.@map$, 200, 200, _("Nidhoggur's Guardian#5"), RHYNCHO, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#5"
+msgstr ""
+
+# monster(.@map$, 210, 210, _("Nidhoggur's Guardian#6"), RHYNCHO, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#6"
+msgstr ""
+
+# monster(.@map$, 225, 265, _("Nidhoggur's Guardian#7"), PHYLLA, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#7"
+msgstr ""
+
+# monster(.@map$, 225, 270, _("Nidhoggur's Guardian#8"), PHYLLA, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#8"
+msgstr ""
+
+# monster(.@map$, 245, 235, _("Nidhoggur's Guardian#9"), PHYLLA, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#9"
+msgstr ""
+
+# monster(.@map$, 255, 255, _("Nidhoggur's Guardian#10"), PHYLLA, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#10"
+msgstr ""
+
+# monster(.@map$, 225, 245, _("Nidhoggur's Guardian#11"), PHYLLA, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#11"
+msgstr ""
+
+# monster(.@map$, 230, 280, _("Nidhoggur's Guardian#12"), PHYLLA, 1, instance_npcname("nyd_call_mon_1")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian#12"
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Guardian : Protect the Guardian's Sanctuary. Get rid of the intruders."), bc_map, C_SPRINGGREEN);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "Nidhoggur's Guardian : Protect the Guardian's Sanctuary. Get rid of the intruders."
+msgstr ""
+
+# mapannounce(.@map$, _("All of Nidhoggur's Guardians have been defeated!"), bc_map, C_SPRINGGREEN);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_call_mon_1"
+msgid "All of Nidhoggur's Guardians have been defeated!"
+msgstr ""
+
+# mapannounce(instance_mapname("1@nyd"), _("World Tree Yggdrasil : There's not much time left. Please hurry."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd_1f_timer"
+msgid "World Tree Yggdrasil : There's not much time left. Please hurry."
+msgstr ""
+
+# mapannounce(instance_mapname("1@nyd"), _("World Tree Yggdrasil : My powers are slowly disappearing. Please hurry."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd_1f_timer"
+msgid "World Tree Yggdrasil : My powers are slowly disappearing. Please hurry."
+msgstr ""
+
+# mapannounce(instance_mapname("1@nyd"), _("World Tree Yggdrasil : I'm... almost at my limit... please hurry up."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd_1f_timer"
+msgid "World Tree Yggdrasil : I'm... almost at my limit... please hurry up."
+msgstr ""
+
+# mapannounce(instance_mapname("1@nyd"), _("World Tree Yggdrasil : You've failed... but I will use what power I have left... to send you out of here."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd_1f_timer"
+msgid "World Tree Yggdrasil : You've failed... but I will use what power I have left... to send you out of here."
+msgstr ""
+
+# mapannounce(instance_mapname("1@nyd"), _("Opening of the Gate has failed."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd_1f_timer"
+msgid "Opening of the Gate has failed."
+msgstr ""
+
+# monster(.@map$, 0, 0, _("Ancient Tree"), ANCIENT_TREE, 40, instance_npcname("ins_nyd1_spawn_mobs")+"::OnMyTreeDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd1_spawn_mobs"
+msgid "Ancient Tree"
+msgstr ""
+
+# monster(.@map$, 0, 0, _("Rhyncho"), RHYNCHO, 30, instance_npcname("ins_nyd1_spawn_mobs")+"::OnMyRhynDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd1_spawn_mobs"
+msgid "Rhyncho"
+msgstr ""
+
+# monster(.@map$, 0, 0, _("Phylla"), PHYLLA, 30, instance_npcname("ins_nyd1_spawn_mobs")+"::OnMyPhyDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd1_spawn_mobs"
+msgid "Phylla"
+msgstr ""
+
+# monster(.@map$, 0, 0, _("Aqua Elemental"), AQUA_ELEMENTAL, 30, instance_npcname("ins_nyd1_spawn_mobs")+"::OnMyAquaDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd1_spawn_mobs"
+msgid "Aqua Elemental"
+msgstr ""
+
+# monster(.@map$, 0, 0, _("Dark Pinguicula"), PINGUICULA_D, 30, instance_npcname("ins_nyd1_spawn_mobs")+"::OnMyPingDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd1_spawn_mobs"
+msgid "Dark Pinguicula"
+msgstr ""
+
+# mapannounce(instance_mapname("2@nyd"), _("Nidhoggur's Shadow : No more... I can't stand this anymore..."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_enter_broad"
+msgid "Nidhoggur's Shadow : No more... I can't stand this anymore..."
+msgstr ""
+
+# mapannounce(instance_mapname("2@nyd"), _("Nidhoggur's Shadow : I need... I need the World Tree Yggdrasil's powers..."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_enter_broad"
+msgid "Nidhoggur's Shadow : I need... I need the World Tree Yggdrasil's powers..."
+msgstr ""
+
+# mapannounce(instance_mapname("2@nyd"), _("Nidhoggur's Shadow : Destroy... everything..."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_enter_broad"
+msgid "Nidhoggur's Shadow : Destroy... everything..."
+msgstr ""
+
+# mes("From below the gorgeous stones, a strange breeze is forming.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_ddr_control"
+msgid "From below the gorgeous stones, a strange breeze is forming."
+msgstr ""
+
+# mes("The strange power slowly surrounds your body, the dimension is starting to shift.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_ddr_control"
+msgid "The strange power slowly surrounds your body, the dimension is starting to shift."
+msgstr ""
+
+# monster(.@map$, 199, 327, _("Nidhoggur's Shadow"), S_NYDHOG, 1, instance_npcname("nyd_2f_boss_enter_call")+"::OnMyMobDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_boss_enter_call"
+msgid "Nidhoggur's Shadow"
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Shadow : I will devour all of you... you and the World Tree Yggdrasil."), bc_map, C_SPRINGGREEN);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_boss_enter_call"
+msgid "Nidhoggur's Shadow : I will devour all of you... you and the World Tree Yggdrasil."
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Shadow : In this chaos... your blood is just what I need."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_boss_enter_call"
+msgid "Nidhoggur's Shadow : In this chaos... your blood is just what I need."
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Shadow : I will freeze every last drop of your blood."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_boss_enter_call"
+msgid "Nidhoggur's Shadow : I will freeze every last drop of your blood."
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Shadow : Sleep for eternity in an empty illusion."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_boss_enter_call"
+msgid "Nidhoggur's Shadow : Sleep for eternity in an empty illusion."
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Shadow : I'll let you enjoy the pain of dying slowly."), bc_map, C_YELLOW);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_boss_enter_call"
+msgid "Nidhoggur's Shadow : I'll let you enjoy the pain of dying slowly."
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Shadow : World Tree Yggdrasil's guardian... his powers are disappearing..."), bc_map, C_SPRINGGREEN);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_boss_enter_call"
+msgid "Nidhoggur's Shadow : World Tree Yggdrasil's guardian... his powers are disappearing..."
+msgstr ""
+
+# mes("[World Tree Yggdrasil]");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "[World Tree Yggdrasil]"
+msgstr ""
+
+# mes("Thank you. You're the saviour of humans and the Laphine Tribe.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "Thank you. You're the saviour of humans and the Laphine Tribe."
+msgstr ""
+
+# mes("You've defeated Nidhoggur's Shadow. But...It's not gone for good. Its powers are merely put to sleep.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "You've defeated Nidhoggur's Shadow. But...It's not gone for good. Its powers are merely put to sleep."
+msgstr ""
+
+# mes("But you have won us plenty of time. This is great.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "But you have won us plenty of time. This is great."
+msgstr ""
+
+# mes("Please go and report this to those in charge of Splendide and Manuk.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "Please go and report this to those in charge of Splendide and Manuk."
+msgstr ""
+
+# mes("As you have seen, neither the Sapha tribe nor the Laphine tribe is at fault for the weakening of the World Tree. It's all because of the Guardian's Shadow...");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "As you have seen, neither the Sapha tribe nor the Laphine tribe is at fault for the weakening of the World Tree. It's all because of the Guardian's Shadow..."
+msgstr ""
+
+# mes("The Guardian's insanity...is caused by powers unknown to us... You must tell this to everyone.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "The Guardian's insanity...is caused by powers unknown to us... You must tell this to everyone."
+msgstr ""
+
+# mes("Now... Allow me to escort you out of the cursed nest.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "Now... Allow me to escort you out of the cursed nest."
+msgstr ""
+
+# switch (select("Please let me out.", "I want to look around for a while.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "Please let me out."
+msgstr ""
+
+# switch (select("Please let me out.", "I want to look around for a while.")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "I want to look around for a while."
+msgstr ""
+
+# mes("Is that so... I'll be around if you want to leave.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "Is that so... I'll be around if you want to leave."
+msgstr ""
+
+# mapannounce(instance_mapname("2@nyd"), _("World Tree Yggdrasil : You did good. Have everyone go to the Magic Circle in the middle, and get ready for the destruction of the nest."), bc_map, C_SPRINGGREEN);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "World Tree Yggdrasil#2F"
+msgid "World Tree Yggdrasil : You did good. Have everyone go to the Magic Circle in the middle, and get ready for the destruction of the nest."
+msgstr ""
+
+# monster(.@map$, 120, 285, _("Nidhoggur's Guardian#1"), RHYNCHO, 1, .@label$);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_red_c"
+msgid "Nidhoggur's Guardian#1"
+msgstr ""
+
+# monster(.@map$, 119, 286, _("Nidhoggur's Guardian#2"), RHYNCHO, 1, .@label$);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_red_c"
+msgid "Nidhoggur's Guardian#2"
+msgstr ""
+
+# monster(.@map$, 120, 270, _("Nidhoggur's Guardian#3"), RHYNCHO, 1, .@label$);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_red_c"
+msgid "Nidhoggur's Guardian#3"
+msgstr ""
+
+# monster(.@map$, 119, 269, _("Nidhoggur's Guardian#4"), PHYLLA, 1, .@label$);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_red_c"
+msgid "Nidhoggur's Guardian#4"
+msgstr ""
+
+# monster(.@map$, 118, 270, _("Nidhoggur's Guardian#5"), PHYLLA, 1, .@label$);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_red_c"
+msgid "Nidhoggur's Guardian#5"
+msgstr ""
+
+# mapannounce(.@map$, _("Nidhoggur's Shadow : You're not bad... but I will be your opponent this time."), bc_map, C_SPRINGGREEN);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "nyd_2f_red_c"
+msgid "Nidhoggur's Shadow : You're not bad... but I will be your opponent this time."
+msgstr ""
+
+# areamonster(.@map$, 14, 20, 382, 180, _("Rhyncho"), RHYNCHO, 40, instance_npcname("ins_nyd2_spawn_mobs")+"::OnMyRhynDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd2_spawn_mobs"
+msgid "Rhyncho"
+msgstr ""
+
+# areamonster(.@map$, 14, 20, 382, 180, _("Phylla"), PHYLLA, 40, instance_npcname("ins_nyd2_spawn_mobs")+"::OnMyPhyDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd2_spawn_mobs"
+msgid "Phylla"
+msgstr ""
+
+# areamonster(.@map$, 14, 20, 382, 180, _("Dark Shadow"), DARK_SHADOW, 40, instance_npcname("ins_nyd2_spawn_mobs")+"::OnMyDarkshaDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd2_spawn_mobs"
+msgid "Dark Shadow"
+msgstr ""
+
+# areamonster(.@map$, 14, 20, 382, 180, _("Dark Pinguicula"), PINGUICULA_D, 40, instance_npcname("ins_nyd2_spawn_mobs")+"::OnMyPingDead");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "ins_nyd2_spawn_mobs"
+msgid "Dark Pinguicula"
+msgstr ""
+
+# mes("Enter the password.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Enter the password."
+msgstr ""
+
+# mes("Incorrect password.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Incorrect password."
+msgstr ""
+
+# mes("What do you need to do?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "What do you need to do?"
+msgstr ""
+
+# switch (select("Reset variables to allow entrance to Nidhoggur", "change variable 'ins_nyd'", "Remove 3 day timer 3135", "Confirm variable number")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Reset variables to allow entrance to Nidhoggur"
+msgstr ""
+
+# switch (select("Reset variables to allow entrance to Nidhoggur", "change variable 'ins_nyd'", "Remove 3 day timer 3135", "Confirm variable number")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "change variable 'ins_nyd'"
+msgstr ""
+
+# switch (select("Reset variables to allow entrance to Nidhoggur", "change variable 'ins_nyd'", "Remove 3 day timer 3135", "Confirm variable number")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Remove 3 day timer 3135"
+msgstr ""
+
+# switch (select("Reset variables to allow entrance to Nidhoggur", "change variable 'ins_nyd'", "Remove 3 day timer 3135", "Confirm variable number")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Confirm variable number"
+msgstr ""
+
+# mes("ins_nyd set to 200 ins_nyd2 set to 0");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "ins_nyd set to 200 ins_nyd2 set to 0"
+msgstr ""
+
+# mes("quest 3135 erased.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "quest 3135 erased."
+msgstr ""
+
+# mes("Which variable do you want to change?");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Which variable do you want to change?"
+msgstr ""
+
+# switch (select("ins_nyd", "ins_nyd2")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "ins_nyd"
+msgstr ""
+
+# switch (select("ins_nyd", "ins_nyd2")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "ins_nyd2"
+msgstr ""
+
+# mes("Input the variable number");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Input the variable number"
+msgstr ""
+
+# mesf("%s has been set to %d.", .@var$, .@input);
+#: npc/instances/NydhoggsNest.txt
+#, c-format
+msgctxt "Nidhoggur Manager"
+msgid "%s has been set to %d."
+msgstr ""
+
+# mes("The 3 day timer will be removed when you close this dialog.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "The 3 day timer will be removed when you close this dialog."
+msgstr ""
+
+# mes("Finished removing Quest Timer.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Nidhoggur Manager"
+msgid "Finished removing Quest Timer."
+msgstr ""
+
+# mesf("ins_nyd is at %d.", ins_nyd);
+#: npc/instances/NydhoggsNest.txt
+#, c-format
+msgctxt "Nidhoggur Manager"
+msgid "ins_nyd is at %d."
+msgstr ""
+
+# mesf("ins_nyd2 is at %d.", ins_nyd2);
+#: npc/instances/NydhoggsNest.txt
+#, c-format
+msgctxt "Nidhoggur Manager"
+msgid "ins_nyd2 is at %d."
+msgstr ""
+
+# mes("Please enter the password");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Please enter the password"
+msgstr ""
+
+# mes("Enter the password exactly.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Enter the password exactly."
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Turn Entrance NPC OFF", "Turn Entrance NPC On", "Cancel")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Generate Purification Stone"
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Turn Entrance NPC OFF", "Turn Entrance NPC On", "Cancel")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Remove Purification Stone"
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Turn Entrance NPC OFF", "Turn Entrance NPC On", "Cancel")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Turn Entrance NPC OFF"
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Turn Entrance NPC OFF", "Turn Entrance NPC On", "Cancel")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Turn Entrance NPC On"
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Turn Entrance NPC OFF", "Turn Entrance NPC On", "Cancel")) {
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Cancel"
+msgstr ""
+
+# mes("Purification stone has been created and will stay on for 30 minutes.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "Purification stone has been created and will stay on for 30 minutes."
+msgstr ""
+
+# mes("The Purification Stone has been destroyed.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "The Purification Stone has been destroyed."
+msgstr ""
+
+# mes("The Yggdrasil Gatekeeper at nyd_dun02 100 201 is now OFF.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "The Yggdrasil Gatekeeper at nyd_dun02 100 201 is now OFF."
+msgstr ""
+
+# mes("The Yggdrasil Gatekeeper at nyd_dun02 100 201 is now On.");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Admin#nyd2"
+msgid "The Yggdrasil Gatekeeper at nyd_dun02 100 201 is now On."
+msgstr ""
+
+# mes("^0000FFThe records and after-effect related to the Nidhoggur's Nest have been removed. You can generate and enter the dungeon again.^000000");
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Stone#nyd2"
+msgid "^0000FFThe records and after-effect related to the Nidhoggur's Nest have been removed. You can generate and enter the dungeon again.^000000"
+msgstr ""
+
+# mapannounce("nyd_dun02", _("The Purification Stone will be destroyed in one minute."), bc_map, C_SPRINGGREEN, FW_NORMAL, 12);
+#: npc/instances/NydhoggsNest.txt
+msgctxt "Purification Stone#nyd2"
+msgid "The Purification Stone will be destroyed in one minute."
+msgstr ""
+
