@@ -1,0 +1,85 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:04\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/inn_txt.pot\n"
+
+# mes "[Hotel Keeper]";
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "[Hotel Keeper]"
+msgstr ""
+
+# mes "Welcome to the beautiful Brasilis Hotel.";
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "Welcome to the beautiful Brasilis Hotel."
+msgstr ""
+
+# switch(select("Save", "Rest -5000 zeny")) {
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "Save"
+msgstr ""
+
+# switch(select("Save", "Rest -5000 zeny")) {
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "Rest -5000 zeny"
+msgstr ""
+
+# mes "Do you want to save here at the Brasilis Hotel?";
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "Do you want to save here at the Brasilis Hotel?"
+msgstr ""
+
+# switch(select("No thank you.", "Absolutely.")) {
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "No thank you."
+msgstr ""
+
+# switch(select("No thank you.", "Absolutely.")) {
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "Absolutely."
+msgstr ""
+
+# mes "Ok then, enjoy your stay.";
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "Ok then, enjoy your stay."
+msgstr ""
+
+# mes "Your respawn has been saved here at the hotel. I hope that you enjoy your stay here in Brasilis.";
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "Your respawn has been saved here at the hotel. I hope that you enjoy your stay here in Brasilis."
+msgstr ""
+
+# mes "I will show you a great room.";
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "I will show you a great room."
+msgstr ""
+
+# mes "I'm sorry, but the service charge is 5,000 zeny per night.";
+#: npc/re/merchants/inn.txt
+msgctxt "Hotel Keeper#bra1"
+msgid "I'm sorry, but the service charge is 5,000 zeny per night."
+msgstr ""
+
