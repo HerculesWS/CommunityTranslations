@@ -1,0 +1,2731 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2019-10-21 10:57\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/other/marriage_txt.pot\n"
+
+# mes "[Marry Happy]";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "[Marry Happy]"
+msgstr ""
+
+# mes "Hello~";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Hello~"
+msgstr ""
+
+# mes "My name is Marry Happy";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "My name is Marry Happy"
+msgstr ""
+
+# mes "and I'm here to provide you";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "and I'm here to provide you"
+msgstr ""
+
+# mes "with information related to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "with information related to"
+msgstr ""
+
+# mes "marriage. Now, did you";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "marriage. Now, did you"
+msgstr ""
+
+# mes "have any questions?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "have any questions?"
+msgstr ""
+
+# if (select("I want to get married.", "I don't need your help!") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "I want to get married."
+msgstr ""
+
+# if (select("I want to get married.", "I don't need your help!") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "I don't need your help!"
+msgstr ""
+
+# mes "Oh, I'm sorry, but";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Oh, I'm sorry, but"
+msgstr ""
+
+# mes "adopted characters";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "adopted characters"
+msgstr ""
+
+# mes "aren't allowed to get";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "aren't allowed to get"
+msgstr ""
+
+# mes "married. For now, why";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "married. For now, why"
+msgstr ""
+
+# mes "don't you enjoy the simple";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "don't you enjoy the simple"
+msgstr ""
+
+# mes "pleasures of childhood?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "pleasures of childhood?"
+msgstr ""
+
+# mes "Oh, of course you";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Oh, of course you"
+msgstr ""
+
+# mes "don't! Little children";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "don't! Little children"
+msgstr ""
+
+# mes "can't get married-- there";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "can't get married-- there"
+msgstr ""
+
+# mes "are too many laws against";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "are too many laws against"
+msgstr ""
+
+# mes "that~ Aren't you the most";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "that~ Aren't you the most"
+msgstr ""
+
+# mes "adorable little thing?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "adorable little thing?"
+msgstr ""
+
+# mes "Marriage is the beautiful";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Marriage is the beautiful"
+msgstr ""
+
+# mes "union of two souls that have";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "union of two souls that have"
+msgstr ""
+
+# mes "chosen to be together forever,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "chosen to be together forever,"
+msgstr ""
+
+# mes "to share their joy and lives.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to share their joy and lives."
+msgstr ""
+
+# mes "Is there a special someone";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Is there a special someone"
+msgstr ""
+
+# mes "like that in your life?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "like that in your life?"
+msgstr ""
+
+# switch(select("Ask about Wedding Ceremony", "Ask about Procedure", "Apply for Wedding", "We are the Invincible Single Army!")) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Ask about Wedding Ceremony"
+msgstr ""
+
+# switch(select("Ask about Wedding Ceremony", "Ask about Procedure", "Apply for Wedding", "We are the Invincible Single Army!")) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Ask about Procedure"
+msgstr ""
+
+# switch(select("Ask about Wedding Ceremony", "Ask about Procedure", "Apply for Wedding", "We are the Invincible Single Army!")) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Apply for Wedding"
+msgstr ""
+
+# switch(select("Ask about Wedding Ceremony", "Ask about Procedure", "Apply for Wedding", "We are the Invincible Single Army!")) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "We are the Invincible Single Army!"
+msgstr ""
+
+# mes "Wise and benevolent";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Wise and benevolent"
+msgstr ""
+
+# mes "King Tristram III used to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "King Tristram III used to"
+msgstr ""
+
+# mes "conduct wedding ceremonies,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "conduct wedding ceremonies,"
+msgstr ""
+
+# mes "but he's no longer able to do";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "but he's no longer able to do"
+msgstr ""
+
+# mes "so because of his royal duties";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "so because of his royal duties"
+msgstr ""
+
+# mes "and freneticly paced schedule.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "and freneticly paced schedule."
+msgstr ""
+
+# mes "Bishop Vomars, the bishop";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Bishop Vomars, the bishop"
+msgstr ""
+
+# mes "of love, is now the officiator";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "of love, is now the officiator"
+msgstr ""
+
+# mes "of the marriage ceremony.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "of the marriage ceremony."
+msgstr ""
+
+# mes "He is truly a treasure to the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "He is truly a treasure to the"
+msgstr ""
+
+# mes "Rune-Midgarts Kingdom.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Rune-Midgarts Kingdom."
+msgstr ""
+
+# mes "When you marry someone,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "When you marry someone,"
+msgstr ""
+
+# mes "it's for the rest of your life, so think carefully before making or";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "it's for the rest of your life, so think carefully before making or"
+msgstr ""
+
+# mes "accepting a marriage proposal.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "accepting a marriage proposal."
+msgstr ""
+
+# mes "Keep in mind that a man can only";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Keep in mind that a man can only"
+msgstr ""
+
+# mes "marry a woman and vice versa.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "marry a woman and vice versa."
+msgstr ""
+
+# mes "If you're lucky enough to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "If you're lucky enough to"
+msgstr ""
+
+# mes "find someone that you really";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "find someone that you really"
+msgstr ""
+
+# mes "want to spend the rest of your";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "want to spend the rest of your"
+msgstr ""
+
+# mes "life with, you might want to pop the question. I hope everyone";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "life with, you might want to pop the question. I hope everyone"
+msgstr ""
+
+# mes "finds their perfect match~";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "finds their perfect match~"
+msgstr ""
+
+# mes "The first part of the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "The first part of the"
+msgstr ""
+
+# mes "wedding procedure is to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "wedding procedure is to"
+msgstr ""
+
+# mes "complete the application.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "complete the application."
+msgstr ""
+
+# mes "Once the bride and bridegroom";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Once the bride and bridegroom"
+msgstr ""
+
+# mes "have finished applying, they";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "have finished applying, they"
+msgstr ""
+
+# mes "must form a party of two.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "must form a party of two."
+msgstr ""
+
+# mes "After forming a party of two,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "After forming a party of two,"
+msgstr ""
+
+# mes "the couple must then speak to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the couple must then speak to"
+msgstr ""
+
+# mes "Bishop Vomars. The bridegroom";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Bishop Vomars. The bridegroom"
+msgstr ""
+
+# mes "speaks first and must tell his";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "speaks first and must tell his"
+msgstr ""
+
+# mes "bride's exact name to the Bishop. Otherwise, the ceremony will stop.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "bride's exact name to the Bishop. Otherwise, the ceremony will stop."
+msgstr ""
+
+# mes "Afterwards, the bride will";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Afterwards, the bride will"
+msgstr ""
+
+# mes "speak to the Bishop and tell";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "speak to the Bishop and tell"
+msgstr ""
+
+# mes "him the name of her groom.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "him the name of her groom."
+msgstr ""
+
+# mes "If these names are correctly";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "If these names are correctly"
+msgstr ""
+
+# mes "told to the Bishop, they will";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "told to the Bishop, they will"
+msgstr ""
+
+# mes "be able to exchange rings.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "be able to exchange rings."
+msgstr ""
+
+# mes "Once the wedding rings are";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Once the wedding rings are"
+msgstr ""
+
+# mes "exchanged, the couple is forever bound in matrimony. Of course,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "exchanged, the couple is forever bound in matrimony. Of course,"
+msgstr ""
+
+# mes "before this point, there are many chances to change your mind, so...";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "before this point, there are many chances to change your mind, so..."
+msgstr ""
+
+# mes "If there are too many";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "If there are too many"
+msgstr ""
+
+# mes "couples who want to get";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "couples who want to get"
+msgstr ""
+
+# mes "married at one time, please";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "married at one time, please"
+msgstr ""
+
+# mes "form a line and speak to Bishop";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "form a line and speak to Bishop"
+msgstr ""
+
+# mes "Vomars in order since only one couple can be married at a time.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Vomars in order since only one couple can be married at a time."
+msgstr ""
+
+# mes "Finally, be sure to tell";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Finally, be sure to tell"
+msgstr ""
+
+# mes "Bishop Vomars your partner's";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Bishop Vomars your partner's"
+msgstr ""
+
+# mes "exact name without wasting too much time. If you take too long,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "exact name without wasting too much time. If you take too long,"
+msgstr ""
+
+# mes "the ceremony will automatically stop and you'll have to try again.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the ceremony will automatically stop and you'll have to try again."
+msgstr ""
+
+# mes "Brides need to remember";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Brides need to remember"
+msgstr ""
+
+# mes "that they only have 3 minutes";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "that they only have 3 minutes"
+msgstr ""
+
+# mes "to finish speaking to Bishop";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to finish speaking to Bishop"
+msgstr ""
+
+# mes "Vomars after their grooms";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Vomars after their grooms"
+msgstr ""
+
+# mes "have finished speaking to him.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "have finished speaking to him."
+msgstr ""
+
+# if (select("Thanks, that helps a lot!", "Easiest way to say my partner's name?") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Thanks, that helps a lot!"
+msgstr ""
+
+# if (select("Thanks, that helps a lot!", "Easiest way to say my partner's name?") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Easiest way to say my partner's name?"
+msgstr ""
+
+# mes "Well, I'm here to help";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Well, I'm here to help"
+msgstr ""
+
+# mes "weddings proceed as";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "weddings proceed as"
+msgstr ""
+
+# mes "smoothly as possible.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "smoothly as possible."
+msgstr ""
+
+# mes "If there was something";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "If there was something"
+msgstr ""
+
+# mes "you didn't understand,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "you didn't understand,"
+msgstr ""
+
+# mes "feel free to ask me again.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "feel free to ask me again."
+msgstr ""
+
+# mes "The easiest way to write";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "The easiest way to write"
+msgstr ""
+
+# mes "your partner's name for the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "your partner's name for the"
+msgstr ""
+
+# mes "bishop is to send a private";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "bishop is to send a private"
+msgstr ""
+
+# mes "message to your partner, and";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "message to your partner, and"
+msgstr ""
+
+# mes "then left-click the name section that is left of the chat prompt.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "then left-click the name section that is left of the chat prompt."
+msgstr ""
+
+# mes "Press the ''Ctrl'' and ''C''";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Press the ''Ctrl'' and ''C''"
+msgstr ""
+
+# mes "keys to copy the name. Then,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "keys to copy the name. Then,"
+msgstr ""
+
+# mes "you can paste the name into";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "you can paste the name into"
+msgstr ""
+
+# mes "the input prompt by pressing";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the input prompt by pressing"
+msgstr ""
+
+# mes "the ''Insert'' and ''Shift'' keys. That sounds easy, right?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the ''Insert'' and ''Shift'' keys. That sounds easy, right?"
+msgstr ""
+
+# mes "Alright, now let's try";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Alright, now let's try"
+msgstr ""
+
+# mes "it. Practice giving me the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "it. Practice giving me the"
+msgstr ""
+
+# mes "name of your partner using";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "name of your partner using"
+msgstr ""
+
+# mes "the method I just described.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the method I just described."
+msgstr ""
+
+# mes "Alright, after you've";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Alright, after you've"
+msgstr ""
+
+# mes "decided to get married,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "decided to get married,"
+msgstr ""
+
+# mes "come back to me and";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "come back to me and"
+msgstr ""
+
+# mes "submit your application.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "submit your application."
+msgstr ""
+
+# mes "I'll see you later, adventurer~";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "I'll see you later, adventurer~"
+msgstr ""
+
+# mes "So you'd like to get married?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "So you'd like to get married?"
+msgstr ""
+
+# mes "As a groom, you need to prepare";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "As a groom, you need to prepare"
+msgstr ""
+
+# mes "^3377FF1 Tuxedo^000000 and pay ^3377FF1,300,000 zeny^000000.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "^3377FF1 Tuxedo^000000 and pay ^3377FF1,300,000 zeny^000000."
+msgstr ""
+
+# mes "Brides have to provide their own Wedding Dresses and pay a fee";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Brides have to provide their own Wedding Dresses and pay a fee"
+msgstr ""
+
+# mes "of 1,200,000 zeny.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "of 1,200,000 zeny."
+msgstr ""
+
+# mes "As a bride, you need to prepare";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "As a bride, you need to prepare"
+msgstr ""
+
+# mes "1 Wedding Dress and pay a fee";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "1 Wedding Dress and pay a fee"
+msgstr ""
+
+# mes "of 1,200,000 zeny. Grooms must";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "of 1,200,000 zeny. Grooms must"
+msgstr ""
+
+# mes "bring a Tuxedo and pay 1,300,000 zeny to get married.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "bring a Tuxedo and pay 1,300,000 zeny to get married."
+msgstr ""
+
+# mes "Brides and grooms also need";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Brides and grooms also need"
+msgstr ""
+
+# mes "to have ^3377FF1 Diamond Ring^000000 to be";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to have ^3377FF1 Diamond Ring^000000 to be"
+msgstr ""
+
+# mes "exchanged with their partners.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "exchanged with their partners."
+msgstr ""
+
+# mes "You'll need all of these items";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "You'll need all of these items"
+msgstr ""
+
+# mes "prepared when you submit your";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "prepared when you submit your"
+msgstr ""
+
+# mes "wedding ceremony application.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "wedding ceremony application."
+msgstr ""
+
+# mes "The prospective bride and";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "The prospective bride and"
+msgstr ""
+
+# mes "groom must both complete";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "groom must both complete"
+msgstr ""
+
+# mes "application process before";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "application process before"
+msgstr ""
+
+# mes "the wedding can take place.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the wedding can take place."
+msgstr ""
+
+# mes "Now, would you like to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Now, would you like to"
+msgstr ""
+
+# mes "apply for marriage?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "apply for marriage?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "No"
+msgstr ""
+
+# mes "I'm sorry, but you can't";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "I'm sorry, but you can't"
+msgstr ""
+
+# mes "apply for another marriage!";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "apply for another marriage!"
+msgstr ""
+
+# mes "I can't allow you to betray";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "I can't allow you to betray"
+msgstr ""
+
+# mes "your spouse like that, and";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "your spouse like that, and"
+msgstr ""
+
+# mes "besides, polygamy isn't";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "besides, polygamy isn't"
+msgstr ""
+
+# mes "legal here in Rune-Midgarts.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "legal here in Rune-Midgarts."
+msgstr ""
+
+# mes "Didn't you already";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Didn't you already"
+msgstr ""
+
+# mes "complete the application?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "complete the application?"
+msgstr ""
+
+# mes "Hmm, make sure that your";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Hmm, make sure that your"
+msgstr ""
+
+# mes "partner also finished the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "partner also finished the"
+msgstr ""
+
+# mes "application process, and";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "application process, and"
+msgstr ""
+
+# mes "then talk to Bishop Vomars.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "then talk to Bishop Vomars."
+msgstr ""
+
+# mes "Hmm, you need to be";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Hmm, you need to be"
+msgstr ""
+
+# mes "strong enough to protect";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "strong enough to protect"
+msgstr ""
+
+# mes "the one that you love before";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the one that you love before"
+msgstr ""
+
+# mes "you can consider marriage.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "you can consider marriage."
+msgstr ""
+
+# mes "After you grow stronger,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "After you grow stronger,"
+msgstr ""
+
+# mes "come and talk to me again.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "come and talk to me again."
+msgstr ""
+
+# mes "Mm? Did you forget to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Mm? Did you forget to"
+msgstr ""
+
+# mes "bring the Diamond Ring";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "bring the Diamond Ring"
+msgstr ""
+
+# mes "to exchange with your partner";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to exchange with your partner"
+msgstr ""
+
+# mes "during the wedding ceremony?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "during the wedding ceremony?"
+msgstr ""
+
+# mes "Look for it carefully and come";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Look for it carefully and come"
+msgstr ""
+
+# mes "back after you find it, okay?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "back after you find it, okay?"
+msgstr ""
+
+# mes "I'm sorry, but you don't";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "I'm sorry, but you don't"
+msgstr ""
+
+# mes "have the 1,300,000 zeny";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "have the 1,300,000 zeny"
+msgstr ""
+
+# mes "that all grooms must pay";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "that all grooms must pay"
+msgstr ""
+
+# mes "for the wedding ceremony.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "for the wedding ceremony."
+msgstr ""
+
+# mes "Did you misplace your money?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Did you misplace your money?"
+msgstr ""
+
+# mes "Where's your Tuxedo?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Where's your Tuxedo?"
+msgstr ""
+
+# mes "You absolutely have to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "You absolutely have to"
+msgstr ""
+
+# mes "wear it during the wedding";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "wear it during the wedding"
+msgstr ""
+
+# mes "ceremony! Find it, bring it";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "ceremony! Find it, bring it"
+msgstr ""
+
+# mes "to me, and then we can finally";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to me, and then we can finally"
+msgstr ""
+
+# mes "begin the wedding, okay?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "begin the wedding, okay?"
+msgstr ""
+
+# mes "I'm sorry, but all brides";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "I'm sorry, but all brides"
+msgstr ""
+
+# mes "must pay the 1,200,000";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "must pay the 1,200,000"
+msgstr ""
+
+# mes "zeny fee to proceed with the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "zeny fee to proceed with the"
+msgstr ""
+
+# mes "wedding ceremony. Perhaps";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "wedding ceremony. Perhaps"
+msgstr ""
+
+# mes "you could ask your partner";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "you could ask your partner"
+msgstr ""
+
+# mes "to help you with the funds?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to help you with the funds?"
+msgstr ""
+
+# mes "Oh dear, did you forget";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Oh dear, did you forget"
+msgstr ""
+
+# mes "your Wedding Dress?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "your Wedding Dress?"
+msgstr ""
+
+# mes "Hurry and find it, then";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Hurry and find it, then"
+msgstr ""
+
+# mes "bring it to me-- you";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "bring it to me-- you"
+msgstr ""
+
+# mes "absolutely need it";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "absolutely need it"
+msgstr ""
+
+# mes "for the wedding!";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "for the wedding!"
+msgstr ""
+
+# mes "Well, it looks like you";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Well, it looks like you"
+msgstr ""
+
+# mes "have everything ready.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "have everything ready."
+msgstr ""
+
+# mes "Although I'm not sure who";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Although I'm not sure who"
+msgstr ""
+
+# mes "your partner is, let me be";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "your partner is, let me be"
+msgstr ""
+
+# mes "the first to congratulate you";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the first to congratulate you"
+msgstr ""
+
+# mes "on your upcoming wedding~";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "on your upcoming wedding~"
+msgstr ""
+
+# mes "Now, let's begin the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Now, let's begin the"
+msgstr ""
+
+# mes "application. Please write";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "application. Please write"
+msgstr ""
+
+# mes "down your exact name here.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "down your exact name here."
+msgstr ""
+
+# mes "Hmmm, you have to write";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Hmmm, you have to write"
+msgstr ""
+
+# mes "down your name exactly as";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "down your name exactly as"
+msgstr ""
+
+# mes "it is displayed. Maybe you";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "it is displayed. Maybe you"
+msgstr ""
+
+# mes "need to copy and paste it?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "need to copy and paste it?"
+msgstr ""
+
+# mes "Anyway, let's try it again.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Anyway, let's try it again."
+msgstr ""
+
+# mes "Great, it looks like we";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Great, it looks like we"
+msgstr ""
+
+# mes "finished your application.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "finished your application."
+msgstr ""
+
+# mes "Remember that you'll need";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Remember that you'll need"
+msgstr ""
+
+# mes "to tell Bishop Vomars your";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to tell Bishop Vomars your"
+msgstr ""
+
+# mes "partner's exact name when";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "partner's exact name when"
+msgstr ""
+
+# mes "you talk to him later, okay?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "you talk to him later, okay?"
+msgstr ""
+
+# mes "When your partner is";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "When your partner is"
+msgstr ""
+
+# mes "finished with the application";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "finished with the application"
+msgstr ""
+
+# mes "process, both of you should";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "process, both of you should"
+msgstr ""
+
+# mes "speak to the Bishop to begin";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "speak to the Bishop to begin"
+msgstr ""
+
+# mes "the wedding ceremony.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the wedding ceremony."
+msgstr ""
+
+# mes "Since you're the groom,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Since you're the groom,"
+msgstr ""
+
+# mes "you need to speak to the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "you need to speak to the"
+msgstr ""
+
+# mes "Bishop first. When you're";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Bishop first. When you're"
+msgstr ""
+
+# mes "finished, it will be your";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "finished, it will be your"
+msgstr ""
+
+# mes "bride's turn to speak to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "bride's turn to speak to"
+msgstr ""
+
+# mes "Bishop Vomars.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Bishop Vomars."
+msgstr ""
+
+# mes "Since you're the bride,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Since you're the bride,"
+msgstr ""
+
+# mes "you need to wait for the";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "you need to wait for the"
+msgstr ""
+
+# mes "groom to speak to Bishop";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "groom to speak to Bishop"
+msgstr ""
+
+# mes "Vomars first. When he's";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Vomars first. When he's"
+msgstr ""
+
+# mes "finished, it'll be your turn";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "finished, it'll be your turn"
+msgstr ""
+
+# mes "to speak to Bishop Vomars.";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to speak to Bishop Vomars."
+msgstr ""
+
+# mes "No...?";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "No...?"
+msgstr ""
+
+# mes "Well, when you're";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Well, when you're"
+msgstr ""
+
+# mes "ready for marriage,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "ready for marriage,"
+msgstr ""
+
+# mes "feel free to come back to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "feel free to come back to"
+msgstr ""
+
+# mes "me so that you can apply,";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "me so that you can apply,"
+msgstr ""
+
+# mes "okay? Have a good day~";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "okay? Have a good day~"
+msgstr ""
+
+# mes "[Single Army]";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "[Single Army]"
+msgstr ""
+
+# mes "^CC9933You have to refine";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "^CC9933You have to refine"
+msgstr ""
+
+# mes "items on your own to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "items on your own to"
+msgstr ""
+
+# mes "make great equipment!^000000";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "make great equipment!^000000"
+msgstr ""
+
+# mes "^330099It's a waste to";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "^330099It's a waste to"
+msgstr ""
+
+# mes "form parties in";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "form parties in"
+msgstr ""
+
+# mes "dungeons! I can";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "dungeons! I can"
+msgstr ""
+
+# mes "make it on my own!^000000";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "make it on my own!^000000"
+msgstr ""
+
+# mes "^666666Hell, I've trained";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "^666666Hell, I've trained"
+msgstr ""
+
+# mes "all by myself since";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "all by myself since"
+msgstr ""
+
+# mes "birth, all the way";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "birth, all the way"
+msgstr ""
+
+# mes "to my job change!^000000";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "to my job change!^000000"
+msgstr ""
+
+# mes "^666600I CHOOSE to spend";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "^666600I CHOOSE to spend"
+msgstr ""
+
+# mes "Christmas alone...";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "Christmas alone..."
+msgstr ""
+
+# mes "playing Solitaire and";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "playing Solitaire and"
+msgstr ""
+
+# mes "doing crossword puzzles!^000000";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "doing crossword puzzles!^000000"
+msgstr ""
+
+# mes "^CC9966Women may break my";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "^CC9966Women may break my"
+msgstr ""
+
+# mes "spirit, but they'll never";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "spirit, but they'll never"
+msgstr ""
+
+# mes "take... my FREEDOM!^000000";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "take... my FREEDOM!^000000"
+msgstr ""
+
+# mes "^669900...We're the free! We're";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "^669900...We're the free! We're"
+msgstr ""
+
+# mes "the Invincible Single Army!^000000";
+#: npc/other/marriage.txt
+msgctxt "Wedding Staff#w"
+msgid "the Invincible Single Army!^000000"
+msgstr ""
+
+# mes "[Single Army]";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Prontera"
+msgid "[Single Army]"
+msgstr ""
+
+# mes "^CC9933You have to refine";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Prontera"
+msgid "^CC9933You have to refine"
+msgstr ""
+
+# mes "items on your own to";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Prontera"
+msgid "items on your own to"
+msgstr ""
+
+# mes "make great equipment!^000000";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Prontera"
+msgid "make great equipment!^000000"
+msgstr ""
+
+# mes "[Single Army]";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Geffen"
+msgid "[Single Army]"
+msgstr ""
+
+# mes "^330099It's a waste to";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Geffen"
+msgid "^330099It's a waste to"
+msgstr ""
+
+# mes "form parties in";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Geffen"
+msgid "form parties in"
+msgstr ""
+
+# mes "dungeons! I can";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Geffen"
+msgid "dungeons! I can"
+msgstr ""
+
+# mes "make it on my own!^000000";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Geffen"
+msgid "make it on my own!^000000"
+msgstr ""
+
+# mes "[Single Army]";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Morocc"
+msgid "[Single Army]"
+msgstr ""
+
+# mes "^666666Hell, I've trained";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Morocc"
+msgid "^666666Hell, I've trained"
+msgstr ""
+
+# mes "all by myself since";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Morocc"
+msgid "all by myself since"
+msgstr ""
+
+# mes "birth, all the way";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Morocc"
+msgid "birth, all the way"
+msgstr ""
+
+# mes "to my job change!^000000";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Morocc"
+msgid "to my job change!^000000"
+msgstr ""
+
+# mes "[Single Army]";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Payon"
+msgid "[Single Army]"
+msgstr ""
+
+# mes "^666600I CHOOSE to spend";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Payon"
+msgid "^666600I CHOOSE to spend"
+msgstr ""
+
+# mes "Christmas alone...";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Payon"
+msgid "Christmas alone..."
+msgstr ""
+
+# mes "playing Solitaire and";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Payon"
+msgid "playing Solitaire and"
+msgstr ""
+
+# mes "doing crossword puzzles!^000000";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Payon"
+msgid "doing crossword puzzles!^000000"
+msgstr ""
+
+# mes "[Single Army]";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Amatsu"
+msgid "[Single Army]"
+msgstr ""
+
+# mes "^CC9966Women may break my";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Amatsu"
+msgid "^CC9966Women may break my"
+msgstr ""
+
+# mes " spirit, but they'll never";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Amatsu"
+msgid " spirit, but they'll never"
+msgstr ""
+
+# mes "take... my FREEDOM!^000000";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Amatsu"
+msgid "take... my FREEDOM!^000000"
+msgstr ""
+
+# mes "[Single Army]";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Gonryun"
+msgid "[Single Army]"
+msgstr ""
+
+# mes "^669900...We're the free! We're";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Gonryun"
+msgid "^669900...We're the free! We're"
+msgstr ""
+
+# mes "the Invincible Single Army!^000000";
+#: npc/other/marriage.txt
+msgctxt "Single Army#Gonryun"
+msgid "the Invincible Single Army!^000000"
+msgstr ""
+
+# mes "[Vomars]";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "[Vomars]"
+msgstr ""
+
+# mes "Greetings, child.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Greetings, child."
+msgstr ""
+
+# mes "Are you lost? Hmmm.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Are you lost? Hmmm."
+msgstr ""
+
+# mes "Do you know where your";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Do you know where your"
+msgstr ""
+
+# mes "mommy and daddy are?";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "mommy and daddy are?"
+msgstr ""
+
+# mes "Young lovers, please";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Young lovers, please"
+msgstr ""
+
+# mes "remember this moment for";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "remember this moment for"
+msgstr ""
+
+# mes "the rest of your lives. May your future be blessed with peace";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "the rest of your lives. May your future be blessed with peace"
+msgstr ""
+
+# mes "and joy. May the love you share";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "and joy. May the love you share"
+msgstr ""
+
+# mes "grow with each passing day.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "grow with each passing day."
+msgstr ""
+
+# mes "Until the end of the";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Until the end of the"
+msgstr ""
+
+# mes "world, may you stand";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "world, may you stand"
+msgstr ""
+
+# mes "by the side of the one";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "by the side of the one"
+msgstr ""
+
+# mes "whom you love, to support";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "whom you love, to support"
+msgstr ""
+
+# mes "her and protect her. Now, may";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "her and protect her. Now, may"
+msgstr ""
+
+# mes "I know the name of your bride?";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "I know the name of your bride?"
+msgstr ""
+
+# mes "Mr. " + strcharinfo(PC_NAME) + "...";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Mr. "
+msgstr ""
+
+# mes "Do you swear on your life";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Do you swear on your life"
+msgstr ""
+
+# mes "that you will forever cherish";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "that you will forever cherish"
+msgstr ""
+
+# mes "and care for your bride,";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "and care for your bride,"
+msgstr ""
+
+# mes "Miss " + $@wed_bride$ + "?";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Miss "
+msgstr ""
+
+# mes "Miss " + $@wed_bride$ + "?";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "?"
+msgstr ""
+
+# select("I do.");
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "I do."
+msgstr ""
+
+# mes "Now, it is time for";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Now, it is time for"
+msgstr ""
+
+# mes "your bride to make";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "your bride to make"
+msgstr ""
+
+# mes "her wedding vows.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "her wedding vows."
+msgstr ""
+
+# mes "If she will come forward...";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "If she will come forward..."
+msgstr ""
+
+# mes "I'm sorry, but the groom";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "I'm sorry, but the groom"
+msgstr ""
+
+# mes "must speak to me first in";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "must speak to me first in"
+msgstr ""
+
+# mes "order to begin the wedding.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "order to begin the wedding."
+msgstr ""
+
+# mes "It's old fashioned protocol,";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "It's old fashioned protocol,"
+msgstr ""
+
+# mes "but I'll admit that it does";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "but I'll admit that it does"
+msgstr ""
+
+# mes "keep things running smoothly.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "keep things running smoothly."
+msgstr ""
+
+# mes "Before you can be";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Before you can be"
+msgstr ""
+
+# mes "married, you must";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "married, you must"
+msgstr ""
+
+# mes "first form a party of";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "first form a party of"
+msgstr ""
+
+# mes "two with your partner.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "two with your partner."
+msgstr ""
+
+# mes "Then, we can proceed";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Then, we can proceed"
+msgstr ""
+
+# mes "with the ceremony.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "with the ceremony."
+msgstr ""
+
+# mes "You must apply for";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "You must apply for"
+msgstr ""
+
+# mes "marriage with Happy Marry";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "marriage with Happy Marry"
+msgstr ""
+
+# mes "before you can get married.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "before you can get married."
+msgstr ""
+
+# mes "Happy Marry will let you know";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Happy Marry will let you know"
+msgstr ""
+
+# mes "what else you'll need to do";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "what else you'll need to do"
+msgstr ""
+
+# mes "to prepare for marriage.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "to prepare for marriage."
+msgstr ""
+
+# mes "Do you swear to stay";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Do you swear to stay"
+msgstr ""
+
+# mes "true to "+$@wed_groom$+",";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "true to "
+msgstr ""
+
+# mes "true to "+$@wed_groom$+",";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid ","
+msgstr ""
+
+# mes "to be by his side, no matter";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "to be by his side, no matter"
+msgstr ""
+
+# mes "what the dangers may be?";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "what the dangers may be?"
+msgstr ""
+
+# if (select("^FF0000No.^000000", "I do.") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "^FF0000No.^000000"
+msgstr ""
+
+# mes "So "+$@wed_groom$;
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "So "
+msgstr ""
+
+# mes "isn't the one you";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "isn't the one you"
+msgstr ""
+
+# mes "want to marry? Hmm.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "want to marry? Hmm."
+msgstr ""
+
+# mes "I'm truly sorry for this";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "I'm truly sorry for this"
+msgstr ""
+
+# mes "misunderstanding...";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "misunderstanding..."
+msgstr ""
+
+# mes "Do you truly swear";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Do you truly swear"
+msgstr ""
+
+# mes "fidelity and patience?";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "fidelity and patience?"
+msgstr ""
+
+# mes "Will you marry "+$@wed_groom$+"?";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Will you marry "
+msgstr ""
+
+# if (select("Yes, I do.", "^FF0000No.^000000") == 1) {
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Yes, I do."
+msgstr ""
+
+# mes "By the power invested";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "By the power invested"
+msgstr ""
+
+# mes "in me as Royal Bishop of";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "in me as Royal Bishop of"
+msgstr ""
+
+# mes "the Rune-Midgarts Kingdom,";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "the Rune-Midgarts Kingdom,"
+msgstr ""
+
+# mes "I now pronounce you husband";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "I now pronounce you husband"
+msgstr ""
+
+# mes "and wife. May your future be";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "and wife. May your future be"
+msgstr ""
+
+# mes "blessed with many great joys.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "blessed with many great joys."
+msgstr ""
+
+# mes "And lastly...";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "And lastly..."
+msgstr ""
+
+# mes "Always be happy,";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Always be happy,"
+msgstr ""
+
+# mes "dear "+$@wed_bride$+"...";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "dear "
+msgstr ""
+
+# mes "Hm. It seems that";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Hm. It seems that"
+msgstr ""
+
+# mes "your groom left before";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "your groom left before"
+msgstr ""
+
+# mes "the ceremony has finished";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "the ceremony has finished"
+msgstr ""
+
+# mes "Please try again once he's";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Please try again once he's"
+msgstr ""
+
+# mes "returned.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "returned."
+msgstr ""
+
+# mes "you've changed your";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "you've changed your"
+msgstr ""
+
+# mes "mind. Although I feel";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "mind. Although I feel"
+msgstr ""
+
+# mes "sorry for the groom, you";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "sorry for the groom, you"
+msgstr ""
+
+# mes "must do what your heart";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "must do what your heart"
+msgstr ""
+
+# mes "tells you is right. Now, run!";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "tells you is right. Now, run!"
+msgstr ""
+
+# mes "Hm? It appears that";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Hm? It appears that"
+msgstr ""
+
+# mes "Happy Marry still hasn't";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Happy Marry still hasn't"
+msgstr ""
+
+# mes "received your marriage";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "received your marriage"
+msgstr ""
+
+# mes "application. Please speak";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "application. Please speak"
+msgstr ""
+
+# mes "to her so that we can begin";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "to her so that we can begin"
+msgstr ""
+
+# mes "the wedding ceremony.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "the wedding ceremony."
+msgstr ""
+
+# mes "I wish you eternal";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "I wish you eternal"
+msgstr ""
+
+# mes "happiness. No matter";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "happiness. No matter"
+msgstr ""
+
+# mes "how dark the present may";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "how dark the present may"
+msgstr ""
+
+# mes "be, always stand by your";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "be, always stand by your"
+msgstr ""
+
+# mes "loved one's side and look";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "loved one's side and look"
+msgstr ""
+
+# mes "to the future with hope.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "to the future with hope."
+msgstr ""
+
+# mes "The wedding of";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "The wedding of"
+msgstr ""
+
+# mes "Miss "+ $@wed_bride$ +" and";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid " and"
+msgstr ""
+
+# mes "Mister "+ $@wed_groom$;
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Mister "
+msgstr ""
+
+# mes "is currently in progress.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "is currently in progress."
+msgstr ""
+
+# mes "Please keep your voice down.";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "Please keep your voice down."
+msgstr ""
+
+# mes "I'm conducting a wedding";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "I'm conducting a wedding"
+msgstr ""
+
+# mes "for another couple now, so";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "for another couple now, so"
+msgstr ""
+
+# mes "please wait patiently for your";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "please wait patiently for your"
+msgstr ""
+
+# mes "turn. Thanks for understanding... ";
+#: npc/other/marriage.txt
+msgctxt "Bishop#w"
+msgid "turn. Thanks for understanding... "
+msgstr ""
+
+# mes "[Vomars]";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "[Vomars]"
+msgstr ""
+
+# mes "Wh-who are you?";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "Wh-who are you?"
+msgstr ""
+
+# mes "You must know the";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "You must know the"
+msgstr ""
+
+# mes "password to invoke";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "password to invoke"
+msgstr ""
+
+# mes "my awesome powers.";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "my awesome powers."
+msgstr ""
+
+# mes "This is";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "This is"
+msgstr ""
+
+# mes "no place for";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "no place for"
+msgstr ""
+
+# mes "fooling around.";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "fooling around."
+msgstr ""
+
+# mes "[Wedding Switch]";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "[Wedding Switch]"
+msgstr ""
+
+# mes "Is there a problem with";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "Is there a problem with"
+msgstr ""
+
+# mes "the wedding ceremony?";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "the wedding ceremony?"
+msgstr ""
+
+# mes "I can reset the Bishop";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "I can reset the Bishop"
+msgstr ""
+
+# mes "Vomars NPC if you like.";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "Vomars NPC if you like."
+msgstr ""
+
+# switch(select("No, thanks", "RESET")) {
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "No, thanks"
+msgstr ""
+
+# switch(select("No, thanks", "RESET")) {
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "RESET"
+msgstr ""
+
+# mes "Alright, then.";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "Alright, then."
+msgstr ""
+
+# mes "However, if the";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "However, if the"
+msgstr ""
+
+# mes "Bishop Vomars";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "Bishop Vomars"
+msgstr ""
+
+# mes "NPC is stuck, it may";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "NPC is stuck, it may"
+msgstr ""
+
+# mes "be best to reset it.";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "be best to reset it."
+msgstr ""
+
+# mes "The Bishop Vomars NPC";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "The Bishop Vomars NPC"
+msgstr ""
+
+# mes "has now been reactivated.";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "has now been reactivated."
+msgstr ""
+
+# mes "It should now be possible";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "It should now be possible"
+msgstr ""
+
+# mes "to proceed with weddings.";
+#: npc/other/marriage.txt
+msgctxt "The King of Midgart"
+msgid "to proceed with weddings."
+msgstr ""
+
+# mes "[Bad Ending]";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "[Bad Ending]"
+msgstr ""
+
+# mes "Uh oh...";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Uh oh..."
+msgstr ""
+
+# mes "You know I can't";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "You know I can't"
+msgstr ""
+
+# mes "do anything for you.";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "do anything for you."
+msgstr ""
+
+# mes "Hmm...";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Hmm..."
+msgstr ""
+
+# mes "You really";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "You really"
+msgstr ""
+
+# mes "shouldn't be";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "shouldn't be"
+msgstr ""
+
+# mes "in this place...";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "in this place..."
+msgstr ""
+
+# mes "Great, you know the";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Great, you know the"
+msgstr ""
+
+# mes "password! Now, did you";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "password! Now, did you"
+msgstr ""
+
+# mes "want me to remove the";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "want me to remove the"
+msgstr ""
+
+# mes "Wedding Ring in your";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Wedding Ring in your"
+msgstr ""
+
+# mes "inventory?";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "inventory?"
+msgstr ""
+
+# switch(select("Drop 1 Wedding Ring.", "Keep it.")) {
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Drop 1 Wedding Ring."
+msgstr ""
+
+# switch(select("Drop 1 Wedding Ring.", "Keep it.")) {
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Keep it."
+msgstr ""
+
+# mes "It's done!";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "It's done!"
+msgstr ""
+
+# mes "I couldn't find";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "I couldn't find"
+msgstr ""
+
+# mes "the Wedding Ring...";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "the Wedding Ring..."
+msgstr ""
+
+# mes "Please make sure";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Please make sure"
+msgstr ""
+
+# mes "that it's not equipped.";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "that it's not equipped."
+msgstr ""
+
+# mes "You sure you want";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "You sure you want"
+msgstr ""
+
+# mes "to keep that ring?";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "to keep that ring?"
+msgstr ""
+
+# mes "Alright, but if it becomes";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "Alright, but if it becomes"
+msgstr ""
+
+# mes "a problem, you come to me.";
+#: npc/other/marriage.txt
+msgctxt "Divorce Staff"
+msgid "a problem, you come to me."
+msgstr ""
+
+# mes "[Wedding Again]";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "[Wedding Again]"
+msgstr ""
+
+# mes "Hmm...?";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Hmm...?"
+msgstr ""
+
+# mes "What exactly are";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "What exactly are"
+msgstr ""
+
+# mes "you doing here?";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "you doing here?"
+msgstr ""
+
+# mes "Ahk!";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Ahk!"
+msgstr ""
+
+# mes "An adventurer";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "An adventurer"
+msgstr ""
+
+# mes "like you shouldn't";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "like you shouldn't"
+msgstr ""
+
+# mes "be in this place!";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "be in this place!"
+msgstr ""
+
+# mes "Hmm...";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Hmm..."
+msgstr ""
+
+# mes "I can only create";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "I can only create"
+msgstr ""
+
+# mes "a Wedding Ring if the";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "a Wedding Ring if the"
+msgstr ""
+
+# mes "character is married.";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "character is married."
+msgstr ""
+
+# mes "Ah, I see that you";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Ah, I see that you"
+msgstr ""
+
+# mes "know the password.";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "know the password."
+msgstr ""
+
+# mes "Alright, if you somehow";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Alright, if you somehow"
+msgstr ""
+
+# mes "lost your Wedding Ring,";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "lost your Wedding Ring,"
+msgstr ""
+
+# mes "I can make you a new one.";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "I can make you a new one."
+msgstr ""
+
+# switch(select("Make new Wedding Ring.", "Cancel.")) {
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Make new Wedding Ring."
+msgstr ""
+
+# switch(select("Make new Wedding Ring.", "Cancel.")) {
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Cancel."
+msgstr ""
+
+# mes "Wait, wait...";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Wait, wait..."
+msgstr ""
+
+# mes "You're wearing your";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "You're wearing your"
+msgstr ""
+
+# mes "Wedding Ring. I better";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Wedding Ring. I better"
+msgstr ""
+
+# mes "not make you another since";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "not make you another since"
+msgstr ""
+
+# mes "you don't need more than one.";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "you don't need more than one."
+msgstr ""
+
+# mes "Here you go~";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Here you go~"
+msgstr ""
+
+# mes "It's your brand";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "It's your brand"
+msgstr ""
+
+# mes "new Wedding Ring!";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "new Wedding Ring!"
+msgstr ""
+
+# mes "Alright. If you ever";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "Alright. If you ever"
+msgstr ""
+
+# mes "lose your Wedding Ring,";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "lose your Wedding Ring,"
+msgstr ""
+
+# mes "come to me if you happen";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "come to me if you happen"
+msgstr ""
+
+# mes "to need a new one, okay?";
+#: npc/other/marriage.txt
+msgctxt "Remarry Staff"
+msgid "to need a new one, okay?"
+msgstr ""
+
