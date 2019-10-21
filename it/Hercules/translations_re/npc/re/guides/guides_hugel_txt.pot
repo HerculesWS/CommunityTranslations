@@ -1,0 +1,667 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:19\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/guides/guides_hugel_txt.pot\n"
+
+# mes "[Hugel Guide Granny]";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[Hugel Guide Granny]"
+msgstr ""
+
+# mes "Oh, hello~ you are one energetic adventurer.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Oh, hello~ you are one energetic adventurer."
+msgstr ""
+
+# mes "Welcome to ^8B4513Hugel^000000. I am honored to guide you in this beautiful village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Welcome to ^8B4513Hugel^000000. I am honored to guide you in this beautiful village."
+msgstr ""
+
+# mes "If this is the first time for you to use the guide services, you should ask a lot of questions.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "If this is the first time for you to use the guide services, you should ask a lot of questions."
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Cancel"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Church ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Inn ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Pub ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Airport ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Bingo Game Room ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ ^3131FFHunter Guild^000000 ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Party Supplies Shop ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ ^3131FFShrine Expedition^000000 ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ ^3131FFHunter Guild^000000 ]", "[ Party Supplies Shop ]", "[ ^3131FFShrine Expedition^000000 ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Previous Menu"
+msgstr ""
+
+# mes "Well, to me, this "+F_Navi("Church","hugel,159,113")+" is rather like a place for old folks like me, you know...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Well, to me, this "
+msgstr ""
+
+# mes "Well, to me, this "+F_Navi("Church","hugel,159,113")+" is rather like a place for old folks like me, you know...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Church"
+msgstr ""
+
+# mes "Well, to me, this "+F_Navi("Church","hugel,159,113")+" is rather like a place for old folks like me, you know...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,159,113"
+msgstr ""
+
+# mes "Well, to me, this "+F_Navi("Church","hugel,159,113")+" is rather like a place for old folks like me, you know...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid " is rather like a place for old folks like me, you know..."
+msgstr ""
+
+# mes "Pudding rather than praise.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Pudding rather than praise."
+msgstr ""
+
+# mes "You'd better unpack your stuff at the "+F_Navi("Inn","hugel,101,77")+" first before you start looking around this village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "You'd better unpack your stuff at the "
+msgstr ""
+
+# mes "You'd better unpack your stuff at the "+F_Navi("Inn","hugel,101,77")+" first before you start looking around this village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Inn"
+msgstr ""
+
+# mes "You'd better unpack your stuff at the "+F_Navi("Inn","hugel,101,77")+" first before you start looking around this village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,101,77"
+msgstr ""
+
+# mes "You'd better unpack your stuff at the "+F_Navi("Inn","hugel,101,77")+" first before you start looking around this village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid " first before you start looking around this village."
+msgstr ""
+
+# mes "Yes, when you travel, you want to drop by a "+F_Navi("Pub","hugel,126,65")+" and make new friends.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Yes, when you travel, you want to drop by a "
+msgstr ""
+
+# mes "Yes, when you travel, you want to drop by a "+F_Navi("Pub","hugel,126,65")+" and make new friends.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Pub"
+msgstr ""
+
+# mes "Yes, when you travel, you want to drop by a "+F_Navi("Pub","hugel,126,65")+" and make new friends.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,126,65"
+msgstr ""
+
+# mes "Yes, when you travel, you want to drop by a "+F_Navi("Pub","hugel,126,65")+" and make new friends.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid " and make new friends."
+msgstr ""
+
+# mes "Go east from here, then you will arrive at the pub.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Go east from here, then you will arrive at the pub."
+msgstr ""
+
+# mes "A while ago, strangers came to the village and built that strange "+F_Navi("Airport","hugel,178,146")+" kind of thing...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "A while ago, strangers came to the village and built that strange "
+msgstr ""
+
+# mes "A while ago, strangers came to the village and built that strange "+F_Navi("Airport","hugel,178,146")+" kind of thing...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Airport"
+msgstr ""
+
+# mes "A while ago, strangers came to the village and built that strange "+F_Navi("Airport","hugel,178,146")+" kind of thing...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,178,146"
+msgstr ""
+
+# mes "A while ago, strangers came to the village and built that strange "+F_Navi("Airport","hugel,178,146")+" kind of thing...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid " kind of thing..."
+msgstr ""
+
+# mes "What do they call it? Airship?";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "What do they call it? Airship?"
+msgstr ""
+
+# mes "Well, we have a "+F_Navi("Weapon Shop","hugel,88,167")+" in the center of the village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Well, we have a "
+msgstr ""
+
+# mes "Well, we have a "+F_Navi("Weapon Shop","hugel,88,167")+" in the center of the village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Weapon Shop"
+msgstr ""
+
+# mes "Well, we have a "+F_Navi("Weapon Shop","hugel,88,167")+" in the center of the village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,88,167"
+msgstr ""
+
+# mes "Well, we have a "+F_Navi("Weapon Shop","hugel,88,167")+" in the center of the village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid " in the center of the village."
+msgstr ""
+
+# mes "But I don't know if there is any weapon that you find useful.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "But I don't know if there is any weapon that you find useful."
+msgstr ""
+
+# mes "Yes, I love Hugel brand Red Potions. I haven't tasted Red Potions from any other brands yet...hohoho. ";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Yes, I love Hugel brand Red Potions. I haven't tasted Red Potions from any other brands yet...hohoho. "
+msgstr ""
+
+# mes "The "+F_Navi("Tool Shop","hugel,92,163")+" is located in the center of village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "The "
+msgstr ""
+
+# mes "The "+F_Navi("Tool Shop","hugel,92,163")+" is located in the center of village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Tool Shop"
+msgstr ""
+
+# mes "The "+F_Navi("Tool Shop","hugel,92,163")+" is located in the center of village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,92,163"
+msgstr ""
+
+# mes "The "+F_Navi("Tool Shop","hugel,92,163")+" is located in the center of village.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid " is located in the center of village."
+msgstr ""
+
+# mes "I will mark the location";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "I will mark the location"
+msgstr ""
+
+# mes "of the "+F_Navi("Bingo Game Room","hugel,58,206","^800080");
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "of the "
+msgstr ""
+
+# mes "of the "+F_Navi("Bingo Game Room","hugel,58,206","^800080");
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Bingo Game Room"
+msgstr ""
+
+# mes "of the "+F_Navi("Bingo Game Room","hugel,58,206","^800080");
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,58,206"
+msgstr ""
+
+# mes "of the "+F_Navi("Bingo Game Room","hugel,58,206","^800080");
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "^800080"
+msgstr ""
+
+# mes "on your mini-map.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "on your mini-map."
+msgstr ""
+
+# mes "Oh, are you an aspiring Hunter?";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Oh, are you an aspiring Hunter?"
+msgstr ""
+
+# mes "Then head northeast following the beach, then you will find the "+F_Navi("Hunter Guild","hugel,209,224")+".";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Then head northeast following the beach, then you will find the "
+msgstr ""
+
+# mes "Then head northeast following the beach, then you will find the "+F_Navi("Hunter Guild","hugel,209,224")+".";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Hunter Guild"
+msgstr ""
+
+# mes "Then head northeast following the beach, then you will find the "+F_Navi("Hunter Guild","hugel,209,224")+".";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,209,224"
+msgstr ""
+
+# mes "Then head northeast following the beach, then you will find the "+F_Navi("Hunter Guild","hugel,209,224")+".";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "."
+msgstr ""
+
+# mes "of the "+F_Navi("Party Supplies Shop","hugel,95,103","^483D8B");
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Party Supplies Shop"
+msgstr ""
+
+# mes "of the "+F_Navi("Party Supplies Shop","hugel,95,103","^483D8B");
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,95,103"
+msgstr ""
+
+# mes "of the "+F_Navi("Party Supplies Shop","hugel,95,103","^483D8B");
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "^483D8B"
+msgstr ""
+
+# mes "I heard that the ";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "I heard that the "
+msgstr ""
+
+# mes F_Navi("Shrine Expedition","hugel,52,95")+" is staying in a house at the west.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Shrine Expedition"
+msgstr ""
+
+# mes F_Navi("Shrine Expedition","hugel,52,95")+" is staying in a house at the west.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "hugel,52,95"
+msgstr ""
+
+# mes F_Navi("Shrine Expedition","hugel,52,95")+" is staying in a house at the west.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid " is staying in a house at the west."
+msgstr ""
+
+# mes "They have put some kind of sign in the middle of village, so I guess that they are hiring people for something...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "They have put some kind of sign in the middle of village, so I guess that they are hiring people for something..."
+msgstr ""
+
+# mes "I wonder what they are doing in here... hmmm.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "I wonder what they are doing in here... hmmm."
+msgstr ""
+
+# switch(select("[ Monster Race Arena ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Monster Race Arena ]"
+msgstr ""
+
+# switch(select("[ Monster Race Arena ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "[ Cool Event Corp. Staff ]"
+msgstr ""
+
+# mes "I also like playing Monster Race games. It is pretty fun, you know?";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "I also like playing Monster Race games. It is pretty fun, you know?"
+msgstr ""
+
+# mes "Oh, you haven't tried it yet? No~ you'd better try. Trust me, you will like it.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Oh, you haven't tried it yet? No~ you'd better try. Trust me, you will like it."
+msgstr ""
+
+# mes "of the ^DA70D6Cool Event Corp. Staff^000000";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "of the ^DA70D6Cool Event Corp. Staff^000000"
+msgstr ""
+
+# mes "I'll remove the marks from your mini-map.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "I'll remove the marks from your mini-map."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Ho ho ho ~!";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Ho ho ho ~!"
+msgstr ""
+
+# mes "Guiding is very interesting.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#hugel"
+msgid "Guiding is very interesting."
+msgstr ""
+
+# mes "[Rich King]";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[Rich King]"
+msgstr ""
+
+# mes "What business do you have";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "What business do you have"
+msgstr ""
+
+# mes "in this countryside village?";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "in this countryside village?"
+msgstr ""
+
+# mes "This is ^8B4513Hugel^000000";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "This is ^8B4513Hugel^000000"
+msgstr ""
+
+# mes "in the Schwaltzvalt Republic.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "in the Schwaltzvalt Republic."
+msgstr ""
+
+# mes "You are very honored to receive guidance from a great person like me.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "You are very honored to receive guidance from a great person like me."
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "Cancel"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Church ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Inn ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Pub ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Airport ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Bingo Game Room ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Hunter Guild ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Party Supplies Shop ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Shrine Expedition ]"
+msgstr ""
+
+# switch(select("[ Church ]", "[ Inn ]", "[ Pub ]", "[ Airport ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Bingo Game Room ]", "[ Hunter Guild ]", "[ Party Supplies Shop ]", "[ Shrine Expedition ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "Previous Menu"
+msgstr ""
+
+# switch(select("[ Monster Race Arena ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Monster Race Arena ]"
+msgstr ""
+
+# switch(select("[ Monster Race Arena ]", "[ Cool Event Corp. Staff ]", "Previous Menu")) {
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "[ Cool Event Corp. Staff ]"
+msgstr ""
+
+# mes "I'll remove the marks from your mini-map.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "I'll remove the marks from your mini-map."
+msgstr ""
+
+# mes "I know you're curious but you need to stop bugging me.";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "I know you're curious but you need to stop bugging me."
+msgstr ""
+
+# mes "I'm getting a little bit hungry after working so hard...";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "I'm getting a little bit hungry after working so hard..."
+msgstr ""
+
+# mes "I am eager to eat something!";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "I am eager to eat something!"
+msgstr ""
+
+# mes "I will mark the location";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "I will mark the location"
+msgstr ""
+
+# mes "of the "+getarg(0)+".";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "of the "
+msgstr ""
+
+# mes "Do you want to know more locations?";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "Do you want to know more locations?"
+msgstr ""
+
+# mes "Are you going to keep bugging me and make me get upset?";
+#: npc/re/guides/guides_hugel.txt
+msgctxt "Guide Rich King#hugel"
+msgid "Are you going to keep bugging me and make me get upset?"
+msgstr ""
+
