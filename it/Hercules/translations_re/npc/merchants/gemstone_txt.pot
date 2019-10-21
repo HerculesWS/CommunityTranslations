@@ -1,0 +1,289 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:52+0200\n"
+"PO-Revision-Date: 2019-10-21 10:39\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/merchants/gemstone_txt.pot\n"
+
+# mes "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000"
+msgstr ""
+
+# mes "[Jade]";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "[Jade]"
+msgstr ""
+
+# mes "Bring me two";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Bring me two"
+msgstr ""
+
+# mes "Gemstones of the";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Gemstones of the"
+msgstr ""
+
+# mes "same color, and I will";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "same color, and I will"
+msgstr ""
+
+# mes "change them to Gemstones";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "change them to Gemstones"
+msgstr ""
+
+# mes "of a different color.";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "of a different color."
+msgstr ""
+
+# switch(select("Blue Gemstones into Red ones!", "Red Gemstones into Yellow ones!", "Yellow Gemstones into Blue ones!")) {
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Blue Gemstones into Red ones!"
+msgstr ""
+
+# switch(select("Blue Gemstones into Red ones!", "Red Gemstones into Yellow ones!", "Yellow Gemstones into Blue ones!")) {
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Red Gemstones into Yellow ones!"
+msgstr ""
+
+# switch(select("Blue Gemstones into Red ones!", "Red Gemstones into Yellow ones!", "Yellow Gemstones into Blue ones!")) {
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Yellow Gemstones into Blue ones!"
+msgstr ""
+
+# mes "Hah...!";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Hah...!"
+msgstr ""
+
+# mes "You're kidding me, right?";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "You're kidding me, right?"
+msgstr ""
+
+# mes "I can't provide you with this";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "I can't provide you with this"
+msgstr ""
+
+# mes "service if you don't";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "service if you don't"
+msgstr ""
+
+# mes "give me at least";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "give me at least"
+msgstr ""
+
+# mes "2 "+getitemname(getarg(0))+"s!";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "2 "
+msgstr ""
+
+# mes "I believe I can create";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "I believe I can create"
+msgstr ""
+
+# mes "a total of " + .@gems + " " + getitemname(getarg(1)) + "s";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "a total of "
+msgstr ""
+
+# mes "a total of " + .@gems + " " + getitemname(getarg(1)) + "s";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid " "
+msgstr ""
+
+# mes "using the "+getitemname(getarg(0))+"s";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "using the "
+msgstr ""
+
+# mes "that you currently have.";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "that you currently have."
+msgstr ""
+
+# mes "What do you want to do?";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "What do you want to do?"
+msgstr ""
+
+# switch(select("Give me as many as you can.", "I want to set the amount.", "I quit.")) {
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Give me as many as you can."
+msgstr ""
+
+# switch(select("Give me as many as you can.", "I want to set the amount.", "I quit.")) {
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "I want to set the amount."
+msgstr ""
+
+# switch(select("Give me as many as you can.", "I want to set the amount.", "I quit.")) {
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "I quit."
+msgstr ""
+
+# mes "So how many";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "So how many"
+msgstr ""
+
+# mes "do you want?";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "do you want?"
+msgstr ""
+
+# mes "The maximum number";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "The maximum number"
+msgstr ""
+
+# mes "that you can enter is 100.";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "that you can enter is 100."
+msgstr ""
+
+# mes "None at all?";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "None at all?"
+msgstr ""
+
+# mes "I guess you";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "I guess you"
+msgstr ""
+
+# mes "changed your mind...";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "changed your mind..."
+msgstr ""
+
+# mes "Errm...";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Errm..."
+msgstr ""
+
+# mes "I asked you to enter";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "I asked you to enter"
+msgstr ""
+
+# mes "an amount no greater";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "an amount no greater"
+msgstr ""
+
+# mes "than 100, remember...?";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "than 100, remember...?"
+msgstr ""
+
+# mes "You don't have that";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "You don't have that"
+msgstr ""
+
+# mes "many gems to trade...";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "many gems to trade..."
+msgstr ""
+
+# mes "Sure, no problem.";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Sure, no problem."
+msgstr ""
+
+# mes "Come back any time.";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Come back any time."
+msgstr ""
+
+# mes "There you go.";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "There you go."
+msgstr ""
+
+# mes "Feel free to come";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Feel free to come"
+msgstr ""
+
+# mes "back any time.";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "back any time."
+msgstr ""
+
+# mes "Hm, what's that look for?";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Hm, what's that look for?"
+msgstr ""
+
+# mes "Is there something on my face?";
+#: npc/merchants/gemstone.txt
+msgctxt "Jade#pay"
+msgid "Is there something on my face?"
+msgstr ""
+
