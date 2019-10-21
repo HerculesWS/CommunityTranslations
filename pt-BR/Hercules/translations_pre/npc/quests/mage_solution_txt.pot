@@ -1,0 +1,91 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:24+0200\n"
+"PO-Revision-Date: 2019-10-21 10:43\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/quests/mage_solution_txt.pot\n"
+
+# mes "[Mage Guildsman]";
+#: npc/quests/mage_solution.txt
+msgctxt "Dollshoi"
+msgid "[Mage Guildsman]"
+msgstr ""
+
+# mes "You want a Solution? Hmm, give me 50 Zeny and at least 1 Empty Test Tube.";
+#: npc/quests/mage_solution.txt
+msgctxt "Dollshoi"
+msgid "You want a Solution? Hmm, give me 50 Zeny and at least 1 Empty Test Tube."
+msgstr ""
+
+# if (select("Alright, Deal.", "Nah, forget it.") == 1) {
+#: npc/quests/mage_solution.txt
+msgctxt "Dollshoi"
+msgid "Alright, Deal."
+msgstr ""
+
+# if (select("Alright, Deal.", "Nah, forget it.") == 1) {
+#: npc/quests/mage_solution.txt
+msgctxt "Dollshoi"
+msgid "Nah, forget it."
+msgstr ""
+
+# mes "Hey! You don't have enough money to cover my 50 Zeny charge.";
+#: npc/quests/mage_solution.txt
+msgctxt "Dollshoi"
+msgid "Hey! You don't have enough money to cover my 50 Zeny charge."
+msgstr ""
+
+# mes "You can't carry solutions without a bottle! Bring me an Empty Test Tube.";
+#: npc/quests/mage_solution.txt
+msgctxt "Dollshoi"
+msgid "You can't carry solutions without a bottle! Bring me an Empty Test Tube."
+msgstr ""
+
+# mes "[Mage Guildsman]";
+#: npc/quests/mage_solution.txt
+msgctxt "Ponka-Hontas"
+msgid "[Mage Guildsman]"
+msgstr ""
+
+# mes "Would you like a Solution? Then please give me 50 Zeny and at least 1 Empty Test Tube.";
+#: npc/quests/mage_solution.txt
+msgctxt "Ponka-Hontas"
+msgid "Would you like a Solution? Then please give me 50 Zeny and at least 1 Empty Test Tube."
+msgstr ""
+
+# if (select("Alright, Deal.", "Nah, forget it.") == 1) {
+#: npc/quests/mage_solution.txt
+msgctxt "Ponka-Hontas"
+msgid "Alright, Deal."
+msgstr ""
+
+# if (select("Alright, Deal.", "Nah, forget it.") == 1) {
+#: npc/quests/mage_solution.txt
+msgctxt "Ponka-Hontas"
+msgid "Nah, forget it."
+msgstr ""
+
+# mes "I'm sorry, but you don't have enough money to cover the 50 Zeny fee.";
+#: npc/quests/mage_solution.txt
+msgctxt "Ponka-Hontas"
+msgid "I'm sorry, but you don't have enough money to cover the 50 Zeny fee."
+msgstr ""
+
+# mes "You can't carry liquids without using a bottle. Bring an Empty Test Tube the next time you see me.";
+#: npc/quests/mage_solution.txt
+msgctxt "Ponka-Hontas"
+msgid "You can't carry liquids without using a bottle. Bring an Empty Test Tube the next time you see me."
+msgstr ""
+
