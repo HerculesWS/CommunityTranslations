@@ -1,0 +1,793 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:05\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/eden/eden_common_txt.pot\n"
+
+# mes "- Wait a minute !! -";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes "- Currently you're carrying -";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after you loose some weight. -";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+# mes "[Lime Evenor]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "[Lime Evenor]"
+msgstr ""
+
+# mes "Thanks to many adventurers visiting our Eden Group, we've recently prepared a new version of Eden Group Mark for our visitors.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Thanks to many adventurers visiting our Eden Group, we've recently prepared a new version of Eden Group Mark for our visitors."
+msgstr ""
+
+# mes "And it is also possible to exchange old version of Eden Group Mark into a new one.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "And it is also possible to exchange old version of Eden Group Mark into a new one."
+msgstr ""
+
+# mes "Though it has a slight time delay, this new version of Eden Group Mark will send you back to current saved location.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Though it has a slight time delay, this new version of Eden Group Mark will send you back to current saved location."
+msgstr ""
+
+# mes "Would you like to exchange yours?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Would you like to exchange yours?"
+msgstr ""
+
+# if (select("Sure", "I'm good.") == 2){
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Sure"
+msgstr ""
+
+# if (select("Sure", "I'm good.") == 2){
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "I'm good."
+msgstr ""
+
+# mes "What possible reason would you have... to not exchange?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "What possible reason would you have... to not exchange?"
+msgstr ""
+
+# mes "There you go. Come back again~";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "There you go. Come back again~"
+msgstr ""
+
+# mes "People who follow their dreams and romances listen to me. We are representatives of the paradise called 'The garden of Eden' called the Eden group . There is no place like this anywhere.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "People who follow their dreams and romances listen to me. We are representatives of the paradise called 'The garden of Eden' called the Eden group . There is no place like this anywhere."
+msgstr ""
+
+# mes "Hello. Can I help you?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Hello. Can I help you?"
+msgstr ""
+
+# switch (select("What is Eden group?", "Join the Eden Group.", "Register new mission.", "Search for missions.", "Cancel.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "What is Eden group?"
+msgstr ""
+
+# switch (select("What is Eden group?", "Join the Eden Group.", "Register new mission.", "Search for missions.", "Cancel.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Join the Eden Group."
+msgstr ""
+
+# switch (select("What is Eden group?", "Join the Eden Group.", "Register new mission.", "Search for missions.", "Cancel.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Register new mission."
+msgstr ""
+
+# switch (select("What is Eden group?", "Join the Eden Group.", "Register new mission.", "Search for missions.", "Cancel.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Search for missions."
+msgstr ""
+
+# switch (select("What is Eden group?", "Join the Eden Group.", "Register new mission.", "Search for missions.", "Cancel.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Cancel."
+msgstr ""
+
+# mes "Eden Group is a group that helps people who are suffering from distresses in Rune-Midgard.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Eden Group is a group that helps people who are suffering from distresses in Rune-Midgard."
+msgstr ""
+
+# mes "If people need help, we put up the case on the bulletin board and introduce it to our members who are eager to help those in need.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "If people need help, we put up the case on the bulletin board and introduce it to our members who are eager to help those in need."
+msgstr ""
+
+# mes "Eden members will review the missions and help those who post them up.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Eden members will review the missions and help those who post them up."
+msgstr ""
+
+# mes "Members do these missions for rewards.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Members do these missions for rewards."
+msgstr ""
+
+# mes "If you are not too familiar with Rune-Midgard, this is a great way to explore the world.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "If you are not too familiar with Rune-Midgard, this is a great way to explore the world."
+msgstr ""
+
+# mes "Or, if you are mature enough, you can travel the world and make new friends while doing missions. Your honorable name will be spread out among lands.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Or, if you are mature enough, you can travel the world and make new friends while doing missions. Your honorable name will be spread out among lands."
+msgstr ""
+
+# mes "You can be a Eden's member by simply registering with me.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "You can be a Eden's member by simply registering with me."
+msgstr ""
+
+# mes "Would you like to join Eden Group?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Would you like to join Eden Group?"
+msgstr ""
+
+# switch (select("Yes, I want to join.", "No, I don't want to join.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Yes, I want to join."
+msgstr ""
+
+# switch (select("Yes, I want to join.", "No, I don't want to join.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "No, I don't want to join."
+msgstr ""
+
+# mes "Aright. Excellent! Please write down your name here.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Aright. Excellent! Please write down your name here."
+msgstr ""
+
+# mes "Are you done?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Are you done?"
+msgstr ""
+
+# mes "Let me see.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Let me see."
+msgstr ""
+
+# mes "Your name is ^3131FFBo"+.@input$+"Ba^000000...? Is that right?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Your name is ^3131FFBo"
+msgstr ""
+
+# mes "Your name is ^3131FFBo"+.@input$+"Ba^000000...? Is that right?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Ba^000000...? Is that right?"
+msgstr ""
+
+# mes "Huh? Isn't it??";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Huh? Isn't it??"
+msgstr ""
+
+# mes "Hmm, that isn't what you wrote?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Hmm, that isn't what you wrote?"
+msgstr ""
+
+# mes "Ok, hmm, it seems a bit hard to read.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Ok, hmm, it seems a bit hard to read."
+msgstr ""
+
+# mes "Would you please write your name again? Please write it ^3131FFClearly^000000.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Would you please write your name again? Please write it ^3131FFClearly^000000."
+msgstr ""
+
+# mes "Ah~ ha. You are ^3131FF"+strcharinfo(PC_NAME)+"^000000.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Ah~ ha. You are ^3131FF"
+msgstr ""
+
+# mes "I got it right this time.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "I got it right this time."
+msgstr ""
+
+# mes "We already put your name on the list.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "We already put your name on the list."
+msgstr ""
+
+# mes "Welcome to Eden's group new member!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Welcome to Eden's group new member!"
+msgstr ""
+
+# mes "Hopefully you can do great work as an Eden's member.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Hopefully you can do great work as an Eden's member."
+msgstr ""
+
+# mes "Do you still have questions about Eden Group?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Do you still have questions about Eden Group?"
+msgstr ""
+
+# mes "You are already a member of Eden Group.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "You are already a member of Eden Group."
+msgstr ""
+
+# mes "Do you want to register some missions that you want us to do?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Do you want to register some missions that you want us to do?"
+msgstr ""
+
+# if(select("Yes, I want to register.", "No, I don't.") == 1) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Yes, I want to register."
+msgstr ""
+
+# if(select("Yes, I want to register.", "No, I don't.") == 1) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "No, I don't."
+msgstr ""
+
+# mes "Alrigh. Please write down your name on it.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Alrigh. Please write down your name on it."
+msgstr ""
+
+# mes "^3131FF"+strcharinfo(PC_NAME)+"^000000.. Is that your name?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "^3131FF"
+msgstr ""
+
+# mes "Hmm, your handwriting is not clear. I can't read. it";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Hmm, your handwriting is not clear. I can't read. it"
+msgstr ""
+
+# mes "Which map should we go to?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Which map should we go to?"
+msgstr ""
+
+# mes "^3131FFMission Map: "+.@inputstr$+"^000000";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "^3131FFMission Map: "
+msgstr ""
+
+# mes "^3131FFMission Map: "+.@inputstr$+"^000000";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "^000000"
+msgstr ""
+
+# mes "hum, I will note that.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "hum, I will note that."
+msgstr ""
+
+# mes "Please let me know what kind of missions your are lookng for.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Please let me know what kind of missions your are lookng for."
+msgstr ""
+
+# mes "It should be briefly like 'Hunt 10 Porings.'";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "It should be briefly like 'Hunt 10 Porings.'"
+msgstr ""
+
+# mes "Let me check.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Let me check."
+msgstr ""
+
+# mes "Huh...........";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Huh..........."
+msgstr ""
+
+# mes "Hum.. huh??..................";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Hum.. huh??.................."
+msgstr ""
+
+# mes "I think you should complete one of our missions first before you take up a new mission.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "I think you should complete one of our missions first before you take up a new mission."
+msgstr ""
+
+# mes "^3131FFClient: Lime Evenor^000000";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "^3131FFClient: Lime Evenor^000000"
+msgstr ""
+
+# mes "^3131FFMission: Practice your handwriting for one month.^000000";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "^3131FFMission: Practice your handwriting for one month.^000000"
+msgstr ""
+
+# mes "You've got really bad penmanship!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "You've got really bad penmanship!"
+msgstr ""
+
+# mes "^3131FFMission:"+.@input$+"^000000";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "^3131FFMission:"
+msgstr ""
+
+# mes "Anyway, you are done registering for a new mission.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Anyway, you are done registering for a new mission."
+msgstr ""
+
+# mes "Missions are fully booked. You have to wait for an spot to clear up.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Missions are fully booked. You have to wait for an spot to clear up."
+msgstr ""
+
+# mes "Please kindly wait until your turn.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Please kindly wait until your turn."
+msgstr ""
+
+# mes "Would like to try some missions as an Eden member?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Would like to try some missions as an Eden member?"
+msgstr ""
+
+# mes "Check the right side of the bulletin board, there are various kinds of missions waiting for you.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Check the right side of the bulletin board, there are various kinds of missions waiting for you."
+msgstr ""
+
+# mes "Please carefully read the mission list and the qualifications and choose one of them.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "Please carefully read the mission list and the qualifications and choose one of them."
+msgstr ""
+
+# mes "You need to join Eden Group first if you want to do some missions.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "You need to join Eden Group first if you want to do some missions."
+msgstr ""
+
+# mes "If you have any questions please come back again.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Secretary Lime Evenor"
+msgid "If you have any questions please come back again."
+msgstr ""
+
+# mes "[Eden Teleport Officer]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "[Eden Teleport Officer]"
+msgstr ""
+
+# mes "Those who are wandering around this strange world with aimless eyes listen up and come to me!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "Those who are wandering around this strange world with aimless eyes listen up and come to me!"
+msgstr ""
+
+# mes "Eden group is here to help you and will show you the great future.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "Eden group is here to help you and will show you the great future."
+msgstr ""
+
+# mes "You have nothing to do but waste your time?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "You have nothing to do but waste your time?"
+msgstr ""
+
+# mes "You are eager to do something good but no one offers you work?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "You are eager to do something good but no one offers you work?"
+msgstr ""
+
+# mes "Would you like to be a problem solver?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "Would you like to be a problem solver?"
+msgstr ""
+
+# mes "Eden group is here to solve your problem.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "Eden group is here to solve your problem."
+msgstr ""
+
+# switch (select("Move to Eden Group.", "Don't want to talk anymore.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "Move to Eden Group."
+msgstr ""
+
+# switch (select("Move to Eden Group.", "Don't want to talk anymore.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "Don't want to talk anymore."
+msgstr ""
+
+# mes "Let's go to our secret base!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "Let's go to our secret base!"
+msgstr ""
+
+# mes "If you don't know what to do for your future, don't hesitate to tell me. Just drop by and talk to me! Ok?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden Teleport Officer#0::eto"
+msgid "If you don't know what to do for your future, don't hesitate to tell me. Just drop by and talk to me! Ok?"
+msgstr ""
+
+# mes "[Lime Evenor]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "[Lime Evenor]"
+msgstr ""
+
+# mes "Oh, it is an exclusive place only for Eden's members.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "Oh, it is an exclusive place only for Eden's members."
+msgstr ""
+
+# mes "If you are a member, you can come whenever you want!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "If you are a member, you can come whenever you want!"
+msgstr ""
+
+# switch (select("Enter.", "Don't Enter.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "Enter."
+msgstr ""
+
+# switch (select("Enter.", "Don't Enter.")) {
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "Don't Enter."
+msgstr ""
+
+# mes "This door is beautifully decorated but seems a little bit too heavy.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "This door is beautifully decorated but seems a little bit too heavy."
+msgstr ""
+
+# mes "Well, if you are not interested.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "Well, if you are not interested."
+msgstr ""
+
+# mes "Oh, this is an exclusive place for Eden's members only.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "Oh, this is an exclusive place for Eden's members only."
+msgstr ""
+
+# mes "If you want to go inside, you have to join the Eden Group.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "#warp_2_pass"
+msgid "If you want to go inside, you have to join the Eden Group."
+msgstr ""
+
+# mes "[Old Adventurer]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Old Adventurer#eden"
+msgid "[Old Adventurer]"
+msgstr ""
+
+# mes "Harsh, I am strong enough even if I look old! What is his name? Lime Evenor? He just ignores me like I am a some kind of old senile bastard.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Old Adventurer#eden"
+msgid "Harsh, I am strong enough even if I look old! What is his name? Lime Evenor? He just ignores me like I am a some kind of old senile bastard."
+msgstr ""
+
+# mes "I came here to join the Eden group! I don't deserve this!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Old Adventurer#eden"
+msgid "I came here to join the Eden group! I don't deserve this!"
+msgstr ""
+
+# mes "Do you also think I look like I'm senile?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Old Adventurer#eden"
+msgid "Do you also think I look like I'm senile?"
+msgstr ""
+
+# mes "[Eden's Chief]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid "[Eden's Chief]"
+msgstr ""
+
+# mes ""+.@eggf+".. "+.@eggf_1+"... "+.@eggf_2+".... "+.@eggf_6+"..?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid ".. "
+msgstr ""
+
+# mes ""+.@eggf+".. "+.@eggf_1+"... "+.@eggf_2+".... "+.@eggf_6+"..?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid "... "
+msgstr ""
+
+# mes ""+.@eggf+".. "+.@eggf_1+"... "+.@eggf_2+".... "+.@eggf_6+"..?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid ".... "
+msgstr ""
+
+# mes ""+.@eggf+".. "+.@eggf_1+"... "+.@eggf_2+".... "+.@eggf_6+"..?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid "..?"
+msgstr ""
+
+# mes "Oh, Shoot! How many eggs have I done?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid "Oh, Shoot! How many eggs have I done?"
+msgstr ""
+
+# mes "Aww!!! I totally forgot! I have to count again!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid "Aww!!! I totally forgot! I have to count again!"
+msgstr ""
+
+# mes "Why have you asked me to do this? What kind of mission is that?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid "Why have you asked me to do this? What kind of mission is that?"
+msgstr ""
+
+# mes "What are you going to with all of those fried eggs? I am sure you can't eat all of them. You just want to bother me, right?";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Chief#eden"
+msgid "What are you going to with all of those fried eggs? I am sure you can't eat all of them. You just want to bother me, right?"
+msgstr ""
+
+# mes "[Eden's Intern]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Intern#eden"
+msgid "[Eden's Intern]"
+msgstr ""
+
+# mes "Actually, I realized that.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Intern#eden"
+msgid "Actually, I realized that."
+msgstr ""
+
+# mes "We have to work really hard unless you want to fail.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Intern#eden"
+msgid "We have to work really hard unless you want to fail."
+msgstr ""
+
+# mes "But, I have never learned about pharmaceuticals yet.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Intern#eden"
+msgid "But, I have never learned about pharmaceuticals yet."
+msgstr ""
+
+# mes "I'm going to fail. I can't do this.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Eden's Intern#eden"
+msgid "I'm going to fail. I can't do this."
+msgstr ""
+
+# mes "[Neede]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "[Neede]"
+msgstr ""
+
+# mes "I became a Eden's member several years ago, but it feels like it was yesterday.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "I became a Eden's member several years ago, but it feels like it was yesterday."
+msgstr ""
+
+# mes "I have been doing lots of work, so I didn't even notice how many years I spent here.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "I have been doing lots of work, so I didn't even notice how many years I spent here."
+msgstr ""
+
+# mes "It reminds me that it was like a war everyday.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "It reminds me that it was like a war everyday."
+msgstr ""
+
+# mes "The chief of ^3131FFthe restaurant on the right side^000000";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "The chief of ^3131FFthe restaurant on the right side^000000"
+msgstr ""
+
+# mes "uses too much seasoning every time he cooks, the smell is all over the lobby. We have to open the window regularly because we can't stand the smell!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "uses too much seasoning every time he cooks, the smell is all over the lobby. We have to open the window regularly because we can't stand the smell!"
+msgstr ""
+
+# mes "And, do you see the ^3131FFgymnasium^000000 on the cross of ^3131FFthe north side of the lobby^000000? They always shout when they exercise, I can even hear them from here!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "And, do you see the ^3131FFgymnasium^000000 on the cross of ^3131FFthe north side of the lobby^000000? They always shout when they exercise, I can even hear them from here!"
+msgstr ""
+
+# mes "Besides, the weird girl from ^3131FFthe second floor^000000 is crying all the time. Her cries drive me crazy.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "Besides, the weird girl from ^3131FFthe second floor^000000 is crying all the time. Her cries drive me crazy."
+msgstr ""
+
+# mes "Ah, that weird girl is actually our boss...";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "Ah, that weird girl is actually our boss..."
+msgstr ""
+
+# mes "I don't know what she has been up to. But she cries and shouts all the time. Oh, sometimes I hear 'Bang!', loud booming sounds... I don't know where it came from.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "I don't know what she has been up to. But she cries and shouts all the time. Oh, sometimes I hear 'Bang!', loud booming sounds... I don't know where it came from."
+msgstr ""
+
+# mes "Wait!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "Wait!"
+msgstr ""
+
+# mes "Shh! It is a secret, you can't tell anybody!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "Shh! It is a secret, you can't tell anybody!"
+msgstr ""
+
+# mes "I don't trust Evenor. She never shows her feelings... she's going to snitch on me to my boss.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "I don't trust Evenor. She never shows her feelings... she's going to snitch on me to my boss."
+msgstr ""
+
+# mes "[Lime Evenor]";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "[Lime Evenor]"
+msgstr ""
+
+# mes "I am not that kind of guy.";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "I am not that kind of guy."
+msgstr ""
+
+# mes "Huh? Did you hear that? Gosh~!";
+#: npc/re/quests/eden/eden_common.txt
+msgctxt "Office Assistant Neede"
+msgid "Huh? Did you hear that? Gosh~!"
+msgstr ""
+
