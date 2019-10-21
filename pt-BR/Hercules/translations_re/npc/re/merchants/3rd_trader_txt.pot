@@ -1,0 +1,625 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:00\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/3rd_trader_txt.pot\n"
+
+# mes "- Wait a minute !! -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes "- Currently you're carrying -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after you lose some weight. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+# mes "[Poison Herb Merchant]";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "[Poison Herb Merchant]"
+msgstr ""
+
+# mes "I am the professional";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "I am the professional"
+msgstr ""
+
+# mes "Poison Herb merchant.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Poison Herb merchant."
+msgstr ""
+
+# mes "Each Herb costs 4,000 zeny.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Each Herb costs 4,000 zeny."
+msgstr ""
+
+# mes "What would you like?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "What would you like?"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Nerium"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Rantana"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Makulata"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Seratum"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Scopolia"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Amoena"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Poison Kit"
+msgstr ""
+
+# .@i = select("Nerium", "Rantana", "Makulata", "Seratum", "Scopolia", "Amoena", "Poison Kit", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Cancel"
+msgstr ""
+
+# mes "Each Poison Kit costs 5,000 zeny.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Each Poison Kit costs 5,000 zeny."
+msgstr ""
+
+# mes "Well, I see. Come back again~!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Well, I see. Come back again~!"
+msgstr ""
+
+# mes "How many do you want?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "How many do you want?"
+msgstr ""
+
+# mes "You can only buy a maximum of '"+.@max+"' ea.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "You can only buy a maximum of '"
+msgstr ""
+
+# mes "You can only buy a maximum of '"+.@max+"' ea.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "' ea."
+msgstr ""
+
+# mes "Enter '0' if you want to cancel.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Enter '0' if you want to cancel."
+msgstr ""
+
+# mes "You've cancelled the trade.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "You've cancelled the trade."
+msgstr ""
+
+# mes "The number must be less than "+.@max$+"!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "The number must be less than "
+msgstr ""
+
+# mes "The number must be less than "+.@max$+"!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "!"
+msgstr ""
+
+# mes "You don't have enough money.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "You don't have enough money."
+msgstr ""
+
+# mes "Check how much money you have first.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Check how much money you have first."
+msgstr ""
+
+# mes "Thank you. Come back again~!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::phs"
+msgid "Thank you. Come back again~!"
+msgstr ""
+
+# mes "- Wait a minute !! -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes "- Currently you're carrying -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after you lose some weight. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+# mes "[Rune Merchant]";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "[Rune Merchant]"
+msgstr ""
+
+# mes "Hey, do you need Runes?!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Hey, do you need Runes?!"
+msgstr ""
+
+# mes "I sell all sorts of Rune Stones!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "I sell all sorts of Rune Stones!"
+msgstr ""
+
+# mes "What would you like?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "What would you like?"
+msgstr ""
+
+# .@i = select("Buy high-quality Rune Stones.", "Buy ordinary Rune Stones.");
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Buy high-quality Rune Stones."
+msgstr ""
+
+# .@i = select("Buy high-quality Rune Stones.", "Buy ordinary Rune Stones.");
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Buy ordinary Rune Stones."
+msgstr ""
+
+# mes "High-quality Runes!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "High-quality Runes!"
+msgstr ""
+
+# mes "They cost 2,500 zeny each!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "They cost 2,500 zeny each!"
+msgstr ""
+
+# mes "Ordinary Rune Stones?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Ordinary Rune Stones?"
+msgstr ""
+
+# mes "They cost 1,000 zeny each!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "They cost 1,000 zeny each!"
+msgstr ""
+
+# mes "Tell me how many you want,";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Tell me how many you want,"
+msgstr ""
+
+# mes "and remember, you can only";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "and remember, you can only"
+msgstr ""
+
+# mes "buy a maximum of '2000' ea.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "buy a maximum of '2000' ea."
+msgstr ""
+
+# mes "You're not buying? Please leave!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "You're not buying? Please leave!"
+msgstr ""
+
+# mes "The number must be less than 2,000!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "The number must be less than 2,000!"
+msgstr ""
+
+# mes "Zeny! Zeny!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Zeny! Zeny!"
+msgstr ""
+
+# mes "You don't have enough money.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "You don't have enough money."
+msgstr ""
+
+# mes "Check how much money you have first.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Check how much money you have first."
+msgstr ""
+
+# mes "It doesn't seem like you are able to carry it all, why are you trying it?!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "It doesn't seem like you are able to carry it all, why are you trying it?!"
+msgstr ""
+
+# mes "Thank you.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Thank you."
+msgstr ""
+
+# mes "Please come back again~!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::runesale"
+msgid "Please come back again~!"
+msgstr ""
+
+# mes "- Wait a minute !! -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes "- Currently you're carrying -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after you lose some weight. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+# mes "[Rare Poison Herb Collector]";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "[Rare Poison Herb Collector]"
+msgstr ""
+
+# mes "I wander around the world and collect rare poison herbs. Recently, I started dealing in the herb called Izidor. If you are interested, you can buy them.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "I wander around the world and collect rare poison herbs. Recently, I started dealing in the herb called Izidor. If you are interested, you can buy them."
+msgstr ""
+
+# .@i = select("How can I buy them?", "Exchange it for Animal Blood", "Exchange it for a Bitter Herb", "Exchange it for a Deadly Noxious Herb", "Exchange it for a Frozen Rose", "Exchange it for Ment", "Exchange it for Hinalle")-2;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "How can I buy them?"
+msgstr ""
+
+# .@i = select("How can I buy them?", "Exchange it for Animal Blood", "Exchange it for a Bitter Herb", "Exchange it for a Deadly Noxious Herb", "Exchange it for a Frozen Rose", "Exchange it for Ment", "Exchange it for Hinalle")-2;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Exchange it for Animal Blood"
+msgstr ""
+
+# .@i = select("How can I buy them?", "Exchange it for Animal Blood", "Exchange it for a Bitter Herb", "Exchange it for a Deadly Noxious Herb", "Exchange it for a Frozen Rose", "Exchange it for Ment", "Exchange it for Hinalle")-2;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Exchange it for a Bitter Herb"
+msgstr ""
+
+# .@i = select("How can I buy them?", "Exchange it for Animal Blood", "Exchange it for a Bitter Herb", "Exchange it for a Deadly Noxious Herb", "Exchange it for a Frozen Rose", "Exchange it for Ment", "Exchange it for Hinalle")-2;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Exchange it for a Deadly Noxious Herb"
+msgstr ""
+
+# .@i = select("How can I buy them?", "Exchange it for Animal Blood", "Exchange it for a Bitter Herb", "Exchange it for a Deadly Noxious Herb", "Exchange it for a Frozen Rose", "Exchange it for Ment", "Exchange it for Hinalle")-2;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Exchange it for a Frozen Rose"
+msgstr ""
+
+# .@i = select("How can I buy them?", "Exchange it for Animal Blood", "Exchange it for a Bitter Herb", "Exchange it for a Deadly Noxious Herb", "Exchange it for a Frozen Rose", "Exchange it for Ment", "Exchange it for Hinalle")-2;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Exchange it for Ment"
+msgstr ""
+
+# .@i = select("How can I buy them?", "Exchange it for Animal Blood", "Exchange it for a Bitter Herb", "Exchange it for a Deadly Noxious Herb", "Exchange it for a Frozen Rose", "Exchange it for Ment", "Exchange it for Hinalle")-2;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Exchange it for Hinalle"
+msgstr ""
+
+# mes "You can buy them for 10,000 zeny and one of these rare items, Animal Blood, Bitter Herb, Deadly Noxious Herb, Frozen Rose, Ment or an Hinalle.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "You can buy them for 10,000 zeny and one of these rare items, Animal Blood, Bitter Herb, Deadly Noxious Herb, Frozen Rose, Ment or an Hinalle."
+msgstr ""
+
+# mes "Why do I ask money? That's just to pay a little respect to a collector like me. Ha ha ha...";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Why do I ask money? That's just to pay a little respect to a collector like me. Ha ha ha..."
+msgstr ""
+
+# mes "How many do you want?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "How many do you want?"
+msgstr ""
+
+# mes "You can only buy a maximum of '2000' ea.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "You can only buy a maximum of '2000' ea."
+msgstr ""
+
+# mes "Enter '0' if you want to cancel.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Enter '0' if you want to cancel."
+msgstr ""
+
+# mes "You've cancelled the trade.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "You've cancelled the trade."
+msgstr ""
+
+# mes "The number must be less than 2,000!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "The number must be less than 2,000!"
+msgstr ""
+
+# mes "Hey, come back when you have all the requirements for the exchange.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Hey, come back when you have all the requirements for the exchange."
+msgstr ""
+
+# mes "Good. I've received the money and the special item.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "Good. I've received the money and the special item."
+msgstr ""
+
+# mes "I wander around the world and collect rare poison herbs. But I don't feel like selling my herbs to a person like you... ha ha ha...";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "Rare Herb Collector"
+msgid "I wander around the world and collect rare poison herbs. But I don't feel like selling my herbs to a person like you... ha ha ha..."
+msgstr ""
+
+# mes "- Wait a minute !! -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes "- Currently you're carrying -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after you lose some weight. -";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+# mes "[Point Merchant]";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "[Point Merchant]"
+msgstr ""
+
+# mes "Hello. I'm selling a catalyst called ^FF0000Points^000000 for Sorcerers. What would you like?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "Hello. I'm selling a catalyst called ^FF0000Points^000000 for Sorcerers. What would you like?"
+msgstr ""
+
+# .@i = select("Scarlet Points - 200z", "Lime Green Points - 200z", "Indigo Points - 200z", "Yellow Wish Points - 200z", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "Scarlet Points - 200z"
+msgstr ""
+
+# .@i = select("Scarlet Points - 200z", "Lime Green Points - 200z", "Indigo Points - 200z", "Yellow Wish Points - 200z", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "Lime Green Points - 200z"
+msgstr ""
+
+# .@i = select("Scarlet Points - 200z", "Lime Green Points - 200z", "Indigo Points - 200z", "Yellow Wish Points - 200z", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "Indigo Points - 200z"
+msgstr ""
+
+# .@i = select("Scarlet Points - 200z", "Lime Green Points - 200z", "Indigo Points - 200z", "Yellow Wish Points - 200z", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "Yellow Wish Points - 200z"
+msgstr ""
+
+# .@i = select("Scarlet Points - 200z", "Lime Green Points - 200z", "Indigo Points - 200z", "Yellow Wish Points - 200z", "Cancel")-1;
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "Cancel"
+msgstr ""
+
+# mes "You can't find the stuff you need?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "You can't find the stuff you need?"
+msgstr ""
+
+# mes "You have chosen "+.@color$[.@i]+" Points.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "You have chosen "
+msgstr ""
+
+# mes "You have chosen "+.@color$[.@i]+" Points.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid " Points."
+msgstr ""
+
+# mes "How many do you want?";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "How many do you want?"
+msgstr ""
+
+# mes "If you want to cancel, enter 0.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "If you want to cancel, enter 0."
+msgstr ""
+
+# mes "You've cancelled the trade.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "You've cancelled the trade."
+msgstr ""
+
+# mes "You don't seem to have enough money.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "You don't seem to have enough money."
+msgstr ""
+
+# mes "You don't have enough space in your inventory to buy this amount.";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "You don't have enough space in your inventory to buy this amount."
+msgstr ""
+
+# mes "Thank you very much. See you~!";
+#: npc/re/merchants/3rd_trader.txt
+msgctxt "::pss"
+msgid "Thank you very much. See you~!"
+msgstr ""
+
