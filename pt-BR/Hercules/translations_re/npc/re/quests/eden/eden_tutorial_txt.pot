@@ -1,0 +1,3917 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:05\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/eden/eden_tutorial_txt.pot\n"
+
+# mes "[Tutorial Instructor]";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "[Tutorial Instructor]"
+msgstr ""
+
+# mes "Do you have any questions?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Do you have any questions?"
+msgstr ""
+
+# switch(select("Can I do the same quest again?", "About the Quest Window...", "About ENCHANT...", "About Searching Vends...", "About Mercenary and Pets...", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Can I do the same quest again?"
+msgstr ""
+
+# switch(select("Can I do the same quest again?", "About the Quest Window...", "About ENCHANT...", "About Searching Vends...", "About Mercenary and Pets...", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "About the Quest Window..."
+msgstr ""
+
+# switch(select("Can I do the same quest again?", "About the Quest Window...", "About ENCHANT...", "About Searching Vends...", "About Mercenary and Pets...", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "About ENCHANT..."
+msgstr ""
+
+# switch(select("Can I do the same quest again?", "About the Quest Window...", "About ENCHANT...", "About Searching Vends...", "About Mercenary and Pets...", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "About Searching Vends..."
+msgstr ""
+
+# switch(select("Can I do the same quest again?", "About the Quest Window...", "About ENCHANT...", "About Searching Vends...", "About Mercenary and Pets...", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "About Mercenary and Pets..."
+msgstr ""
+
+# switch(select("Can I do the same quest again?", "About the Quest Window...", "About ENCHANT...", "About Searching Vends...", "About Mercenary and Pets...", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "End Conversation."
+msgstr ""
+
+# mes "The one method to do the same quests repeatdedly is to do the ^006400Daily Quests^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "The one method to do the same quests repeatdedly is to do the ^006400Daily Quests^000000."
+msgstr ""
+
+# mes "Once you complete a ^006400Daily Quest^000000 and turn it in, wait about a day then come back to get the request and do it all over again!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Once you complete a ^006400Daily Quest^000000 and turn it in, wait about a day then come back to get the request and do it all over again!"
+msgstr ""
+
+# mes "If you received a daily quest, look at bottom right of the ^006400Quest Window^000000. There is a section that is called ^006400LIMITED^000000. In that section, it'll tell you how much time needs to pass before you can pick up another daily quest.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If you received a daily quest, look at bottom right of the ^006400Quest Window^000000. There is a section that is called ^006400LIMITED^000000. In that section, it'll tell you how much time needs to pass before you can pick up another daily quest."
+msgstr ""
+
+# mes "It seems you still have some time left to wait out after finishing my quest. Wait it out a bit more, then come find me and you can get the same quest again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "It seems you still have some time left to wait out after finishing my quest. Wait it out a bit more, then come find me and you can get the same quest again."
+msgstr ""
+
+# mes "It seems that about a day has passed since you've finished my quest. Alright, so like the ^006400Daily Quests^000000, you can get a quest from me. Did you want to proceed?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "It seems that about a day has passed since you've finished my quest. Alright, so like the ^006400Daily Quests^000000, you can get a quest from me. Did you want to proceed?"
+msgstr ""
+
+# switch(select("Yes", "No")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Yes"
+msgstr ""
+
+# switch(select("Yes", "No")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "No"
+msgstr ""
+
+# mes "Okay. But if you change your mind and want to receive a quest, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Okay. But if you change your mind and want to receive a quest, come find me."
+msgstr ""
+
+# mes "They say that the ^006400Quest Window^000000 details out everything you need to know about your quests.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "They say that the ^006400Quest Window^000000 details out everything you need to know about your quests."
+msgstr ""
+
+# mes "If you look at the top left";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If you look at the top left"
+msgstr ""
+
+# mes "in the area with the information,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "in the area with the information,"
+msgstr ""
+
+# mes "it says ^006400QUEST^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "it says ^006400QUEST^000000"
+msgstr ""
+
+# mes "and if you click that";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "and if you click that"
+msgstr ""
+
+# mes "it'll show all information";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "it'll show all information"
+msgstr ""
+
+# mes "that pertains to the request.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "that pertains to the request."
+msgstr ""
+
+# mes "Using the ^006400Quest Window^000000 will make your life easier. It'll tell you where to go, what items to get or who to find and etc.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Using the ^006400Quest Window^000000 will make your life easier. It'll tell you where to go, what items to get or who to find and etc."
+msgstr ""
+
+# mes "006400ENCHANT^000000, in general, is divided into two parts: ^006400SOCKET ENCHANT^000000 and ^006400HIDDEN SOCKET ENCHANT^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "006400ENCHANT^000000, in general, is divided into two parts: ^006400SOCKET ENCHANT^000000 and ^006400HIDDEN SOCKET ENCHANT^000000."
+msgstr ""
+
+# mes "^006400SOCKET ENCHANT^000000 is used to add a SOCKET into equipments and ^006400HIDDEN SOCKET ENCHANT^000000 is used to put in stats into a socket of an armor.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400SOCKET ENCHANT^000000 is used to add a SOCKET into equipments and ^006400HIDDEN SOCKET ENCHANT^000000 is used to put in stats into a socket of an armor."
+msgstr ""
+
+# mes "Of course, in order to do this we are in need of some materials and there is a chance that it may fail, but that's the risk you're taking.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Of course, in order to do this we are in need of some materials and there is a chance that it may fail, but that's the risk you're taking."
+msgstr ""
+
+# mes "The people who do the ^006400SOCKET ENCHANT^000000 can be found in ^8B4513Prontera, Morroc, Payon,^000000. ^8B4513Rhitalzen^000000 is in the Refinery and ^0000FFSeiyablem^000000 and ^0000FFReiablem^000000 can be found near the entrance.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "The people who do the ^006400SOCKET ENCHANT^000000 can be found in ^8B4513Prontera, Morroc, Payon,^000000. ^8B4513Rhitalzen^000000 is in the Refinery and ^0000FFSeiyablem^000000 and ^0000FFReiablem^000000 can be found near the entrance."
+msgstr ""
+
+# mes "The one who does ^006400HIDDEN SOCKET ENCHANT^000000 is found at the 6 o'clock location of ^8B4513Prontera^000000. Look for the ^0000FFCraftman Apprentice^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "The one who does ^006400HIDDEN SOCKET ENCHANT^000000 is found at the 6 o'clock location of ^8B4513Prontera^000000. Look for the ^0000FFCraftman Apprentice^000000."
+msgstr ""
+
+# mes "Do you think you understand a little bit more about ^006400ENCHANT^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Do you think you understand a little bit more about ^006400ENCHANT^000000?"
+msgstr ""
+
+# mes "^006400Vend Search^000000 can be utilized by the ^006400Universal Silver Catalog^000000 item. Since you search through as vends on that map, it'll make it easier for you to find the item that you're looking for.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400Vend Search^000000 can be utilized by the ^006400Universal Silver Catalog^000000 item. Since you search through as vends on that map, it'll make it easier for you to find the item that you're looking for."
+msgstr ""
+
+# mes "The ^006400Universal Silver Catalog^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "The ^006400Universal Silver Catalog^000000"
+msgstr ""
+
+# mes "can be obtained from ";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "can be obtained from "
+msgstr ""
+
+# mes "the ^0000FFCatalogue Wizard^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the ^0000FFCatalogue Wizard^000000"
+msgstr ""
+
+# mes "that is located in South Prontera;";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "that is located in South Prontera;"
+msgstr ""
+
+# mes "It only costs 200 zeny for one";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "It only costs 200 zeny for one"
+msgstr ""
+
+# mes "of these and with it you can";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "of these and with it you can"
+msgstr ""
+
+# mes "search up to 10 times.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "search up to 10 times."
+msgstr ""
+
+# mes "You can say that it's a necessity.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You can say that it's a necessity."
+msgstr ""
+
+# mes "So, are you getting familiar with ^006400Vend Search^000000? Don't just stand there and listen to me. Go ahead and try it for yourself!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "So, are you getting familiar with ^006400Vend Search^000000? Don't just stand there and listen to me. Go ahead and try it for yourself!"
+msgstr ""
+
+# mes "Depending on what you need, ^006400Mercenary^000000 and ^006400Pet^000000 can be used in various ways.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Depending on what you need, ^006400Mercenary^000000 and ^006400Pet^000000 can be used in various ways."
+msgstr ""
+
+# mes "If a 006400Mercenary^000000 gives you direct effect";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If a 006400Mercenary^000000 gives you direct effect"
+msgstr ""
+
+# mes "by fighting for you";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "by fighting for you"
+msgstr ""
+
+# mes "then a ^006400Pet^000000 helps you indirectly with their";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "then a ^006400Pet^000000 helps you indirectly with their"
+msgstr ""
+
+# mes "abilities and varied appearances,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "abilities and varied appearances,"
+msgstr ""
+
+# mes "and it captures your heart.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "and it captures your heart."
+msgstr ""
+
+# mes "In order to employ a Mercenary";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "In order to employ a Mercenary"
+msgstr ""
+
+# mes "Go find the ^006400Mercenary Guild^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Go find the ^006400Mercenary Guild^000000"
+msgstr ""
+
+# mes "which is by the front door of ^8B4513Prontera^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "which is by the front door of ^8B4513Prontera^000000."
+msgstr ""
+
+# mes "Go to the ^006400Information Agent^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Go to the ^006400Information Agent^000000"
+msgstr ""
+
+# mes "and ask them where the ^006400Mercenary Guild Official^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "and ask them where the ^006400Mercenary Guild Official^000000"
+msgstr ""
+
+# mes "is located and they will let you know.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "is located and they will let you know."
+msgstr ""
+
+# mes "In order to get a ^006400Pet^000000, while hunting you will obtain taming items. Use the tame on the monster it's for and you can get a pet.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "In order to get a ^006400Pet^000000, while hunting you will obtain taming items. Use the tame on the monster it's for and you can get a pet."
+msgstr ""
+
+# mes "Because there is a chance for failure, please use the taming item with great care.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Because there is a chance for failure, please use the taming item with great care."
+msgstr ""
+
+# mes "That aside... you can get a ^006400Mercenary^000000 from the Mercenary Guild and you can get a ^006400Pet^000000 by trading or buying it from another player.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "That aside... you can get a ^006400Mercenary^000000 from the Mercenary Guild and you can get a ^006400Pet^000000 by trading or buying it from another player."
+msgstr ""
+
+# mes "Now, do you understand a bit more about using a ^006400Mercenary^000000 and a ^006400Pet^000000? I hope you get a chance to use them in the future.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Now, do you understand a bit more about using a ^006400Mercenary^000000 and a ^006400Pet^000000? I hope you get a chance to use them in the future."
+msgstr ""
+
+# mes "If you have any questions, come find me again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If you have any questions, come find me again."
+msgstr ""
+
+# mes "Lately, it has been said that";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Lately, it has been said that"
+msgstr ""
+
+# mes "they are developing ways to add options";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "they are developing ways to add options"
+msgstr ""
+
+# mes "to put in sockets or add statuses";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "to put in sockets or add statuses"
+msgstr ""
+
+# mes "on equipment that normally don't have it.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "on equipment that normally don't have it."
+msgstr ""
+
+# mes "They call that ^006400Enchant^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "They call that ^006400Enchant^000000."
+msgstr ""
+
+# mes "After seeing that being developed,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "After seeing that being developed,"
+msgstr ""
+
+# mes "I was so inspired by it";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I was so inspired by it"
+msgstr ""
+
+# mes "that I worked hard to discover";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "that I worked hard to discover"
+msgstr ""
+
+# mes "a way to do it and I finally";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "a way to do it and I finally"
+msgstr ""
+
+# mes "made my own way to ^006400Enchant^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "made my own way to ^006400Enchant^000000!"
+msgstr ""
+
+# mes "But in order do to this";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "But in order do to this"
+msgstr ""
+
+# mes "I need some special materials.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I need some special materials."
+msgstr ""
+
+# mes "If you're okay with it...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If you're okay with it..."
+msgstr ""
+
+# mes "Do you think you can";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Do you think you can"
+msgstr ""
+
+# mes "help me out by gathering them?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "help me out by gathering them?"
+msgstr ""
+
+# switch(select("Sure, I can help out!", "I'm a little busy right now...")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Sure, I can help out!"
+msgstr ""
+
+# switch(select("Sure, I can help out!", "I'm a little busy right now...")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I'm a little busy right now..."
+msgstr ""
+
+# mes "However, looking at you";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "However, looking at you"
+msgstr ""
+
+# mes "in your current state makes me";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "in your current state makes me"
+msgstr ""
+
+# mes "doubt your ability to gather";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "doubt your ability to gather"
+msgstr ""
+
+# mes "the items I need...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the items I need..."
+msgstr ""
+
+# mes "Well, I guess if you employ";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Well, I guess if you employ"
+msgstr ""
+
+# mes "a ^006400Mercenary^000000 for this";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "a ^006400Mercenary^000000 for this"
+msgstr ""
+
+# mes "then I think I can entrust you";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "then I think I can entrust you"
+msgstr ""
+
+# mes "with my requests... right?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "with my requests... right?"
+msgstr ""
+
+# mes "In order to employ a Mercenary,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "In order to employ a Mercenary,"
+msgstr ""
+
+# mes "go find the ^006400Mercenary Guild^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "go find the ^006400Mercenary Guild^000000"
+msgstr ""
+
+# mes "Now... Hurry and employ";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Now... Hurry and employ"
+msgstr ""
+
+# mes "a ^006400Mercenary^000000 and come back to me!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "a ^006400Mercenary^000000 and come back to me!"
+msgstr ""
+
+# mes "Well since you said you're busy";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Well since you said you're busy"
+msgstr ""
+
+# mes "I can't be helped...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I can't be helped..."
+msgstr ""
+
+# mes "When you're not so busy, come find me again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "When you're not so busy, come find me again."
+msgstr ""
+
+# mes "You haven't gotten a mercenary yet.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You haven't gotten a mercenary yet."
+msgstr ""
+
+# mes "Seeing you with a ^006400Mercenary^000000 definitely makes me trust you more.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Seeing you with a ^006400Mercenary^000000 definitely makes me trust you more."
+msgstr ""
+
+# mes "Try raising a ^006400Pet^000000 in the future as well.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Try raising a ^006400Pet^000000 in the future as well."
+msgstr ""
+
+# mes "Now, let's see... In order to";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Now, let's see... In order to"
+msgstr ""
+
+# mes "get this ^006400Enchant^000000 to succeed";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "get this ^006400Enchant^000000 to succeed"
+msgstr ""
+
+# mes "you have to go gather some materials for me...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "you have to go gather some materials for me..."
+msgstr ""
+
+# mes "What I need is...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "What I need is..."
+msgstr ""
+
+# mes "..............";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid ".............."
+msgstr ""
+
+# select("I don't think I heard you clearly...");
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I don't think I heard you clearly..."
+msgstr ""
+
+# mes "I really don't like to repeat myself..";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I really don't like to repeat myself.."
+msgstr ""
+
+# mes "If you ask me again like that";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If you ask me again like that"
+msgstr ""
+
+# mes "does it just make your mouth tired?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "does it just make your mouth tired?"
+msgstr ""
+
+# mes "In these situations, open your ^006400Quest Window^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "In these situations, open your ^006400Quest Window^000000"
+msgstr ""
+
+# mes "and you can see what is requested of you";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "and you can see what is requested of you"
+msgstr ""
+
+# mes "and the details of my request.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "and the details of my request."
+msgstr ""
+
+# mes "Once you verify what materials";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Once you verify what materials"
+msgstr ""
+
+# mes "you need go gather from";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "you need go gather from"
+msgstr ""
+
+# mes "the ^006400Quest Window^000000,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the ^006400Quest Window^000000,"
+msgstr ""
+
+# mes "come find and talk to me again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "come find and talk to me again."
+msgstr ""
+
+# mes "You seemed to be sluggish with a lot of items";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You seemed to be sluggish with a lot of items"
+msgstr ""
+
+# mes "in your inventory making you heavy...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "in your inventory making you heavy..."
+msgstr ""
+
+# mes "It'll be hard to do my request";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "It'll be hard to do my request"
+msgstr ""
+
+# mes "when you're heavy with all that junk!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "when you're heavy with all that junk!"
+msgstr ""
+
+# mes "Go empty out your inventory and come back to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Go empty out your inventory and come back to me."
+msgstr ""
+
+# mes "It seems that you have";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "It seems that you have"
+msgstr ""
+
+# mes "one too many items on you...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "one too many items on you..."
+msgstr ""
+
+# mes "If you want to help me out";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If you want to help me out"
+msgstr ""
+
+# mes "then you're gonna have to put some";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "then you're gonna have to put some"
+msgstr ""
+
+# mes "stuff away then come back.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "stuff away then come back."
+msgstr ""
+
+# mes "Did you open your ^006400Quest Window^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Did you open your ^006400Quest Window^000000"
+msgstr ""
+
+# mes "to verify the materials?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "to verify the materials?"
+msgstr ""
+
+# switch(select("Yup!", "No...", "Where is the Quest Window...")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Yup!"
+msgstr ""
+
+# switch(select("Yup!", "No...", "Where is the Quest Window...")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "No..."
+msgstr ""
+
+# switch(select("Yup!", "No...", "Where is the Quest Window...")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Where is the Quest Window..."
+msgstr ""
+
+# mes "Oh yeah? Then shall I test you to see";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Oh yeah? Then shall I test you to see"
+msgstr ""
+
+# mes "if you really checked it?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "if you really checked it?"
+msgstr ""
+
+# mes "Write down what material I asked you to get.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Write down what material I asked you to get."
+msgstr ""
+
+# mes "Good, you know.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Good, you know."
+msgstr ""
+
+# mes "Now, are you feeling pretty familiar";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Now, are you feeling pretty familiar"
+msgstr ""
+
+# mes "about the ^006400Quest Window^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "about the ^006400Quest Window^000000?"
+msgstr ""
+
+# mes "But there is an issue...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "But there is an issue..."
+msgstr ""
+
+# mes "You know what material to collect,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You know what material to collect,"
+msgstr ""
+
+# mes "but gathering that won't be easy.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "but gathering that won't be easy."
+msgstr ""
+
+# mes "Also, there is one thing";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Also, there is one thing"
+msgstr ""
+
+# mes "I absolutely think you need to try.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I absolutely think you need to try."
+msgstr ""
+
+# mes "And that is...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "And that is..."
+msgstr ""
+
+# mes "the ^006400Universal Silver Catalog^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the ^006400Universal Silver Catalog^000000."
+msgstr ""
+
+# mes "can be obtained from";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "can be obtained from"
+msgstr ""
+
+# mes "that is located in South Prontera.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "that is located in South Prontera."
+msgstr ""
+
+# mes "Now, go and obtain";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Now, go and obtain"
+msgstr ""
+
+# mes "a ^006400Universal Silver Catalog^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "a ^006400Universal Silver Catalog^000000"
+msgstr ""
+
+# mes "then come back and talk to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "then come back and talk to me."
+msgstr ""
+
+# mes "You... still don't seem";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You... still don't seem"
+msgstr ""
+
+# mes "to know much about the";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "to know much about the"
+msgstr ""
+
+# mes "^006400Quest Window^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400Quest Window^000000."
+msgstr ""
+
+# mes "I will inform you again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I will inform you again."
+msgstr ""
+
+# mes "Hurry and check to see";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Hurry and check to see"
+msgstr ""
+
+# mes "what materials are required in";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "what materials are required in"
+msgstr ""
+
+# mes "your ^006400Quest Window^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "your ^006400Quest Window^000000."
+msgstr ""
+
+# mes "Hmm? So I noticed that";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Hmm? So I noticed that"
+msgstr ""
+
+# mes "you haven't gone and picked up a";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "you haven't gone and picked up a"
+msgstr ""
+
+# mes "^006400Universal Silver Catalog^000000 yet!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400Universal Silver Catalog^000000 yet!"
+msgstr ""
+
+# mes "You can get the";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You can get the"
+msgstr ""
+
+# mes "^006400Universal Silver Catalog^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400Universal Silver Catalog^000000"
+msgstr ""
+
+# mes "from the ^0000FFCatalogue Wizard^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "from the ^0000FFCatalogue Wizard^000000"
+msgstr ""
+
+# mes "who is located in Prontera.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "who is located in Prontera."
+msgstr ""
+
+# mes "So, go and get the";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "So, go and get the"
+msgstr ""
+
+# mes "then come back to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "then come back to me."
+msgstr ""
+
+# mes "Oh! You managed to get a";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Oh! You managed to get a"
+msgstr ""
+
+# mes "^006400Universal Silver Catalog^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400Universal Silver Catalog^000000!"
+msgstr ""
+
+# mes "This lets you browse and search";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "This lets you browse and search"
+msgstr ""
+
+# mes "through all the various stores";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "through all the various stores"
+msgstr ""
+
+# mes "that are on the same map and";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "that are on the same map and"
+msgstr ""
+
+# mes "are open for vending.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "are open for vending."
+msgstr ""
+
+# mes "So, go to the area you want";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "So, go to the area you want"
+msgstr ""
+
+# mes "and try out the ^006400Universal Silver Catalog^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "and try out the ^006400Universal Silver Catalog^000000"
+msgstr ""
+
+# mes "then come and find me";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "then come and find me"
+msgstr ""
+
+# mes "after you've done this.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "after you've done this."
+msgstr ""
+
+# mes "Hmm... It seems that you still have";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Hmm... It seems that you still have"
+msgstr ""
+
+# mes "the ^006400Universal Silver Catalog^000000 in your inventory.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the ^006400Universal Silver Catalog^000000 in your inventory."
+msgstr ""
+
+# mes "Since you're saying you forgot how to use it";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Since you're saying you forgot how to use it"
+msgstr ""
+
+# mes "I'll explain it to you again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I'll explain it to you again."
+msgstr ""
+
+# mes "You see... the ^006400Universal Silver Catalog^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You see... the ^006400Universal Silver Catalog^000000"
+msgstr ""
+
+# mes "lets you browse and search";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "lets you browse and search"
+msgstr ""
+
+# mes "them come and find me";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "them come and find me"
+msgstr ""
+
+# mes "How do you feel after trying out";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "How do you feel after trying out"
+msgstr ""
+
+# mes "the ^006400Universal Silver Catalog^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the ^006400Universal Silver Catalog^000000?"
+msgstr ""
+
+# mes "It feels a lot easier than";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "It feels a lot easier than"
+msgstr ""
+
+# mes "going through each individual";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "going through each individual"
+msgstr ""
+
+# mes "vendor and finding the item";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "vendor and finding the item"
+msgstr ""
+
+# mes "you need, right?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "you need, right?"
+msgstr ""
+
+# mes "Now, go out and gather";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Now, go out and gather"
+msgstr ""
+
+# mes "the materials I need and";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the materials I need and"
+msgstr ""
+
+# mes "I will make sure to give you";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I will make sure to give you"
+msgstr ""
+
+# mes "a fantastic ^006400enchant^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "a fantastic ^006400enchant^000000!"
+msgstr ""
+
+# mes "I'll be waiting!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I'll be waiting!"
+msgstr ""
+
+# mes "It seems you didn't bring";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "It seems you didn't bring"
+msgstr ""
+
+# mes "enough materials. Did you forget";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "enough materials. Did you forget"
+msgstr ""
+
+# mes "what you needed to gather?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "what you needed to gather?"
+msgstr ""
+
+# switch(select("Yeah...", "Nope!")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Yeah..."
+msgstr ""
+
+# switch(select("Yeah...", "Nope!")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Nope!"
+msgstr ""
+
+# mes "I've been told that if you click the";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I've been told that if you click the"
+msgstr ""
+
+# mes "thing on the top left that says";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "thing on the top left that says"
+msgstr ""
+
+# mes "^006400QUEST^000000, it'll show you all";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400QUEST^000000, it'll show you all"
+msgstr ""
+
+# mes "the information that you need";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the information that you need"
+msgstr ""
+
+# mes "that pertains to your requests.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "that pertains to your requests."
+msgstr ""
+
+# mes "Once you gather all the materials";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Once you gather all the materials"
+msgstr ""
+
+# mes "that are listed in your ^006400Quest Window^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "that are listed in your ^006400Quest Window^000000"
+msgstr ""
+
+# mes "come and talk to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "come and talk to me."
+msgstr ""
+
+# mes "When you gather the items";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "When you gather the items"
+msgstr ""
+
+# mes "come to me and I will show you";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "come to me and I will show you"
+msgstr ""
+
+# mes "an awesome ^006400ENCHANT^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "an awesome ^006400ENCHANT^000000."
+msgstr ""
+
+# mes "Your inventory seems to be really full";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Your inventory seems to be really full"
+msgstr ""
+
+# mes "with various stuff... Do you think";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "with various stuff... Do you think"
+msgstr ""
+
+# mes "you can get anything done when you're so";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "you can get anything done when you're so"
+msgstr ""
+
+# mes "weighed down? Go put some stuff away";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "weighed down? Go put some stuff away"
+msgstr ""
+
+# mes "You seem to have too much stuff";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You seem to have too much stuff"
+msgstr ""
+
+# mes "in your inventory... Go put some";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "in your inventory... Go put some"
+msgstr ""
+
+# mes "stuff away then come back to me";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "stuff away then come back to me"
+msgstr ""
+
+# mes "when you have less suff on you.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "when you have less suff on you."
+msgstr ""
+
+# mes "You got everything I asked for!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "You got everything I asked for!"
+msgstr ""
+
+# mes "So~ Shall we start on the awesome";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "So~ Shall we start on the awesome"
+msgstr ""
+
+# mes "Enchant that I found and developed?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Enchant that I found and developed?"
+msgstr ""
+
+# mes "Okay! Now for the first skill!!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Okay! Now for the first skill!!"
+msgstr ""
+
+# mes "To add a new ability to your armor...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "To add a new ability to your armor..."
+msgstr ""
+
+# mes "^006400HIDDEN SOCKET ENCHANT^000000!!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400HIDDEN SOCKET ENCHANT^000000!!"
+msgstr ""
+
+# mes "And for the second skill!!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "And for the second skill!!"
+msgstr ""
+
+# mes "To add a new socket into your";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "To add a new socket into your"
+msgstr ""
+
+# mes "weapon and shield...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "weapon and shield..."
+msgstr ""
+
+# mes "^006400SOCKET ENCHANT^000000!!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "^006400SOCKET ENCHANT^000000!!"
+msgstr ""
+
+# mes "There. The Enchant is done. You can't understand the the process by just watching me, so I'll let you look at the items themselves.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "There. The Enchant is done. You can't understand the the process by just watching me, so I'll let you look at the items themselves."
+msgstr ""
+
+# mes "Those items cannot be";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Those items cannot be"
+msgstr ""
+
+# mes "worn or traded so don't even";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "worn or traded so don't even"
+msgstr ""
+
+# mes "think about running away with them.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "think about running away with them."
+msgstr ""
+
+# mes "When you're done looking at them,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "When you're done looking at them,"
+msgstr ""
+
+# mes "give them back to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "give them back to me."
+msgstr ""
+
+# mes "What did you do with the Enchanted";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "What did you do with the Enchanted"
+msgstr ""
+
+# mes "items I lent to you to look at?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "items I lent to you to look at?"
+msgstr ""
+
+# mes "Until you bring back the fruits of";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Until you bring back the fruits of"
+msgstr ""
+
+# mes "my labor, I don't want to talk to you,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "my labor, I don't want to talk to you,"
+msgstr ""
+
+# mes "let alone see your face.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "let alone see your face."
+msgstr ""
+
+# mes "Are you done looking over";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Are you done looking over"
+msgstr ""
+
+# mes "the items I Enchanted?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "the items I Enchanted?"
+msgstr ""
+
+# switch(select("Yes, thank you.", "I haven't looked at them yet.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Yes, thank you."
+msgstr ""
+
+# switch(select("Yes, thank you.", "I haven't looked at them yet.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "I haven't looked at them yet."
+msgstr ""
+
+# mes "So what did you think after inspecting it? Now that you've looked at an actual Enchanted item, do you understand it?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "So what did you think after inspecting it? Now that you've looked at an actual Enchanted item, do you understand it?"
+msgstr ""
+
+# mes "Thanks to you I was able to see great results of my research and study.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Thanks to you I was able to see great results of my research and study."
+msgstr ""
+
+# mes "If you have any questions about anything that I discussed with you, I will tell you everything! Thanks for your hard work!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "If you have any questions about anything that I discussed with you, I will tell you everything! Thanks for your hard work!"
+msgstr ""
+
+# mes "Take your time to look them over";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "Take your time to look them over"
+msgstr ""
+
+# mes "then bring them back to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Instructor"
+msgid "then bring them back to me."
+msgstr ""
+
+# mes "[Tutorial Goal]";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "[Tutorial Goal]"
+msgstr ""
+
+# mes "You seem to be overweight with items. Go put some stuff away then come back.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "You seem to be overweight with items. Go put some stuff away then come back."
+msgstr ""
+
+# mes "You have too many items on you. Go put some stuff away then come back.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "You have too many items on you. Go put some stuff away then come back."
+msgstr ""
+
+# mes "Well~ We gotta go challenge the experts right?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Well~ We gotta go challenge the experts right?"
+msgstr ""
+
+# mes "Let's start off by finding the ^006400Siege Expert^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Let's start off by finding the ^006400Siege Expert^000000!"
+msgstr ""
+
+# mes "You've passed the ^006400Siege Expert^000000's test! Congrats!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "You've passed the ^006400Siege Expert^000000's test! Congrats!"
+msgstr ""
+
+# mes "Now, go find the ^006400Party Recruiting Expert^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Now, go find the ^006400Party Recruiting Expert^000000!"
+msgstr ""
+
+# mes "Oh! You've passed the ^006400Party Recruiting Expert^000000's test! Congrats!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Oh! You've passed the ^006400Party Recruiting Expert^000000's test! Congrats!"
+msgstr ""
+
+# mes "Now, go find the ^006400Battleground Expert^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Now, go find the ^006400Battleground Expert^000000!"
+msgstr ""
+
+# mes "Yay! You passed the test from the ^006400Battleground Expert^000000! Congrats!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Yay! You passed the test from the ^006400Battleground Expert^000000! Congrats!"
+msgstr ""
+
+# mes "Next, go and find the ^006400Memorial Dungeon Expert^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Next, go and find the ^006400Memorial Dungeon Expert^000000!"
+msgstr ""
+
+# mes "You passed the test from ^006400Memorial Dungeon Expert^000000! That's great!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "You passed the test from ^006400Memorial Dungeon Expert^000000! That's great!"
+msgstr ""
+
+# mes "Try finding the ^006400Map Expert^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Try finding the ^006400Map Expert^000000!"
+msgstr ""
+
+# mes "You passed ^006400Map Expert^000000's test! Congrats!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "You passed ^006400Map Expert^000000's test! Congrats!"
+msgstr ""
+
+# mes "I'm so glad that you were to pass all the Experts' tests! You're better than I expected!!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "I'm so glad that you were to pass all the Experts' tests! You're better than I expected!!"
+msgstr ""
+
+# mes "Now, even you are an ^006400Expert^000000!! Such a fitting nick name for you!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Now, even you are an ^006400Expert^000000!! Such a fitting nick name for you!"
+msgstr ""
+
+# mes "Thank you so much for your hard work. As promised, here is a small little reward for you.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Thank you so much for your hard work. As promised, here is a small little reward for you."
+msgstr ""
+
+# mes "I think it'll be useful to you during your adventures. I wish you luck on your future adventures~";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "I think it'll be useful to you during your adventures. I wish you luck on your future adventures~"
+msgstr ""
+
+# mes "Thank you so much for your hard work.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Thank you so much for your hard work."
+msgstr ""
+
+# mes "I hope that your future adventures are filled with good luck.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "I hope that your future adventures are filled with good luck."
+msgstr ""
+
+# mes "Hmm, I wonder if there is any adventurer that is smart enough to challenge our Experts...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Hmm, I wonder if there is any adventurer that is smart enough to challenge our Experts..."
+msgstr ""
+
+# mes "Hey you! You look like an adventurer... Though you look a little dull...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Hey you! You look like an adventurer... Though you look a little dull..."
+msgstr ""
+
+# if(select("What'd you say? I'm smart!", "Yeah... I'm dull.") == 1) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "What'd you say? I'm smart!"
+msgstr ""
+
+# if(select("What'd you say? I'm smart!", "Yeah... I'm dull.") == 1) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Yeah... I'm dull."
+msgstr ""
+
+# mes "Serious? Though I don't know if I can believe that. Look at the expert who is in front of me! He took up only one area of study for 16 years and now he is as dignified as can be!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Serious? Though I don't know if I can believe that. Look at the expert who is in front of me! He took up only one area of study for 16 years and now he is as dignified as can be!"
+msgstr ""
+
+# mes "Well, if you manage to pass all their tests then I will believe in your abilities.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Well, if you manage to pass all their tests then I will believe in your abilities."
+msgstr ""
+
+# mes "And I will apologize for calling you dull. How about it, Dull Expert?! Do you want to challenge them?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "And I will apologize for calling you dull. How about it, Dull Expert?! Do you want to challenge them?"
+msgstr ""
+
+# if(select("Ch... Challenge!!", "Um... I think I'll just give up now...") == 1) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Ch... Challenge!!"
+msgstr ""
+
+# if(select("Ch... Challenge!!", "Um... I think I'll just give up now...") == 1) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Um... I think I'll just give up now..."
+msgstr ""
+
+# mes "You're braver than you look. You can't go back now that you've decided to challenge!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "You're braver than you look. You can't go back now that you've decided to challenge!"
+msgstr ""
+
+# mes "Okay~ Start by talking to the ^006400Siege Expert^000000 who's right there in front.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Okay~ Start by talking to the ^006400Siege Expert^000000 who's right there in front."
+msgstr ""
+
+# mes "Well, don't get discouraged... If you change your mind and want to do the challenge, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Tutorial Goal"
+msgid "Well, don't get discouraged... If you change your mind and want to do the challenge, come find me."
+msgstr ""
+
+# mes "[Siege Expert]";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "[Siege Expert]"
+msgstr ""
+
+# mes "Since you've come again, I assume you're curious about ^006400Siege^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Since you've come again, I assume you're curious about ^006400Siege^000000?"
+msgstr ""
+
+# switch(select("Listen about Siege.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Listen about Siege."
+msgstr ""
+
+# switch(select("Listen about Siege.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "End Conversation."
+msgstr ""
+
+# mes "Now that you've gone through all of this with an expert, isn't it easy to understand? If you want to go over anything, just come talk to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Now that you've gone through all of this with an expert, isn't it easy to understand? If you want to go over anything, just come talk to me."
+msgstr ""
+
+# mes "If you want to go over anything, just come talk to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "If you want to go over anything, just come talk to me."
+msgstr ""
+
+# mes "I am someone who has studied War of Emperium for 16 years! So that makes me an expert! Since you came to find me, I assume you want to learn more about ^006400Siege^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "I am someone who has studied War of Emperium for 16 years! So that makes me an expert! Since you came to find me, I assume you want to learn more about ^006400Siege^000000."
+msgstr ""
+
+# mes "You have great desire and enthusiasm. As the Expert of ^006400Siege^000000, you have motivated me! All the other Experts are waiting for you! Go get'em!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "You have great desire and enthusiasm. As the Expert of ^006400Siege^000000, you have motivated me! All the other Experts are waiting for you! Go get'em!"
+msgstr ""
+
+# mes "If I told you that there was a great prize for being able to pass all the Experts' tests~ would you go for the challenge?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "If I told you that there was a great prize for being able to pass all the Experts' tests~ would you go for the challenge?"
+msgstr ""
+
+# mes "As the first Expert, I can teach you about ^006400Siege^000000. How about it? Did you wanna learn about ^006400Siege^000000s?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "As the first Expert, I can teach you about ^006400Siege^000000. How about it? Did you wanna learn about ^006400Siege^000000s?"
+msgstr ""
+
+# mes "Now that you've gone through all of this with an expert, isn't it easy to understand?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Now that you've gone through all of this with an expert, isn't it easy to understand?"
+msgstr ""
+
+# mes "Now I'll give you 3 questions~ get those right and you've passed! Do you want a challenge?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Now I'll give you 3 questions~ get those right and you've passed! Do you want a challenge?"
+msgstr ""
+
+# switch(select("Challenge me!", "Listen Again", "Quit")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Challenge me!"
+msgstr ""
+
+# switch(select("Challenge me!", "Listen Again", "Quit")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Listen Again"
+msgstr ""
+
+# switch(select("Challenge me!", "Listen Again", "Quit")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Quit"
+msgstr ""
+
+# mes "A Siege is done in order to take over a [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "A Siege is done in order to take over a []."
+msgstr ""
+
+# mes "It's a war that happens between a [] and another [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "It's a war that happens between a [] and another []."
+msgstr ""
+
+# mes "What words go in the empty spaces of []?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "What words go in the empty spaces of []?"
+msgstr ""
+
+# if(select("Castle, User, Guild", "Castle, Guild, Guild", "Town, Guild, Guild", "Town, User, User") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Castle, User, Guild"
+msgstr ""
+
+# if(select("Castle, User, Guild", "Castle, Guild, Guild", "Town, Guild, Guild", "Town, User, User") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Castle, Guild, Guild"
+msgstr ""
+
+# if(select("Castle, User, Guild", "Castle, Guild, Guild", "Town, Guild, Guild", "Town, User, User") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Town, Guild, Guild"
+msgstr ""
+
+# if(select("Castle, User, Guild", "Castle, Guild, Guild", "Town, Guild, Guild", "Town, User, User") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Town, User, User"
+msgstr ""
+
+# mes "What is the wrong Siege time?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "What is the wrong Siege time?"
+msgstr ""
+
+# if(select("WoE 1 Tues 9-11", "WoE 1 Sat 4-6", "WoE 1 Thurs 8-10") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "WoE 1 Tues 9-11"
+msgstr ""
+
+# if(select("WoE 1 Tues 9-11", "WoE 1 Sat 4-6", "WoE 1 Thurs 8-10") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "WoE 1 Sat 4-6"
+msgstr ""
+
+# if(select("WoE 1 Tues 9-11", "WoE 1 Sat 4-6", "WoE 1 Thurs 8-10") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "WoE 1 Thurs 8-10"
+msgstr ""
+
+# mes "When you get a castle, you must raise [] in order to get better benefits.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "When you get a castle, you must raise [] in order to get better benefits."
+msgstr ""
+
+# if(select("Commerce Development", "Industrial Development", "Guild Development", "Town Development") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Commerce Development"
+msgstr ""
+
+# if(select("Commerce Development", "Industrial Development", "Guild Development", "Town Development") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Industrial Development"
+msgstr ""
+
+# if(select("Commerce Development", "Industrial Development", "Guild Development", "Town Development") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Guild Development"
+msgstr ""
+
+# if(select("Commerce Development", "Industrial Development", "Guild Development", "Town Development") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Town Development"
+msgstr ""
+
+# mes "There are 2 types of Siege.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "There are 2 types of Siege."
+msgstr ""
+
+# mes "There is the normal War of Emperium";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "There is the normal War of Emperium"
+msgstr ""
+
+# mes "and then there is [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "and then there is []."
+msgstr ""
+
+# if(select("War of Emperium MO", "War of Emperium NE", "War of Emperium SK", "War of Emperium SE") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "War of Emperium MO"
+msgstr ""
+
+# if(select("War of Emperium MO", "War of Emperium NE", "War of Emperium SK", "War of Emperium SE") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "War of Emperium NE"
+msgstr ""
+
+# if(select("War of Emperium MO", "War of Emperium NE", "War of Emperium SK", "War of Emperium SE") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "War of Emperium SK"
+msgstr ""
+
+# if(select("War of Emperium MO", "War of Emperium NE", "War of Emperium SK", "War of Emperium SE") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "War of Emperium SE"
+msgstr ""
+
+# mes "As the guild that owns a castle, you must protect the [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "As the guild that owns a castle, you must protect the []."
+msgstr ""
+
+# if(select("Emperial", "Emperium", "Emperiom", "Imperial") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Emperial"
+msgstr ""
+
+# if(select("Emperial", "Emperium", "Emperiom", "Imperial") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Emperium"
+msgstr ""
+
+# if(select("Emperial", "Emperium", "Emperiom", "Imperial") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Emperiom"
+msgstr ""
+
+# if(select("Emperial", "Emperium", "Emperiom", "Imperial") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Imperial"
+msgstr ""
+
+# mes "What benefits does the guild get for winning the Siege?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "What benefits does the guild get for winning the Siege?"
+msgstr ""
+
+# if(select("30% off all items when purchasing", "Increase experience gained by 20%", "Access to Guild Dungeon", "Getting Weapons everyday at midnight.") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+#, no-c-format
+msgctxt "Siege Master"
+msgid "30% off all items when purchasing"
+msgstr ""
+
+# if(select("30% off all items when purchasing", "Increase experience gained by 20%", "Access to Guild Dungeon", "Getting Weapons everyday at midnight.") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+#, no-c-format
+msgctxt "Siege Master"
+msgid "Increase experience gained by 20%"
+msgstr ""
+
+# if(select("30% off all items when purchasing", "Increase experience gained by 20%", "Access to Guild Dungeon", "Getting Weapons everyday at midnight.") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Access to Guild Dungeon"
+msgstr ""
+
+# if(select("30% off all items when purchasing", "Increase experience gained by 20%", "Access to Guild Dungeon", "Getting Weapons everyday at midnight.") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Getting Weapons everyday at midnight."
+msgstr ""
+
+# if(select("Increase experience gained by 20%", "30% off all items when purchasing", "Access to Guild Field", "Treasure Box daily at midnight") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Access to Guild Field"
+msgstr ""
+
+# if(select("Increase experience gained by 20%", "30% off all items when purchasing", "Access to Guild Field", "Treasure Box daily at midnight") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Treasure Box daily at midnight"
+msgstr ""
+
+# mes "How many hours does a siege last?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "How many hours does a siege last?"
+msgstr ""
+
+# if(select("1 Hour", "2 Hours", "3 Hours", "4 Hours") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "1 Hour"
+msgstr ""
+
+# if(select("1 Hour", "2 Hours", "3 Hours", "4 Hours") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "2 Hours"
+msgstr ""
+
+# if(select("1 Hour", "2 Hours", "3 Hours", "4 Hours") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "3 Hours"
+msgstr ""
+
+# if(select("1 Hour", "2 Hours", "3 Hours", "4 Hours") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "4 Hours"
+msgstr ""
+
+# if(select("Town Development", "Industry Development", "Guild Development", "Commerce Development") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Industry Development"
+msgstr ""
+
+# mes "Wow! You got all 3 questions correct! So, you feel pretty good about ^006400Siege^000000s? Right?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Wow! You got all 3 questions correct! So, you feel pretty good about ^006400Siege^000000s? Right?"
+msgstr ""
+
+# mes "If you ever want to learn about ^006400Siege^000000, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "If you ever want to learn about ^006400Siege^000000, come find me."
+msgstr ""
+
+# mes "Now, go and find the ^0000FFParty Recruiting Expert^000000. He's waiting for you.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Now, go and find the ^0000FFParty Recruiting Expert^000000. He's waiting for you."
+msgstr ""
+
+# mes "There's only 3 questions and you didn't get them all right! At this rate, you'll fail all the Experts' tests.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "There's only 3 questions and you didn't get them all right! At this rate, you'll fail all the Experts' tests."
+msgstr ""
+
+# mes "But when I look at you I know you have potential. Did you want to try to tackle it again?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "But when I look at you I know you have potential. Did you want to try to tackle it again?"
+msgstr ""
+
+# mes "Bah! You're no fun... you give up too easy! If you change your mind, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Bah! You're no fun... you give up too easy! If you change your mind, come find me."
+msgstr ""
+
+# mes "Are you giving up? If you change your mind, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Are you giving up? If you change your mind, come find me."
+msgstr ""
+
+# mes "If you want to learn something from me, go meet ^006400Tutorial Goal^000000 first.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "If you want to learn something from me, go meet ^006400Tutorial Goal^000000 first."
+msgstr ""
+
+# mes "A ^006400Siege^000000 is a ^0000FFGuild vs. Guild^000000 war in hope to occupy a castle!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "A ^006400Siege^000000 is a ^0000FFGuild vs. Guild^000000 war in hope to occupy a castle!"
+msgstr ""
+
+# mes "There are 2 different types of ^006400Siege^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "There are 2 different types of ^006400Siege^000000."
+msgstr ""
+
+# mes "There is the standard ^006400War of Emperium^000000 and one that is slightly different which is known as ^006400War of Emperium 2^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "There is the standard ^006400War of Emperium^000000 and one that is slightly different which is known as ^006400War of Emperium 2^000000."
+msgstr ""
+
+# mes "So during this time, there are two sides of the war.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "So during this time, there are two sides of the war."
+msgstr ""
+
+# mes "The ^0000FFGuild That Owns a Castle^000000 tries to protect the ^006400Emperium^000000 and the ^0000FFGuild That Attacks a Castle^000000 tries to break the ^006400Emperium^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "The ^0000FFGuild That Owns a Castle^000000 tries to protect the ^006400Emperium^000000 and the ^0000FFGuild That Attacks a Castle^000000 tries to break the ^006400Emperium^000000."
+msgstr ""
+
+# mes "You can find ^006400Siege^000000 times on our website.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "You can find ^006400Siege^000000 times on our website."
+msgstr ""
+
+# mes "And guilds that win also get a special something-something.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "And guilds that win also get a special something-something."
+msgstr ""
+
+# mes "Guilds that win during the Siege";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Guilds that win during the Siege"
+msgstr ""
+
+# mes "get access to a ^006400Guild Dungeon^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "get access to a ^006400Guild Dungeon^000000"
+msgstr ""
+
+# mes "and the Guild Master gets to open ^006400Treasure Box^000000es at ^0000FFMidnight each day^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "and the Guild Master gets to open ^006400Treasure Box^000000es at ^0000FFMidnight each day^000000."
+msgstr ""
+
+# mes "Isn't that a great benefit?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Isn't that a great benefit?"
+msgstr ""
+
+# mes "Another thing you have to do when you win a castle is called ^006400Commerce Development^000000. The more you do it, the better the benefits.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Siege Master"
+msgid "Another thing you have to do when you win a castle is called ^006400Commerce Development^000000. The more you do it, the better the benefits."
+msgstr ""
+
+# mes "[Party Recruiting Expert]";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "[Party Recruiting Expert]"
+msgstr ""
+
+# mes "Since you've come and found me, it seems you're curious about ^006400Party Recruiting^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Since you've come and found me, it seems you're curious about ^006400Party Recruiting^000000?"
+msgstr ""
+
+# switch(select("Listen about Party Recruiting.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Listen about Party Recruiting."
+msgstr ""
+
+# switch(select("Listen about Party Recruiting.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "End Conversation."
+msgstr ""
+
+# mes "This expert's explanation was pretty great, huh? If you need a refresher, come find me again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "This expert's explanation was pretty great, huh? If you need a refresher, come find me again."
+msgstr ""
+
+# mes "Well, if you have any questions, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Well, if you have any questions, come find me."
+msgstr ""
+
+# mes "I am the ^006400Party Recruiting^000000 expert because I did research about Party Recruting for 16 years! It seems that the ^006400Siege Expert^000000 sent you my way since you passed his tests, hmm?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "I am the ^006400Party Recruiting^000000 expert because I did research about Party Recruting for 16 years! It seems that the ^006400Siege Expert^000000 sent you my way since you passed his tests, hmm?"
+msgstr ""
+
+# mes "You may have already heard but if you pass all the Experts' quizzes, you'll get an awesome prize!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "You may have already heard but if you pass all the Experts' quizzes, you'll get an awesome prize!"
+msgstr ""
+
+# mes "As the 2nd expert, I'll tell you all about ^006400Party Recruiting^000000! How about it?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "As the 2nd expert, I'll tell you all about ^006400Party Recruiting^000000! How about it?"
+msgstr ""
+
+# mes "Now~ my explanations were smoother than a smooth criminal, right? Now I'm gonna give you a quiz with 3 questions. Get them all right and you've passed. Wanna take the challenge?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Now~ my explanations were smoother than a smooth criminal, right? Now I'm gonna give you a quiz with 3 questions. Get them all right and you've passed. Wanna take the challenge?"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "On to the quiz!"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Explain again please?"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Give up."
+msgstr ""
+
+# mes "Party Recruiting is used to help";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party Recruiting is used to help"
+msgstr ""
+
+# mes "users that are looking for []";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "users that are looking for []"
+msgstr ""
+
+# mes "and those looking for a [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "and those looking for a []."
+msgstr ""
+
+# mes "What words go in the empty spaces of []?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "What words go in the empty spaces of []?"
+msgstr ""
+
+# if(select("Guild, Guildmate", "Club, Club Members", "Paris, Party Members", "Party, Party Members") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Guild, Guildmate"
+msgstr ""
+
+# if(select("Guild, Guildmate", "Club, Club Members", "Paris, Party Members", "Party, Party Members") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Club, Club Members"
+msgstr ""
+
+# if(select("Guild, Guildmate", "Club, Club Members", "Paris, Party Members", "Party, Party Members") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Paris, Party Members"
+msgstr ""
+
+# if(select("Guild, Guildmate", "Club, Club Members", "Paris, Party Members", "Party, Party Members") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party, Party Members"
+msgstr ""
+
+# mes "The window that is used to help users look and search for a party is called a [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "The window that is used to help users look and search for a party is called a []."
+msgstr ""
+
+# if(select("Party List", "Party Wanted List", "Party Recruiting List", "Costume Party List") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party List"
+msgstr ""
+
+# if(select("Party List", "Party Wanted List", "Party Recruiting List", "Costume Party List") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party Wanted List"
+msgstr ""
+
+# if(select("Party List", "Party Wanted List", "Party Recruiting List", "Costume Party List") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party Recruiting List"
+msgstr ""
+
+# if(select("Party List", "Party Wanted List", "Party Recruiting List", "Costume Party List") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Costume Party List"
+msgstr ""
+
+# mes "Which of the choices are not listed as a choice to pick when making a party recruit notice?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Which of the choices are not listed as a choice to pick when making a party recruit notice?"
+msgstr ""
+
+# if(select("LEVEL", "SKILL", "JOB", "MAP") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "LEVEL"
+msgstr ""
+
+# if(select("LEVEL", "SKILL", "JOB", "MAP") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "SKILL"
+msgstr ""
+
+# if(select("LEVEL", "SKILL", "JOB", "MAP") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "JOB"
+msgstr ""
+
+# if(select("LEVEL", "SKILL", "JOB", "MAP") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "MAP"
+msgstr ""
+
+# mes "There are 2 types of Party Recruiting.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "There are 2 types of Party Recruiting."
+msgstr ""
+
+# mes "Registering Party Recruiting is one";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Registering Party Recruiting is one"
+msgstr ""
+
+# mes "and the 2nd one is [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "and the 2nd one is []."
+msgstr ""
+
+# if(select("Search for Parties that are Recruiting", "Parties that are starting to hunt", "Party Recruit and Item Distribution", "Party Stuff") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Search for Parties that are Recruiting"
+msgstr ""
+
+# if(select("Search for Parties that are Recruiting", "Parties that are starting to hunt", "Party Recruit and Item Distribution", "Party Stuff") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Parties that are starting to hunt"
+msgstr ""
+
+# if(select("Search for Parties that are Recruiting", "Parties that are starting to hunt", "Party Recruit and Item Distribution", "Party Stuff") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party Recruit and Item Distribution"
+msgstr ""
+
+# if(select("Search for Parties that are Recruiting", "Parties that are starting to hunt", "Party Recruit and Item Distribution", "Party Stuff") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party Stuff"
+msgstr ""
+
+# mes "In order to start Party Recruiting, you have to click the [] button which is located in the info section of the upper left hand side.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "In order to start Party Recruiting, you have to click the [] button which is located in the info section of the upper left hand side."
+msgstr ""
+
+# if(select("party", "guild", "booking", "skill") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "party"
+msgstr ""
+
+# if(select("party", "guild", "booking", "skill") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "guild"
+msgstr ""
+
+# if(select("party", "guild", "booking", "skill") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "booking"
+msgstr ""
+
+# if(select("party", "guild", "booking", "skill") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "skill"
+msgstr ""
+
+# mes "If you want to know more about commands for Party Recruiting, you have to press the [] button on the Party Recruting List window.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "If you want to know more about commands for Party Recruiting, you have to press the [] button on the Party Recruting List window."
+msgstr ""
+
+# if(select("Basic Information", "Help", "Party", "Confirm") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Basic Information"
+msgstr ""
+
+# if(select("Basic Information", "Help", "Party", "Confirm") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Help"
+msgstr ""
+
+# if(select("Basic Information", "Help", "Party", "Confirm") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party"
+msgstr ""
+
+# if(select("Basic Information", "Help", "Party", "Confirm") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Confirm"
+msgstr ""
+
+# mes "For Party Recruiting, in order to make the";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "For Party Recruiting, in order to make the"
+msgstr ""
+
+# mes "Party Recruiting Window pop up,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Party Recruiting Window pop up,"
+msgstr ""
+
+# mes "You type in this command [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "You type in this command []."
+msgstr ""
+
+# if(select("/Party Collection Window", "/Party Collection", "/Party Recruitment Window", "/Party Recruitment") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "/Party Collection Window"
+msgstr ""
+
+# if(select("/Party Collection Window", "/Party Collection", "/Party Recruitment Window", "/Party Recruitment") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "/Party Collection"
+msgstr ""
+
+# if(select("/Party Collection Window", "/Party Collection", "/Party Recruitment Window", "/Party Recruitment") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "/Party Recruitment Window"
+msgstr ""
+
+# if(select("/Party Collection Window", "/Party Collection", "/Party Recruitment Window", "/Party Recruitment") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "/Party Recruitment"
+msgstr ""
+
+# mes "When recruiting for a party, you can set 3 parameters. Those 3 are";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "When recruiting for a party, you can set 3 parameters. Those 3 are"
+msgstr ""
+
+# mes "LEVEL, JOB, and [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "LEVEL, JOB, and []."
+msgstr ""
+
+# if(select("SKILL", "GUILD", "MAP", "OPTION") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "GUILD"
+msgstr ""
+
+# if(select("SKILL", "GUILD", "MAP", "OPTION") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "OPTION"
+msgstr ""
+
+# if(select("Parry, Party Members", "Club, Club Members", "Party, Party Members", "Guild, Guild Members") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Parry, Party Members"
+msgstr ""
+
+# if(select("Parry, Party Members", "Club, Club Members", "Party, Party Members", "Guild, Guild Members") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Guild, Guild Members"
+msgstr ""
+
+# mes "Nice! You got all 3 correct! Now do you feel more confident about ^006400Party Recruiting^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Nice! You got all 3 correct! Now do you feel more confident about ^006400Party Recruiting^000000?"
+msgstr ""
+
+# mes "If you ever want to hear more about ^006400Party Recruiting^000000, come find me anytime.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "If you ever want to hear more about ^006400Party Recruiting^000000, come find me anytime."
+msgstr ""
+
+# mes "Well, off you go to the ^0000FFBattleground Expert^000000! He is probably waiting for you.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Well, off you go to the ^0000FFBattleground Expert^000000! He is probably waiting for you."
+msgstr ""
+
+# mes "There's only 3 questions and you didn't get them all right! At this rate, you'll fail all the Experts' tests.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "There's only 3 questions and you didn't get them all right! At this rate, you'll fail all the Experts' tests."
+msgstr ""
+
+# mes "But if you want to retake the quiz! Go for it! I think you have potential! Wanna take the quiz again?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "But if you want to retake the quiz! Go for it! I think you have potential! Wanna take the quiz again?"
+msgstr ""
+
+# mes "Don't give up! You can do it! If you change your mind, come talk to me again!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Don't give up! You can do it! If you change your mind, come talk to me again!"
+msgstr ""
+
+# mes "You're gonna give up without even listening to me? If you change your mind, come talk to me again!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "You're gonna give up without even listening to me? If you change your mind, come talk to me again!"
+msgstr ""
+
+# mes "If you want to learn something from me, talk to the ^006400Siege Master^000000 first.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "If you want to learn something from me, talk to the ^006400Siege Master^000000 first."
+msgstr ""
+
+# mes "^006400Party Recruiting^000000 is pretty self explanatory. It helps people find party members and it helps people find parties.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "^006400Party Recruiting^000000 is pretty self explanatory. It helps people find party members and it helps people find parties."
+msgstr ""
+
+# mes "There are 2 parts to Party Recruiting.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "There are 2 parts to Party Recruiting."
+msgstr ""
+
+# mes "1st step is ^0000FFRegistering Party Recruiting^000000,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "1st step is ^0000FFRegistering Party Recruiting^000000,"
+msgstr ""
+
+# mes "and the 2nd step is ^0000FFParty Search^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "and the 2nd step is ^0000FFParty Search^000000."
+msgstr ""
+
+# mes "In order to look up Party Recruiting, in the info window on the upper left, click the button that says ^006400booking^000000. Then the ^006400Party Recruiting List^000000 will come up.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "In order to look up Party Recruiting, in the info window on the upper left, click the button that says ^006400booking^000000. Then the ^006400Party Recruiting List^000000 will come up."
+msgstr ""
+
+# mes "^006400Party Recruiting List^000000 window shows you the parties that are looking for members that was listed by other users. You can search through it.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "^006400Party Recruiting List^000000 window shows you the parties that are looking for members that was listed by other users. You can search through it."
+msgstr ""
+
+# mes "In the case that you don't want to join a party, but you want to recruit for one, type in the ^0000FF/Party Recruit^000000 command then in the ^006400Party Recruiting^000000 window, you can do some recruiting!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "In the case that you don't want to join a party, but you want to recruit for one, type in the ^0000FF/Party Recruit^000000 command then in the ^006400Party Recruiting^000000 window, you can do some recruiting!"
+msgstr ""
+
+# mes "Once you register your party recruit notice in the ^006400Party Recruiting^000000 window, the users can search out your ^006400Party Recruiting List^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Once you register your party recruit notice in the ^006400Party Recruiting^000000 window, the users can search out your ^006400Party Recruiting List^000000"
+msgstr ""
+
+# mes "In the ^006400Party Recruiting List^000000 and";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "In the ^006400Party Recruiting List^000000 and"
+msgstr ""
+
+# mes "^006400Party Recruiting^000000 you can put in basic information of what you're going to be doing, or what you're looking for like ";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "^006400Party Recruiting^000000 you can put in basic information of what you're going to be doing, or what you're looking for like "
+msgstr ""
+
+# mes "^006400LEVEL^000000, ^006400MAP^000000, ^006400JOB^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "^006400LEVEL^000000, ^006400MAP^000000, ^006400JOB^000000."
+msgstr ""
+
+# mes "Then the users can search using those parameters and utilizing the ^006400Party Recruitment^000000 system.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "Then the users can search using those parameters and utilizing the ^006400Party Recruitment^000000 system."
+msgstr ""
+
+# mes "If you want to learn more commands about ^006400Party Recruiting^000000, click on the ^006400Help^000000 button on the bottom right of the ^006400Party Recruiting list^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Party Recruiting Expert"
+msgid "If you want to learn more commands about ^006400Party Recruiting^000000, click on the ^006400Help^000000 button on the bottom right of the ^006400Party Recruiting list^000000."
+msgstr ""
+
+# mes "[Battleground Expert]";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "[Battleground Expert]"
+msgstr ""
+
+# mes "Seeing that you sought me out, I guess you want to learn about ^006400Battleground^000000s, eh?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Seeing that you sought me out, I guess you want to learn about ^006400Battleground^000000s, eh?"
+msgstr ""
+
+# switch(select("Learn about Battlegrounds.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Learn about Battlegrounds."
+msgstr ""
+
+# switch(select("Learn about Battlegrounds.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "End Conversation."
+msgstr ""
+
+# mes "There's nothing better than hearing it straight from the expert! If you want to go over it again, just talk to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "There's nothing better than hearing it straight from the expert! If you want to go over it again, just talk to me."
+msgstr ""
+
+# mes "If you want to go over anything, let me know.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "If you want to go over anything, let me know."
+msgstr ""
+
+# mes "For 16 years, I experienced the intense heat of battle on the ^006400Battleground^000000s... I am the ^006400Battleground^000000 Expert!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "For 16 years, I experienced the intense heat of battle on the ^006400Battleground^000000s... I am the ^006400Battleground^000000 Expert!"
+msgstr ""
+
+# mes "It seems that the ^006400Party Recruiting Expert^000000 sent you to me since you passed his quiz.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "It seems that the ^006400Party Recruiting Expert^000000 sent you to me since you passed his quiz."
+msgstr ""
+
+# mes "You may already know but if you get pass all the quizzes from the Experts, you'll get a prize!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "You may already know but if you get pass all the quizzes from the Experts, you'll get a prize!"
+msgstr ""
+
+# mes "I will tell you about the ^006400Battleground^000000s! I will tell you everything I know! How about it? Wanna hear about it?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "I will tell you about the ^006400Battleground^000000s! I will tell you everything I know! How about it? Wanna hear about it?"
+msgstr ""
+
+# mes "There's nothing better than hearing it straight from the expert! Now, do you wanna take my 3-question quiz? You have to answer all 3 correctly to pass!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "There's nothing better than hearing it straight from the expert! Now, do you wanna take my 3-question quiz? You have to answer all 3 correctly to pass!"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "On to the quiz!"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Explain again please?"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Give up."
+msgstr ""
+
+# mes "For starters, you have to pick either the side of [] Camp or [] Camp in order to to participate in Battleground.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "For starters, you have to pick either the side of [] Camp or [] Camp in order to to participate in Battleground."
+msgstr ""
+
+# mes "What words go in the empty spaces of []?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "What words go in the empty spaces of []?"
+msgstr ""
+
+# if(select("Guillaume, Tierra", "Rachel, KVM", "Guillaume, Croix", "Maroll, KVM") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Guillaume, Tierra"
+msgstr ""
+
+# if(select("Guillaume, Tierra", "Rachel, KVM", "Guillaume, Croix", "Maroll, KVM") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Rachel, KVM"
+msgstr ""
+
+# if(select("Guillaume, Tierra", "Rachel, KVM", "Guillaume, Croix", "Maroll, KVM") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Guillaume, Croix"
+msgstr ""
+
+# if(select("Guillaume, Tierra", "Rachel, KVM", "Guillaume, Croix", "Maroll, KVM") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Maroll, KVM"
+msgstr ""
+
+# mes "[] can do either 10vs10 and you have to attack the crystals of the opposing team while protecting yours.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "[] can do either 10vs10 and you have to attack the crystals of the opposing team while protecting yours."
+msgstr ""
+
+# if(select("Tierra", "Flavius", "KVM", "Maroll") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Tierra"
+msgstr ""
+
+# if(select("Tierra", "Flavius", "KVM", "Maroll") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Flavius"
+msgstr ""
+
+# if(select("Tierra", "Flavius", "KVM", "Maroll") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "KVM"
+msgstr ""
+
+# if(select("Tierra", "Flavius", "KVM", "Maroll") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Maroll"
+msgstr ""
+
+# mes "When you complete a battle, you may get a reward! From a KVM battle, you get [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "When you complete a battle, you may get a reward! From a KVM battle, you get []."
+msgstr ""
+
+# if(select("KVM Badge", "Valor Badge", "Bravery Badge", "Honor Badge") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "KVM Badge"
+msgstr ""
+
+# if(select("KVM Badge", "Valor Badge", "Bravery Badge", "Honor Badge") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Valor Badge"
+msgstr ""
+
+# if(select("KVM Badge", "Valor Badge", "Bravery Badge", "Honor Badge") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Bravery Badge"
+msgstr ""
+
+# if(select("KVM Badge", "Valor Badge", "Bravery Badge", "Honor Badge") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Honor Badge"
+msgstr ""
+
+# mes "For [], it's 10vs10. You also need to attack the enemies supply depot while protecting your own.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "For [], it's 10vs10. You also need to attack the enemies supply depot while protecting your own."
+msgstr ""
+
+# mes "In order to get into the battlegrounds, which one is not the recruiter you need to find?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "In order to get into the battlegrounds, which one is not the recruiter you need to find?"
+msgstr ""
+
+# if(select("Maroll Mercenary Recruiter", "KVM Mercenary Recruiter", "Tierra Mercenary Recruiter", "Flavius Mercenary Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Maroll Mercenary Recruiter"
+msgstr ""
+
+# if(select("Maroll Mercenary Recruiter", "KVM Mercenary Recruiter", "Tierra Mercenary Recruiter", "Flavius Mercenary Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "KVM Mercenary Recruiter"
+msgstr ""
+
+# if(select("Maroll Mercenary Recruiter", "KVM Mercenary Recruiter", "Tierra Mercenary Recruiter", "Flavius Mercenary Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Tierra Mercenary Recruiter"
+msgstr ""
+
+# if(select("Maroll Mercenary Recruiter", "KVM Mercenary Recruiter", "Tierra Mercenary Recruiter", "Flavius Mercenary Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Flavius Mercenary Recruiter"
+msgstr ""
+
+# mes "You can get [] from participating in the Battlegrounds of Tierra.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "You can get [] from participating in the Battlegrounds of Tierra."
+msgstr ""
+
+# mes "In every major city, you can find [] to enter the Battlegrounds.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "In every major city, you can find [] to enter the Battlegrounds."
+msgstr ""
+
+# if(select("Maroll Battleground Recruiter", "Tierra Battleground Recruiter", "Flavius Battleground Recruiter", "KVM Battleground Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Maroll Battleground Recruiter"
+msgstr ""
+
+# if(select("Maroll Battleground Recruiter", "Tierra Battleground Recruiter", "Flavius Battleground Recruiter", "KVM Battleground Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Tierra Battleground Recruiter"
+msgstr ""
+
+# if(select("Maroll Battleground Recruiter", "Tierra Battleground Recruiter", "Flavius Battleground Recruiter", "KVM Battleground Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Flavius Battleground Recruiter"
+msgstr ""
+
+# if(select("Maroll Battleground Recruiter", "Tierra Battleground Recruiter", "Flavius Battleground Recruiter", "KVM Battleground Recruiter") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "KVM Battleground Recruiter"
+msgstr ""
+
+# mes "For [], you go in 5vs5 with the intention of trying to reduce the number of enemies on the opposite side.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "For [], you go in 5vs5 with the intention of trying to reduce the number of enemies on the opposite side."
+msgstr ""
+
+# mes "When you complete a battle, you get a prize. The prize from Flavius is called [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "When you complete a battle, you get a prize. The prize from Flavius is called []."
+msgstr ""
+
+# mes "You got all 3 correct! I think you got a pretty good head on your shoulders. You know a thing or two about ^006400Battleground^000000s.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "You got all 3 correct! I think you got a pretty good head on your shoulders. You know a thing or two about ^006400Battleground^000000s."
+msgstr ""
+
+# mes "If you ever want to go over anything about ^006400Battleground^000000s, feel free to come talk to me!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "If you ever want to go over anything about ^006400Battleground^000000s, feel free to come talk to me!"
+msgstr ""
+
+# mes "Go on and find and talk to the 0000FFMemorial Dungeon Expert^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Go on and find and talk to the 0000FFMemorial Dungeon Expert^000000!"
+msgstr ""
+
+# mes "There's only 3 questions and you didn't get them all right! At this rate, you'll fail all the Experts' tests.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "There's only 3 questions and you didn't get them all right! At this rate, you'll fail all the Experts' tests."
+msgstr ""
+
+# mes "But if you want to take it on again, you should.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "But if you want to take it on again, you should."
+msgstr ""
+
+# mes "Don't disappoint me by giving up. If you change your mind, come find me again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Don't disappoint me by giving up. If you change your mind, come find me again."
+msgstr ""
+
+# mes "You're a coward if you give up even before starting. If you change your mind, come find me again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "You're a coward if you give up even before starting. If you change your mind, come find me again."
+msgstr ""
+
+# mes "If you want to learn something from me, go get acknowledged by the ^006400Party Recruiting Expert^000000 first.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "If you want to learn something from me, go get acknowledged by the ^006400Party Recruiting Expert^000000 first."
+msgstr ""
+
+# mes "To explain ^006400Battleground^000000 easily...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "To explain ^006400Battleground^000000 easily..."
+msgstr ""
+
+# mes "You pick either Camp ^006400Guillaume^000000 or Camp ^006400Croix^000000 then you fight each other.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "You pick either Camp ^006400Guillaume^000000 or Camp ^006400Croix^000000 then you fight each other."
+msgstr ""
+
+# mes "There are 3 types of ^006400Battleground^000000s.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "There are 3 types of ^006400Battleground^000000s."
+msgstr ""
+
+# mes "First is ^006400KVM^000000. It is a 5vs5 battle with the goal of reducing the number of people on either side.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "First is ^006400KVM^000000. It is a 5vs5 battle with the goal of reducing the number of people on either side."
+msgstr ""
+
+# mes "The second one is 10vs10. You attack the supply depots of your opponents and in turn, you protect your supply depots. This is called ^006400Tierra^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "The second one is 10vs10. You attack the supply depots of your opponents and in turn, you protect your supply depots. This is called ^006400Tierra^000000."
+msgstr ""
+
+# mes "The third and final one is called ^006400Flavius^000000. This one is also 10vs10. For this one, you attack the crystals of your opponents while trying to protect your own.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "The third and final one is called ^006400Flavius^000000. This one is also 10vs10. For this one, you attack the crystals of your opponents while trying to protect your own."
+msgstr ""
+
+# mes "To get to ^006400Battleground^000000s, find ^006400Maroll, the Recruiter^000000 who can be found in all major towns.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "To get to ^006400Battleground^000000s, find ^006400Maroll, the Recruiter^000000 who can be found in all major towns."
+msgstr ""
+
+# mes "After you enter, pick if you want to side with Guillaume or Croix, then on their side, pick either...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "After you enter, pick if you want to side with Guillaume or Croix, then on their side, pick either..."
+msgstr ""
+
+# mes "^006400KVM Mercenary Recruiter^000000,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "^006400KVM Mercenary Recruiter^000000,"
+msgstr ""
+
+# mes "^006400Tierra Mercenary Recruiter^000000, or";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "^006400Tierra Mercenary Recruiter^000000, or"
+msgstr ""
+
+# mes "^006400Flavius Mercenary Recruiter^000000,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "^006400Flavius Mercenary Recruiter^000000,"
+msgstr ""
+
+# mes "then you can join the ^006400Battleground^000000s.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "then you can join the ^006400Battleground^000000s."
+msgstr ""
+
+# mes "Depending on the outcome of the ^006400Battleground^000000 you can get a prize too.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Depending on the outcome of the ^006400Battleground^000000 you can get a prize too."
+msgstr ""
+
+# mes "You get KVM Badges from ^006400KVM^000000,";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "You get KVM Badges from ^006400KVM^000000,"
+msgstr ""
+
+# mes "from ^006400Tierra^000000 you obtain Bravery Badges and";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "from ^006400Tierra^000000 you obtain Bravery Badges and"
+msgstr ""
+
+# mes "you receive Valor Badges ^006400Flavius^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "you receive Valor Badges ^006400Flavius^000000."
+msgstr ""
+
+# mes "With the rewards from ^006400Battleground^000000s, you can get items that you can't normally get elsewhere.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "With the rewards from ^006400Battleground^000000s, you can get items that you can't normally get elsewhere."
+msgstr ""
+
+# mes "Each ^006400Battleground^000000 reward you can obtain is different so you'll have to check on it.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Battleground Master"
+msgid "Each ^006400Battleground^000000 reward you can obtain is different so you'll have to check on it."
+msgstr ""
+
+# mes "[Memorial Dungeon Expert]";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "[Memorial Dungeon Expert]"
+msgstr ""
+
+# mes "Since you've come here, it seems you want to learn about the ^006400Memorial Dungeon^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Since you've come here, it seems you want to learn about the ^006400Memorial Dungeon^000000."
+msgstr ""
+
+# switch(select("Listen about Memorial Dungeon.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Listen about Memorial Dungeon."
+msgstr ""
+
+# switch(select("Listen about Memorial Dungeon.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "End Conversation."
+msgstr ""
+
+# mes "Now that you've listend to an expert, it's easy to understand, right? If you want to hear about it again, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Now that you've listend to an expert, it's easy to understand, right? If you want to hear about it again, come find me."
+msgstr ""
+
+# mes " If you want to hear about it again, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid " If you want to hear about it again, come find me."
+msgstr ""
+
+# mes "I am the ^006400Memorial Dungeon^000000 Expert! I studied the ^006400Memorial Dungeon^000000 for 16 years!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "I am the ^006400Memorial Dungeon^000000 Expert! I studied the ^006400Memorial Dungeon^000000 for 16 years!"
+msgstr ""
+
+# mes "Since you've sought me out, I assume that you've passed the ^006400Battleground Expert^000000's quiz.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Since you've sought me out, I assume that you've passed the ^006400Battleground Expert^000000's quiz."
+msgstr ""
+
+# mes "As you already know, if you pass all the Experts' quiz you'll get a prize.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "As you already know, if you pass all the Experts' quiz you'll get a prize."
+msgstr ""
+
+# mes "As the 4th Expert, I will explain everything to you about ^006400Memorial Dungeon^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "As the 4th Expert, I will explain everything to you about ^006400Memorial Dungeon^000000."
+msgstr ""
+
+# mes "Want to hear about ^006400Memorial Dungeon^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Want to hear about ^006400Memorial Dungeon^000000?"
+msgstr ""
+
+# mes "Okay, now I'm gonna give you a quiz. You have to get all the questions right to pass. Ready?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Okay, now I'm gonna give you a quiz. You have to get all the questions right to pass. Ready?"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "On to the quiz!"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Explain again please?"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Give up."
+msgstr ""
+
+# mes "^006400Memorial Dungeon^000000 isn't a dungeon that is open to all users. It's only available to you and your [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "^006400Memorial Dungeon^000000 isn't a dungeon that is open to all users. It's only available to you and your []."
+msgstr ""
+
+# mes "What words go in the empty spaces of []?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "What words go in the empty spaces of []?"
+msgstr ""
+
+# if(select("Party Members", "Guildmates", "Friends", "Family") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Party Members"
+msgstr ""
+
+# if(select("Party Members", "Guildmates", "Friends", "Family") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Guildmates"
+msgstr ""
+
+# if(select("Party Members", "Guildmates", "Friends", "Family") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Friends"
+msgstr ""
+
+# if(select("Party Members", "Guildmates", "Friends", "Family") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Family"
+msgstr ""
+
+# mes "If you go to [] and find [], he will give you information about Endless Tower- which is a huge and tall dungeon.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "If you go to [] and find [], he will give you information about Endless Tower- which is a huge and tall dungeon."
+msgstr ""
+
+# if(select("Prontera, Seiyablem", "Alberta, Leyablem", "Alberta, Captain Jansen", "Prontera, Captin Jansen") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Prontera, Seiyablem"
+msgstr ""
+
+# if(select("Prontera, Seiyablem", "Alberta, Leyablem", "Alberta, Captain Jansen", "Prontera, Captin Jansen") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Alberta, Leyablem"
+msgstr ""
+
+# if(select("Prontera, Seiyablem", "Alberta, Leyablem", "Alberta, Captain Jansen", "Prontera, Captin Jansen") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Alberta, Captain Jansen"
+msgstr ""
+
+# if(select("Prontera, Seiyablem", "Alberta, Leyablem", "Alberta, Captain Jansen", "Prontera, Captin Jansen") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Prontera, Captin Jansen"
+msgstr ""
+
+# mes "In order to enter Memorial Dungeon the [] must apply and then be on stand-by to enter. You will enter in the order the application was put in.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "In order to enter Memorial Dungeon the [] must apply and then be on stand-by to enter. You will enter in the order the application was put in."
+msgstr ""
+
+# if(select("Guild Member", "Guild Leader", "Party Leader", "Party Member") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Guild Member"
+msgstr ""
+
+# if(select("Guild Member", "Guild Leader", "Party Leader", "Party Member") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Guild Leader"
+msgstr ""
+
+# if(select("Guild Member", "Guild Leader", "Party Leader", "Party Member") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Party Leader"
+msgstr ""
+
+# if(select("Guild Member", "Guild Leader", "Party Leader", "Party Member") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Party Member"
+msgstr ""
+
+# mes "When you're done with the [], you cannot re-enter the same dungeon for a certain period of time.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "When you're done with the [], you cannot re-enter the same dungeon for a certain period of time."
+msgstr ""
+
+# if(select("Buff", "Ritual", "Exploration", "Inspection") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Buff"
+msgstr ""
+
+# if(select("Buff", "Ritual", "Exploration", "Inspection") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Ritual"
+msgstr ""
+
+# if(select("Buff", "Ritual", "Exploration", "Inspection") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Exploration"
+msgstr ""
+
+# if(select("Buff", "Ritual", "Exploration", "Inspection") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Inspection"
+msgstr ""
+
+# mes "If you go to the Orc Map where all the orcs live, you will be able to find []. He will probably be able to give you information about the Orc's Memory dungeon.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "If you go to the Orc Map where all the orcs live, you will be able to find []. He will probably be able to give you information about the Orc's Memory dungeon."
+msgstr ""
+
+# if(select("Insane Scientist", "Crazy Scientist", "Insane Alchemist", "Crazy Alchemist") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Insane Scientist"
+msgstr ""
+
+# if(select("Insane Scientist", "Crazy Scientist", "Insane Alchemist", "Crazy Alchemist") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Crazy Scientist"
+msgstr ""
+
+# if(select("Insane Scientist", "Crazy Scientist", "Insane Alchemist", "Crazy Alchemist") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Insane Alchemist"
+msgstr ""
+
+# if(select("Insane Scientist", "Crazy Scientist", "Insane Alchemist", "Crazy Alchemist") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Crazy Alchemist"
+msgstr ""
+
+# mes "In order to enter Memorial Dungeon, the [] must apply- then you'll be able to enter in order of when your application was turned in.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "In order to enter Memorial Dungeon, the [] must apply- then you'll be able to enter in order of when your application was turned in."
+msgstr ""
+
+# mes "You have to be on stand-by for this.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "You have to be on stand-by for this."
+msgstr ""
+
+# if(select("Guild Leader", "Guildmate", "Party Member", "Party Leader") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Guildmate"
+msgstr ""
+
+# mes "If you go to the place where you can become a monk, the Capitolina Monastery, you can meet []. He will tell you about the dungeon with the Sealed Baphomet.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "If you go to the place where you can become a monk, the Capitolina Monastery, you can meet []. He will tell you about the dungeon with the Sealed Baphomet."
+msgstr ""
+
+# if(select("Agent Patrick", "Patrolman Patrick", "Drunken Patrick", "Detective Patrick") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Agent Patrick"
+msgstr ""
+
+# if(select("Agent Patrick", "Patrolman Patrick", "Drunken Patrick", "Detective Patrick") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Patrolman Patrick"
+msgstr ""
+
+# if(select("Agent Patrick", "Patrolman Patrick", "Drunken Patrick", "Detective Patrick") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Drunken Patrick"
+msgstr ""
+
+# if(select("Agent Patrick", "Patrolman Patrick", "Drunken Patrick", "Detective Patrick") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Detective Patrick"
+msgstr ""
+
+# mes "^006400Memorial Dungeon^000000 is not just open to all users. It is open available for you and your [].";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "^006400Memorial Dungeon^000000 is not just open to all users. It is open available for you and your []."
+msgstr ""
+
+# mes "You're pretty bright~ seeing that you got all 3 correct. Now do you understand about ^006400Memorial Dungeon^000000?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "You're pretty bright~ seeing that you got all 3 correct. Now do you understand about ^006400Memorial Dungeon^000000?"
+msgstr ""
+
+# mes "If you ever want to go over things about ^006400Memorial Dungeon^000000, come talk to me any time.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "If you ever want to go over things about ^006400Memorial Dungeon^000000, come talk to me any time."
+msgstr ""
+
+# mes "Now, off you go to the the ^0000FFMap Expert^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Now, off you go to the the ^0000FFMap Expert^000000!"
+msgstr ""
+
+# mes "The quiz wasn't that hard...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "The quiz wasn't that hard..."
+msgstr ""
+
+# mes "You look like you have potential... you should try again.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "You look like you have potential... you should try again."
+msgstr ""
+
+# mes "It's easy to understand since it's coming from an expert like me. Now it's quiz time. You have to get all the answers correct to pass. Are you ready?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "It's easy to understand since it's coming from an expert like me. Now it's quiz time. You have to get all the answers correct to pass. Are you ready?"
+msgstr ""
+
+# mes "Giving up is lame. If you change your mind, come talk to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Giving up is lame. If you change your mind, come talk to me."
+msgstr ""
+
+# mes "Giving up without even trying is lame. If you change your mind, come talk to me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Giving up without even trying is lame. If you change your mind, come talk to me."
+msgstr ""
+
+# mes "If you want to learn anything from me, talk to the ^006400Battleground Master^000000 first and get acknowledged by him.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "If you want to learn anything from me, talk to the ^006400Battleground Master^000000 first and get acknowledged by him."
+msgstr ""
+
+# mes "The ^006400Memorial Dungeon^000000is not a dungeon that is open to everyone. It only opens to ^0000FFYou and your Party Members^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "The ^006400Memorial Dungeon^000000is not a dungeon that is open to everyone. It only opens to ^0000FFYou and your Party Members^000000."
+msgstr ""
+
+# mes "Therefore, in order to enter ^006400Memorial Dungeon^000000, the Party Leader must apply to enter. Since you enter in the order you apply, you must be on stand-by to enter.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Therefore, in order to enter ^006400Memorial Dungeon^000000, the Party Leader must apply to enter. Since you enter in the order you apply, you must be on stand-by to enter."
+msgstr ""
+
+# mes "Also, after you explore Memorial Dungeon, you cannot re-enter the same ^006400Memorial Dungeon^000000 for a certain period of time.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Also, after you explore Memorial Dungeon, you cannot re-enter the same ^006400Memorial Dungeon^000000 for a certain period of time."
+msgstr ""
+
+# mes "Many ^006400Memorial Dungeon^000000s exist, but we will give you hints to help you find Memorial Dungeon in the world of Rune Midgard.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Many ^006400Memorial Dungeon^000000s exist, but we will give you hints to help you find Memorial Dungeon in the world of Rune Midgard."
+msgstr ""
+
+# mes "First, go to ^8B4513Alberta^000000 and find ^006400Captain Jansen^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "First, go to ^8B4513Alberta^000000 and find ^006400Captain Jansen^000000."
+msgstr ""
+
+# mes "He will give you information about the really huge and tall dungeon known as ^006400Endless Tower^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "He will give you information about the really huge and tall dungeon known as ^006400Endless Tower^000000."
+msgstr ""
+
+# mes "Second, go to the ^8B4513Orc Map^000000 where all the orcs live and find the ^006400Insane Scientist^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Second, go to the ^8B4513Orc Map^000000 where all the orcs live and find the ^006400Insane Scientist^000000."
+msgstr ""
+
+# mes "You might be able to get some information about a dungeon that has to do with ^006400Orc's Memory^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "You might be able to get some information about a dungeon that has to do with ^006400Orc's Memory^000000."
+msgstr ""
+
+# mes "Third and last, seek out the place where you can become a monk, which is the ^8B4513Capitolina Monastery^000000 and seek out ^006400Detective Patrick^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Third and last, seek out the place where you can become a monk, which is the ^8B4513Capitolina Monastery^000000 and seek out ^006400Detective Patrick^000000."
+msgstr ""
+
+# mes "He will be able to give you information about the dungeon with the ^006400Sealed Baphomet^000000+.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "He will be able to give you information about the dungeon with the ^006400Sealed Baphomet^000000+."
+msgstr ""
+
+# mes "Of course there are other locations for Memorial Dungeon but it's best to start where you can find it easily.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "Of course there are other locations for Memorial Dungeon but it's best to start where you can find it easily."
+msgstr ""
+
+# mes "As you continue to go on your adventures you will be able to find them more easily.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Memorial Dungeon Expert"
+msgid "As you continue to go on your adventures you will be able to find them more easily."
+msgstr ""
+
+# mes "[Map Expert]";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "[Map Expert]"
+msgstr ""
+
+# mes "Seeing that you came to me, I assume you have some questions about ^006400MAP^000000s?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Seeing that you came to me, I assume you have some questions about ^006400MAP^000000s?"
+msgstr ""
+
+# switch(select("List about the Map.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "List about the Map."
+msgstr ""
+
+# switch(select("List about the Map.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "End Conversation."
+msgstr ""
+
+# mes "If you end up in those areas while you're adventuring, be sure to tell me all about it!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you end up in those areas while you're adventuring, be sure to tell me all about it!"
+msgstr ""
+
+# mes "And now, since you've passed all the Expert's quizzes, go on and talk to ^006400Tutorial Goal^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "And now, since you've passed all the Expert's quizzes, go on and talk to ^006400Tutorial Goal^000000."
+msgstr ""
+
+# mes "If you have any more questions, come find me.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you have any more questions, come find me."
+msgstr ""
+
+# mes "I have been researching and studying ^006400MAP^000000s for 16 years and so now I am the ^006400MAP^000000 Expert!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "I have been researching and studying ^006400MAP^000000s for 16 years and so now I am the ^006400MAP^000000 Expert!"
+msgstr ""
+
+# mes "Since you've sought me out, it seems you've passed ^006400Memorial Dungeon Expert^000000's quiz.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Since you've sought me out, it seems you've passed ^006400Memorial Dungeon Expert^000000's quiz."
+msgstr ""
+
+# mes "As you already know, if you pass all the Experts' quiz you'll get a prize.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "As you already know, if you pass all the Experts' quiz you'll get a prize."
+msgstr ""
+
+# mes "As the last Expert, I will try to explain everything about ^006400MAP^000000s to make it easy on you. Ready to start?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "As the last Expert, I will try to explain everything about ^006400MAP^000000s to make it easy on you. Ready to start?"
+msgstr ""
+
+# switch(select("Listen about Maps.", "End Conversation.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Listen about Maps."
+msgstr ""
+
+# mes "How was my explanation? Now I am gonna give you a quick quiz! You have to get all the answers correct in order to pass. Ready?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "How was my explanation? Now I am gonna give you a quick quiz! You have to get all the answers correct in order to pass. Ready?"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "On to the quiz!"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Explain again please?"
+msgstr ""
+
+# switch(select("On to the quiz!", "Explain again please?", "Give up.")) {
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Give up."
+msgstr ""
+
+# mes "You can view the map by clicking on the [] button that is located in the upper left hand side.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "You can view the map by clicking on the [] button that is located in the upper left hand side."
+msgstr ""
+
+# mes "What words go in the empty spaces of []?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "What words go in the empty spaces of []?"
+msgstr ""
+
+# if(select("SKILL", "GUILD", "MAP", "BOOKING") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "SKILL"
+msgstr ""
+
+# if(select("SKILL", "GUILD", "MAP", "BOOKING") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "GUILD"
+msgstr ""
+
+# if(select("SKILL", "GUILD", "MAP", "BOOKING") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "MAP"
+msgstr ""
+
+# if(select("SKILL", "GUILD", "MAP", "BOOKING") == 3)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "BOOKING"
+msgstr ""
+
+# mes "When looking at the map, each area offers the [] and [] information about the monsters. That will take all the guess work out of where you should hunt.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "When looking at the map, each area offers the [] and [] information about the monsters. That will take all the guess work out of where you should hunt."
+msgstr ""
+
+# if(select("Name, Age", "Attributes, Level", "Attributes, Tribe", "Name, Level") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Name, Age"
+msgstr ""
+
+# if(select("Name, Age", "Attributes, Level", "Attributes, Tribe", "Name, Level") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Attributes, Level"
+msgstr ""
+
+# if(select("Name, Age", "Attributes, Level", "Attributes, Tribe", "Name, Level") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Attributes, Tribe"
+msgstr ""
+
+# if(select("Name, Age", "Attributes, Level", "Attributes, Tribe", "Name, Level") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Name, Level"
+msgstr ""
+
+# mes "If you want to stop looking at the map, simple press the shortcut key of [] or ESC and it will close the map for you.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you want to stop looking at the map, simple press the shortcut key of [] or ESC and it will close the map for you."
+msgstr ""
+
+# if(select("ALT + F4", "CTRL + %", "CTRL + M", "ALT + ESC") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "ALT + F4"
+msgstr ""
+
+# if(select("ALT + F4", "CTRL + %", "CTRL + M", "ALT + ESC") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+#, no-c-format
+msgctxt "Map Expert"
+msgid "CTRL + %"
+msgstr ""
+
+# if(select("ALT + F4", "CTRL + %", "CTRL + M", "ALT + ESC") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "CTRL + M"
+msgstr ""
+
+# if(select("ALT + F4", "CTRL + %", "CTRL + M", "ALT + ESC") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "ALT + ESC"
+msgstr ""
+
+# mes "After you open your map and you";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "After you open your map and you"
+msgstr ""
+
+# mes "hover your mouse over specific areas";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "hover your mouse over specific areas"
+msgstr ""
+
+# mes "you can see the [] and [] of the region.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "you can see the [] and [] of the region."
+msgstr ""
+
+# if(select("Name, Area Details", "Name, Monster Attributes", "Specialties, Area Details", "Specialties, Name") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Name, Area Details"
+msgstr ""
+
+# if(select("Name, Area Details", "Name, Monster Attributes", "Specialties, Area Details", "Specialties, Name") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Name, Monster Attributes"
+msgstr ""
+
+# if(select("Name, Area Details", "Name, Monster Attributes", "Specialties, Area Details", "Specialties, Name") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Specialties, Area Details"
+msgstr ""
+
+# if(select("Name, Area Details", "Name, Monster Attributes", "Specialties, Area Details", "Specialties, Name") == 1)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Specialties, Name"
+msgstr ""
+
+# mes "If you look to the bottom right of the map, you will see a drawing of []. Click on that or press the TAB shortcut key and you can find out various information.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you look to the bottom right of the map, you will see a drawing of []. Click on that or press the TAB shortcut key and you can find out various information."
+msgstr ""
+
+# if(select("Desert Wolf", "Mimic", "Siroma", "Poring") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Desert Wolf"
+msgstr ""
+
+# if(select("Desert Wolf", "Mimic", "Siroma", "Poring") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Mimic"
+msgstr ""
+
+# if(select("Desert Wolf", "Mimic", "Siroma", "Poring") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Siroma"
+msgstr ""
+
+# if(select("Desert Wolf", "Mimic", "Siroma", "Poring") == 4)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Poring"
+msgstr ""
+
+# mes "While looking at the map, when you press the TAB shortcut key, you will be able to find and locate various dungeons and their Entrance Locations.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "While looking at the map, when you press the TAB shortcut key, you will be able to find and locate various dungeons and their Entrance Locations."
+msgstr ""
+
+# mes "You can also find the [] of the monsters in that area.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "You can also find the [] of the monsters in that area."
+msgstr ""
+
+# if(select("Name", "Level", "Attribute", "Size") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Name"
+msgstr ""
+
+# if(select("Name", "Level", "Attribute", "Size") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Level"
+msgstr ""
+
+# if(select("Name", "Level", "Attribute", "Size") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Attribute"
+msgstr ""
+
+# if(select("Name", "Level", "Attribute", "Size") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Size"
+msgstr ""
+
+# mes "If you want to stop looking at the map, all you need to do is press the [] to go back to your normal screen.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you want to stop looking at the map, all you need to do is press the [] to go back to your normal screen."
+msgstr ""
+
+# if(select("O", "X", "EXIT", "ALT") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "O"
+msgstr ""
+
+# if(select("O", "X", "EXIT", "ALT") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "X"
+msgstr ""
+
+# if(select("O", "X", "EXIT", "ALT") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "EXIT"
+msgstr ""
+
+# if(select("O", "X", "EXIT", "ALT") == 2)
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "ALT"
+msgstr ""
+
+# mes "Bingo! You got all 3 answers correct! Now, do you feel like you understand stuff about ^006400MAP^000000s more?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Bingo! You got all 3 answers correct! Now, do you feel like you understand stuff about ^006400MAP^000000s more?"
+msgstr ""
+
+# mes "If you ever feel like you want to learn more about ^006400MAP^000000s, come talk to me anytime.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you ever feel like you want to learn more about ^006400MAP^000000s, come talk to me anytime."
+msgstr ""
+
+# mes "Congrats on passing all the Experts' quizzes! Now, go find and talk to the ^006400Tutorial Goal^000000!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Congrats on passing all the Experts' quizzes! Now, go find and talk to the ^006400Tutorial Goal^000000!"
+msgstr ""
+
+# mes "The 3 questions shouldn't have been that hard...";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "The 3 questions shouldn't have been that hard..."
+msgstr ""
+
+# mes "Well, you seem to be pretty smart so why not try the quiz again?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Well, you seem to be pretty smart so why not try the quiz again?"
+msgstr ""
+
+# mes "How is this Expert's explanations? Now I am gonna give you a quick quiz. You have to get all the answers correct to pass. Want to try it?";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "How is this Expert's explanations? Now I am gonna give you a quick quiz. You have to get all the answers correct to pass. Want to try it?"
+msgstr ""
+
+# mes "I'm the last Expert! Dont' give up! Come find me again when you're ready!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "I'm the last Expert! Dont' give up! Come find me again when you're ready!"
+msgstr ""
+
+# mes "You're gonna give up without even trying? But I'm the last Expert! Dont' give up! Come find me again when you're ready!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "You're gonna give up without even trying? But I'm the last Expert! Dont' give up! Come find me again when you're ready!"
+msgstr ""
+
+# mes "If you want to learn from me, go get acknowledged by the ^006400Memorial Dungeon^000000 first.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you want to learn from me, go get acknowledged by the ^006400Memorial Dungeon^000000 first."
+msgstr ""
+
+# mes "A ^006400MAP^000000 shows you things that is much needed for travelling around the world; such as the lay of the land, major towns and fields and such. It's a very important tool!";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "A ^006400MAP^000000 shows you things that is much needed for travelling around the world; such as the lay of the land, major towns and fields and such. It's a very important tool!"
+msgstr ""
+
+# mes "Because of this, it's more important than everything else that you know about ^006400MAP^000000s.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Because of this, it's more important than everything else that you know about ^006400MAP^000000s."
+msgstr ""
+
+# mes "The map can be accessed by clicking on the button that says ^006400MAP^000000 on the upper left side of your screen.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "The map can be accessed by clicking on the button that says ^006400MAP^000000 on the upper left side of your screen."
+msgstr ""
+
+# mes "When you click on the ^006400MAP^000000 button, a full sized map of Rune Midgards will take up your screen.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "When you click on the ^006400MAP^000000 button, a full sized map of Rune Midgards will take up your screen."
+msgstr ""
+
+# mes "When you ^0000FFHover your mouse over specific areas^000000, you can find out more things such as ^006400NAME^000000 and Area Details.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "When you ^0000FFHover your mouse over specific areas^000000, you can find out more things such as ^006400NAME^000000 and Area Details."
+msgstr ""
+
+# mes "If you look to the lower right side of your map, there is a ^006400Poring drawing^000000.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you look to the lower right side of your map, there is a ^006400Poring drawing^000000."
+msgstr ""
+
+# mes "If you click on it or press the ^006400TAB^000000 shortcut key, you will be able to various information.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you click on it or press the ^006400TAB^000000 shortcut key, you will be able to various information."
+msgstr ""
+
+# mes "Firstly, you can find out the ^006400NAME^000000 and ^006400LEVEL^000000 of the monsters in each area. That will take a lot of the guess work out of where you want to go hunt.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Firstly, you can find out the ^006400NAME^000000 and ^006400LEVEL^000000 of the monsters in each area. That will take a lot of the guess work out of where you want to go hunt."
+msgstr ""
+
+# mes "Secondly, You can locate various ^006400DUNGEON^000000s and their";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Secondly, You can locate various ^006400DUNGEON^000000s and their"
+msgstr ""
+
+# mes "^006400Entrance Location^000000. Plus, it'll also tell you monsters that reside in that area";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "^006400Entrance Location^000000. Plus, it'll also tell you monsters that reside in that area"
+msgstr ""
+
+# mes "along with their ^006400LEVEL^000000. It's displayed in red so it's easy to find.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "along with their ^006400LEVEL^000000. It's displayed in red so it's easy to find."
+msgstr ""
+
+# mes "If you want to stop looking at the map, there are 2 ways to do this.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "If you want to stop looking at the map, there are 2 ways to do this."
+msgstr ""
+
+# mes "You can press the shortcut keys which are ^006400CTRL + %^000000 or ^006400ESC^000000";
+#: npc/re/quests/eden/eden_tutorial.txt
+#, no-c-format
+msgctxt "Map Expert"
+msgid "You can press the shortcut keys which are ^006400CTRL + %^000000 or ^006400ESC^000000"
+msgstr ""
+
+# mes "Or at the top right of the map, there is a ^006400X^000000 button. Click that and you will return to your normal game screen.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Or at the top right of the map, there is a ^006400X^000000 button. Click that and you will return to your normal game screen."
+msgstr ""
+
+# mes "Currently, we cannot see places that are beyond Rune Midgards but it has been said that there are a lot of unknown worlds that exist in the beyond.";
+#: npc/re/quests/eden/eden_tutorial.txt
+msgctxt "Map Expert"
+msgid "Currently, we cannot see places that are beyond Rune Midgards but it has been said that there are a lot of unknown worlds that exist in the beyond."
+msgstr ""
+
