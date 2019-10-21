@@ -1,0 +1,3463 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:28\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/homun_s_txt.pot\n"
+
+# mes "[Viorel]";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "[Viorel]"
+msgstr ""
+
+# mes "Why are you here?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Why are you here?"
+msgstr ""
+
+# mes "Shouldn't you be at ^005DFFJeyna^000000's house?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Shouldn't you be at ^005DFFJeyna^000000's house?"
+msgstr ""
+
+# mes "I don't know what's going on, but the way I remember it you were supposed to be qualified to research ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I don't know what's going on, but the way I remember it you were supposed to be qualified to research ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "Whatever the reason, you're not able to continue the research on ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Whatever the reason, you're not able to continue the research on ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "Come back after you become a ^005DFFGenetic^000000 and have obtained a ^0000FFBioethics^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Come back after you become a ^005DFFGenetic^000000 and have obtained a ^0000FFBioethics^000000."
+msgstr ""
+
+# mes "Wait, that embryo you have seems a little strange.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Wait, that embryo you have seems a little strange."
+msgstr ""
+
+# mes "Unless you have a job researching ^FF4800Homunculus^000000....";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Unless you have a job researching ^FF4800Homunculus^000000...."
+msgstr ""
+
+# mes "It will be of no help to you what so ever.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "It will be of no help to you what so ever."
+msgstr ""
+
+# mes "I'm in charge of managing ^0000FFStrange Embryo^000000 so I'll take care of that for you.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I'm in charge of managing ^0000FFStrange Embryo^000000 so I'll take care of that for you."
+msgstr ""
+
+# mes "No offense, and I'm not doing anything bad here.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "No offense, and I'm not doing anything bad here."
+msgstr ""
+
+# mes "Weather's great.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Weather's great."
+msgstr ""
+
+# mes "Ready to go to my house?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Ready to go to my house?"
+msgstr ""
+
+# switch(select("Go to ^005DFFViorel^000000's house.", "Don't go.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Go to ^005DFFViorel^000000's house."
+msgstr ""
+
+# switch(select("Go to ^005DFFViorel^000000's house.", "Don't go.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Don't go."
+msgstr ""
+
+# mes "Good choice.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Good choice."
+msgstr ""
+
+# mes "Now, close your eyes for a second...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Now, close your eyes for a second..."
+msgstr ""
+
+# mes "Come back when you're ready.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Come back when you're ready."
+msgstr ""
+
+# mes "You must come with the ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "You must come with the ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "Now, ready to go to ^005DFFJeyna^000000?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Now, ready to go to ^005DFFJeyna^000000?"
+msgstr ""
+
+# switch(select("Go to ^005DFFJeyna^000000's room.", "Don't go.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Go to ^005DFFJeyna^000000's room."
+msgstr ""
+
+# mes "I used to be a merchant once, just like you.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I used to be a merchant once, just like you."
+msgstr ""
+
+# mes "I'm researching on ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I'm researching on ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "If you're interested in ^FF4800Homunculus^000000, become an ^005DFFAlchemist^000000 or a ^005DFFCreator^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "If you're interested in ^FF4800Homunculus^000000, become an ^005DFFAlchemist^000000 or a ^005DFFCreator^000000."
+msgstr ""
+
+# mes "I've spent lots of time and energy on Homunculus.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I've spent lots of time and energy on Homunculus."
+msgstr ""
+
+# mes "If you feel like you're at a dead end, come back next time with a ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "If you feel like you're at a dead end, come back next time with a ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "Oh. Of course you need to have the suitable potentials. You could probably prove yourself once you become a ^FF4800Genetic^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Oh. Of course you need to have the suitable potentials. You could probably prove yourself once you become a ^FF4800Genetic^000000."
+msgstr ""
+
+# mes "Oh, great~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Oh, great~!"
+msgstr ""
+
+# mes "You have a ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "You have a ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "With passion invested in its research we can make them better.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "With passion invested in its research we can make them better."
+msgstr ""
+
+# mes "I must speak to you in private. Would you mind going to my house with me?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I must speak to you in private. Would you mind going to my house with me?"
+msgstr ""
+
+# switch(select("Go to ^005DFFViorel^000000's home.", "Stay here.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Go to ^005DFFViorel^000000's home."
+msgstr ""
+
+# switch(select("Go to ^005DFFViorel^000000's home.", "Stay here.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Stay here."
+msgstr ""
+
+# mes "Hello again.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Hello again."
+msgstr ""
+
+# mes "Perhaps you may be interested";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Perhaps you may be interested"
+msgstr ""
+
+# mes "in the newly created ^FF4800Homunculus^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "in the newly created ^FF4800Homunculus^000000,"
+msgstr ""
+
+# mes "born from the new ^006400Homunculus Mutation System^000000?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "born from the new ^006400Homunculus Mutation System^000000?"
+msgstr ""
+
+# switch(select("Nope. Good bye.", "Please, I'm busy.", "That's exactly what I wanted to hear.", "Why are you always standing there?")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Nope. Good bye."
+msgstr ""
+
+# switch(select("Nope. Good bye.", "Please, I'm busy.", "That's exactly what I wanted to hear.", "Why are you always standing there?")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Please, I'm busy."
+msgstr ""
+
+# switch(select("Nope. Good bye.", "Please, I'm busy.", "That's exactly what I wanted to hear.", "Why are you always standing there?")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "That's exactly what I wanted to hear."
+msgstr ""
+
+# switch(select("Nope. Good bye.", "Please, I'm busy.", "That's exactly what I wanted to hear.", "Why are you always standing there?")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Why are you always standing there?"
+msgstr ""
+
+# mes "Okay.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Okay."
+msgstr ""
+
+# mes "Good seeing you.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Good seeing you."
+msgstr ""
+
+# mes "Good bye then~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Good bye then~!"
+msgstr ""
+
+# mes "!!!!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "!!!!"
+msgstr ""
+
+# mes "I... I see.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I... I see."
+msgstr ""
+
+# mes "I thought you were here to see me.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I thought you were here to see me."
+msgstr ""
+
+# mes "Just as I thought.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Just as I thought."
+msgstr ""
+
+# mes "Let's have a look at the notes my dear friend Jeyna left.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Let's have a look at the notes my dear friend Jeyna left."
+msgstr ""
+
+# mes "Hmm.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Hmm."
+msgstr ""
+
+# mes "Well, that's all there is to it.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Well, that's all there is to it."
+msgstr ""
+
+# mes "It's up to you to find out more.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "It's up to you to find out more."
+msgstr ""
+
+# mes "No, I do not stand here every day.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "No, I do not stand here every day."
+msgstr ""
+
+# mes "But why do YOU stand there every day?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "But why do YOU stand there every day?"
+msgstr ""
+
+# mes "What?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "What?"
+msgstr ""
+
+# mes "No, the way I see it";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "No, the way I see it"
+msgstr ""
+
+# mes "you seem to be here every time I'm here.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "you seem to be here every time I'm here."
+msgstr ""
+
+# mes "Hmm, you seem to have a special bond with your ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Hmm, you seem to have a special bond with your ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "Come back to me when that ^FF4800Homunculus^000000 reaches ^0000FFlevel 99^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Come back to me when that ^FF4800Homunculus^000000 reaches ^0000FFlevel 99^000000."
+msgstr ""
+
+# mes "You do not yet possess an evolved ^FF4800Homunculus^000000...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "You do not yet possess an evolved ^FF4800Homunculus^000000..."
+msgstr ""
+
+# mes "As you may well know about evolution:";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "As you may well know about evolution:"
+msgstr ""
+
+# mes "Using the ^0000FFStone of Sage^000000 when intimacy level is above ^006400Intimate^000000, the ^FF4800Homunculus^000000 goes through ^006400Evolution^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Using the ^0000FFStone of Sage^000000 when intimacy level is above ^006400Intimate^000000, the ^FF4800Homunculus^000000 goes through ^006400Evolution^000000."
+msgstr ""
+
+# mes "^FF4800Homunculus^000000 research requires a lot of time and funding.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "^FF4800Homunculus^000000 research requires a lot of time and funding."
+msgstr ""
+
+# mes "However, I believe passion is the most important factor.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "However, I believe passion is the most important factor."
+msgstr ""
+
+# switch(select("End conversation.", "What are you talking about?", "Why are you always standing there?")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "End conversation."
+msgstr ""
+
+# switch(select("End conversation.", "What are you talking about?", "Why are you always standing there?")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "What are you talking about?"
+msgstr ""
+
+# mes "So long~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "So long~!"
+msgstr ""
+
+# mes "You see, ^006400Alchemists^000000 have an inquisitive nature.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "You see, ^006400Alchemists^000000 have an inquisitive nature."
+msgstr ""
+
+# mes "People like me, especially, even think of creating life itself.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "People like me, especially, even think of creating life itself."
+msgstr ""
+
+# mes "You'd have to research ^FF4800Homunculus^000000 to understand.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "You'd have to research ^FF4800Homunculus^000000 to understand."
+msgstr ""
+
+# mes "Now, if you'll excuse me~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Now, if you'll excuse me~!"
+msgstr ""
+
+# mes "What, is it so strange to see an Alchemist in their own lab?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "What, is it so strange to see an Alchemist in their own lab?"
+msgstr ""
+
+# mes "How so?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "How so?"
+msgstr ""
+
+# mes "Huh?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Huh?"
+msgstr ""
+
+# mes "Where's the ^FF4800Homunculus^000000 you used to have?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Where's the ^FF4800Homunculus^000000 you used to have?"
+msgstr ""
+
+# mes "Perhaps I've mistaken it for something else...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Perhaps I've mistaken it for something else..."
+msgstr ""
+
+# mes ".......";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "......."
+msgstr ""
+
+# mes " ";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid " "
+msgstr ""
+
+# mes "(Seems to be thinking about something.)";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "(Seems to be thinking about something.)"
+msgstr ""
+
+# mes "Ha ha~";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "Ha ha~"
+msgstr ""
+
+# mes "I think I've mistaken you for someone else.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "I think I've mistaken you for someone else."
+msgstr ""
+
+# mes "If you'll excuse me.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#job3_gen01"
+msgid "If you'll excuse me."
+msgstr ""
+
+# mes "[Viorel]";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "[Viorel]"
+msgstr ""
+
+# mes "Good.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Good."
+msgstr ""
+
+# mes "I see that you mean business.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I see that you mean business."
+msgstr ""
+
+# mes "Maybe you'll agree.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Maybe you'll agree."
+msgstr ""
+
+# mes "Currently, your ^FF4800Homunculus^000000 is not in its perfect state.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Currently, your ^FF4800Homunculus^000000 is not in its perfect state."
+msgstr ""
+
+# mes "These days, studies on the growth of the ^FF4800Homunculus^000000 are actively taking place.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "These days, studies on the growth of the ^FF4800Homunculus^000000 are actively taking place."
+msgstr ""
+
+# mes "But, I do believe that I have found something special.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "But, I do believe that I have found something special."
+msgstr ""
+
+# mes "In order to break the current limitations of the ^FF4800Homunculus^000000, mutations need to happen.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "In order to break the current limitations of the ^FF4800Homunculus^000000, mutations need to happen."
+msgstr ""
+
+# switch(select("Like, biological experiments...?!", "Well, yeah, naturally.", "I don't want to hurt my Homunculus!")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Like, biological experiments...?!"
+msgstr ""
+
+# switch(select("Like, biological experiments...?!", "Well, yeah, naturally.", "I don't want to hurt my Homunculus!")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Well, yeah, naturally."
+msgstr ""
+
+# switch(select("Like, biological experiments...?!", "Well, yeah, naturally.", "I don't want to hurt my Homunculus!")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I don't want to hurt my Homunculus!"
+msgstr ""
+
+# mes "Don't look so surprised.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Don't look so surprised."
+msgstr ""
+
+# mes "Ethics in biology are kind of blurry right now, right?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Ethics in biology are kind of blurry right now, right?"
+msgstr ""
+
+# mes "I mean...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I mean..."
+msgstr ""
+
+# mes "It's my duty to study the true potential of the ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "It's my duty to study the true potential of the ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "So far, Homunculus haven't demonstrated their full potential, but I know that I am close to a breakthrough.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "So far, Homunculus haven't demonstrated their full potential, but I know that I am close to a breakthrough."
+msgstr ""
+
+# mes "Yes.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Yes."
+msgstr ""
+
+# mes "I'm glad you're not upset.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I'm glad you're not upset."
+msgstr ""
+
+# mes "Mutation,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Mutation,"
+msgstr ""
+
+# mes "a word that sparks evil in the minds of the ordinary,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "a word that sparks evil in the minds of the ordinary,"
+msgstr ""
+
+# mes "which made my research very difficult to proceed with.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "which made my research very difficult to proceed with."
+msgstr ""
+
+# mes "Do you remember?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Do you remember?"
+msgstr ""
+
+# mes "^005DFFKellasus^000000 of ^8B4513Lighthalzen^000000, the pioneer of ^FF4800Homunculus^000000 research.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "^005DFFKellasus^000000 of ^8B4513Lighthalzen^000000, the pioneer of ^FF4800Homunculus^000000 research."
+msgstr ""
+
+# mes "I believe that this research fulfills the promise made with ^005DFFKellasus^000000, the giver of knowledge and belief.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I believe that this research fulfills the promise made with ^005DFFKellasus^000000, the giver of knowledge and belief."
+msgstr ""
+
+# mes "I understand your concern.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I understand your concern."
+msgstr ""
+
+# mes "But I want to assure you that this Mutation does not harm or hurt your ^FF4800Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "But I want to assure you that this Mutation does not harm or hurt your ^FF4800Homunculus^000000."
+msgstr ""
+
+# mes "On the contrary, the ^FF4800Homunculus^000000 of today are in pain from imperfection, unable to live up to their supposed potentials.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "On the contrary, the ^FF4800Homunculus^000000 of today are in pain from imperfection, unable to live up to their supposed potentials."
+msgstr ""
+
+# mes "Moreover, those ^FF4800Homunculus^000000 were often abandoned.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Moreover, those ^FF4800Homunculus^000000 were often abandoned."
+msgstr ""
+
+# mes "Don't get me wrong, I study the ^FF4800Homunculus^000000 because I love them.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Don't get me wrong, I study the ^FF4800Homunculus^000000 because I love them."
+msgstr ""
+
+# mes "Well, by the way...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Well, by the way..."
+msgstr ""
+
+# mes "I have found this new mutation to be quite stable.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I have found this new mutation to be quite stable."
+msgstr ""
+
+# mes "^006400The technology exists,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "^006400The technology exists,"
+msgstr ""
+
+# mes "and they will likely have new";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "and they will likely have new"
+msgstr ""
+
+# mes "skills when mutated...^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "skills when mutated...^000000"
+msgstr ""
+
+# mes "The minor side effect...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "The minor side effect..."
+msgstr ""
+
+# mes "^006400Their appearance will change^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "^006400Their appearance will change^000000."
+msgstr ""
+
+# mes "But I think you'll find that pretty satisfying.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "But I think you'll find that pretty satisfying."
+msgstr ""
+
+# mes "I quote from ^005DFFKassibian^000000, an expert in ^FF4800Homunculus^000000 techniques,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I quote from ^005DFFKassibian^000000, an expert in ^FF4800Homunculus^000000 techniques,"
+msgstr ""
+
+# mes "^006400The truth is not in a single form~!^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "^006400The truth is not in a single form~!^000000"
+msgstr ""
+
+# mes "Ha ha.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Ha ha."
+msgstr ""
+
+# mes "I know it's a little abrupt, but...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I know it's a little abrupt, but..."
+msgstr ""
+
+# mes "How about changing your ^FF4800Homunculus^000000 into something incredible with my marvelous achievement, the ^006400Homunculus Mutation System^000000?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "How about changing your ^FF4800Homunculus^000000 into something incredible with my marvelous achievement, the ^006400Homunculus Mutation System^000000?"
+msgstr ""
+
+# switch(select("Explore the ^006400Homunculus Mutation System^000000.", "Cancel.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Explore the ^006400Homunculus Mutation System^000000."
+msgstr ""
+
+# switch(select("Explore the ^006400Homunculus Mutation System^000000.", "Cancel.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Cancel."
+msgstr ""
+
+# mes "Good choice.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Good choice."
+msgstr ""
+
+# mes "Success lurks outside the box of conventional thinking, right?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Success lurks outside the box of conventional thinking, right?"
+msgstr ""
+
+# mes "The first person to help with the research is ^005DFFJeyna^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "The first person to help with the research is ^005DFFJeyna^000000."
+msgstr ""
+
+# mes "I'll send you to ^005DFFJeyna^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I'll send you to ^005DFFJeyna^000000."
+msgstr ""
+
+# mes "There, you'll learn more about the new ^0000FFHomunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "There, you'll learn more about the new ^0000FFHomunculus^000000."
+msgstr ""
+
+# mes "I don't see why you hesitate.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I don't see why you hesitate."
+msgstr ""
+
+# mes "I am not trying to deceive you.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I am not trying to deceive you."
+msgstr ""
+
+# mes "Maybe you need some time to think about it?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Maybe you need some time to think about it?"
+msgstr ""
+
+# switch(select("Think about it.", "I'm just going to walk away.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Think about it."
+msgstr ""
+
+# switch(select("Think about it.", "I'm just going to walk away.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I'm just going to walk away."
+msgstr ""
+
+# mes "We'll talk in a bit then.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "We'll talk in a bit then."
+msgstr ""
+
+# mes "Shame.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Shame."
+msgstr ""
+
+# mes "However, I respect your opinion.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "However, I respect your opinion."
+msgstr ""
+
+# mes "I'll send you back to the ^8B4513Laboratory^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I'll send you back to the ^8B4513Laboratory^000000."
+msgstr ""
+
+# mes "The ^FF4800Homunculus^000000 I saw before has returned to its ^0000FFembryo^000000 state.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "The ^FF4800Homunculus^000000 I saw before has returned to its ^0000FFembryo^000000 state."
+msgstr ""
+
+# mes "A little strange, but...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "A little strange, but..."
+msgstr ""
+
+# mes "You don't have to worry about it.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "You don't have to worry about it."
+msgstr ""
+
+# mes "By the way...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "By the way..."
+msgstr ""
+
+# mes "I forgot to tell you something.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I forgot to tell you something."
+msgstr ""
+
+# mes "In order to stabilize the Mutation process, I need some materials first.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "In order to stabilize the Mutation process, I need some materials first."
+msgstr ""
+
+# mes "Fortunately, you don't have to find them yourself because I have them here already..";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Fortunately, you don't have to find them yourself because I have them here already.."
+msgstr ""
+
+# mes "But, I'll need ^FF000050,000 zeny^000000, you know, as a service fee.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "But, I'll need ^FF000050,000 zeny^000000, you know, as a service fee."
+msgstr ""
+
+# mes "I wish that I could do it for free but I'm not exactly made of money, you know.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I wish that I could do it for free but I'm not exactly made of money, you know."
+msgstr ""
+
+# mes "That and I lack any investors to support my research at the moment.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "That and I lack any investors to support my research at the moment."
+msgstr ""
+
+# mes "In fact, if I had enough zeny to continue my research, then I could solve a lot of my problems...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "In fact, if I had enough zeny to continue my research, then I could solve a lot of my problems..."
+msgstr ""
+
+# mes "Anyways, you can try to do this with or without the stabilization process. It's all up to you.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Anyways, you can try to do this with or without the stabilization process. It's all up to you."
+msgstr ""
+
+# mes "If you choose the unstable";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "If you choose the unstable"
+msgstr ""
+
+# mes "mutation, I can't guarentee what kind of Homunculus you're going to get.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "mutation, I can't guarentee what kind of Homunculus you're going to get."
+msgstr ""
+
+# mes "Anyways, it's up to you.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Anyways, it's up to you."
+msgstr ""
+
+# switch(select("Mutation stabilization (50,000 zeny)", "Unstable mutation")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Mutation stabilization (50,000 zeny)"
+msgstr ""
+
+# switch(select("Mutation stabilization (50,000 zeny)", "Unstable mutation")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Unstable mutation"
+msgstr ""
+
+# mes "I don't think you have ^FF000050 thousand Zeny^000000 with you right now.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I don't think you have ^FF000050 thousand Zeny^000000 with you right now."
+msgstr ""
+
+# mes "Please bring enough Zeny.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Please bring enough Zeny."
+msgstr ""
+
+# mes "I'll be waiting.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I'll be waiting."
+msgstr ""
+
+# mes "Want me to send you back to the ^8B4513Laboratory^000000?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Want me to send you back to the ^8B4513Laboratory^000000?"
+msgstr ""
+
+# switch(select("No thanks.", "Yes. Send me back to the Lab.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "No thanks."
+msgstr ""
+
+# switch(select("No thanks.", "Yes. Send me back to the Lab.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Yes. Send me back to the Lab."
+msgstr ""
+
+# mes "Alright.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Alright."
+msgstr ""
+
+# mes "I'll see you in a bit.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I'll see you in a bit."
+msgstr ""
+
+# mes "I'll be waiting at the ^8B4513Laboratory^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I'll be waiting at the ^8B4513Laboratory^000000."
+msgstr ""
+
+# mes "Choose from the different types of ^0000FFHomunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Choose from the different types of ^0000FFHomunculus^000000."
+msgstr ""
+
+# switch(select("Eira", "Sera", "Dieter", "Bayeri", "Eleanor")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Eira"
+msgstr ""
+
+# switch(select("Eira", "Sera", "Dieter", "Bayeri", "Eleanor")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Sera"
+msgstr ""
+
+# switch(select("Eira", "Sera", "Dieter", "Bayeri", "Eleanor")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Dieter"
+msgstr ""
+
+# switch(select("Eira", "Sera", "Dieter", "Bayeri", "Eleanor")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Bayeri"
+msgstr ""
+
+# switch(select("Eira", "Sera", "Dieter", "Bayeri", "Eleanor")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Eleanor"
+msgstr ""
+
+# mes "Are you sure?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Are you sure?"
+msgstr ""
+
+# if(select("Yes.", "No.") == 2) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "No."
+msgstr ""
+
+# mes "I see.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I see."
+msgstr ""
+
+# mes "Give it more time to think.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Give it more time to think."
+msgstr ""
+
+# mes "Excellent!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Excellent!"
+msgstr ""
+
+# mes "Let's get on with it.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Let's get on with it."
+msgstr ""
+
+# mes "Now focus~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Now focus~!"
+msgstr ""
+
+# mes "You... need...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "You... need..."
+msgstr ""
+
+# mes "... concentration.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "... concentration."
+msgstr ""
+
+# mes "Good. Almost done!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Good. Almost done!"
+msgstr ""
+
+# mes "So, your choice is the Unstable Mutation Process.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "So, your choice is the Unstable Mutation Process."
+msgstr ""
+
+# mes "You believe in destiny?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "You believe in destiny?"
+msgstr ""
+
+# mes "Seriously...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Seriously..."
+msgstr ""
+
+# mes "Do you really wish to proceed";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Do you really wish to proceed"
+msgstr ""
+
+# mes "with the process of random outcome?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "with the process of random outcome?"
+msgstr ""
+
+# if(select("Go ahead. (Random Mutation)", "Cancel.") == 2) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Go ahead. (Random Mutation)"
+msgstr ""
+
+# mes "Hmm...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Hmm..."
+msgstr ""
+
+# mes "The exploration of knowledge";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "The exploration of knowledge"
+msgstr ""
+
+# mes "is full of surprises.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "is full of surprises."
+msgstr ""
+
+# mes ".......";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "......."
+msgstr ""
+
+# mes "Hey, I feel like a Blacksmith!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Hey, I feel like a Blacksmith!"
+msgstr ""
+
+# mes "Now let's get on with it.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Now let's get on with it."
+msgstr ""
+
+# mes "Concentrate a little more!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Concentrate a little more!"
+msgstr ""
+
+# mes "Okay, Mutation Complete.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Okay, Mutation Complete."
+msgstr ""
+
+# mes "Phew... Didn't skip a heartbeat, did you?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Phew... Didn't skip a heartbeat, did you?"
+msgstr ""
+
+# mes "Remember what ^005DFFKellasus^000000 said?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Remember what ^005DFFKellasus^000000 said?"
+msgstr ""
+
+# mes "To the doorstep of the truth...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "To the doorstep of the truth..."
+msgstr ""
+
+# mes "We must see for ourselves";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "We must see for ourselves"
+msgstr ""
+
+# mes "the path that leads to it.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "the path that leads to it."
+msgstr ""
+
+# mes "^0000FF" + strcharinfo(PC_NAME) + "^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "^0000FF"
+msgstr ""
+
+# mes "I haven't known you";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I haven't known you"
+msgstr ""
+
+# mes "for a very long time,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "for a very long time,"
+msgstr ""
+
+# mes "but I get the feeling that";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "but I get the feeling that"
+msgstr ""
+
+# mes "you'll achieve great things.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "you'll achieve great things."
+msgstr ""
+
+# mes "Good luck on you adventures.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Good luck on you adventures."
+msgstr ""
+
+# mes "I hope that your new ^FF4800Homunculus^000000 will excel under your care.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I hope that your new ^FF4800Homunculus^000000 will excel under your care."
+msgstr ""
+
+# mes "And don't you forget.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "And don't you forget."
+msgstr ""
+
+# mes "Our research";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Our research"
+msgstr ""
+
+# mes "has only just begun~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "has only just begun~!"
+msgstr ""
+
+# mes "Now that all the work is done, I ask you to take your leave.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "Now that all the work is done, I ask you to take your leave."
+msgstr ""
+
+# mes "I need to recuperate.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Viorel#homun_s"
+msgid "I need to recuperate."
+msgstr ""
+
+# mes "[Jeyna]";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "[Jeyna]"
+msgstr ""
+
+# mes "Welcome.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Welcome."
+msgstr ""
+
+# mes "I just got word from ^005DFFViorel^000000 that you were coming.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "I just got word from ^005DFFViorel^000000 that you were coming."
+msgstr ""
+
+# mes "By the way...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "By the way..."
+msgstr ""
+
+# mes "Did he convince you to do something...?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Did he convince you to do something...?"
+msgstr ""
+
+# mes "He does have a way with words.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "He does have a way with words."
+msgstr ""
+
+# mes "He needs them because Alchemists are such awkward people.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "He needs them because Alchemists are such awkward people."
+msgstr ""
+
+# mes "Anyways~";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Anyways~"
+msgstr ""
+
+# mes "^0000FF"+strcharinfo(PC_NAME)+"^000000 and ^005DFFViorel^000000 seem like two peas in a pod.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "^0000FF"
+msgstr ""
+
+# mes "Hahaha~ No offense.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Hahaha~ No offense."
+msgstr ""
+
+# mes "I think it's a good thing.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "I think it's a good thing."
+msgstr ""
+
+# mes "Oh, yes.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Oh, yes."
+msgstr ""
+
+# mes "You're here for the ^FF4800Homunculus^000000 Mutation.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "You're here for the ^FF4800Homunculus^000000 Mutation."
+msgstr ""
+
+# mes "While I do some preparation,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "While I do some preparation,"
+msgstr ""
+
+# mes "why don't you take a look at that board?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "why don't you take a look at that board?"
+msgstr ""
+
+# mes "The ^006400Homunculus Mutation System^000000 has ^0000FF5 different types^000000 of new mutations.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "The ^006400Homunculus Mutation System^000000 has ^0000FF5 different types^000000 of new mutations."
+msgstr ""
+
+# mes "Your ^FF4800Homunculus^000000 can mutate into any of the 5 different forms.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Your ^FF4800Homunculus^000000 can mutate into any of the 5 different forms."
+msgstr ""
+
+# mes "Let's see...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Let's see..."
+msgstr ""
+
+# mes "The ^006400Homunculus Mutation System^000000 includes new evolutions of the normal ^0000FFHomunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "The ^006400Homunculus Mutation System^000000 includes new evolutions of the normal ^0000FFHomunculus^000000."
+msgstr ""
+
+# mes "After they mutate, all previously learned skills will also remain.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "After they mutate, all previously learned skills will also remain."
+msgstr ""
+
+# mes "In other words...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "In other words..."
+msgstr ""
+
+# mes "Even if you change the magic wielder ^FF4800Vanilmirth^000000 to a fighter type,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Even if you change the magic wielder ^FF4800Vanilmirth^000000 to a fighter type,"
+msgstr ""
+
+# mes "skills such as Caprice will be";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "skills such as Caprice will be"
+msgstr ""
+
+# mes "^006400retained and usable even after Mutation^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "^006400retained and usable even after Mutation^000000."
+msgstr ""
+
+# mes "Take a look at the Magic Board behind me and decide for yourself.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Take a look at the Magic Board behind me and decide for yourself."
+msgstr ""
+
+# mes "Take a look at the board behind me, on the right.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Take a look at the board behind me, on the right."
+msgstr ""
+
+# mes "Okay, I'm ready too.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Okay, I'm ready too."
+msgstr ""
+
+# mes "In order to revert the process now, I need the Homunculus in its embryo form.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "In order to revert the process now, I need the Homunculus in its embryo form."
+msgstr ""
+
+# mes "But,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "But,"
+msgstr ""
+
+# mes "You don't have enough space to carry an ^0000FFembryo^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "You don't have enough space to carry an ^0000FFembryo^000000."
+msgstr ""
+
+# mes "Please come back with enough space in your bag.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Please come back with enough space in your bag."
+msgstr ""
+
+# mes "Please return to the ^8B4513Laboratory^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Please return to the ^8B4513Laboratory^000000."
+msgstr ""
+
+# mes "You can find ^005DFFViorel^000000 at the ^8B4513Laboratory^000000 once you empty your bag.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "You can find ^005DFFViorel^000000 at the ^8B4513Laboratory^000000 once you empty your bag."
+msgstr ""
+
+# mes "When you're done with emptying your bag, ask ^005DFFViorel^000000 to send you back here.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "When you're done with emptying your bag, ask ^005DFFViorel^000000 to send you back here."
+msgstr ""
+
+# mes "Go on and empty your bag~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Go on and empty your bag~!"
+msgstr ""
+
+# mes "Now's about time for a decision.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Now's about time for a decision."
+msgstr ""
+
+# mes "To go through the Mutation to the new ^0000FFHomunculus^000000 with the Homunculus Mutation System,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "To go through the Mutation to the new ^0000FFHomunculus^000000 with the Homunculus Mutation System,"
+msgstr ""
+
+# mes "you need to go through the process of regression to turn the Homunculus back to its ^0000FFembryo^000000 state.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "you need to go through the process of regression to turn the Homunculus back to its ^0000FFembryo^000000 state."
+msgstr ""
+
+# mes "And...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "And..."
+msgstr ""
+
+# mes "^006400You cannot use the ability Call Homunculus until the process is complete.^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "^006400You cannot use the ability Call Homunculus until the process is complete.^000000"
+msgstr ""
+
+# mes "It won't take long, so don't wander off.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "It won't take long, so don't wander off."
+msgstr ""
+
+# mes "So, please decide.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "So, please decide."
+msgstr ""
+
+# mes "Do you want to proceed with the new ^0000FFHomunculus Mutation System^000000?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Do you want to proceed with the new ^0000FFHomunculus Mutation System^000000?"
+msgstr ""
+
+# switch(select("Yes, I do.", "I need to think more.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Yes, I do."
+msgstr ""
+
+# switch(select("Yes, I do.", "I need to think more.")) {
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "I need to think more."
+msgstr ""
+
+# mes "Oh, wait a minute.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Oh, wait a minute."
+msgstr ""
+
+# mes "To proceed with the Mutation, you need to wake up the Homunculus from the state of Vaporization.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "To proceed with the Mutation, you need to wake up the Homunculus from the state of Vaporization."
+msgstr ""
+
+# mes "Come back after you've done that.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Come back after you've done that."
+msgstr ""
+
+# mes "Good thinking.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Good thinking."
+msgstr ""
+
+# mes "It is unacceptable for Alchemists like us to fear challenge.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "It is unacceptable for Alchemists like us to fear challenge."
+msgstr ""
+
+# mes "Now I need you to focus.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Now I need you to focus."
+msgstr ""
+
+# mes "We need to...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "We need to..."
+msgstr ""
+
+# mes "Stabilize a little more.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Stabilize a little more."
+msgstr ""
+
+# mes ".......";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "......."
+msgstr ""
+
+# mes "In a few moments, the ^FF4800Homunculus^000000 will return to its embryo state.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "In a few moments, the ^FF4800Homunculus^000000 will return to its embryo state."
+msgstr ""
+
+# mes "Into a special embryo...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Into a special embryo..."
+msgstr ""
+
+# mes "Phew~ All done.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Phew~ All done."
+msgstr ""
+
+# mes "Hmm, its state is a little strange.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Hmm, its state is a little strange."
+msgstr ""
+
+# mes "I guess it'll be just fine.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "I guess it'll be just fine."
+msgstr ""
+
+# mes "Don't lose that ^0000FFStrange Embryo^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Don't lose that ^0000FFStrange Embryo^000000."
+msgstr ""
+
+# mes "Also...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Also..."
+msgstr ""
+
+# mes "Don't do anything like changing jobs or anything like that before the process is over.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Don't do anything like changing jobs or anything like that before the process is over."
+msgstr ""
+
+# mes "If so, you, ^0000FF"+strcharinfo(PC_NAME)+"^000000 might lose all the abilities you have over the Homunculus.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "If so, you, ^0000FF"
+msgstr ""
+
+# mes "All that concentration made me tired.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "All that concentration made me tired."
+msgstr ""
+
+# mes "I'll just take a glass of water.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "I'll just take a glass of water."
+msgstr ""
+
+# mes "Maybe I shouldn't have asked in the first place.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Maybe I shouldn't have asked in the first place."
+msgstr ""
+
+# mes "^005DFFViorel^000000 will finish the mutation process.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "^005DFFViorel^000000 will finish the mutation process."
+msgstr ""
+
+# mes "Now it's my time to say good bye.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Now it's my time to say good bye."
+msgstr ""
+
+# mes "It was short, but it was nice to meet you.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "It was short, but it was nice to meet you."
+msgstr ""
+
+# mes "We'll see each other again some time.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "We'll see each other again some time."
+msgstr ""
+
+# mes "Best of luck~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Best of luck~!"
+msgstr ""
+
+# mes "Hey, how did you get in here?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Hey, how did you get in here?"
+msgstr ""
+
+# mes "Please get out. I'm changing~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Please get out. I'm changing~!"
+msgstr ""
+
+# mes "Hey, wait.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Hey, wait."
+msgstr ""
+
+# mes "The condition of the ^FF4800Homunculus^000000 is not suitable.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "The condition of the ^FF4800Homunculus^000000 is not suitable."
+msgstr ""
+
+# mes "That was close.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "That was close."
+msgstr ""
+
+# mes "To use the Homunculus Mutation System";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "To use the Homunculus Mutation System"
+msgstr ""
+
+# mes "to change to the new";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "to change to the new"
+msgstr ""
+
+# mes "^FF4800Homunculus^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "^FF4800Homunculus^000000,"
+msgstr ""
+
+# mes "the ^006400Homunculus must be above level 99 and evolved^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "the ^006400Homunculus must be above level 99 and evolved^000000."
+msgstr ""
+
+# mes "Come back to ^005DFFViorel^000000 when you're ready.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "Come back to ^005DFFViorel^000000 when you're ready."
+msgstr ""
+
+# mes "I'll see you later then~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Jeyna#homun_s"
+msgid "I'll see you later then~!"
+msgstr ""
+
+# mes ":: ^0000FFHomunculus^000000 research is";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid ":: ^0000FFHomunculus^000000 research is"
+msgstr ""
+
+# mes ":: so much fun.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid ":: so much fun."
+msgstr ""
+
+# mes ":: Be an Alchemist";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid ":: Be an Alchemist"
+msgstr ""
+
+# mes ":: who always enjoys";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid ":: who always enjoys"
+msgstr ""
+
+# mes ":: one's research.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid ":: one's research."
+msgstr ""
+
+# mes ":: Oh, and Viorel...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid ":: Oh, and Viorel..."
+msgstr ""
+
+# mes ":: About what you said";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid ":: About what you said"
+msgstr ""
+
+# mes ":: yesterday...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid "::  yesterday..."
+msgstr ""
+
+# mes "::";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid "::"
+msgstr ""
+
+# mes "--------------------------";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid "--------------------------"
+msgstr ""
+
+# mes "The rest is sealed because it seems to be a private message.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Magic Board#homun_s"
+msgid "The rest is sealed because it seems to be a private message."
+msgstr ""
+
+# mes ":: The ability of the mutated";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: The ability of the mutated"
+msgstr ""
+
+# mes ":: ^0000FFHomunculus^000000 clearly goes";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFHomunculus^000000 clearly goes"
+msgstr ""
+
+# mes ":: beyond the previous state.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: beyond the previous state."
+msgstr ""
+
+# mes ":: In addition, its appearance";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: In addition, its appearance"
+msgstr ""
+
+# mes ":: will evolve as well.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: will evolve as well."
+msgstr ""
+
+# mes ":: ^0000FFHomunculus^000000 appearances of the";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFHomunculus^000000 appearances of the"
+msgstr ""
+
+# mes ":: new types can be classified";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: new types can be classified"
+msgstr ""
+
+# mes ":: based on different species.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: based on different species."
+msgstr ""
+
+# mes ":: Creatures of the same species";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Creatures of the same species"
+msgstr ""
+
+# mes ":: generally have a similar";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: generally have a similar"
+msgstr ""
+
+# mes ":: appearance.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: appearance."
+msgstr ""
+
+# mes ":: The category, appearance and";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: The category, appearance and"
+msgstr ""
+
+# mes ":: ability of the ^0000FFHomunculus^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ability of the ^0000FFHomunculus^000000"
+msgstr ""
+
+# mes ":: via the Homunculus Mutation";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: via the Homunculus Mutation"
+msgstr ""
+
+# mes ":: System are as follows:";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: System are as follows:"
+msgstr ""
+
+# mes ":: The first of the five";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: The first of the five"
+msgstr ""
+
+# mes ":: is called ^FF4800Eira^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: is called ^FF4800Eira^000000."
+msgstr ""
+
+# mes ":: Beautiful and graceful.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Beautiful and graceful."
+msgstr ""
+
+# mes ":: ^FF4800Eira^000000 uses";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Eira^000000 uses"
+msgstr ""
+
+# mes ":: ^006400Wind Element^000000 Magic Attacks and";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^006400Wind Element^000000 Magic Attacks and"
+msgstr ""
+
+# mes ":: Support Skills.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Support Skills."
+msgstr ""
+
+# mes ":: It even has the ability";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: It even has the ability"
+msgstr ""
+
+# mes ":: to revive its";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: to revive its"
+msgstr ""
+
+# mes ":: fallen master.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: fallen master."
+msgstr ""
+
+# mes ":: ^FF4800Eira^000000 eats";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Eira^000000 eats"
+msgstr ""
+
+# mes ":: ^0000FFSmall Snow Flower^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFSmall Snow Flower^000000."
+msgstr ""
+
+# mes ":: Surprising how it survives on";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Surprising how it survives on"
+msgstr ""
+
+# mes ":: such a small amount.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: such a small amount."
+msgstr ""
+
+# mes ":: ^0000FFSmall Snow Flower^000000 can be bought";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFSmall Snow Flower^000000 can be bought"
+msgstr ""
+
+# mes ":: from ^005DFFTaming Merchants^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: from ^005DFFTaming Merchants^000000."
+msgstr ""
+
+# mes ":: The second of the five";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: The second of the five"
+msgstr ""
+
+# mes ":: is known as ^FF4800Sera^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: is known as ^FF4800Sera^000000."
+msgstr ""
+
+# mes ":: It looks just like ^FF0000Mistress^000000 but";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: It looks just like ^FF0000Mistress^000000 but"
+msgstr ""
+
+# mes ":: it doesn't run away.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: it doesn't run away."
+msgstr ""
+
+# mes ":: ^FF4800Sera^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Sera^000000"
+msgstr ""
+
+# mes ":: specializes in ^006400Poison Attacks^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: specializes in ^006400Poison Attacks^000000."
+msgstr ""
+
+# mes ":: Also, it uses distinct";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Also, it uses distinct"
+msgstr ""
+
+# mes ":: Support Skills using poisons.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Support Skills using poisons."
+msgstr ""
+
+# mes ":: ^FF4800Sera^000000 eats";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Sera^000000 eats"
+msgstr ""
+
+# mes ":: ^0000FFApple Pudding^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFApple Pudding^000000."
+msgstr ""
+
+# mes ":: It prefers sweet food.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: It prefers sweet food."
+msgstr ""
+
+# mes ":: ^0000FFApple Pudding^000000 can be bought";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFApple Pudding^000000 can be bought"
+msgstr ""
+
+# mes ":: The third of the five";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: The third of the five"
+msgstr ""
+
+# mes ":: is ^FF4800Dieter^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: is ^FF4800Dieter^000000."
+msgstr ""
+
+# mes ":: It looks unusual but it";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: It looks unusual but it"
+msgstr ""
+
+# mes ":: has a good demeanor.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: has a good demeanor."
+msgstr ""
+
+# mes ":: ^FF4800Dieter^000000 uses";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Dieter^000000 uses"
+msgstr ""
+
+# mes ":: ^FF0000Fire^000000 based Attacks and";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF0000Fire^000000 based Attacks and"
+msgstr ""
+
+# mes ":: It is just as fragile...";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: It is just as fragile..."
+msgstr ""
+
+# mes ":: ah, reliable, as it looks.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ah, reliable, as it looks."
+msgstr ""
+
+# mes ":: ^FF4800Dieter^000000 eats";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Dieter^000000 eats"
+msgstr ""
+
+# mes ":: ^0000FFBig Cell^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFBig Cell^000000."
+msgstr ""
+
+# mes ":: ^0000FFBig Cell^000000 can be bought";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFBig Cell^000000 can be bought"
+msgstr ""
+
+# mes ":: The fourth of the five";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: The fourth of the five"
+msgstr ""
+
+# mes ":: is ^FF4800Bayeri^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: is ^FF4800Bayeri^000000."
+msgstr ""
+
+# mes ":: Bayeri has the form of a";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Bayeri has the form of a"
+msgstr ""
+
+# mes ":: unicorn.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: unicorn."
+msgstr ""
+
+# mes ":: It has a powerful dash skill";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: It has a powerful dash skill"
+msgstr ""
+
+# mes ":: and uses ^006400Holy Element^000000 magic.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: and uses ^006400Holy Element^000000 magic."
+msgstr ""
+
+# mes ":: Unfortunately,";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Unfortunately,"
+msgstr ""
+
+# mes ":: they won't let you ride them.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: they won't let you ride them."
+msgstr ""
+
+# mes ":: Not all four-legged creatures";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Not all four-legged creatures"
+msgstr ""
+
+# mes ":: can be ridden.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: can be ridden."
+msgstr ""
+
+# mes ":: ^FF4800Bayeri^000000 eats";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Bayeri^000000 eats"
+msgstr ""
+
+# mes ":: ^0000FFFresh Plant^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFFresh Plant^000000."
+msgstr ""
+
+# mes ":: No matter how hungry it";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: No matter how hungry it"
+msgstr ""
+
+# mes ":: never feeds on rotten greens.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: never feeds on rotten greens."
+msgstr ""
+
+# mes ":: ^0000FFFresh Plant^000000 can be bought";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFFresh Plant^000000 can be bought"
+msgstr ""
+
+# mes ":: The last of the five";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: The last of the five"
+msgstr ""
+
+# mes ":: is ^FF4800Eleanor^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: is ^FF4800Eleanor^000000."
+msgstr ""
+
+# mes ":: It has a feminine appearance";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: It has a feminine appearance"
+msgstr ""
+
+# mes ":: and outstanding physical skill.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: and outstanding physical skill."
+msgstr ""
+
+# mes ":: ^FF4800Eleanor^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Eleanor^000000"
+msgstr ""
+
+# mes ":: uses ^006400Strike or Grapple Attacks^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: uses ^006400Strike or Grapple Attacks^000000"
+msgstr ""
+
+# mes ":: sequentially in battle.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: sequentially in battle."
+msgstr ""
+
+# mes ":: Absolutely stunning.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Absolutely stunning."
+msgstr ""
+
+# mes ":: ^FF4800Eleanor^000000 eats";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^FF4800Eleanor^000000 eats"
+msgstr ""
+
+# mes ":: ^0000FFKid's Dumpling^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFKid's Dumpling^000000."
+msgstr ""
+
+# mes ":: Don't confuse it with a normal";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: Don't confuse it with a normal"
+msgstr ""
+
+# mes ":: dumpling.";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: dumpling."
+msgstr ""
+
+# mes ":: ^0000FFKid's Dumpling^000000 can be bought";
+#: npc/re/quests/homun_s.txt
+msgctxt "F_HomMutateInfo"
+msgid ":: ^0000FFKid's Dumpling^000000 can be bought"
+msgstr ""
+
+# mes "[Bookcase Notes]";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "[Bookcase Notes]"
+msgstr ""
+
+# mes "Insanity and Genius are the same in concept in that they are both abnormal phenomenon.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Insanity and Genius are the same in concept in that they are both abnormal phenomenon."
+msgstr ""
+
+# mes "Observing the chemist ^005DFFMorgenstein^000000 of ^8B4513Geffen^000000, I consider them equal.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Observing the chemist ^005DFFMorgenstein^000000 of ^8B4513Geffen^000000, I consider them equal."
+msgstr ""
+
+# mes "Once I had to visit...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Once I had to visit..."
+msgstr ""
+
+# mes "the strange ^005DFFMorgenstein^000000 for research purposes.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "the strange ^005DFFMorgenstein^000000 for research purposes."
+msgstr ""
+
+# mes "I had a meat stew before I met ^005DFFMorgenstein^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I had a meat stew before I met ^005DFFMorgenstein^000000,"
+msgstr ""
+
+# mes "surprisingly enough, he muttered that he smelled meat even before I was close.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "surprisingly enough, he muttered that he smelled meat even before I was close."
+msgstr ""
+
+# mes "I never thought that chemists had a great sense of smell.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I never thought that chemists had a great sense of smell."
+msgstr ""
+
+# mes "The next time I give";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "The next time I give"
+msgstr ""
+
+# mes "^005DFFMorgenstein^000000 a visit,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "^005DFFMorgenstein^000000 a visit,"
+msgstr ""
+
+# mes "I'll eat some other meal.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I'll eat some other meal."
+msgstr ""
+
+# mes "^005DFFDe Bris^000000 thinks the enthusiasm of Alchemists has lately dropped <Dramatically>...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "^005DFFDe Bris^000000 thinks the enthusiasm of Alchemists has lately dropped <Dramatically>..."
+msgstr ""
+
+# mes "He especially didn't like the fact that I was bound tightly to ^FF4800Homunculus^000000 research.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "He especially didn't like the fact that I was bound tightly to ^FF4800Homunculus^000000 research."
+msgstr ""
+
+# mes "He didn't say such a thing when we studied together in ^8B4513Rune Midgarts^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "He didn't say such a thing when we studied together in ^8B4513Rune Midgarts^000000."
+msgstr ""
+
+# mes "One day, I'll show ^005DFFDe Bris^000000 my ^FF4800Homunculus^000000 research data.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "One day, I'll show ^005DFFDe Bris^000000 my ^FF4800Homunculus^000000 research data."
+msgstr ""
+
+# mes "I love watching him jump out of his skin.... I look forward to the day.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I love watching him jump out of his skin.... I look forward to the day."
+msgstr ""
+
+# mes "^005DFFDe Bris^000000' passion for the ^57007FGenetic^000000 arts is amazing.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "^005DFFDe Bris^000000' passion for the ^57007FGenetic^000000 arts is amazing."
+msgstr ""
+
+# mes "Recently, the Alchemist Union offered me the chance to join the ^57007FGenetic^000000 through a letter.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Recently, the Alchemist Union offered me the chance to join the ^57007FGenetic^000000 through a letter."
+msgstr ""
+
+# mes "I wonder what ^005DFFDe Bris^000000 said to the union...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I wonder what ^005DFFDe Bris^000000 said to the union..."
+msgstr ""
+
+# mes "Well, I appreciate it...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Well, I appreciate it..."
+msgstr ""
+
+# mes "However, for me right now";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "However, for me right now"
+msgstr ""
+
+# mes "my research is of utmost priority.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "my research is of utmost priority."
+msgstr ""
+
+# mes "There's something funny ^005DFFDarcia^000000 said to me.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "There's something funny ^005DFFDarcia^000000 said to me."
+msgstr ""
+
+# mes "It was about when ^005DFFJeyna^000000 first came to learn about potion combination......";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "It was about when ^005DFFJeyna^000000 first came to learn about potion combination......"
+msgstr ""
+
+# mes "She did good up to the stage of pouring water into the mixture.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "She did good up to the stage of pouring water into the mixture."
+msgstr ""
+
+# mes "She just had to put it into an empty bottle...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "She just had to put it into an empty bottle..."
+msgstr ""
+
+# mes "^005DFFDarcia^000000 watched what she would do with the last stage,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "^005DFFDarcia^000000 watched what she would do with the last stage,"
+msgstr ""
+
+# mes "and the confused ^005DFFJeyna^000000 drank the mixture out of the bowl and told her that it healed well.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "and the confused ^005DFFJeyna^000000 drank the mixture out of the bowl and told her that it healed well."
+msgstr ""
+
+# mes "To think that even ^005DFFJeyna^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "To think that even ^005DFFJeyna^000000,"
+msgstr ""
+
+# mes "now a master of potion combination,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "now a master of potion combination,"
+msgstr ""
+
+# mes "had her rookie mistakes";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "had her rookie mistakes"
+msgstr ""
+
+# mes "shows how hard it is to imagine";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "shows how hard it is to imagine"
+msgstr ""
+
+# mes "and forecast one's past and future.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "and forecast one's past and future."
+msgstr ""
+
+# mes "^005DFFVincent^000000, I think I did it.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "^005DFFVincent^000000, I think I did it."
+msgstr ""
+
+# mes "I will never forget your words of courage ";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I will never forget your words of courage "
+msgstr ""
+
+# mes "and I am grateful that I now get to pay you back.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "and I am grateful that I now get to pay you back."
+msgstr ""
+
+# mes "It was indeed a long process.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "It was indeed a long process."
+msgstr ""
+
+# mes "When many of the union";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "When many of the union"
+msgstr ""
+
+# mes "considered my research insignificant";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "considered my research insignificant"
+msgstr ""
+
+# mes "... Though I did not lose my belief";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "... Though I did not lose my belief"
+msgstr ""
+
+# mes "it did heart deep inside.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "it did heart deep inside."
+msgstr ""
+
+# mes "The few friends who believed me";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "The few friends who believed me"
+msgstr ""
+
+# mes "especially ^005DFFJeyna^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "especially ^005DFFJeyna^000000"
+msgstr ""
+
+# mes "and you ^005DFFVincent^000000 ...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "and you ^005DFFVincent^000000 ..."
+msgstr ""
+
+# mes "I am sincerely thankful with all my soul.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I am sincerely thankful with all my soul."
+msgstr ""
+
+# mes "They say that,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "They say that,"
+msgstr ""
+
+# mes "the end justifies the means.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "the end justifies the means."
+msgstr ""
+
+# mes "At first,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "At first,"
+msgstr ""
+
+# mes "I did not know what it meant...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I did not know what it meant..."
+msgstr ""
+
+# mes "Now I know.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Now I know."
+msgstr ""
+
+# mes "I know how important it is";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I know how important it is"
+msgstr ""
+
+# mes "to follow one's heart.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "to follow one's heart."
+msgstr ""
+
+# mes "I'll drop by very soon.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I'll drop by very soon."
+msgstr ""
+
+# mes "Be well until then.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Be well until then."
+msgstr ""
+
+# mes "A game called ^0000FFThe Epic Battle 2^000000, similar to chess, was intriguing.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "A game called ^0000FFThe Epic Battle 2^000000, similar to chess, was intriguing."
+msgstr ""
+
+# mes "Some time ago, I met a ^0000FFFruit Seller^000000 who excelled in The Epic Battle 2.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "Some time ago, I met a ^0000FFFruit Seller^000000 who excelled in The Epic Battle 2."
+msgstr ""
+
+# mes "He even overcame the infamous ^006400Grizzly Shockwave Strategy^000000 and ^006400God of Death Terror^000000 with ease.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "He even overcame the infamous ^006400Grizzly Shockwave Strategy^000000 and ^006400God of Death Terror^000000 with ease."
+msgstr ""
+
+# mes "To overcome those in the early stages of the battle of the ^0000FFPriest Faction^000000...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "To overcome those in the early stages of the battle of the ^0000FFPriest Faction^000000..."
+msgstr ""
+
+# mes "It is difficult for me, since I need to combine the pieces and use some luring skills.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "It is difficult for me, since I need to combine the pieces and use some luring skills."
+msgstr ""
+
+# mes "I wonder when I'll become a 3 Carat Diamond level player.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "I wonder when I'll become a 3 Carat Diamond level player."
+msgstr ""
+
+# mes "There are many Alchemists who like the ^FF4800Vanilmirth^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "There are many Alchemists who like the ^FF4800Vanilmirth^000000."
+msgstr ""
+
+# mes "But I prefer the ^FF4800Amistr^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "But I prefer the ^FF4800Amistr^000000."
+msgstr ""
+
+# mes "It's cute when it wags its tale with those shiny eyes.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "It's cute when it wags its tale with those shiny eyes."
+msgstr ""
+
+# mes "My Amistr Jonathan is clever and mellow, making it ever so lovable.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "My Amistr Jonathan is clever and mellow, making it ever so lovable."
+msgstr ""
+
+# mes "We're good friends, aren't we Jonathan?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#01homun_s"
+msgid "We're good friends, aren't we Jonathan?"
+msgstr ""
+
+# mes "[Bookcase Notes]";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "[Bookcase Notes]"
+msgstr ""
+
+# mes "What should I write to ^005DFFDe Bris^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "What should I write to ^005DFFDe Bris^000000."
+msgstr ""
+
+# mes ":: To my noted ";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: To my noted "
+msgstr ""
+
+# mes ":: Genetic friend De Bris.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: Genetic friend De Bris."
+msgstr ""
+
+# mes ":: How's Lighthalzen?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: How's Lighthalzen?"
+msgstr ""
+
+# mes ":: Do they have enough of those";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: Do they have enough of those"
+msgstr ""
+
+# mes ":: cookies you oh so love?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: cookies you oh so love?"
+msgstr ""
+
+# mes ":: I'll drop by soon";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: I'll drop by soon"
+msgstr ""
+
+# mes ":: with some cookies.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: with some cookies."
+msgstr ""
+
+# mes ":: When we meet,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: When we meet,"
+msgstr ""
+
+# mes ":: I'll introduce you to my";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: I'll introduce you to my"
+msgstr ""
+
+# mes ":: ^006400New Homunculus^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: ^006400New Homunculus^000000."
+msgstr ""
+
+# mes ":: No need to be alert.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: No need to be alert."
+msgstr ""
+
+# mes ":: Unlike you,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: Unlike you,"
+msgstr ""
+
+# mes ":: they aren't interested in ";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: they aren't interested in "
+msgstr ""
+
+# mes ":: what others have to eat.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: what others have to eat."
+msgstr ""
+
+# mes ":: I'll see you soon~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: I'll see you soon~!"
+msgstr ""
+
+# mes ":: Dare close the door on me.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid ":: Dare close the door on me."
+msgstr ""
+
+# mes "The last time I visited the Alchemist Union, there was an interesting debate on the table.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The last time I visited the Alchemist Union, there was an interesting debate on the table."
+msgstr ""
+
+# mes "I think it was something to do with ^006400Negligence of Homunculus in public places^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "I think it was something to do with ^006400Negligence of Homunculus in public places^000000."
+msgstr ""
+
+# mes "While the master dozed off,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "While the master dozed off,"
+msgstr ""
+
+# mes "one of the ^FF4800Homunculus^000000 off its leash";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "one of the ^FF4800Homunculus^000000 off its leash"
+msgstr ""
+
+# mes "caused some sort of problem.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "caused some sort of problem."
+msgstr ""
+
+# mes "I will make sure that my Homunculus Jonathan...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "I will make sure that my Homunculus Jonathan..."
+msgstr ""
+
+# mes "is trained well not to cause trouble around other people.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "is trained well not to cause trouble around other people."
+msgstr ""
+
+# mes "There's a new toy me and ^005DFFJeyna^000000 have grown fond of.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "There's a new toy me and ^005DFFJeyna^000000 have grown fond of."
+msgstr ""
+
+# mes "It's relatively new,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "It's relatively new,"
+msgstr ""
+
+# mes "called... ^0000FF'Helo'^000000, I think?";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "called... ^0000FF'Helo'^000000, I think?"
+msgstr ""
+
+# mes "There was a related song to it, sung by some ^57007FMinstrel^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "There was a related song to it, sung by some ^57007FMinstrel^000000."
+msgstr ""
+
+# mes "The lyrics were something like ^006400'Ahhh~Ahh~Ahhhhhhhh'^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The lyrics were something like ^006400'Ahhh~Ahh~Ahhhhhhhh'^000000."
+msgstr ""
+
+# mes "The entertainment itself is fun,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The entertainment itself is fun,"
+msgstr ""
+
+# mes "but the music is also excellent,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "but the music is also excellent,"
+msgstr ""
+
+# mes "and when I listen to it";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "and when I listen to it"
+msgstr ""
+
+# mes "it feels like my SP is restored significantly.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "it feels like my SP is restored significantly."
+msgstr ""
+
+# mes "I must say,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "I must say,"
+msgstr ""
+
+# mes "entertainment is crucial when resting";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "entertainment is crucial when resting"
+msgstr ""
+
+# mes "to boost morale for research.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "to boost morale for research."
+msgstr ""
+
+# mes "^006400For Homunculus~!^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^006400For Homunculus~!^000000"
+msgstr ""
+
+# mes "From what I heard from the union member";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "From what I heard from the union member"
+msgstr ""
+
+# mes "^005DFFParmy^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^005DFFParmy^000000,"
+msgstr ""
+
+# mes "^005DFFRaspuchin^000000 is still his own weird self.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^005DFFRaspuchin^000000 is still his own weird self."
+msgstr ""
+
+# mes "It may not be such a good idea";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "It may not be such a good idea"
+msgstr ""
+
+# mes "to drive those energetic souls";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "to drive those energetic souls"
+msgstr ""
+
+# mes "coming to change jobs";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "coming to change jobs"
+msgstr ""
+
+# mes "with such enthusiasm.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "with such enthusiasm."
+msgstr ""
+
+# mes "A friend of mine who was into painting,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "A friend of mine who was into painting,"
+msgstr ""
+
+# mes "suggested making a <Graphic Novel> called";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "suggested making a <Graphic Novel> called"
+msgstr ""
+
+# mes "^0000FFMUTATIONER^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^0000FFMUTATIONER^000000"
+msgstr ""
+
+# mes "after he heard about my research";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "after he heard about my research"
+msgstr ""
+
+# mes "and my works.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "and my works."
+msgstr ""
+
+# mes "The story begins...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The story begins..."
+msgstr ""
+
+# mes "With an alien";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "With an alien"
+msgstr ""
+
+# mes "^FF4800Homunculus^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^FF4800Homunculus^000000"
+msgstr ""
+
+# mes "visiting our world.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "visiting our world."
+msgstr ""
+
+# mes "The visiting alien";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The visiting alien"
+msgstr ""
+
+# mes "^FF4800Homunculus^000000 can survive";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^FF4800Homunculus^000000 can survive"
+msgstr ""
+
+# mes "without a master";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "without a master"
+msgstr ""
+
+# mes "and it could change into";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "and it could change into"
+msgstr ""
+
+# mes "various creatures that";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "various creatures that"
+msgstr ""
+
+# mes "roam our world.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "roam our world."
+msgstr ""
+
+# mes "These alien^FF4800Homunculus^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "These alien^FF4800Homunculus^000000"
+msgstr ""
+
+# mes "have two opposing factions";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "have two opposing factions"
+msgstr ""
+
+# mes "divided by political differences.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "divided by political differences."
+msgstr ""
+
+# mes "In our world, we call them";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "In our world, we call them"
+msgstr ""
+
+# mes "^006400Aut-homun^000000 and ";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^006400Aut-homun^000000 and "
+msgstr ""
+
+# mes "^006400Decept-homun^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "^006400Decept-homun^000000"
+msgstr ""
+
+# mes "The ^006400Aut-homun^000000 are our friends.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The ^006400Aut-homun^000000 are our friends."
+msgstr ""
+
+# mes "Their leader,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "Their leader,"
+msgstr ""
+
+# mes "called ^005DFFOptimus Poring^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "called ^005DFFOptimus Poring^000000,"
+msgstr ""
+
+# mes "is built and so cool";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "is built and so cool"
+msgstr ""
+
+# mes "for a poring,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "for a poring,"
+msgstr ""
+
+# mes "and it summons a cart at will!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "and it summons a cart at will!"
+msgstr ""
+
+# mes "The opposing side, the ^006400Decept-homun^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The opposing side, the ^006400Decept-homun^000000,"
+msgstr ""
+
+# mes "is led by ^005DFFMegatroll^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "is led by ^005DFFMegatroll^000000"
+msgstr ""
+
+# mes "and they use all means ";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "and they use all means "
+msgstr ""
+
+# mes "to destroy our world.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "to destroy our world."
+msgstr ""
+
+# mes "The hero of this story";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The hero of this story"
+msgstr ""
+
+# mes "is one from ^8B4513Alberta^000000 called ^005DFFJam Wicky^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "is one from ^8B4513Alberta^000000 called ^005DFFJam Wicky^000000,"
+msgstr ""
+
+# mes "who meets ^005DFFOptimus Poring^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "who meets ^005DFFOptimus Poring^000000"
+msgstr ""
+
+# mes "while shopping for a cart,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "while shopping for a cart,"
+msgstr ""
+
+# mes "as if it was his destiny.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "as if it was his destiny."
+msgstr ""
+
+# mes "And so thus";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "And so thus"
+msgstr ""
+
+# mes "unfolds an epic battle";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "unfolds an epic battle"
+msgstr ""
+
+# mes "in the ^8B4513Moroc Desert^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "in the ^8B4513Moroc Desert^000000"
+msgstr ""
+
+# mes "where the fate of our world";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "where the fate of our world"
+msgstr ""
+
+# mes "lies in his hands...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "lies in his hands..."
+msgstr ""
+
+# mes "Enough of that~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "Enough of that~!"
+msgstr ""
+
+# mes "The rest of the story can be";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The rest of the story can be"
+msgstr ""
+
+# mes "checked in the published copy.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "checked in the published copy."
+msgstr ""
+
+# mes "It's going to be awesome~!";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "It's going to be awesome~!"
+msgstr ""
+
+# mes "The Union sent a special gift to its members.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The Union sent a special gift to its members."
+msgstr ""
+
+# mes "It's called a ^0000FFHigh Clip 4^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "It's called a ^0000FFHigh Clip 4^000000."
+msgstr ""
+
+# mes "It is originally used as a tool to allow easy whispering between members, but it also has other useful functions.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "It is originally used as a tool to allow easy whispering between members, but it also has other useful functions."
+msgstr ""
+
+# mes "A guild invented this. I recall that their emblem had an image of an apple.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "A guild invented this. I recall that their emblem had an image of an apple."
+msgstr ""
+
+# mes "Homunculus is indeed worthy.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "Homunculus is indeed worthy."
+msgstr ""
+
+# mes "However, like everyone else, I sometimes question its meaning and future.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "However, like everyone else, I sometimes question its meaning and future."
+msgstr ""
+
+# mes "I believe that life given by nature was supposed to be used for oneself.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "I believe that life given by nature was supposed to be used for oneself."
+msgstr ""
+
+# mes "However...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "However..."
+msgstr ""
+
+# mes "The research to give the Homunculus life is, in reality, for the benefit of man.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "The research to give the Homunculus life is, in reality, for the benefit of man."
+msgstr ""
+
+# mes "Perhaps mankind is not ready ethically to create life.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "Perhaps mankind is not ready ethically to create life."
+msgstr ""
+
+# mes "Some time ago, ^005DFFJeyna^000000 introduced me to someone.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "Some time ago, ^005DFFJeyna^000000 introduced me to someone."
+msgstr ""
+
+# mes "She is from ^8B4513Geffen^000000,";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "She is from ^8B4513Geffen^000000,"
+msgstr ""
+
+# mes "and she introduced herself as a ^005DFFChicken Researcher^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "and she introduced herself as a ^005DFFChicken Researcher^000000."
+msgstr ""
+
+# mes "She is an expert on something called the ^006400Legendary Bijofnil^000000.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "She is an expert on something called the ^006400Legendary Bijofnil^000000."
+msgstr ""
+
+# mes "She finds it offensive that people think that the Bijofnil is a hawk.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "She finds it offensive that people think that the Bijofnil is a hawk."
+msgstr ""
+
+# mes "She said something about somewhere in ^8B4513Hvergilmir's Fountain^000000";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "She said something about somewhere in ^8B4513Hvergilmir's Fountain^000000"
+msgstr ""
+
+# mes "there exists a ^005DFFtalking chicken^000000 and other stories...";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "there exists a ^005DFFtalking chicken^000000 and other stories..."
+msgstr ""
+
+# mes "Well, it went on like that";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "Well, it went on like that"
+msgstr ""
+
+# mes "and it was interesting.";
+#: npc/re/quests/homun_s.txt
+msgctxt "Open Book#02homun_s"
+msgid "and it was interesting."
+msgstr ""
+
+# mes "[Jonathan]";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid "[Jonathan]"
+msgstr ""
+
+# mes "Hwang~ Hwang!";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid "Hwang~ Hwang!"
+msgstr ""
+
+# mes ":: It seems to be Viorel's";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: It seems to be Viorel's"
+msgstr ""
+
+# mes ":: Homunculus.";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: Homunculus."
+msgstr ""
+
+# mes ":: It is wearing a small necklace";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: It is wearing a small necklace"
+msgstr ""
+
+# mes ":: with the name Jonathan engraved";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: with the name Jonathan engraved"
+msgstr ""
+
+# mes ":: on it.";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: on it."
+msgstr ""
+
+# mes "Hwang~?!";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid "Hwang~?!"
+msgstr ""
+
+# mes "*Sniff* ...";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid "*Sniff* ..."
+msgstr ""
+
+# mes ":: This Amistr";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: This Amistr"
+msgstr ""
+
+# mes ":: called Jonathan";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: called Jonathan"
+msgstr ""
+
+# mes ":: seems to be surprised by my";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: seems to be surprised by my"
+msgstr ""
+
+# mes ":: new Homunculus.";
+#: npc/re/quests/homun_s.txt
+msgctxt "#05homun_s"
+msgid ":: new Homunculus."
+msgstr ""
+
