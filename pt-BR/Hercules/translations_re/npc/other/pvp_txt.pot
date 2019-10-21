@@ -1,0 +1,1081 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:52+0200\n"
+"PO-Revision-Date: 2019-10-21 11:07\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/other/pvp_txt.pot\n"
+
+# mes "[PVP Narrator]";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "[PVP Narrator]"
+msgstr ""
+
+# mes "Hello and welcome!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Hello and welcome!"
+msgstr ""
+
+# mes "I am in charge of";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "I am in charge of"
+msgstr ""
+
+# mes "explaining the PVP Modes.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "explaining the PVP Modes."
+msgstr ""
+
+# mes "I am the PVP Narrator!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "I am the PVP Narrator!"
+msgstr ""
+
+# switch(select("What is PVP?", "What are the PVP Modes?", "What are the rules for PVP?", "Save Position.", "End Dialog.")) {
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "What is PVP?"
+msgstr ""
+
+# switch(select("What is PVP?", "What are the PVP Modes?", "What are the rules for PVP?", "Save Position.", "End Dialog.")) {
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "What are the PVP Modes?"
+msgstr ""
+
+# switch(select("What is PVP?", "What are the PVP Modes?", "What are the rules for PVP?", "Save Position.", "End Dialog.")) {
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "What are the rules for PVP?"
+msgstr ""
+
+# switch(select("What is PVP?", "What are the PVP Modes?", "What are the rules for PVP?", "Save Position.", "End Dialog.")) {
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Save Position."
+msgstr ""
+
+# switch(select("What is PVP?", "What are the PVP Modes?", "What are the rules for PVP?", "Save Position.", "End Dialog.")) {
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "End Dialog."
+msgstr ""
+
+# mes "In short, PVP means";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "In short, PVP means"
+msgstr ""
+
+# mes "' Player VS Player Mode '";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "' Player VS Player Mode '"
+msgstr ""
+
+# mes "It's a unique place for people";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "It's a unique place for people"
+msgstr ""
+
+# mes "to duel with each other.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "to duel with each other."
+msgstr ""
+
+# mes "Just tell the";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Just tell the"
+msgstr ""
+
+# mes "^3355FFGate Keeper^000000";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "^3355FFGate Keeper^000000"
+msgstr ""
+
+# mes "that you want to try. He will";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "that you want to try. He will"
+msgstr ""
+
+# mes "let you enter the PVP square.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "let you enter the PVP square."
+msgstr ""
+
+# mes "But, you need to be at";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "But, you need to be at"
+msgstr ""
+
+# mes "least level 31. And you";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "least level 31. And you"
+msgstr ""
+
+# mes "must pay 500 zeny entrance fee in order";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "must pay 500 zeny entrance fee in order"
+msgstr ""
+
+# mes "to enter a PVP fight square.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "to enter a PVP fight square."
+msgstr ""
+
+# mes "When you are qualified, you";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "When you are qualified, you"
+msgstr ""
+
+# mes "can choose one of the two modes.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "can choose one of the two modes."
+msgstr ""
+
+# mes "Yoyo Mode or Nightmare Mode.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Yoyo Mode or Nightmare Mode."
+msgstr ""
+
+# mes "Yoyo Mode is risk free.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Yoyo Mode is risk free."
+msgstr ""
+
+# mes "You can experience PVP";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "You can experience PVP"
+msgstr ""
+
+# mes "without any restriction or";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "without any restriction or"
+msgstr ""
+
+# mes "punishment. It is recommended";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "punishment. It is recommended"
+msgstr ""
+
+# mes "that you practice your skills";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "that you practice your skills"
+msgstr ""
+
+# mes "here before you move on.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "here before you move on."
+msgstr ""
+
+# mes "Nightmare Mode is very";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Nightmare Mode is very"
+msgstr ""
+
+# mes "dangerous! Please be cautious,";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "dangerous! Please be cautious,"
+msgstr ""
+
+# mes "you will lose some of your";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "you will lose some of your"
+msgstr ""
+
+# mes "EXP when you are defeated. And";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "EXP when you are defeated. And"
+msgstr ""
+
+# mes "there is a small chance that";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "there is a small chance that"
+msgstr ""
+
+# mes "you will drop some equipment.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "you will drop some equipment."
+msgstr ""
+
+# mes "However, if you win, the";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "However, if you win, the"
+msgstr ""
+
+# mes "rewards can be great!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "rewards can be great!"
+msgstr ""
+
+# mes "To avoid misunderstanding,";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "To avoid misunderstanding,"
+msgstr ""
+
+# mes "you should think twice";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "you should think twice"
+msgstr ""
+
+# mes "before you go there...";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "before you go there..."
+msgstr ""
+
+# mes "Good Luck!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Good Luck!"
+msgstr ""
+
+# mes "Each of the fight squares";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Each of the fight squares"
+msgstr ""
+
+# mes "have a row of Narrators and";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "have a row of Narrators and"
+msgstr ""
+
+# mes "choose them based on your";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "choose them based on your"
+msgstr ""
+
+# mes "qualifications.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "qualifications."
+msgstr ""
+
+# mes "Each Narrator will ask";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Each Narrator will ask"
+msgstr ""
+
+# mes "which of the five PVP maps";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "which of the five PVP maps"
+msgstr ""
+
+# mes "you wish to go to.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "you wish to go to."
+msgstr ""
+
+# mes "Choose, and go in!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Choose, and go in!"
+msgstr ""
+
+# mes "Each map has a limitation on";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Each map has a limitation on"
+msgstr ""
+
+# mes "the number of people who can";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "the number of people who can"
+msgstr ""
+
+# mes "participate. So you will see";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "participate. So you will see"
+msgstr ""
+
+# mes "figures in the corner showing";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "figures in the corner showing"
+msgstr ""
+
+# mes "'Attendee/Total'.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "'Attendee/Total'."
+msgstr ""
+
+# mes "Also, there is a hidden EXP";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Also, there is a hidden EXP"
+msgstr ""
+
+# mes "value in PVP mode. This EXP";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "value in PVP mode. This EXP"
+msgstr ""
+
+# mes "score will only apply inside";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "score will only apply inside"
+msgstr ""
+
+# mes "of the PVP zone, so do not";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "of the PVP zone, so do not"
+msgstr ""
+
+# mes "worry.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "worry."
+msgstr ""
+
+# mes "Every player's EXP at the";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Every player's EXP at the"
+msgstr ""
+
+# mes "beginning is usually 5 points.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "beginning is usually 5 points."
+msgstr ""
+
+# mes "If you win, it will";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "If you win, it will"
+msgstr ""
+
+# mes "increase by 1 point";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "increase by 1 point"
+msgstr ""
+
+# mes "In the same way, when you";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "In the same way, when you"
+msgstr ""
+
+# mes "lose... Your EXP will";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "lose... Your EXP will"
+msgstr ""
+
+# mes "drop by 5 points.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "drop by 5 points."
+msgstr ""
+
+# mes "So be careful!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "So be careful!"
+msgstr ""
+
+# mes "When you are defeated";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "When you are defeated"
+msgstr ""
+
+# mes "And your EXP is equal";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "And your EXP is equal"
+msgstr ""
+
+# mes "to or less than 0,";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "to or less than 0,"
+msgstr ""
+
+# mes "You will be removed from PVP";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "You will be removed from PVP"
+msgstr ""
+
+# mes "and your duel is finished!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "and your duel is finished!"
+msgstr ""
+
+# mes "However, if your EXP is more";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "However, if your EXP is more"
+msgstr ""
+
+# mes "than 0. You can still get help";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "than 0. You can still get help"
+msgstr ""
+
+# mes "through other players healing...";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "through other players healing..."
+msgstr ""
+
+# mes "Do you get it?";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Do you get it?"
+msgstr ""
+
+# mes "The fighting commands inside of";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "The fighting commands inside of"
+msgstr ""
+
+# mes "PVP are the same as the normal.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "PVP are the same as the normal."
+msgstr ""
+
+# mes "All the basic controls are the";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "All the basic controls are the"
+msgstr ""
+
+# mes "same.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "same."
+msgstr ""
+
+# mes "However, there is one thing...";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "However, there is one thing..."
+msgstr ""
+
+# mes "Within the PVP fight square";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Within the PVP fight square"
+msgstr ""
+
+# mes "and PVP fighting zones,";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "and PVP fighting zones,"
+msgstr ""
+
+# mes "you cannot save your position.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "you cannot save your position."
+msgstr ""
+
+# mes "Remember well... These rules";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Remember well... These rules"
+msgstr ""
+
+# mes "can help to ensure your victory.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "can help to ensure your victory."
+msgstr ""
+
+# mes "Position successfully saved...";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Position successfully saved..."
+msgstr ""
+
+# mes "Thank you very much!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "Thank you very much!"
+msgstr ""
+
+# mes "We will see you again soon.";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "We will see you again soon."
+msgstr ""
+
+# mes "With war raging between monsters";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "With war raging between monsters"
+msgstr ""
+
+# mes "and humans, this competition";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "and humans, this competition"
+msgstr ""
+
+# mes "among people - PVP -";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "among people - PVP -"
+msgstr ""
+
+# mes "encourages us all to get";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "encourages us all to get"
+msgstr ""
+
+# mes "stronger. Come again,";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "stronger. Come again,"
+msgstr ""
+
+# mes "we welcome your challenge!";
+#: npc/other/pvp.txt
+msgctxt "PVP Narrator::pvpe"
+msgid "we welcome your challenge!"
+msgstr ""
+
+# mes "[Gate Keeper]";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "[Gate Keeper]"
+msgstr ""
+
+# mes "Glad to be of service.";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Glad to be of service."
+msgstr ""
+
+# mes "I will open the PVP fight";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "I will open the PVP fight"
+msgstr ""
+
+# mes "square for you! If you have";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "square for you! If you have"
+msgstr ""
+
+# mes "any questions about the PVP";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "any questions about the PVP"
+msgstr ""
+
+# mes "modes or rules, Please ask";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "modes or rules, Please ask"
+msgstr ""
+
+# mes "the Narrator...";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "the Narrator..."
+msgstr ""
+
+# switch(select("^FF5533' PvP Nightmare Mode'^000000", "^3355FF' PvP Yoyo Mode'^000000", "^3355FF' PvP Event Mode'^000000", "Quit")) {
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "^FF5533' PvP Nightmare Mode'^000000"
+msgstr ""
+
+# switch(select("^FF5533' PvP Nightmare Mode'^000000", "^3355FF' PvP Yoyo Mode'^000000", "^3355FF' PvP Event Mode'^000000", "Quit")) {
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "^3355FF' PvP Yoyo Mode'^000000"
+msgstr ""
+
+# switch(select("^FF5533' PvP Nightmare Mode'^000000", "^3355FF' PvP Yoyo Mode'^000000", "^3355FF' PvP Event Mode'^000000", "Quit")) {
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "^3355FF' PvP Event Mode'^000000"
+msgstr ""
+
+# switch(select("^FF5533' PvP Nightmare Mode'^000000", "^3355FF' PvP Yoyo Mode'^000000", "^3355FF' PvP Event Mode'^000000", "Quit")) {
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Quit"
+msgstr ""
+
+# mes "I am sorry, but currently the Nightmare mode service is not available.";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "I am sorry, but currently the Nightmare mode service is not available."
+msgstr ""
+
+# mes "Please use the Yoyo Mode instead. We apologize for the inconvenience.";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Please use the Yoyo Mode instead. We apologize for the inconvenience."
+msgstr ""
+
+# mes "The admission fee is 500 Zeny.";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "The admission fee is 500 Zeny."
+msgstr ""
+
+# mes "Do you want to move";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Do you want to move"
+msgstr ""
+
+# mes "to the Yoyo Mode";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "to the Yoyo Mode"
+msgstr ""
+
+# mes "fight square?";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "fight square?"
+msgstr ""
+
+# switch(select("Move", "Cancel")) {
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Move"
+msgstr ""
+
+# switch(select("Move", "Cancel")) {
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Cancel"
+msgstr ""
+
+# mes "Excuse me, but";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Excuse me, but"
+msgstr ""
+
+# mes "did you not come prepared?";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "did you not come prepared?"
+msgstr ""
+
+# mes "Double check that you have the";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Double check that you have the"
+msgstr ""
+
+# mes "500 Zeny entrance fee, and";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "500 Zeny entrance fee, and"
+msgstr ""
+
+# mes "that you are at least level 31!";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "that you are at least level 31!"
+msgstr ""
+
+# mes "With war raging between monsters";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "With war raging between monsters"
+msgstr ""
+
+# mes "and humans, this competition";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "and humans, this competition"
+msgstr ""
+
+# mes "among people - PVP -";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "among people - PVP -"
+msgstr ""
+
+# mes "encourages us all to get";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "encourages us all to get"
+msgstr ""
+
+# mes "stronger. Come again,";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "stronger. Come again,"
+msgstr ""
+
+# mes "we welcome your challenge!";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "we welcome your challenge!"
+msgstr ""
+
+# mes "Welcome!";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Welcome!"
+msgstr ""
+
+# mes "Please double check";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Please double check"
+msgstr ""
+
+# mes "that you have the admission or viewing ticket.";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "that you have the admission or viewing ticket."
+msgstr ""
+
+# mes "Eh? You don't have it? Then I";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Eh? You don't have it? Then I"
+msgstr ""
+
+# mes "am sorry, this fight square is";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "am sorry, this fight square is"
+msgstr ""
+
+# mes "only for people who have";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "only for people who have"
+msgstr ""
+
+# mes "admission or viewing tickets.";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "admission or viewing tickets."
+msgstr ""
+
+# mes "You cannot come in without it.";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "You cannot come in without it."
+msgstr ""
+
+# mes "Yes, thank you for participating. Have fun!";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "Yes, thank you for participating. Have fun!"
+msgstr ""
+
+# mes "and humans, This competition";
+#: npc/other/pvp.txt
+msgctxt "Gate Keeper::gkut"
+msgid "and humans, This competition"
+msgstr ""
+
+# mes "[PVP Fight Square Reception Staff]";
+#: npc/other/pvp.txt
+msgctxt "F_PVP_FSRS"
+msgid "[PVP Fight Square Reception Staff]"
+msgstr ""
+
+# mes "Sorry, but you base level has to be between LV "+getarg(0)+" and LV "+getarg(1)+".";
+#: npc/other/pvp.txt
+msgctxt "F_PVP_FSRS"
+msgid "Sorry, but you base level has to be between LV "
+msgstr ""
+
+# mes "This map is currently full.";
+#: npc/other/pvp.txt
+msgctxt "F_PVP_FSRS"
+msgid "This map is currently full."
+msgstr ""
+
+# mes "[PVP Combat Square Register Staff]";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "[PVP Combat Square Register Staff]"
+msgstr ""
+
+# mes "Eh? How did you get in here?";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "Eh? How did you get in here?"
+msgstr ""
+
+# mes "This is the entrance for players only.";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "This is the entrance for players only."
+msgstr ""
+
+# mes "For details about viewers please proceed to the Register Staff on your right.";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "For details about viewers please proceed to the Register Staff on your right."
+msgstr ""
+
+# if (select("Combat Square one", "Cancel") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "Combat Square one"
+msgstr ""
+
+# if (select("Combat Square one", "Cancel") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "Cancel"
+msgstr ""
+
+# mes "'"+ strcharinfo(PC_NAME) +"'";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "'"
+msgstr ""
+
+# mes "Are you ready?!";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "Are you ready?!"
+msgstr ""
+
+# if (select("Yes!", "No!") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "Yes!"
+msgstr ""
+
+# if (select("Yes!", "No!") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "No!"
+msgstr ""
+
+# mes "OK! I will send you inside";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "OK! I will send you inside"
+msgstr ""
+
+# mes "Good luck!";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "Good luck!"
+msgstr ""
+
+# mes "Come back anytime you are ready.";
+#: npc/other/pvp.txt
+msgctxt "Registration Staff#1"
+msgid "Come back anytime you are ready."
+msgstr ""
+
+# mes "[PVP Compete Square Register Staff]";
+#: npc/other/pvp.txt
+msgctxt "Spectator's Entrance#dum::PVPSpectator"
+msgid "[PVP Compete Square Register Staff]"
+msgstr ""
+
+# mes "This is the entrance for viewers.";
+#: npc/other/pvp.txt
+msgctxt "Spectator's Entrance#dum::PVPSpectator"
+msgid "This is the entrance for viewers."
+msgstr ""
+
+# mes "For details about players entrance please proceed to the Register Staff on your left.";
+#: npc/other/pvp.txt
+msgctxt "Spectator's Entrance#dum::PVPSpectator"
+msgid "For details about players entrance please proceed to the Register Staff on your left."
+msgstr ""
+
+# if (select("Compete Square one", "Cancel") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Spectator's Entrance#dum::PVPSpectator"
+msgid "Compete Square one"
+msgstr ""
+
+# if (select("Compete Square one", "Cancel") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Spectator's Entrance#dum::PVPSpectator"
+msgid "Cancel"
+msgstr ""
+
+# mes "[PVP Combat Square Register Staff]";
+#: npc/other/pvp.txt
+msgctxt "Spectator's Entrance#dum::PVPSpectator"
+msgid "[PVP Combat Square Register Staff]"
+msgstr ""
+
+# mes "You got it, thanks for participating. Have fun!";
+#: npc/other/pvp.txt
+msgctxt "Spectator's Entrance#dum::PVPSpectator"
+msgid "You got it, thanks for participating. Have fun!"
+msgstr ""
+
+# mes "[Combat Square Staff]";
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#dum::PVPSpecWarp"
+msgid "[Combat Square Staff]"
+msgstr ""
+
+# mes "May I help you?";
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#dum::PVPSpecWarp"
+msgid "May I help you?"
+msgstr ""
+
+# if (select("To the center viewer seat.", "Leave Combat Square.") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#dum::PVPSpecWarp"
+msgid "To the center viewer seat."
+msgstr ""
+
+# if (select("To the center viewer seat.", "Leave Combat Square.") == 1) {
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#dum::PVPSpecWarp"
+msgid "Leave Combat Square."
+msgstr ""
+
+# mes "[Combat Square Staff]";
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#5"
+msgid "[Combat Square Staff]"
+msgstr ""
+
+# mes "May I help you?";
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#5"
+msgid "May I help you?"
+msgstr ""
+
+# switch(select("To the side viewer seat.", "Leave Combat Square.")) {
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#5"
+msgid "To the side viewer seat."
+msgstr ""
+
+# switch(select("To the side viewer seat.", "Leave Combat Square.")) {
+#: npc/other/pvp.txt
+msgctxt "Combat Square Staff#5"
+msgid "Leave Combat Square."
+msgstr ""
+
+# mes "[Combat Square Staff]";
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "[Combat Square Staff]"
+msgstr ""
+
+# mes "Did you have fun in Combat Square?";
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "Did you have fun in Combat Square?"
+msgstr ""
+
+# mes "May I ask where you want to go?";
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "May I ask where you want to go?"
+msgstr ""
+
+# switch(select("Prontera.", "Morocc.", "Geffen.", "Payon.", "Alberta.", "Cancel.")) {
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "Prontera."
+msgstr ""
+
+# switch(select("Prontera.", "Morocc.", "Geffen.", "Payon.", "Alberta.", "Cancel.")) {
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "Morocc."
+msgstr ""
+
+# switch(select("Prontera.", "Morocc.", "Geffen.", "Payon.", "Alberta.", "Cancel.")) {
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "Geffen."
+msgstr ""
+
+# switch(select("Prontera.", "Morocc.", "Geffen.", "Payon.", "Alberta.", "Cancel.")) {
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "Payon."
+msgstr ""
+
+# switch(select("Prontera.", "Morocc.", "Geffen.", "Payon.", "Alberta.", "Cancel.")) {
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "Alberta."
+msgstr ""
+
+# switch(select("Prontera.", "Morocc.", "Geffen.", "Payon.", "Alberta.", "Cancel.")) {
+#: npc/other/pvp.txt
+msgctxt "out#eventpvp"
+msgid "Cancel."
+msgstr ""
+
