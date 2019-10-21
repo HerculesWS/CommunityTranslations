@@ -1,0 +1,259 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:19\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/guides/guides_aldebaran_txt.pot\n"
+
+# mes "[Al De Baran Guide]";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[Al De Baran Guide]"
+msgstr ""
+
+# mes "Welcome to ^8B4513Al De Baran^000000,";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Welcome to ^8B4513Al De Baran^000000,"
+msgstr ""
+
+# mes "the Border City.";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "the Border City."
+msgstr ""
+
+# mes "Do you need help navigating the city?";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Do you need help navigating the city?"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Cancel"
+msgstr ""
+
+# switch(select("[ Kafra Headquarters ]", "[ Alchemist Guild ]", "[ Clock Tower ]", "[ Inn & Tool Shop ]", "[ Repair & Buy Equipment ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Kafra Headquarters ]"
+msgstr ""
+
+# switch(select("[ Kafra Headquarters ]", "[ Alchemist Guild ]", "[ Clock Tower ]", "[ Inn & Tool Shop ]", "[ Repair & Buy Equipment ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Alchemist Guild ]"
+msgstr ""
+
+# switch(select("[ Kafra Headquarters ]", "[ Alchemist Guild ]", "[ Clock Tower ]", "[ Inn & Tool Shop ]", "[ Repair & Buy Equipment ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Clock Tower ]"
+msgstr ""
+
+# switch(select("[ Kafra Headquarters ]", "[ Alchemist Guild ]", "[ Clock Tower ]", "[ Inn & Tool Shop ]", "[ Repair & Buy Equipment ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Inn & Tool Shop ]"
+msgstr ""
+
+# switch(select("[ Kafra Headquarters ]", "[ Alchemist Guild ]", "[ Clock Tower ]", "[ Inn & Tool Shop ]", "[ Repair & Buy Equipment ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Repair & Buy Equipment ]"
+msgstr ""
+
+# switch(select("[ Kafra Headquarters ]", "[ Alchemist Guild ]", "[ Clock Tower ]", "[ Inn & Tool Shop ]", "[ Repair & Buy Equipment ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Tavern ]"
+msgstr ""
+
+# switch(select("[ Kafra Headquarters ]", "[ Alchemist Guild ]", "[ Clock Tower ]", "[ Inn & Tool Shop ]", "[ Repair & Buy Equipment ]", "[ Tavern ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Previous Menu"
+msgstr ""
+
+# mes "Let me mark the location of the";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Let me mark the location of the"
+msgstr ""
+
+# mes F_Navi("Inn & Tool Shop","aldebaran,197,70","^006400")+" building";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Inn & Tool Shop"
+msgstr ""
+
+# mes F_Navi("Inn & Tool Shop","aldebaran,197,70","^006400")+" building";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "aldebaran,197,70"
+msgstr ""
+
+# mes F_Navi("Inn & Tool Shop","aldebaran,197,70","^006400")+" building";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "^006400"
+msgstr ""
+
+# mes F_Navi("Inn & Tool Shop","aldebaran,197,70","^006400")+" building";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid " building"
+msgstr ""
+
+# mes "on your mini-map.";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "on your mini-map."
+msgstr ""
+
+# mes "If you'd like to ";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "If you'd like to "
+msgstr ""
+
+# mes F_Navi("Buy or Repair Equipment","aldebaran,197,70","^7F3300")+",";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Buy or Repair Equipment"
+msgstr ""
+
+# mes F_Navi("Buy or Repair Equipment","aldebaran,197,70","^7F3300")+",";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "^7F3300"
+msgstr ""
+
+# mes F_Navi("Buy or Repair Equipment","aldebaran,197,70","^7F3300")+",";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid ","
+msgstr ""
+
+# mes "then this is the place you'll want to visit.";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "then this is the place you'll want to visit."
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Mr. Claus ]", "[ Chef Assistant ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Mr. Claus ]", "[ Chef Assistant ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Kafra Employee ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Mr. Claus ]", "[ Chef Assistant ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Mr. Claus ]"
+msgstr ""
+
+# switch(select("[ Eden Teleport Officer ]", "[ Kafra Employee ]", "[ Mr. Claus ]", "[ Chef Assistant ]", "Previous Menu")) {
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "[ Chef Assistant ]"
+msgstr ""
+
+# mes "Mr. Claus can teleport";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Mr. Claus can teleport"
+msgstr ""
+
+# mes "you to "+F_Navi("Lutie","aldebaran,168,168","^006400")+".";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "you to "
+msgstr ""
+
+# mes "you to "+F_Navi("Lutie","aldebaran,168,168","^006400")+".";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Lutie"
+msgstr ""
+
+# mes "you to "+F_Navi("Lutie","aldebaran,168,168","^006400")+".";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "aldebaran,168,168"
+msgstr ""
+
+# mes "you to "+F_Navi("Lutie","aldebaran,168,168","^006400")+".";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "."
+msgstr ""
+
+# mes "Let me mark his location";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Let me mark his location"
+msgstr ""
+
+# mes "Sure, I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Alright then,";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "Alright then,"
+msgstr ""
+
+# mes "enjoy your stay!";
+#: npc/re/guides/guides_aldebaran.txt
+msgctxt "Guide#01aldebaran::GuideAldearan"
+msgid "enjoy your stay!"
+msgstr ""
+
