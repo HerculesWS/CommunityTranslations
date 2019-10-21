@@ -1,0 +1,187 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:05\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/eden/41-55_txt.pot\n"
+
+# mes "You are not an Eden group member. You are not qualified to access the bulletin board.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "You are not an Eden group member. You are not qualified to access the bulletin board."
+msgstr ""
+
+# mes "^008800Wait a sec!!";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "^008800Wait a sec!!"
+msgstr ""
+
+# mes "You cannot receive any more items because you're carrying too many items. Please try again after you lighten up.^000000";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "You cannot receive any more items because you're carrying too many items. Please try again after you lighten up.^000000"
+msgstr ""
+
+# mes "Mission bulletin board for Lv41~55 adventurers.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Mission bulletin board for Lv41~55 adventurers."
+msgstr ""
+
+# mes "[Mission Board]";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "[Mission Board]"
+msgstr ""
+
+# mes "Mission bulletin board.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Mission bulletin board."
+msgstr ""
+
+# if(select("Check the Missions.", "Cancel.") == 2) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Check the Missions."
+msgstr ""
+
+# if(select("Check the Missions.", "Cancel.") == 2) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Cancel."
+msgstr ""
+
+# mes "^000077Ok. Let's check the missions next time.^000000.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "^000077Ok. Let's check the missions next time.^000000."
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Thara Frog Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Cruiser Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Kukre Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Orc Baby Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Orc Warrior Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Vadon Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Megalodon Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Marse Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Cornutus Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Myst Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Shellfish Hunting"
+msgstr ""
+
+# switch(select("Thara Frog Hunting", "Cruiser Hunting", "Kukre Hunting", "Orc Baby Hunting", "Orc Warrior Hunting", "Vadon Hunting", "Megalodon Hunting", "Marse Hunting", "Cornutus Hunting", "Myst Hunting", "Shellfish Hunting", "Marine Sphere Hunting")) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Marine Sphere Hunting"
+msgstr ""
+
+# mes "You have completed the mission.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "You have completed the mission."
+msgstr ""
+
+# mes "Here is your reward.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Here is your reward."
+msgstr ""
+
+# mes "You may now view the bulletin board.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "You may now view the bulletin board."
+msgstr ""
+
+# mes "There is nothing special to do.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "There is nothing special to do."
+msgstr ""
+
+# mes "[Mission Board Memo]";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "[Mission Board Memo]"
+msgstr ""
+
+# if(select("Accept the mission.", "Cancel.") == 1) {
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "Accept the mission."
+msgstr ""
+
+# mes "You have accepted the mission. For more details, please press 'alt + u' keys, you can get information from the Quest Window.";
+#: npc/re/quests/eden/41-55.txt
+msgctxt "Mission [41 - 55]"
+msgid "You have accepted the mission. For more details, please press 'alt + u' keys, you can get information from the Quest Window."
+msgstr ""
+
