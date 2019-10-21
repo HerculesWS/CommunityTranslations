@@ -1,0 +1,2773 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: 2019-10-21 10:31\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/jobs/3-1/rune_knight_txt.pot\n"
+
+# mes "[Rune Knight Manuel]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "[Rune Knight Manuel]"
+msgstr ""
+
+# mes "You are now a member of our select brethren. I can still remember when I first met you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "You are now a member of our select brethren. I can still remember when I first met you."
+msgstr ""
+
+# mes "Strive to live the way of the sword with honor...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Strive to live the way of the sword with honor..."
+msgstr ""
+
+# mes "Cheers to our new future...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Cheers to our new future..."
+msgstr ""
+
+# mes "There are many paths one can take in the world. Most people can see their path but don't really follow it...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "There are many paths one can take in the world. Most people can see their path but don't really follow it..."
+msgstr ""
+
+# mes "Anyway the drinks here are really good. Would you like to have one?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Anyway the drinks here are really good. Would you like to have one?"
+msgstr ""
+
+# if(select("Sure, let's have a drink.", "I refuse.") == 2) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Sure, let's have a drink."
+msgstr ""
+
+# if(select("Sure, let's have a drink.", "I refuse.") == 2) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "I refuse."
+msgstr ""
+
+# mes "Are you sure? You don't know the true elegance of these drinks...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Are you sure? You don't know the true elegance of these drinks..."
+msgstr ""
+
+# mes "You walk the way of sword too don't you? Then we can understand each other. Drinks taste better when it's with a fellow Swordman.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "You walk the way of sword too don't you? Then we can understand each other. Drinks taste better when it's with a fellow Swordman."
+msgstr ""
+
+# mes "I'll buy this round.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "I'll buy this round."
+msgstr ""
+
+# mes "A toast to friendship~";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "A toast to friendship~"
+msgstr ""
+
+# mes "In my opinion you seem to be ready to start a new way...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "In my opinion you seem to be ready to start a new way..."
+msgstr ""
+
+# mes "Walking the way of the sword is a perpetual battle. From now on you may have a rough journey ahead of you...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Walking the way of the sword is a perpetual battle. From now on you may have a rough journey ahead of you..."
+msgstr ""
+
+# mes "If you want to walk on your new way and surpass your current limits, I'm willing to help you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "If you want to walk on your new way and surpass your current limits, I'm willing to help you."
+msgstr ""
+
+# mes "The true way of a Swordman who learned harmony to break the limit of a sword is a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "The true way of a Swordman who learned harmony to break the limit of a sword is a Rune Knight."
+msgstr ""
+
+# mes "Won't you join our brethren? You look like you're fully qualified to become one of us.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Won't you join our brethren? You look like you're fully qualified to become one of us."
+msgstr ""
+
+# mes "If you are interested, I'll introduce you to the masters who will guide you to the way of the Rune Knight with my recommendation.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "If you are interested, I'll introduce you to the masters who will guide you to the way of the Rune Knight with my recommendation."
+msgstr ""
+
+# switch(select("I am not ready yet.", "I'm ready to be a Rune Knight.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "I am not ready yet."
+msgstr ""
+
+# switch(select("I am not ready yet.", "I'm ready to be a Rune Knight.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "I'm ready to be a Rune Knight."
+msgstr ""
+
+# mes "Right. Every challenge always needs preparation. Okay, I'll wait for you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Right. Every challenge always needs preparation. Okay, I'll wait for you."
+msgstr ""
+
+# mes "Of course, I would only accept you if you are one hundred percent sure of your conviction to become a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Of course, I would only accept you if you are one hundred percent sure of your conviction to become a Rune Knight."
+msgstr ""
+
+# mes "You're sure now?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "You're sure now?"
+msgstr ""
+
+# mes "Let me send a dispatch to my comrades that you are willing to join our ranks.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Let me send a dispatch to my comrades that you are willing to join our ranks."
+msgstr ""
+
+# mes "You know the place called Glast Heim? There's a Rune Knight waiting for you there, he will guide you to the entrance of Glast Heim Tower.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "You know the place called Glast Heim? There's a Rune Knight waiting for you there, he will guide you to the entrance of Glast Heim Tower."
+msgstr ""
+
+# mes "My name is Manuel. I am called the Rune Knight of Brilliance. When you tell him that you are a Rune Knight candidate with my recommendation, he will handle the rest.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "My name is Manuel. I am called the Rune Knight of Brilliance. When you tell him that you are a Rune Knight candidate with my recommendation, he will handle the rest."
+msgstr ""
+
+# mes "I will wait for the day that you become our comrade as a true Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "I will wait for the day that you become our comrade as a true Rune Knight."
+msgstr ""
+
+# mes "If you continually walk the way of the sword, you will eventually feel the limits of your powers. Like myself before...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "If you continually walk the way of the sword, you will eventually feel the limits of your powers. Like myself before..."
+msgstr ""
+
+# mes "When the time comes there will be a way to help you surpass that limit. Until the day that your strength has grown comes, we can at least still have a drink together.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "When the time comes there will be a way to help you surpass that limit. Until the day that your strength has grown comes, we can at least still have a drink together."
+msgstr ""
+
+# mes "A toast to the day that your strength can withstand the powers of a Rune Knight!";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "A toast to the day that your strength can withstand the powers of a Rune Knight!"
+msgstr ""
+
+# mes "I believe that the wind of change is not always a good one.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "I believe that the wind of change is not always a good one."
+msgstr ""
+
+# mes "Just like the taste of this drink. I wish the taste of this drink is kept here forever.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Just like the taste of this drink. I wish the taste of this drink is kept here forever."
+msgstr ""
+
+# mes "The Rune Knight is waiting for you at Glast Heim. He will guide you to the entrance of Glast Heim Tower.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "The Rune Knight is waiting for you at Glast Heim. He will guide you to the entrance of Glast Heim Tower."
+msgstr ""
+
+# mes "Tell him that you are a candidate to be a Rune Knight and he will handle the rest.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Tell him that you are a candidate to be a Rune Knight and he will handle the rest."
+msgstr ""
+
+# mes "I will wait for the day you become our comrade as a true Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "I will wait for the day you become our comrade as a true Rune Knight."
+msgstr ""
+
+# mes "Don't you have things to do right now?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Don't you have things to do right now?"
+msgstr ""
+
+# mes "No? Well then never mind.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "No? Well then never mind."
+msgstr ""
+
+# mes "Don't you love the smell of alcohol?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Splendid-Looking Knight"
+msgid "Don't you love the smell of alcohol?"
+msgstr ""
+
+# mes "[Guide, Jungberg]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "[Guide, Jungberg]"
+msgstr ""
+
+# mes "Oh, you must be "+strcharinfo(PC_NAME)+".";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Oh, you must be "
+msgstr ""
+
+# mes "Welcome.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Welcome."
+msgstr ""
+
+# mes "We are looking forward to you helping the Rune Knights spread honor throughout the world.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "We are looking forward to you helping the Rune Knights spread honor throughout the world."
+msgstr ""
+
+# mes "So, What can I help you with?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "So, What can I help you with?"
+msgstr ""
+
+# switch(select("I want to go to the gathering place.", "Nothing.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "I want to go to the gathering place."
+msgstr ""
+
+# switch(select("I want to go to the gathering place.", "Nothing.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Nothing."
+msgstr ""
+
+# mes "Right. I'll send you right now. I'll see you soon.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Right. I'll send you right now. I'll see you soon."
+msgstr ""
+
+# mes "I am the only knight who's keeping the way of the Swordsman in this cursed place Glast Heim.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "I am the only knight who's keeping the way of the Swordsman in this cursed place Glast Heim."
+msgstr ""
+
+# mes "Since you don't walk the way of the Sword, you wouldn't understand our spirit. I can manage by myself. Follow your own path.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Since you don't walk the way of the Sword, you wouldn't understand our spirit. I can manage by myself. Follow your own path."
+msgstr ""
+
+# mes "Are you a cursed ghost of this place? Or are you an ignorant adventurer?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Are you a cursed ghost of this place? Or are you an ignorant adventurer?"
+msgstr ""
+
+# mes "If you are a breathing human, then listen to me carefullly. I wouldn't risk my life here by hesitating to talk to just anyone.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "If you are a breathing human, then listen to me carefullly. I wouldn't risk my life here by hesitating to talk to just anyone."
+msgstr ""
+
+# switch(select("Who are you?", "What are you doing here?", "Cancel.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Who are you?"
+msgstr ""
+
+# switch(select("Who are you?", "What are you doing here?", "Cancel.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "What are you doing here?"
+msgstr ""
+
+# switch(select("Who are you?", "What are you doing here?", "Cancel.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Cancel."
+msgstr ""
+
+# mes "If you also follow the way of the Swordsman our paths will most certainly cross again when you have reached your full potential.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "If you also follow the way of the Swordsman our paths will most certainly cross again when you have reached your full potential."
+msgstr ""
+
+# mes "I am a man walking the way of the Sword. But I'm not exactly the same as the likes of you, Rune-Midgart knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "I am a man walking the way of the Sword. But I'm not exactly the same as the likes of you, Rune-Midgart knight."
+msgstr ""
+
+# mes "We are not like the other Knights who are absorbed with pomp and circumstance so you may not know of us yet.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "We are not like the other Knights who are absorbed with pomp and circumstance so you may not know of us yet."
+msgstr ""
+
+# mes "We are the Rune Knights. A group that leads the true power as well as the physical strength to the righteous way of the Sword.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "We are the Rune Knights. A group that leads the true power as well as the physical strength to the righteous way of the Sword."
+msgstr ""
+
+# mes "We have been living in secret here in the deep of Glast Heim for a half century but it's time to let the world know our purpose.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "We have been living in secret here in the deep of Glast Heim for a half century but it's time to let the world know our purpose."
+msgstr ""
+
+# mes "Now there are many instructors who are looking for talented Sword wielders in various places of Rune-Midgard. They are looking for a people who will join the true way of the Sword.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Now there are many instructors who are looking for talented Sword wielders in various places of Rune-Midgard. They are looking for a people who will join the true way of the Sword."
+msgstr ""
+
+# mes "If you wish to join the Rune Knights. Please get a recommendation from one of the guides and come to me again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "If you wish to join the Rune Knights. Please get a recommendation from one of the guides and come to me again."
+msgstr ""
+
+# switch(select("I came to be a Rune Knight.", "Cancel.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "I came to be a Rune Knight."
+msgstr ""
+
+# mes "Um... Are you the Rune Knight candidate that Manuel talked about?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Um... Are you the Rune Knight candidate that Manuel talked about?"
+msgstr ""
+
+# mes "Your name is "+strcharinfo(PC_NAME)+", right? I can see clearly that you are qualified to become our comrade.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Your name is "
+msgstr ""
+
+# mes "Good. I don't have to ask any more about your qualification to join our brethren....1.S... Now I'll give you your first assignment.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Good. I don't have to ask any more about your qualification to join our brethren....1.S... Now I'll give you your first assignment."
+msgstr ""
+
+# mes "Find our Rune Knight gathering place hidden inside of Glast Heim.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Find our Rune Knight gathering place hidden inside of Glast Heim."
+msgstr ""
+
+# mes "There's a place that leads to the Rune Knight's secret gathering room inside the Glast Heim Chivalry. Find that place by yourself.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "There's a place that leads to the Rune Knight's secret gathering room inside the Glast Heim Chivalry. Find that place by yourself."
+msgstr ""
+
+# mes "If you can find it, there'll be a person waiting to greet you, so let's start.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "If you can find it, there'll be a person waiting to greet you, so let's start."
+msgstr ""
+
+# mes "Of course your life might be at risk by the ghosts of Glast Heim... but overcoming the risk shouldn't be hard for a Rune Knight candidate.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Of course your life might be at risk by the ghosts of Glast Heim... but overcoming the risk shouldn't be hard for a Rune Knight candidate."
+msgstr ""
+
+# mes "The 1st assignment is to find out our Rune Knight gathering place hidden inside of Glast Heim.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "The 1st assignment is to find out our Rune Knight gathering place hidden inside of Glast Heim."
+msgstr ""
+
+# mes "There's a place that leads to the Rune Knights' secret gathering place inside Glast Heim Chivalry. Find that place by yourself.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "There's a place that leads to the Rune Knights' secret gathering place inside Glast Heim Chivalry. Find that place by yourself."
+msgstr ""
+
+# mes "It seems that you are still taking the test. Do your best and pass all the tests.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "It seems that you are still taking the test. Do your best and pass all the tests."
+msgstr ""
+
+# switch(select("I want to go to the gathering place.", "Quit the conversation.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "Quit the conversation."
+msgstr ""
+
+# mes "All right. I'll send you right away. I'll check you later.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Guide, Jungberg"
+msgid "All right. I'll send you right away. I'll check you later."
+msgstr ""
+
+# mes "[Rune Knight Staff]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "[Rune Knight Staff]"
+msgstr ""
+
+# mes "Welcome, "+strcharinfo(PC_NAME)+". Are you going to the gathering place?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Welcome, "
+msgstr ""
+
+# switch(select("Yes, take me there.", "I'm on other business.", "Cancel.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Yes, take me there."
+msgstr ""
+
+# switch(select("Yes, take me there.", "I'm on other business.", "Cancel.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "I'm on other business."
+msgstr ""
+
+# switch(select("Yes, take me there.", "I'm on other business.", "Cancel.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Cancel."
+msgstr ""
+
+# mes "Okay, come in. I'll guide you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Okay, come in. I'll guide you."
+msgstr ""
+
+# mes "Oh, really? Then, keep on your work. I'll continue with my mission.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Oh, really? Then, keep on your work. I'll continue with my mission."
+msgstr ""
+
+# mes "Ah... this area is off limits, you are prohibited to be here. Please do not do anything to hinder our efforts.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Ah... this area is off limits, you are prohibited to be here. Please do not do anything to hinder our efforts."
+msgstr ""
+
+# mes "Although... you seem to have the potential to become a companion to those who follow the path of the sword.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Although... you seem to have the potential to become a companion to those who follow the path of the sword."
+msgstr ""
+
+# mes "I'm sure we'll be crossing paths before long. I believe we will meet again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "I'm sure we'll be crossing paths before long. I believe we will meet again."
+msgstr ""
+
+# mes "You found this place correctly. Jungberg sent me to send you to the gathering place.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "You found this place correctly. Jungberg sent me to send you to the gathering place."
+msgstr ""
+
+# mes "When you get into the gathering place, talk to Captain Tigris. He's always waiting for new members to show up.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "When you get into the gathering place, talk to Captain Tigris. He's always waiting for new members to show up."
+msgstr ""
+
+# mes "Well, please follow me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Well, please follow me."
+msgstr ""
+
+# mes "Wait! This place is prohibited. I don't mind you wandering about but, don't ever disturb me again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Staff"
+msgid "Wait! This place is prohibited. I don't mind you wandering about but, don't ever disturb me again."
+msgstr ""
+
+# mes "You've got too many things. You cannot proceed anymore. Please try again after losing some weight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "You've got too many things. You cannot proceed anymore. Please try again after losing some weight."
+msgstr ""
+
+# mes "[Captain Tigris]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "[Captain Tigris]"
+msgstr ""
+
+# mes "Oh, I see... Please wait a moment.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Oh, I see... Please wait a moment."
+msgstr ""
+
+# mes "I forgot to check if you are qualified to get the celebration gift for changing your job...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "I forgot to check if you are qualified to get the celebration gift for changing your job..."
+msgstr ""
+
+# mes "Let me check the report from the instructors who took care of your tests.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Let me check the report from the instructors who took care of your tests."
+msgstr ""
+
+# mes "Hm... This is perfect. You've come here with very rare good records.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Hm... This is perfect. You've come here with very rare good records."
+msgstr ""
+
+# mes "Hmm... This is great. You've come here with decent records.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Hmm... This is great. You've come here with decent records."
+msgstr ""
+
+# mes "Hmm, not bad. It's not a great record but you tried your best.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Hmm, not bad. It's not a great record but you tried your best."
+msgstr ""
+
+# mes "Here, take this. It's a gift that I like to give to the younger generation like yourself.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Here, take this. It's a gift that I like to give to the younger generation like yourself."
+msgstr ""
+
+# mes "Hey, long time no see, "+strcharinfo(PC_NAME)+". I don't think you've got any important matters to discuss but make yourself comfortable.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Hey, long time no see, "
+msgstr ""
+
+# mes "A man wearing glorious armor and passion in his eyes is standing in front of me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "A man wearing glorious armor and passion in his eyes is standing in front of me."
+msgstr ""
+
+# mes "He stares at me with an absent look and after a while he begins to talk.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "He stares at me with an absent look and after a while he begins to talk."
+msgstr ""
+
+# mes "Hey, are you the Rune Knight candidate that Manuel recommended? I am Captain Tigris from the Rune Knights, and your name is?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Hey, are you the Rune Knight candidate that Manuel recommended? I am Captain Tigris from the Rune Knights, and your name is?"
+msgstr ""
+
+# mes "Oh, I've heard it before but I've forgotten it. Right, were you "+strcharinfo(PC_NAME)+"? I truly welcome you from the heart for coming here.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Oh, I've heard it before but I've forgotten it. Right, were you "
+msgstr ""
+
+# mes "Let's see. How many candidates have come to this room? Hey, Lunarea, which candidate is this one here?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Let's see. How many candidates have come to this room? Hey, Lunarea, which candidate is this one here?"
+msgstr ""
+
+# mes "[Rune Knight, Lunarea]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "[Rune Knight, Lunarea]"
+msgstr ""
+
+# mes "... 172nd.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "... 172nd."
+msgstr ""
+
+# mes "She says so my friend. Actually I don't want to see the next one. So please do well.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "She says so my friend. Actually I don't want to see the next one. So please do well."
+msgstr ""
+
+# mes "Let me see... Manual and Jungberg must have finished the basic verification, then let's start the test right away.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Let me see... Manual and Jungberg must have finished the basic verification, then let's start the test right away."
+msgstr ""
+
+# mes "Lunarea, proceed with the first test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Lunarea, proceed with the first test."
+msgstr ""
+
+# mes "...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "..."
+msgstr ""
+
+# mes "This pale-skinned female Rune Knight called Lunarea is nodding her head quietly and watching me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "This pale-skinned female Rune Knight called Lunarea is nodding her head quietly and watching me."
+msgstr ""
+
+# mes "The test begins now. First, you'll get the 1st test from that beautiful icy lady, so please try your best.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "The test begins now. First, you'll get the 1st test from that beautiful icy lady, so please try your best."
+msgstr ""
+
+# mes "When the test is done, talk to me. Anyway you'll need to care about the tests progressing with other people.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "When the test is done, talk to me. Anyway you'll need to care about the tests progressing with other people."
+msgstr ""
+
+# mes "Well then, I'll be waiting here so take the test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Well then, I'll be waiting here so take the test."
+msgstr ""
+
+# mes "Now the test begins. First, you'll get the 1st test from that beautiful icy lady, so please try your best.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Now the test begins. First, you'll get the 1st test from that beautiful icy lady, so please try your best."
+msgstr ""
+
+# mes "When the test is done, talk to me... anyway you'll need to care about the tests progressing with other people.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "When the test is done, talk to me... anyway you'll need to care about the tests progressing with other people."
+msgstr ""
+
+# mes "Hey you, weren't you testing? Lunarea, what happened? Is the test all done?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Hey you, weren't you testing? Lunarea, what happened? Is the test all done?"
+msgstr ""
+
+# mes "......";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "......"
+msgstr ""
+
+# mes "She just shakes her head without saying any word, and stares at me. She has piercing eyes.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "She just shakes her head without saying any word, and stares at me. She has piercing eyes."
+msgstr ""
+
+# mes "Okay Lunarea. Hey, listen to me carefully. Lunarea is a poor talker and quiet but you shouldn't ignore her.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Okay Lunarea. Hey, listen to me carefully. Lunarea is a poor talker and quiet but you shouldn't ignore her."
+msgstr ""
+
+# mes "Even for me... no, any one of us who upsets her wouldn't be able to deal with that.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Even for me... no, any one of us who upsets her wouldn't be able to deal with that."
+msgstr ""
+
+# mes "Whoa don't look at me like that. Okay, you see that? Aspiring Rune Knight. Go back to Lunarea and take the test as she says. That'll be good for you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Whoa don't look at me like that. Okay, you see that? Aspiring Rune Knight. Go back to Lunarea and take the test as she says. That'll be good for you."
+msgstr ""
+
+# mes "Umm, it seems that you've passed Lunarea's test? I guess I won't have to test more for the basics.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Umm, it seems that you've passed Lunarea's test? I guess I won't have to test more for the basics."
+msgstr ""
+
+# mes "Undeniably our Rune Knights have some differences but we should not forget our Swordsman roots.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Undeniably our Rune Knights have some differences but we should not forget our Swordsman roots."
+msgstr ""
+
+# mes "From now on, this will be the real test as a Rune Knight that you want to be. You'll need to prepare to take next test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "From now on, this will be the real test as a Rune Knight that you want to be. You'll need to prepare to take next test."
+msgstr ""
+
+# mes "Renoa, I know that you've been waiting for a long time but it's your turn.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Renoa, I know that you've been waiting for a long time but it's your turn."
+msgstr ""
+
+# mes "[Rune Knight, Renoa]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "[Rune Knight, Renoa]"
+msgstr ""
+
+# mes "It really has been such a long time but Lunarea's test and mine differ like the sky to the earth. I hope you won't be just a muscle-headed fool.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "It really has been such a long time but Lunarea's test and mine differ like the sky to the earth. I hope you won't be just a muscle-headed fool."
+msgstr ""
+
+# mes "Hahaha. you heard that? It won't be easy this time. I hope you get through it my friend.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Hahaha. you heard that? It won't be easy this time. I hope you get through it my friend."
+msgstr ""
+
+# mes "Go to that fiery lady in the library room to get the next test done and come back.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Go to that fiery lady in the library room to get the next test done and come back."
+msgstr ""
+
+# mes "Now, this will be the real test as a Rune Knight. You've got to prepare to take the next test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Now, this will be the real test as a Rune Knight. You've got to prepare to take the next test."
+msgstr ""
+
+# mes "Oh, I heard that you've passed Renoa's test which only few people could pass.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Oh, I heard that you've passed Renoa's test which only few people could pass."
+msgstr ""
+
+# mes "I heard that the number of candidates who've given up while taking Renoa's test has been high.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "I heard that the number of candidates who've given up while taking Renoa's test has been high."
+msgstr ""
+
+# mes "You have to understand. I think it was the test that shows exactly the test instructor's personality. Hmm...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "You have to understand. I think it was the test that shows exactly the test instructor's personality. Hmm..."
+msgstr ""
+
+# mes "Now, there's only the last test left. When you pass this, you will be on your way to officially becoming a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Now, there's only the last test left. When you pass this, you will be on your way to officially becoming a Rune Knight."
+msgstr ""
+
+# mes "Take the final test from the Rune Knight Velpino who is at the arsenal's right side.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Take the final test from the Rune Knight Velpino who is at the arsenal's right side."
+msgstr ""
+
+# mes "I'm not kidding, I am really looking forward to your new start as a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "I'm not kidding, I am really looking forward to your new start as a Rune Knight."
+msgstr ""
+
+# mes "So please do your best.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "So please do your best."
+msgstr ""
+
+# mes "I'm not kidding, I am really looking forward to your new start as a Rune Knight. So please do your best.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "I'm not kidding, I am really looking forward to your new start as a Rune Knight. So please do your best."
+msgstr ""
+
+# mes "Congratulations. Now you've passed all the tests and can walk the way of a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Congratulations. Now you've passed all the tests and can walk the way of a Rune Knight."
+msgstr ""
+
+# mes "I'm happy from the bottom of my heart. I'm very proud of you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "I'm happy from the bottom of my heart. I'm very proud of you."
+msgstr ""
+
+# mes "Now you can be yourself around us and stand proud as one of us.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Now you can be yourself around us and stand proud as one of us."
+msgstr ""
+
+# mes "There's the evaluations from Lunarea, Renoa and Velpino who took care of your tests.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "There's the evaluations from Lunarea, Renoa and Velpino who took care of your tests."
+msgstr ""
+
+# mes "It's not much but there are some gifts for new Rune Knights who got good scores on the tests.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "It's not much but there are some gifts for new Rune Knights who got good scores on the tests."
+msgstr ""
+
+# mes "There will be a difference depending on the scores, but they are all helpful for anyone who is a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "There will be a difference depending on the scores, but they are all helpful for anyone who is a Rune Knight."
+msgstr ""
+
+# mes "Lastly, there are several things to be aware of as a Knight who's experienced a job change to a Lord Knight in Valhalla.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Lastly, there are several things to be aware of as a Knight who's experienced a job change to a Lord Knight in Valhalla."
+msgstr ""
+
+# mes "Well, my job is done now. Would you like to start your new life as a Rune Knight?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Well, my job is done now. Would you like to start your new life as a Rune Knight?"
+msgstr ""
+
+# switch(select("Every preparation is done.", "I need more time to think.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Every preparation is done."
+msgstr ""
+
+# switch(select("Every preparation is done.", "I need more time to think.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "I need more time to think."
+msgstr ""
+
+# mes "Weren't you listening?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Weren't you listening?"
+msgstr ""
+
+# mes "If you understood, then make your preparations and come back.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "If you understood, then make your preparations and come back."
+msgstr ""
+
+# mes "It seems not enough?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "It seems not enough?"
+msgstr ""
+
+# mes "Please unequip your mount and come back again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Please unequip your mount and come back again."
+msgstr ""
+
+# mes "Our Master, Beljeve... and the Great Sage, Serpeone...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Our Master, Beljeve... and the Great Sage, Serpeone..."
+msgstr ""
+
+# mes "This Knight is going to walk the way of the Rune Knights with us, so please give your blessing.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "This Knight is going to walk the way of the Rune Knights with us, so please give your blessing."
+msgstr ""
+
+# mes "Congratulations.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Congratulations."
+msgstr ""
+
+# mes "You are now an honorable Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "You are now an honorable Rune Knight."
+msgstr ""
+
+# mes "Remember this day from this day forth!";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Remember this day from this day forth!"
+msgstr ""
+
+# mes "There's a royal gift from the Rune-Midgarts Kingdom for all new Rune Knights.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "There's a royal gift from the Rune-Midgarts Kingdom for all new Rune Knights."
+msgstr ""
+
+# mes "Give me a second to get the royal gift and talk to me again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Give me a second to get the royal gift and talk to me again."
+msgstr ""
+
+# mes "I don't know how you were able to get here. But it looks like you've come to a place where you shouldn't be.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "I don't know how you were able to get here. But it looks like you've come to a place where you shouldn't be."
+msgstr ""
+
+# mes "Go back to where you belong.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Go back to where you belong."
+msgstr ""
+
+# mes "If there's any equipment that you are wearing now, or anything you're holding. Please empty it for your job change moment.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "If there's any equipment that you are wearing now, or anything you're holding. Please empty it for your job change moment."
+msgstr ""
+
+# mes "Talk to the Kafra Employee to use the storage.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "Talk to the Kafra Employee to use the storage."
+msgstr ""
+
+# mes "You might know already, if you are riding a Peco Peco, you should have left it behind. If you brought it, leave it and come again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "You might know already, if you are riding a Peco Peco, you should have left it behind. If you brought it, leave it and come again."
+msgstr ""
+
+# mes "One more thing. If you have any remaining skill-points, use it all and learn the skills. You won't be able to change jobs if you have any more skill points.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Captain"
+msgid "One more thing. If you have any remaining skill-points, use it all and learn the skills. You won't be able to change jobs if you have any more skill points."
+msgstr ""
+
+# mes "She holds up her chin quietly, nods lightly and notices me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "She holds up her chin quietly, nods lightly and notices me."
+msgstr ""
+
+# mes "Then after a moment she puts her face down and seems absorbed with other thoughts.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Then after a moment she puts her face down and seems absorbed with other thoughts."
+msgstr ""
+
+# mes "She finally opens her mouth and begins to talk.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "She finally opens her mouth and begins to talk."
+msgstr ""
+
+# mes "[Rune Knight, Lunarea]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "[Rune Knight, Lunarea]"
+msgstr ""
+
+# mes "5 minutes... When you endure and get rid of all, you succeed.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "5 minutes... When you endure and get rid of all, you succeed."
+msgstr ""
+
+# mes "In this test, Captain Tigris, Renoa, Velpino and I will visit together.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "In this test, Captain Tigris, Renoa, Velpino and I will visit together."
+msgstr ""
+
+# mes "If you want to, you can ask help from one of us. But don't think that we will always help.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "If you want to, you can ask help from one of us. But don't think that we will always help."
+msgstr ""
+
+# mes "Since it's a test, getting help from us is completely your choice. It doesn't matter if you take the test with our help or all by yourself.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Since it's a test, getting help from us is completely your choice. It doesn't matter if you take the test with our help or all by yourself."
+msgstr ""
+
+# mes "When you are ready to go to the test field talk to me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "When you are ready to go to the test field talk to me."
+msgstr ""
+
+# switch(select("Move to the test field now.", "Give me time to get ready.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Move to the test field now."
+msgstr ""
+
+# switch(select("Move to the test field now.", "Give me time to get ready.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Give me time to get ready."
+msgstr ""
+
+# mes "Did you fail? But, there's no limitation to the number of times you can try.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Did you fail? But, there's no limitation to the number of times you can try."
+msgstr ""
+
+# mes "If you want to take the test again. I can send you to the test field.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "If you want to take the test again. I can send you to the test field."
+msgstr ""
+
+# mes "If you are ready to move to the test field talk to me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "If you are ready to move to the test field talk to me."
+msgstr ""
+
+# switch(select("Move to the test field now.", "Please give me time to prepare.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Please give me time to prepare."
+msgstr ""
+
+# mes "Once someone enters into the test field you cannot enter directly. The test is taken one by one.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Once someone enters into the test field you cannot enter directly. The test is taken one by one."
+msgstr ""
+
+# mes "When it's your turn to enter you will be sent there directly.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "When it's your turn to enter you will be sent there directly."
+msgstr ""
+
+# mes "Was your test successful?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Was your test successful?"
+msgstr ""
+
+# mes "She shows a small smile which is barely visible and looks at me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "She shows a small smile which is barely visible and looks at me."
+msgstr ""
+
+# mes "This portion of the test is over. Go talk to Captain Tigris.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "This portion of the test is over. Go talk to Captain Tigris."
+msgstr ""
+
+# mes "There are other tests you need to complete. I hope you do a good job.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "There are other tests you need to complete. I hope you do a good job."
+msgstr ""
+
+# mes "This pale-skinned absent-looking female Rune Knight doesn't seem to care. Of course she doesn't seem interested with my existence";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "This pale-skinned absent-looking female Rune Knight doesn't seem to care. Of course she doesn't seem interested with my existence"
+msgstr ""
+
+# mes "She nods her head and reaches out her hand lightly. Then she draws her sword and makes a signal.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "She nods her head and reaches out her hand lightly. Then she draws her sword and makes a signal."
+msgstr ""
+
+# mes "But her expression suddenly changed a bit as she looked at to speak.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "But her expression suddenly changed a bit as she looked at to speak."
+msgstr ""
+
+# mes "Now... the testing room is currently occupied...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Now... the testing room is currently occupied..."
+msgstr ""
+
+# mes "You'll have to wait... it is regulation that the test must take place one by one.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "You'll have to wait... it is regulation that the test must take place one by one."
+msgstr ""
+
+# mes "Just wait 5 minutes and it should be your turn.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Lunarea"
+msgid "Just wait 5 minutes and it should be your turn."
+msgstr ""
+
+# mes "[Rune Knight, Renoa]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "[Rune Knight, Renoa]"
+msgstr ""
+
+# mes "Congratulations for becoming one of us. Junior Rune Knight, "+strcharinfo(PC_NAME)+".";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Congratulations for becoming one of us. Junior Rune Knight, "
+msgstr ""
+
+# mes "Soon you'll see the way we need to go clearly.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Soon you'll see the way we need to go clearly."
+msgstr ""
+
+# mes "Until then, I'll be here to discover more candidates just like you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Until then, I'll be here to discover more candidates just like you."
+msgstr ""
+
+# mes "Are you the one who wants to be a Rune Knight? There have been so many today.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Are you the one who wants to be a Rune Knight? There have been so many today."
+msgstr ""
+
+# mes "It's too bad that there haven't been many candidates that have made it to my part of the test yet so I'm just taking a bit of a rest.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "It's too bad that there haven't been many candidates that have made it to my part of the test yet so I'm just taking a bit of a rest."
+msgstr ""
+
+# mes "If you are taking the Rune Knight test I hope that you try your best. This won't be as easy to pass as Lunarea's test ok?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you are taking the Rune Knight test I hope that you try your best. This won't be as easy to pass as Lunarea's test ok?"
+msgstr ""
+
+# mes "Finally! Is it my turn? I'm so happy.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Finally! Is it my turn? I'm so happy."
+msgstr ""
+
+# mes "There have been so many candidates failing Lunarea's test that I've given up counting.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "There have been so many candidates failing Lunarea's test that I've given up counting."
+msgstr ""
+
+# mes "I am Renoa. I am in charge of the teaching and testing of runes and magic for Rune Knight candidates.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "I am Renoa. I am in charge of the teaching and testing of runes and magic for Rune Knight candidates."
+msgstr ""
+
+# mes "Thank you for all of your trouble taking the test so far. Okay, anyway.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Thank you for all of your trouble taking the test so far. Okay, anyway."
+msgstr ""
+
+# mes "Well first, I'll give you an assignment. Let's start by studying. Go to the library and study these books.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Well first, I'll give you an assignment. Let's start by studying. Go to the library and study these books."
+msgstr ""
+
+# mes "Umm, ^0000FFRunes and Rune Knights^000000, ^0000FFThe Principles of Runes^000000, ^0000FFThe Making and use of Runes^000000. Start with these 3...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Umm, ^0000FFRunes and Rune Knights^000000, ^0000FFThe Principles of Runes^000000, ^0000FFThe Making and use of Runes^000000. Start with these 3..."
+msgstr ""
+
+# mes "Read the book thoroughly and come back. If you are the type of person who doesn't like reading and studying then it won't be easy for you to live as a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Read the book thoroughly and come back. If you are the type of person who doesn't like reading and studying then it won't be easy for you to live as a Rune Knight."
+msgstr ""
+
+# mes "Don't worry, you won't be required to have the same knowledge as the magicians of Geffen or Juno. But you can't be an idiot either.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Don't worry, you won't be required to have the same knowledge as the magicians of Geffen or Juno. But you can't be an idiot either."
+msgstr ""
+
+# mes "Have you read all the books from the library? It won't be easy to read but if you are determined to be a Rune Knight, you have to have this kind of basic knowledge.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Have you read all the books from the library? It won't be easy to read but if you are determined to be a Rune Knight, you have to have this kind of basic knowledge."
+msgstr ""
+
+# mes "Basically, the power of magic cannot be used without training to draw out the power of nature and the elements.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Basically, the power of magic cannot be used without training to draw out the power of nature and the elements."
+msgstr ""
+
+# mes "Therefore, jobs such as Wizard and Sage have come out and the magic became their own sacred field.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Therefore, jobs such as Wizard and Sage have come out and the magic became their own sacred field."
+msgstr ""
+
+# mes "The leader of the Rune Knights, Beljeve, is known to have been in touch with the fairies even before the dimensional door of the Ash-Vacuum was made when Satan Morroc resurrected.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "The leader of the Rune Knights, Beljeve, is known to have been in touch with the fairies even before the dimensional door of the Ash-Vacuum was made when Satan Morroc resurrected."
+msgstr ""
+
+# mes "I heard a story from the magical scholars about the technology that can substantialize the essence of magic. I began a study to substantialize it to a rune by getting their help.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "I heard a story from the magical scholars about the technology that can substantialize the essence of magic. I began a study to substantialize it to a rune by getting their help."
+msgstr ""
+
+# mes "Our Rune Knight's were born from the result of that study, which enables practicing both the power of the sword and magic by using runes.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Our Rune Knight's were born from the result of that study, which enables practicing both the power of the sword and magic by using runes."
+msgstr ""
+
+# mes "You look like you don't understand why I'm repeating the teaching of the story already written in the book.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "You look like you don't understand why I'm repeating the teaching of the story already written in the book."
+msgstr ""
+
+# mes "So for the second test, you need to visit the Laphine magical scholars who had given the direct help to the birth of Rune Knights at Ash-Vacuum.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "So for the second test, you need to visit the Laphine magical scholars who had given the direct help to the birth of Rune Knights at Ash-Vacuum."
+msgstr ""
+
+# mes "Find the sage, Serpeone who's been studying and helping the Rune Knights who are out in the Rune-Midgard's camp at Ash-Vacuum.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Find the sage, Serpeone who's been studying and helping the Rune Knights who are out in the Rune-Midgard's camp at Ash-Vacuum."
+msgstr ""
+
+# mes "The sage has already been in touch with us for a long time so you don't need to worry about understanding Serpeone's language.c";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "The sage has already been in touch with us for a long time so you don't need to worry about understanding Serpeone's language.c"
+msgstr ""
+
+# mes "If you are ready I'll guide you to the warp that moves you directly to Serpeone. Meet her and get instructions from her.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you are ready I'll guide you to the warp that moves you directly to Serpeone. Meet her and get instructions from her."
+msgstr ""
+
+# mes "If you are ready I'll open the way to the sage, Serpeone who's in the Rune-Midgard post at Ash-Vacuum. Are you prepared?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you are ready I'll open the way to the sage, Serpeone who's in the Rune-Midgard post at Ash-Vacuum. Are you prepared?"
+msgstr ""
+
+# switch(select("Yes, I am prepared.", "Not yet.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Yes, I am prepared."
+msgstr ""
+
+# switch(select("Yes, I am prepared.", "Not yet.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Not yet."
+msgstr ""
+
+# mes "Good. Then I'll send you there now. But, there's one thing I need to tell you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Good. Then I'll send you there now. But, there's one thing I need to tell you."
+msgstr ""
+
+# mes "You will be sent to the Ash-Vacuum. The people dispatched to the Rune-Midgard post are certified adventurers and officials.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "You will be sent to the Ash-Vacuum. The people dispatched to the Rune-Midgard post are certified adventurers and officials."
+msgstr ""
+
+# mes "Beljeve has an agreement with the other alliance countries that the free behavior of our Rune Knights is guaranteed but...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Beljeve has an agreement with the other alliance countries that the free behavior of our Rune Knights is guaranteed but..."
+msgstr ""
+
+# mes "If you want to move freely through all of Ash-Vacuum, you'll have to go through the normal route which is acquiring qualification with the Rune-Midgard alliance. It has nothing to do with us.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you want to move freely through all of Ash-Vacuum, you'll have to go through the normal route which is acquiring qualification with the Rune-Midgard alliance. It has nothing to do with us."
+msgstr ""
+
+# mes "The agreement only allows us to send candidates to the Rune-Midgard camp and nowhere else.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "The agreement only allows us to send candidates to the Rune-Midgard camp and nowhere else."
+msgstr ""
+
+# mes "Good luck.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Good luck."
+msgstr ""
+
+# mes "If you are ready talk to me again. I'm free anytime.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you are ready talk to me again. I'm free anytime."
+msgstr ""
+
+# mes "Umm, you're back? How's it like in the Ash-Vacuum?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Umm, you're back? How's it like in the Ash-Vacuum?"
+msgstr ""
+
+# mes "Well, a person of your strength must have been there already no?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Well, a person of your strength must have been there already no?"
+msgstr ""
+
+# mes "Now it's time to take the test concerning runes. I know that you have been through quite a complicated process.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Now it's time to take the test concerning runes. I know that you have been through quite a complicated process."
+msgstr ""
+
+# mes "I am going to give you a test that allows you to deal with runes directly.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "I am going to give you a test that allows you to deal with runes directly."
+msgstr ""
+
+# mes "In this test you will be making a rune stone yourself which will also be used for your last test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "In this test you will be making a rune stone yourself which will also be used for your last test."
+msgstr ""
+
+# mes "If you remember what you read in the library just before, you'll be able to produce a rune stone here without my explanation.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you remember what you read in the library just before, you'll be able to produce a rune stone here without my explanation."
+msgstr ""
+
+# mes "If you succeed in making the rune stone it will automatically become the rune stone you'll use for yourself when you become a Rune Knight, so try your best.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you succeed in making the rune stone it will automatically become the rune stone you'll use for yourself when you become a Rune Knight, so try your best."
+msgstr ""
+
+# mes "The total number of rune stones you need to make is 20.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "The total number of rune stones you need to make is 20."
+msgstr ""
+
+# mes "Remember that well.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Remember that well."
+msgstr ""
+
+# mes "In this test you will be making a rune stone yourself which is going to be used for your last test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "In this test you will be making a rune stone yourself which is going to be used for your last test."
+msgstr ""
+
+# mes "If you remember the books you've read in the library just before, you'll be able to produce a rune stone here without my explanation.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you remember the books you've read in the library just before, you'll be able to produce a rune stone here without my explanation."
+msgstr ""
+
+# mes "If you succeed in making the rune stone automatically it becomes the rune stone you'll use for yourself when you succeed, and it's delivered to Captain Tigris...so try hard.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "If you succeed in making the rune stone automatically it becomes the rune stone you'll use for yourself when you succeed, and it's delivered to Captain Tigris...so try hard."
+msgstr ""
+
+# mes "The number of total rune stones you need to make is exactly 20. Remember that well.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "The number of total rune stones you need to make is exactly 20. Remember that well."
+msgstr ""
+
+# switch(select("Check number of made runes?", "I've made all the 20 rune stones.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Check number of made runes?"
+msgstr ""
+
+# switch(select("Check number of made runes?", "I've made all the 20 rune stones.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "I've made all the 20 rune stones."
+msgstr ""
+
+# mes "The number of rune stones made 'til now is " + job_rune_edq2 + ".";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "The number of rune stones made 'til now is "
+msgstr ""
+
+# mes "Hey! I think I told you to make at least 20.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Hey! I think I told you to make at least 20."
+msgstr ""
+
+# mes "You've brought just the right amount. I'll hand over all the finished rune stones to Captain Tigris.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "You've brought just the right amount. I'll hand over all the finished rune stones to Captain Tigris."
+msgstr ""
+
+# mes "Wow! What's this? You've made over 20. It's ok for now but remember to follow directions next time.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Wow! What's this? You've made over 20. It's ok for now but remember to follow directions next time."
+msgstr ""
+
+# mes "I'll hand over all the made rune stones to Captain Tigris.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "I'll hand over all the made rune stones to Captain Tigris."
+msgstr ""
+
+# mes "Because there is a test waiting for you that uses these rune stones.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Because there is a test waiting for you that uses these rune stones."
+msgstr ""
+
+# mes "Here, you've passed. Go back to Captain Tigris and complete the next test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Here, you've passed. Go back to Captain Tigris and complete the next test."
+msgstr ""
+
+# mes "Ha! You did a good job considering how difficult my test is. If you were nervous, you can relax now.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Ha! You did a good job considering how difficult my test is. If you were nervous, you can relax now."
+msgstr ""
+
+# mes "Become a proud Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Become a proud Rune Knight."
+msgstr ""
+
+# mes "How... how did you get in here?! Captain, we have a spy!";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "How... how did you get in here?! Captain, we have a spy!"
+msgstr ""
+
+# mes "[Captain Tigris]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "[Captain Tigris]"
+msgstr ""
+
+# mes "Ah? What are you talking about, Renoa? Don't talk in such a manner! You make us sound like criminals.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Ah? What are you talking about, Renoa? Don't talk in such a manner! You make us sound like criminals."
+msgstr ""
+
+# mes "Well, there is an unidentified person here.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Well, there is an unidentified person here."
+msgstr ""
+
+# mes "Ah... hey, friend, come over here and let us talk for a minute...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight, Renoa"
+msgid "Ah... hey, friend, come over here and let us talk for a minute..."
+msgstr ""
+
+# mes "[Rune Knight Renoa]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "[Rune Knight Renoa]"
+msgstr ""
+
+# mes "You don't want to touch that thing. Believe me, I'm not kidding.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "You don't want to touch that thing. Believe me, I'm not kidding."
+msgstr ""
+
+# mes "I can see a hole under the huge Rune Stone Statue behind Renoa. Clearly this is a mass-produced rune heating furnace that I read in the book.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "I can see a hole under the huge Rune Stone Statue behind Renoa. Clearly this is a mass-produced rune heating furnace that I read in the book."
+msgstr ""
+
+# if(select("Use the Rune Heating Furnace", "Stop.") == 2) close;
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "Use the Rune Heating Furnace"
+msgstr ""
+
+# if(select("Use the Rune Heating Furnace", "Stop.") == 2) close;
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "Stop."
+msgstr ""
+
+# mes "The magical power of the rune pitches and tosses while it is getting shaped.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "The magical power of the rune pitches and tosses while it is getting shaped."
+msgstr ""
+
+# mes "Wow! This is great. The image of the rune stone in my head and the modeled rune stone match perfectly. It's well made.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "Wow! This is great. The image of the rune stone in my head and the modeled rune stone match perfectly. It's well made."
+msgstr ""
+
+# mes "1 "+.@str$[0]+" rune was created normally.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "1 "
+msgstr ""
+
+# mes "1 "+.@str$[0]+" rune was created normally.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid " rune was created normally."
+msgstr ""
+
+# mes "I was lucky. The image of the rune stone in my head and the modelled rune stone didn't match but it's made normally. This case is rare.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "I was lucky. The image of the rune stone in my head and the modelled rune stone didn't match but it's made normally. This case is rare."
+msgstr ""
+
+# mes "It's a natural result. The image of the rune stone in my head and the modeled rune stone didn't match so the success rate just got lower.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "It's a natural result. The image of the rune stone in my head and the modeled rune stone didn't match so the success rate just got lower."
+msgstr ""
+
+# mes "Refining the rune stone has failed... Please try again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Furnace"
+msgid "Refining the rune stone has failed... Please try again."
+msgstr ""
+
+# mes "[Rune Knight Renoa]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "[Rune Knight Renoa]"
+msgstr ""
+
+# mes "Besides touching stuff in this place without permission. Would you be able to understand the contents of the book?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Besides touching stuff in this place without permission. Would you be able to understand the contents of the book?"
+msgstr ""
+
+# mes "[Captain Tigris]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "[Captain Tigris]"
+msgstr ""
+
+# mes "Hey Renoa, go easy on that Knight. You there too, you'd better stop touching stuff here without permission.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Hey Renoa, go easy on that Knight. You there too, you'd better stop touching stuff here without permission."
+msgstr ""
+
+# switch(select("The birth of Rune Knights", "Runes and Magic Energy", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "The birth of Rune Knights"
+msgstr ""
+
+# switch(select("The birth of Rune Knights", "Runes and Magic Energy", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Runes and Magic Energy"
+msgstr ""
+
+# switch(select("The birth of Rune Knights", "Runes and Magic Energy", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Stop Reading"
+msgstr ""
+
+# mes "Rune Knights are the gathering of evolved swordmen who have achieved the harmony of sword and magic.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Rune Knights are the gathering of evolved swordmen who have achieved the harmony of sword and magic."
+msgstr ""
+
+# mes "It had been achieved by the legendary swordsman Beljeve who's been known as a Sword Master and a founder of dispensable expenditure.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "It had been achieved by the legendary swordsman Beljeve who's been known as a Sword Master and a founder of dispensable expenditure."
+msgstr ""
+
+# mes "Rune Knights use rune stones as a medium for magic power rather than using the magical energy made directly within the body.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Rune Knights use rune stones as a medium for magic power rather than using the magical energy made directly within the body."
+msgstr ""
+
+# mes "Magic power could only previously be used by those who can harness magic power within their bodies through a long time of research";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Magic power could only previously be used by those who can harness magic power within their bodies through a long time of research"
+msgstr ""
+
+# mes "However, for the direct research on the rune magical power which had broken the human's normal concept is now ongoing.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "However, for the direct research on the rune magical power which had broken the human's normal concept is now ongoing."
+msgstr ""
+
+# mes "It's known that the Sword Master Beljeve felt the limit of his power, so he studied the way to overcome the physical limitation of mortals.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "It's known that the Sword Master Beljeve felt the limit of his power, so he studied the way to overcome the physical limitation of mortals."
+msgstr ""
+
+# mes "We guess he had been already in touch with the Laphine tribe long before the dimensional rift was discovered to get to the Ash-Vacuum.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "We guess he had been already in touch with the Laphine tribe long before the dimensional rift was discovered to get to the Ash-Vacuum."
+msgstr ""
+
+# mes "The Laphine tribe are the fairies from the Ash-Vacuum and are known to have a close relationship to the birth of the Rune Knights.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "The Laphine tribe are the fairies from the Ash-Vacuum and are known to have a close relationship to the birth of the Rune Knights."
+msgstr ""
+
+# mes "Now it's possible for those who are normally unsuited to using magic power to carry a medium that can carry magic that normal mortals could not wield before.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Now it's possible for those who are normally unsuited to using magic power to carry a medium that can carry magic that normal mortals could not wield before."
+msgstr ""
+
+# mes "The result of studying these techniques are the rune stones tuned in harmony with the physical power of swords.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "The result of studying these techniques are the rune stones tuned in harmony with the physical power of swords."
+msgstr ""
+
+# mes "Beljeve's disciples who started to learn the way to imbue their swords with rune stones became known as Rune Knights.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Beljeve's disciples who started to learn the way to imbue their swords with rune stones became known as Rune Knights."
+msgstr ""
+
+# mes "A jewel called as a Rune is a medium that contains the formless existence, the magical power and the essence of it can be used directly.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "A jewel called as a Rune is a medium that contains the formless existence, the magical power and the essence of it can be used directly."
+msgstr ""
+
+# mes "The Laphine Sage, Serpeone and the founder of Rune Knights Beljeve co-researched runes and the result of their research has only recently become to be known to the world.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "The Laphine Sage, Serpeone and the founder of Rune Knights Beljeve co-researched runes and the result of their research has only recently become to be known to the world."
+msgstr ""
+
+# mes "It's a limitless alternative energy source and research on them is still ongoing. ";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "It's a limitless alternative energy source and research on them is still ongoing. "
+msgstr ""
+
+# mes "Unlike humans, the living things in the Ash-Vacuum preserve magical energy by holding it in their bodies.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "Unlike humans, the living things in the Ash-Vacuum preserve magical energy by holding it in their bodies."
+msgstr ""
+
+# mes "The discovery of transvering this magical power into runes was refined by Beljeve and Serpeone and shared with the Rune Knights.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes and Rune Knights"
+msgid "The discovery of transvering this magical power into runes was refined by Beljeve and Serpeone and shared with the Rune Knights."
+msgstr ""
+
+# mes "[Rune Knight Renoa]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "[Rune Knight Renoa]"
+msgstr ""
+
+# mes "Besides touching stuff in this place without permission. Would you be able to understand the contents of the book?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "Besides touching stuff in this place without permission. Would you be able to understand the contents of the book?"
+msgstr ""
+
+# mes "[Captain Tigris]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "[Captain Tigris]"
+msgstr ""
+
+# mes "Hey Renoa, go easy on that Knight. You there too, you'd better stop touching stuff here without permission.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "Hey Renoa, go easy on that Knight. You there too, you'd better stop touching stuff here without permission."
+msgstr ""
+
+# switch(select("The principle use of Runes", "The types of Runes", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "The principle use of Runes"
+msgstr ""
+
+# switch(select("The principle use of Runes", "The types of Runes", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "The types of Runes"
+msgstr ""
+
+# switch(select("The principle use of Runes", "The types of Runes", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "Stop Reading"
+msgstr ""
+
+# mes "A rune is a kind of symbol that's been used on the Rune-Midgard continent since ancient times. Up until now it has only been used by occult circles.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "A rune is a kind of symbol that's been used on the Rune-Midgard continent since ancient times. Up until now it has only been used by occult circles."
+msgstr ""
+
+# mes "Runes are used as a symbol system, however, by the story handed down orally, it's known to be used for fortune-telling or used to draw out the human sub consciousness.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "Runes are used as a symbol system, however, by the story handed down orally, it's known to be used for fortune-telling or used to draw out the human sub consciousness."
+msgstr ""
+
+# mes "Runes have their own system and types and can draw out various powers according to how they are arranged. But their power level can't currently be measured by known means.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "Runes have their own system and types and can draw out various powers according to how they are arranged. But their power level can't currently be measured by known means."
+msgstr ""
+
+# mes "It is fortunate that the Rune Knights discovered their use for positive means. Runes have not been used for dark magic but it is certainly possible for their power to be misused if in the wrong hands.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "It is fortunate that the Rune Knights discovered their use for positive means. Runes have not been used for dark magic but it is certainly possible for their power to be misused if in the wrong hands."
+msgstr ""
+
+# mes "The runes are created from a a total of 25 small stones and they are very fragile to physical shock. So they require special care when being handled.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "The runes are created from a a total of 25 small stones and they are very fragile to physical shock. So they require special care when being handled."
+msgstr ""
+
+# mes "The 25 stones have different meanings and among these, 14 when counter-positioned can have entirely different power and meaning from the original so it's essential to study the exceptional aspects.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "The 25 stones have different meanings and among these, 14 when counter-positioned can have entirely different power and meaning from the original so it's essential to study the exceptional aspects."
+msgstr ""
+
+# mes "The other 11 runes have consistent power, not influenced by any position so if you don't master all 11 ordinary runes and the 14 inverse runes, you cannot draw out all the complete power.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "The other 11 runes have consistent power, not influenced by any position so if you don't master all 11 ordinary runes and the 14 inverse runes, you cannot draw out all the complete power."
+msgstr ""
+
+# mes "Among the 11 ordinary runes, the blank rune is an exception.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "Among the 11 ordinary runes, the blank rune is an exception."
+msgstr ""
+
+# mes "The names of the 25 rune stones are the following:";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "The names of the 25 rune stones are the following:"
+msgstr ""
+
+# mes "Ehwaz, Osilia, Mannaz, Ansuz, Hagalas, Kano, Rhydo, Turisus, Dagaz, Sowilo, Laguz, Isia, Pertz, Verkana, Gebo, Algiz, Arwez, Teiwaz, Wunjo, Jera, Nosiege, Ingz, Fehu, Urj.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "The Principles of Runes"
+msgid "Ehwaz, Osilia, Mannaz, Ansuz, Hagalas, Kano, Rhydo, Turisus, Dagaz, Sowilo, Laguz, Isia, Pertz, Verkana, Gebo, Algiz, Arwez, Teiwaz, Wunjo, Jera, Nosiege, Ingz, Fehu, Urj."
+msgstr ""
+
+# mes "[Rune Knight Renoa]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "[Rune Knight Renoa]"
+msgstr ""
+
+# mes "Besides touching stuff in this place without permission. Would you be able to understand the contents of the book?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Besides touching stuff in this place without permission. Would you be able to understand the contents of the book?"
+msgstr ""
+
+# mes "[Captain Tigris]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "[Captain Tigris]"
+msgstr ""
+
+# mes "Hey Renoa, go easy on that Knight. You there too, you'd better stop touching stuff here without permission.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Hey Renoa, go easy on that Knight. You there too, you'd better stop touching stuff here without permission."
+msgstr ""
+
+# switch(select("The Making of Rune Stones", "Rune Stone Ability Details", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "The Making of Rune Stones"
+msgstr ""
+
+# switch(select("The Making of Rune Stones", "Rune Stone Ability Details", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Rune Stone Ability Details"
+msgstr ""
+
+# switch(select("The Making of Rune Stones", "Rune Stone Ability Details", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Stop Reading"
+msgstr ""
+
+# mes "The making of Rune stones is achieved through a skill called rune mastery which is learned when one becomes a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "The making of Rune stones is achieved through a skill called rune mastery which is learned when one becomes a Rune Knight."
+msgstr ""
+
+# mes "Rune Mastery is like a code that's been put into the body as a mark of a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Rune Mastery is like a code that's been put into the body as a mark of a Rune Knight."
+msgstr ""
+
+# mes "Ordinary people can also learn this skill and it needs its own machine called a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Ordinary people can also learn this skill and it needs its own machine called a Rune Furnace."
+msgstr ""
+
+# mes "When you making a Rune stone with a Rune Furnace, the type of rune is determined by the magical energy put into it, and it cannot be changed.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "When you making a Rune stone with a Rune Furnace, the type of rune is determined by the magical energy put into it, and it cannot be changed."
+msgstr ""
+
+# mes "When making a rune stone by using Rune Mastery, it can be made into the rune property that you want but it's classified as a Rune Knights' own ability.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "When making a rune stone by using Rune Mastery, it can be made into the rune property that you want but it's classified as a Rune Knights' own ability."
+msgstr ""
+
+# mes "When you operate the Rune Furnace, the magical energy of the body gets concentrated through it and it enables the change into a Rune Stone.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "When you operate the Rune Furnace, the magical energy of the body gets concentrated through it and it enables the change into a Rune Stone."
+msgstr ""
+
+# switch(select("Chapter One", "Chapter Two", "Chapter Three", "Chapter Four", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Chapter One"
+msgstr ""
+
+# switch(select("Chapter One", "Chapter Two", "Chapter Three", "Chapter Four", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Chapter Two"
+msgstr ""
+
+# switch(select("Chapter One", "Chapter Two", "Chapter Three", "Chapter Four", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Chapter Three"
+msgstr ""
+
+# switch(select("Chapter One", "Chapter Two", "Chapter Three", "Chapter Four", "Stop Reading")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Chapter Four"
+msgstr ""
+
+# mes "Ehwaz - This rune means the enhancement of luck and positive power. It shapes the source in the form of a red spiral in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Ehwaz - This rune means the enhancement of luck and positive power. It shapes the source in the form of a red spiral in a Rune Furnace."
+msgstr ""
+
+# mes "Osilia - This rune is an equivalent exchangement which means that you lose one and you gain one, and it also means the power that needs a cost. This is shaped into the form of a violet oblique line in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Osilia - This rune is an equivalent exchangement which means that you lose one and you gain one, and it also means the power that needs a cost. This is shaped into the form of a violet oblique line in a Rune Furnace."
+msgstr ""
+
+# mes "Mannaz - This rune means hope and a new start and also the positive power that can reverse a desperate situation. This is shaped into the form of an emerald diamond in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Mannaz - This rune means hope and a new start and also the positive power that can reverse a desperate situation. This is shaped into the form of an emerald diamond in a Rune Furnace."
+msgstr ""
+
+# mes "Ansuz - This rune means preparation or arrangement and the power that can overcome the uneasiness of the coming future. This is shaped into the form of an emerald round in a Rune Furnace. ";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Ansuz - This rune means preparation or arrangement and the power that can overcome the uneasiness of the coming future. This is shaped into the form of an emerald round in a Rune Furnace. "
+msgstr ""
+
+# mes "Hagalas - This rune means the freedom and the power that resists restraint. This is shaped into the form of a sky-blue colored star-shape in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Hagalas - This rune means the freedom and the power that resists restraint. This is shaped into the form of a sky-blue colored star-shape in a Rune Furnace."
+msgstr ""
+
+# mes "Kano - This rune means flame and passion, and the power that ends everything. The source of it is shaped into the form of a red diamond in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Kano - This rune means flame and passion, and the power that ends everything. The source of it is shaped into the form of a red diamond in a Rune Furnace."
+msgstr ""
+
+# mes "Rhydo - This rune means the combination and recombination and the power of completion. This is shaped into the sky-blue oblique line in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Rhydo - This rune means the combination and recombination and the power of completion. This is shaped into the sky-blue oblique line in a Rune Furnace."
+msgstr ""
+
+# mes "Turisus - This rune means the border and the power of limitation. This is shaped into a yellow round in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Turisus - This rune means the border and the power of limitation. This is shaped into a yellow round in a Rune Furnace."
+msgstr ""
+
+# mes "Dagaz - This rune means the talent and the power of enduring adversity. This is shaped into an emerald spiral in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Dagaz - This rune means the talent and the power of enduring adversity. This is shaped into an emerald spiral in a Rune Furnace."
+msgstr ""
+
+# mes "Sowilo - This rune means victory and success and the power of arrangement and cessation. This is shaped into the form of a sky-blue fan-shape in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Sowilo - This rune means victory and success and the power of arrangement and cessation. This is shaped into the form of a sky-blue fan-shape in a Rune Furnace."
+msgstr ""
+
+# mes "Laguz -This rune means uncertainty and the power that protects the inside. This is shaped into a form of a yellow diamond in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Laguz -This rune means uncertainty and the power that protects the inside. This is shaped into a form of a yellow diamond in a Rune Furnace."
+msgstr ""
+
+# mes "Isia - This rune means the power that stops everything. This is shaped into a violet spiral in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Isia - This rune means the power that stops everything. This is shaped into a violet spiral in a Rune Furnace."
+msgstr ""
+
+# mes "Pertz - This rune means revelation and the power of chance. This is shaped into the form of silver spiral in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Pertz - This rune means revelation and the power of chance. This is shaped into the form of silver spiral in a Rune Furnace."
+msgstr ""
+
+# mes "Verkana - This rune means richness, birth and the power of defense and protection. This is shaped into the form of a gold-color star in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Verkana - This rune means richness, birth and the power of defense and protection. This is shaped into the form of a gold-color star in a Rune Furnace."
+msgstr ""
+
+# mes "Gebo - This rune means cooperation and the power of harmony. This is shaped into the form of a yellow cone in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Gebo - This rune means cooperation and the power of harmony. This is shaped into the form of a yellow cone in a Rune Furnace."
+msgstr ""
+
+# mes "Algiz - This rune means chance and the power of challenge. This is shaped into the form of an emerald oblique line in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Algiz - This rune means chance and the power of challenge. This is shaped into the form of an emerald oblique line in a Rune Furnace."
+msgstr ""
+
+# mes "Arwez - This rune means change, convulsion and the power of movement. This is shaped into the form of a gray diamond in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Arwez - This rune means change, convulsion and the power of movement. This is shaped into the form of a gray diamond in a Rune Furnace."
+msgstr ""
+
+# mes "Teiwaz - This rune means perfect victory and the power of absolute solution. This is shaped into the form of a gold round in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Teiwaz - This rune means perfect victory and the power of absolute solution. This is shaped into the form of a gold round in a Rune Furnace."
+msgstr ""
+
+# mes "Wunjo - This rune means intelligence and the power of wisdom. This is shaped into the form of an emerald star in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Wunjo - This rune means intelligence and the power of wisdom. This is shaped into the form of an emerald star in a Rune Furnace."
+msgstr ""
+
+# mes "Jera - This rune means comfort and the power of rest. This is shaped into the form of a yellow round in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Jera - This rune means comfort and the power of rest. This is shaped into the form of a yellow round in a Rune Furnace."
+msgstr ""
+
+# mes "Nosiege - This rune means weakness and the power of attenuating. This is shaped into the form of a yellow fan-shape in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Nosiege - This rune means weakness and the power of attenuating. This is shaped into the form of a yellow fan-shape in a Rune Furnace."
+msgstr ""
+
+# mes "Ingz - This rune means disruption and the power of separation. This is shaped into the form of a violet diamond in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Ingz - This rune means disruption and the power of separation. This is shaped into the form of a violet diamond in a Rune Furnace."
+msgstr ""
+
+# mes "Fehu - This rune means attainment and the power of materialization. This is shaped into the form of a silver round in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Fehu - This rune means attainment and the power of materialization. This is shaped into the form of a silver round in a Rune Furnace."
+msgstr ""
+
+# mes "Urj - This rune means destiny and the power of restriction. This is shaped into the form of a violet spiral line in a Rune Furnace.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Runes, Make & Use"
+msgid "Urj - This rune means destiny and the power of restriction. This is shaped into the form of a violet spiral line in a Rune Furnace."
+msgstr ""
+
+# mes "[Rune Knight Sage Guard]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "[Rune Knight Sage Guard]"
+msgstr ""
+
+# mes "The sage Serpeone is the one who has been with us since the beginning of the Rune Knights.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "The sage Serpeone is the one who has been with us since the beginning of the Rune Knights."
+msgstr ""
+
+# mes "I am very proud as a Rune Knight to serve beside her.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "I am very proud as a Rune Knight to serve beside her."
+msgstr ""
+
+# mes "You might be walking the way of the sword but you are not a Rune Knight yet. Don't wander around here too much if you know what I mean.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "You might be walking the way of the sword but you are not a Rune Knight yet. Don't wander around here too much if you know what I mean."
+msgstr ""
+
+# mes "Splendide is the land of the Laphine. We are offering a convenience by an agreement between the Rune Knights and the expeditionary team.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "Splendide is the land of the Laphine. We are offering a convenience by an agreement between the Rune Knights and the expeditionary team."
+msgstr ""
+
+# mes "Our agents are opening the way to Splendide only for the trainees who are taking the Rune Knight job change test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "Our agents are opening the way to Splendide only for the trainees who are taking the Rune Knight job change test."
+msgstr ""
+
+# mes "But when you become a Rune Knight, you'll need to make sure that you join the expeditionary team in order to fully explore the Ash-Vacuum.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "But when you become a Rune Knight, you'll need to make sure that you join the expeditionary team in order to fully explore the Ash-Vacuum."
+msgstr ""
+
+# mes "Hanging around this man won't be good for you. Keep going the way you were heading.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Sage Guard"
+msgid "Hanging around this man won't be good for you. Keep going the way you were heading."
+msgstr ""
+
+# mes "[Dispatched Rune Knight]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "[Dispatched Rune Knight]"
+msgstr ""
+
+# mes "Thanks for your work. We will continue our mission for the Rune Knight testers.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Thanks for your work. We will continue our mission for the Rune Knight testers."
+msgstr ""
+
+# mes "I've been waiting for you Rune Knight candidate. I'm helping the candidates as a favor to Ms. Serpeone.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "I've been waiting for you Rune Knight candidate. I'm helping the candidates as a favor to Ms. Serpeone."
+msgstr ""
+
+# mes "Do you want to go out to the Splendide field?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Do you want to go out to the Splendide field?"
+msgstr ""
+
+# if(select("Move to Splendide field", "Cancel.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Move to Splendide field"
+msgstr ""
+
+# if(select("Move to Splendide field", "Cancel.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Cancel."
+msgstr ""
+
+# mes "Do you want to go back to the expeditionary team's post?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Do you want to go back to the expeditionary team's post?"
+msgstr ""
+
+# if(select("Yes please.", "Not yet.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Yes please."
+msgstr ""
+
+# if(select("Yes please.", "Not yet.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Not yet."
+msgstr ""
+
+# mes "Shh... Our mission is not something to be revealed to the public. Please just move along.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Dispatched Rune Knight#1"
+msgid "Shh... Our mission is not something to be revealed to the public. Please just move along."
+msgstr ""
+
+# mes "- Whispers of the sage Serpeone are delivered to my mind. -";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "#Barricade1"
+msgid "- Whispers of the sage Serpeone are delivered to my mind. -"
+msgstr ""
+
+# mes "[Sage Serpeone]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "#Barricade1"
+msgid "[Sage Serpeone]"
+msgstr ""
+
+# mes "Until you become an honorable Rune Knight I cannot help you control your powers in Rune-Midgard.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "#Barricade1"
+msgid "Until you become an honorable Rune Knight I cannot help you control your powers in Rune-Midgard."
+msgstr ""
+
+# mes "Please understand this and be devoted to this test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "#Barricade1"
+msgid "Please understand this and be devoted to this test."
+msgstr ""
+
+# mes "[Sage Serpeone]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "[Sage Serpeone]"
+msgstr ""
+
+# mes "Finally you are an honorable Rune Knight. I'm happy to help you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Finally you are an honorable Rune Knight. I'm happy to help you."
+msgstr ""
+
+# mes "The power of Runes are not perfect and more research still needs to be done to make it perfectly safe. It is up to me and other Rune Knights like you to make sure to continue that research.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "The power of Runes are not perfect and more research still needs to be done to make it perfectly safe. It is up to me and other Rune Knights like you to make sure to continue that research."
+msgstr ""
+
+# mes "Please be devoted to the Runes and hopefully your life will be illuminated by it.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Please be devoted to the Runes and hopefully your life will be illuminated by it."
+msgstr ""
+
+# mes "It must be surprising that I, a Laphine, am here in your people's base.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "It must be surprising that I, a Laphine, am here in your people's base."
+msgstr ""
+
+# mes "Some of us have been in contact with humans in special situations since even before the dimensional rift opened up.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Some of us have been in contact with humans in special situations since even before the dimensional rift opened up."
+msgstr ""
+
+# mes "I have been having correspondences with humans for a number of years now. It was for mutual interests. Anyway, that's how I learned your language.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I have been having correspondences with humans for a number of years now. It was for mutual interests. Anyway, that's how I learned your language."
+msgstr ""
+
+# mes "Maybe there needs to be a machine that can translate the Laphine language to make it easier for humans to understand us.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Maybe there needs to be a machine that can translate the Laphine language to make it easier for humans to understand us."
+msgstr ""
+
+# mes "More than that... I cannot tell you more. I cannot speak carelessly since I'm speaking for my people here and I am on a special pass to be allowed in your camp.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "More than that... I cannot tell you more. I cannot speak carelessly since I'm speaking for my people here and I am on a special pass to be allowed in your camp."
+msgstr ""
+
+# mes "Welcome, you are the one taking the job training test of the Rune Knights. I am Serpeone.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Welcome, you are the one taking the job training test of the Rune Knights. I am Serpeone."
+msgstr ""
+
+# mes "All Rune Knights that you've met so far are the disciples who were taught by me and Beljeve. Now you are on your way to joining them.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "All Rune Knights that you've met so far are the disciples who were taught by me and Beljeve. Now you are on your way to joining them."
+msgstr ""
+
+# mes "I think you've already heard a basic explanation and instructions from Renoa. Now it seems that it's my turn to help you out.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I think you've already heard a basic explanation and instructions from Renoa. Now it seems that it's my turn to help you out."
+msgstr ""
+
+# mes "The magical power that the Rune Knights use are not technically the same as the magical power made in the human world.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "The magical power that the Rune Knights use are not technically the same as the magical power made in the human world."
+msgstr ""
+
+# mes "Right this place... our sphere where you call as Ash-Vacuum...it's the magical power made with";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Right this place... our sphere where you call as Ash-Vacuum...it's the magical power made with"
+msgstr ""
+
+# mes "The living things in this place have been preserving the magical energy in our bodies unlike the living things in the human world.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "The living things in this place have been preserving the magical energy in our bodies unlike the living things in the human world."
+msgstr ""
+
+# mes "The power of the rune stones is the way of shaping the magical power in our bodies into runes which take place of our bodies as a medium.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "The power of the rune stones is the way of shaping the magical power in our bodies into runes which take place of our bodies as a medium."
+msgstr ""
+
+# mes "So to use the rune stone you need a direct understanding of the other sphere's living things.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "So to use the rune stone you need a direct understanding of the other sphere's living things."
+msgstr ""
+
+# mes "But, it must be too much for you to extract the magical energy from the living things in this land yet.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "But, it must be too much for you to extract the magical energy from the living things in this land yet."
+msgstr ""
+
+# mes "Now I'll cast a magic spell on your body so you can gather magic energy from other living things.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Now I'll cast a magic spell on your body so you can gather magic energy from other living things."
+msgstr ""
+
+# mes "Temporarily you'll able to extract magic energy from evil creatures in the human world. Of course you won't be able to use the energy directly...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Temporarily you'll able to extract magic energy from evil creatures in the human world. Of course you won't be able to use the energy directly..."
+msgstr ""
+
+# mes "If you store up the energy by getting rid of evil creatures in the human world, I'll convert it to the energy that you can use.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "If you store up the energy by getting rid of evil creatures in the human world, I'll convert it to the energy that you can use."
+msgstr ""
+
+# mes "The vicious souls that they keep even after being dead is the great source of magical powers.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "The vicious souls that they keep even after being dead is the great source of magical powers."
+msgstr ""
+
+# mes "Please get rid of ^0000FF10 Dullahan^000000, ^0000FF10 Disguise^000000, ^0000FF10 Quve^000000, ^0000FF10 Heirozoist^000000 and gather their energy.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Please get rid of ^0000FF10 Dullahan^000000, ^0000FF10 Disguise^000000, ^0000FF10 Quve^000000, ^0000FF10 Heirozoist^000000 and gather their energy."
+msgstr ""
+
+# mes "I am telling you beforehand but I don't test or judge your qualification. A Rune Knight will be the judge of that.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I am telling you beforehand but I don't test or judge your qualification. A Rune Knight will be the judge of that."
+msgstr ""
+
+# mes "If you have any problems or any questions, please talk to me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "If you have any problems or any questions, please talk to me."
+msgstr ""
+
+# mes "Are you gathering enough magical energy? Or do you have any questions?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Are you gathering enough magical energy? Or do you have any questions?"
+msgstr ""
+
+# switch(select("I've gathered enough energy.", "To the gathering place.", "Stop the conversation.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I've gathered enough energy."
+msgstr ""
+
+# switch(select("I've gathered enough energy.", "To the gathering place.", "Stop the conversation.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "To the gathering place."
+msgstr ""
+
+# switch(select("I've gathered enough energy.", "To the gathering place.", "Stop the conversation.")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Stop the conversation."
+msgstr ""
+
+# mes "Is it so? Then let's check this out.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Is it so? Then let's check this out."
+msgstr ""
+
+# mes "Umm, this is great. Enough amount of living body magical energy has accumulated in your body.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Umm, this is great. Enough amount of living body magical energy has accumulated in your body."
+msgstr ""
+
+# mes "Rune Knight Renoa will tell you the way of using rune stones.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Rune Knight Renoa will tell you the way of using rune stones."
+msgstr ""
+
+# mes "Now I think my part is all over. I hope you will become an honorable Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Now I think my part is all over. I hope you will become an honorable Rune Knight."
+msgstr ""
+
+# mes "If you have any business here, I'll send you to the Rune Knight gathering place. If you are ready, please tell me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "If you have any business here, I'll send you to the Rune Knight gathering place. If you are ready, please tell me."
+msgstr ""
+
+# mes "You haven't collected enough magical energy yet.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "You haven't collected enough magical energy yet."
+msgstr ""
+
+# mes "Please brace yourself and gather enough energy by dispatching those monsters.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Please brace yourself and gather enough energy by dispatching those monsters."
+msgstr ""
+
+# mes "You want to go back to the gathering place? If you want I'll send you back there immediately. But to continue the test you'll need to come and see me again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "You want to go back to the gathering place? If you want I'll send you back there immediately. But to continue the test you'll need to come and see me again."
+msgstr ""
+
+# mes "Do you want to go back the Rune Knight gathering place?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Do you want to go back the Rune Knight gathering place?"
+msgstr ""
+
+# if(select("I want to go back.", "I want to cancel.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I want to go back."
+msgstr ""
+
+# if(select("I want to go back.", "I want to cancel.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I want to cancel."
+msgstr ""
+
+# mes "Are you ready to go back to the Rune Knight gathering place?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Are you ready to go back to the Rune Knight gathering place?"
+msgstr ""
+
+# if(select("I want to go back now.", "I am not ready yet.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I want to go back now."
+msgstr ""
+
+# if(select("I want to go back now.", "I am not ready yet.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I am not ready yet."
+msgstr ""
+
+# mes "Are the preparations going well?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Are the preparations going well?"
+msgstr ""
+
+# mes "Aren't you in the wrong state right now?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Aren't you in the wrong state right now?"
+msgstr ""
+
+# mes "Then I'll send you to the Rune Knight gathering place where you should be.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "Then I'll send you to the Rune Knight gathering place where you should be."
+msgstr ""
+
+# if(select("I'll go back now.", "I'll stay.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I'll go back now."
+msgstr ""
+
+# if(select("I'll go back now.", "I'll stay.") == 1)
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Sage Serpeone"
+msgid "I'll stay."
+msgstr ""
+
+# mes "[Rune Knight Velpino]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "[Rune Knight Velpino]"
+msgstr ""
+
+# mes "You still smell like a fledging. Bring honor to the Rune Knights and raise your power...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "You still smell like a fledging. Bring honor to the Rune Knights and raise your power..."
+msgstr ""
+
+# mes "A very cold feeling Rune Knight dressed in black from head to toe is scowling at me.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "A very cold feeling Rune Knight dressed in black from head to toe is scowling at me."
+msgstr ""
+
+# mes "Why are all of the Rune Knights blabberers or uncommunicative and combative...?";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Why are all of the Rune Knights blabberers or uncommunicative and combative...?"
+msgstr ""
+
+# mes "[Captain Tigris]";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "[Captain Tigris]"
+msgstr ""
+
+# mes "Hey... What about me? I'm not like that!";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Hey... What about me? I'm not like that!"
+msgstr ""
+
+# mes "I didn't think that a candidate would make it to me today...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "I didn't think that a candidate would make it to me today..."
+msgstr ""
+
+# mes "Congratulations! You are at the long-waited final test... I think you've mastered the basics now.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Congratulations! You are at the long-waited final test... I think you've mastered the basics now."
+msgstr ""
+
+# mes "The final test is relatively simple. Everything ends when you get rid of all the magical monsters in this Glast Heim...";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "The final test is relatively simple. Everything ends when you get rid of all the magical monsters in this Glast Heim..."
+msgstr ""
+
+# mes "The only condition is that you have to get rid of these monsters by using the rune stones you made at the former test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "The only condition is that you have to get rid of these monsters by using the rune stones you made at the former test."
+msgstr ""
+
+# mes "For this test, only a one-hand weapon, a shield or a two-handed weapon can be equipped.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "For this test, only a one-hand weapon, a shield or a two-handed weapon can be equipped."
+msgstr ""
+
+# mes "The only set of weapons you can use should be within the weight limit of 400. Rune stones to be provided are 30 attack-only rune stones and 30 defense-only rune stones.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "The only set of weapons you can use should be within the weight limit of 400. Rune stones to be provided are 30 attack-only rune stones and 30 defense-only rune stones."
+msgstr ""
+
+# mes "To use these runes, I will cast a special buff spell over you.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "To use these runes, I will cast a special buff spell over you."
+msgstr ""
+
+# mes "The magical monsters are the 3 kinds of magic monsters from Glast Heim that you might already know... It won't be an easy fight but if you just undergo this final suffering, you'll walk the path of a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "The magical monsters are the 3 kinds of magic monsters from Glast Heim that you might already know... It won't be an easy fight but if you just undergo this final suffering, you'll walk the path of a Rune Knight."
+msgstr ""
+
+# mes "To help the preparation we've made a contract with the Kafra headquarters in Al De Baran by employing a Kafra Employee especially for this gathering place. So it would be good to visit her.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "To help the preparation we've made a contract with the Kafra headquarters in Al De Baran by employing a Kafra Employee especially for this gathering place. So it would be good to visit her."
+msgstr ""
+
+# mes "If you are ready just talk to me again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "If you are ready just talk to me again."
+msgstr ""
+
+# mes "If all of your preparations are done, I'll send you to the final test field.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "If all of your preparations are done, I'll send you to the final test field."
+msgstr ""
+
+# if(select("Enter the final test field.", "I'm not ready yet.") == 2) close;
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Enter the final test field."
+msgstr ""
+
+# if(select("Enter the final test field.", "I'm not ready yet.") == 2) close;
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "I'm not ready yet."
+msgstr ""
+
+# mes "For this test, only a one-hand weapon, a shield or a two-handed weapon can be equipped. Keep your other equipments with the Kafra Employee in the center.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "For this test, only a one-hand weapon, a shield or a two-handed weapon can be equipped. Keep your other equipments with the Kafra Employee in the center."
+msgstr ""
+
+# mes "Haven't you failed at the test... If you fail once, you cannot enter again for 10 minutes.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Haven't you failed at the test... If you fail once, you cannot enter again for 10 minutes."
+msgstr ""
+
+# mes "It's a consideration for the other testers who are waiting for the test, just like you, so come back after the designated time.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "It's a consideration for the other testers who are waiting for the test, just like you, so come back after the designated time."
+msgstr ""
+
+# mes "The remaining stuff you are holding should be kept by the Kafra employee in the middle.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "The remaining stuff you are holding should be kept by the Kafra employee in the middle."
+msgstr ""
+
+# mes "Looks like there is already an applicant in the test room.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Looks like there is already an applicant in the test room."
+msgstr ""
+
+# mes "Be patient and wait your turn.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Be patient and wait your turn."
+msgstr ""
+
+# mes "Wait, I'll collect all the rune stones provided before. There's a certain limit on using the rune stones that's made for the test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Wait, I'll collect all the rune stones provided before. There's a certain limit on using the rune stones that's made for the test."
+msgstr ""
+
+# mes "I'll get new rune stones so if your preparation is all done, please talk to me again.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "I'll get new rune stones so if your preparation is all done, please talk to me again."
+msgstr ""
+
+# mes "You've been very successful up to the last test.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "You've been very successful up to the last test."
+msgstr ""
+
+# mes "Now all the tests you need to take are over. Go back to Captain Tigris and inform him of this test result, and then feel the deep emotion of being born again as a Rune Knight.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Now all the tests you need to take are over. Go back to Captain Tigris and inform him of this test result, and then feel the deep emotion of being born again as a Rune Knight."
+msgstr ""
+
+# mes "Congratulations!";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Congratulations!"
+msgstr ""
+
+# mes "Well I'd better go now for the remaining candidates.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "Well I'd better go now for the remaining candidates."
+msgstr ""
+
+# mes "I'll need to re-use these unused rune stones. Talk to me again once I have taken all the test rune stones.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "Rune Knight Velpino"
+msgid "I'll need to re-use these unused rune stones. Talk to me again once I have taken all the test rune stones."
+msgstr ""
+
+# mes "Enter the Password.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "Enter the Password."
+msgstr ""
+
+# mes "Rune Knight Job Change Managing Module Start";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "Rune Knight Job Change Managing Module Start"
+msgstr ""
+
+# switch(select("GlobalVar check", "GlobalVar Oneshot Modification")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "GlobalVar check"
+msgstr ""
+
+# switch(select("GlobalVar check", "GlobalVar Oneshot Modification")) {
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "GlobalVar Oneshot Modification"
+msgstr ""
+
+# mes "Rune Knight Job Change GlobalVar right now is " + $@job_rune_test1 + ".";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "Rune Knight Job Change GlobalVar right now is "
+msgstr ""
+
+# mes "Rune Knight Job Change GlobalVar right now is " + $@job_rune_test1 + ".";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "."
+msgstr ""
+
+# mes "The number of Rune Knight Test field right now is... " + getmapusers("job3_rune02") + ".";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "The number of Rune Knight Test field right now is... "
+msgstr ""
+
+# mes "Rune Knight Job Change GlobalVar is modified to 0. The use of the test field is now available.";
+#: npc/re/jobs/3-1/rune_knight.txt
+msgctxt "R.Knight Job Manager"
+msgid "Rune Knight Job Change GlobalVar is modified to 0. The use of the test field is now available."
+msgstr ""
+
