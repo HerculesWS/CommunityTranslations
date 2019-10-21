@@ -1,0 +1,295 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2019-10-21 10:58\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/merchants/kunai_maker_txt.pot\n"
+
+# mes "[Kashin]";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "[Kashin]"
+msgstr ""
+
+# mes "I am Kashin, distributor";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "I am Kashin, distributor"
+msgstr ""
+
+# mes "of Kunai for Ninjas. Take";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "of Kunai for Ninjas. Take"
+msgstr ""
+
+# mes "a look around and let me";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "a look around and let me"
+msgstr ""
+
+# mes "know if you're interested";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "know if you're interested"
+msgstr ""
+
+# mes "in any of my wares.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "in any of my wares."
+msgstr ""
+
+# switch(select("10 Fell Poison Kunai", "10 Icicle Kunai", "10 High Wind Kunai", "10 Black Earth Kunai", "10 Heat Wave Kunai", "Cancel")) {
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "10 Fell Poison Kunai"
+msgstr ""
+
+# switch(select("10 Fell Poison Kunai", "10 Icicle Kunai", "10 High Wind Kunai", "10 Black Earth Kunai", "10 Heat Wave Kunai", "Cancel")) {
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "10 Icicle Kunai"
+msgstr ""
+
+# switch(select("10 Fell Poison Kunai", "10 Icicle Kunai", "10 High Wind Kunai", "10 Black Earth Kunai", "10 Heat Wave Kunai", "Cancel")) {
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "10 High Wind Kunai"
+msgstr ""
+
+# switch(select("10 Fell Poison Kunai", "10 Icicle Kunai", "10 High Wind Kunai", "10 Black Earth Kunai", "10 Heat Wave Kunai", "Cancel")) {
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "10 Black Earth Kunai"
+msgstr ""
+
+# switch(select("10 Fell Poison Kunai", "10 Icicle Kunai", "10 High Wind Kunai", "10 Black Earth Kunai", "10 Heat Wave Kunai", "Cancel")) {
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "10 Heat Wave Kunai"
+msgstr ""
+
+# switch(select("10 Fell Poison Kunai", "10 Icicle Kunai", "10 High Wind Kunai", "10 Black Earth Kunai", "10 Heat Wave Kunai", "Cancel")) {
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "Cancel"
+msgstr ""
+
+# mes "Well then, thank you";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "Well then, thank you"
+msgstr ""
+
+# mes "for visiting my shop.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "for visiting my shop."
+msgstr ""
+
+# mes "Please come to me when";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "Please come to me when"
+msgstr ""
+
+# mes "you need to buy some";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "you need to buy some"
+msgstr ""
+
+# mes "Kunais. Goodbye for now~";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "Kunais. Goodbye for now~"
+msgstr ""
+
+# mes "of Kunai for Ninjas. If you";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "of Kunai for Ninjas. If you"
+msgstr ""
+
+# mes "have any friends that are";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "have any friends that are"
+msgstr ""
+
+# mes "Ninjas, then you might";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "Ninjas, then you might"
+msgstr ""
+
+# mes "want to tell them about me.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai Merchant Kashin"
+msgid "want to tell them about me."
+msgstr ""
+
+# mes "[Kashin]";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "[Kashin]"
+msgstr ""
+
+# mes "You can exchange";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "You can exchange"
+msgstr ""
+
+# mes "set of 10 "+getitemname(getarg(4))+".";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "set of 10 "
+msgstr ""
+
+# mes "I can only give you a maximum of 500 sets of Kunais at a time.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "I can only give you a maximum of 500 sets of Kunais at a time."
+msgstr ""
+
+# mes "If you want to cancel the trade, then please enter ''0.'' How many";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "If you want to cancel the trade, then please enter ''0.'' How many"
+msgstr ""
+
+# mes "Kunai sets would you like?";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "Kunai sets would you like?"
+msgstr ""
+
+# mes "Eh? I'm sorry, but";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "Eh? I'm sorry, but"
+msgstr ""
+
+# mes "I can't give you that";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "I can't give you that"
+msgstr ""
+
+# mes "many Kunai sets. Please";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "many Kunai sets. Please"
+msgstr ""
+
+# mes "enter a value less than 500.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "enter a value less than 500."
+msgstr ""
+
+# mes "Hmm, you don't have";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "Hmm, you don't have"
+msgstr ""
+
+# mes "enough items for this";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "enough items for this"
+msgstr ""
+
+# mes "Kunai exchange. Please";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "Kunai exchange. Please"
+msgstr ""
+
+# mes "check your items again.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "check your items again."
+msgstr ""
+
+# mes "Hmm, it seems like your";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "Hmm, it seems like your"
+msgstr ""
+
+# mes "Inventory doesn't have";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "Inventory doesn't have"
+msgstr ""
+
+# mes "enough space to store";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "enough space to store"
+msgstr ""
+
+# mes "more items. You better";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "more items. You better"
+msgstr ""
+
+# mes "free up some space first.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "free up some space first."
+msgstr ""
+
+# mes "Great, everything is in";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "Great, everything is in"
+msgstr ""
+
+# mes "order, so let's go ahead";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "order, so let's go ahead"
+msgstr ""
+
+# mes "and complete this trade.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "and complete this trade."
+msgstr ""
+
+# mes "I'm sure that you'll be";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "I'm sure that you'll be"
+msgstr ""
+
+# mes "quite satisfied with";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "quite satisfied with"
+msgstr ""
+
+# mes "these Kunais.";
+#: npc/merchants/kunai_maker.txt
+msgctxt "Kunai_Trade"
+msgid "these Kunais."
+msgstr ""
+
