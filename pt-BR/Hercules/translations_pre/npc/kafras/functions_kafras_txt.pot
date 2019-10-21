@@ -1,0 +1,781 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2019-10-21 10:58\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/kafras/functions_kafras_txt.pot\n"
+
+# mes "[Kafra Employee]";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "[Kafra Employee]"
+msgstr ""
+
+# mes "Welcome to the";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "Welcome to the"
+msgstr ""
+
+# mes "Kafra Corporation.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "Kafra Corporation."
+msgstr ""
+
+# mes "The Kafra services";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "The Kafra services"
+msgstr ""
+
+# mes "are always on your side.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "are always on your side."
+msgstr ""
+
+# mes "How may I assist you?";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "How may I assist you?"
+msgstr ""
+
+# mes "^666666W-weeeelc-c-come";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "^666666W-weeeelc-c-come"
+msgstr ""
+
+# mes "to th-the K-kaaafrrrra";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "to th-the K-kaaafrrrra"
+msgstr ""
+
+# mes "C-coorpoor-r-ratioooonn...^000000";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "C-coorpoor-r-ratioooonn...^000000"
+msgstr ""
+
+# mes "Welcome. ^ff0000" + getguildname(@GID) + "^000000 Member.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "Welcome. ^ff0000"
+msgstr ""
+
+# mes "The Kafra Coporation will stay with you wherever you go.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "The Kafra Coporation will stay with you wherever you go."
+msgstr ""
+
+# mes "So, have you come from a faraway land to study our culture, or are you just sightseeing?";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "So, have you come from a faraway land to study our culture, or are you just sightseeing?"
+msgstr ""
+
+# mes "In either case, why not stay awhile?";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "In either case, why not stay awhile?"
+msgstr ""
+
+# mes "The air is eternally heavy with the";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "The air is eternally heavy with the"
+msgstr ""
+
+# mes "scent of pleasant wildflowers.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "scent of pleasant wildflowers."
+msgstr ""
+
+# mes "With our many Kafra";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "With our many Kafra"
+msgstr ""
+
+# mes "service locations, you're never";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "service locations, you're never"
+msgstr ""
+
+# mes "far from home.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "far from home."
+msgstr ""
+
+# mes "Because of the ^FF0000Limited";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "Because of the ^FF0000Limited"
+msgstr ""
+
+# mes "Transport Agreement^000000, the";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "Transport Agreement^000000, the"
+msgstr ""
+
+# mes "Kafra Corporation cannot";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "Kafra Corporation cannot"
+msgstr ""
+
+# mes "provide Teleport Services";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "provide Teleport Services"
+msgstr ""
+
+# mes "in the Schwaltzvalt Republic.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "in the Schwaltzvalt Republic."
+msgstr ""
+
+# mes "We ask that you please";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "We ask that you please"
+msgstr ""
+
+# mes "use the Airship Service";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "use the Airship Service"
+msgstr ""
+
+# mes "instead. Thank you for your";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "instead. Thank you for your"
+msgstr ""
+
+# mes "understanding and cooperation.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_Kafra"
+msgid "understanding and cooperation."
+msgstr ""
+
+# mes "I'm sorry but another guild member is using the guild storage";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "I'm sorry but another guild member is using the guild storage"
+msgstr ""
+
+# mes "right now. Please wait until that person is finished.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "right now.  Please wait until that person is finished."
+msgstr ""
+
+# mes "^666666S-s-ssoooorry,";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "^666666S-s-ssoooorry,"
+msgstr ""
+
+# mes "y-you n-neeed";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "y-you n-neeed"
+msgstr ""
+
+# mes "N-new b-basic sssskill...^000000";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "N-new b-basic sssskill...^000000"
+msgstr ""
+
+# mes "y-you're a-a-aaaa";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "y-you're a-a-aaaa"
+msgstr ""
+
+# mes "Nooviiice... N-neeeds";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Nooviiice... N-neeeds"
+msgstr ""
+
+# mes "B-basic sssskill l-level 6...^000000";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "B-basic sssskill l-level 6...^000000"
+msgstr ""
+
+# mes "I'm sorry, but you";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "I'm sorry, but you"
+msgstr ""
+
+# mes "need the New Basic Skill to";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "need the New Basic Skill to"
+msgstr ""
+
+# mes "need the Novice's";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "need the Novice's"
+msgstr ""
+
+# mes "Basic Skill Level 6 to";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Basic Skill Level 6 to"
+msgstr ""
+
+# mes "use the Storage Service.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "use the Storage Service."
+msgstr ""
+
+# mes "^666666Zeeeeeny...";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "^666666Zeeeeeny..."
+msgstr ""
+
+# mes "M-more z-zeny...!";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "M-more z-zeny...!"
+msgstr ""
+
+# mes "N-neeed 150... zeny...";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "N-neeed 150... zeny..."
+msgstr ""
+
+# mes "Ergh! T-taking bl-blood~!^000000";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Ergh! T-taking bl-blood~!^000000"
+msgstr ""
+
+# mes "I'm sorry, but you don't";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "I'm sorry, but you don't"
+msgstr ""
+
+# mes "have enough zeny to use";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "have enough zeny to use"
+msgstr ""
+
+# mes "the Storage Service. Our";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "the Storage Service. Our"
+msgstr ""
+
+# mes "Storage access fee is "+getarg(1)+" zeny.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Storage access fee is "
+msgstr ""
+
+# mes "^666666Thank you.. for... using...^000000";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "^666666Thank you.. for... using...^000000"
+msgstr ""
+
+# mes "Let me open your personal";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Let me open your personal"
+msgstr ""
+
+# mes "storage for you right away.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "storage for you right away."
+msgstr ""
+
+# mes "Thanks for supporting Cool";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Thanks for supporting Cool"
+msgstr ""
+
+# mes "Event Corp. by using our";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Event Corp. by using our"
+msgstr ""
+
+# mes "services. Have a good day~";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "services. Have a good day~"
+msgstr ""
+
+# mes "Here, let me open";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Here, let me open"
+msgstr ""
+
+# mes "your Storage for you.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "your Storage for you."
+msgstr ""
+
+# mes "Thank you for using";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "Thank you for using"
+msgstr ""
+
+# mes "the Kafra Service.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafStor"
+msgid "the Kafra Service."
+msgstr ""
+
+# mes "Please choose";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid "Please choose"
+msgstr ""
+
+# mes "your destination.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid "your destination."
+msgstr ""
+
+# mes "I'm sorry, but you don't have";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid "I'm sorry, but you don't have"
+msgstr ""
+
+# mes "enough zeny for the Teleport";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid "enough zeny for the Teleport"
+msgstr ""
+
+# mes "Service. The fee to teleport";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid "Service. The fee to teleport"
+msgstr ""
+
+# mes "to "+@wrpD$[.@j]+" is "+@wrpP[.@j]+" zeny.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid "to "
+msgstr ""
+
+# mes "to "+@wrpD$[.@j]+" is "+@wrpP[.@j]+" zeny.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid " is "
+msgstr ""
+
+# mes "to "+@wrpD$[.@j]+" is "+@wrpP[.@j]+" zeny.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafTele"
+msgid " zeny."
+msgstr ""
+
+# mes "I'm sorry, but the";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "I'm sorry, but the"
+msgstr ""
+
+# mes "Pushcart rental service";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "Pushcart rental service"
+msgstr ""
+
+# mes "is only available to Merchants,";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "is only available to Merchants,"
+msgstr ""
+
+# mes "Blacksmiths, Master Smiths,";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "Blacksmiths, Master Smiths,"
+msgstr ""
+
+# mes "Alchemists and Biochemists.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "Alchemists and Biochemists."
+msgstr ""
+
+# mes "You can only rent a cart after";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "You can only rent a cart after"
+msgstr ""
+
+# mes "learning the Pushcart Skill.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "learning the Pushcart Skill."
+msgstr ""
+
+# mes "You already have";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "You already have"
+msgstr ""
+
+# mes "a Pushcart equipped.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "a Pushcart equipped."
+msgstr ""
+
+# mes "Unfortunately, we can't";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "Unfortunately, we can't"
+msgstr ""
+
+# mes "rent more than one to";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "rent more than one to"
+msgstr ""
+
+# mes "each customer at a time.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "each customer at a time."
+msgstr ""
+
+# mes "The Pushcart rental";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "The Pushcart rental"
+msgstr ""
+
+# mes "fee is "+getarg(1)+" zeny. Would";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "fee is "
+msgstr ""
+
+# mes "you like to rent a Pushcart?";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "you like to rent a Pushcart?"
+msgstr ""
+
+# if (select("Rent a Pushcart.", "Cancel") == 2)
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "Rent a Pushcart."
+msgstr ""
+
+# if (select("Rent a Pushcart.", "Cancel") == 2)
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "Cancel"
+msgstr ""
+
+# mes "I'm sorry, but you";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "I'm sorry, but you"
+msgstr ""
+
+# mes "don't have enough";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "don't have enough"
+msgstr ""
+
+# mes "zeny to pay the Pushcart";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "zeny to pay the Pushcart"
+msgstr ""
+
+# mes "rental fee of "+getarg(1)+" zeny.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafCart"
+msgid "rental fee of "
+msgstr ""
+
+# mes "[Kafra Employee]";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid "[Kafra Employee]"
+msgstr ""
+
+# mes "Let's see...";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid "Let's see..."
+msgstr ""
+
+# mes "Ah, you have a total of";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid "Ah, you have a total of"
+msgstr ""
+
+# mes RESRVPTS+ " Special Reserve Points.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid " Special Reserve Points."
+msgstr ""
+
+# mes "You can exchange your";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid "You can exchange your"
+msgstr ""
+
+# mes "Special Reserve Points for";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid "Special Reserve Points for"
+msgstr ""
+
+# mes "rewards at the Kafra Main Office in Al De Baran. Please use our";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid "rewards at the Kafra Main Office in Al De Baran. Please use our"
+msgstr ""
+
+# mes "convenient services to see the benefits of our rewards program.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafInfo"
+msgid "convenient services to see the benefits of our rewards program."
+msgstr ""
+
+# mes "[Kafra Employee]";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "[Kafra Employee]"
+msgstr ""
+
+# mes "Your Respawn Point";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "Your Respawn Point"
+msgstr ""
+
+# mes "has been saved here";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "has been saved here"
+msgstr ""
+
+# mes "Thank you for using";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "Thank you for using"
+msgstr ""
+
+# mes "the Kafra Services.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "the Kafra Services."
+msgstr ""
+
+# mes "We, here at Kafra Corporation,";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "We, here at Kafra Corporation,"
+msgstr ""
+
+# mes "are always endeavoring to provide you with the best services. We hope that we meet your adventuring needs and standards of excellence.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "are always endeavoring to provide you with the best services. We hope that we meet your adventuring needs and standards of excellence."
+msgstr ""
+
+# mes "^666666Kaffffra n-never";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "^666666Kaffffra n-never"
+msgstr ""
+
+# mes "diiiiiiiiiiiiiies. On...";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "diiiiiiiiiiiiiies. On..."
+msgstr ""
+
+# mes "On y-yooour siiiiide~^000000";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_KafEnd"
+msgid "On y-yooour siiiiide~^000000"
+msgstr ""
+
+# mes "Enter your storage password:";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_CheckKafCode"
+msgid "Enter your storage password:"
+msgstr ""
+
+# mes "Your storage is protected with a password. What would you do now?";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Your storage is protected with a password. What would you do now?"
+msgstr ""
+
+# switch (select("Change old password -> 5000z", "Remove storage password -> 1000z", "Cancel")) {
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Change old password -> 5000z"
+msgstr ""
+
+# switch (select("Change old password -> 5000z", "Remove storage password -> 1000z", "Cancel")) {
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Remove storage password -> 1000z"
+msgstr ""
+
+# switch (select("Change old password -> 5000z", "Remove storage password -> 1000z", "Cancel")) {
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Cancel"
+msgstr ""
+
+# mes "At first, please enter your ^0000FFold password^000000.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "At first, please enter your ^0000FFold password^000000."
+msgstr ""
+
+# mes "Wrong password. You can't set a new password.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Wrong password. You can't set a new password."
+msgstr ""
+
+# mes "Please, enter your password before its removal.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Please, enter your password before its removal."
+msgstr ""
+
+# mes "The password hasn't been removed.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "The password hasn't been removed."
+msgstr ""
+
+# mes "You don't have enough zeny.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "You don't have enough zeny."
+msgstr ""
+
+# mes "You've successfully cleared your storage password.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "You've successfully cleared your storage password."
+msgstr ""
+
+# mes "Thank you for using "+getarg(1)+".";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Thank you for using "
+msgstr ""
+
+# mes "Wrong password. We won't return your 1000z.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Wrong password. We won't return your 1000z."
+msgstr ""
+
+# mes "Please, next time enter correct password.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Please, next time enter correct password."
+msgstr ""
+
+# mes "Additional storage protection with a password.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Additional storage protection with a password."
+msgstr ""
+
+# switch (select("Set new password -> 5000z", "Cancel")) {
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Set new password -> 5000z"
+msgstr ""
+
+# mes "Now enter your ^FF0000new password^000000 to protect your storage from thieves.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "Now enter your ^FF0000new password^000000 to protect your storage from thieves."
+msgstr ""
+
+# mes "The password hasn't been changed.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "The password hasn't been changed."
+msgstr ""
+
+# mes "You've protected your storage with a secret password.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_SetKafCode"
+msgid "You've protected your storage with a secret password."
+msgstr ""
+
+# mes "Enter a number 1000~10000000:";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_EntKafCode"
+msgid "Enter a number 1000~10000000:"
+msgstr ""
+
+# mes "You can't use such big password.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_EntKafCode"
+msgid "You can't use such big password."
+msgstr ""
+
+# mes "You shouldn't use such short password.";
+#: npc/kafras/functions_kafras.txt
+msgctxt "F_EntKafCode"
+msgid "You shouldn't use such short password."
+msgstr ""
+
