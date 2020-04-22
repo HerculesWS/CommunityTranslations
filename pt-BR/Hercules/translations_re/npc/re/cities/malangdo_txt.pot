@@ -1,0 +1,763 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:01\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/cities/malangdo_txt.pot\n"
+
+# mes "[Dolangmal]";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "[Dolangmal]"
+msgstr ""
+
+# mes "Hey~! Hi human~ This is Mr. Dolangmal. kakaka~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Hey~! Hi human~ This is Mr. Dolangmal. kakaka~"
+msgstr ""
+
+# mes "We are sent to here to take you to the heaven of cats, ^A2314BMalangdo^000000.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "We are sent to here to take you to the heaven of cats, ^A2314BMalangdo^000000."
+msgstr ""
+
+# case 1: mes "How is that? The crowded city of Prontera is good, but why don't you go our heaven of the cats, ^A2314BMalangdo^000000?"; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "How is that? The crowded city of Prontera is good, but why don't you go our heaven of the cats, ^A2314BMalangdo^000000?"
+msgstr ""
+
+# case 2: mes "Why don't you go to ^A2314BMalangdo^000000? That place is better than Geffen, where there are only crowds of simple honest wizards."; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Why don't you go to ^A2314BMalangdo^000000? That place is better than Geffen, where there are only crowds of simple honest wizards."
+msgstr ""
+
+# case 3: mes "The fresh air of Payon is not bad, but why don't you go better place like the heaven of the cats, ^A2314BMalangdo^000000?"; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "The fresh air of Payon is not bad, but why don't you go better place like the heaven of the cats, ^A2314BMalangdo^000000?"
+msgstr ""
+
+# case 4: mes .@s$+"The beautiful and quiet place is better than Aldebaran, where it's so noisy with the tick-tock sound of the clock."; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "The beautiful and quiet place is better than Aldebaran, where it's so noisy with the tick-tock sound of the clock."
+msgstr ""
+
+# case 5: mes .@s$+"The beautiful and quiet place is better than Morroc, with its heat and sandstorms."; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "The beautiful and quiet place is better than Morroc, with its heat and sandstorms."
+msgstr ""
+
+# case 6: mes .@s$+"The beautiful place is better than Juno, which is full of books and headaches."; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "The beautiful place is better than Juno, which is full of books and headaches."
+msgstr ""
+
+# case 7: mes .@s$+"The complex place is better than Rachel, where it's too horribly quiet."; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "The complex place is better than Rachel, where it's too horribly quiet."
+msgstr ""
+
+# case 8: mes .@s$+"The safe place is better than Lighthalzen, which is too dangerous."; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "The safe place is better than Lighthalzen, which is too dangerous."
+msgstr ""
+
+# case 9: mes .@s$+"The smell of this sea place is better than Mora, which is full of a grassy smell."; break;
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "The smell of this sea place is better than Mora, which is full of a grassy smell."
+msgstr ""
+
+# if(select("No", "^A2314BMalangdo^000000~ Go~ Go~") == 1) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "No"
+msgstr ""
+
+# if(select("No", "^A2314BMalangdo^000000~ Go~ Go~") == 1) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "^A2314BMalangdo^000000~ Go~ Go~"
+msgstr ""
+
+# mes "What!? You don't want to go ^A2314BMalangdo^000000? Chet!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "What!? You don't want to go ^A2314BMalangdo^000000? Chet!"
+msgstr ""
+
+# mes "You're such an annoying guy. If you don't go, why did you talk to me... but...";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "You're such an annoying guy. If you don't go, why did you talk to me... but..."
+msgstr ""
+
+# mes "^9E1837Admiral Tomas^000000 said to kidnap humans... No... Bring them politely?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "^9E1837Admiral Tomas^000000 said to kidnap humans... No... Bring them politely?"
+msgstr ""
+
+# mes "Anyway, I got you. Whenever you want to go, just tell me.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Anyway, I got you. Whenever you want to go, just tell me."
+msgstr ""
+
+# mes "Ok! I like your attitude. Full of passion.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Ok! I like your attitude. Full of passion."
+msgstr ""
+
+# mes "Now, before you go ^A2314BMalangdo^000000, let me give you some warnings.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Now, before you go ^A2314BMalangdo^000000, let me give you some warnings."
+msgstr ""
+
+# mes "First!! It is natural that when you arrive on ^A2314BMalangdo^000000, you should notify ^9E1837Admiral Tomas^000000 that you are here.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "First!! It is natural that when you arrive on ^A2314BMalangdo^000000, you should notify ^9E1837Admiral Tomas^000000 that you are here."
+msgstr ""
+
+# mes "If you don't do that, you might be attacked by scary and wild cats when you walk through dark streets.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "If you don't do that, you might be attacked by scary and wild cats when you walk through dark streets."
+msgstr ""
+
+# mes "Secondly!! This ^A2314BMalangdo^000000 is absolutely our island of cats, even though we open to humans.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Secondly!! This ^A2314BMalangdo^000000 is absolutely our island of cats, even though we open to humans."
+msgstr ""
+
+# mes "We have a personality... no... no... respect us like one catality because we are cats.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "We have a personality... no... no... respect us like one catality because we are cats."
+msgstr ""
+
+# mes "And the next one is...";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "And the next one is..."
+msgstr ""
+
+# mes "Dolangmal proceeds and gives hundreds of warnings.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Dolangmal proceeds and gives hundreds of warnings."
+msgstr ""
+
+# mes "Ok! Those are all the warnings!! They're easy and simple... right? Can you remember them?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Ok! Those are all the warnings!! They're easy and simple... right? Can you remember them?"
+msgstr ""
+
+# switch(select("Remember his warnings", "Can't remember")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Remember his warnings"
+msgstr ""
+
+# switch(select("Remember his warnings", "Can't remember")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Can't remember"
+msgstr ""
+
+# mes "Ok! Do not bite two mice with one mouth. ^9E1837Admiral Tomas^000000 is located at the ^A2314Bcenter of the ship in Malangdo^000000.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Ok! Do not bite two mice with one mouth. ^9E1837Admiral Tomas^000000 is located at the ^A2314Bcenter of the ship in Malangdo^000000."
+msgstr ""
+
+# mes "Don't forget to give him notice of your arrival.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Don't forget to give him notice of your arrival."
+msgstr ""
+
+# mes "Alright. Let's go to the heaven of the cats, ^A2314BMalangdo^000000~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Alright. Let's go to the heaven of the cats, ^A2314BMalangdo^000000~"
+msgstr ""
+
+# mes "What!? Can't you keep these easy rules? Chet!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "What!? Can't you keep these easy rules? Chet!"
+msgstr ""
+
+# mes "You're such an annoying guy. If you can't keep these, why didn't you tell me during our conversation? I told you everything... but..";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "You're such an annoying guy. If you can't keep these, why didn't you tell me during our conversation? I told you everything... but.."
+msgstr ""
+
+# mes "Anyway, I got you. Just tell me whenever you want to go.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Anyway, I got you. Just tell me whenever you want to go."
+msgstr ""
+
+# mes "Uh? You must be the one from last time...? Alright. Did you visit ^A2314BMalangdo^000000?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Uh? You must be the one from last time...? Alright. Did you visit ^A2314BMalangdo^000000?"
+msgstr ""
+
+# switch(select("Take me to ^A2314BMalangdo^000000 again", "I have visited")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Take me to ^A2314BMalangdo^000000 again"
+msgstr ""
+
+# switch(select("Take me to ^A2314BMalangdo^000000 again", "I have visited")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "I have visited"
+msgstr ""
+
+# mes "I really want to send you there, but I can't because of the policy. It is difficult to send people who have visited ^A2314BMalangdo^000000 already.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "I really want to send you there, but I can't because of the policy. It is difficult to send people who have visited ^A2314BMalangdo^000000 already."
+msgstr ""
+
+# mes "And that was roughly it... It's supposed to be rule 53...";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "And that was roughly it... It's supposed to be rule 53..."
+msgstr ""
+
+# mes "Actually, let me tell you rule 53. I am an indulgent cat.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Actually, let me tell you rule 53. I am an indulgent cat."
+msgstr ""
+
+# mes "If you want to go back to ^A2314BMalangdo^000000, take the ship at Izlude or Alberta.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "If you want to go back to ^A2314BMalangdo^000000, take the ship at Izlude or Alberta."
+msgstr ""
+
+# mes "If you enjoy that pleasant sea trip, you will arrive at the heaven of cats, ^A2314BMalangdo^000000.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "If you enjoy that pleasant sea trip, you will arrive at the heaven of cats, ^A2314BMalangdo^000000."
+msgstr ""
+
+# mes "So easy! Isn't it? Well, good bye~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "So easy! Isn't it? Well, good bye~"
+msgstr ""
+
+# mes "How was it? You liked it? I knew it. Kakaka~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "How was it? You liked it? I knew it. Kakaka~"
+msgstr ""
+
+# mes "Ah! I just want to make sure...";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Ah! I just want to make sure..."
+msgstr ""
+
+# mes "Again, if you want to go back to ^A2314BMalangdo^000000, do you know where to take a ship at Izlude or Alberta?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Again, if you want to go back to ^A2314BMalangdo^000000, do you know where to take a ship at Izlude or Alberta?"
+msgstr ""
+
+# mes "Hm~ You might know because you're a smart person. Well, see you again~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Dolangmal"
+msgid "Hm~ You might know because you're a smart person. Well, see you again~"
+msgstr ""
+
+# mes "This cat is sleeping in the warm "+((strnpcinfo(NPC_NAME_HIDDEN) == "albe")?"Alberta":"Izlude")+" sun.";
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "This cat is sleeping in the warm "
+msgstr ""
+
+# if(select("Let him sleep", "Talk to him") == 1) close;
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "Let him sleep"
+msgstr ""
+
+# if(select("Let him sleep", "Talk to him") == 1) close;
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "Talk to him"
+msgstr ""
+
+# mes "[Odgnalam]";
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "[Odgnalam]"
+msgstr ""
+
+# mes "Meow? Huh?";
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "Meow? Huh?"
+msgstr ""
+
+# mes "You are a hero of cat's fleet. Your activity is the legend between us.";
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "You are a hero of cat's fleet. Your activity is the legend between us."
+msgstr ""
+
+# mes "As you are a hero of the cat fleet let me send you to ^A2314BMalangdo^000000 for free.";
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "As you are a hero of the cat fleet let me send you to ^A2314BMalangdo^000000 for free."
+msgstr ""
+
+# if(select("Send me to Malangdo!", "Do not go.") == 1) {
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "Send me to Malangdo!"
+msgstr ""
+
+# if(select("Send me to Malangdo!", "Do not go.") == 1) {
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "Do not go."
+msgstr ""
+
+# mes "Have a comfortable trip... Alright let's go~";
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "Have a comfortable trip... Alright let's go~"
+msgstr ""
+
+# mes "Let me send you right away. Let's go~";
+#: npc/re/cities/malangdo.txt
+msgctxt "::Odgnalam"
+msgid "Let me send you right away. Let's go~"
+msgstr ""
+
+# mes "[Kong]";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "[Kong]"
+msgstr ""
+
+# mes "Did you have fun in Malangdo?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "Did you have fun in Malangdo?"
+msgstr ""
+
+# mes "The fleet has a service to Izlude and Alberta.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "The fleet has a service to Izlude and Alberta."
+msgstr ""
+
+# mes "The fee of ship is only 1000 zeny, where do you want to go?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "The fee of ship is only 1000 zeny, where do you want to go?"
+msgstr ""
+
+# mes "You have a connection with our fleet. Apply special price 999 zeny. Where do you want to go?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "You have a connection with our fleet. Apply special price 999 zeny. Where do you want to go?"
+msgstr ""
+
+# mes "Wow~ You contributed to our fleet a lot. Alright!! Special discount price 500 zeny. Where do you want to go?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "Wow~ You contributed to our fleet a lot. Alright!! Special discount price 500 zeny. Where do you want to go?"
+msgstr ""
+
+# mes "Ah... You are the legendary hero of our cat's fleet.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "Ah... You are the legendary hero of our cat's fleet."
+msgstr ""
+
+# mes "We can't charge the hero of our fleet. What is your destination?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "We can't charge the hero of our fleet. What is your destination?"
+msgstr ""
+
+# .@i = select("- Izlude destination --- "+.@s1$+"", "- Alberta destination --- "+.@s1$+"", "- Stay on Malangdo");
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "- Izlude destination --- "
+msgstr ""
+
+# .@i = select("- Izlude destination --- "+.@s1$+"", "- Alberta destination --- "+.@s1$+"", "- Stay on Malangdo");
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "- Alberta destination --- "
+msgstr ""
+
+# .@i = select("- Izlude destination --- "+.@s1$+"", "- Alberta destination --- "+.@s1$+"", "- Stay on Malangdo");
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "- Stay on Malangdo"
+msgstr ""
+
+# mes "Have a comfortable trip.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Kong#malang"
+msgid "Have a comfortable trip."
+msgstr ""
+
+# mes "You see a lazy cat standing on a chair.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "You see a lazy cat standing on a chair."
+msgstr ""
+
+# mes "You guess that this is the Innkeeper.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "You guess that this is the Innkeeper."
+msgstr ""
+
+# switch(select("Umm... Can I rest here?", "Psst... Can I save here?", "Leave.")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Umm... Can I rest here?"
+msgstr ""
+
+# switch(select("Umm... Can I rest here?", "Psst... Can I save here?", "Leave.")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Psst... Can I save here?"
+msgstr ""
+
+# switch(select("Umm... Can I rest here?", "Psst... Can I save here?", "Leave.")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Leave."
+msgstr ""
+
+# mes "[Innkeeper]";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "[Innkeeper]"
+msgstr ""
+
+# mes "Eh?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Eh?"
+msgstr ""
+
+# mes "Uh, sure you can use this hammock if you give me ^FF00005 Malangdo Cans^000000.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Uh, sure you can use this hammock if you give me ^FF00005 Malangdo Cans^000000."
+msgstr ""
+
+# switch(select("Here you go.", "Never mind.")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Here you go."
+msgstr ""
+
+# switch(select("Here you go.", "Never mind.")) {
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Never mind."
+msgstr ""
+
+# mes "Now relax.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Now relax."
+msgstr ""
+
+# mes "This ain't no charity.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "This ain't no charity."
+msgstr ""
+
+# mes "Let me know if you want to relax.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Let me know if you want to relax."
+msgstr ""
+
+# mes "Location saved. We should keep company, haha~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Location saved. We should keep company, haha~"
+msgstr ""
+
+# mes "Sometimes you just have to relax.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "Sometimes you just have to relax."
+msgstr ""
+
+# mes "- Wow, this is the laziest cat ever. -";
+#: npc/re/cities/malangdo.txt
+msgctxt "Innkeeper#malang"
+msgid "- Wow, this is the laziest cat ever. -"
+msgstr ""
+
+# mes "[Minstrel]";
+#: npc/re/cities/malangdo.txt
+msgctxt "Minstrel#mal"
+msgid "[Minstrel]"
+msgstr ""
+
+# mes "Boy, that lazy cat makes me want to just nap all day long.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Minstrel#mal"
+msgid "Boy, that lazy cat makes me want to just nap all day long."
+msgstr ""
+
+# mes "He makes life look so simple.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Minstrel#mal"
+msgid "He makes life look so simple."
+msgstr ""
+
+# mes "[Wanderer]";
+#: npc/re/cities/malangdo.txt
+msgctxt "Wanderer#mal"
+msgid "[Wanderer]"
+msgstr ""
+
+# mes "The cats living in here are so energetic.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Wanderer#mal"
+msgid "The cats living in here are so energetic."
+msgstr ""
+
+# mes "Is it weird that they make me want to dance all day?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Wanderer#mal"
+msgid "Is it weird that they make me want to dance all day?"
+msgstr ""
+
+# mes "La di dah di dah~!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Wanderer#mal"
+msgid "La di dah di dah~!"
+msgstr ""
+
+# mes "[Cat Trainer]";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "[Cat Trainer]"
+msgstr ""
+
+# mes "Ooo~ their soft puffy tails and soft fur~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "Ooo~ their soft puffy tails and soft fur~"
+msgstr ""
+
+# mes "I can't stand it, this is heaven~~!!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "I can't stand it, this is heaven~~!!"
+msgstr ""
+
+# mes "My hidden card, ^FF0000Silvervine Fruit^000000, can make all cats in Malangdo my slaves~ haha!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "My hidden card, ^FF0000Silvervine Fruit^000000, can make all cats in Malangdo my slaves~ haha!"
+msgstr ""
+
+# select("^FF0000Silvervine Fruit^000000?");
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "^FF0000Silvervine Fruit^000000?"
+msgstr ""
+
+# mes "It is such a rare item!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "It is such a rare item!"
+msgstr ""
+
+# mes "I can barely get it.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "I can barely get it."
+msgstr ""
+
+# mes "But these cudly cats can't resist it~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "But these cudly cats can't resist it~"
+msgstr ""
+
+# select("Where can I get ^FF0000Silvervine Fruit^000000?");
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "Where can I get ^FF0000Silvervine Fruit^000000?"
+msgstr ""
+
+# mes "Why would I tell you when I can barely get it?";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "Why would I tell you when I can barely get it?"
+msgstr ""
+
+# mes "I wouldn't even tell you for all the zeny in the world~!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "I wouldn't even tell you for all the zeny in the world~!"
+msgstr ""
+
+# mes "All the Malangdo cats are mine~!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "All the Malangdo cats are mine~!"
+msgstr ""
+
+# mes "Muahahahaha~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "Muahahahaha~"
+msgstr ""
+
+# mes "With enough ^FF0000Silvervine Fruit^000000 I can be a queen in Malangdo~ ohhhh!!!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal1"
+msgid "With enough ^FF0000Silvervine Fruit^000000 I can be a queen in Malangdo~ ohhhh!!!"
+msgstr ""
+
+# mes "[Cat Trainer]";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "[Cat Trainer]"
+msgstr ""
+
+# mes "Ooo~ their soft puffy tails and soft fur~";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "Ooo~ their soft puffy tails and soft fur~"
+msgstr ""
+
+# mes "I can't stand it, this is heaven~~!!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "I can't stand it, this is heaven~~!!"
+msgstr ""
+
+# mes "This is my little secret called";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "This is my little secret called"
+msgstr ""
+
+# mes "^FF0000Silvervine Fruit^000000. I can use";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "^FF0000Silvervine Fruit^000000. I can use"
+msgstr ""
+
+# mes "it to make the Malangdo cats my";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "it to make the Malangdo cats my"
+msgstr ""
+
+# mes "slaves~ muahahahaha~!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "slaves~ muahahahaha~!"
+msgstr ""
+
+# select("^FF0000Silvervine Fruit^000000?");
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "^FF0000Silvervine Fruit^000000?"
+msgstr ""
+
+# mes "Hmm, I guess it's no wonder you don't know.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "Hmm, I guess it's no wonder you don't know."
+msgstr ""
+
+# mes "These Malangdo cats can't resist it.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "These Malangdo cats can't resist it."
+msgstr ""
+
+# mes "But it's too rare of an item to get so you shouldn't bother trying to find it.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "But it's too rare of an item to get so you shouldn't bother trying to find it."
+msgstr ""
+
+# select("Where can I get ^FF0000Silvervine Fruit^000000?");
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "Where can I get ^FF0000Silvervine Fruit^000000?"
+msgstr ""
+
+# mes "Actually, it's simple. You just...";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "Actually, it's simple. You just..."
+msgstr ""
+
+# mes "Hey, you almost made me tell my secret.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "Hey, you almost made me tell my secret."
+msgstr ""
+
+# mes "One day these cats will be mine.";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "One day these cats will be mine."
+msgstr ""
+
+# mes "I can be a king in Malangdo~ ohhh~!";
+#: npc/re/cities/malangdo.txt
+msgctxt "Cat Trainer#mal2"
+msgid "I can be a king in Malangdo~ ohhh~!"
+msgstr ""
+

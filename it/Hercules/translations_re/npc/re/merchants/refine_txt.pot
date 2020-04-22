@@ -1,0 +1,944 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:25\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/refine_txt.pot\n"
+
+# mesf("[%s]", getarg(0));
+#: npc/re/merchants/refine.txt
+#, c-format
+msgctxt "refinenew"
+msgid "[%s]"
+msgstr ""
+
+# mes("I'm a blacksmith skilled in refining weapons and armors.");
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I'm a blacksmith skilled in refining weapons and armors."
+msgstr ""
+
+# mes("I can refine an item of your choice among the items you are equipped with.");
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I can refine an item of your choice among the items you are equipped with."
+msgstr ""
+
+# mes("Which item do you want to refine?");
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Which item do you want to refine?"
+msgstr ""
+
+# mes "["+ getarg(0) +"]";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "["
+msgstr ""
+
+# mes "I am the best Armsmith ever!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I am the best Armsmith ever!"
+msgstr ""
+
+# mes "I don't refine normal, boring items.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I don't refine normal, boring items."
+msgstr ""
+
+# mes "I only refine items that are Level 10 or higher.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I only refine items that are Level 10 or higher."
+msgstr ""
+
+# mes "Anyway, you may use my services if your item is Level 10 or higher.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Anyway, you may use my services if your item is Level 10 or higher."
+msgstr ""
+
+# mes "What do you want me to refine?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "What do you want me to refine?"
+msgstr ""
+
+# mes "I don't think I can refine any items you have...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I don't think I can refine any items you have..."
+msgstr ""
+
+# mes "You're not wearing";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "You're not wearing"
+msgstr ""
+
+# mes "anything there that";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "anything there that"
+msgstr ""
+
+# mes "I can refine.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I can refine."
+msgstr ""
+
+# mes "I don't think I can";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I don't think I can"
+msgstr ""
+
+# mes "refine this item at all...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "refine this item at all..."
+msgstr ""
+
+# mes "I said I don't work with items that are lower than Level 10.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I said I don't work with items that are lower than Level 10."
+msgstr ""
+
+# mes "I can't refine this";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I can't refine this"
+msgstr ""
+
+# mes "any more. This is as";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "any more. This is as"
+msgstr ""
+
+# mes "refined as it gets!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "refined as it gets!"
+msgstr ""
+
+# mes "Hmm a weapon, is that ok?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Hmm a weapon, is that ok?"
+msgstr ""
+
+# mes "If you want to refine this weapon,";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "If you want to refine this weapon,"
+msgstr ""
+
+# mes "I will need 1 ^003366Bradium^000000 and 100,000 zeny.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I will need 1 ^003366Bradium^000000 and 100,000 zeny."
+msgstr ""
+
+# mes "Hmm an armor, is that ok?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Hmm an armor, is that ok?"
+msgstr ""
+
+# mes "If you want to refine this armor,";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "If you want to refine this armor,"
+msgstr ""
+
+# mes "I will need 1 ^003366Carnium^000000 and 100,000 zeny.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I will need 1 ^003366Carnium^000000 and 100,000 zeny."
+msgstr ""
+
+# mes "Are you sure you want to continue?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Are you sure you want to continue?"
+msgstr ""
+
+# if(select("Yes", "No") == 2){
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Yes"
+msgstr ""
+
+# if(select("Yes", "No") == 2){
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "No"
+msgstr ""
+
+# mes "Hm... if you mind... never mind...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Hm... if you mind... never mind..."
+msgstr ""
+
+# mes "This "+.@type$+" already has been refined serveral times.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "This "
+msgstr ""
+
+# mes "This "+.@type$+" already has been refined serveral times.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid " already has been refined serveral times."
+msgstr ""
+
+# mes "It could be destroyed if I try again.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "It could be destroyed if I try again."
+msgstr ""
+
+# mes "It won't break for sure, but there is has a small chance.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "It won't break for sure, but there is has a small chance."
+msgstr ""
+
+# mes "You could be ^FF0000lowering the upgrade level^000000 of the "+.@type$+",";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "You could be ^FF0000lowering the upgrade level^000000 of the "
+msgstr ""
+
+# mes "You could be ^FF0000lowering the upgrade level^000000 of the "+.@type$+",";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid ","
+msgstr ""
+
+# mes "or if it breaks, you will lose ^FF0000any cards^000000 or special properties added to it.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "or if it breaks, you will lose ^FF0000any cards^000000 or special properties added to it."
+msgstr ""
+
+# mes "Do you still want me to refine it?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Do you still want me to refine it?"
+msgstr ""
+
+# mes "I think I have given you enough warning.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I think I have given you enough warning."
+msgstr ""
+
+# if(select("Yes.", "No.") == 2) {
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Yes."
+msgstr ""
+
+# if(select("Yes.", "No.") == 2) {
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "No."
+msgstr ""
+
+# mes "Well, no challenge is one way to go...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Well, no challenge is one way to go..."
+msgstr ""
+
+# mes "No risk... that could be wise.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "No risk... that could be wise."
+msgstr ""
+
+# mes "Hm. You don't seem to have enough money or "+getitemname(.@material)+".";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Hm. You don't seem to have enough money or "
+msgstr ""
+
+# mes "Please come back when you have them.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Please come back when you have them."
+msgstr ""
+
+# mes "Look here... you don't have any items on...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Look here... you don't have any items on..."
+msgstr ""
+
+# mes "Wait a second...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Wait a second..."
+msgstr ""
+
+# mes "Do you think I'm stupid?!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Do you think I'm stupid?!"
+msgstr ""
+
+# mes "You switched the item while I wasn't looking! Get out of here!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "You switched the item while I wasn't looking! Get out of here!"
+msgstr ""
+
+# mes "Clang! Clang! Clang! Clang!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Clang! Clang! Clang! Clang!"
+msgstr ""
+
+# mes "Good! Succes!!!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Good! Succes!!!"
+msgstr ""
+
+# mes "I am the best Armsmith.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I am the best Armsmith."
+msgstr ""
+
+# mes "Ahhh!!!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Ahhh!!!"
+msgstr ""
+
+# mes "Oh my god!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Oh my god!"
+msgstr ""
+
+# mes "The upgrade level has dropped...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "The upgrade level has dropped..."
+msgstr ""
+
+# mes "Clang! Clang! Clang!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Clang! Clang! Clang!"
+msgstr ""
+
+# mes "Hmmm!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Hmmm!"
+msgstr ""
+
+# mes "Oh my! I've failed to refine stuff...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Oh my! I've failed to refine stuff..."
+msgstr ""
+
+# mes "I didn't mean it!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I didn't mean it!"
+msgstr ""
+
+# mes "I could have made a mistake even though I am the best Armsmith ever.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I could have made a mistake even though I am the best Armsmith ever."
+msgstr ""
+
+# mes "It just wasn't meant to be.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "It just wasn't meant to be."
+msgstr ""
+
+# mes "I will do a better job next time! Don't worry!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I will do a better job next time! Don't worry!"
+msgstr ""
+
+# mes "I can refine this to the safe limit or a desired number of times. It's your choice.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I can refine this to the safe limit or a desired number of times. It's your choice."
+msgstr ""
+
+# .@menu2 = select("To the safe limit, please.","I'll decide how many times.","I've changed my mind...");
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "To the safe limit, please."
+msgstr ""
+
+# .@menu2 = select("To the safe limit, please.","I'll decide how many times.","I've changed my mind...");
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I'll decide how many times."
+msgstr ""
+
+# .@menu2 = select("To the safe limit, please.","I'll decide how many times.","I've changed my mind...");
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I've changed my mind..."
+msgstr ""
+
+# mes "How many times would you like me to refine your item?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "How many times would you like me to refine your item?"
+msgstr ""
+
+# mes "I can't refine this item that many times.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I can't refine this item that many times."
+msgstr ""
+
+# mes "This will try to refine the equipment " + .@refinecheck + " times past the safe limit. Your equipment may be destroyed... is that ok?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "This will try to refine the equipment "
+msgstr ""
+
+# mes "This will try to refine the equipment " + .@refinecheck + " times past the safe limit. Your equipment may be destroyed... is that ok?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid " times past the safe limit. Your equipment may be destroyed... is that ok?"
+msgstr ""
+
+# if(select("Yes...","No...") == 2){
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Yes..."
+msgstr ""
+
+# if(select("Yes...","No...") == 2){
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "No..."
+msgstr ""
+
+# mes "You said so... So be it.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "You said so... So be it."
+msgstr ""
+
+# mes "That will cost you " + .@refinecnt + " " + getitemname(.@material) + " and " + .@fullprice + " Zeny. Is that ok?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "That will cost you "
+msgstr ""
+
+# mes "That will cost you " + .@refinecnt + " " + getitemname(.@material) + " and " + .@fullprice + " Zeny. Is that ok?";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid " "
+msgstr ""
+
+# mes "Clang... No, but did you imagine I could be so stupid?!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Clang... No, but did you imagine I could be so stupid?!"
+msgstr ""
+
+# mes "You changed it...";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "You changed it..."
+msgstr ""
+
+# mes "Get out before I stun you with my Hammer!!";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "Get out before I stun you with my Hammer!!"
+msgstr ""
+
+# mes "I am the best Blacksmith.";
+#: npc/re/merchants/refine.txt
+msgctxt "refinenew"
+msgid "I am the best Blacksmith."
+msgstr ""
+
+# mes "- Wait a minute !! -";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes "- Currently you're carrying -";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after you lose some weight. -";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+# mes "[Austri]";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "[Austri]"
+msgstr ""
+
+# mes "If you bring me 3";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "If you bring me 3"
+msgstr ""
+
+# mes "Oridecon or Elunium";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Oridecon or Elunium"
+msgstr ""
+
+# mes "I can exchange them for";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "I can exchange them for"
+msgstr ""
+
+# mes "Bradium or Carnium.";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Bradium or Carnium."
+msgstr ""
+
+# mes "Just give me 50,000z.";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Just give me 50,000z."
+msgstr ""
+
+# switch(select("Oridecon to Bradium.", "Elunium to Carnium.", "Purified Bradium to Carnium.", "No thanks.")) {
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Oridecon to Bradium."
+msgstr ""
+
+# switch(select("Oridecon to Bradium.", "Elunium to Carnium.", "Purified Bradium to Carnium.", "No thanks.")) {
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Elunium to Carnium."
+msgstr ""
+
+# switch(select("Oridecon to Bradium.", "Elunium to Carnium.", "Purified Bradium to Carnium.", "No thanks.")) {
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Purified Bradium to Carnium."
+msgstr ""
+
+# switch(select("Oridecon to Bradium.", "Elunium to Carnium.", "Purified Bradium to Carnium.", "No thanks.")) {
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "No thanks."
+msgstr ""
+
+# mes "Hmm...";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Hmm..."
+msgstr ""
+
+# mes "Refining with Refined Bradium";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Refining with Refined Bradium"
+msgstr ""
+
+# mes "can be a little expensive.";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "can be a little expensive."
+msgstr ""
+
+# mes "I can exchange it for some Carnium.";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "I can exchange it for some Carnium."
+msgstr ""
+
+# mes "Ok! Here's your "+getitemname(.@i[2])+".";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Ok! Here's your "
+msgstr ""
+
+# mes "Take it and use it well.";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "Take it and use it well."
+msgstr ""
+
+# mes "You better not be trying";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "You better not be trying"
+msgstr ""
+
+# mes "to cheat me because you";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "to cheat me because you"
+msgstr ""
+
+# mes "don't have enough money";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "don't have enough money"
+msgstr ""
+
+# mes "or "+getitemname(.@i[0])+".";
+#: npc/re/merchants/refine.txt
+msgctxt "Austri#ref"
+msgid "or "
+msgstr ""
+
+# mes "[Clink]";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "[Clink]"
+msgstr ""
+
+# mes "My cool dad Holink said I have the world's greatest refine hammer!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "My cool dad Holink said I have the world's greatest refine hammer!!"
+msgstr ""
+
+# mes "Meow Meow~";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Meow Meow~"
+msgstr ""
+
+# mes "Who do you think I am?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Who do you think I am?"
+msgstr ""
+
+# mes "Yes!!! You!! You want to refine?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Yes!!! You!! You want to refine?"
+msgstr ""
+
+# mes "Dad said. There's no cure for stupidity...";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Dad said. There's no cure for stupidity..."
+msgstr ""
+
+# mes "There's nothing to see here!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "There's nothing to see here!!"
+msgstr ""
+
+# mes "What an arrogant left hand this is!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "What an arrogant left hand this is!"
+msgstr ""
+
+# mes "What an arrogant right hand this is!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "What an arrogant right hand this is!"
+msgstr ""
+
+# mes "Get that dirty thing off my face!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Get that dirty thing off my face!!"
+msgstr ""
+
+# mes "Kyaong~! Do not provoke me.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Kyaong~! Do not provoke me."
+msgstr ""
+
+# mes "Where is the accessory?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Where is the accessory?"
+msgstr ""
+
+# mes "Are you talking about the other head part?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Are you talking about the other head part?"
+msgstr ""
+
+# mes "This can't be refined!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "This can't be refined!!"
+msgstr ""
+
+# mes "Perfect refining. Did I do this for you?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Perfect refining. Did I do this for you?"
+msgstr ""
+
+# mes "Hmm, an armor refine? Someone like you?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Hmm, an armor refine? Someone like you?"
+msgstr ""
+
+# mes "A level 1 weapon?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "A level 1 weapon?"
+msgstr ""
+
+# mes "Urr... Annoying... Okay, let's try...";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Urr... Annoying... Okay, let's try..."
+msgstr ""
+
+# mes "A level 2 weapon?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "A level 2 weapon?"
+msgstr ""
+
+# mes "Woot!! A level 3 weapon? Impressive~";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Woot!! A level 3 weapon? Impressive~"
+msgstr ""
+
+# mes "Wow!... A level 4 weapon~!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Wow!... A level 4 weapon~!!"
+msgstr ""
+
+# mes "You need ^ff9999"+getitemname(.@material)+"^000000 and ^ff9999"+.@price+"^000000 Zeny. Do you have them?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "You need ^ff9999"
+msgstr ""
+
+# if(select("Yes, I do!!", "Forget about it!!") == 2) {
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Yes, I do!!"
+msgstr ""
+
+# if(select("Yes, I do!!", "Forget about it!!") == 2) {
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Forget about it!!"
+msgstr ""
+
+# mes "I knew it!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "I knew it!!"
+msgstr ""
+
+# mes "I knew you were not worth trying my magical refining hammer for.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "I knew you were not worth trying my magical refining hammer for."
+msgstr ""
+
+# mes "Wow!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Wow!!"
+msgstr ""
+
+# mes "This "+.@type$+" has been refined quite a bit, huh?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "This "
+msgstr ""
+
+# mes "This "+.@type$+" has been refined quite a bit, huh?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid " has been refined quite a bit, huh?"
+msgstr ""
+
+# mes "You do know that this might break, right?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "You do know that this might break, right?"
+msgstr ""
+
+# mes "If you break the "+.@type$+", you can never use it again.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "If you break the "
+msgstr ""
+
+# mes "If you break the "+.@type$+", you can never use it again.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid ", you can never use it again."
+msgstr ""
+
+# mes "Cards and enchant effects...";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Cards and enchant effects..."
+msgstr ""
+
+# mes "the ^ff0000whole thing will disappear^000000.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "the ^ff0000whole thing will disappear^000000."
+msgstr ""
+
+# mes "You still up for this~?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "You still up for this~?"
+msgstr ""
+
+# if(select("Yes, I am!!", "Forget about it!!") == 2) {
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Yes, I am!!"
+msgstr ""
+
+# mes "You can't even take this big step. Don't think about refining...";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "You can't even take this big step. Don't think about refining..."
+msgstr ""
+
+# mes "Hey you!! Didn't I tell you";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Hey you!! Didn't I tell you"
+msgstr ""
+
+# mes "that you need ^ff9999"+getitemname(.@material)+"^000000 and ^ff9999"+.@price+"^000000 Zeny??!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "that you need ^ff9999"
+msgstr ""
+
+# mes "Cry Hammer!! Cry!!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Cry Hammer!! Cry!!!"
+msgstr ""
+
+# mes "Huh?! I failed?!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Huh?! I failed?!"
+msgstr ""
+
+# mes "Arrgg~ It's all~ Broken...? What a pity~";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Arrgg~ It's all~ Broken...? What a pity~"
+msgstr ""
+
+# mes "Hey...!! Get me another one.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Hey...!! Get me another one."
+msgstr ""
+
+# mes "This is not possible.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "This is not possible."
+msgstr ""
+
+# mes "How can my hammer fail from refining?";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "How can my hammer fail from refining?"
+msgstr ""
+
+# mes "Ok!! Perfect!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "Ok!! Perfect!!"
+msgstr ""
+
+# mes "There's nothing I can't refine";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "There's nothing I can't refine"
+msgstr ""
+
+# mes "with this special hammer.";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "with this special hammer."
+msgstr ""
+
+# mes "You can praise me!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "You can praise me!!"
+msgstr ""
+
+# mes "What a day!!";
+#: npc/re/merchants/refine.txt
+msgctxt "Clink#mal_normal"
+msgid "What a day!!"
+msgstr ""
+

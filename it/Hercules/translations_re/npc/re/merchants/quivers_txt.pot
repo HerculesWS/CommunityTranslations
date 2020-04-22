@@ -1,0 +1,254 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:25\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/quivers_txt.pot\n"
+
+# mes "[Quiver Maker]";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "[Quiver Maker]"
+msgstr ""
+
+# mes "You have too many things with you.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "You have too many things with you."
+msgstr ""
+
+# mes "Make some space in your inventory and come back. I'll tell you something interesting.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Make some space in your inventory and come back. I'll tell you something interesting."
+msgstr ""
+
+# mes "You seem worn out with all that stuff.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "You seem worn out with all that stuff."
+msgstr ""
+
+# mes "Mora villagers ask what good quivers are. They just don't know how the world works.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Mora villagers ask what good quivers are. They just don't know how the world works."
+msgstr ""
+
+# mes "No wonder they don't know a thing about quivers - spreading jam over leaves all day long.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "No wonder they don't know a thing about quivers - spreading jam over leaves all day long."
+msgstr ""
+
+# switch(select("Please make me a quiver.", "What's a quiver?")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Please make me a quiver."
+msgstr ""
+
+# switch(select("Please make me a quiver.", "What's a quiver?")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "What's a quiver?"
+msgstr ""
+
+# mes "At last someone appreciates a quiver!";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "At last someone appreciates a quiver!"
+msgstr ""
+
+# mes "I can make Elven Quivers and Hunting Quivers.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "I can make Elven Quivers and Hunting Quivers."
+msgstr ""
+
+# mes "Which do you need?";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Which do you need?"
+msgstr ""
+
+# switch(select("An Elven Quiver", "A Hunting Quiver", "I don't need a quiver.")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "An Elven Quiver"
+msgstr ""
+
+# switch(select("An Elven Quiver", "A Hunting Quiver", "I don't need a quiver.")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "A Hunting Quiver"
+msgstr ""
+
+# switch(select("An Elven Quiver", "A Hunting Quiver", "I don't need a quiver.")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "I don't need a quiver."
+msgstr ""
+
+# mes "You can buy arrows off the tool merchant next to me.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "You can buy arrows off the tool merchant next to me."
+msgstr ""
+
+# mes "An arrow may be thin and light, but carrying hundreds and thousands of arrows is like carrying a whole log.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "An arrow may be thin and light, but carrying hundreds and thousands of arrows is like carrying a whole log."
+msgstr ""
+
+# mes "But when you have quivers, you can put arrows in them and save weight and space.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "But when you have quivers, you can put arrows in them and save weight and space."
+msgstr ""
+
+# mes "If you're interested in one, I'll stitch one up for you.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "If you're interested in one, I'll stitch one up for you."
+msgstr ""
+
+# mes "Bring more than "+getarg(1)+" "+getitemname(getarg(0))+" and I'll make you a quiver.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Bring more than "
+msgstr ""
+
+# mes "Oh, I see you have "+getitemname(getarg(0))+" in your hand!";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Oh, I see you have "
+msgstr ""
+
+# mes "Are you interested in using a quiver? It's really convenient!";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Are you interested in using a quiver? It's really convenient!"
+msgstr ""
+
+# mes "If you're interested, I can trade "+getarg(1)+" of those arrows for one of these quivers for ^FF3131"+getarg(2)+" zeny^000000.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "If you're interested, I can trade "
+msgstr ""
+
+# switch(select("Trade all the arrows you have", "Get only one quiver", "Don't trade")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Trade all the arrows you have"
+msgstr ""
+
+# switch(select("Trade all the arrows you have", "Get only one quiver", "Don't trade")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Get only one quiver"
+msgstr ""
+
+# switch(select("Trade all the arrows you have", "Get only one quiver", "Don't trade")) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Don't trade"
+msgstr ""
+
+# mes "The number of arrows you have : ^3131FF"+.@arrows+"^000000";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "The number of arrows you have : ^3131FF"
+msgstr ""
+
+# mes "The number of arrows you have : ^3131FF"+.@arrows+"^000000";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "^000000"
+msgstr ""
+
+# mes "The number of quivers available : ^3131FF"+.@quiver+"^000000";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "The number of quivers available : ^3131FF"
+msgstr ""
+
+# mes "Zeny needed for trade : ^3131FF"+.@arrow_zeny01+" zeny^000000";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Zeny needed for trade : ^3131FF"
+msgstr ""
+
+# mes "Zeny needed for trade : ^3131FF"+.@arrow_zeny01+" zeny^000000";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid " zeny^000000"
+msgstr ""
+
+# mes "Trade?";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Trade?"
+msgstr ""
+
+# if(select("Trade", "Don't trade") == 2) {
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Trade"
+msgstr ""
+
+# mes "Hey, you don't doubt my skills, do you?";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Hey, you don't doubt my skills, do you?"
+msgstr ""
+
+# mes "I said I'd accept human coins just for you, and you still don't want to spend the money?";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "I said I'd accept human coins just for you, and you still don't want to spend the money?"
+msgstr ""
+
+# mes "You really don't expect to get your hands on a masterpiece for nothing, do you?";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "You really don't expect to get your hands on a masterpiece for nothing, do you?"
+msgstr ""
+
+# mes "Hey, here you are.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "Hey, here you are."
+msgstr ""
+
+# mes "There is ^3131FFsomething you need to know^000000 - try to remember it.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "There is ^3131FFsomething you need to know^000000 - try to remember it."
+msgstr ""
+
+# mes "^FF0000You can't use quivers when your encumbrance is over 70%.^000000";
+#: npc/re/merchants/quivers.txt
+#, no-c-format
+msgctxt "Quiver Maker#mora"
+msgid "^FF0000You can't use quivers when your encumbrance is over 70%.^000000"
+msgstr ""
+
+# mes "You'd better keep that in mind, or you might be in trouble later.";
+#: npc/re/merchants/quivers.txt
+msgctxt "Quiver Maker#mora"
+msgid "You'd better keep that in mind, or you might be in trouble later."
+msgstr ""
+

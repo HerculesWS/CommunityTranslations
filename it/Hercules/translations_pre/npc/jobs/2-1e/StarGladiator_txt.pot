@@ -1,0 +1,5730 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:26+0200\n"
+"PO-Revision-Date: 2020-04-22 09:30\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/jobs/2-1e/StarGladiator_txt.pot\n"
+
+# mes "[Moohyun]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "[Moohyun]"
+msgstr ""
+
+# mes "Hey, Taekwon Boy!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Hey, Taekwon Boy!"
+msgstr ""
+
+# mes "Hey, Taekwon Girl!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Hey, Taekwon Girl!"
+msgstr ""
+
+# mes "Come here for a minute.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Come here for a minute."
+msgstr ""
+
+# mes "I've got a proposition";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I've got a proposition"
+msgstr ""
+
+# mes "for you if you'll listen!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "for you if you'll listen!"
+msgstr ""
+
+# if (select( "Sure.","No, thanks!") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Sure."
+msgstr ""
+
+# if (select( "Sure.","No, thanks!") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "No, thanks!"
+msgstr ""
+
+# mes "Alright, kid.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Alright, kid."
+msgstr ""
+
+# mes "What's your name?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "What's your name?"
+msgstr ""
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "["
+msgstr ""
+
+# mes "Geez, you're so direct.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Geez, you're so direct."
+msgstr ""
+
+# mes "A little warmth, a little";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "A little warmth, a little"
+msgstr ""
+
+# mes "friendliness wouldn't kill";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "friendliness wouldn't kill"
+msgstr ""
+
+# mes "you, now would it? Anyway,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you, now would it? Anyway,"
+msgstr ""
+
+# mes "have you given any thought";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "have you given any thought"
+msgstr ""
+
+# mes "as to what you want to be?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "as to what you want to be?"
+msgstr ""
+
+# mes "If your heart isn't already";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "If your heart isn't already"
+msgstr ""
+
+# mes "set on it, why don't you become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "set on it, why don't you become"
+msgstr ""
+
+# mes "a ^4D4DFFwarrior of the Sun, the Moon,^FFFFFF ^4D4DFF and the Stars^000000? Just consider it.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a ^4D4DFFwarrior of the Sun, the Moon,^FFFFFF ^4D4DFF and the Stars^000000? Just consider it."
+msgstr ""
+
+# mes "Warrior of the wha--?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Warrior of the wha--?"
+msgstr ""
+
+# mes "I've never heard of that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I've never heard of that"
+msgstr ""
+
+# mes "job. But I do know I can";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "job. But I do know I can"
+msgstr ""
+
+# mes "change jobs to a Soul";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "change jobs to a Soul"
+msgstr ""
+
+# mes "Linker or Taekwon Master.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Linker or Taekwon Master."
+msgstr ""
+
+# mes "Yeah. Yeah, that's right.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Yeah. Yeah, that's right."
+msgstr ""
+
+# mes "Taekwon Masters are warriors";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Taekwon Masters are warriors"
+msgstr ""
+
+# mes "of the Sun, Moon, and Stars, and wield the power of the cosmos!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "of the Sun, Moon, and Stars, and wield the power of the cosmos!"
+msgstr ""
+
+# mes "Cool, huh? Anyway, interested";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Cool, huh? Anyway, interested"
+msgstr ""
+
+# mes "in being a Taekwon Master?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "in being a Taekwon Master?"
+msgstr ""
+
+# if (select("Yes, I am!", "No, not so much.") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Yes, I am!"
+msgstr ""
+
+# if (select("Yes, I am!", "No, not so much.") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "No, not so much."
+msgstr ""
+
+# mes "Great, great~ I knew you'd";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Great, great~ I knew you'd"
+msgstr ""
+
+# mes "see things my way. Alright,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "see things my way. Alright,"
+msgstr ""
+
+# mes "you seem to be ready enough.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you seem to be ready enough."
+msgstr ""
+
+# mes "All you need now is someone";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "All you need now is someone"
+msgstr ""
+
+# mes "who can train you to become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "who can train you to become"
+msgstr ""
+
+# mes "a Taekwon Master.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a Taekwon Master."
+msgstr ""
+
+# mes "Would you like to ^4D4dffchange";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Would you like to ^4D4dffchange"
+msgstr ""
+
+# mes "your job to Taekwon Master^000000?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "your job to Taekwon Master^000000?"
+msgstr ""
+
+# mes "If you do, I'll introduce you to somebody who can help";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "If you do, I'll introduce you to somebody who can help"
+msgstr ""
+
+# mes "you accomplish that goal.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you accomplish that goal."
+msgstr ""
+
+# if (select("Yes, I do.","Let me think about it...") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Yes, I do."
+msgstr ""
+
+# if (select("Yes, I do.","Let me think about it...") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Let me think about it..."
+msgstr ""
+
+# mes "Excellent! Now, as you may";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Excellent! Now, as you may"
+msgstr ""
+
+# mes "have guessed, Taekwon Masters";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "have guessed, Taekwon Masters"
+msgstr ""
+
+# mes "aren't organized into an official guild. So it's tough for all of us";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "aren't organized into an official guild. So it's tough for all of us"
+msgstr ""
+
+# mes "to gather, but we also have fewer rules and greater freedom.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to gather, but we also have fewer rules and greater freedom."
+msgstr ""
+
+# mes "Who's around now...? Umm...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Who's around now...? Umm..."
+msgstr ""
+
+# mes "Ah, you should visit ^4D4DFFMoogang^000000.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Ah, you should visit ^4D4DFFMoogang^000000."
+msgstr ""
+
+# mes "He's one of the few Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "He's one of the few Taekwon"
+msgstr ""
+
+# mes "Masters interested in receiving";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Masters interested in receiving"
+msgstr ""
+
+# mes "new students, so he'll be sure";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "new students, so he'll be sure"
+msgstr ""
+
+# mes "to guide you in your training.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to guide you in your training."
+msgstr ""
+
+# mes "Alright, you can find Moogang";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Alright, you can find Moogang"
+msgstr ""
+
+# mes "in Comodo, supposedly at the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "in Comodo, supposedly at the"
+msgstr ""
+
+# mes "place that's closest to the sky. In the meantime, I'll write a";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "place that's closest to the sky. In the meantime, I'll write a"
+msgstr ""
+
+# mes "letter of recommendation that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "letter of recommendation that"
+msgstr ""
+
+# mes "I'll send to him for you.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I'll send to him for you."
+msgstr ""
+
+# mes "That's fine. Changing your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "That's fine. Changing your"
+msgstr ""
+
+# mes "job is an important decision,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "job is an important decision,"
+msgstr ""
+
+# mes "so you should consider everything carefully. But let me assure you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "so you should consider everything carefully. But let me assure you"
+msgstr ""
+
+# mes "that you'll never regret becoming an awesome warrior of the cosmos!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "that you'll never regret becoming an awesome warrior of the cosmos!"
+msgstr ""
+
+# mes "Great, great~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Great, great~"
+msgstr ""
+
+# mes "But first,you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "But first,you"
+msgstr ""
+
+# mes "gotta be at least Job Level 40";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "gotta be at least Job Level 40"
+msgstr ""
+
+# mes "before you can begin Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "before you can begin Taekwon"
+msgstr ""
+
+# mes "Master training. Otherwise, ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Master training. Otherwise, "
+msgstr ""
+
+# mes "it'll go over your head.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "it'll go over your head."
+msgstr ""
+
+# mes "I know you can do it,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I know you can do it,"
+msgstr ""
+
+# mes "and it shouldn't take";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "and it shouldn't take"
+msgstr ""
+
+# mes "too long. Promise me";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "too long. Promise me"
+msgstr ""
+
+# mes "you'll come back so that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you'll come back so that"
+msgstr ""
+
+# mes "I can help you become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I can help you become"
+msgstr ""
+
+# mes "a great Taekwon Master~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a great Taekwon Master~"
+msgstr ""
+
+# mes "Really? Well, I still";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Really? Well, I still"
+msgstr ""
+
+# mes "think you're better suited";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "think you're better suited"
+msgstr ""
+
+# mes "to being a Taekwon Master";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to being a Taekwon Master"
+msgstr ""
+
+# mes "than a Soul Linker. But the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "than a Soul Linker. But the"
+msgstr ""
+
+# mes "decision is ultimately yours.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "decision is ultimately yours."
+msgstr ""
+
+# mes "Well, if you change your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Well, if you change your"
+msgstr ""
+
+# mes "mind, just come back to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "mind, just come back to"
+msgstr ""
+
+# mes "me and let me know. I know";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "me and let me know. I know"
+msgstr ""
+
+# mes "you'd make a great Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you'd make a great Taekwon"
+msgstr ""
+
+# mes "Master if you really tried.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Master if you really tried."
+msgstr ""
+
+# mes "Aw, don't be like that.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Aw, don't be like that."
+msgstr ""
+
+# mes "It doesn't cost you a zeny";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "It doesn't cost you a zeny"
+msgstr ""
+
+# mes "to listen to my spiel. Come";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to listen to my spiel. Come"
+msgstr ""
+
+# mes "on, just hear me out...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "on, just hear me out..."
+msgstr ""
+
+# mes "I've already sent him my";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I've already sent him my"
+msgstr ""
+
+# mes "letter of recommendation";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "letter of recommendation"
+msgstr ""
+
+# mes "for you, so go ahead and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "for you, so go ahead and"
+msgstr ""
+
+# mes "visit Moogang in Comodo.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "visit Moogang in Comodo."
+msgstr ""
+
+# mes "He'll start training you to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "He'll start training you to"
+msgstr ""
+
+# mes "become a Taekwon Master.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "become a Taekwon Master."
+msgstr ""
+
+# mes "So how's the testing";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "So how's the testing"
+msgstr ""
+
+# mes "coming along? Oh hey, you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "coming along? Oh hey, you"
+msgstr ""
+
+# mes "look worried. Are you in";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "look worried. Are you in"
+msgstr ""
+
+# mes "some kind of trouble?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "some kind of trouble?"
+msgstr ""
+
+# if (select("No, I'm fine.", "About Beeryu's riddle...") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "No, I'm fine."
+msgstr ""
+
+# if (select("No, I'm fine.", "About Beeryu's riddle...") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "About Beeryu's riddle..."
+msgstr ""
+
+# mes "It's alright to be independent";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "It's alright to be independent"
+msgstr ""
+
+# mes "and solve problems on your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "and solve problems on your"
+msgstr ""
+
+# mes "own, but you should elicit help";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "own, but you should elicit help"
+msgstr ""
+
+# mes "when you really need it. There";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "when you really need it. There"
+msgstr ""
+
+# mes "is no shame in being unable to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "is no shame in being unable to"
+msgstr ""
+
+# mes "accomplish something alone...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "accomplish something alone..."
+msgstr ""
+
+# mes "Ah, that. Beeryu has";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Ah, that. Beeryu has"
+msgstr ""
+
+# mes "given you that riddle";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "given you that riddle"
+msgstr ""
+
+# mes "to solve. Well, first of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to solve. Well, first of"
+msgstr ""
+
+# mes "all, you have to bring him";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "all, you have to bring him"
+msgstr ""
+
+# mes "something very important,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "something very important,"
+msgstr ""
+
+# mes "but it isn't a material object.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "but it isn't a material object."
+msgstr ""
+
+# mes "You have to demonstrate";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "You have to demonstrate"
+msgstr ""
+
+# mes "something for him. Now tell";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "something for him. Now tell"
+msgstr ""
+
+# mes "me, when you face difficulty in";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "me, when you face difficulty in"
+msgstr ""
+
+# mes "life, obstacles to your goals,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "life, obstacles to your goals,"
+msgstr ""
+
+# mes "how do you respond? What";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "how do you respond? What"
+msgstr ""
+
+# mes "does your heart feel, man?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "does your heart feel, man?"
+msgstr ""
+
+# mes "I know that Beeryu asked you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I know that Beeryu asked you"
+msgstr ""
+
+# mes "to prove your patience to him,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to prove your patience to him,"
+msgstr ""
+
+# mes "but this is the most important";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "but this is the most important"
+msgstr ""
+
+# mes "factor behind patience. What";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "factor behind patience. What"
+msgstr ""
+
+# mes "do you say to yourself when";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "do you say to yourself when"
+msgstr ""
+
+# mes "your life seems hopeless?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "your life seems hopeless?"
+msgstr ""
+
+# if (select("I will not give up!", "I... I don't know?") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I will not give up!"
+msgstr ""
+
+# if (select("I will not give up!", "I... I don't know?") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I... I don't know?"
+msgstr ""
+
+# mes "I'll make my dreams";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I'll make my dreams"
+msgstr ""
+
+# mes "come true, no matter";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "come true, no matter"
+msgstr ""
+
+# mes "how long it may take!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "how long it may take!"
+msgstr ""
+
+# mes "Yes, that's it!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Yes, that's it!"
+msgstr ""
+
+# mes "When your resolution";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "When your resolution"
+msgstr ""
+
+# mes "is backed by an iron will,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "is backed by an iron will,"
+msgstr ""
+
+# mes "you will have the patience";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you will have the patience"
+msgstr ""
+
+# mes "to weather out all things.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to weather out all things."
+msgstr ""
+
+# mes "Show Beeryu your resolve...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Show Beeryu your resolve..."
+msgstr ""
+
+# mes "Great, I think you're";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Great, I think you're"
+msgstr ""
+
+# mes "ready now. Please go";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "ready now. Please go"
+msgstr ""
+
+# mes "talk to Moogang and head";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "talk to Moogang and head"
+msgstr ""
+
+# mes "back to the Moon Room. Soon,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "back to the Moon Room. Soon,"
+msgstr ""
+
+# mes "maybe we'll be able to greet";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "maybe we'll be able to greet"
+msgstr ""
+
+# mes "each other as Taekwon Masters!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "each other as Taekwon Masters!"
+msgstr ""
+
+# mes "You... You don't know?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "You... You don't know?"
+msgstr ""
+
+# mes "If you'd face obstacles";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "If you'd face obstacles"
+msgstr ""
+
+# mes "head on and directly confront";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "head on and directly confront"
+msgstr ""
+
+# mes "your fears, your enemies, and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "your fears, your enemies, and"
+msgstr ""
+
+# mes "all of life's challenges, then the answer should come naturally.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "all of life's challenges, then the answer should come naturally."
+msgstr ""
+
+# mes "Hmm...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Hmm..."
+msgstr ""
+
+# mes "Why don't you contemplate";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Why don't you contemplate"
+msgstr ""
+
+# mes "the value of courage for";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "the value of courage for"
+msgstr ""
+
+# mes "a little while? Yes, that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a little while? Yes, that"
+msgstr ""
+
+# mes "might be useful for now.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "might be useful for now."
+msgstr ""
+
+# mes "So, how have you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "So, how have you"
+msgstr ""
+
+# mes "been doing? I got";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "been doing? I got"
+msgstr ""
+
+# mes "faith that you'll become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "faith that you'll become"
+msgstr ""
+
+# mes "a great Taekwon Master, so";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a great Taekwon Master, so"
+msgstr ""
+
+# mes "I'm expecting great things.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "I'm expecting great things."
+msgstr ""
+
+# mes "Hey, how have you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Hey, how have you"
+msgstr ""
+
+# mes "been doing? Attuned";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "been doing? Attuned"
+msgstr ""
+
+# mes "with nature and all";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "with nature and all"
+msgstr ""
+
+# mes "that, I see. Heh heh,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "that, I see. Heh heh,"
+msgstr ""
+
+# mes "isn't the cosmos such";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "isn't the cosmos such"
+msgstr ""
+
+# mes "a wonderful thing?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a wonderful thing?"
+msgstr ""
+
+# mes "Hey, kid. Do you want";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Hey, kid. Do you want"
+msgstr ""
+
+# mes "to learn Taekwon Do?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "to learn Taekwon Do?"
+msgstr ""
+
+# mes "If you learn it, then you're";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "If you learn it, then you're"
+msgstr ""
+
+# mes "guaranteed to become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "guaranteed to become"
+msgstr ""
+
+# mes "much stronger! ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "much stronger! "
+msgstr ""
+
+# mes "Let's see...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Let's see..."
+msgstr ""
+
+# mes "There's a man named";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "There's a man named"
+msgstr ""
+
+# mes "Phoenix who can teach";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Phoenix who can teach"
+msgstr ""
+
+# mes "you Taekwon Do. He's";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you Taekwon Do. He's"
+msgstr ""
+
+# mes "around here somewhere...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "around here somewhere..."
+msgstr ""
+
+# mes "Anyway, once you've";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Anyway, once you've"
+msgstr ""
+
+# mes "learned Taekwon Do for";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "learned Taekwon Do for"
+msgstr ""
+
+# mes "a while, go ahead and come";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a while, go ahead and come"
+msgstr ""
+
+# mes "back to me if you really want to advance your studies, to master";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "back to me if you really want to advance your studies, to master"
+msgstr ""
+
+# mes "more than your mind and body.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "more than your mind and body."
+msgstr ""
+
+# mes "Dude...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Dude..."
+msgstr ""
+
+# mes "Whaddya want?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Whaddya want?"
+msgstr ""
+
+# mes "You wanna join up";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "You wanna join up"
+msgstr ""
+
+# mes "with my martial arts";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "with my martial arts"
+msgstr ""
+
+# mes "school? It's too late";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "school? It's too late"
+msgstr ""
+
+# mes "for you, sorry pal~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "for you, sorry pal~"
+msgstr ""
+
+# mes "Oh, I didn't realize tha--";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Oh, I didn't realize tha--"
+msgstr ""
+
+# mes "Y-you're such a beautiful";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Y-you're such a beautiful"
+msgstr ""
+
+# mes "lady! I guess I oughta, you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "lady! I guess I oughta, you"
+msgstr ""
+
+# mes "know, apologize for bein' rude.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "know, apologize for bein' rude."
+msgstr ""
+
+# mes "Anyway, if you think I'm";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Anyway, if you think I'm"
+msgstr ""
+
+# mes "just some punk, I'll admit";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "just some punk, I'll admit"
+msgstr ""
+
+# mes "that I look and act the part.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "that I look and act the part."
+msgstr ""
+
+# mes "But actually, I'm a warrior of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "But actually, I'm a warrior of"
+msgstr ""
+
+# mes "the Sun, Moon, and Stars.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "the Sun, Moon, and Stars."
+msgstr ""
+
+# mes "It might be a little late";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "It might be a little late"
+msgstr ""
+
+# mes "for you, but if you know ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "for you, but if you know "
+msgstr ""
+
+# mes "anybody that wants to become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "anybody that wants to become"
+msgstr ""
+
+# mes "a Taekwon Master, send them";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "a Taekwon Master, send them"
+msgstr ""
+
+# mes "my way. I'll make sure that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "my way. I'll make sure that"
+msgstr ""
+
+# mes "they meet the right people~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "they meet the right people~"
+msgstr ""
+
+# mes "Hm...? Oh, you're just";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Hm...? Oh, you're just"
+msgstr ""
+
+# mes "the kind of person I'm";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "the kind of person I'm"
+msgstr ""
+
+# mes "looking for. Come, I've";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "looking for. Come, I've"
+msgstr ""
+
+# mes "got an offer for you if";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "got an offer for you if"
+msgstr ""
+
+# mes "you're willing to listen...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "you're willing to listen..."
+msgstr ""
+
+# mes "How's it going, warrior?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "How's it going, warrior?"
+msgstr ""
+
+# mes "Please continue to use";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Please continue to use"
+msgstr ""
+
+# mes "your skills for the right";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "your skills for the right"
+msgstr ""
+
+# mes "causes. Bring pride to all";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "causes. Bring pride to all"
+msgstr ""
+
+# mes "Taekwon Masters everywhere!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Taekwon Masters everywhere!"
+msgstr ""
+
+# mes "Whoa, whoa~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Whoa, whoa~"
+msgstr ""
+
+# mes "Step aside, will you?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "Step aside, will you?"
+msgstr ""
+
+# mes "You're blocking my sun!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Moohyun#job_star"
+msgid "You're blocking my sun!"
+msgstr ""
+
+# mes "[Moogang]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "[Moogang]"
+msgstr ""
+
+# mes "I have been expecting you.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I have been expecting you."
+msgstr ""
+
+# mes "Moohyun has told me about";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Moohyun has told me about"
+msgstr ""
+
+# mes "your arrival and your desire";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "your arrival and your desire"
+msgstr ""
+
+# mes "to become a Taekwon Master.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "to become a Taekwon Master."
+msgstr ""
+
+# mes "I will trust his judgment...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I will trust his judgment..."
+msgstr ""
+
+# mes "Yes, Moohyun is skilled at";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Yes, Moohyun is skilled at"
+msgstr ""
+
+# mes "discerning the inner strengths";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "discerning the inner strengths"
+msgstr ""
+
+# mes "of others. You should do well.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of others. You should do well."
+msgstr ""
+
+# mes "Are you ready for the first test, to use your fists and legs in the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Are you ready for the first test, to use your fists and legs in the"
+msgstr ""
+
+# mes "service of the grand cosmos?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "service of the grand cosmos?"
+msgstr ""
+
+# if (select("Yes, let me take the test!", "Wait, I need to think about this!") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Yes, let me take the test!"
+msgstr ""
+
+# if (select("Yes, let me take the test!", "Wait, I need to think about this!") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Wait, I need to think about this!"
+msgstr ""
+
+# mes "Hm? You still have Skill";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Hm? You still have Skill"
+msgstr ""
+
+# mes "Points that you haven't yet";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Points that you haven't yet"
+msgstr ""
+
+# mes "allocated. Use them, learn";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "allocated. Use them, learn"
+msgstr ""
+
+# mes "and improve your Taekwon Girl";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and improve your Taekwon Girl"
+msgstr ""
+
+# mes "and improve your Taekwon Boy";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and improve your Taekwon Boy"
+msgstr ""
+
+# mes "skills. When you are finished, come back here for your training.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "skills. When you are finished, come back here for your training."
+msgstr ""
+
+# mes "Taekwon Do sets the basics.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Taekwon Do sets the basics."
+msgstr ""
+
+# mes "Mind, body, soul. These are not";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Mind, body, soul. These are not"
+msgstr ""
+
+# mes "separate parts, but a functioning whole. Your self is in touch";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "separate parts, but a functioning whole. Your self is in touch"
+msgstr ""
+
+# mes "with itself, but is it in touch";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "with itself, but is it in touch"
+msgstr ""
+
+# mes "with the outside world?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "with the outside world?"
+msgstr ""
+
+# mes "Close your eyes. Seek out";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Close your eyes. Seek out"
+msgstr ""
+
+# mes "the sensation of the wind.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the sensation of the wind."
+msgstr ""
+
+# mes "Open your arms and embrace";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Open your arms and embrace"
+msgstr ""
+
+# mes "the sky. Can you feel it? The";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the sky. Can you feel it? The"
+msgstr ""
+
+# mes "everspreading flow of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "everspreading flow of the"
+msgstr ""
+
+# mes "universal cosmos?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "universal cosmos?"
+msgstr ""
+
+# mes "Nature's laws cannot be broken,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Nature's laws cannot be broken,"
+msgstr ""
+
+# mes "but as your undestanding of nature grows, you'll be able to grasp the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "but as your undestanding of nature grows, you'll be able to grasp the"
+msgstr ""
+
+# mes "sunlight, hold the moonlight, and mold the starlight. This test will";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "sunlight, hold the moonlight, and mold the starlight. This test will"
+msgstr ""
+
+# mes "help you attune yourself...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "help you attune yourself..."
+msgstr ""
+
+# mes "Go forth and gather the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Go forth and gather the"
+msgstr ""
+
+# mes "power of nature scattered";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "power of nature scattered"
+msgstr ""
+
+# mes "around the world. Bring me";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "around the world. Bring me"
+msgstr ""
+
+# mes "pieces of the blustery wind,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "pieces of the blustery wind,"
+msgstr ""
+
+# mes "solid earth, freezing ice,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "solid earth, freezing ice,"
+msgstr ""
+
+# mes "and burning flame.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and burning flame."
+msgstr ""
+
+# mes "In other words...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "In other words..."
+msgstr ""
+
+# mes "^4D4DFFRough Wind^000000,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "^4D4DFFRough Wind^000000,"
+msgstr ""
+
+# mes "^4D4DFFGreat Nature^000000,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "^4D4DFFGreat Nature^000000,"
+msgstr ""
+
+# mes "^4D4DFFMystic Frozen^000000 and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "^4D4DFFMystic Frozen^000000 and"
+msgstr ""
+
+# mes "^4D4DFFFlame Heart^000000.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "^4D4DFFFlame Heart^000000."
+msgstr ""
+
+# mes "Now go...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Now go..."
+msgstr ""
+
+# mes "I respect your decision,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I respect your decision,"
+msgstr ""
+
+# mes "although I see no reason";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "although I see no reason"
+msgstr ""
+
+# mes "for you to hesitate. But like";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "for you to hesitate. But like"
+msgstr ""
+
+# mes "the phases of the moon, all";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the phases of the moon, all"
+msgstr ""
+
+# mes "changes must occur according";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "changes must occur according"
+msgstr ""
+
+# mes "to the grand scheme of things.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "to the grand scheme of things."
+msgstr ""
+
+# mes "Ah, you've completed the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, you've completed the"
+msgstr ""
+
+# mes "task I've set for you. Very";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "task I've set for you. Very"
+msgstr ""
+
+# mes "good. Now, while holding these";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "good. Now, while holding these"
+msgstr ""
+
+# mes "shards of the wind, earth, ice";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "shards of the wind, earth, ice"
+msgstr ""
+
+# mes "and flame, did you sense the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and flame, did you sense the"
+msgstr ""
+
+# mes "connection between them all?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "connection between them all?"
+msgstr ""
+
+# mes "Winds provide gentle and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Winds provide gentle and"
+msgstr ""
+
+# mes "comforting breezes or bring";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "comforting breezes or bring"
+msgstr ""
+
+# mes "destructive hurricanes. Earth";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "destructive hurricanes. Earth"
+msgstr ""
+
+# mes "is the solid ground on which";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "is the solid ground on which"
+msgstr ""
+
+# mes "all life lives, but it can also";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "all life lives, but it can also"
+msgstr ""
+
+# mes "sink and shake buildings.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "sink and shake buildings."
+msgstr ""
+
+# mes "Water gives life and provides";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Water gives life and provides"
+msgstr ""
+
+# mes "cooling refreshment, but it can";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "cooling refreshment, but it can"
+msgstr ""
+
+# mes "also drown and freeze life. Fire can bring comforting warmth,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "also drown and freeze life. Fire can bring comforting warmth,"
+msgstr ""
+
+# mes "but it can also reduce life to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "but it can also reduce life to"
+msgstr ""
+
+# mes "gray ashes. Such is nature.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "gray ashes. Such is nature."
+msgstr ""
+
+# mes "This is the power of nature.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "This is the power of nature."
+msgstr ""
+
+# mes "Any force can be used to do";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Any force can be used to do"
+msgstr ""
+
+# mes "good or evil, depending on";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "good or evil, depending on"
+msgstr ""
+
+# mes "how you wield it. So do you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "how you wield it. So do you"
+msgstr ""
+
+# mes "understand now? This is how";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "understand now? This is how"
+msgstr ""
+
+# mes "the universe is intertwined.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the universe is intertwined."
+msgstr ""
+
+# mes "However, the most primal,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "However, the most primal,"
+msgstr ""
+
+# mes "the purest elements of our";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the purest elements of our"
+msgstr ""
+
+# mes "universe are equated to the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "universe are equated to the"
+msgstr ""
+
+# mes "cosmos: the Sun, the Moon,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "cosmos: the Sun, the Moon,"
+msgstr ""
+
+# mes "and the Stars. Contemplate";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and the Stars. Contemplate"
+msgstr ""
+
+# mes "on this truth for a while...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "on this truth for a while..."
+msgstr ""
+
+# mes "With the realization of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "With the realization of"
+msgstr ""
+
+# mes "the nature of the universe";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the nature of the universe"
+msgstr ""
+
+# mes "comes the respect for nature";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "comes the respect for nature"
+msgstr ""
+
+# mes "and all things. Now, when you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and all things. Now, when you"
+msgstr ""
+
+# mes "are ready for the next test, then";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "are ready for the next test, then"
+msgstr ""
+
+# mes "I shall guide you to the altar.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I shall guide you to the altar."
+msgstr ""
+
+# mes "For your first test on your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "For your first test on your"
+msgstr ""
+
+# mes "journey towards becoming";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "journey towards becoming"
+msgstr ""
+
+# mes "a Taekwon Master, bring me ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "a Taekwon Master, bring me "
+msgstr ""
+
+# mes "shards of the natural elements.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "shards of the natural elements."
+msgstr ""
+
+# mes "I want you to understand their innate harmony with one another.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I want you to understand their innate harmony with one another."
+msgstr ""
+
+# mes "Bring...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Bring..."
+msgstr ""
+
+# mes "Are you ready for";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Are you ready for"
+msgstr ""
+
+# mes "the next test to become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the next test to become"
+msgstr ""
+
+# mes "a Taekwon Master? Then,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "a Taekwon Master? Then,"
+msgstr ""
+
+# if (select("Wait, I need more time!", "Yes, I am ready.") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Wait, I need more time!"
+msgstr ""
+
+# if (select("Wait, I need more time!", "Yes, I am ready.") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Yes, I am ready."
+msgstr ""
+
+# mes "I see. Well then, please";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I see. Well then, please"
+msgstr ""
+
+# mes "let me know when you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "let me know when you"
+msgstr ""
+
+# mes "are ready to proceed.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "are ready to proceed."
+msgstr ""
+
+# mes "At the altar, speak";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "At the altar, speak"
+msgstr ""
+
+# mes "to Daru, who will serve";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "to Daru, who will serve"
+msgstr ""
+
+# mes "as your guide for that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "as your guide for that"
+msgstr ""
+
+# mes "test. After you complete";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "test. After you complete"
+msgstr ""
+
+# mes "the test, come talk to me.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the test, come talk to me."
+msgstr ""
+
+# mes "How very strange...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "How very strange..."
+msgstr ""
+
+# mes "You cannot have completed";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "You cannot have completed"
+msgstr ""
+
+# mes "that test by now. Ah, something";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "that test by now. Ah, something"
+msgstr ""
+
+# mes "must have happened. I shall";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "must have happened. I shall"
+msgstr ""
+
+# mes "send you back to the altar";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "send you back to the altar"
+msgstr ""
+
+# mes "so that Daru can test you.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "so that Daru can test you."
+msgstr ""
+
+# mes "Hmm...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Hmm..."
+msgstr ""
+
+# mes "You seem troubled.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "You seem troubled."
+msgstr ""
+
+# mes "Ah, you must be thinking";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, you must be thinking"
+msgstr ""
+
+# mes "about Beeryu's riddle, yes?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "about Beeryu's riddle, yes?"
+msgstr ""
+
+# mes "You are the only one that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "You are the only one that"
+msgstr ""
+
+# mes "can find the answer...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "can find the answer..."
+msgstr ""
+
+# mes "Hmm. Perhaps it would";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Hmm. Perhaps it would"
+msgstr ""
+
+# mes "be best for you to consult";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "be best for you to consult"
+msgstr ""
+
+# mes "with ^4D4DFFMoohyun^000000 back in Payon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "with ^4D4DFFMoohyun^000000 back in Payon"
+msgstr ""
+
+# mes "so that you may understand";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "so that you may understand"
+msgstr ""
+
+# mes "Beeryu's test regarding the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Beeryu's test regarding the"
+msgstr ""
+
+# mes "value of patience.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "value of patience."
+msgstr ""
+
+# mes "Once you discover the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Once you discover the"
+msgstr ""
+
+# mes "meaning of patience that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "meaning of patience that"
+msgstr ""
+
+# mes "Beeryu wants you to find,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Beeryu wants you to find,"
+msgstr ""
+
+# mes "come back to me so that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "come back to me so that"
+msgstr ""
+
+# mes "I can send you back to the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I can send you back to the"
+msgstr ""
+
+# mes "Moon Room for testing.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Moon Room for testing."
+msgstr ""
+
+# mes "Ah, I see that Moohyun";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, I see that Moohyun"
+msgstr ""
+
+# mes "has helped you achieve a";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "has helped you achieve a"
+msgstr ""
+
+# mes "new level of understanding.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "new level of understanding."
+msgstr ""
+
+# mes "Very well, very well. Let me";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Very well, very well. Let me"
+msgstr ""
+
+# mes "send you to the Moon Room";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "send you to the Moon Room"
+msgstr ""
+
+# mes "where Beeryu is waiting...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "where Beeryu is waiting..."
+msgstr ""
+
+# mes "Would you like to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Would you like to"
+msgstr ""
+
+# mes "return to the Star Room";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "return to the Star Room"
+msgstr ""
+
+# mes "to complete your Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "to complete your Taekwon"
+msgstr ""
+
+# mes "Master testing and training?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Master testing and training?"
+msgstr ""
+
+# if (select("Yes, please.", "Maybe later.") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Yes, please."
+msgstr ""
+
+# if (select("Yes, please.", "Maybe later.") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Maybe later."
+msgstr ""
+
+# mes "Don't lose heart...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Don't lose heart..."
+msgstr ""
+
+# mes "I expect that you will";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I expect that you will"
+msgstr ""
+
+# mes "achieve your goal of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "achieve your goal of"
+msgstr ""
+
+# mes "becoming a Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "becoming a Taekwon"
+msgstr ""
+
+# mes "Master very soon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Master very soon."
+msgstr ""
+
+# mes "I see. Well, when";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I see. Well, when"
+msgstr ""
+
+# mes "your mind, body and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "your mind, body and"
+msgstr ""
+
+# mes "spirit are prepared, please";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "spirit are prepared, please"
+msgstr ""
+
+# mes "come and talk to me again.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "come and talk to me again."
+msgstr ""
+
+# mes "Ah, you have come here in";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, you have come here in"
+msgstr ""
+
+# mes "order to speak to Cheehee.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "order to speak to Cheehee."
+msgstr ""
+
+# mes "Would you like me to send";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Would you like me to send"
+msgstr ""
+
+# mes "you to the Star Room now?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "you to the Star Room now?"
+msgstr ""
+
+# mes "Ah, you've returned";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, you've returned"
+msgstr ""
+
+# mes "wiser and more attuned";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "wiser and more attuned"
+msgstr ""
+
+# mes "with nature than before.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "with nature than before."
+msgstr ""
+
+# mes "Yes, I can see it in your eyes.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Yes, I can see it in your eyes."
+msgstr ""
+
+# mes "So tell me, what did you learn?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "So tell me, what did you learn?"
+msgstr ""
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "["
+msgstr ""
+
+# mes "I can feel the bond between";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I can feel the bond between"
+msgstr ""
+
+# mes "the Sun, the Moon and the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the Sun, the Moon and the"
+msgstr ""
+
+# mes "Stars. They all give light,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Stars. They all give light,"
+msgstr ""
+
+# mes "but their different shades";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "but their different shades"
+msgstr ""
+
+# mes "bestow different gifts.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "bestow different gifts."
+msgstr ""
+
+# mes "The sun gives glorious";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "The sun gives glorious"
+msgstr ""
+
+# mes "warmth and is the wellspring";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "warmth and is the wellspring"
+msgstr ""
+
+# mes "of life. Moonlight is gentle and gives comfort. The twinkling";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of life. Moonlight is gentle and gives comfort. The twinkling"
+msgstr ""
+
+# mes "of stars gives hope in even";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of stars gives hope in even"
+msgstr ""
+
+# mes "the darkest of nights.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the darkest of nights."
+msgstr ""
+
+# mes "I also know the Sun's";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I also know the Sun's"
+msgstr ""
+
+# mes "scorching, destructive";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "scorching, destructive"
+msgstr ""
+
+# mes "heat, the loneliness of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "heat, the loneliness of"
+msgstr ""
+
+# mes "the Moon, and the sadness";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the Moon, and the sadness"
+msgstr ""
+
+# mes "of the Stars. I now understand";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of the Stars. I now understand"
+msgstr ""
+
+# mes "the spectrum of the cosmos!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the spectrum of the cosmos!"
+msgstr ""
+
+# mes "The combined rage of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "The combined rage of the"
+msgstr ""
+
+# mes "cosmos can summon a ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "cosmos can summon a "
+msgstr ""
+
+# mes "demon of utter darkness.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "demon of utter darkness."
+msgstr ""
+
+# mes "The combined love of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "The combined love of the"
+msgstr ""
+
+# mes "cosmos bestows infinite";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "cosmos bestows infinite"
+msgstr ""
+
+# mes "blessing and light...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "blessing and light..."
+msgstr ""
+
+# mes "I cannot ask for";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I cannot ask for"
+msgstr ""
+
+# mes "anything more. You";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "anything more. You"
+msgstr ""
+
+# mes "are already a warrior";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "are already a warrior"
+msgstr ""
+
+# mes "of the Sun, the Moon and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of the Sun, the Moon and"
+msgstr ""
+
+# mes "the Stars. Welcome to our";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the Stars. Welcome to our"
+msgstr ""
+
+# mes "way of martial arts, friend.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "way of martial arts, friend."
+msgstr ""
+
+# mes "From now on, please";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "From now on, please"
+msgstr ""
+
+# mes "make your decisions very";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "make your decisions very"
+msgstr ""
+
+# mes "carefully. What you decide";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "carefully. What you decide"
+msgstr ""
+
+# mes "will determine the course";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "will determine the course"
+msgstr ""
+
+# mes "of your entire life. Also,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of your entire life. Also,"
+msgstr ""
+
+# mes "never forget this song...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "never forget this song..."
+msgstr ""
+
+# mes "''^4D4DFFThe Sun shines on even days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "''^4D4DFFThe Sun shines on even days."
+msgstr ""
+
+# mes "The Moon gleams on odd days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "The Moon gleams on odd days."
+msgstr ""
+
+# mes "The Stars sparkle on every";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "The Stars sparkle on every"
+msgstr ""
+
+# mes "fifth day without fail.^000000''";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "fifth day without fail.^000000''"
+msgstr ""
+
+# mes "That is all that I can";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "That is all that I can"
+msgstr ""
+
+# mes "share with you. Never forget";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "share with you. Never forget"
+msgstr ""
+
+# mes "that we, as Taekwon Masters,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "that we, as Taekwon Masters,"
+msgstr ""
+
+# mes "cannot exist separately from";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "cannot exist separately from"
+msgstr ""
+
+# mes "the Sun, Moon and Stars...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the Sun, Moon and Stars..."
+msgstr ""
+
+# mes "Oh, hello. You're a";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Oh, hello. You're a"
+msgstr ""
+
+# mes "student of Taekwon Do,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "student of Taekwon Do,"
+msgstr ""
+
+# mes "are you not? It's nice to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "are you not? It's nice to"
+msgstr ""
+
+# mes "meet you. Please call";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "meet you. Please call"
+msgstr ""
+
+# mes "me Moogang. I too used to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "me Moogang. I too used to"
+msgstr ""
+
+# mes "study this Tae Kwon Do.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "study this Tae Kwon Do."
+msgstr ""
+
+# mes "Um...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Um..."
+msgstr ""
+
+# mes "Have you ever";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Have you ever"
+msgstr ""
+
+# mes "considered becoming...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "considered becoming..."
+msgstr ""
+
+# mes "Um... No. Wait. Hmmm...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Um... No. Wait. Hmmm..."
+msgstr ""
+
+# mes "Huh...?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Huh...?"
+msgstr ""
+
+# mes "Oh, dear! I always";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Oh, dear! I always"
+msgstr ""
+
+# mes "have a little bit of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "have a little bit of"
+msgstr ""
+
+# mes "trouble speaking to other";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "trouble speaking to other"
+msgstr ""
+
+# mes "people. Now, why don't";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "people. Now, why don't"
+msgstr ""
+
+# mes "you speak to my good";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "you speak to my good"
+msgstr ""
+
+# mes "friend, Moohyun?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "friend, Moohyun?"
+msgstr ""
+
+# mes "It's just...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "It's just..."
+msgstr ""
+
+# mes "I'm so excited!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I'm so excited!"
+msgstr ""
+
+# mes "There's every chance";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "There's every chance"
+msgstr ""
+
+# mes "that you might possibly";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "that you might possibly"
+msgstr ""
+
+# mes "be the warrior I'm seeking!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "be the warrior I'm seeking!"
+msgstr ""
+
+# mes "Oh, it's very nice to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Oh, it's very nice to"
+msgstr ""
+
+# mes "see you again. So where";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "see you again. So where"
+msgstr ""
+
+# mes "have you been lately? I trust";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "have you been lately? I trust"
+msgstr ""
+
+# mes "that you've been to places";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "that you've been to places"
+msgstr ""
+
+# mes "blessed by the Sun, Moon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "blessed by the Sun, Moon"
+msgstr ""
+
+# mes "and Stars, correct?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and Stars, correct?"
+msgstr ""
+
+# mes "My friend, please keep";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "My friend, please keep"
+msgstr ""
+
+# mes "my advice in mind and ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "my advice in mind and "
+msgstr ""
+
+# mes "always be careful when";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "always be careful when"
+msgstr ""
+
+# mes "you make decisions. I don't";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "you make decisions. I don't"
+msgstr ""
+
+# mes "want to see you regreting your decision later on in your life...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "want to see you regreting your decision later on in your life..."
+msgstr ""
+
+# mes "Ah, if you miss the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, if you miss the"
+msgstr ""
+
+# mes "Room of the Sun, the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Room of the Sun, the"
+msgstr ""
+
+# mes "Moon Room or the Star Room,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Moon Room or the Star Room,"
+msgstr ""
+
+# mes "I can send you there anytime";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "I can send you there anytime"
+msgstr ""
+
+# mes "that you wish. Would you like";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "that you wish. Would you like"
+msgstr ""
+
+# mes "to visit any of them now?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "to visit any of them now?"
+msgstr ""
+
+# switch(select("Maybe next time.", "To the Room of the Sun!", "To the Moon Room!", "To the Star Room!")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Maybe next time."
+msgstr ""
+
+# switch(select("Maybe next time.", "To the Room of the Sun!", "To the Moon Room!", "To the Star Room!")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "To the Room of the Sun!"
+msgstr ""
+
+# switch(select("Maybe next time.", "To the Room of the Sun!", "To the Moon Room!", "To the Star Room!")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "To the Moon Room!"
+msgstr ""
+
+# switch(select("Maybe next time.", "To the Room of the Sun!", "To the Moon Room!", "To the Star Room!")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "To the Star Room!"
+msgstr ""
+
+# mes "Alright. I'll always be";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Alright. I'll always be"
+msgstr ""
+
+# mes "here, so whenever you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "here, so whenever you"
+msgstr ""
+
+# mes "feel like going to any of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "feel like going to any of"
+msgstr ""
+
+# mes "those places, just come";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "those places, just come"
+msgstr ""
+
+# mes "and talk to me. Goodbye";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "and talk to me. Goodbye"
+msgstr ""
+
+# mes "for now, "+strcharinfo(PC_NAME)+"~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "for now, "
+msgstr ""
+
+# mes "Ah, you must miss";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, you must miss"
+msgstr ""
+
+# mes "the glorious warmth";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the glorious warmth"
+msgstr ""
+
+# mes "of the sun, eh? Let";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of the sun, eh? Let"
+msgstr ""
+
+# mes "me send you there";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "me send you there"
+msgstr ""
+
+# mes "right away...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "right away..."
+msgstr ""
+
+# mes "Hm? Have you need";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Hm? Have you need"
+msgstr ""
+
+# mes "of the soothing light of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "of the soothing light of"
+msgstr ""
+
+# mes "the Moon? Then I hope";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the Moon? Then I hope"
+msgstr ""
+
+# mes "that you find peace in";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "that you find peace in"
+msgstr ""
+
+# mes "its calming influence...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "its calming influence..."
+msgstr ""
+
+# mes "Ah, there are countless";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Ah, there are countless"
+msgstr ""
+
+# mes "reasons as to why you'd want";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "reasons as to why you'd want"
+msgstr ""
+
+# mes "to view the twinkling of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "to view the twinkling of the"
+msgstr ""
+
+# mes "stars. Well, let me send you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "stars. Well, let me send you"
+msgstr ""
+
+# mes "to the Star Room right away~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "to the Star Room right away~"
+msgstr ""
+
+# mes "[Wandering Martial Artist]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "[Wandering Martial Artist]"
+msgstr ""
+
+# mes "Do you enjoy hiking?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Do you enjoy hiking?"
+msgstr ""
+
+# mes "The fresh air, the liberation";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "The fresh air, the liberation"
+msgstr ""
+
+# mes "found in wandering, and the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "found in wandering, and the"
+msgstr ""
+
+# mes "beauty of natural are all";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "beauty of natural are all"
+msgstr ""
+
+# mes "welcome benefits.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "welcome benefits."
+msgstr ""
+
+# mes "Of course, I cannot enjoy";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Of course, I cannot enjoy"
+msgstr ""
+
+# mes "the moonlight and starlight";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "the moonlight and starlight"
+msgstr ""
+
+# mes "on nighttime hikes as much";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "on nighttime hikes as much"
+msgstr ""
+
+# mes "as you can. Well then, may the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "as you can. Well then, may the"
+msgstr ""
+
+# mes "Sun, Moon and Stars protect";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "Sun, Moon and Stars protect"
+msgstr ""
+
+# mes "you on all your journeys~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Wandering Master#job_sta"
+msgid "you on all your journeys~"
+msgstr ""
+
+# mes "[Daru]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "[Daru]"
+msgstr ""
+
+# mes "Ah, greetings.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Ah, greetings."
+msgstr ""
+
+# mes "I am Daru, and I will";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I am Daru, and I will"
+msgstr ""
+
+# mes "be your guide for this room.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "be your guide for this room."
+msgstr ""
+
+# mes "For this test, you must open";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "For this test, you must open"
+msgstr ""
+
+# mes "your eyes and answer my";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "your eyes and answer my"
+msgstr ""
+
+# mes "questions. Let us begin.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "questions. Let us begin."
+msgstr ""
+
+# mes "Tell me.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Tell me."
+msgstr ""
+
+# mes "What is it";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "What is it"
+msgstr ""
+
+# mes "that you see?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "that you see?"
+msgstr ""
+
+# switch(select("The Sun.", "The Moon.", "The Stars.", "I have no idea.")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The Sun."
+msgstr ""
+
+# switch(select("The Sun.", "The Moon.", "The Stars.", "I have no idea.")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The Moon."
+msgstr ""
+
+# switch(select("The Sun.", "The Moon.", "The Stars.", "I have no idea.")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The Stars."
+msgstr ""
+
+# switch(select("The Sun.", "The Moon.", "The Stars.", "I have no idea.")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I have no idea."
+msgstr ""
+
+# mes "Yes! It is the sun!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Yes! It is the sun!"
+msgstr ""
+
+# mes "I suppose you can think";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I suppose you can think"
+msgstr ""
+
+# mes "of mankind as the sons of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "of mankind as the sons of"
+msgstr ""
+
+# mes "the sun. Good, very good...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "the sun. Good, very good..."
+msgstr ""
+
+# mes "The... The moon?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The... The moon?"
+msgstr ""
+
+# mes "Mm. But this is the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Mm. But this is the"
+msgstr ""
+
+# mes "Sun Room. Hmmm...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Sun Room. Hmmm..."
+msgstr ""
+
+# mes "The Stars. Well, hmm.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The Stars. Well, hmm."
+msgstr ""
+
+# mes "I suppose you can think of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I suppose you can think of"
+msgstr ""
+
+# mes "the Sun as one of thousands";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "the Sun as one of thousands"
+msgstr ""
+
+# mes "of stars in the universe...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "of stars in the universe..."
+msgstr ""
+
+# mes "No... idea?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "No... idea?"
+msgstr ""
+
+# mes "Hmm. You should";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Hmm. You should"
+msgstr ""
+
+# mes "open your mind as";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "open your mind as"
+msgstr ""
+
+# mes "well as your eyes.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "well as your eyes."
+msgstr ""
+
+# mes "It wouldn't hurt to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "It wouldn't hurt to"
+msgstr ""
+
+# mes "try to guess an answer...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "try to guess an answer..."
+msgstr ""
+
+# mes "Now, there is nothing";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Now, there is nothing"
+msgstr ""
+
+# mes "that can live without the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "that can live without the"
+msgstr ""
+
+# mes "sun. Do you know what one";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "sun. Do you know what one"
+msgstr ""
+
+# mes "needs most from the sun?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "needs most from the sun?"
+msgstr ""
+
+# switch(select("Warmth", "Comfort", "Light", "Nothing")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Warmth"
+msgstr ""
+
+# switch(select("Warmth", "Comfort", "Light", "Nothing")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Comfort"
+msgstr ""
+
+# switch(select("Warmth", "Comfort", "Light", "Nothing")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Light"
+msgstr ""
+
+# switch(select("Warmth", "Comfort", "Light", "Nothing")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Nothing"
+msgstr ""
+
+# mes "That is right.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "That is right."
+msgstr ""
+
+# mes "Without the warmth";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Without the warmth"
+msgstr ""
+
+# mes "of the sun, our world";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "of the sun, our world"
+msgstr ""
+
+# mes "not only be cold, but it";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "not only be cold, but it"
+msgstr ""
+
+# mes "would be completely lifeless.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "would be completely lifeless."
+msgstr ""
+
+# mes "Comfort...?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Comfort...?"
+msgstr ""
+
+# mes "Ah, yes. The warmth";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Ah, yes. The warmth"
+msgstr ""
+
+# mes "of the sun brings comfort.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "of the sun brings comfort."
+msgstr ""
+
+# mes "And without comfort, is life";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "And without comfort, is life"
+msgstr ""
+
+# mes "truly worth living? Good answer. ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "truly worth living? Good answer. "
+msgstr ""
+
+# mes "Yes. Without the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Yes. Without the"
+msgstr ""
+
+# mes "glorious light of the sun,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "glorious light of the sun,"
+msgstr ""
+
+# mes "we would see nothing.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "we would see nothing."
+msgstr ""
+
+# mes "We would know nothing.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "We would know nothing."
+msgstr ""
+
+# mes "We would be nothing.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "We would be nothing."
+msgstr ""
+
+# mes "Mmm...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Mmm..."
+msgstr ""
+
+# mes "The answer should";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The answer should"
+msgstr ""
+
+# mes "come from your heart,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "come from your heart,"
+msgstr ""
+
+# mes "rather than your mind.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "rather than your mind."
+msgstr ""
+
+# mes "Everyone needs something";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Everyone needs something"
+msgstr ""
+
+# mes "from the sun. Let's see now...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "from the sun. Let's see now..."
+msgstr ""
+
+# mes "There is a song that goes,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "There is a song that goes,"
+msgstr ""
+
+# mes "''^4D4DFFThe Sun shines on even days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "''^4D4DFFThe Sun shines on even days."
+msgstr ""
+
+# mes "The Moon gleams on odd days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The Moon gleams on odd days."
+msgstr ""
+
+# mes "The Stars sparkle on every";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "The Stars sparkle on every"
+msgstr ""
+
+# mes "fifth day without fail.^000000''";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "fifth day without fail.^000000''"
+msgstr ""
+
+# mes "''^4D4DFFA desert is a Solar place,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "''^4D4DFFA desert is a Solar place,"
+msgstr ""
+
+# mes "its sands kissed by the Sun.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "its sands kissed by the Sun."
+msgstr ""
+
+# mes "A marsh is a Lunar place,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "A marsh is a Lunar place,"
+msgstr ""
+
+# mes "its wolves driven by the Moon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "its wolves driven by the Moon."
+msgstr ""
+
+# mes "A deep cave is a Stellar place, its knights enchanted by Stars.^000000''";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "A deep cave is a Stellar place, its knights enchanted by Stars.^000000''"
+msgstr ""
+
+# mes "Now, which of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Now, which of the"
+msgstr ""
+
+# mes "following combinations";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "following combinations"
+msgstr ""
+
+# mes "shines brightest among ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "shines brightest among "
+msgstr ""
+
+# mes "them all? Think carefully...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "them all? Think carefully..."
+msgstr ""
+
+# if (select("2nd, Marsh, Knights", "4th, Desert, Sand", "10th, Desert, Knights", "5th, Deep Cave, Wolves") == 2)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "2nd, Marsh, Knights"
+msgstr ""
+
+# if (select("2nd, Marsh, Knights", "4th, Desert, Sand", "10th, Desert, Knights", "5th, Deep Cave, Wolves") == 2)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "4th, Desert, Sand"
+msgstr ""
+
+# if (select("2nd, Marsh, Knights", "4th, Desert, Sand", "10th, Desert, Knights", "5th, Deep Cave, Wolves") == 2)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "10th, Desert, Knights"
+msgstr ""
+
+# if (select("2nd, Marsh, Knights", "4th, Desert, Sand", "10th, Desert, Knights", "5th, Deep Cave, Wolves") == 2)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "5th, Deep Cave, Wolves"
+msgstr ""
+
+# mes "Well, that will be all.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Well, that will be all."
+msgstr ""
+
+# mes "I cannot possibly know all";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I cannot possibly know all"
+msgstr ""
+
+# mes "there is to know about you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "there is to know about you"
+msgstr ""
+
+# mes "through just 3 questions...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "through just 3 questions..."
+msgstr ""
+
+# mes "But this should suit our";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "But this should suit our"
+msgstr ""
+
+# mes "purposes for now.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "purposes for now."
+msgstr ""
+
+# mes "I admit that I am impressed";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I admit that I am impressed"
+msgstr ""
+
+# mes "with your understanding of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "with your understanding of"
+msgstr ""
+
+# mes "the Sun. It is the source of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "the Sun. It is the source of"
+msgstr ""
+
+# mes "all life, the origin of warmth";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "all life, the origin of warmth"
+msgstr ""
+
+# mes "and comfort. Now, let me lead";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "and comfort. Now, let me lead"
+msgstr ""
+
+# mes "you to the Moon Room.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "you to the Moon Room."
+msgstr ""
+
+# mes "Although your understanding";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Although your understanding"
+msgstr ""
+
+# mes "of the Sun is not perfect, you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "of the Sun is not perfect, you"
+msgstr ""
+
+# mes "seem to understand the idea";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "seem to understand the idea"
+msgstr ""
+
+# mes "that it is the source of warm";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "that it is the source of warm"
+msgstr ""
+
+# mes "and life in our world.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "and life in our world."
+msgstr ""
+
+# mes "This idea is one of the basics";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "This idea is one of the basics"
+msgstr ""
+
+# mes "that will help you in becoming";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "that will help you in becoming"
+msgstr ""
+
+# mes "more attuned with the power of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "more attuned with the power of"
+msgstr ""
+
+# mes "the cosmos. Now, please come";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "the cosmos. Now, please come"
+msgstr ""
+
+# mes "this way to the Moon Room...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "this way to the Moon Room..."
+msgstr ""
+
+# mes "Hmm... If you do not";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Hmm... If you do not"
+msgstr ""
+
+# mes "understand the role of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "understand the role of the"
+msgstr ""
+
+# mes "sun in the universe and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "sun in the universe and"
+msgstr ""
+
+# mes "the human world, you will";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "the human world, you will"
+msgstr ""
+
+# mes "forever be out of touch with";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "forever be out of touch with"
+msgstr ""
+
+# mes "nature, with the cosmos.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "nature, with the cosmos."
+msgstr ""
+
+# mes "I advise you to meditate";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I advise you to meditate"
+msgstr ""
+
+# mes "carefully on the fundamental";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "carefully on the fundamental"
+msgstr ""
+
+# mes "truths of nature before coming";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "truths of nature before coming"
+msgstr ""
+
+# mes "to speak to me once again.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "to speak to me once again."
+msgstr ""
+
+# mes "Contemplate the infinite";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Contemplate the infinite"
+msgstr ""
+
+# mes "power of the sun...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "power of the sun..."
+msgstr ""
+
+# mes "There is no longer any";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "There is no longer any"
+msgstr ""
+
+# mes "need for us to remain";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "need for us to remain"
+msgstr ""
+
+# mes "here. Let us proceed to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "here. Let us proceed to"
+msgstr ""
+
+# mes "the Moon Room together.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "the Moon Room together."
+msgstr ""
+
+# mes "Hmmm. I believe you've";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Hmmm. I believe you've"
+msgstr ""
+
+# mes "spent enough time reflecting";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "spent enough time reflecting"
+msgstr ""
+
+# mes "on the glory of the Sun and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "on the glory of the Sun and"
+msgstr ""
+
+# mes "its importance to the humans";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "its importance to the humans"
+msgstr ""
+
+# mes "and the world. Well done. Now,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "and the world. Well done. Now,"
+msgstr ""
+
+# mes "let's proceed to the Moon Room.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "let's proceed to the Moon Room."
+msgstr ""
+
+# mes "Relax every muscle in";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Relax every muscle in"
+msgstr ""
+
+# mes "your body. Close your eyes.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "your body. Close your eyes."
+msgstr ""
+
+# mes "Feel the warmth of the Sun";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Feel the warmth of the Sun"
+msgstr ""
+
+# mes "against your eyelids as you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "against your eyelids as you"
+msgstr ""
+
+# mes "meditate on its role in the world and your place in the cosmos.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "meditate on its role in the world and your place in the cosmos."
+msgstr ""
+
+# mes "Hm? The time for you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Hm? The time for you"
+msgstr ""
+
+# mes "to be in the Room of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "to be in the Room of the"
+msgstr ""
+
+# mes "Sun has passed. Let us go";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Sun has passed. Let us go"
+msgstr ""
+
+# mes "to the Star Room now...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "to the Star Room now..."
+msgstr ""
+
+# mes "Ah, Beeryu must have";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Ah, Beeryu must have"
+msgstr ""
+
+# mes "given you his riddle to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "given you his riddle to"
+msgstr ""
+
+# mes "solve. Well, you'll need";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "solve. Well, you'll need"
+msgstr ""
+
+# mes "to go back to town in order";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "to go back to town in order"
+msgstr ""
+
+# mes "to figure out the answer, so";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "to figure out the answer, so"
+msgstr ""
+
+# mes "let me send you there now~";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "let me send you there now~"
+msgstr ""
+
+# mes "Hm? Beeryu is expecting";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Hm? Beeryu is expecting"
+msgstr ""
+
+# mes "you in the Moon Room. Let";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "you in the Moon Room. Let"
+msgstr ""
+
+# mes "me send you there right now...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "me send you there right now..."
+msgstr ""
+
+# mes "Hm. I cannot blame";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Hm. I cannot blame"
+msgstr ""
+
+# mes "you if you enjoy the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "you if you enjoy the"
+msgstr ""
+
+# mes "Room of the Sun this";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Room of the Sun this"
+msgstr ""
+
+# mes "much, but now is the time";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "much, but now is the time"
+msgstr ""
+
+# mes "for you to be in the Star";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "for you to be in the Star"
+msgstr ""
+
+# mes "Room. I'll send you there...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Room. I'll send you there..."
+msgstr ""
+
+# mes "much, but you have very";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "much, but you have very"
+msgstr ""
+
+# mes "important task to complete";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "important task to complete"
+msgstr ""
+
+# mes "now. Let me send you to town.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "now. Let me send you to town."
+msgstr ""
+
+# mes "While you're here,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "While you're here,"
+msgstr ""
+
+# mes "I ask that you don't";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I ask that you don't"
+msgstr ""
+
+# mes "interfere with anyone";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "interfere with anyone"
+msgstr ""
+
+# mes "that may be taking the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "that may be taking the"
+msgstr ""
+
+# mes "job change test. So, would";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "job change test. So, would"
+msgstr ""
+
+# mes "you like to return to town?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "you like to return to town?"
+msgstr ""
+
+# if (select("Return to Payon", "Cancel") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Return to Payon"
+msgstr ""
+
+# if (select("Return to Payon", "Cancel") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Cancel"
+msgstr ""
+
+# mes "I see. Let me";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "I see. Let me"
+msgstr ""
+
+# mes "guide you back";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "guide you back"
+msgstr ""
+
+# mes "to Payon, then.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "to Payon, then."
+msgstr ""
+
+# mes "Please take your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "Please take your"
+msgstr ""
+
+# mes "time and enjoy the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "time and enjoy the"
+msgstr ""
+
+# mes "splendor of the Sun";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "splendor of the Sun"
+msgstr ""
+
+# mes "while you are here.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Daru#job_star"
+msgid "while you are here."
+msgstr ""
+
+# mes "[Beeryu]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "[Beeryu]"
+msgstr ""
+
+# mes "Welcome to the Moon Room.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Welcome to the Moon Room."
+msgstr ""
+
+# mes "I am Beeryu, your guide in";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "I am Beeryu, your guide in"
+msgstr ""
+
+# mes "this sanctum. I shall ask you a";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "this sanctum. I shall ask you a"
+msgstr ""
+
+# mes "series of questions, so please";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "series of questions, so please"
+msgstr ""
+
+# mes "think carefully before giving";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "think carefully before giving"
+msgstr ""
+
+# mes "me your honest answer.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "me your honest answer."
+msgstr ""
+
+# mes "Which Moon do we need";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Which Moon do we need"
+msgstr ""
+
+# mes "and want most? Think of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "and want most? Think of"
+msgstr ""
+
+# mes "the different shades of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "the different shades of the"
+msgstr ""
+
+# mes "moon, and how it changes";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "moon, and how it changes"
+msgstr ""
+
+# mes "on certain nights.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "on certain nights."
+msgstr ""
+
+# switch(select("Red Moon", "Blue Moon", "Gold Moon", "...?")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Red Moon"
+msgstr ""
+
+# switch(select("Red Moon", "Blue Moon", "Gold Moon", "...?")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Blue Moon"
+msgstr ""
+
+# switch(select("Red Moon", "Blue Moon", "Gold Moon", "...?")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Gold Moon"
+msgstr ""
+
+# switch(select("Red Moon", "Blue Moon", "Gold Moon", "...?")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "...?"
+msgstr ""
+
+# mes "The Red Moon...?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The Red Moon...?"
+msgstr ""
+
+# mes "It's a fearsome sight,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "It's a fearsome sight,"
+msgstr ""
+
+# mes "usually likened to drenching the sky with the color of blood.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "usually likened to drenching the sky with the color of blood."
+msgstr ""
+
+# mes "The Red Moon stirs dark feelings that we shouldn't fully embrace...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The Red Moon stirs dark feelings that we shouldn't fully embrace..."
+msgstr ""
+
+# mes "The Blue Moon...?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The Blue Moon...?"
+msgstr ""
+
+# mes "Ah, yes. It's a calm and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Ah, yes. It's a calm and"
+msgstr ""
+
+# mes "gentle moon whose soft";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "gentle moon whose soft"
+msgstr ""
+
+# mes "light helps you think clearly.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "light helps you think clearly."
+msgstr ""
+
+# mes "It's a moon of peaceful rest...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "It's a moon of peaceful rest..."
+msgstr ""
+
+# mes "The Gold Moon...?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The Gold Moon...?"
+msgstr ""
+
+# mes "Ah, that is a moon of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Ah, that is a moon of"
+msgstr ""
+
+# mes "affluence and wealth. Now,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "affluence and wealth. Now,"
+msgstr ""
+
+# mes "to aspire to attain prosperity";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "to aspire to attain prosperity"
+msgstr ""
+
+# mes "is natural, and to fulfill your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "is natural, and to fulfill your"
+msgstr ""
+
+# mes "aspirations is life's pinnacle.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "aspirations is life's pinnacle."
+msgstr ""
+
+# mes "Hmm...?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Hmm...?"
+msgstr ""
+
+# mes "Do you not have an";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Do you not have an"
+msgstr ""
+
+# mes "opinion of the Moon?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "opinion of the Moon?"
+msgstr ""
+
+# mes "You should be confident";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "You should be confident"
+msgstr ""
+
+# mes "and tell me which shade";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "and tell me which shade"
+msgstr ""
+
+# mes "of the moon that you like...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "of the moon that you like..."
+msgstr ""
+
+# mes "Now, if the shadows";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Now, if the shadows"
+msgstr ""
+
+# mes "of the Moon were to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "of the Moon were to"
+msgstr ""
+
+# mes "lend you their power,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "lend you their power,"
+msgstr ""
+
+# mes "to what end would you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "to what end would you"
+msgstr ""
+
+# mes "use the power of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "use the power of the"
+msgstr ""
+
+# mes "Lunar cosmos?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Lunar cosmos?"
+msgstr ""
+
+# switch(select("Justice", "Self Practice", "Preservation of Nature", "Revenge")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Justice"
+msgstr ""
+
+# switch(select("Justice", "Self Practice", "Preservation of Nature", "Revenge")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Self Practice"
+msgstr ""
+
+# switch(select("Justice", "Self Practice", "Preservation of Nature", "Revenge")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Preservation of Nature"
+msgstr ""
+
+# switch(select("Justice", "Self Practice", "Preservation of Nature", "Revenge")) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Revenge"
+msgstr ""
+
+# mes "Yes. Justice is always an";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Yes. Justice is always an"
+msgstr ""
+
+# mes "end that is worth fighting";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "end that is worth fighting"
+msgstr ""
+
+# mes "for. Just remember that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "for. Just remember that"
+msgstr ""
+
+# mes "both power and compassion";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "both power and compassion"
+msgstr ""
+
+# mes "are required to enact the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "are required to enact the"
+msgstr ""
+
+# mes "truest form of justice.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "truest form of justice."
+msgstr ""
+
+# mes "Self training?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Self training?"
+msgstr ""
+
+# mes "That is an acceptable";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "That is an acceptable"
+msgstr ""
+
+# mes "answer. However, you must";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "answer. However, you must"
+msgstr ""
+
+# mes "never forget your reasons";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "never forget your reasons"
+msgstr ""
+
+# mes "for attaining mastery of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "for attaining mastery of the"
+msgstr ""
+
+# mes "self, else you lose your way.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "self, else you lose your way."
+msgstr ""
+
+# mes "The preservation of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The preservation of"
+msgstr ""
+
+# mes "nature is the responsiblity";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "nature is the responsiblity"
+msgstr ""
+
+# mes "of every living human. However,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "of every living human. However,"
+msgstr ""
+
+# mes "I was expecting a different";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "I was expecting a different"
+msgstr ""
+
+# mes "answer in terms of Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "answer in terms of Taekwon"
+msgstr ""
+
+# mes "Mastery as a martial art...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Mastery as a martial art..."
+msgstr ""
+
+# mes "Sometimes, revenge may";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Sometimes, revenge may"
+msgstr ""
+
+# mes "seem to be best course of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "seem to be best course of"
+msgstr ""
+
+# mes "action, especially if it is";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "action, especially if it is"
+msgstr ""
+
+# mes "carried out in the interest";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "carried out in the interest"
+msgstr ""
+
+# mes "of justice. However, revenge";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "of justice. However, revenge"
+msgstr ""
+
+# mes "by itself is usually ignoble.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "by itself is usually ignoble."
+msgstr ""
+
+# mes "Ask yourself this:";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Ask yourself this:"
+msgstr ""
+
+# mes "what will you do after";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "what will you do after"
+msgstr ""
+
+# mes "you achieve your revenge?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "you achieve your revenge?"
+msgstr ""
+
+# mes "When you let your rage burn";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "When you let your rage burn"
+msgstr ""
+
+# mes "away at you, you inflict the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "away at you, you inflict the"
+msgstr ""
+
+# mes "most harm to yourself...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "most harm to yourself..."
+msgstr ""
+
+# mes "Now, listen carefully";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Now, listen carefully"
+msgstr ""
+
+# mes "to the lyrics of this";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "to the lyrics of this"
+msgstr ""
+
+# mes "song. I'm sure Daru has";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "song. I'm sure Daru has"
+msgstr ""
+
+# mes "sang this to you already...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "sang this to you already..."
+msgstr ""
+
+# mes "''^4D4DFFThe Sun shines on even days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "''^4D4DFFThe Sun shines on even days."
+msgstr ""
+
+# mes "The Moon gleams on odd days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The Moon gleams on odd days."
+msgstr ""
+
+# mes "The Stars sparkle on every";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The Stars sparkle on every"
+msgstr ""
+
+# mes "fifth day without fail.^000000''";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "fifth day without fail.^000000''"
+msgstr ""
+
+# mes "''^4D4DFFA desert is a Solar place,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "''^4D4DFFA desert is a Solar place,"
+msgstr ""
+
+# mes "its sands kissed by the Sun.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "its sands kissed by the Sun."
+msgstr ""
+
+# mes "A marsh is a Lunar place,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "A marsh is a Lunar place,"
+msgstr ""
+
+# mes "its wolves driven by the Moon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "its wolves driven by the Moon."
+msgstr ""
+
+# mes "A deep cave is a Stellar place, its knights enchanted by Stars.^000000''";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "A deep cave is a Stellar place, its knights enchanted by Stars.^000000''"
+msgstr ""
+
+# mes "According to these";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "According to these"
+msgstr ""
+
+# mes "lyrics, which is of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "lyrics, which is of"
+msgstr ""
+
+# mes "the following most";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "the following most"
+msgstr ""
+
+# mes "strongly evokes the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "strongly evokes the"
+msgstr ""
+
+# mes "light of the moon?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "light of the moon?"
+msgstr ""
+
+# if (select("2nd, Marsh, Dark Knights", "4th, the Desert, the Sand", "10th, Deep Cave, Dark Knight", "5th, Marsh, Wolves") == 4)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "2nd, Marsh, Dark Knights"
+msgstr ""
+
+# if (select("2nd, Marsh, Dark Knights", "4th, the Desert, the Sand", "10th, Deep Cave, Dark Knight", "5th, Marsh, Wolves") == 4)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "4th, the Desert, the Sand"
+msgstr ""
+
+# if (select("2nd, Marsh, Dark Knights", "4th, the Desert, the Sand", "10th, Deep Cave, Dark Knight", "5th, Marsh, Wolves") == 4)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "10th, Deep Cave, Dark Knight"
+msgstr ""
+
+# if (select("2nd, Marsh, Dark Knights", "4th, the Desert, the Sand", "10th, Deep Cave, Dark Knight", "5th, Marsh, Wolves") == 4)
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "5th, Marsh, Wolves"
+msgstr ""
+
+# mes "Well, I've asked the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Well, I've asked the"
+msgstr ""
+
+# mes "questions I wanted to set";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "questions I wanted to set"
+msgstr ""
+
+# mes "before you. You must learn";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "before you. You must learn"
+msgstr ""
+
+# mes "the bond between the moonlight";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "the bond between the moonlight"
+msgstr ""
+
+# mes "with the shadows of the moon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "with the shadows of the moon."
+msgstr ""
+
+# mes "Then, you will become a master.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Then, you will become a master."
+msgstr ""
+
+# mes "The soft moonlight ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The soft moonlight "
+msgstr ""
+
+# mes "illuminates the darkest night.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "illuminates the darkest night."
+msgstr ""
+
+# mes "The shadows of the moon balance";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The shadows of the moon balance"
+msgstr ""
+
+# mes "the Sun's glorious brightness.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "the Sun's glorious brightness."
+msgstr ""
+
+# mes "Wisdom to power, coolness to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Wisdom to power, coolness to"
+msgstr ""
+
+# mes "rage. Contemplate on this...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "rage. Contemplate on this..."
+msgstr ""
+
+# mes "I have faith that you will soon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "I have faith that you will soon"
+msgstr ""
+
+# mes "become a great Taekwon Master.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "become a great Taekwon Master."
+msgstr ""
+
+# mes "Now, the time has come for you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Now, the time has come for you"
+msgstr ""
+
+# mes "to enter the Star Room. Come,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "to enter the Star Room. Come,"
+msgstr ""
+
+# mes "follow me this way...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "follow me this way..."
+msgstr ""
+
+# mes "to be as patient and gentle";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "to be as patient and gentle"
+msgstr ""
+
+# mes "as the moon's soft glow.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "as the moon's soft glow."
+msgstr ""
+
+# mes "Please think about";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Please think about"
+msgstr ""
+
+# mes "this seriously. A true";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "this seriously. A true"
+msgstr ""
+
+# mes "Taekwon Master can";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Taekwon Master can"
+msgstr ""
+
+# mes "display calmness of mind";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "display calmness of mind"
+msgstr ""
+
+# mes "in all situations, no matter";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "in all situations, no matter"
+msgstr ""
+
+# mes "what the stakes may be.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "what the stakes may be."
+msgstr ""
+
+# mes "Now, I want you to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Now, I want you to"
+msgstr ""
+
+# mes "take this chance to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "take this chance to"
+msgstr ""
+
+# mes "practice achieving the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "practice achieving the"
+msgstr ""
+
+# mes "Lunar mindset. Be calm,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Lunar mindset. Be calm,"
+msgstr ""
+
+# mes "quiet your thoughts and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "quiet your thoughts and"
+msgstr ""
+
+# mes "settle your active mind...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "settle your active mind..."
+msgstr ""
+
+# mes "For now, I will send";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "For now, I will send"
+msgstr ""
+
+# mes "you out into Payon. Go out";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "you out into Payon. Go out"
+msgstr ""
+
+# mes "and learn the ^4D4DFFtrue meaning";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "and learn the ^4D4DFFtrue meaning"
+msgstr ""
+
+# mes "of patience^000000. Then, when you're";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "of patience^000000. Then, when you're"
+msgstr ""
+
+# mes "ready, please talk to Moogang";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "ready, please talk to Moogang"
+msgstr ""
+
+# mes "so that he can send you to me.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "so that he can send you to me."
+msgstr ""
+
+# mes "Hm. You must first pass";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Hm. You must first pass"
+msgstr ""
+
+# mes "testing the Room of the Sun";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "testing the Room of the Sun"
+msgstr ""
+
+# mes "before you can be tested here";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "before you can be tested here"
+msgstr ""
+
+# mes "in the Moon Room. Let me send";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "in the Moon Room. Let me send"
+msgstr ""
+
+# mes "you to where you must go...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "you to where you must go..."
+msgstr ""
+
+# mes "How are you still here?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "How are you still here?"
+msgstr ""
+
+# mes "The light of the full moon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The light of the full moon"
+msgstr ""
+
+# mes "brings comfort, but you must";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "brings comfort, but you must"
+msgstr ""
+
+# mes "move on if you wish to become";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "move on if you wish to become"
+msgstr ""
+
+# mes "a Taekwon Master. Come, I shall";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "a Taekwon Master. Come, I shall"
+msgstr ""
+
+# mes "guide you to the Star Room.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "guide you to the Star Room."
+msgstr ""
+
+# mes "I want you to bring me";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "I want you to bring me"
+msgstr ""
+
+# mes "proof that you understand";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "proof that you understand"
+msgstr ""
+
+# mes "the nature of patience that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "the nature of patience that"
+msgstr ""
+
+# mes "is associated with the moon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "is associated with the moon."
+msgstr ""
+
+# mes "You cannot become a Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "You cannot become a Taekwon"
+msgstr ""
+
+# mes "Master without this attitude...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Master without this attitude..."
+msgstr ""
+
+# mes "The proof I want you to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "The proof I want you to"
+msgstr ""
+
+# mes "show me is concrete and";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "show me is concrete and"
+msgstr ""
+
+# mes "indisputable. Please think";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "indisputable. Please think"
+msgstr ""
+
+# mes "about what it might be. Now,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "about what it might be. Now,"
+msgstr ""
+
+# mes "I shall send you back to town... ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "I shall send you back to town... "
+msgstr ""
+
+# mes "Ah, you've finally";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Ah, you've finally"
+msgstr ""
+
+# mes "returned. I can see in";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "returned. I can see in"
+msgstr ""
+
+# mes "the way that you carry";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "the way that you carry"
+msgstr ""
+
+# mes "yourself that your resolve";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "yourself that your resolve"
+msgstr ""
+
+# mes "has been strengthened. Good.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "has been strengthened. Good."
+msgstr ""
+
+# mes "I hope you now know patience...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "I hope you now know patience..."
+msgstr ""
+
+# mes "Patience and resolve are";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Patience and resolve are"
+msgstr ""
+
+# mes "necessary to live life without";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "necessary to live life without"
+msgstr ""
+
+# mes "any regrets. You must believe";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "any regrets. You must believe"
+msgstr ""
+
+# mes "in yourself while being both";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "in yourself while being both"
+msgstr ""
+
+# mes "considerate and understanding";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "considerate and understanding"
+msgstr ""
+
+# mes "of others in cosmic harmony.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "of others in cosmic harmony."
+msgstr ""
+
+# mes "Learn to control your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Learn to control your"
+msgstr ""
+
+# mes "power through spiritual";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "power through spiritual"
+msgstr ""
+
+# mes "training. Learn how to have";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "training. Learn how to have"
+msgstr ""
+
+# mes "pride without hubris. You're";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "pride without hubris. You're"
+msgstr ""
+
+# mes "ready for the Star Room, so";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "ready for the Star Room, so"
+msgstr ""
+
+# mes "I'll send you to Cheehee now.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "I'll send you to Cheehee now."
+msgstr ""
+
+# mes "You should be";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "You should be"
+msgstr ""
+
+# mes "receiving Cheehee's";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "receiving Cheehee's"
+msgstr ""
+
+# mes "tutelage in the Star Room";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "tutelage in the Star Room"
+msgstr ""
+
+# mes "now. Come, let me guide you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "now. Come, let me guide you"
+msgstr ""
+
+# mes "there. I hope to see you as";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "there. I hope to see you as"
+msgstr ""
+
+# mes "a Taekwon Master soon...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "a Taekwon Master soon..."
+msgstr ""
+
+# mes "Why are you still here?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Why are you still here?"
+msgstr ""
+
+# mes "You have something much";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "You have something much"
+msgstr ""
+
+# mes "more important to do, so";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "more important to do, so"
+msgstr ""
+
+# mes "let me send you back to town...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "let me send you back to town..."
+msgstr ""
+
+# mes "Try not to bother the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Try not to bother the"
+msgstr ""
+
+# mes "Taekwon Boys and Girls";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Taekwon Boys and Girls"
+msgstr ""
+
+# mes "from completing their job";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "from completing their job"
+msgstr ""
+
+# mes "change test while you're here.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "change test while you're here."
+msgstr ""
+
+# mes "Ah, and let me know when";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Ah, and let me know when"
+msgstr ""
+
+# mes "you want to return to Payon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "you want to return to Payon."
+msgstr ""
+
+# if (select("Return to Payon", "Cancel") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Return to Payon"
+msgstr ""
+
+# if (select("Return to Payon", "Cancel") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Cancel"
+msgstr ""
+
+# mes "Be safe!";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "Be safe!"
+msgstr ""
+
+# mes "......";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "......"
+msgstr ""
+
+# mes ".........";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Beeryu#job_star"
+msgid "........."
+msgstr ""
+
+# mes "[Cheehee]";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "[Cheehee]"
+msgstr ""
+
+# mes "Don't you think stars";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Don't you think stars"
+msgstr ""
+
+# mes "are so beautiful? They're";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "are so beautiful? They're"
+msgstr ""
+
+# mes "like a pretty girl's teardrops";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "like a pretty girl's teardrops"
+msgstr ""
+
+# mes "shed on a background of ";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "shed on a background of "
+msgstr ""
+
+# mes "pitch black night sky...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "pitch black night sky..."
+msgstr ""
+
+# mes "The test I have for";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "The test I have for"
+msgstr ""
+
+# mes "you is simple. Just";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "you is simple. Just"
+msgstr ""
+
+# mes "bring me the items on";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "bring me the items on"
+msgstr ""
+
+# mes "this earth that come from";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "this earth that come from"
+msgstr ""
+
+# mes "the stars. Bring me a piece of a star and the sand of a star...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "the stars. Bring me a piece of a star and the sand of a star..."
+msgstr ""
+
+# mes "......";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "......"
+msgstr ""
+
+# mes ".........";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "........."
+msgstr ""
+
+# mes "^3355FFCheehee stands mesmerized,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "^3355FFCheehee stands mesmerized,"
+msgstr ""
+
+# mes "staring at the sky as if she were counting each and every single";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "staring at the sky as if she were counting each and every single"
+msgstr ""
+
+# mes "shining star in the heavens.^000000";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "shining star in the heavens.^000000"
+msgstr ""
+
+# mes "Oh? You've brought exactly";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Oh? You've brought exactly"
+msgstr ""
+
+# mes "what I've asked you to bring.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "what I've asked you to bring."
+msgstr ""
+
+# mes "Did you know that the spirit";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Did you know that the spirit"
+msgstr ""
+
+# mes "of the stars is used to enhance";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "of the stars is used to enhance"
+msgstr ""
+
+# mes "the armors and weapons that";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "the armors and weapons that"
+msgstr ""
+
+# mes "all adventurers use in battle?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "all adventurers use in battle?"
+msgstr ""
+
+# mes "Stars are linked to the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Stars are linked to the"
+msgstr ""
+
+# mes "ideas of wishes, dreams,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "ideas of wishes, dreams,"
+msgstr ""
+
+# mes "hopes, magic and romance.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "hopes, magic and romance."
+msgstr ""
+
+# mes "Occasionally, the stars can";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Occasionally, the stars can"
+msgstr ""
+
+# mes "be saddening, but it's a very";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "be saddening, but it's a very"
+msgstr ""
+
+# mes "sweet kind of sadness...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "sweet kind of sadness..."
+msgstr ""
+
+# mes "The pieces of the stars...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "The pieces of the stars..."
+msgstr ""
+
+# mes "The sand of the stars. If you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "The sand of the stars. If you"
+msgstr ""
+
+# mes "didn't bring them with you, then you won't find them here. You'll";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "didn't bring them with you, then you won't find them here. You'll"
+msgstr ""
+
+# mes "have to go out and find them out there before bringing them to me.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "have to go out and find them out there before bringing them to me."
+msgstr ""
+
+# mes "Have you given any thought";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Have you given any thought"
+msgstr ""
+
+# mes "to the idea of feeling sadness";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "to the idea of feeling sadness"
+msgstr ""
+
+# mes "from the stars? Perhaps this";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "from the stars? Perhaps this"
+msgstr ""
+
+# mes "song will help you better";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "song will help you better"
+msgstr ""
+
+# mes "understand, though I know";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "understand, though I know"
+msgstr ""
+
+# mes "you've already heard it...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "you've already heard it..."
+msgstr ""
+
+# mes "''^4D4DFFThe Sun shines on even days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "''^4D4DFFThe Sun shines on even days."
+msgstr ""
+
+# mes "The Moon gleams on odd days.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "The Moon gleams on odd days."
+msgstr ""
+
+# mes "The Stars sparkle on every";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "The Stars sparkle on every"
+msgstr ""
+
+# mes "fifth day without fail.^000000''";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "fifth day without fail.^000000''"
+msgstr ""
+
+# mes "''^4D4DFFA desert is a Solar place,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "''^4D4DFFA desert is a Solar place,"
+msgstr ""
+
+# mes "its sands kissed by the Sun.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "its sands kissed by the Sun."
+msgstr ""
+
+# mes "A marsh is a Lunar place,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "A marsh is a Lunar place,"
+msgstr ""
+
+# mes "its wolves driven by the Moon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "its wolves driven by the Moon."
+msgstr ""
+
+# mes "A deep cave is a Stellar place, its knights enchanted by Stars.^000000''";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "A deep cave is a Stellar place, its knights enchanted by Stars.^000000''"
+msgstr ""
+
+# mes "Now...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Now..."
+msgstr ""
+
+# mes "Which of the following";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Which of the following"
+msgstr ""
+
+# mes "groups shines brightest";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "groups shines brightest"
+msgstr ""
+
+# mes "with starlight?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "with starlight?"
+msgstr ""
+
+# if (select("5th day, Deep Cave, Sand", "10th day, Desert, Sand", "25th day, Deep Cave, Knights", "10th day, Desert, Knights") == 3) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "5th day, Deep Cave, Sand"
+msgstr ""
+
+# if (select("5th day, Deep Cave, Sand", "10th day, Desert, Sand", "25th day, Deep Cave, Knights", "10th day, Desert, Knights") == 3) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "10th day, Desert, Sand"
+msgstr ""
+
+# if (select("5th day, Deep Cave, Sand", "10th day, Desert, Sand", "25th day, Deep Cave, Knights", "10th day, Desert, Knights") == 3) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "25th day, Deep Cave, Knights"
+msgstr ""
+
+# if (select("5th day, Deep Cave, Sand", "10th day, Desert, Sand", "25th day, Deep Cave, Knights", "10th day, Desert, Knights") == 3) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "10th day, Desert, Knights"
+msgstr ""
+
+# mes "You're right. The combination";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "You're right. The combination"
+msgstr ""
+
+# mes "of the 25th day, a multiple of";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "of the 25th day, a multiple of"
+msgstr ""
+
+# mes "the number 5, and the Knights";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "the number 5, and the Knights"
+msgstr ""
+
+# mes "stationed in Deep Caves shines";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "stationed in Deep Caves shines"
+msgstr ""
+
+# mes "brightest with starlight.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "brightest with starlight."
+msgstr ""
+
+# mes "If you can understand";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "If you can understand"
+msgstr ""
+
+# mes "the lyrics of this song,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "the lyrics of this song,"
+msgstr ""
+
+# mes "you should understand the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "you should understand the"
+msgstr ""
+
+# mes "essense of being a Taekwon";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "essense of being a Taekwon"
+msgstr ""
+
+# mes "Master. Remember that light";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Master. Remember that light"
+msgstr ""
+
+# mes "comes in different shades...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "comes in different shades..."
+msgstr ""
+
+# mes "The glory of the sun, the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "The glory of the sun, the"
+msgstr ""
+
+# mes "gentle moonlight, and the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "gentle moonlight, and the"
+msgstr ""
+
+# mes "melancholic twinkling of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "melancholic twinkling of the"
+msgstr ""
+
+# mes "stars are unique from each";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "stars are unique from each"
+msgstr ""
+
+# mes "other. Please enjoy the starlight in this room as long as you like.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "other. Please enjoy the starlight in this room as long as you like."
+msgstr ""
+
+# mes "When you are ready,";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "When you are ready,"
+msgstr ""
+
+# mes "please go speak to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "please go speak to"
+msgstr ""
+
+# mes "Moogang again. I will";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Moogang again. I will"
+msgstr ""
+
+# mes "let him know that you";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "let him know that you"
+msgstr ""
+
+# mes "completed our testing.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "completed our testing."
+msgstr ""
+
+# mes "Hmm...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Hmm..."
+msgstr ""
+
+# mes "You must learn more";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "You must learn more"
+msgstr ""
+
+# mes "about the nature of the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "about the nature of the"
+msgstr ""
+
+# mes "Stars. You must understand";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Stars. You must understand"
+msgstr ""
+
+# mes "the cosmos if you are to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "the cosmos if you are to"
+msgstr ""
+
+# mes "become a Taekwon Master.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "become a Taekwon Master."
+msgstr ""
+
+# mes "Do you wish to";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Do you wish to"
+msgstr ""
+
+# mes "leave the Star Room?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "leave the Star Room?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "No"
+msgstr ""
+
+# mes "Then, I shall guide";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Then, I shall guide"
+msgstr ""
+
+# mes "you to Payon, the closest";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "you to Payon, the closest"
+msgstr ""
+
+# mes "town. Farewell for now...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "town. Farewell for now..."
+msgstr ""
+
+# mes "Please, take your";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Please, take your"
+msgstr ""
+
+# mes "time and enjoy the";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "time and enjoy the"
+msgstr ""
+
+# mes "starlight in this room...";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "starlight in this room..."
+msgstr ""
+
+# mes "The stars certainly";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "The stars certainly"
+msgstr ""
+
+# mes "are beautiful, aren't";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "are beautiful, aren't"
+msgstr ""
+
+# mes "they? Would you like";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "they? Would you like"
+msgstr ""
+
+# mes "to return to Payon now?";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "to return to Payon now?"
+msgstr ""
+
+# mes "I see.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "I see."
+msgstr ""
+
+# mes "Let me guide";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "Let me guide"
+msgstr ""
+
+# mes "you back to Payon.";
+#: npc/jobs/2-1e/StarGladiator.txt
+msgctxt "Cheehee#job_star"
+msgid "you back to Payon."
+msgstr ""
+

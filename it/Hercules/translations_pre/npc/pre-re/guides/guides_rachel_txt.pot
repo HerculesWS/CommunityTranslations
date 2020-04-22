@@ -1,0 +1,264 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:27+0200\n"
+"PO-Revision-Date: 2020-04-22 09:40\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/pre-re/guides/guides_rachel_txt.pot\n"
+
+# mes "[Rachel Guide]";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "[Rachel Guide]"
+msgstr ""
+
+# mes "Welcome to the capital of";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Welcome to the capital of"
+msgstr ""
+
+# mes "Arunafeltz, Rachel where a warm";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Arunafeltz, Rachel where a warm"
+msgstr ""
+
+# mes "breath of goddess Freya reaches.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "breath of goddess Freya reaches."
+msgstr ""
+
+# mes "If this is the first time for you";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "If this is the first time for you"
+msgstr ""
+
+# mes "to use the guide services, why";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "to use the guide services, why"
+msgstr ""
+
+# mes "don't you check the \"Notice\" menu first?";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "don't you check the \"Notice\" menu first?"
+msgstr ""
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Village Guide"
+msgstr ""
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Notice"
+msgstr ""
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Cancel"
+msgstr ""
+
+# mes "I can tell you any building location as long as it is in Rachel.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "I can tell you any building location as long as it is in Rachel."
+msgstr ""
+
+# mes "So where do you want to go?";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "So where do you want to go?"
+msgstr ""
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Would you like me"
+msgstr ""
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "to mark locations"
+msgstr ""
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "on your Mini-Map?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "No"
+msgstr ""
+
+# switch(select("Cheshrumnir", "Inn", "Weapon Shop", "Tool Shop", "Airport", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Cheshrumnir"
+msgstr ""
+
+# switch(select("Cheshrumnir", "Inn", "Weapon Shop", "Tool Shop", "Airport", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Inn"
+msgstr ""
+
+# switch(select("Cheshrumnir", "Inn", "Weapon Shop", "Tool Shop", "Airport", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Weapon Shop"
+msgstr ""
+
+# switch(select("Cheshrumnir", "Inn", "Weapon Shop", "Tool Shop", "Airport", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Tool Shop"
+msgstr ""
+
+# switch(select("Cheshrumnir", "Inn", "Weapon Shop", "Tool Shop", "Airport", "Cancel")) {
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Airport"
+msgstr ""
+
+# mes "Cheshrumnir is a holy ground where pope, the incarnation of goddess Freya stays.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Cheshrumnir is a holy ground where pope, the incarnation of goddess Freya stays."
+msgstr ""
+
+# mes "Take the road to the norh to find the building.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Take the road to the norh to find the building."
+msgstr ""
+
+# mes "You can rest your fatigue off the journey in the Inn.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "You can rest your fatigue off the journey in the Inn."
+msgstr ""
+
+# mes "The left building next to me is the Inn of Rachel.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "The left building next to me is the Inn of Rachel."
+msgstr ""
+
+# mes "Do you want to check out the weapons that are sold in Rachel?";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Do you want to check out the weapons that are sold in Rachel?"
+msgstr ""
+
+# mes "The weapon shop is located nearby the western gate.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "The weapon shop is located nearby the western gate."
+msgstr ""
+
+# mes "Rachel tool shop sells the best quality potions.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Rachel tool shop sells the best quality potions."
+msgstr ""
+
+# mes "It's located nearby the western gate.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "It's located nearby the western gate."
+msgstr ""
+
+# mes "The Airport is located outside the eastern gate.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "The Airport is located outside the eastern gate."
+msgstr ""
+
+# mes "If you like to get rid of all the location marks on your Mini-Map,";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "If you like to get rid of all the location marks on your Mini-Map,"
+msgstr ""
+
+# mes "just ask me again, and choose \"Remove Marks from Mini-Map\" menu.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "just ask me again, and choose \"Remove Marks from Mini-Map\" menu."
+msgstr ""
+
+# mes "Okay, they are gone now. If you have more locations to ask, just let me know.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Okay, they are gone now. If you have more locations to ask, just let me know."
+msgstr ""
+
+# mes "When you are using the ''Village Guide'' menu,";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "When you are using the ''Village Guide'' menu,"
+msgstr ""
+
+# mes "make sure that building locations will be marked on your mini-map at the upper right side of your screen.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "make sure that building locations will be marked on your mini-map at the upper right side of your screen."
+msgstr ""
+
+# mes "If you cannot see your mini-map, use the short cut key ''ctrl+tab'' or press the ''Map'' button on your basic information windows, okay?";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "If you cannot see your mini-map, use the short cut key ''ctrl+tab'' or press the ''Map'' button on your basic information windows, okay?"
+msgstr ""
+
+# mes "And you can also zoom out your mini-map by using the ''-'' button in case you cannot view the entire map of the village.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "And you can also zoom out your mini-map by using the ''-'' button in case you cannot view the entire map of the village."
+msgstr ""
+
+# mes "Hope you have a wonderfull journey";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "Hope you have a wonderfull journey"
+msgstr ""
+
+# mes "in Arunafeltz.";
+#: npc/pre-re/guides/guides_rachel.txt
+msgctxt "Rachel Guide"
+msgid "in Arunafeltz."
+msgstr ""
+

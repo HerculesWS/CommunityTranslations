@@ -1,0 +1,337 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:02\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/guides/guides_rachel_txt.pot\n"
+
+# mes "[Rachel Guide]";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[Rachel Guide]"
+msgstr ""
+
+# mes "Welcome to the capital of Arunafeltz, ^8B4513Rachel^000000 where the warm breath of the goddess Freya reaches.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Welcome to the capital of Arunafeltz, ^8B4513Rachel^000000 where the warm breath of the goddess Freya reaches."
+msgstr ""
+
+# mes "If this is the first time for you to use the guide services, I suggest you ask many questions.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "If this is the first time for you to use the guide services, I suggest you ask many questions."
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Main Facilities ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Merchants & Helpers ]"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Main Facilities ]", "[ Merchants & Helpers ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Cancel"
+msgstr ""
+
+# switch(select("[ Inn ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Cheshrumnir ]", "[ Priest Zed's Mansion ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Inn ]"
+msgstr ""
+
+# switch(select("[ Inn ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Cheshrumnir ]", "[ Priest Zed's Mansion ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+# switch(select("[ Inn ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Cheshrumnir ]", "[ Priest Zed's Mansion ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+# switch(select("[ Inn ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Cheshrumnir ]", "[ Priest Zed's Mansion ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Airport ]"
+msgstr ""
+
+# switch(select("[ Inn ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Cheshrumnir ]", "[ Priest Zed's Mansion ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Cheshrumnir ]"
+msgstr ""
+
+# switch(select("[ Inn ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Cheshrumnir ]", "[ Priest Zed's Mansion ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Priest Zed's Mansion ]"
+msgstr ""
+
+# switch(select("[ Inn ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Cheshrumnir ]", "[ Priest Zed's Mansion ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Previous Menu"
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","rachel,115,144")+". The left building next to me is the Inn of Rachel.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "You can rest your fatigue of the journey in the "
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","rachel,115,144")+". The left building next to me is the Inn of Rachel.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Inn"
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","rachel,115,144")+". The left building next to me is the Inn of Rachel.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,115,144"
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","rachel,115,144")+". The left building next to me is the Inn of Rachel.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid ". The left building next to me is the Inn of Rachel."
+msgstr ""
+
+# mes "Would you like to check any other locations?";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+# mes "Do you want to check out the weapons that are sold in Rachel? The "+F_Navi("Weapon Shop","rachel,42,82")+" is located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Do you want to check out the weapons that are sold in Rachel? The "
+msgstr ""
+
+# mes "Do you want to check out the weapons that are sold in Rachel? The "+F_Navi("Weapon Shop","rachel,42,82")+" is located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Weapon Shop"
+msgstr ""
+
+# mes "Do you want to check out the weapons that are sold in Rachel? The "+F_Navi("Weapon Shop","rachel,42,82")+" is located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,42,82"
+msgstr ""
+
+# mes "Do you want to check out the weapons that are sold in Rachel? The "+F_Navi("Weapon Shop","rachel,42,82")+" is located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid " is located near the west gate."
+msgstr ""
+
+# mes "Rachel's "+F_Navi("Tool Shop","rachel,83,73")+" sells the best quality potions. It's located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Rachel's "
+msgstr ""
+
+# mes "Rachel's "+F_Navi("Tool Shop","rachel,83,73")+" sells the best quality potions. It's located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Tool Shop"
+msgstr ""
+
+# mes "Rachel's "+F_Navi("Tool Shop","rachel,83,73")+" sells the best quality potions. It's located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,83,73"
+msgstr ""
+
+# mes "Rachel's "+F_Navi("Tool Shop","rachel,83,73")+" sells the best quality potions. It's located near the west gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid " sells the best quality potions. It's located near the west gate."
+msgstr ""
+
+# mes "The "+F_Navi("Airport","rachel,272,125")+" is located outside of the east gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "The "
+msgstr ""
+
+# mes "The "+F_Navi("Airport","rachel,272,125")+" is located outside of the east gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Airport"
+msgstr ""
+
+# mes "The "+F_Navi("Airport","rachel,272,125")+" is located outside of the east gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,272,125"
+msgstr ""
+
+# mes "The "+F_Navi("Airport","rachel,272,125")+" is located outside of the east gate.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid " is located outside of the east gate."
+msgstr ""
+
+# mes F_Navi("Cheshrumnir","rachel,150,243")+" is a holy ground where pope, the incarnation of goddess Freya stays.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Cheshrumnir"
+msgstr ""
+
+# mes F_Navi("Cheshrumnir","rachel,150,243")+" is a holy ground where pope, the incarnation of goddess Freya stays.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,150,243"
+msgstr ""
+
+# mes F_Navi("Cheshrumnir","rachel,150,243")+" is a holy ground where pope, the incarnation of goddess Freya stays.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid " is a holy ground where pope, the incarnation of goddess Freya stays."
+msgstr ""
+
+# mes "Take the road to the north to find the building.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Take the road to the north to find the building."
+msgstr ""
+
+# mes "I will mark the location";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "I will mark the location"
+msgstr ""
+
+# mes "of the "+F_Navi("Priest Zed's Mansion","rachel,98,238","^000080");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "of the "
+msgstr ""
+
+# mes "of the "+F_Navi("Priest Zed's Mansion","rachel,98,238","^000080");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Priest Zed's Mansion"
+msgstr ""
+
+# mes "of the "+F_Navi("Priest Zed's Mansion","rachel,98,238","^000080");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,98,238"
+msgstr ""
+
+# mes "of the "+F_Navi("Priest Zed's Mansion","rachel,98,238","^000080");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "^000080"
+msgstr ""
+
+# mes "on your mini-map.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "on your mini-map."
+msgstr ""
+
+# switch(select("[ Cool Event Corp. Staff ]", "[ Eden Teleport Officer ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Cool Event Corp. Staff ]"
+msgstr ""
+
+# switch(select("[ Cool Event Corp. Staff ]", "[ Eden Teleport Officer ]", "Previous Menu")) {
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "[ Eden Teleport Officer ]"
+msgstr ""
+
+# mes "of the "+F_Navi("Cool Event Corp. Staff","rachel,110,138","^803232");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Cool Event Corp. Staff"
+msgstr ""
+
+# mes "of the "+F_Navi("Cool Event Corp. Staff","rachel,110,138","^803232");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,110,138"
+msgstr ""
+
+# mes "of the "+F_Navi("Cool Event Corp. Staff","rachel,110,138","^803232");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "^803232"
+msgstr ""
+
+# mes "on your mini map.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "on your mini map."
+msgstr ""
+
+# mes "of the "+F_Navi("Eden Teleport Officer","rachel,125,144","^556B2F");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Eden Teleport Officer"
+msgstr ""
+
+# mes "of the "+F_Navi("Eden Teleport Officer","rachel,125,144","^556B2F");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "rachel,125,144"
+msgstr ""
+
+# mes "of the "+F_Navi("Eden Teleport Officer","rachel,125,144","^556B2F");
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "^556B2F"
+msgstr ""
+
+# mes "Sure, I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Have a safe journey!";
+#: npc/re/guides/guides_rachel.txt
+msgctxt "Rachel Guide#rachel"
+msgid "Have a safe journey!"
+msgstr ""
+

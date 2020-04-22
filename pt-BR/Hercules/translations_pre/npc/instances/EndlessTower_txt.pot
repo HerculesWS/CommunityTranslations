@@ -1,0 +1,3029 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2020-04-22 09:48\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/instances/EndlessTower_txt.pot\n"
+
+# mes("^008800Wait here!!");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "^008800Wait here!!"
+msgstr ""
+
+# mes("You're carrying too much stuff. Why don't you put some of it away, and then come back.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "You're carrying too much stuff. Why don't you put some of it away, and then come back.^000000"
+msgstr ""
+
+# mes("[Captain Janssen]");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "[Captain Janssen]"
+msgstr ""
+
+# mes("Sigh... I don't know if I can ever go back to sailing the sea...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Sigh... I don't know if I can ever go back to sailing the sea..."
+msgstr ""
+
+# mes("^0000ffLooking incredibly excited, the old man ran into the marine shop hurriedly ordering goods. You don't have anything better to do, so you decide to ask him why he is in such a rush.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "^0000ffLooking incredibly excited, the old man ran into the marine shop hurriedly ordering goods. You don't have anything better to do, so you decide to ask him why he is in such a rush.^000000"
+msgstr ""
+
+# mes("^0000ffThe old man, after finishing his orders, walks towards you.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "^0000ffThe old man, after finishing his orders, walks towards you.^000000"
+msgstr ""
+
+# mes("I was touched when you accepted a request from me, a stranger, so easily. You must truly be one of those good, heroic adventurers. Are you interested in setting out on an ocean voyage?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I was touched when you accepted a request from me, a stranger, so easily. You must truly be one of those good, heroic adventurers. Are you interested in setting out on an ocean voyage?"
+msgstr ""
+
+# mesf("[%s]", .@name$);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Captain Janssen"
+msgid "[%s]"
+msgstr ""
+
+# mes("I've sailed a few times... But now that I think about it, I've never gone across the continent.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I've sailed a few times... But now that I think about it, I've never gone across the continent."
+msgstr ""
+
+# mes("No, that's good enough. I may just have one small fishing vessel, but I used to be a captain that commanded a fleet.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "No, that's good enough. I may just have one small fishing vessel, but I used to be a captain that commanded a fleet."
+msgstr ""
+
+# mes("As you may know after a few sea voyages, not many people have gone across the ocean beyond the continent. I too have failed to conquer the ocean.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "As you may know after a few sea voyages, not many people have gone across the ocean beyond the continent. I too have failed to conquer the ocean."
+msgstr ""
+
+# mes("^0000ffMr. Janssen talked about his perilous ocean journeys for quite a while. You have enough time on your hands, so you sit down, quietly listening to his story.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "^0000ffMr. Janssen talked about his perilous ocean journeys for quite a while. You have enough time on your hands, so you sit down, quietly listening to his story.^000000"
+msgstr ""
+
+# mes("^0000ffAt least half of his story sounded grossly exaggerated, but something caught your ear: he insists that a humongous tower exists on the ocean, and that it's so tall, it scrapes across the sky.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "^0000ffAt least half of his story sounded grossly exaggerated, but something caught your ear: he insists that a humongous tower exists on the ocean, and that it's so tall, it scrapes across the sky.^000000"
+msgstr ""
+
+# mes("So all I could do was cast anchor at that humongous tower after my fleet was wrecked. At first, we were only going to stay there until the rainstorm was over, but it didn't end as soon as we had hoped.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "So all I could do was cast anchor at that humongous tower after my fleet was wrecked. At first, we were only going to stay there until the rainstorm was over, but it didn't end as soon as we had hoped."
+msgstr ""
+
+# mes("My crew was starving, and a few of them walked into the tower in order to find food... They never came back.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "My crew was starving, and a few of them walked into the tower in order to find food... They never came back."
+msgstr ""
+
+# mes("Why didn't you go in there with them?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Why didn't you go in there with them?"
+msgstr ""
+
+# mes("My instincts told me that tower was dangerous. I was curious, but I wasn't going to risk my life. We waited for them to come back for 7 days until the rainstorm was finally over, but no one returned.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "My instincts told me that tower was dangerous. I was curious, but I wasn't going to risk my life. We waited for them to come back for 7 days until the rainstorm was finally over, but no one returned."
+msgstr ""
+
+# mes("In our desperation to survive, we abandoned all our goods, and left the tower only with a little bit of the water and edible plants we'd found around the tower. When we finally reached land, I was the only one alive...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "In our desperation to survive, we abandoned all our goods, and left the tower only with a little bit of the water and edible plants we'd found around the tower. When we finally reached land, I was the only one alive..."
+msgstr ""
+
+# mes("^0000ffYou could imagine the heartwretching scene of the dying fleet on their last voyage, even if he didn't explain it any further. A look of somber regret swept over his face as he remained silent a while, and then he said:^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "^0000ffYou could imagine the heartwretching scene of the dying fleet on their last voyage, even if he didn't explain it any further. A look of somber regret swept over his face as he remained silent a while, and then he said:^000000"
+msgstr ""
+
+# mes("I have something I must do before I die. I must retrieve the remains of my crew that died in the tower, and give them a proper burial.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I have something I must do before I die. I must retrieve the remains of my crew that died in the tower, and give them a proper burial."
+msgstr ""
+
+# mes("I feel so lucky to meet a warm-hearted adventurer like you. With the money you've given me, I can finally go sailing to the tower again.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I feel so lucky to meet a warm-hearted adventurer like you. With the money you've given me, I can finally go sailing to the tower again."
+msgstr ""
+
+# mes("How about hiring me as your first mate?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "How about hiring me as your first mate?"
+msgstr ""
+
+# mes("Thank you, but it is an extremely dangerous place. I have my duty to fulfill, but you don't have any obligation to me or them. I don't wish to sacrifice someone as young as you to such a dangerous place.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Thank you, but it is an extremely dangerous place. I have my duty to fulfill, but you don't have any obligation to me or them. I don't wish to sacrifice someone as young as you to such a dangerous place."
+msgstr ""
+
+# mes("No...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "No..."
+msgstr ""
+
+# mes(".");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "."
+msgstr ""
+
+# mes("As an adventurer, there's my obligation to those in need. I'm also very curious about that place...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "As an adventurer, there's my obligation to those in need. I'm also very curious about that place..."
+msgstr ""
+
+# mes("I was going to leave right away, but since you've joined me, I should give you time to prepare. I'll be waiting here until you're ready to go.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I was going to leave right away, but since you've joined me, I should give you time to prepare. I'll be waiting here until you're ready to go."
+msgstr ""
+
+# mes("...Okay then...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "...Okay then..."
+msgstr ""
+
+# mes("Welcome aboard, first mate.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Welcome aboard, first mate."
+msgstr ""
+
+# mes("Shall we leave now?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Shall we leave now?"
+msgstr ""
+
+# switch (select("Yes, let's go!", "No, I'm not quite ready...")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Yes, let's go!"
+msgstr ""
+
+# switch (select("Yes, let's go!", "No, I'm not quite ready...")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "No, I'm not quite ready..."
+msgstr ""
+
+# mes("Then pull up the anchor, first mate!");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Then pull up the anchor, first mate!"
+msgstr ""
+
+# mes("Sure, no problem. Come back when you're ready.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Sure, no problem. Come back when you're ready."
+msgstr ""
+
+# mes("Well, to travel the ocean again, we need to restock on goods. If you give me 10,000 Zeny, I'll take care of the rest.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Well, to travel the ocean again, we need to restock on goods. If you give me 10,000 Zeny, I'll take care of the rest."
+msgstr ""
+
+# switch (select("I'll come back later.", "Let's go, now!")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I'll come back later."
+msgstr ""
+
+# switch (select("I'll come back later.", "Let's go, now!")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Let's go, now!"
+msgstr ""
+
+# mes("I'm sorry, but I don't have that much money. I'll come back when I save enough.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I'm sorry, but I don't have that much money. I'll come back when I save enough."
+msgstr ""
+
+# mes("Sure, no problem. I'll be waiting for your return.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Sure, no problem. I'll be waiting for your return."
+msgstr ""
+
+# mes("I'm sorry, but you don't have enough money. I need at least 10,000 Zeny to restock our supplies...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I'm sorry, but you don't have enough money. I need at least 10,000 Zeny to restock our supplies..."
+msgstr ""
+
+# mes("Excellent! Now we're good to go. Let's pull up the anchor again!");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Excellent! Now we're good to go. Let's pull up the anchor again!"
+msgstr ""
+
+# mes("Excuse me, are you an adventurer?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Excuse me, are you an adventurer?"
+msgstr ""
+
+# mes("I'm sorry to ask you this, especially when this is the first time we've ever met, but can you do me a favor? I'll make it short.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I'm sorry to ask you this, especially when this is the first time we've ever met, but can you do me a favor? I'll make it short."
+msgstr ""
+
+# mes("Can you donate ^0000ff10,000 Zeny^000000 to me? It's for a cause that's important to me...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Can you donate ^0000ff10,000 Zeny^000000 to me? It's for a cause that's important to me..."
+msgstr ""
+
+# switch (select("No!", "Sure thing.")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "No!"
+msgstr ""
+
+# switch (select("No!", "Sure thing.")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Sure thing."
+msgstr ""
+
+# mes("I'm sorry, but you've got the wrong person to ask that.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I'm sorry, but you've got the wrong person to ask that."
+msgstr ""
+
+# mes("I see... Sorry to bother you. I understand it was too rude to ask something like that to begin with.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I see... Sorry to bother you. I understand it was too rude to ask something like that to begin with."
+msgstr ""
+
+# mes("Huh? Are you sure that you don't mind giving me that much money? Wow, thank you so much!");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Huh? Are you sure that you don't mind giving me that much money? Wow, thank you so much!"
+msgstr ""
+
+# mes("...I'm sorry, but I don't think you have 10,000 Zeny. Thank you for your kindness, but I need more than that.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "...I'm sorry, but I don't think you have 10,000 Zeny. Thank you for your kindness, but I need more than that."
+msgstr ""
+
+# mes("I don't know why you'd need so much money, but here. You can take it.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "I don't know why you'd need so much money, but here. You can take it."
+msgstr ""
+
+# mes("^0000ffYou have donated 10,000 Zeny to Captain Janssen^000000.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "^0000ffYou have donated 10,000 Zeny to Captain Janssen^000000."
+msgstr ""
+
+# mes("Thank you so much! Now I can stock up on food and materials for my ship. You're kind, very kind!");
+#: npc/instances/EndlessTower.txt
+msgctxt "Captain Janssen"
+msgid "Thank you so much! Now I can stock up on food and materials for my ship. You're kind, very kind!"
+msgstr ""
+
+# .@md_name$ = _("Endless Tower");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "Endless Tower"
+msgstr ""
+
+# mes("Make or join a party with more than 1 member and try again.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "Make or join a party with more than 1 member and try again."
+msgstr ""
+
+# mes("Confirmed the party has been made. Would you like to reserve entrance to the Endless Tower?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "Confirmed the party has been made. Would you like to reserve entrance to the Endless Tower?"
+msgstr ""
+
+# .@str$ = sprintf(_$("Generate Dungeon %s"), .@md_name$);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "Generate Dungeon %s"
+msgstr ""
+
+# switch (select(.@str$, "Enter the Dungeon", "Return to Alberta", "Cancel")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "Enter the Dungeon"
+msgstr ""
+
+# switch (select(.@str$, "Enter the Dungeon", "Return to Alberta", "Cancel")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "Return to Alberta"
+msgstr ""
+
+# switch (select(.@str$, "Enter the Dungeon", "Return to Alberta", "Cancel")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "Cancel"
+msgstr ""
+
+# mesf("Party Name: %s", .@p_name$);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "Party Name: %s"
+msgstr ""
+
+# mesf("Party Leader: %s", strcharinfo(PC_NAME));
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "Party Leader: %s"
+msgstr ""
+
+# mesf("^0000ff%s ^000000- Reservation Failed!", .@md_name$);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "^0000ff%s ^000000- Reservation Failed!"
+msgstr ""
+
+# mesf("^0000ff%s^000000 - Try to reserve", .@md_name$);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "^0000ff%s^000000 - Try to reserve"
+msgstr ""
+
+# mes("After making a reservation, you have to talk to NPC behind and select the menu 'Enter the Dungeon' to enter the dungeon.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "After making a reservation, you have to talk to NPC behind and select the menu 'Enter the Dungeon' to enter the dungeon."
+msgstr ""
+
+# mes("I will move you to Alberta.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "I will move you to Alberta."
+msgstr ""
+
+# mes("If you have the dungeon generated already, you can enter it.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "If you have the dungeon generated already, you can enter it."
+msgstr ""
+
+# mesf("Due to the tower's aftereffects, you cannot enter the dungeon right now, %d hours %d minutes %d seconds left to enter the next dungeon.", .@dun_h, .@dun_m, .@dun_s);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "Due to the tower's aftereffects, you cannot enter the dungeon right now, %d hours %d minutes %d seconds left to enter the next dungeon."
+msgstr ""
+
+# mes("It is dangerous here. Let me move you to Alberta.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "It is dangerous here. Let me move you to Alberta."
+msgstr ""
+
+# mes("^0000ffThe records and after effects related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "^0000ffThe records and after effects related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000"
+msgstr ""
+
+# mesf("The memorial dungeon %s does not exist.", getarg(2));
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "The memorial dungeon %s does not exist."
+msgstr ""
+
+# mes("The party leader did not generate the dungeon yet.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tower Protection Stone"
+msgid "The party leader did not generate the dungeon yet."
+msgstr ""
+
+# mapannounce("e_tower", sprintf(_$("%s of the party, %s, is entering the dungeon, Endless Tower."), strcharinfo(PC_NAME), getarg(3)), bc_map, C_SPRINGGREEN, FW_NORMAL, 12);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Tower Protection Stone"
+msgid "%s of the party, %s, is entering the dungeon, Endless Tower."
+msgstr ""
+
+# mapannounce("e_tower", sprintf(_$("[ %s ], seems to be engulfed by a huge vortex"), strcharinfo(PC_NAME)), bc_map, C_SPRINGGREEN, FW_NORMAL, 12);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Huge Vortex"
+msgid "[ %s ], seems to be engulfed by a huge vortex"
+msgstr ""
+
+# mes("Please enter the password.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "Please enter the password."
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Cancel")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "Generate Purification Stone"
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Cancel")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "Remove Purification Stone"
+msgstr ""
+
+# switch (select("Generate Purification Stone", "Remove Purification Stone", "Cancel")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "Cancel"
+msgstr ""
+
+# mes("Create the Purification Stone that stays for 30 minutes.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "Create the Purification Stone that stays for 30 minutes."
+msgstr ""
+
+# mes("Destroy the Purification Stone immediately");
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "Destroy the Purification Stone immediately"
+msgstr ""
+
+# mes("You have canceled it.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "You have canceled it."
+msgstr ""
+
+# mes("Enter the password exactly.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#102Administrator Mode"
+msgid "Enter the password exactly."
+msgstr ""
+
+# mes("^0000ffThe records and aftereffects related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Purification Stone#et1"
+msgid "^0000ffThe records and aftereffects related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000"
+msgstr ""
+
+# mapannounce("e_tower", _("The Purification Stone will be destroyed in one minute."), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+msgctxt "Purification Stone#et1"
+msgid "The Purification Stone will be destroyed in one minute."
+msgstr ""
+
+# mes("^0000ffThe records and aftereffects related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Purification Stone#et2"
+msgid "^0000ffThe records and aftereffects related to the Endless Tower have been removed. You can generate and enter the Endless Tower again.^000000"
+msgstr ""
+
+# areamonster(.@map$, 7, 351, 17, 387, _("Metaling"), METALING, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Metaling"
+msgstr ""
+
+# areamonster(.@map$, 7, 351, 17, 387, _("Marin"), MARIN, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Marin"
+msgstr ""
+
+# areamonster(.@map$, 7, 351, 17, 387, _("Poporing"), POPORING, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Poporing"
+msgstr ""
+
+# areamonster(.@map$, 7, 351, 17, 387, _("Drops"), DROPS, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Drops"
+msgstr ""
+
+# areamonster(.@map$, 7, 351, 17, 387, _("Mastering"), MASTERING, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mastering"
+msgstr ""
+
+# areamonster(.@map$, 7, 351, 17, 387, _("Poring"), PORING, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Poring"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Desert Wolf"), DESERT_WOLF, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Desert Wolf"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Vagabond Wolf"), VAGABOND_WOLF, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Vagabond Wolf"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Baby Desert Wolf"), DESERT_WOLF_B, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Baby Desert Wolf"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Archer Skeleton"), ARCHER_SKELETON, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Archer Skeleton"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Skel Worker"), SKEL_WORKER, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Skel Worker"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Soldier Skeleton"), SOLDIER_SKELETON, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Soldier Skeleton"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Orc Skeleton"), ORC_SKELETON, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Skeleton"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Pirate Skeleton"), PIRATE_SKEL, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Pirate Skeleton"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Skeleton"), SKELETON, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Skeleton"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Argiope"), ARGIOPE, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Argiope"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Mantis"), MANTIS, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mantis"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Argos"), ARGOS, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Argos"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Vocal"), VOCAL, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Vocal"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Rocker"), ROCKER, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Rocker"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Hornet"), HORNET, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hornet"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Golden Thief Bug"), GOLDEN_BUG, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Golden Thief Bug"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Thief Bug Male"), THIEF_BUG__, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Thief Bug Male"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Thief Bug Female"), THIEF_BUG_, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Thief Bug Female"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Thief Bug"), THIEF_BUG, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Thief Bug"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Thief Bug Egg"), THIEF_BUG_EGG, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Thief Bug Egg"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Dragon Egg"), DRAGON_EGG, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dragon Egg"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Ant Egg"), ANT_EGG, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ant Egg"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Pupa"), PUPA, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Pupa"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Explosion"), EXPLOSION, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Explosion"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Drainliar"), DRAINLIAR, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Drainliar"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Anopheles"), ANOPHELES, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Anopheles"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Farmiliar"), FARMILIAR, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Farmiliar"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Firelock Soldier"), ANTIQUE_FIRELOCK, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Firelock Soldier"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Cruiser"), CRUISER, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Cruiser"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Obsidian"), OBSIDIAN, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Obsidian"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Golem"), GOLEM, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Golem"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Stapo"), STAPO, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Stapo"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Mistress"), MISTRESS, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mistress"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Giant Hornet"), GIANT_HONET, 25, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Giant Hornet"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Dryad"), DRYAD, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dryad"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Parasite"), PARASITE, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Parasite"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Hermit Plant"), WILD_GINSENG, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hermit Plant"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Rafflesia"), RAFFLESIA, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Rafflesia"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Demon Pungus"), DEMON_PUNGUS, 25, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Demon Pungus"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Punk"), PUNK, 25, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Punk"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Yao Yun"), HYEGUN, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Yao Yun"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Bongunn"), BON_GUN, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Bongunn"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Munak"), MUNAK, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Munak"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("High Orc"), HIGH_ORC, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "High Orc"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Orc Archer"), ORC_ARCHER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Archer"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Orc Lady"), ORC_LADY, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Lady"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Orc Warrior"), ORK_WARRIOR, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Warrior"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Orc Baby"), ORC_BABY, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Baby"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Maya"), MAYA, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Maya"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Phreeoni"), PHREEONI, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Phreeoni"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Deniro"), DENIRO, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Deniro"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Pierre"), PIERE, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Pierre"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Andre"), ANDRE, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Andre"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Raydric Archer"), RAYDRIC_ARCHER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Raydric Archer"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Gargoyle"), GARGOYLE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Gargoyle"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Merman"), MERMAN, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Merman"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Baphomet Jr."), BAPHOMET_, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Baphomet Jr."
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Strouf"), STROUF, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Strouf"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Hill Wind"), HILL_WIND, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hill Wind"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Cramp"), CRAMP, 25, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Cramp"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Tarou"), TAROU, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Tarou"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Deviace"), DEVIACE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Deviace"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Megalodon"), MEGALODON, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Megalodon"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Swordfish"), SWORD_FISH, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Swordfish"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Phen"), PHEN, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Phen"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Drake"), DRAKE, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Drake"
+msgstr ""
+
+# areamonster(.@map$, 9, 9, 19, 45, _("Plasma"), PLASMA_Y, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Plasma"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Muscipular"), MUSCIPULAR, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Muscipular"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Drosera"), DROSERA, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Drosera"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Flora"), FLORA, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Flora"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Hydra"), HYDRA, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hydra"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Mandragora"), MANDRAGORA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mandragora"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Penomena"), PENOMENA, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Penomena"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Obeaune"), OBEAUNE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Obeaune"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Marse"), MARSE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Marse"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Joker"), JOKER, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Joker"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Carat"), CARAT, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Carat"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Jakk"), JAKK, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Jakk"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Cat o' Nine Tails"), CAT_O_NINE_TAIL, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Cat o' Nine Tails"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Moonlight"), MOONLIGHT, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Moonlight"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Nine Tail"), NINE_TAIL, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Nine Tail"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Gibbet"), GIBBET, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Gibbet"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Enchanted Peach Tree"), LIVE_PEACH_TREE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Enchanted Peach Tree"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Wooden Golem"), WOODEN_GOLEM, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Wooden Golem"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Stone Shooter"), STONE_SHOOTER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Stone Shooter"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Elder Willow"), ELDER_WILOW, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Elder Willow"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Goblin Archer"), GOBLIN_ARCHER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Goblin Archer"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Goblin"), GOBLIN_1, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Goblin"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Gobin"), GOBLIN_4, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Gobin"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Arclouse"), ARCLOUSE, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Arclouse"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Neraid"), NERAID, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Neraid"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Pest"), PEST, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Pest"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Kukre"), KUKRE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kukre"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Dark Frame"), DARK_FRAME, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dark Frame"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("The Paper"), THE_PAPER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "The Paper"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Hylozoist"), HYLOZOIST, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hylozoist"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Quve"), QUVE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Quve"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Lude"), LUDE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Lude"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Whisper"), WHISPER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Whisper"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("White Lady"), BACSOJIN_, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "White Lady"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Evil Nymph"), WICKED_NYMPH, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Evil Nymph"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Gig"), GIG, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Gig"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Iron Fist"), IRON_FIST, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Iron Fist"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Scorpion"), SCORPION, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Scorpion"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Goblin Leader"), GOBLIN_LEADER, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Goblin Leader"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Kobold Leader"), KOBOLD_LEADER, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kobold Leader"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Kobold"), KOBOLD_1, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kobold"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Kobold_Archer"), KOBOLD_ARCHER, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kobold_Archer"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Flame Skull"), FLAME_SKULL, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Flame Skull"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Giant Whisper"), WHISPER_BOSS, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Giant Whisper"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Turtle General"), TURTLE_GENERAL, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Turtle General"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Freezer"), FREEZER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Freezer"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Solider"), SOLIDER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Solider"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Heater"), HEATER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Heater"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Permeter"), PERMETER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Permeter"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Anolian"), ANOLIAN, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Anolian"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Grove"), GREEN_IGUANA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Grove"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Alligator"), ALLIGATOR, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Alligator"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Clock Tower Manager"), C_TOWER_MANAGER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Clock Tower Manager"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Clock"), CLOCK, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Clock"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Alarm"), ALARM, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Alarm"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Death Word"), DEATHWORD, 25, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Death Word"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Rideword"), RIDEWORD, 25, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Rideword"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Mao Gui"), CIVIL_SERVANT, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mao Gui"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Taoist Hermit"), EVIL_CLOUD_HERMIT, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Taoist Hermit"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Zhu Po Long"), DANCING_DRAGON, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Zhu Po Long"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Jin Guai"), LI_ME_MANG_RYANG, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Jin Guai"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Samurai Specter"), INCANTATION_SAMURAI, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Samurai Specter"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Shinobi"), SHINOBI, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Shinobi"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Tengu"), TENGU, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Tengu"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Miyabi Doll"), MIYABI_NINGYO, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Miyabi Doll"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Karakasa"), KARAKASA, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Karakasa"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Kraben"), KRABEN, 50, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kraben"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Sleeper"), SLEEPER, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Sleeper"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Sting"), STING, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Sting"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Mi Gao"), INCREASE_SOIL, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mi Gao"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Sandman"), SAND_MAN, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Sandman"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Hode"), HODE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hode"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Medusa"), MEDUSA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Medusa"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Sidewinder"), SIDE_WINDER, 40, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Sidewinder"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Anacondaq"), ANACONDAQ, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Anacondaq"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Boa"), SNAKE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Boa"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Hatii Baby"), GARM_BABY, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hatii Baby"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Savage Babe"), SAVAGE_BABE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Savage Babe"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Osiris"), OSIRIS, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Osiris"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Ancient Mummy"), ANCIENT_MUMMY, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ancient Mummy"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Verit"), VERIT, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Verit"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Mummy"), MUMMY, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mummy"
+msgstr ""
+
+# areamonster(.@map$, 9, 9, 19, 45, _("Seeker"), SEEKER, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Seeker"
+msgstr ""
+
+# areamonster(.@map$, 9, 9, 19, 45, _("Beholder"), BEHOLDER, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Beholder"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Deleter"), DELETER, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Deleter"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Petite"), PETIT_, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Petite"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Ancient Worm"), ANCIENT_WORM, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ancient Worm"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Ancient Mimic"), ANCIENT_MIMIC, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ancient Mimic"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Grizzly"), GRIZZLY, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Grizzly"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Leib Olmai"), LEIB_OLMAI, 7, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Leib Olmai"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Zipper Bear"), ZIPPER_BEAR, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Zipper Bear"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Sasquatch"), SASQUATCH, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Sasquatch"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Bigfoot"), BIGFOOT, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Bigfoot"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Pharaoh"), PHARAOH, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Pharaoh"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Amon Ra"), AMON_RA, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Amon Ra"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Anubis"), ANUBIS, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Anubis"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Marduk"), MARDUK, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Marduk"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Matyr"), MATYR, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Matyr"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Mini Demon"), MINI_DEMON, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mini Demon"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Diabolic"), DIABOLIC, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Diabolic"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Deviruchi"), DEVIRUCHI, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Deviruchi"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Harpy"), HARPY, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Harpy"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Grand Peco"), GRAND_PECO, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Grand Peco"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Bloody Butterfly"), BLOOD_BUTTERFLY, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Bloody Butterfly"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Assaulter"), ASSULTER, 25, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Assaulter"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Chepet"), CHEPET, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Chepet"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Mariontte"), MARIONETTE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mariontte"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Evil Snake Lord"), DARK_SNAKE_LORD, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Evil Snake Lord"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Isis"), ISIS, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Isis"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Ice Titan"), ICE_TITAN, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ice Titan"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Snowier"), SNOWIER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Snowier"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Gazeti"), GAZETI, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Gazeti"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Arc Angeling"), ARCHANGELING, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Arc Angeling"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Deviling"), DEVILING, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Deviling"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Angeling"), ANGELING, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Angeling"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Ghostring"), GHOSTRING, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ghostring"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Phendark"), PHENDARK, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Phendark"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Rybio"), RYBIO, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Rybio"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Zombie Prisoner"), ZOMBIE_PRISONER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Zombie Prisoner"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Skeleton Prisoner"), SKEL_PRISONER, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Skeleton Prisoner"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Injustice"), INJUSTICE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Injustice"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Mimic"), MIMIC, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mimic"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Mystcase"), MYSTCASE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mystcase"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Egnigem Cenia"), B_YGNIZEM, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Egnigem Cenia"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Doppelganger"), DOPPELGANGER, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Doppelganger"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Armeyer Dinze"), ARMAIA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Armeyer Dinze"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Wickebine Tres"), WHIKEBAIN, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Wickebine Tres"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Laurell Winder"), RAWREL, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Laurell Winder"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Kavach Icarus"), KAVAC, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kavach Icarus"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Errende Ebecee"), EREND, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Errende Ebecee"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Agav"), AGAV, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Agav"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Echio"), ECHIO, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Echio"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Isilla"), ISILLA, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Isilla"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Mobster"), MOBSTER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mobster"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Pasana"), PASANA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Pasana"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Vanberk"), VANBERK, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Vanberk"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Wanderer"), WANDER_MAN, 35, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Wanderer"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Ragged Zombie"), RAGGED_ZOMBIE, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ragged Zombie"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Zombie Master"), ZOMBIE_MASTER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Zombie Master"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Orc Zombie"), ORC_ZOMBIE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Zombie"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Zombie"), ZOMBIE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Zombie"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Ungoliant"), UNGOLIANT, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ungoliant"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Caterpillar"), CATERPILLAR, 2, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Caterpillar"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Creamy Fear"), CREMY_FEAR, 2, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Creamy Fear"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Killer Mantis"), KILLER_MANTIS, 2, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Killer Mantis"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Atros"), ATROCE, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Atros"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Galion"), GALION, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Galion"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Incubus"), INCUBUS, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Incubus"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Aliot"), ALIOT, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Aliot"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Acidus"), ACIDUS_, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Acidus"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Mutant Dragonoid"), MUTANT_DRAGON, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mutant Dragonoid"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Lava Golem"), LAVA_GOLEM, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Lava Golem"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Stalactic Golem"), STALACTIC_GOLEM, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Stalactic Golem"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Dame of Sentinel"), OBSERVATION, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dame of Sentinel"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Mistress of Shelter"), SHELTER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mistress of Shelter"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Baroness of Retribution"), RETRIBUTION, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Baroness of Retribution"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("Lady Solace"), SOLACE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Lady Solace"
+msgstr ""
+
+# areamonster(.@map$, 267, 96, 277, 132, _("False Angel"), FAKE_ANGEL, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "False Angel"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Orc Hero"), ORK_HERO, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Hero"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Orc Lord"), ORC_LORD, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Orc Lord"
+msgstr ""
+
+# areamonster(.@map$, 9, 9, 19, 45, _("Succubus"), SUCCUBUS, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Succubus"
+msgstr ""
+
+# areamonster(.@map$, 9, 9, 19, 45, _("Nightmare Terror"), NIGHTMARE_TERROR, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Nightmare Terror"
+msgstr ""
+
+# areamonster(.@map$, 9, 9, 19, 45, _("Nightmare"), NIGHTMARE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Nightmare"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Margaretha Sorin"), MAGALETA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Margaretha Sorin"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Loli Ruri"), LOLI_RURI, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Loli Ruri"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Aliza"), ALIZA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Aliza"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Zealotus"), ZHERLTHSH, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Zealotus"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Alice"), ALICE, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Alice"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Green Maiden"), CHUNG_E, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Green Maiden"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Dimik"), DIMIK_2, 6, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dimik"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Venatu"), VENATU_2, 6, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Venatu"
+msgstr ""
+
+# areamonster(.@map$, 267, 9, 277, 45, _("Archdam"), ARCHDAM, 6, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Archdam"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Baphomet"), BAPHOMET, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Baphomet"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Dark Lord"), DARK_LORD, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dark Lord"
+msgstr ""
+
+# areamonster(.@map$, 352, 9, 362, 45, _("Dark Illusion"), DARK_ILLUSION, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dark Illusion"
+msgstr ""
+
+# areamonster(.@map$, 9, 351, 19, 387, _("Abysmal Knight"), KNIGHT_OF_ABYSS, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Abysmal Knight"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Banshee"), BANSHEE, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Banshee"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Wraith Dead"), WRAITH_DEAD, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Wraith Dead"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Evil Druid"), EVIL_DRUID, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Evil Druid"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Wraith"), WRAITH, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Wraith"
+msgstr ""
+
+# areamonster(.@map$, 93, 351, 103, 387, _("Wind Ghost"), WIND_GHOST, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Wind Ghost"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Sword Master"), SWORD_GUARDIAN, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Sword Master"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Bloody Knight"), BLOODY_KNIGHT, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Bloody Knight"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Dullahan"), DULLAHAN, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dullahan"
+msgstr ""
+
+# areamonster(.@map$, 181, 351, 191, 387, _("Raydric"), RAYDRIC, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Raydric"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Hydro"), HYDRO, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hydro"
+msgstr ""
+
+# areamonster(.@map$, 267, 351, 277, 387, _("Ferus"), FERUS, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ferus"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Falling Bishop"), FALLINGBISHOP, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Falling Bishop"
+msgstr ""
+
+# areamonster(.@map$, 352, 351, 362, 387, _("Necromancer"), NECROMANCER, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Necromancer"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Mysteltainn"), MYSTELTAINN, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Mysteltainn"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Ogretooth"), TIRFING, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ogretooth"
+msgstr ""
+
+# areamonster(.@map$, 9, 267, 19, 303, _("Executioner"), EXECUTIONER, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Executioner"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Bloody Murderer"), BLOODY_MURDERER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Bloody Murderer"
+msgstr ""
+
+# areamonster(.@map$, 93, 267, 103, 303, _("Skogul"), SKOGUL, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Skogul"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Skeggiold"), SKEGGIOLD, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Skeggiold"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Gryphon"), GRYPHON, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Gryphon"
+msgstr ""
+
+# areamonster(.@map$, 181, 267, 191, 303, _("Chimera"), CHIMERA, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Chimera"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Owl Duke"), OWL_DUKE, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Owl Duke"
+msgstr ""
+
+# areamonster(.@map$, 267, 267, 277, 303, _("Owl Baron"), OWL_BARON, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Owl Baron"
+msgstr ""
+
+# areamonster(.@map$, 352, 267, 362, 303, _("Ifrit"), IFRIT, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Ifrit"
+msgstr ""
+
+# areamonster(.@map$, 9, 180, 19, 216, _("Majoruros"), MAJORUROS, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Majoruros"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Salamander"), SALAMANDER, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Salamander"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Kasa"), KASA, 20, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kasa"
+msgstr ""
+
+# areamonster(.@map$, 93, 180, 103, 216, _("Gajomart"), GAJOMART, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Gajomart"
+msgstr ""
+
+# areamonster(.@map$, 181, 180, 191, 216, _("Khalitzburg"), KHALITZBURG, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Khalitzburg"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Odium of Thanatos"), THA_ODIUM, 6, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Odium of Thanatos"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Despero of Thanatos"), THA_DESPERO, 6, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Despero of Thanatos"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Maero of Thanatos"), THA_MAERO, 6, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Maero of Thanatos"
+msgstr ""
+
+# areamonster(.@map$, 267, 180, 277, 216, _("Dolor of Thanatos"), THA_DOLOR, 6, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dolor of Thanatos"
+msgstr ""
+
+# areamonster(.@map$, 352, 180, 362, 216, _("Valkyrie Randgris"), RANDGRIS, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Valkyrie Randgris"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Cecil Damon"), SHECIL, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Cecil Damon"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Bow Master"), BOW_GUARDIAN, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Bow Master"
+msgstr ""
+
+# areamonster(.@map$, 9, 96, 19, 132, _("Kavac"), KAVAC, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kavac"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Kathryne Keyron"), KATRINN, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Kathryne Keyron"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Elder"), ELDER, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Elder"
+msgstr ""
+
+# areamonster(.@map$, 93, 96, 103, 132, _("Laurell Weinder"), RAWREL, 10, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Laurell Weinder"
+msgstr ""
+
+# areamonster(.@map$, 181, 96, 191, 132, _("Seyren Windsor"), SEYREN, 15, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Seyren Windsor"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Beelzebub"), BEELZEBUB, 1, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Beelzebub"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Hunter Fly"), HUNTER_FLY, 30, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Hunter Fly"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Steel Chonchon"), STEEL_CHONCHON, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Steel Chonchon"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Dragon FLy"), DRAGON_FLY, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Dragon FLy"
+msgstr ""
+
+# areamonster(.@map$, 352, 96, 362, 132, _("Chonchon"), CHONCHON, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Chonchon"
+msgstr ""
+
+# areamonster(.@map$, 9, 9, 19, 45, _("Valkyrie"), G_RANDGRIS, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Valkyrie"
+msgstr ""
+
+# areamonster(.@map$, 93, 9, 103, 45, _("Incarnation of Morroc"), MOROCC_1, 5, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Incarnation of Morroc"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Eremes Guile"), EREMES, 2, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Eremes Guile"
+msgstr ""
+
+# areamonster(.@map$, 181, 9, 191, 45, _("Howard Alt-Eisen"), HARWORD, 2, .@label$);
+#: npc/instances/EndlessTower.txt
+msgctxt "F_Tower_Monster"
+msgid "Howard Alt-Eisen"
+msgstr ""
+
+# mes("- A Message is Engraved on the Brazier -");
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "- A Message is Engraved on the Brazier -"
+msgstr ""
+
+# mes("The one who scatters the ashes of the darkness in this place shall become one step closer to Nacht Sieger, the Hegemon King of the Darkness...");
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "The one who scatters the ashes of the darkness in this place shall become one step closer to Nacht Sieger, the Hegemon King of the Darkness..."
+msgstr ""
+
+# setarray(.@level$[1], _("26th"), _("51st"), _("76th"));
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "26th"
+msgstr ""
+
+# setarray(.@level$[1], _("26th"), _("51st"), _("76th"));
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "51st"
+msgstr ""
+
+# setarray(.@level$[1], _("26th"), _("51st"), _("76th"));
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "76th"
+msgstr ""
+
+# .@i = select("26th Level", "51st Level", "76th Level");
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "26th Level"
+msgstr ""
+
+# .@i = select("26th Level", "51st Level", "76th Level");
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "51st Level"
+msgstr ""
+
+# .@i = select("26th Level", "51st Level", "76th Level");
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "76th Level"
+msgstr ""
+
+# mes("-Warning-");
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "-Warning-"
+msgstr ""
+
+# mesf("To warp to the %s Level, you need %d Ashes of the Darkness.", .@level$[.@i], .@i);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Immortal Brazier#"
+msgid "To warp to the %s Level, you need %d Ashes of the Darkness."
+msgstr ""
+
+# mapannounce(instance_mapname("1@tower"), sprintf(_$("%s. You will be warped to the %s Level."), strcharinfo(PC_NAME), .@level$[.@i]), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Immortal Brazier#"
+msgid "%s. You will be warped to the %s Level."
+msgstr ""
+
+# mapannounce(instance_mapname("1@tower"), _("Notice : Taming a monster does not count towards defeating them."), bc_map, C_RED);
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Brazier#"
+msgid "Notice : Taming a monster does not count towards defeating them."
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Monsters on the 1st Level - %d"), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#1F Controller"
+msgid "Remaining Monsters on the 1st Level - %d"
+msgstr ""
+
+# mapannounce(instance_mapname("1@tower"), _("All Monsters on the 1st Level have been defeated."), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+msgctxt "#1F Controller"
+msgid "All Monsters on the 1st Level have been defeated."
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Monsters on the %s Level - %d"), callsub(L_Display, .@level), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "1FGate102tower"
+msgid "Remaining Monsters on the %s Level - %d"
+msgstr ""
+
+# mapannounce(strnpcinfo(NPC_MAP), sprintf(_$("All Monsters on the %s Level have been defeated."), callsub(L_Display, .@level)), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "1FGate102tower"
+msgid "All Monsters on the %s Level have been defeated."
+msgstr ""
+
+# return sprintf(_$("%dst"), getarg(0));
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "1FGate102tower"
+msgid "%dst"
+msgstr ""
+
+# return sprintf(_$("%dnd"), getarg(0));
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "1FGate102tower"
+msgid "%dnd"
+msgstr ""
+
+# return sprintf(_$("%drd"), getarg(0));
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "1FGate102tower"
+msgid "%drd"
+msgstr ""
+
+# return sprintf(_$("%dth"), getarg(0));
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "1FGate102tower"
+msgid "%dth"
+msgstr ""
+
+# mapannounce(instance_mapname("1@tower"), _("Notice : In any abnormal situation where you defeat a monster, you can't advance to the next level!"), bc_map, C_RED);
+#: npc/instances/EndlessTower.txt
+msgctxt "#Broadcast Mode1"
+msgid "Notice : In any abnormal situation where you defeat a monster, you can't advance to the next level!"
+msgstr ""
+
+# mes("Please enter the password.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode1"
+msgid "Please enter the password."
+msgstr ""
+
+# mes("This NPC manages the tower from the 1st to the 25th Level.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode1"
+msgid "This NPC manages the tower from the 1st to the 25th Level."
+msgstr ""
+
+# mes("Please enter the Level number to open.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode1"
+msgid "Please enter the Level number to open."
+msgstr ""
+
+# mes("(i.g.: 1F->1, 25F->25)");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode1"
+msgid "(i.g.: 1F->1, 25F->25)"
+msgstr ""
+
+# mes("You can only enter a number from 1 to 25.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode1"
+msgid "You can only enter a number from 1 to 25."
+msgstr ""
+
+# mesf("*** Level %d is now being opened. ***", .@input);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#Manager Mode1"
+msgid "*** Level %d is now being opened. ***"
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Monsters on the 26th Level - %d"), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Immortal Furnace#1"
+msgid "Remaining Monsters on the 26th Level - %d"
+msgstr ""
+
+# mapannounce(instance_mapname("2@tower"), _("All Monsters on the 26th Level have been defeated."), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Furnace#1"
+msgid "All Monsters on the 26th Level have been defeated."
+msgstr ""
+
+# mes("Please enter the password.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode2"
+msgid "Please enter the password."
+msgstr ""
+
+# mes("This NPC manages the tower from the 26st to the 50th Level.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode2"
+msgid "This NPC manages the tower from the 26st to the 50th Level."
+msgstr ""
+
+# mes("Please enter the Level number to open.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode2"
+msgid "Please enter the Level number to open."
+msgstr ""
+
+# mes("(i.g.: 26F->26, 50F->50)");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode2"
+msgid "(i.g.: 26F->26, 50F->50)"
+msgstr ""
+
+# mes("You can only enter a number from 26 to 50.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode2"
+msgid "You can only enter a number from 26 to 50."
+msgstr ""
+
+# mesf("*** Level %d is now being opened. ***", .@input);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#Manager Mode2"
+msgid "*** Level %d is now being opened. ***"
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Monsters on the 51st Level - %d"), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Immortal Furnace#2"
+msgid "Remaining Monsters on the 51st Level - %d"
+msgstr ""
+
+# mapannounce(instance_mapname("3@tower"), _("All Monsters on the 51st Level have been defeated."), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Furnace#2"
+msgid "All Monsters on the 51st Level have been defeated."
+msgstr ""
+
+# mes("Please enter the password.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode3"
+msgid "Please enter the password."
+msgstr ""
+
+# mes("This NPC manages the tower from the 51st to the 75th Level.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode3"
+msgid "This NPC manages the tower from the 51st to the 75th Level."
+msgstr ""
+
+# mes("Please enter the Level number to open.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode3"
+msgid "Please enter the Level number to open."
+msgstr ""
+
+# mes("(i.g.: 51F->51, 75F->75)");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode3"
+msgid "(i.g.: 51F->51, 75F->75)"
+msgstr ""
+
+# mes("You can only enter a number from 51 to 75.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode3"
+msgid "You can only enter a number from 51 to 75."
+msgstr ""
+
+# mesf("*** Level %d is now being opened. ***", .@input);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#Manager Mode3"
+msgid "*** Level %d is now being opened. ***"
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Monsters on the 76th Level - %d"), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "Immortal Furnace#3"
+msgid "Remaining Monsters on the 76th Level - %d"
+msgstr ""
+
+# mapannounce(instance_mapname("4@tower"), _("All Monsters on the 76th Level have been defeated."), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+msgctxt "Immortal Furnace#3"
+msgid "All Monsters on the 76th Level have been defeated."
+msgstr ""
+
+# mes("Please enter the password.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode4"
+msgid "Please enter the password."
+msgstr ""
+
+# mes("This NPC manages the tower from the 76th to the 99th Level.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode4"
+msgid "This NPC manages the tower from the 76th to the 99th Level."
+msgstr ""
+
+# mes("Please enter the Level number to open.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode4"
+msgid "Please enter the Level number to open."
+msgstr ""
+
+# mes("(i.g.: 76F->76, 99F->99)");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode4"
+msgid "(i.g.: 76F->76, 99F->99)"
+msgstr ""
+
+# mes("You can only enter a number from 76 to 99.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode4"
+msgid "You can only enter a number from 76 to 99."
+msgstr ""
+
+# mesf("*** Level %d is now being opened. ***", .@input);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#Manager Mode4"
+msgid "*** Level %d is now being opened. ***"
+msgstr ""
+
+# mes("^0000ffA mysterious voice echoes through the room as you touch the lucid crystal radiating a strong light.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "^0000ffA mysterious voice echoes through the room as you touch the lucid crystal radiating a strong light.^000000"
+msgstr ""
+
+# mes("[Mysterious Voice]");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "[Mysterious Voice]"
+msgstr ""
+
+# mes("Welcome to my place, intruders. I've had fun watching you endure all the difficulties I've set before you.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "Welcome to my place, intruders. I've had fun watching you endure all the difficulties I've set before you."
+msgstr ""
+
+# mes("Unfortunately, the time has come to end the show.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "Unfortunately, the time has come to end the show."
+msgstr ""
+
+# mes("It's still too early to celebrate your victory against my right-hand man Knothen because he isn't completely destroyed!");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "It's still too early to celebrate your victory against my right-hand man Knothen because he isn't completely destroyed!"
+msgstr ""
+
+# mes("I shall resurrect him for your next show. Defeat him again, and then I'll gladly accept your challenge.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "I shall resurrect him for your next show. Defeat him again, and then I'll gladly accept your challenge."
+msgstr ""
+
+# mes("Good-bye for now.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "Good-bye for now."
+msgstr ""
+
+# mes("Once again, I had such a great time, humans. I look forward to seeing you again.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "Once again, I had such a great time, humans. I look forward to seeing you again."
+msgstr ""
+
+# mes("^0000ffAs soon as the voice stopped talking, an irresistible force lifted and moved you somewhere else.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "^0000ffAs soon as the voice stopped talking, an irresistible force lifted and moved you somewhere else."
+msgstr ""
+
+# mes("^0000ffThe radiating crystal piece seems to beckon you, just like last time.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "^0000ffThe radiating crystal piece seems to beckon you, just like last time.^000000"
+msgstr ""
+
+# mes("I must have underestimated you... I didn't expect to see you again.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "I must have underestimated you... I didn't expect to see you again."
+msgstr ""
+
+# mes("I can smell your sweat, hear the gasps of your exhaustion in combat. Ah~ The human desire for victory always excites me.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "I can smell your sweat, hear the gasps of your exhaustion in combat. Ah~ The human desire for victory always excites me."
+msgstr ""
+
+# mes("I now allow you to come receive an audience from me. Come to me, to Nacht Sieger the Hegemon-King of the Darkness!");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lucid Crystal#102"
+msgid "I now allow you to come receive an audience from me. Come to me, to Nacht Sieger the Hegemon-King of the Darkness!"
+msgstr ""
+
+# monster(instance_mapname("5@tower"), 83, 85, _("Entweihen Crothen"), ENTWEIHEN, 1, instance_npcname("#102FShadowDust1")+"::OnMyMobDead");
+#: npc/instances/EndlessTower.txt
+msgctxt "#102FShadowDust1"
+msgid "Entweihen Crothen"
+msgstr ""
+
+# mapannounce(.@map$, _("Mysterious Voice: Who are you to dare intrude upon my sanctuary?!"), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+msgctxt "#102FShadowDust1"
+msgid "Mysterious Voice: Who are you to dare intrude upon my sanctuary?!"
+msgstr ""
+
+# monster(.@map$, 72, 93, _("Thorny Skeleton"), G_ENTWEIHEN_R, 1);
+#: npc/instances/EndlessTower.txt
+msgctxt "#102FShadowDust"
+msgid "Thorny Skeleton"
+msgstr ""
+
+# monster(.@map$, 70, 87, _("Thorn of Magic"), G_ENTWEIHEN_M, 1);
+#: npc/instances/EndlessTower.txt
+msgctxt "#102FShadowDust"
+msgid "Thorn of Magic"
+msgstr ""
+
+# monster(.@map$, 68, 83, _("Thorn of Pureness"), G_ENTWEIHEN_S, 1);
+#: npc/instances/EndlessTower.txt
+msgctxt "#102FShadowDust"
+msgid "Thorn of Pureness"
+msgstr ""
+
+# monster(.@map$, 78, 84, _("Thorn of Recovery"), G_ENTWEIHEN_H, 1);
+#: npc/instances/EndlessTower.txt
+msgctxt "#102FShadowDust"
+msgid "Thorn of Recovery"
+msgstr ""
+
+# mes("This NPC manages the crystal on the 100th Level. Please enter the password.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode5"
+msgid "This NPC manages the crystal on the 100th Level. Please enter the password."
+msgstr ""
+
+# mes("The 100th Level's crystal has been activated.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode5"
+msgid "The 100th Level's crystal has been activated."
+msgstr ""
+
+# mes("Please enter the correct password.");
+#: npc/instances/EndlessTower.txt
+msgctxt "#Manager Mode5"
+msgid "Please enter the correct password."
+msgstr ""
+
+# mes("^0066ffYou took a sip of the spring's clear water, and you feel invigorated.^000000");
+#: npc/instances/EndlessTower.txt
+msgctxt "Life Spring#1"
+msgid "^0066ffYou took a sip of the spring's clear water, and you feel invigorated.^000000"
+msgstr ""
+
+# areamonster(instance_mapname("6@tower"), 154, 73, 156, 75, _("Watcher's Son"), ANOPHELES, 10, instance_npcname("Tyrant's Throne#")+"::OnMyMobDead");
+#: npc/instances/EndlessTower.txt
+msgctxt "Tyrant's Throne#"
+msgid "Watcher's Son"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Guests, huh? I hope you've come here knowing that you'll be buried in this place. If you didn't know, well... it's too late!"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#1st Beeper"
+msgid "Guests, huh? I hope you've come here knowing that you'll be buried in this place. If you didn't know, well... it's too late!"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("This is why you adventurers always end up dead."), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#1st Beeper"
+msgid "This is why you adventurers always end up dead."
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("I may applaud you for your courage... Of course, I intend to play with you a little bit first."), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#1st Beeper"
+msgid "I may applaud you for your courage... Of course, I intend to play with you a little bit first."
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("You know, I like watching humans running around in fear."), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#1st Beeper"
+msgid "You know, I like watching humans running around in fear."
+msgstr ""
+
+# mapannounce(.@map$, _("Let's see who runs fastest. Are you ready?"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#1st Beeper"
+msgid "Let's see who runs fastest. Are you ready?"
+msgstr ""
+
+# areamonster(.@map$, 151, 66, 153, 106, _("Bone Guardian"), ORC_SKELETON, 50, instance_npcname("#1st Beeper")+"::OnMyMobDead");
+#: npc/instances/EndlessTower.txt
+msgctxt "#1st Beeper"
+msgid "Bone Guardian"
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Targets %dea"), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#1st Beeper"
+msgid "Remaining Targets %dea"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Well, I guess they aren't too challenging for you."), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#2nd Beeper"
+msgid "Well, I guess they aren't too challenging for you."
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Let's speed up a little bit, shall we?"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#2nd Beeper"
+msgid "Let's speed up a little bit, shall we?"
+msgstr ""
+
+# mapannounce(.@map$, _("I demand an encore!"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#2nd Beeper"
+msgid "I demand an encore!"
+msgstr ""
+
+# areamonster(.@map$, 151, 66, 153, 106, _("Wind Guardian"), WIND_GHOST, 30, instance_npcname("#2nd Beeper")+"::OnMyMobDead");
+#: npc/instances/EndlessTower.txt
+msgctxt "#2nd Beeper"
+msgid "Wind Guardian"
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Targets %dea"), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#2nd Beeper"
+msgid "Remaining Targets %dea"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Yes, this is getting exciting!"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#3rd Beeper"
+msgid "Yes, this is getting exciting!"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("I'll remember you as one of a few that have managed to entertain me."), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#3rd Beeper"
+msgid "I'll remember you as one of a few that have managed to entertain me."
+msgstr ""
+
+# mapannounce(.@map$, _("How would you like to play one more round?"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#3rd Beeper"
+msgid "How would you like to play one more round?"
+msgstr ""
+
+# areamonster(.@map$, 151, 66, 153, 106, _("Sword Edge Guardian"), KHALITZBURG, 20, instance_npcname("#3rd Beeper")+"::OnMyMobDead");
+#: npc/instances/EndlessTower.txt
+msgctxt "#3rd Beeper"
+msgid "Sword Edge Guardian"
+msgstr ""
+
+# mapannounce(.@map$, sprintf(_$("Remaining Targets %dea"), .@mob_dead_num), bc_map, C_SPRINGGREEN);
+#: npc/instances/EndlessTower.txt
+#, c-format
+msgctxt "#3rd Beeper"
+msgid "Remaining Targets %dea"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Okay, the time has come to make my appearance!"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#4th Beeper"
+msgid "Okay, the time has come to make my appearance!"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Do you want to know who I am?"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#4th Beeper"
+msgid "Do you want to know who I am?"
+msgstr ""
+
+# mapannounce(.@map$, _("You'll soon know. Mine is the face of death!"), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "#4th Beeper"
+msgid "You'll soon know. Mine is the face of death!"
+msgstr ""
+
+# monster(.@map$, 156, 147, _("Nacht Sieger"), NAGHT_SIEGER, 1, instance_npcname("#4th Beeper")+"::OnMyMobDead");
+#: npc/instances/EndlessTower.txt
+msgctxt "#4th Beeper"
+msgid "Nacht Sieger"
+msgstr ""
+
+# mes("You're carrying too much stuff. Why don't you put some of it away, and then come back?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "You're carrying too much stuff. Why don't you put some of it away, and then come back?"
+msgstr ""
+
+# mes("[Lost Souls]");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "[Lost Souls]"
+msgstr ""
+
+# mes("It's you that have liberated us from the evil Nacht Sieger.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "It's you that have liberated us from the evil Nacht Sieger."
+msgstr ""
+
+# mes("Thank you so much. Now we can escape from this cold and dark place... to heaven.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "Thank you so much. Now we can escape from this cold and dark place... to heaven."
+msgstr ""
+
+# mes("Hey, you have the remnants of Nacht Sieger with you.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "Hey, you have the remnants of Nacht Sieger with you."
+msgstr ""
+
+# mes("They may appear to be one-handed swords, but I can put them together to make a two-handed one if you want. That's the only way I can repay you for freeing me.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "They may appear to be one-handed swords, but I can put them together to make a two-handed one if you want. That's the only way I can repay you for freeing me."
+msgstr ""
+
+# switch (select("Make a Two-Handed Sword.", "No, thanks.")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "Make a Two-Handed Sword."
+msgstr ""
+
+# switch (select("Make a Two-Handed Sword.", "No, thanks.")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "No, thanks."
+msgstr ""
+
+# mes("If it is already upgraded or has a card inside, those effects will be disappear. Is this ok with you?");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "If it is already upgraded or has a card inside, those effects will be disappear. Is this ok with you?"
+msgstr ""
+
+# switch (select("It's fine with me. Please make one.", "No way!")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "It's fine with me. Please make one."
+msgstr ""
+
+# switch (select("It's fine with me. Please make one.", "No way!")) {
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "No way!"
+msgstr ""
+
+# mes("Good, then I'll combine these to create a two-handed sword.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "Good, then I'll combine these to create a two-handed sword."
+msgstr ""
+
+# mes("I see. I guess you aren't as greedy or ambitious as those other adventurers.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "I see. I guess you aren't as greedy or ambitious as those other adventurers."
+msgstr ""
+
+# mes("I'd like to talk to you more, but I've... I've got to go now.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "I'd like to talk to you more, but I've... I've got to go now."
+msgstr ""
+
+# mes("Farewell, young adventurer. I wish you good luck.");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "Farewell, young adventurer. I wish you good luck."
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("This... This can't be happening! I can't be defeated!"), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "This... This can't be happening! I can't be defeated!"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Nooo! My soul... My shell...! Nooo~!"), bc_map, C_YELLOW);
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "Nooo! My soul... My shell...! Nooo~!"
+msgstr ""
+
+# mapannounce(instance_mapname("6@tower"), _("Nacht Sieger's body has turned into dark ashes that scattered in the wind."), bc_map, "0x00ffcc");
+#: npc/instances/EndlessTower.txt
+msgctxt "Lost Soul#102"
+msgid "Nacht Sieger's body has turned into dark ashes that scattered in the wind."
+msgstr ""
+

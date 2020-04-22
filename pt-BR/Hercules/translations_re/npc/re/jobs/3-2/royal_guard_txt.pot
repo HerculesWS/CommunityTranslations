@@ -1,0 +1,1135 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: 2019-10-21 11:00\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/jobs/3-2/royal_guard_txt.pot\n"
+
+# mes "- Your pack is too heavy. -";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "- Your pack is too heavy. -"
+msgstr ""
+
+# mes "- Lighten your body first -";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "- Lighten your body first -"
+msgstr ""
+
+# mes "- and please try again. -";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "- and please try again. -"
+msgstr ""
+
+# mes "[Middle-aged Gentleman]";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "[Middle-aged Gentleman]"
+msgstr ""
+
+# mes "Uh? What am I doing? I came here for an errand...";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Uh? What am I doing? I came here for an errand..."
+msgstr ""
+
+# mes "^000099Maybe my feeling has moved to another body.^000000";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "^000099Maybe my feeling has moved to another body.^000000"
+msgstr ""
+
+# mes "Oh you are so young. Keep working hard.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Oh you are so young. Keep working hard."
+msgstr ""
+
+# mes "You are dragging something. If you're riding something you better dismount it before proceeding.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You are dragging something. If you're riding something you better dismount it before proceeding."
+msgstr ""
+
+# mes "I don't have anything to say to you. Find another person.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I don't have anything to say to you. Find another person."
+msgstr ""
+
+# mes "What was I saying... (mumble) the remaining segment is in Glast Heim around 13.......";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "What was I saying... (mumble) the remaining segment is in Glast Heim around 13......."
+msgstr ""
+
+# mes "Uhh?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Uhh?"
+msgstr ""
+
+# mes "Did you need something?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Did you need something?"
+msgstr ""
+
+# select("I haven't seen you before.");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I haven't seen you before."
+msgstr ""
+
+# mes "Hehehe, don't worry about me.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Hehehe, don't worry about me."
+msgstr ""
+
+# mes "If you don't have business with me, just keep going my friend.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If you don't have business with me, just keep going my friend."
+msgstr ""
+
+# select("You don't look like a Knight...");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You don't look like a Knight..."
+msgstr ""
+
+# mes "You're a curious one. Who are you? What do you want?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You're a curious one. Who are you? What do you want?"
+msgstr ""
+
+# select("Just looking around!", "This is my office!", "Who am I? Who are you?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Just looking around!"
+msgstr ""
+
+# select("Just looking around!", "This is my office!", "Who am I? Who are you?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "This is my office!"
+msgstr ""
+
+# select("Just looking around!", "This is my office!", "Who am I? Who are you?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Who am I? Who are you?"
+msgstr ""
+
+# mes "Do you want to argue with me? Do you know who I am?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Do you want to argue with me? Do you know who I am?"
+msgstr ""
+
+# if(select("Not really, who are you?", "Sorry, I won't hurt your feelings.") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Not really, who are you?"
+msgstr ""
+
+# if(select("Not really, who are you?", "Sorry, I won't hurt your feelings.") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Sorry, I won't hurt your feelings."
+msgstr ""
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "["
+msgstr ""
+
+# mes "Sorry. I had to be sure. I didn't know that you are from the royal palace.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Sorry. I had to be sure. I didn't know that you are from the royal palace."
+msgstr ""
+
+# mes "That's enough. Don't make this mistake again.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "That's enough. Don't make this mistake again."
+msgstr ""
+
+# mes "I'm a member here and have the authority to find out what your business is here.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I'm a member here and have the authority to find out what your business is here."
+msgstr ""
+
+# mes "You are a stranger and I'm not sure if you belong here.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You are a stranger and I'm not sure if you belong here."
+msgstr ""
+
+# mes "If you tell me your identity, I will apologize.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If you tell me your identity, I will apologize."
+msgstr ""
+
+# mes "You are so persistent.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You are so persistent."
+msgstr ""
+
+# mes "If you really want, I will introduce myself.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If you really want, I will introduce myself."
+msgstr ""
+
+# mes "I am Heinrich.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I am Heinrich."
+msgstr ""
+
+# mes "I'm collecting information about King Schmidtz's trace which has disappeared.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I'm collecting information about King Schmidtz's trace which has disappeared."
+msgstr ""
+
+# select("Schmidzt's trace? Is it a treasure?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Schmidzt's trace? Is it a treasure?"
+msgstr ""
+
+# mes "[Heinrich]";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "[Heinrich]"
+msgstr ""
+
+# mes "Most archaeologists are eager to get treasure. I'm looking for traces of the ^000099Royal Guard^000000 and their sons who belong to the Schmidtz line.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Most archaeologists are eager to get treasure. I'm looking for traces of the ^000099Royal Guard^000000 and their sons who belong to the Schmidtz line."
+msgstr ""
+
+# select("Royal Guard?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Royal Guard?"
+msgstr ""
+
+# mes "Sounds interesting doesn't it? I can't really say but their history and files are under strict security.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Sounds interesting doesn't it? I can't really say but their history and files are under strict security."
+msgstr ""
+
+# select("Can't you tell me?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Can't you tell me?"
+msgstr ""
+
+# mes "I can't really talk about the Royal Guard to just anyone who asks about them.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I can't really talk about the Royal Guard to just anyone who asks about them."
+msgstr ""
+
+# mes "BUT!! I want to believe you...";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "BUT!! I want to believe you..."
+msgstr ""
+
+# switch(select("I want to know more.", "Stop talking.")) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I want to know more."
+msgstr ""
+
+# switch(select("I want to know more.", "Stop talking.")) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Stop talking."
+msgstr ""
+
+# mes "You are impetuous.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You are impetuous."
+msgstr ""
+
+# mes "It's not a simple story to tell a person like you. Go back.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "It's not a simple story to tell a person like you. Go back."
+msgstr ""
+
+# mes "Good idea.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Good idea."
+msgstr ""
+
+# mes "Just forget it and let your mind do more worthy things.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Just forget it and let your mind do more worthy things."
+msgstr ""
+
+# mes "You are persistent friend.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You are persistent friend."
+msgstr ""
+
+# mes "Do you have more things to talk to me about?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Do you have more things to talk to me about?"
+msgstr ""
+
+# select("If you can't trust me, test me pal.");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If you can't trust me, test me pal."
+msgstr ""
+
+# mes "Test?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Test?"
+msgstr ""
+
+# mes "Did you say the test? Huhu!";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Did you say the test? Huhu!"
+msgstr ""
+
+# mes "Friend, you have shown your interest about my job, are you sure? Or are you kidding me?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Friend, you have shown your interest about my job, are you sure? Or are you kidding me?"
+msgstr ""
+
+# select("I'm serious!");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I'm serious!"
+msgstr ""
+
+# mes "Really?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Really?"
+msgstr ""
+
+# mes "Good. You might have the wrong idea about what a Royal Guard is. So, in your opinion, what do you think is the key to being a Royal Guard?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Good. You might have the wrong idea about what a Royal Guard is. So, in your opinion, what do you think is the key to being a Royal Guard?"
+msgstr ""
+
+# select("Decision and Bravery", "Calm Judgment", "Sharp wisdom", "Benevolent spirit");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Decision and Bravery"
+msgstr ""
+
+# select("Decision and Bravery", "Calm Judgment", "Sharp wisdom", "Benevolent spirit");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Calm Judgment"
+msgstr ""
+
+# select("Decision and Bravery", "Calm Judgment", "Sharp wisdom", "Benevolent spirit");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Sharp wisdom"
+msgstr ""
+
+# select("Decision and Bravery", "Calm Judgment", "Sharp wisdom", "Benevolent spirit");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Benevolent spirit"
+msgstr ""
+
+# mes "Good choice.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Good choice."
+msgstr ""
+
+# mes "Actually, the other 3 are also needed to have the Royal Guard spirit, friend.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Actually, the other 3 are also needed to have the Royal Guard spirit, friend."
+msgstr ""
+
+# mes "But according to research documents about the Royal Guard, the best belief is 'asceticism and endurance'.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "But according to research documents about the Royal Guard, the best belief is 'asceticism and endurance'."
+msgstr ""
+
+# mes "Did you get it?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Did you get it?"
+msgstr ""
+
+# mes "Asceticism and Endurance young one. It is a bit different from what you answered.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Asceticism and Endurance young one. It is a bit different from what you answered."
+msgstr ""
+
+# mes "You seem to have a large interest about this story but I can't tell you more.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You seem to have a large interest about this story but I can't tell you more."
+msgstr ""
+
+# mes "Only those who have qualification can hear the Royal Guard history.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Only those who have qualification can hear the Royal Guard history."
+msgstr ""
+
+# select("What can I do to hear that story?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "What can I do to hear that story?"
+msgstr ""
+
+# mes "^000099Heinrich has an agonized look on his face. Then he looked like he fell asleep. Finally he says with reckless abandon.^000000";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "^000099Heinrich has an agonized look on his face. Then he looked like he fell asleep. Finally he says with reckless abandon.^000000"
+msgstr ""
+
+# mes "You are too stubborn.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You are too stubborn."
+msgstr ""
+
+# mes "If so I will test you to see your asceticism and endurance.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If so I will test you to see your asceticism and endurance."
+msgstr ""
+
+# mes "Long ago King Schmidtz gave a title to a brave soldier who come back with 100 Sacred Marks.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Long ago King Schmidtz gave a title to a brave soldier who come back with 100 Sacred Marks."
+msgstr ""
+
+# mes "If you want to hear more story, you have to show me your similar attitude.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If you want to hear more story, you have to show me your similar attitude."
+msgstr ""
+
+# if(select("That's an unfair demand.", "I will try.") == 1) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "That's an unfair demand."
+msgstr ""
+
+# if(select("That's an unfair demand.", "I will try.") == 1) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I will try."
+msgstr ""
+
+# mes "Good idea, it would better to find something more worthy.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Good idea, it would better to find something more worthy."
+msgstr ""
+
+# mes "Ok, let's do it this way. Actually it's too difficult to collect 100 Sacred Marks, just show your ambition by collecting 100 Burning Hearts.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Ok, let's do it this way. Actually it's too difficult to collect 100 Sacred Marks, just show your ambition by collecting 100 Burning Hearts."
+msgstr ""
+
+# mes "If you bring them I can tell you more of the story. That means you show your endurance to me.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If you bring them I can tell you more of the story. That means you show your endurance to me."
+msgstr ""
+
+# mes "Don't forget to bring the 100 Burning Hearts.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Don't forget to bring the 100 Burning Hearts."
+msgstr ""
+
+# mes "Don't forget to bring 100 Burning Heart.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Don't forget to bring 100 Burning Heart."
+msgstr ""
+
+# mes "Did you get all of them?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Did you get all of them?"
+msgstr ""
+
+# mes "Most people just ignore me or give up the mission.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Most people just ignore me or give up the mission."
+msgstr ""
+
+# mes "Wait while I arrange the stuff that you brought.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Wait while I arrange the stuff that you brought."
+msgstr ""
+
+# mes "...";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "..."
+msgstr ""
+
+# mes "Good. I can feel truth from your heart. Now I can tell you more of the story.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Good. I can feel truth from your heart. Now I can tell you more of the story."
+msgstr ""
+
+# select("Ok tell me more.");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Ok tell me more."
+msgstr ""
+
+# mes "The best members of the Crusader and Paladin classes can gain the qualification of the Royal Guard.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "The best members of the Crusader and Paladin classes can gain the qualification of the Royal Guard."
+msgstr ""
+
+# mes "They are agents of the divine order and judge with swift punishment.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "They are agents of the divine order and judge with swift punishment."
+msgstr ""
+
+# mes "We still have many opinions about how they could have survived. Surely someone had to have believed that their history was not false.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "We still have many opinions about how they could have survived. Surely someone had to have believed that their history was not false."
+msgstr ""
+
+# select("Are there still documents?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Are there still documents?"
+msgstr ""
+
+# mes "Hmm, documents you say...";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Hmm, documents you say..."
+msgstr ""
+
+# mes "Unfortunately after King Schmidtz disappeared, traces of the Royal Guard disappeared.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Unfortunately after King Schmidtz disappeared, traces of the Royal Guard disappeared."
+msgstr ""
+
+# mes "Their history, belief, vision and fighting skill seemingly disappeared without any of the documents being saved.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Their history, belief, vision and fighting skill seemingly disappeared without any of the documents being saved."
+msgstr ""
+
+# mes "It's like it disappeared with the king.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "It's like it disappeared with the king."
+msgstr ""
+
+# select("So the reason of finding their traces...");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "So the reason of finding their traces..."
+msgstr ""
+
+# mes "I was worried about past Royal Guards that might not have been able to pass down their history.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I was worried about past Royal Guards that might not have been able to pass down their history."
+msgstr ""
+
+# mes "The mysterious power... can't appear anymore in the world. How disappointing is it~!";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "The mysterious power... can't appear anymore in the world. How disappointing is it~!"
+msgstr ""
+
+# mes "That's why I'm concentrating to revive their job.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "That's why I'm concentrating to revive their job."
+msgstr ""
+
+# select("How much progress have you made?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "How much progress have you made?"
+msgstr ""
+
+# mes "Fortunately, I excavated most of the treasures and interpreted them. I just have one trace left to find.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Fortunately, I excavated most of the treasures and interpreted them. I just have one trace left to find."
+msgstr ""
+
+# select("The rest of the traces?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "The rest of the traces?"
+msgstr ""
+
+# mes "The Royal Guard carved the mark of King Schmidtz on their clothes. The trace of this custom is the last clue.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "The Royal Guard carved the mark of King Schmidtz on their clothes. The trace of this custom is the last clue."
+msgstr ""
+
+# mes "According to reports from other cities the last trace possibly exists in a monastery inside of Glass Heim.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "According to reports from other cities the last trace possibly exists in a monastery inside of Glass Heim."
+msgstr ""
+
+# mes "But it is too dangerous for me there so I almost gave up.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "But it is too dangerous for me there so I almost gave up."
+msgstr ""
+
+# mes "Now I can't tell you why the trace is there.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Now I can't tell you why the trace is there."
+msgstr ""
+
+# if(select("Interesting. Can I go there?", "Seems really dangerous.") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Interesting. Can I go there?"
+msgstr ""
+
+# if(select("Interesting. Can I go there?", "Seems really dangerous.") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Seems really dangerous."
+msgstr ""
+
+# mes "Good idea, that's useless work to explore there.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Good idea, that's useless work to explore there."
+msgstr ""
+
+# mes "Are you kidding?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Are you kidding?"
+msgstr ""
+
+# mes "You shouldn't treat it like it's just some normal chore.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You shouldn't treat it like it's just some normal chore."
+msgstr ""
+
+# select("I'm not kidding. I'm serious.");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I'm not kidding. I'm serious."
+msgstr ""
+
+# mes "If you say it like that I don't have any more options.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "If you say it like that I don't have any more options."
+msgstr ""
+
+# mes "I don't know if it will be helpful or not. I will write an explanation in detail.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I don't know if it will be helpful or not. I will write an explanation in detail."
+msgstr ""
+
+# mes "^000099Here's the last trace of the Royal Guard. Open the quest window and check the position.^000000";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "^000099Here's the last trace of the Royal Guard. Open the quest window and check the position.^000000"
+msgstr ""
+
+# mes "Our staff has already left to find the last trace, so don't work too hard.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Our staff has already left to find the last trace, so don't work too hard."
+msgstr ""
+
+# mes "No, it's not the correct one that I want.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "No, it's not the correct one that I want."
+msgstr ""
+
+# mes "[Hainrich]";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "[Hainrich]"
+msgstr ""
+
+# mes "You surprised me. How did you get it? So far no one could get it.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "You surprised me. How did you get it? So far no one could get it."
+msgstr ""
+
+# mes "Thank you so much.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Thank you so much."
+msgstr ""
+
+# mes "Thanks to your effort I can find the last clue. How amazing~!";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Thanks to your effort I can find the last clue. How amazing~!"
+msgstr ""
+
+# mes "^000099Heinrich hesitated and brought an old shield from the side of the office.^000000";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "^000099Heinrich hesitated and brought an old shield from the side of the office.^000000"
+msgstr ""
+
+# mes "Our staff excavated it. They assumed that King Schmidtz used it. But it wasn't used by him.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Our staff excavated it. They assumed that King Schmidtz used it. But it wasn't used by him."
+msgstr ""
+
+# select("Sure it's wasn't used by the King?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Sure it's wasn't used by the King?"
+msgstr ""
+
+# mes "I can't be entirely sure.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I can't be entirely sure."
+msgstr ""
+
+# mes "Maybe you are right but, according to when we did the initial identification we can be sure it wasn't used.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Maybe you are right but, according to when we did the initial identification we can be sure it wasn't used."
+msgstr ""
+
+# mes "But it's an old treasure so, somehow it will be useful. I might know how to use it.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "But it's an old treasure so, somehow it will be useful. I might know how to use it."
+msgstr ""
+
+# select("Can I keep it?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Can I keep it?"
+msgstr ""
+
+# mes "Of course.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Of course."
+msgstr ""
+
+# mes "Someday it might be useful to you.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Someday it might be useful to you."
+msgstr ""
+
+# mes "^000099You get the shield from Heinrich. There are some letters carved on the inside of the shield.^000000 ";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "^000099You get the shield from Heinrich. There are some letters carved on the inside of the shield.^000000 "
+msgstr ""
+
+# mes "^000099If you want to see the letters, please check the quest window.^000000";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "^000099If you want to see the letters, please check the quest window.^000000"
+msgstr ""
+
+# mes "Ok~~ now.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Ok~~ now."
+msgstr ""
+
+# mes "I'll be deciphering the cloth for now so I will be very busy!";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "I'll be deciphering the cloth for now so I will be very busy!"
+msgstr ""
+
+# mes "What? Did you lose the shield? What is the one on your back?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "What? Did you lose the shield? What is the one on your back?"
+msgstr ""
+
+# mes "Thanks to your help I can finish the excavation work. Thanks a lot.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Middle-aged Gentleman#rg"
+msgid "Thanks to your help I can finish the excavation work. Thanks a lot."
+msgstr ""
+
+# mes "- Your pack is too heavy. -";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "- Your pack is too heavy. -"
+msgstr ""
+
+# mes "- Lighten your body first -";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "- Lighten your body first -"
+msgstr ""
+
+# mes "- and please try again. -";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "- and please try again. -"
+msgstr ""
+
+# mes " Please unequip your riding pet and try again!";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid " Please unequip your riding pet and try again!"
+msgstr ""
+
+# mes "^000099You seem to have lost the shield. Go back to Heinrich and ask for help^000000.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "^000099You seem to have lost the shield. Go back to Heinrich and ask for help^000000."
+msgstr ""
+
+# mes "[Memory of King Schmidtz]";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "[Memory of King Schmidtz]"
+msgstr ""
+
+# mes "Who are you?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Who are you?"
+msgstr ""
+
+# select("I brought a relic...");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "I brought a relic..."
+msgstr ""
+
+# mes "My relic?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "My relic?"
+msgstr ""
+
+# mes "Too bad. Here is one more friend who has been cheated by Heinrich.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Too bad. Here is one more friend who has been cheated by Heinrich."
+msgstr ""
+
+# select("Do you know Heinrich?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Do you know Heinrich?"
+msgstr ""
+
+# mes "He was my faithful adjutant. And he has continued to be so for hundreds of years.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "He was my faithful adjutant. And he has continued to be so for hundreds of years."
+msgstr ""
+
+# select("How has he lived for hundreds...");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "How has he lived for hundreds..."
+msgstr ""
+
+# mes "Maybe his body is just a cast. He found a way to move from body to body in order to stay alive.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Maybe his body is just a cast. He found a way to move from body to body in order to stay alive."
+msgstr ""
+
+# mes "He doesn't want to accept my death and wanders the world, continuing to find Royal Guards.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "He doesn't want to accept my death and wanders the world, continuing to find Royal Guards."
+msgstr ""
+
+# select("What's the meaning of this shield?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "What's the meaning of this shield?"
+msgstr ""
+
+# mes "The shield from Heinrich is our contract before I died.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "The shield from Heinrich is our contract before I died."
+msgstr ""
+
+# mes "Heinrich was charged with finding the proper people to become Royal Guards, the shield was to be the contract.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Heinrich was charged with finding the proper people to become Royal Guards, the shield was to be the contract."
+msgstr ""
+
+# mes "To him, this was the last order that I gave to him.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "To him, this was the last order that I gave to him."
+msgstr ""
+
+# mes "Now he doesn't need to do it anymore, but will remain as a fool whom can't forget his King's final order.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Now he doesn't need to do it anymore, but will remain as a fool whom can't forget his King's final order."
+msgstr ""
+
+# select("So what now? Can I leave?");
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "So what now? Can I leave?"
+msgstr ""
+
+# mes "Sorry but I can't send you now.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Sorry but I can't send you now."
+msgstr ""
+
+# mes "This is a contract with Heinrich so I have to keep it. You look faithful and brave.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "This is a contract with Heinrich so I have to keep it. You look faithful and brave."
+msgstr ""
+
+# mes "Now, it's time to keep the promise with Heinrich. It's up to you.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Now, it's time to keep the promise with Heinrich. It's up to you."
+msgstr ""
+
+# mes "I'm planning to accept you as a member of the Royal Guard to continue their lost traditions. Are you ready to do it?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "I'm planning to accept you as a member of the Royal Guard to continue their lost traditions. Are you ready to do it?"
+msgstr ""
+
+# if(select("Sure, of course", "Not yet") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Sure, of course"
+msgstr ""
+
+# if(select("Sure, of course", "Not yet") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Not yet"
+msgstr ""
+
+# mes "Umm, maybe Heinrich had wrong judgement.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Umm, maybe Heinrich had wrong judgement."
+msgstr ""
+
+# mes "If so, I will proceed to making you a Royal Guard.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "If so, I will proceed to making you a Royal Guard."
+msgstr ""
+
+# if(select("Great.", "Not yet.") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Great."
+msgstr ""
+
+# if(select("Great.", "Not yet.") == 2) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Not yet."
+msgstr ""
+
+# mes "Perhaps Heinrich had the wrong image of you.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Perhaps Heinrich had the wrong image of you."
+msgstr ""
+
+# mes "Look at your body before that!";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Look at your body before that!"
+msgstr ""
+
+# mes "Are still sentimentally attached to yourself?";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Are still sentimentally attached to yourself?"
+msgstr ""
+
+# mes "You cannot inherit the Royal Guard!";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "You cannot inherit the Royal Guard!"
+msgstr ""
+
+# mes "Congratulations! Young Royal Guard.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Congratulations! Young Royal Guard."
+msgstr ""
+
+# mes "Be a symbol of honor and continue the great tradition of your new name.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Memory of King Schmidtz"
+msgid "Be a symbol of honor and continue the great tradition of your new name."
+msgstr ""
+
+# mes "While investigating, the topography breaks. It would be better to dig other places for a while.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Delicate trace#01"
+msgid "While investigating, the topography breaks. It would be better to dig other places for a while."
+msgstr ""
+
+# mes "There is a trace that someone has already dug here.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "Delicate trace#01"
+msgid "There is a trace that someone has already dug here."
+msgstr ""
+
+# mes "I can feel strong power around here. It would be better to explore around here.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "#Clue of traces"
+msgid "I can feel strong power around here. It would be better to explore around here."
+msgstr ""
+
+# switch(select("Royal Guard", "Rune Knight", "Sorcerer")) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "Royal Guard"
+msgstr ""
+
+# switch(select("Royal Guard", "Rune Knight", "Sorcerer")) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "Rune Knight"
+msgstr ""
+
+# switch(select("Royal Guard", "Rune Knight", "Sorcerer")) {
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "Sorcerer"
+msgstr ""
+
+# mes "1~5";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "1~5"
+msgstr ""
+
+# mes "Set item to adjust the Royal Guard";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "Set item to adjust the Royal Guard"
+msgstr ""
+
+# mes "You can only set a number between 1 to 5.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "You can only set a number between 1 to 5."
+msgstr ""
+
+# mes "Completed";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "Completed"
+msgstr ""
+
+# mes "1~24";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "1~24"
+msgstr ""
+
+# mes "Set item to adjust the Rune Knight";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "Set item to adjust the Rune Knight"
+msgstr ""
+
+# mes "You can only set a nbumber between 1 to 24.";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "You can only set a nbumber between 1 to 24."
+msgstr ""
+
+# mes "Set item to adjust the Sorcerer";
+#: npc/re/jobs/3-2/royal_guard.txt
+msgctxt "sorcereryal"
+msgid "Set item to adjust the Sorcerer"
+msgstr ""
+

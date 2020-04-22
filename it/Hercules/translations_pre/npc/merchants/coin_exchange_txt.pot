@@ -1,0 +1,162 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2020-04-22 09:42\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/merchants/coin_exchange_txt.pot\n"
+
+# mes "It looks like you're carrying too many things.";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "It looks like you're carrying too many things."
+msgstr ""
+
+# mes "Why not put some of your items in storage and come back?";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Why not put some of your items in storage and come back?"
+msgstr ""
+
+# mes "Hello.";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Hello."
+msgstr ""
+
+# mes "What are you looking for?";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "What are you looking for?"
+msgstr ""
+
+# .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "View item description"
+msgstr ""
+
+# .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Manuk's Opportunity"
+msgstr ""
+
+# .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Manuk's Courage"
+msgstr ""
+
+# .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Manuk's Faith"
+msgstr ""
+
+# .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Cancel"
+msgstr ""
+
+# .@i = select("View item description", "Buy Pinguicula's Fruit Jam", "Buy Luciola's Honey Jam", "Buy Cornus' Tears", "Do nothing");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Buy Pinguicula's Fruit Jam"
+msgstr ""
+
+# .@i = select("View item description", "Buy Pinguicula's Fruit Jam", "Buy Luciola's Honey Jam", "Buy Cornus' Tears", "Do nothing");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Buy Luciola's Honey Jam"
+msgstr ""
+
+# .@i = select("View item description", "Buy Pinguicula's Fruit Jam", "Buy Luciola's Honey Jam", "Buy Cornus' Tears", "Do nothing");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Buy Cornus' Tears"
+msgstr ""
+
+# .@i = select("View item description", "Buy Pinguicula's Fruit Jam", "Buy Luciola's Honey Jam", "Buy Cornus' Tears", "Do nothing");
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Do nothing"
+msgstr ""
+
+# mes "Here are the item descriptions.";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Here are the item descriptions."
+msgstr ""
+
+# mes "I can sell you 3 "+getitemname(.@items[.@i])+" for ^3131FF1 coin^000000.";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "I can sell you 3 "
+msgstr ""
+
+# switch(select("Purchase", "Do not purchase")) {
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Purchase"
+msgstr ""
+
+# switch(select("Purchase", "Do not purchase")) {
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Do not purchase"
+msgstr ""
+
+# mes "Thank you for coming.";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Thank you for coming."
+msgstr ""
+
+# mes "You don't have enough coins.";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "You don't have enough coins."
+msgstr ""
+
+# mes "Come again if you change your mind.";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Come again if you change your mind."
+msgstr ""
+
+# mes "Rtt od d";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Rtt od d"
+msgstr ""
+
+# mes "Qwo hd is d irr";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "Qwo hd is d irr"
+msgstr ""
+
+# mes "BurWehAla";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "BurWehAla"
+msgstr ""
+
+# mes "tasnarAndu Ie Ru";
+#: npc/merchants/coin_exchange.txt
+msgctxt "::merchant_13_2"
+msgid "tasnarAndu Ie Ru"
+msgstr ""
+

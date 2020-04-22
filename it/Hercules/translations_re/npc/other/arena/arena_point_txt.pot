@@ -1,0 +1,426 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:52+0200\n"
+"PO-Revision-Date: 2020-04-22 09:39\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/other/arena/arena_point_txt.pot\n"
+
+# mes "[Arena Point Manager]";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "[Arena Point Manager]"
+msgstr ""
+
+# mes "I hope you're having a good";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "I hope you're having a good"
+msgstr ""
+
+# mes "time in the Arena. If you've";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "time in the Arena. If you've"
+msgstr ""
+
+# mes "earned Turbo Track Points at";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "earned Turbo Track Points at"
+msgstr ""
+
+# mes "Al De Baran's Turbo Track, I can,";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Al De Baran's Turbo Track, I can,"
+msgstr ""
+
+# mes "convert them into Arena Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "convert them into Arena Points."
+msgstr ""
+
+# switch(select("Point Check", "Convert Points", "^660000Conversion Info^000000")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Point Check"
+msgstr ""
+
+# switch(select("Point Check", "Convert Points", "^660000Conversion Info^000000")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Convert Points"
+msgstr ""
+
+# switch(select("Point Check", "Convert Points", "^660000Conversion Info^000000")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "^660000Conversion Info^000000"
+msgstr ""
+
+# mes "you currently have";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "you currently have"
+msgstr ""
+
+# mes "" + arena_point + " Arena Points";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid " Arena Points"
+msgstr ""
+
+# mes "and " + tt_point + " Turbo Track Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "and "
+msgstr ""
+
+# mes "and " + tt_point + " Turbo Track Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid " Turbo Track Points."
+msgstr ""
+
+# mes "Please choose from among";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Please choose from among"
+msgstr ""
+
+# mes "the Track Point to Arena Point";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "the Track Point to Arena Point"
+msgstr ""
+
+# mes "conversions. Keep in mind that";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "conversions. Keep in mind that"
+msgstr ""
+
+# mes "when you convert more than 10";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "when you convert more than 10"
+msgstr ""
+
+# mes "Track Points at one time, you can only convert in ^4D4DFFmultiples of 10^000000.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Track Points at one time, you can only convert in ^4D4DFFmultiples of 10^000000."
+msgstr ""
+
+# switch(select("2 TP -> 1 AP", "4 TP -> 2 AP", "6 TP -> 3 AP", "8 TP -> 4 AP", "10 TP and more", "Cancel")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "2 TP -> 1 AP"
+msgstr ""
+
+# switch(select("2 TP -> 1 AP", "4 TP -> 2 AP", "6 TP -> 3 AP", "8 TP -> 4 AP", "10 TP and more", "Cancel")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "4 TP -> 2 AP"
+msgstr ""
+
+# switch(select("2 TP -> 1 AP", "4 TP -> 2 AP", "6 TP -> 3 AP", "8 TP -> 4 AP", "10 TP and more", "Cancel")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "6 TP -> 3 AP"
+msgstr ""
+
+# switch(select("2 TP -> 1 AP", "4 TP -> 2 AP", "6 TP -> 3 AP", "8 TP -> 4 AP", "10 TP and more", "Cancel")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "8 TP -> 4 AP"
+msgstr ""
+
+# switch(select("2 TP -> 1 AP", "4 TP -> 2 AP", "6 TP -> 3 AP", "8 TP -> 4 AP", "10 TP and more", "Cancel")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "10 TP and more"
+msgstr ""
+
+# switch(select("2 TP -> 1 AP", "4 TP -> 2 AP", "6 TP -> 3 AP", "8 TP -> 4 AP", "10 TP and more", "Cancel")) {
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Cancel"
+msgstr ""
+
+# mes "Please enter the number";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Please enter the number"
+msgstr ""
+
+# mes "of times you wish to convert";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "of times you wish to convert"
+msgstr ""
+
+# mes "10 Turbo Track Points into";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "10 Turbo Track Points into"
+msgstr ""
+
+# mes "Arena Points. The largest";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Arena Points. The largest"
+msgstr ""
+
+# mes "value you may enter is 20.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "value you may enter is 20."
+msgstr ""
+
+# mes "To cancel, enter ''^3355FF0^000000.''";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "To cancel, enter ''^3355FF0^000000.''"
+msgstr ""
+
+# mes "You have";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "You have"
+msgstr ""
+
+# mes "canceled";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "canceled"
+msgstr ""
+
+# mes "this service.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "this service."
+msgstr ""
+
+# mes "Your request exceeds";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Your request exceeds"
+msgstr ""
+
+# mes "the maximum limit. Please";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "the maximum limit. Please"
+msgstr ""
+
+# mes "enter a value no greater than 20.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "enter a value no greater than 20."
+msgstr ""
+
+# mes "You will exceed the";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "You will exceed the"
+msgstr ""
+
+# mes "maximum amount of";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "maximum amount of"
+msgstr ""
+
+# mes "Arena Points if we proceed";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Arena Points if we proceed"
+msgstr ""
+
+# mes "with this conversion of your";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "with this conversion of your"
+msgstr ""
+
+# mes "Turbo Track Points. You cannot";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Turbo Track Points. You cannot"
+msgstr ""
+
+# mes "have more than 29,000 Arena Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "have more than 29,000 Arena Points."
+msgstr ""
+
+# mes "Please spend some of";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Please spend some of"
+msgstr ""
+
+# mes "your Arena Points before";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "your Arena Points before"
+msgstr ""
+
+# mes "using this service again.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "using this service again."
+msgstr ""
+
+# mes "Thank you for your patronage.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Thank you for your patronage."
+msgstr ""
+
+# mes "I'm sorry, but";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "I'm sorry, but"
+msgstr ""
+
+# mes "you don't have enough";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "you don't have enough"
+msgstr ""
+
+# mes "Turbo Track Points to";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Turbo Track Points to"
+msgstr ""
+
+# mes "perform this Arena";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "perform this Arena"
+msgstr ""
+
+# mes "Point conversion.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Point conversion."
+msgstr ""
+
+# mes "You have converted";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "You have converted"
+msgstr ""
+
+# mes "10 Turbo Track Points";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "10 Turbo Track Points"
+msgstr ""
+
+# mes "into 5 Arena Points " + .@input + " times.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "into 5 Arena Points "
+msgstr ""
+
+# mes "into 5 Arena Points " + .@input + " times.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid " times."
+msgstr ""
+
+# mes "A total of " + .@want_point1 + " Turbo Track Points were converted into";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "A total of "
+msgstr ""
+
+# mes "A total of " + .@want_point1 + " Turbo Track Points were converted into";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid " Turbo Track Points were converted into"
+msgstr ""
+
+# mes "" + .@want_point +" Arena Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid " Arena Points."
+msgstr ""
+
+# mes "you now have";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "you now have"
+msgstr ""
+
+# mes "^4682B4" + arena_point + "^000000 Arena Points";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "^4682B4"
+msgstr ""
+
+# mes "^4682B4" + arena_point + "^000000 Arena Points";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "^000000 Arena Points"
+msgstr ""
+
+# mes "and ^00688B" + tt_point + "^000000 Turbo Track Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "and ^00688B"
+msgstr ""
+
+# mes "and ^00688B" + tt_point + "^000000 Turbo Track Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "^000000 Turbo Track Points."
+msgstr ""
+
+# mes "you've converted "+getarg(1)+" Track";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "you've converted "
+msgstr ""
+
+# mes "Points into "+getarg(2)+" Arena Point.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "Points into "
+msgstr ""
+
+# mes "I'm sorry, but you don't have";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "I'm sorry, but you don't have"
+msgstr ""
+
+# mes "enough Turbo Track Points.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "enough Turbo Track Points."
+msgstr ""
+
+# mes "You need at least 2 Turbo Track Points for this conversion service.";
+#: npc/other/arena/arena_point.txt
+msgctxt "Arena Point Manager"
+msgid "You need at least 2 Turbo Track Points for this conversion service."
+msgstr ""
+

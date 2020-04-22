@@ -1,0 +1,2388 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:28\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/merchants/enchan_mora_txt.pot\n"
+
+# mes "You have too many kinds of things with you to do that. Throw out some of them and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "You have too many kinds of things with you to do that. Throw out some of them and try again."
+msgstr ""
+
+# mes "You are carrying too much weight to do that. Reduce the weight and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "You are carrying too much weight to do that. Reduce the weight and try again."
+msgstr ""
+
+# mes "[Artifice]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "[Artifice]"
+msgstr ""
+
+# mes "Relics for Archbishops are meant for defense and support!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Relics for Archbishops are meant for defense and support!"
+msgstr ""
+
+# mes "Like the other Guardians, they may trade coins for their relics, so collect Mora Coins!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Like the other Guardians, they may trade coins for their relics, so collect Mora Coins!"
+msgstr ""
+
+# mes "If you collect more than 10 coins then come to me to trade!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "If you collect more than 10 coins then come to me to trade!"
+msgstr ""
+
+# mes "By the light! You look like you are ready to gain access to our relics.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "By the light! You look like you are ready to gain access to our relics."
+msgstr ""
+
+# mes "Ring, Shoes, Shawl, Robe, Shield, or Weapon.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Ring, Shoes, Shawl, Robe, Shield, or Weapon."
+msgstr ""
+
+# mes "Select one of the six kinds of relics to receive.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Select one of the six kinds of relics to receive."
+msgstr ""
+
+# mes "I'll randomly give you one of 2 types of the equipment, depending upon the weather and my mood.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "I'll randomly give you one of 2 types of the equipment, depending upon the weather and my mood."
+msgstr ""
+
+# mes "All I need is 10 Mora Coins of yours to grant you a relic!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "All I need is 10 Mora Coins of yours to grant you a relic!"
+msgstr ""
+
+# switch(select("I don't think I'm ready.", "I'm ready to exchange my Mora Coins.", "Exchange my Ring.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "I don't think I'm ready."
+msgstr ""
+
+# switch(select("I don't think I'm ready.", "I'm ready to exchange my Mora Coins.", "Exchange my Ring.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "I'm ready to exchange my Mora Coins."
+msgstr ""
+
+# switch(select("I don't think I'm ready.", "I'm ready to exchange my Mora Coins.", "Exchange my Ring.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Exchange my Ring."
+msgstr ""
+
+# mes "See you next time!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "See you next time!"
+msgstr ""
+
+# mes "What kind of relic do you want?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "What kind of relic do you want?"
+msgstr ""
+
+# switch(select("I'm not ready.", "Ring", "Shoes", "Shawl", "Robe", "Shield", "Weapon")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "I'm not ready."
+msgstr ""
+
+# switch(select("I'm not ready.", "Ring", "Shoes", "Shawl", "Robe", "Shield", "Weapon")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Ring"
+msgstr ""
+
+# switch(select("I'm not ready.", "Ring", "Shoes", "Shawl", "Robe", "Shield", "Weapon")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Shoes"
+msgstr ""
+
+# switch(select("I'm not ready.", "Ring", "Shoes", "Shawl", "Robe", "Shield", "Weapon")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Shawl"
+msgstr ""
+
+# switch(select("I'm not ready.", "Ring", "Shoes", "Shawl", "Robe", "Shield", "Weapon")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Robe"
+msgstr ""
+
+# switch(select("I'm not ready.", "Ring", "Shoes", "Shawl", "Robe", "Shield", "Weapon")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Shield"
+msgstr ""
+
+# switch(select("I'm not ready.", "Ring", "Shoes", "Shawl", "Robe", "Shield", "Weapon")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Weapon"
+msgstr ""
+
+# mes "Go with the light.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Go with the light."
+msgstr ""
+
+# mes "You are already allowed access to our relics by your possession of a Ring!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "You are already allowed access to our relics by your possession of a Ring!"
+msgstr ""
+
+# mes "We prefer to only deal with Arch-Bishops.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "We prefer to only deal with Arch-Bishops."
+msgstr ""
+
+# mes "You have obtained ^aa00aa"+getitemname(.@item)+"^000000. May the Blessing of the Light be with you.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "You have obtained ^aa00aa"
+msgstr ""
+
+# mes "We exchange rings into coins for those who cannot control the ring.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "We exchange rings into coins for those who cannot control the ring."
+msgstr ""
+
+# mes "It seems that you have power to control the ring so I cannot exchange it into coins.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "It seems that you have power to control the ring so I cannot exchange it into coins."
+msgstr ""
+
+# mes "Did you change something?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Did you change something?"
+msgstr ""
+
+# mes "You have a "+getitemname(.@item)+". Do you really want to trade it for 10 Mora Coins?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "You have a "
+msgstr ""
+
+# switch(select("I'm not ready", "Exchange my "+getitemname(.@item))) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "I'm not ready"
+msgstr ""
+
+# switch(select("I'm not ready", "Exchange my "+getitemname(.@item))) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "Exchange my "
+msgstr ""
+
+# mes "If you change your mind, please stop by again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "If you change your mind, please stop by again."
+msgstr ""
+
+# mes "I think that was an even trade.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Keeper of Secrets#pa082"
+msgid "I think that was an even trade."
+msgstr ""
+
+# mes "You have too many kinds of things with you to do that. Throw out some of them and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "You have too many kinds of things with you to do that. Throw out some of them and try again."
+msgstr ""
+
+# mes "You are carrying too much weight to do that. Reduce the weight and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "You are carrying too much weight to do that. Reduce the weight and try again."
+msgstr ""
+
+# mes "[Relice]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "[Relice]"
+msgstr ""
+
+# mes "I enhance Relics that holy Arch-Bishops use, it will take 2 Mora Coins and the relic to allow me to attempt to enhance it.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "I enhance Relics that holy Arch-Bishops use, it will take 2 Mora Coins and the relic to allow me to attempt to enhance it."
+msgstr ""
+
+# switch(select("More details please.", "Please Enhance my Relic.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "More details please."
+msgstr ""
+
+# switch(select("More details please.", "Please Enhance my Relic.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Please Enhance my Relic."
+msgstr ""
+
+# mes "Let me briefly explain, for 2 Mora Coins and the relic I can give you a single Enchantment on that relic.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Let me briefly explain, for 2 Mora Coins and the relic I can give you a single Enchantment on that relic."
+msgstr ""
+
+# mes "Even though this relic was already enchanted, we will re-enchant it without checking its status.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Even though this relic was already enchanted, we will re-enchant it without checking its status."
+msgstr ""
+
+# mes "So it you have already enchanted relic, please put it some place safe and come back.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "So it you have already enchanted relic, please put it some place safe and come back."
+msgstr ""
+
+# mes "Ah, one more thing! It is possible I can fail though and if that happens the relic is lost forever.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Ah, one more thing! It is possible I can fail though and if that happens the relic is lost forever."
+msgstr ""
+
+# mes "Ok, you can get a new Relic from Artifice if it fails.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Ok, you can get a new Relic from Artifice if it fails."
+msgstr ""
+
+# mes "If you have a ritual for luck, you should use it now!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "If you have a ritual for luck, you should use it now!"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Wait a minute!"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Light of Cure"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Seal of Cathedral"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Ring of Archbishop"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Shoes of Affection"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Shoes of Judgement"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Shawl of Affection"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Shawl of Judgement"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Robe of Affection"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Robe of Judgement"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Bible of Promise 1st Vol"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Wand of Affection"
+msgstr ""
+
+# .@select = select("Wait a minute!", "Light of Cure", "Seal of Cathedral", "Ring of Archbishop", "Shoes of Affection", "Shoes of Judgement", "Shawl of Affection", "Shawl of Judgement", "Robe of Affection", "Robe of Judgement", "Bible of Promise 1st Vol", "Wand of Affection", "Mace of Judgement");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Mace of Judgement"
+msgstr ""
+
+# mes "Certainly. Go with the Light.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Certainly. Go with the Light."
+msgstr ""
+
+# mes "For 2 Mora Coins I can strengthen the relic you have in many ways!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "For 2 Mora Coins I can strengthen the relic you have in many ways!"
+msgstr ""
+
+# mes "Sometimes things just don't work out the way you want. I hope next time things go better for you. Until then, good bye.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "Sometimes things just don't work out the way you want. I hope next time things go better for you. Until then, good bye."
+msgstr ""
+
+# mes "The strengthening went well, lucky you!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master of Relics#pa0829"
+msgid "The strengthening went well, lucky you!"
+msgstr ""
+
+# mes "You have too many kinds of things with you to do that. Throw out some of them and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "You have too many kinds of things with you to do that. Throw out some of them and try again."
+msgstr ""
+
+# mes "You are carrying too much weight to do that. Reduce the weight and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "You are carrying too much weight to do that. Reduce the weight and try again."
+msgstr ""
+
+# mes "[Guardian of Artifacts]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "[Guardian of Artifacts]"
+msgstr ""
+
+# mes "My job is to guard the Warlock's ancient artifacts.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "My job is to guard the Warlock's ancient artifacts."
+msgstr ""
+
+# mes "Well, it's not a big deal actually. I give out artifacts to those who deserve them for the price of a few Mora Coins.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Well, it's not a big deal actually. I give out artifacts to those who deserve them for the price of a few Mora Coins."
+msgstr ""
+
+# mes "You can trade with me when you have 10 or more Coins. See you later.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "You can trade with me when you have 10 or more Coins. See you later."
+msgstr ""
+
+# mes "Wow~ I see you're ready for the Warlock's Ancient Artifacts.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Wow~ I see you're ready for the Warlock's Ancient Artifacts."
+msgstr ""
+
+# mes "You can choose from four types of items:";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "You can choose from four types of items:"
+msgstr ""
+
+# mes "staffs, orbs, shoes, and robes.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "staffs, orbs, shoes, and robes."
+msgstr ""
+
+# mes "There are four options available for each type, but the item available will change day to day, depending on my mood.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "There are four options available for each type, but the item available will change day to day, depending on my mood."
+msgstr ""
+
+# mes "Do you want to buy an artifact with your Mora Coins?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Do you want to buy an artifact with your Mora Coins?"
+msgstr ""
+
+# if(select("Maybe later... I have things to do.", "Yes, I do.") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Maybe later... I have things to do."
+msgstr ""
+
+# if(select("Maybe later... I have things to do.", "Yes, I do.") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Yes, I do."
+msgstr ""
+
+# mes "Okay, see you later then.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Okay, see you later then."
+msgstr ""
+
+# mes "What type of item do you want to buy?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "What type of item do you want to buy?"
+msgstr ""
+
+# switch(select("Quit", "Shoes", "Orbs", "Robes", "Staves")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Quit"
+msgstr ""
+
+# switch(select("Quit", "Shoes", "Orbs", "Robes", "Staves")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Shoes"
+msgstr ""
+
+# switch(select("Quit", "Shoes", "Orbs", "Robes", "Staves")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Orbs"
+msgstr ""
+
+# switch(select("Quit", "Shoes", "Orbs", "Robes", "Staves")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Robes"
+msgstr ""
+
+# switch(select("Quit", "Shoes", "Orbs", "Robes", "Staves")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Staves"
+msgstr ""
+
+# mes "Would you please come back when you have enough Coins?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "Would you please come back when you have enough Coins?"
+msgstr ""
+
+# mes "I have ^aa00aa"+getitemname(.@item)+"^000000 available today. I hope "+((.@plural)?"they":"it")+" will come in handy...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Artifacts#p"
+msgid "I have ^aa00aa"
+msgstr ""
+
+# mes "You have too many kinds of things with you to do that. Throw out some of them and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "You have too many kinds of things with you to do that. Throw out some of them and try again."
+msgstr ""
+
+# mes "You are carrying too much weight to do that. Reduce the weight and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "You are carrying too much weight to do that. Reduce the weight and try again."
+msgstr ""
+
+# mes "[Artifact Crafter]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "[Artifact Crafter]"
+msgstr ""
+
+# mes "My job is to imbue artifacts with new power. If you have enough Coins, you can have one of the following items reinforced.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "My job is to imbue artifacts with new power. If you have enough Coins, you can have one of the following items reinforced."
+msgstr ""
+
+# if(select("Tell me more.", "I want to have my item reinforced.") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Tell me more."
+msgstr ""
+
+# if(select("Tell me more.", "I want to have my item reinforced.") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "I want to have my item reinforced."
+msgstr ""
+
+# mes "Let me explain. One reinforcement costs you two Coins.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Let me explain. One reinforcement costs you two Coins."
+msgstr ""
+
+# mes "And, I'll work on the item whether it's been already reinforced or not.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "And, I'll work on the item whether it's been already reinforced or not."
+msgstr ""
+
+# mes "So if you have an artifact reinforced to your liking, put it in a safe place and come back.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "So if you have an artifact reinforced to your liking, put it in a safe place and come back."
+msgstr ""
+
+# mes "And another thing, the artifact will be destroyed if the reinforcement fails. Please keep that in mind.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "And another thing, the artifact will be destroyed if the reinforcement fails. Please keep that in mind."
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Maybe next time."
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Golden Rod Staff"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Aqua Staff"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Crimson Staff"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Forest Staff"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Golden Rod Shoes"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Aqua Shoes"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Crimson Shoes"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Forest Shoes"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Golden Rod Orb"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Aqua Orb"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Crimson Orb"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Forest Orb"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Golden Rod Robe"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Aqua Robe"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Crimson Robe"
+msgstr ""
+
+# .@select = select("Maybe next time.", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff", "Golden Rod Shoes", "Aqua Shoes", "Crimson Shoes", "Forest Shoes", "Golden Rod Orb", "Aqua Orb", "Crimson Orb", "Forest Orb", "Golden Rod Robe", "Aqua Robe", "Crimson Robe", "Forest Robe");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Forest Robe"
+msgstr ""
+
+# mes "As you wish.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "As you wish."
+msgstr ""
+
+# mes "You have to have 2 Mora Coins and an item to be reinforced before I can do my work.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "You have to have 2 Mora Coins and an item to be reinforced before I can do my work."
+msgstr ""
+
+# mes "Oh no... it broke... Well, it happens. Better luck next time.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Oh no... it broke... Well, it happens. Better luck next time."
+msgstr ""
+
+# mes "Looks like my effort was successful.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Crafter#pa0829"
+msgid "Looks like my effort was successful."
+msgstr ""
+
+# mes "Reduce the amount of items that you have in your inventory before continuing.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Reduce the amount of items that you have in your inventory before continuing."
+msgstr ""
+
+# mes "You are carrying too much in your inventory.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "You are carrying too much in your inventory."
+msgstr ""
+
+# mes "[Guardian of Power]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "[Guardian of Power]"
+msgstr ""
+
+# mes "I give Rune Knights, Guillotine Crosses, and Rangers ancient artifacts to help them carry out their missions.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "I give Rune Knights, Guillotine Crosses, and Rangers ancient artifacts to help them carry out their missions."
+msgstr ""
+
+# mes "There are guardians that give Mora Village coins which you can use to exchange for these artifacts.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "There are guardians that give Mora Village coins which you can use to exchange for these artifacts."
+msgstr ""
+
+# mes "If you collect 10 or more Mora coins, then I can trade them for the artifacts.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "If you collect 10 or more Mora coins, then I can trade them for the artifacts."
+msgstr ""
+
+# mes "I think that you're ready to receive the ancient artifacts.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "I think that you're ready to receive the ancient artifacts."
+msgstr ""
+
+# mes "Based on what class you specify, there are various artifacts available.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Based on what class you specify, there are various artifacts available."
+msgstr ""
+
+# mes "^ff0000Choose carefully because these artifacts aren't easy to come by^000000. So what class do you want it for?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "^ff0000Choose carefully because these artifacts aren't easy to come by^000000. So what class do you want it for?"
+msgstr ""
+
+# .@job = select("Cancel", "Rune Knight", "Guillotine Cross", "Ranger")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Cancel"
+msgstr ""
+
+# mes "Talk to me later then.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Talk to me later then."
+msgstr ""
+
+# mes .@jobs$[.@job]+"?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "?"
+msgstr ""
+
+# mes "Which artifact do you want?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Which artifact do you want?"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Ur's Greaves (Shoes)"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Ur's Manteau (Garment)"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Ur's Seal (Accessory)"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Ur's Plate (Armor)"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Peuz's Greaves (Shoes)"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Peuz's Manteau (Garment)"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Peuz's Seal (Accessory)"
+msgstr ""
+
+# .@i = select("Cancel", "Ur's Greaves (Shoes)", "Ur's Manteau (Garment)", "Ur's Seal (Accessory)", "Ur's Plate (Armor)", "Peuz's Greaves (Shoes)", "Peuz's Manteau (Garment)", "Peuz's Seal (Accessory)", "Peuz's Plate (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Peuz's Plate (Armor)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Sapha Shoes (Shoes)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Sapha Hood (Garment)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Sapha Ring (Accessory)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Sapha's Cloth (Armor)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Nab Shoes (Shoes)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Nab Hood (Garment)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Nab Ring (Accessory)"
+msgstr ""
+
+# .@i = select("Cancel", "Sapha Shoes (Shoes)", "Sapha Hood (Garment)", "Sapha Ring (Accessory)", "Sapha's Cloth (Armor)", "Nab Shoes (Shoes)", "Nab Hood (Garment)", "Nab Ring (Accessory)", "Nab's Cloth (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Nab's Cloth (Armor)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "White Wing Boots (Shoes)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "White Wing Manteau (Garment)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "White Wing Brooch (Accessory)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "White Wing Suit (Armor)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Black Wing Boots (Shoes)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Black Wing Manteau (Garment)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Black Wing Brooch (Accessory)"
+msgstr ""
+
+# .@i = select("Cancel", "White Wing Boots (Shoes)", "White Wing Manteau (Garment)", "White Wing Brooch (Accessory)", "White Wing Suit (Armor)", "Black Wing Boots (Shoes)","Black Wing Manteau (Garment)", "Black Wing Brooch (Accessory)", "Black Wing Suit (Armor)" )-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Black Wing Suit (Armor)"
+msgstr ""
+
+# mes "Didn't I tell you to bring the correct amount of Mora Coins?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Didn't I tell you to bring the correct amount of Mora Coins?"
+msgstr ""
+
+# mes "Thank you for the 10 Mora Coins. Here is your artifact for the "+.@jobs$[.@job]+" job. Come back whenever you get more Mora Coins.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid "Thank you for the 10 Mora Coins. Here is your artifact for the "
+msgstr ""
+
+# mes "Thank you for the 10 Mora Coins. Here is your artifact for the "+.@jobs$[.@job]+" job. Come back whenever you get more Mora Coins.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Guardian of Power#pa082"
+msgid " job. Come back whenever you get more Mora Coins."
+msgstr ""
+
+# mes "Reduce the amount of items that you have in your inventory before continuing.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Reduce the amount of items that you have in your inventory before continuing."
+msgstr ""
+
+# mes "You are carrying too much in your inventory.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "You are carrying too much in your inventory."
+msgstr ""
+
+# mes "[Artifact Researcher]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "[Artifact Researcher]"
+msgstr ""
+
+# mes "Nice to meet you.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Nice to meet you."
+msgstr ""
+
+# mes "I'm here in Mora studying ancient relics and artifacts. The new discoveries of Adventurers has made this village very exciting for me.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I'm here in Mora studying ancient relics and artifacts. The new discoveries of Adventurers has made this village very exciting for me."
+msgstr ""
+
+# switch(select("Tell me more...", "Give abilities to artifacts.", "Reset Enhanced abilities.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Tell me more..."
+msgstr ""
+
+# switch(select("Tell me more...", "Give abilities to artifacts.", "Reset Enhanced abilities.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Give abilities to artifacts."
+msgstr ""
+
+# switch(select("Tell me more...", "Give abilities to artifacts.", "Reset Enhanced abilities.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Reset Enhanced abilities."
+msgstr ""
+
+# mes "New artifacts have been found here in Mora village, haven't you heard the news?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "New artifacts have been found here in Mora village, haven't you heard the news?"
+msgstr ""
+
+# mes "If you come across any of these artifacts, there are hidden powers that can be extracted from them.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "If you come across any of these artifacts, there are hidden powers that can be extracted from them."
+msgstr ""
+
+# mes "I'm going to continue my research for these artifacts. We researchers are taking Mora Coins as payment for our services...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I'm going to continue my research for these artifacts. We researchers are taking Mora Coins as payment for our services..."
+msgstr ""
+
+# mes "I'm offering my services to give abilities to the artifacts for 100,000 zeny and 1 Mora Coin.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I'm offering my services to give abilities to the artifacts for 100,000 zeny and 1 Mora Coin."
+msgstr ""
+
+# mes "The best part of my service is that any enhancements that you have in these artifacts will not be harmed.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "The best part of my service is that any enhancements that you have in these artifacts will not be harmed."
+msgstr ""
+
+# mes "I'm not giving these services out for free pal. 100,000 zeny and 1 Mora Coin. Is that too much to ask?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I'm not giving these services out for free pal. 100,000 zeny and 1 Mora Coin. Is that too much to ask?"
+msgstr ""
+
+# mes "Ok, so are you ready? Before I start working on this, what kind of equipment did you want me to enhance?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Ok, so are you ready? Before I start working on this, what kind of equipment did you want me to enhance?"
+msgstr ""
+
+# .@i = select("I'm not wearing the equipment", "1. Weapon", "2. Shoes", "3. Garment", "4. Armor", "5. Accessory")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I'm not wearing the equipment"
+msgstr ""
+
+# .@i = select("I'm not wearing the equipment", "1. Weapon", "2. Shoes", "3. Garment", "4. Armor", "5. Accessory")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "1. Weapon"
+msgstr ""
+
+# .@i = select("I'm not wearing the equipment", "1. Weapon", "2. Shoes", "3. Garment", "4. Armor", "5. Accessory")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "2. Shoes"
+msgstr ""
+
+# .@i = select("I'm not wearing the equipment", "1. Weapon", "2. Shoes", "3. Garment", "4. Armor", "5. Accessory")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "3. Garment"
+msgstr ""
+
+# .@i = select("I'm not wearing the equipment", "1. Weapon", "2. Shoes", "3. Garment", "4. Armor", "5. Accessory")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "4. Armor"
+msgstr ""
+
+# .@i = select("I'm not wearing the equipment", "1. Weapon", "2. Shoes", "3. Garment", "4. Armor", "5. Accessory")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "5. Accessory"
+msgstr ""
+
+# mes "Make sure you're wearing the equipment first.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Make sure you're wearing the equipment first."
+msgstr ""
+
+# mes "^990099"+getequipname(.@part)+"^000000??";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "^990099"
+msgstr ""
+
+# mes "I really want to study this equipment...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I really want to study this equipment..."
+msgstr ""
+
+# mes "Mm-hmm something is wrong.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Mm-hmm something is wrong."
+msgstr ""
+
+# mes "It's a considerable reinforcement to the equipment. In this case extended enhancements can be granted. Which stat do you want to enhance?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "It's a considerable reinforcement to the equipment. In this case extended enhancements can be granted. Which stat do you want to enhance?"
+msgstr ""
+
+# mes "Attempting to strengthen the ability further. The previous enforcement won't be affected. Do you want to continue?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Attempting to strengthen the ability further. The previous enforcement won't be affected. Do you want to continue?"
+msgstr ""
+
+# mes "Attempting second enhancement. The previous enforcement won't be affected.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Attempting second enhancement. The previous enforcement won't be affected."
+msgstr ""
+
+# mes "I may have a chance to fail now with this attempt. Do you wish to continue?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I may have a chance to fail now with this attempt. Do you wish to continue?"
+msgstr ""
+
+# mes "Let's start the third enhancement. I can give the best stats at this stage but remember, ^990000there is now a chance for the artifact to be destroyed and previous enhancements will be erased^000000. Continue?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Let's start the third enhancement. I can give the best stats at this stage but remember, ^990000there is now a chance for the artifact to be destroyed and previous enhancements will be erased^000000. Continue?"
+msgstr ""
+
+# mes "This artifact has been strengthened to the limit. Further enhancement is impossible at its current state.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "This artifact has been strengthened to the limit. Further enhancement is impossible at its current state."
+msgstr ""
+
+# if(select("I'll come back later.", "Please continue!") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I'll come back later."
+msgstr ""
+
+# if(select("I'll come back later.", "Please continue!") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Please continue!"
+msgstr ""
+
+# mes "If you change your mind, please come back.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "If you change your mind, please come back."
+msgstr ""
+
+# mes "An unknown error has occurred.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "An unknown error has occurred."
+msgstr ""
+
+# mes "Well I guess I was wrong...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Well I guess I was wrong..."
+msgstr ""
+
+# mes "I think there was an enhancing limit to the artifacts.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I think there was an enhancing limit to the artifacts."
+msgstr ""
+
+# mes "I'm not going to do the work unless you pay the fee.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I'm not going to do the work unless you pay the fee."
+msgstr ""
+
+# mes "This!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "This!"
+msgstr ""
+
+# mes "I... I'm sorry but the equipment has been destroyed.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I... I'm sorry but the equipment has been destroyed."
+msgstr ""
+
+# mes "Since the balance of power does not match, the given existing ability has been destroyed. It is unfortunate but please try again next time.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "Since the balance of power does not match, the given existing ability has been destroyed. It is unfortunate but please try again next time."
+msgstr ""
+
+# mes "I've successfully enhanced the artifact ^990000"+.@equip_name$+"^000000 at socket "+.@slot+".";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "I've successfully enhanced the artifact ^990000"
+msgstr ""
+
+# mes "I've successfully enhanced the artifact ^990000"+.@equip_name$+"^000000 at socket "+.@slot+".";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "^000000 at socket "
+msgstr ""
+
+# mes "I've successfully enhanced the artifact ^990000"+.@equip_name$+"^000000 at socket "+.@slot+".";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "."
+msgstr ""
+
+# mes "You've got to pay if you want the services.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "You've got to pay if you want the services."
+msgstr ""
+
+# mes "The ability to enhance remains.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Researcher#new"
+msgid "The ability to enhance remains."
+msgstr ""
+
+# mes "Reduce the amount of items that you have in your inventory before continuing.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Reduce the amount of items that you have in your inventory before continuing."
+msgstr ""
+
+# mes "You are carrying too much in your inventory.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "You are carrying too much in your inventory."
+msgstr ""
+
+# mes "Those Mora Artifacts look so perfect!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Those Mora Artifacts look so perfect!"
+msgstr ""
+
+# mes "But I know you want them to be even better!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "But I know you want them to be even better!"
+msgstr ""
+
+# mes "[Artifact Collector]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "[Artifact Collector]"
+msgstr ""
+
+# mes "Greetings Adventurer. We will be great friends in a moment after I tell you how to Empower your Artifacts!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Greetings Adventurer. We will be great friends in a moment after I tell you how to Empower your Artifacts!"
+msgstr ""
+
+# switch(select("Let's do this!", "Empower Artifacts?", "Nope, not for me!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Let's do this!"
+msgstr ""
+
+# switch(select("Let's do this!", "Empower Artifacts?", "Nope, not for me!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Empower Artifacts?"
+msgstr ""
+
+# switch(select("Let's do this!", "Empower Artifacts?", "Nope, not for me!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Nope, not for me!"
+msgstr ""
+
+# mes "You seem like a pretty good judge of character.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "You seem like a pretty good judge of character."
+msgstr ""
+
+# mes "For over 200 years I've been working with Artifacts here in Mora. Toiling to get the perfect +9!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "For over 200 years I've been working with Artifacts here in Mora. Toiling to get the perfect +9!"
+msgstr ""
+
+# select("Gulp... +9?!");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Gulp... +9?!"
+msgstr ""
+
+# mes "My business is collecting the old relics and refining them to their essence!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "My business is collecting the old relics and refining them to their essence!"
+msgstr ""
+
+# mes "Finding the perfect Artifact for me to experiment on is my life's work.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Finding the perfect Artifact for me to experiment on is my life's work."
+msgstr ""
+
+# mes "Plus seeing the wonder of our ancestor's legacy is also gratifying.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Plus seeing the wonder of our ancestor's legacy is also gratifying."
+msgstr ""
+
+# select("I can see how that could be fun.");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I can see how that could be fun."
+msgstr ""
+
+# mes "Thank you human.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Thank you human."
+msgstr ""
+
+# mes "I've been doing this for over 200 years, and honestly the readily available supply is gone, and Artificer and Artifact Crafter won't trade me anymore...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I've been doing this for over 200 years, and honestly the readily available supply is gone, and Artificer and Artifact Crafter won't trade me anymore..."
+msgstr ""
+
+# mes "But maybe the Humans that are starting to visit can bring in some new stock!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "But maybe the Humans that are starting to visit can bring in some new stock!"
+msgstr ""
+
+# select("Humans... Stock?");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Humans... Stock?"
+msgstr ""
+
+# mes "Yes! If the humans can bring me new artifacts I can work on my ultimate achievement!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Yes! If the humans can bring me new artifacts I can work on my ultimate achievement!"
+msgstr ""
+
+# select("Ultimate Achievement?");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Ultimate Achievement?"
+msgstr ""
+
+# mes "Patience, we'll get to that...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Patience, we'll get to that..."
+msgstr ""
+
+# mes "I am a collector, by trade, but my greatest achievement is empowering some artifacts with greater power!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I am a collector, by trade, but my greatest achievement is empowering some artifacts with greater power!"
+msgstr ""
+
+# mes "I have only perfected my ability on a few Artifact types so far.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I have only perfected my ability on a few Artifact types so far."
+msgstr ""
+
+# mes "You might just be the human to help me complete my plan.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "You might just be the human to help me complete my plan."
+msgstr ""
+
+# mes "Oh how I love how fate works sometimes...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Oh how I love how fate works sometimes..."
+msgstr ""
+
+# mes "+1, +2, +3, +4, +5, +6 those refinements are not strong enough to work on my craft.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "+1, +2, +3, +4, +5, +6 those refinements are not strong enough to work on my craft."
+msgstr ""
+
+# mes "But +7! +7 is rare and just barely strong enough to work in my crafting attempts.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "But +7! +7 is rare and just barely strong enough to work in my crafting attempts."
+msgstr ""
+
+# select("I'm gonna be abused again...");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I'm gonna be abused again..."
+msgstr ""
+
+# mes "Right you are! I know it is natural for you Humans to help a friend, even without the friend asking...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Right you are! I know it is natural for you Humans to help a friend, even without the friend asking..."
+msgstr ""
+
+# select("I'm not sure if...");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I'm not sure if..."
+msgstr ""
+
+# mes "Of course I'll accept your help! Find me...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Of course I'll accept your help!  Find me..."
+msgstr ""
+
+# mes "- Golden Rod Staff -";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "- Golden Rod Staff -"
+msgstr ""
+
+# mes "- Aqua Staff -";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "- Aqua Staff -"
+msgstr ""
+
+# mes "- Crimson Staff -";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "- Crimson Staff -"
+msgstr ""
+
+# mes "- Forest Staff -";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "- Forest Staff -"
+msgstr ""
+
+# mes "- Staff of Mercy -";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "- Staff of Mercy -"
+msgstr ""
+
+# mes "- Mace of Judgement -";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "- Mace of Judgement -"
+msgstr ""
+
+# select("Anything else?");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Anything else?"
+msgstr ""
+
+# mes "Well aside from the +7, there are very specific enchantments that need to be on the artifact that help catalyze the process.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Well aside from the +7, there are very specific enchantments that need to be on the artifact that help catalyze the process."
+msgstr ""
+
+# mes "If either the +7 or the specific enchantment is missing I can't do it.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "If either the +7 or the specific enchantment is missing I can't do it."
+msgstr ""
+
+# select("So the Refining will be preserved?");
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "So the Refining will be preserved?"
+msgstr ""
+
+# mes "No, but what you'll get back is so much better!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "No, but what you'll get back is so much better!"
+msgstr ""
+
+# mes "By now you are wondering more about the artifacts I'm looking for?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "By now you are wondering more about the artifacts I'm looking for?"
+msgstr ""
+
+# mes "Go ahead and ask!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Go ahead and ask!"
+msgstr ""
+
+# .@i = select("I don't think I'm interested", "Staff of Mercy", "Mace of Judgement", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I don't think I'm interested"
+msgstr ""
+
+# .@i = select("I don't think I'm interested", "Staff of Mercy", "Mace of Judgement", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Staff of Mercy"
+msgstr ""
+
+# .@i = select("I don't think I'm interested", "Staff of Mercy", "Mace of Judgement", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Mace of Judgement"
+msgstr ""
+
+# .@i = select("I don't think I'm interested", "Staff of Mercy", "Mace of Judgement", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Golden Rod Staff"
+msgstr ""
+
+# .@i = select("I don't think I'm interested", "Staff of Mercy", "Mace of Judgement", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Aqua Staff"
+msgstr ""
+
+# .@i = select("I don't think I'm interested", "Staff of Mercy", "Mace of Judgement", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Crimson Staff"
+msgstr ""
+
+# .@i = select("I don't think I'm interested", "Staff of Mercy", "Mace of Judgement", "Golden Rod Staff", "Aqua Staff", "Crimson Staff", "Forest Staff")-2;
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Forest Staff"
+msgstr ""
+
+# mes "Ok, well maybe someday you will be.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Ok, well maybe someday you will be."
+msgstr ""
+
+# mes "It must also carry any of these enchantments: "+.@str$+" to be craftable by me.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "It must also carry any of these enchantments: "
+msgstr ""
+
+# mes "It must also carry any of these enchantments: "+.@str$+" to be craftable by me.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid " to be craftable by me."
+msgstr ""
+
+# mes "But please if you do get one, please let me work on it, I'm begging you.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "But please if you do get one, please let me work on it, I'm begging you."
+msgstr ""
+
+# mes "Have yourself a great day. Bye~";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Have yourself a great day. Bye~"
+msgstr ""
+
+# mes "Let me take a look at what you have brought me.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Let me take a look at what you have brought me."
+msgstr ""
+
+# mes "I don't know what you are trying to do... I can't enhance what you don't have.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I don't know what you are trying to do... I can't enhance what you don't have."
+msgstr ""
+
+# mes "The weapon you have isn't one of the Artifacts I can work with.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "The weapon you have isn't one of the Artifacts I can work with."
+msgstr ""
+
+# mes "I must insist that the refine level of the Artifact be at least +7!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I must insist that the refine level of the Artifact be at least +7!"
+msgstr ""
+
+# mes "These attributes just won't do for my research process, try re-randoming them.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "These attributes just won't do for my research process, try re-randoming them."
+msgstr ""
+
+# mes "I'm tingling with excitement!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I'm tingling with excitement!"
+msgstr ""
+
+# mes "You've brought me everything I need!!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "You've brought me everything I need!!"
+msgstr ""
+
+# mes "If you are ready I am about to show you what I can do with your +"+getequiprefinerycnt(EQI_HAND_R)+" Artifact!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "If you are ready I am about to show you what I can do with your +"
+msgstr ""
+
+# mes "I'm going to take your ^FF0000"+getequipname(EQI_HAND_R)+"^000000 and exchange it, are you ready?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "I'm going to take your ^FF0000"
+msgstr ""
+
+# switch(select("NOOO!", "Yes, I'm ready!", "What will it be after?")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "NOOO!"
+msgstr ""
+
+# switch(select("NOOO!", "Yes, I'm ready!", "What will it be after?")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Yes, I'm ready!"
+msgstr ""
+
+# switch(select("NOOO!", "Yes, I'm ready!", "What will it be after?")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "What will it be after?"
+msgstr ""
+
+# mes "You've got to be kidding... you got my hopes up...";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "You've got to be kidding... you got my hopes up..."
+msgstr ""
+
+# mes "Surely you want to go on?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Surely you want to go on?"
+msgstr ""
+
+# if(select("No, I don't.", "Yes, do it!") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "No, I don't."
+msgstr ""
+
+# if(select("No, I don't.", "Yes, do it!") == 1) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Yes, do it!"
+msgstr ""
+
+# mes "It is perfectly done, you will be so happy! Good bye friend~";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "It is perfectly done, you will be so happy! Good bye friend~"
+msgstr ""
+
+# mes "One handed Staff / Attack : 30";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "One handed Staff / Attack : 30"
+msgstr ""
+
+# mes "Weight : 50 / Any Sex";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Weight : 50 / Any Sex"
+msgstr ""
+
+# mes "Archbishop only";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Archbishop only"
+msgstr ""
+
+# mes "Weapon Level : 4 / ^ff0000Required Level: 130^000000";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Weapon Level : 4 / ^ff0000Required Level: 130^000000"
+msgstr ""
+
+# mes "MATK + 180, INT + 4.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "MATK + 180, INT + 4."
+msgstr ""
+
+# mes "Adds 20% Heal Bonus.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Adds 20% Heal Bonus."
+msgstr ""
+
+# mes "If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 45% and SP consumption of 'Heal' by 50.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "If worn with Robes, Shoes, and Robe of Mercy Increase Heal Bonus by an additional 45% and SP consumption of 'Heal' by 50."
+msgstr ""
+
+# mes "When receives close physical attack, Lv.1 Silentium will be excuted at a certain rate.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "When receives close physical attack, Lv.1 Silentium will be excuted at a certain rate."
+msgstr ""
+
+# mes "Recuces 3 seconds of delay after excuting Clearance, Laudaramus, and Laudaagnus skills.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Recuces 3 seconds of delay after excuting Clearance, Laudaramus, and Laudaagnus skills."
+msgstr ""
+
+# mes "Mace / Attack : 170";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Mace / Attack : 170"
+msgstr ""
+
+# mes "Weight : 120 / Any Sex";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Weight : 120 / Any Sex"
+msgstr ""
+
+# mes "MATK + 180, STR + 2, INT + 2.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "MATK + 180, STR + 2, INT + 2."
+msgstr ""
+
+# mes "Physical and Magical Attacks have a chance to increase damage by 40% to Demon monsters for 7 seconds.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Physical and Magical Attacks have a chance to increase damage by 40% to Demon monsters for 7 seconds."
+msgstr ""
+
+# mes "If worn with Judgement Golves, Shoes and Shawl, increase Damage against Undead by 30%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "If worn with Judgement Golves, Shoes and Shawl, increase Damage against Undead by 30%."
+msgstr ""
+
+# mes "Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Increase damage of Adoramus by 200%, and increase SP cost of Adoramus by 30."
+msgstr ""
+
+# mes "Staff / Attack: 30";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Staff / Attack: 30"
+msgstr ""
+
+# mes "Weight : 90 / Any Sex";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Weight : 90 / Any Sex"
+msgstr ""
+
+# mes "Warlock only";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Warlock only"
+msgstr ""
+
+# mes "Weapon Level : 4 / ^ff0000Required Level : 130^000000";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Weapon Level : 4 / ^ff0000Required Level : 130^000000"
+msgstr ""
+
+# mes "INT + 5, MATK + 270.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "INT + 5, MATK + 270."
+msgstr ""
+
+# mes "Increase Jupitel Thunder damage by 30%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Increase Jupitel Thunder damage by 30%."
+msgstr ""
+
+# mes "If worn with Golden Robe, Golden Shoes, and Golden Orb Increase Wind Magic damage by 60%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "If worn with Golden Robe, Golden Shoes, and Golden Orb Increase Wind Magic damage by 60%."
+msgstr ""
+
+# mes "Lower Earth Magic damage by 60% and resistance to Earth by 50%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Lower Earth Magic damage by 60% and resistance to Earth by 50%."
+msgstr ""
+
+# mes "Staff / Attack : 30";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Artifact Collector#blan"
+msgid "Staff / Attack : 30"
+msgstr ""
+
+# mes "Increase Cold Bolt and Frost Diver damage by 30%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Increase Cold Bolt and Frost Diver damage by 30%."
+msgstr ""
+
+# mes "If worn with Aqua Robe, Shoes, and Orb Increase Water Magic damage by 60%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "If worn with Aqua Robe, Shoes, and Orb Increase Water Magic damage by 60%."
+msgstr ""
+
+# mes "Lower Wind Magic damage by 60% and resistance to Wind by 50%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Lower Wind Magic damage by 60% and resistance to Wind by 50%."
+msgstr ""
+
+# mes "Increase Fire Bolt and Fireball damage by 30%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Increase Fire Bolt and Fireball damage by 30%."
+msgstr ""
+
+# mes "If worn with Crimson Robe, Shoes, and Orb Increase Fire Magic damage by 60%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "If worn with Crimson Robe, Shoes, and Orb Increase Fire Magic damage by 60%."
+msgstr ""
+
+# mes "Lower Water Magic damage by 60% and resistance to Water by 50%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Lower Water Magic damage by 60% and resistance to Water by 50%."
+msgstr ""
+
+# mes "Increase Earth Spike and Heaven's Drive damage by 30%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Increase Earth Spike and Heaven's Drive damage by 30%."
+msgstr ""
+
+# mes "If worn with Forest Robe, Shoes, and Orb Increase Earth Magic damage by 60%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "If worn with Forest Robe, Shoes, and Orb Increase Earth Magic damage by 60%."
+msgstr ""
+
+# mes "Lower Fire Magic damage by 60% and resistance to Fire by 50%.";
+#: npc/re/merchants/enchan_mora.txt
+#, no-c-format
+msgctxt "Artifact Collector#blan"
+msgid "Lower Fire Magic damage by 60% and resistance to Fire by 50%."
+msgstr ""
+
+# mes "You have too many kinds of things with you to do that. Throw out some of them and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "You have too many kinds of things with you to do that. Throw out some of them and try again."
+msgstr ""
+
+# mes "You are carrying too much weight to do that. Reduce the weight and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "You are carrying too much weight to do that. Reduce the weight and try again."
+msgstr ""
+
+# mes "[Master Tailor]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "[Master Tailor]"
+msgstr ""
+
+# mes "With my touch, I can turn a typical army padding into a piece of art. I'm Kay the Master Tailor, creating art with army paddings.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "With my touch, I can turn a typical army padding into a piece of art. I'm Kay the Master Tailor, creating art with army paddings."
+msgstr ""
+
+# mes "Well, what's in a name? I can turn your army padding into a piece of art if you bring ^ff00005 Mora Coins and an Army Padding^000000.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Well, what's in a name? I can turn your army padding into a piece of art if you bring ^ff00005 Mora Coins and an Army Padding^000000."
+msgstr ""
+
+# mes "I happen to have a few army paddings in stock. Would you like to buy one? The price is 1 Mora Coin. So cheap.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "I happen to have a few army paddings in stock. Would you like to buy one? The price is 1 Mora Coin. So cheap."
+msgstr ""
+
+# switch(select("Maybe next time.", "I'll buy one now.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Maybe next time."
+msgstr ""
+
+# switch(select("Maybe next time.", "I'll buy one now.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "I'll buy one now."
+msgstr ""
+
+# mes "Okay, I understand.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Okay, I understand."
+msgstr ""
+
+# mes "Come back for one if you change your mind.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Come back for one if you change your mind."
+msgstr ""
+
+# mes "Here it is.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Here it is."
+msgstr ""
+
+# mes "It's very nice and fluffy. Please come back.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "It's very nice and fluffy. Please come back."
+msgstr ""
+
+# mes "Have you come to add art to one of your army paddings?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Have you come to add art to one of your army paddings?"
+msgstr ""
+
+# switch(select("Please tell me more.", "Yes, I have.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Please tell me more."
+msgstr ""
+
+# switch(select("Please tell me more.", "Yes, I have.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Yes, I have."
+msgstr ""
+
+# mes "A typical army padding isn't warm enough. It feels rough on your skin and doesn't look good. And artistic value? It has next to none.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "A typical army padding isn't warm enough. It feels rough on your skin and doesn't look good. And artistic value? It has next to none."
+msgstr ""
+
+# mes "However, I'll embroider it with velvet threads, and add three options to it.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "However, I'll embroider it with velvet threads, and add three options to it."
+msgstr ""
+
+# mes "Bring me ^8888005 Mora Coins^000000 and an Army Padding, and we can add some art together!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Bring me ^8888005 Mora Coins^000000 and an Army Padding, and we can add some art together!"
+msgstr ""
+
+# mes "I'm telling you just in case - I'll do whatever I need to do with your army padding, whether it's brand-new or has been mended before.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "I'm telling you just in case - I'll do whatever I need to do with your army padding, whether it's brand-new or has been mended before."
+msgstr ""
+
+# mes "So if you have with you an army padding mended to your liking, put it in a safe place and come back.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "So if you have with you an army padding mended to your liking, put it in a safe place and come back."
+msgstr ""
+
+# mes "And another thing - once I fail to add art to it, it becomes unusable... you'll need to buy a new one in that case.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "And another thing - once I fail to add art to it, it becomes unusable... you'll need to buy a new one in that case."
+msgstr ""
+
+# switch(select("Come on, what's the rush?", "Okay! Let's do it!!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Come on, what's the rush?"
+msgstr ""
+
+# switch(select("Come on, what's the rush?", "Okay! Let's do it!!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Okay! Let's do it!!"
+msgstr ""
+
+# mes "What's wrong with you?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "What's wrong with you?"
+msgstr ""
+
+# mes "The villagers keep me busy enough.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "The villagers keep me busy enough."
+msgstr ""
+
+# mes "It looks like you don't have everything you need.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "It looks like you don't have everything you need."
+msgstr ""
+
+# mes "You have to have 5 Mora Coins and an Army Padding with you before I can do my work.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "You have to have 5 Mora Coins and an Army Padding with you before I can do my work."
+msgstr ""
+
+# mes "Oh......";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "Oh......"
+msgstr ""
+
+# mes "I can't believe I messed up.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "I can't believe I messed up."
+msgstr ""
+
+# mes "I want to be alone. Go away!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "I want to be alone. Go away!"
+msgstr ""
+
+# mes "My art looks great.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Master Tailor#pa0829"
+msgid "My art looks great."
+msgstr ""
+
+# mes "You have too many kinds of things with you to do that. Throw out some of them and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "You have too many kinds of things with you to do that. Throw out some of them and try again."
+msgstr ""
+
+# mes "You are carrying too much weight to do that. Reduce the weight and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "You are carrying too much weight to do that. Reduce the weight and try again."
+msgstr ""
+
+# mes "[Pendant Crafter]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "[Pendant Crafter]"
+msgstr ""
+
+# mes "My job is to polish the stone in a Guardian's Pendant, and then carve a symbol with special power on it.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "My job is to polish the stone in a Guardian's Pendant, and then carve a symbol with special power on it."
+msgstr ""
+
+# mes "The process gives the Guardian's Pendant more power than an ordinary accessory.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "The process gives the Guardian's Pendant more power than an ordinary accessory."
+msgstr ""
+
+# mes "If you're interested, I can work on your pendant for ^ff00005 Mora Coins^000000. Of course you need to have a Guardian's Pendant so I can work on with you.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "If you're interested, I can work on your pendant for ^ff00005 Mora Coins^000000. Of course you need to have a Guardian's Pendant so I can work on with you."
+msgstr ""
+
+# mes "Have you come to have your Guardian's Pendant upgraded?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "Have you come to have your Guardian's Pendant upgraded?"
+msgstr ""
+
+# switch(select("Please tell me more.", "Yes, I have.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "Please tell me more."
+msgstr ""
+
+# switch(select("Please tell me more.", "Yes, I have.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "Yes, I have."
+msgstr ""
+
+# mes "I'm telling you just in case - ";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "I'm telling you just in case - "
+msgstr ""
+
+# mes "If I work on a Guardian's Pendant that's been upgraded before, it loses its original power.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "If I work on a Guardian's Pendant that's been upgraded before, it loses its original power."
+msgstr ""
+
+# mes "And worse, it can lose its power and become an ordinary pendant. Of course, stone is not as susceptible to damage as cloth, so you won't lose the pendant itself.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "And worse, it can lose its power and become an ordinary pendant. Of course, stone is not as susceptible to damage as cloth, so you won't lose the pendant itself."
+msgstr ""
+
+# switch(select("Come on, what's the rush?", "Okay! Let's do it!!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "Come on, what's the rush?"
+msgstr ""
+
+# switch(select("Come on, what's the rush?", "Okay! Let's do it!!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "Okay! Let's do it!!"
+msgstr ""
+
+# mes "Come back when you're not in a hurry. I always have a lot of time on my hands.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "Come back when you're not in a hurry. I always have a lot of time on my hands."
+msgstr ""
+
+# mes "It looks like you don't have everything you need.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "It looks like you don't have everything you need."
+msgstr ""
+
+# mes "You must have 5 Mora Coins and a Guardian's Pendant with you before I can do my work.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "You must have 5 Mora Coins and a Guardian's Pendant with you before I can do my work."
+msgstr ""
+
+# mes "What~!!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "What~!!"
+msgstr ""
+
+# mes "What on earth is wrong with it!!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "What on earth is wrong with it!!"
+msgstr ""
+
+# mes "Looks like I did it!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Pendant Crafter#pa0829"
+msgid "Looks like I did it!"
+msgstr ""
+
+# mes "You have too many kinds of things with you to do that. Throw out some of them and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "You have too many kinds of things with you to do that. Throw out some of them and try again."
+msgstr ""
+
+# mes "You are carrying too much weight to do that. Reduce the weight and try again.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "You are carrying too much weight to do that. Reduce the weight and try again."
+msgstr ""
+
+# mes "[Bulberry Westhood]";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "[Bulberry Westhood]"
+msgstr ""
+
+# mes "I'm Bulberry Westhood, keeping the tradition of quality hoods alive.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "I'm Bulberry Westhood, keeping the tradition of quality hoods alive."
+msgstr ""
+
+# mes "I only handle quality items - not random scarfs from a marketplace.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "I only handle quality items - not random scarfs from a marketplace."
+msgstr ""
+
+# mes "If you have anything that you think is of high enough quality, come find me with ^ff00005 Mora Coins^000000.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "If you have anything that you think is of high enough quality, come find me with ^ff00005 Mora Coins^000000."
+msgstr ""
+
+# mes "I can improve its high quality with my own hands.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "I can improve its high quality with my own hands."
+msgstr ""
+
+# mes "So you have a Loki's Scarf 1042 Special Edition. You really have an eye for quality. Can I start working on it right away?";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "So you have a Loki's Scarf 1042 Special Edition. You really have an eye for quality. Can I start working on it right away?"
+msgstr ""
+
+# switch(select("I don't get it.", "Yes, please.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "I don't get it."
+msgstr ""
+
+# switch(select("I don't get it.", "Yes, please.")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Yes, please."
+msgstr ""
+
+# mes "Like I said, I only handle quality items - not random scarfs from a marketplace.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Like I said, I only handle quality items - not random scarfs from a marketplace."
+msgstr ""
+
+# mes "This Loki's Scarf you have is awesome. It's a limited edition product with Loki's crest on it!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "This Loki's Scarf you have is awesome. It's a limited edition product with Loki's crest on it!"
+msgstr ""
+
+# mes "My specialty is bringing out the hidden power at the small cost of... ";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "My specialty is bringing out the hidden power at the small cost of... "
+msgstr ""
+
+# mes "5 Mora Coins.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "5 Mora Coins."
+msgstr ""
+
+# mes "Come back if you change your mind.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Come back if you change your mind."
+msgstr ""
+
+# mes "I'm telling you just in case - ";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "I'm telling you just in case - "
+msgstr ""
+
+# mes "If I work on a Loki's Scarf that's been upgraded before, it loses its original power.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "If I work on a Loki's Scarf that's been upgraded before, it loses its original power."
+msgstr ""
+
+# mes "And worse, it can lose all its power becoming an ordinary scarf.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "And worse, it can lose all its power becoming an ordinary scarf."
+msgstr ""
+
+# mes "Of course, the Loki's Scarf is a quality item, so you won't lose the scarf itself in the process.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Of course, the Loki's Scarf is a quality item, so you won't lose the scarf itself in the process."
+msgstr ""
+
+# switch(select("Maybe later, sir...", "I'd like to own a quality item!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Maybe later, sir..."
+msgstr ""
+
+# switch(select("Maybe later, sir...", "I'd like to own a quality item!")) {
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "I'd like to own a quality item!"
+msgstr ""
+
+# mes "Ha...!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Ha...!"
+msgstr ""
+
+# mes "You say 'later' when you can have the best quality item right away? Well, have it your own way.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "You say 'later' when you can have the best quality item right away? Well, have it your own way."
+msgstr ""
+
+# mes "It looks like you don't everything you need.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "It looks like you don't everything you need."
+msgstr ""
+
+# mes "You must have 5 Mora Coins and a Loki's Scarf with you before you can have the best quality item.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "You must have 5 Mora Coins and a Loki's Scarf with you before you can have the best quality item."
+msgstr ""
+
+# mes "Aaarrgghh, this is impossible!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Aaarrgghh, this is impossible!"
+msgstr ""
+
+# mes "My! My Loki's Scarf!....";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "My! My Loki's Scarf!...."
+msgstr ""
+
+# mes "Oh, I apologize for my disgraceful behavior. I was too upset.";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Oh, I apologize for my disgraceful behavior. I was too upset."
+msgstr ""
+
+# mes "Fortunately, it's still in its original state before I started working on it. It's not torn or stretched. It's a quality item after all. Oh ho ho~";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Fortunately, it's still in its original state before I started working on it. It's not torn or stretched. It's a quality item after all. Oh ho ho~"
+msgstr ""
+
+# mes "Wow~ mission complete!";
+#: npc/re/merchants/enchan_mora.txt
+msgctxt "Bulberry Westhood#pa0829"
+msgid "Wow~ mission complete!"
+msgstr ""
+

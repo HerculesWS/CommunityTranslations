@@ -1,0 +1,337 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:01\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/guides/guides_veins_txt.pot\n"
+
+# mes "[Veins Guide]";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[Veins Guide]"
+msgstr ""
+
+# mes "Thank you for coming through the rough sand storms. Welcome to ^8B4513Veins^000000, the Canyon Village.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Thank you for coming through the rough sand storms. Welcome to ^8B4513Veins^000000, the Canyon Village."
+msgstr ""
+
+# mes "If this is the first time for you to use the guide services, why don't you check the \"Notice\" menu first?";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "If this is the first time for you to use the guide services, why don't you check the \"Notice\" menu first?"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Temple ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Inn ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Pub ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Weapon Shop ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Tool Shop ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Airport ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Geological Research Institute ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "[ Cool Event Corp. Staff ]"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Remove Marks from Mini-Map"
+msgstr ""
+
+# switch(select("[ Temple ]", "[ Inn ]", "[ Pub ]", "[ Weapon Shop ]", "[ Tool Shop ]", "[ Airport ]", "[ Geological Research Institute ]", "[ Cool Event Corp. Staff ]", "Remove Marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Cancel"
+msgstr ""
+
+# mes "The "+F_Navi("Temple","veins,197,256")+" is always filled with praying the faithful of the incarnation of goddess Freya.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "The "
+msgstr ""
+
+# mes "The "+F_Navi("Temple","veins,197,256")+" is always filled with praying the faithful of the incarnation of goddess Freya.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Temple"
+msgstr ""
+
+# mes "The "+F_Navi("Temple","veins,197,256")+" is always filled with praying the faithful of the incarnation of goddess Freya.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "veins,197,256"
+msgstr ""
+
+# mes "The "+F_Navi("Temple","veins,197,256")+" is always filled with praying the faithful of the incarnation of goddess Freya.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid " is always filled with praying the faithful of the incarnation of goddess Freya."
+msgstr ""
+
+# mes "It's located on the North side of Veins.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "It's located on the North side of Veins."
+msgstr ""
+
+# mes "Would you like to check any other locations?";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Would you like to check any other locations?"
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","veins,110,278")+". The Inn is located on the North-West side of Veins.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "You can rest your fatigue of the journey in the "
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","veins,110,278")+". The Inn is located on the North-West side of Veins.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Inn"
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","veins,110,278")+". The Inn is located on the North-West side of Veins.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "veins,110,278"
+msgstr ""
+
+# mes "You can rest your fatigue of the journey in the "+F_Navi("Inn","veins,110,278")+". The Inn is located on the North-West side of Veins.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid ". The Inn is located on the North-West side of Veins."
+msgstr ""
+
+# mes "If you want to talk to the Veins Towners, visit the Veins "+F_Navi("Pub","veins,150,215")+".";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "If you want to talk to the Veins Towners, visit the Veins "
+msgstr ""
+
+# mes "If you want to talk to the Veins Towners, visit the Veins "+F_Navi("Pub","veins,150,215")+".";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Pub"
+msgstr ""
+
+# mes "If you want to talk to the Veins Towners, visit the Veins "+F_Navi("Pub","veins,150,215")+".";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "veins,150,215"
+msgstr ""
+
+# mes "If you want to talk to the Veins Towners, visit the Veins "+F_Navi("Pub","veins,150,215")+".";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "."
+msgstr ""
+
+# mes "The pub is located on the west side of Veins.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "The pub is located on the west side of Veins."
+msgstr ""
+
+# mes "You have to be able to protect your own body.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "You have to be able to protect your own body."
+msgstr ""
+
+# mes "The "+F_Navi("Weapon Shop","veins,150,175")+" in Veins is selling the good weapons at a reasonable price..";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Weapon Shop"
+msgstr ""
+
+# mes "The "+F_Navi("Weapon Shop","veins,150,175")+" in Veins is selling the good weapons at a reasonable price..";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "veins,150,175"
+msgstr ""
+
+# mes "The "+F_Navi("Weapon Shop","veins,150,175")+" in Veins is selling the good weapons at a reasonable price..";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid " in Veins is selling the good weapons at a reasonable price.."
+msgstr ""
+
+# mes "It is located on the West side of Veins.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "It is located on the West side of Veins."
+msgstr ""
+
+# mes "The essential items! Check out the Veins "+F_Navi("Tool Shop","veins,230,161")+" in the center of town..";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "The essential items! Check out the Veins "
+msgstr ""
+
+# mes "The essential items! Check out the Veins "+F_Navi("Tool Shop","veins,230,161")+" in the center of town..";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Tool Shop"
+msgstr ""
+
+# mes "The essential items! Check out the Veins "+F_Navi("Tool Shop","veins,230,161")+" in the center of town..";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "veins,230,161"
+msgstr ""
+
+# mes "The essential items! Check out the Veins "+F_Navi("Tool Shop","veins,230,161")+" in the center of town..";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid " in the center of town.."
+msgstr ""
+
+# mes "The "+F_Navi("Airport","veins,273,287")+" of Veins is currently only used for Cargo.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Airport"
+msgstr ""
+
+# mes "The "+F_Navi("Airport","veins,273,287")+" of Veins is currently only used for Cargo.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "veins,273,287"
+msgstr ""
+
+# mes "The "+F_Navi("Airport","veins,273,287")+" of Veins is currently only used for Cargo.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid " of Veins is currently only used for Cargo."
+msgstr ""
+
+# mes "Are you interested in Geology?";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Are you interested in Geology?"
+msgstr ""
+
+# mes "If so, please visit the ";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "If so, please visit the "
+msgstr ""
+
+# mes F_Navi("Geological Research Institute","veins,150,175")+" at the second floor of Weapon Shop.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Geological Research Institute"
+msgstr ""
+
+# mes F_Navi("Geological Research Institute","veins,150,175")+" at the second floor of Weapon Shop.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid " at the second floor of Weapon Shop."
+msgstr ""
+
+# mes "I will mark the location";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "I will mark the location"
+msgstr ""
+
+# mes "of the "+F_Navi("Cool Event Corp. Staff","veins,209,127","^808080");
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "of the "
+msgstr ""
+
+# mes "of the "+F_Navi("Cool Event Corp. Staff","veins,209,127","^808080");
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Cool Event Corp. Staff"
+msgstr ""
+
+# mes "of the "+F_Navi("Cool Event Corp. Staff","veins,209,127","^808080");
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "veins,209,127"
+msgstr ""
+
+# mes "of the "+F_Navi("Cool Event Corp. Staff","veins,209,127","^808080");
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "^808080"
+msgstr ""
+
+# mes "on your mini map.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "on your mini map."
+msgstr ""
+
+# mes "Sure, I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Sure, I'll remove all marks from your mini-map."
+msgstr ""
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Is there anything else I can do for you?"
+msgstr ""
+
+# mes "Have a safe journey!";
+#: npc/re/guides/guides_veins.txt
+msgctxt "Veins Guide#veins01::GuideVeins"
+msgid "Have a safe journey!"
+msgstr ""
+

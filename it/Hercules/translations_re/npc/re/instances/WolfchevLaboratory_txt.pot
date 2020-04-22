@@ -1,0 +1,3120 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:29\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/instances/WolfchevLaboratory_txt.pot\n"
+
+# mes "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000"
+msgstr ""
+
+# mes "[Giacomo Girolamo]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "[Giacomo Girolamo]"
+msgstr ""
+
+# mes "....a guy....?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "....a guy....?"
+msgstr ""
+
+# mes "Ah! Hey! Man!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Ah! Hey! Man!"
+msgstr ""
+
+# select("What's up?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "What's up?"
+msgstr ""
+
+# mes "Have you ever heard of horrific human experimentation committed in Rekenber Corporation whose head office is here in Lighthalzen?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Have you ever heard of horrific human experimentation committed in Rekenber Corporation whose head office is here in Lighthalzen?"
+msgstr ""
+
+# select("Whaaat?! human experimentation?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Whaaat?! human experimentation?"
+msgstr ""
+
+# mes "Yea! human experimentation!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Yea! human experimentation!!"
+msgstr ""
+
+# mes "There are a lot of rumors that horrible human experimentation is actually performed, but these people in the slum....don't want to believe that due to the welfare movement from Rekenber.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "There are a lot of rumors that horrible human experimentation is actually performed, but these people in the slum....don't want to believe that due to the welfare movement from Rekenber."
+msgstr ""
+
+# mes "Well! and those rich people, seem to know something but they never mention that...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Well! and those rich people, seem to know something but they never mention that..."
+msgstr ""
+
+# mes "Ahh!! And this is a secret that just SOME PEOPLE know. I heard that from Rekenber Lab.,.. a person named...um...Wol....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Ahh!! And this is a secret that just SOME PEOPLE know. I heard that from Rekenber Lab.,.. a person named...um...Wol...."
+msgstr ""
+
+# mes "Anyway!! A scientist named Wolf.. something suddenly got sacked. and he must be related with this rumor, I think...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Anyway!! A scientist named Wolf.. something suddenly got sacked. and he must be related with this rumor, I think..."
+msgstr ""
+
+# select("You mean... Wolfchev?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "You mean... Wolfchev?"
+msgstr ""
+
+# mes "Ohhhh?! yeah Wolfchev!! That's right, the name was Wolfchev.. The mad scientist..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Ohhhh?! yeah Wolfchev!! That's right, the name was Wolfchev.. The mad scientist.."
+msgstr ""
+
+# mes "I suppose you can then understand the story faster... I am sure that he's involved in the rumor. I swear.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "I suppose you can then understand the story faster... I am sure that he's involved in the rumor. I swear."
+msgstr ""
+
+# mes "By the way..what about you? Is there anything that you know about him?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "By the way..what about you? Is there anything that you know about him?"
+msgstr ""
+
+# if(select("Pretend you know nothing.", "Tell him what you know.") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Pretend you know nothing."
+msgstr ""
+
+# if(select("Pretend you know nothing.", "Tell him what you know.") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Tell him what you know."
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "["
+msgstr ""
+
+# mes "Not really. I've ever heard of his name, but I don't know anything about him..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Not really. I've ever heard of his name, but I don't know anything about him.."
+msgstr ""
+
+# mes "Hm.... You sound suspicious, dude! huh?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Hm.... You sound suspicious, dude! huh?"
+msgstr ""
+
+# mes "He happens to research into Human 'Homunculus' without telling that to Rekenber Corp., and there was a whistle-blower who reported to the corp. so he was fired.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "He happens to research into Human 'Homunculus' without telling that to Rekenber Corp., and there was a whistle-blower who reported to the corp. so he was fired."
+msgstr ""
+
+# mes "Oh! Man..! You seem to know pretty much! By any chance, are you concerned with Rekenber??";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Oh! Man..! You seem to know pretty much! By any chance, are you concerned with Rekenber??"
+msgstr ""
+
+# mes "... .... ...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "... .... ..."
+msgstr ""
+
+# mes "Don't worry. I didn't mean anything.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Don't worry. I didn't mean anything."
+msgstr ""
+
+# mes "Well! I am just curious only because some people in the slum and some adventurers were missing,";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Well! I am just curious only because some people in the slum and some adventurers were missing,"
+msgstr ""
+
+# mes "and I heard that Rekenber was doing human experimentation with those missing people. Hope you don't get me wrong.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "and I heard that Rekenber was doing human experimentation with those missing people. Hope you don't get me wrong."
+msgstr ""
+
+# mes "Actually, it is not a funny rumor.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Actually, it is not a funny rumor."
+msgstr ""
+
+# mes "Should investigate the lab where the experiment was carried out.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Should investigate the lab where the experiment was carried out."
+msgstr ""
+
+# mes "Oh! What a beautiful lady!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Oh! What a beautiful lady!!"
+msgstr ""
+
+# mes "How come a beauty is here, in a place with dangerous rumor?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "How come a beauty is here, in a place with dangerous rumor?"
+msgstr ""
+
+# switch(select("Walking..", "To hang out..", "Shopping..")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Walking.."
+msgstr ""
+
+# switch(select("Walking..", "To hang out..", "Shopping..")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "To hang out.."
+msgstr ""
+
+# switch(select("Walking..", "To hang out..", "Shopping..")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Shopping.."
+msgstr ""
+
+# mes "Ahh.. Lady, you are so graceful even when you are just walking.....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Ahh.. Lady, you are so graceful even when you are just walking....."
+msgstr ""
+
+# mes "Lady. You are a dignified lady even if you hang out in this poor town...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Lady. You are a dignified lady even if you hang out in this poor town..."
+msgstr ""
+
+# mes "Ahh.. Lady.. Shopping in the slum!!.. Are you a type who needs to look around every single shop?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Ahh.. Lady.. Shopping in the slum!!.. Are you a type who needs to look around every single shop?"
+msgstr ""
+
+# select("... .... ... ....");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "... .... ... ...."
+msgstr ""
+
+# mes "Well, how dare I ask you and be interested in what the lady does...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Well, how dare I ask you and be interested in what the lady does..."
+msgstr ""
+
+# mes "I just hope that the lady gets out of this town with dangerous rumors..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "I just hope that the lady gets out of this town with dangerous rumors.."
+msgstr ""
+
+# select("Dangerous rumors?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Dangerous rumors?"
+msgstr ""
+
+# mes "Ah... Lady may not have heard of the rumor.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Ah... Lady may not have heard of the rumor."
+msgstr ""
+
+# mes "Recently, some people from this town, actually from the slum...and some adventurers are missing...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Recently, some people from this town, actually from the slum...and some adventurers are missing..."
+msgstr ""
+
+# mes "and then the rumor came up, since disappearance cases happen pretty often, that Rekenber is committing a horrible human experimentation in their secret lab.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "and then the rumor came up, since disappearance cases happen pretty often, that Rekenber is committing a horrible human experimentation in their secret lab."
+msgstr ""
+
+# select("Excuse me?! human experimentation?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Excuse me?! human experimentation?"
+msgstr ""
+
+# mes "Well! the rich people either want to believe..I think.. Ah!! And couple of weeks ago. um. what's his name? Wolfchev??";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Well! the rich people either want to believe..I think.. Ah!! And couple of weeks ago. um. what's his name? Wolfchev??"
+msgstr ""
+
+# mes "Anyway!! that research got fired from the lab. I think he must be involved with this rumor.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Anyway!! that research got fired from the lab. I think he must be involved with this rumor."
+msgstr ""
+
+# mes "So, please, lady. Please don't be in a place like this and stay in safe ways.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "So, please, lady. Please don't be in a place like this and stay in safe ways."
+msgstr ""
+
+# mes "............ It seems a pretty serious matter.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "............ It seems a pretty serious matter."
+msgstr ""
+
+# mes "Take care yourself and don't disappear!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Take care yourself and don't disappear!"
+msgstr ""
+
+# mes "Be careful, Lady.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Be careful, Lady."
+msgstr ""
+
+# mes "Only those beautiful ladies are the reason of my life~!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Only those beautiful ladies are the reason of my life~!"
+msgstr ""
+
+# mes "I, Giacomo Girolamo Casanova de Seingalt am never interested in guys like you though!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "I, Giacomo Girolamo Casanova de Seingalt am never interested in guys like you though!!"
+msgstr ""
+
+# mes "but I can listen to you...you wanna say anything to me?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "but I can listen to you...you wanna say anything to me?"
+msgstr ""
+
+# switch(select("No..?", "About ladies..", "You Womanizer!!", "Envy you...", "What's the rumor lately?")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "No..?"
+msgstr ""
+
+# switch(select("No..?", "About ladies..", "You Womanizer!!", "Envy you...", "What's the rumor lately?")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "About ladies.."
+msgstr ""
+
+# switch(select("No..?", "About ladies..", "You Womanizer!!", "Envy you...", "What's the rumor lately?")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "You Womanizer!!"
+msgstr ""
+
+# switch(select("No..?", "About ladies..", "You Womanizer!!", "Envy you...", "What's the rumor lately?")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Envy you..."
+msgstr ""
+
+# switch(select("No..?", "About ladies..", "You Womanizer!!", "Envy you...", "What's the rumor lately?")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "What's the rumor lately?"
+msgstr ""
+
+# mes "Hey you, get out of my way then..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Hey you, get out of my way then.."
+msgstr ""
+
+# mes "I don't feel like talking about my precious ladies making fun of them. You do it with your friends.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "I don't feel like talking about my precious ladies making fun of them. You do it with your friends."
+msgstr ""
+
+# mes "Hey.. Excuse me!!! but I'm not a 'Womanizer', I am just a person who adores ladies.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Hey.. Excuse me!!! but I'm not a 'Womanizer', I am just a person who adores ladies."
+msgstr ""
+
+# mes "Of course..... Yea... If I'm a womanizer, all the men on earth are too! I'm just Casanova. umhahahaha.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Of course..... Yea... If I'm a womanizer, all the men on earth are too! I'm just Casanova. umhahahaha."
+msgstr ""
+
+# mes "Haa.. Do you....? not have any woman but your sister and mother around you?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Haa.. Do you....? not have any woman but your sister and mother around you?"
+msgstr ""
+
+# mes "Oh...... sorry.. I got your point....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Oh...... sorry.. I got your point...."
+msgstr ""
+
+# mes "You.. are not like how you seem? Interesting..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "You.. are not like how you seem? Interesting.."
+msgstr ""
+
+# mes "Yea, actually recently a lot of people from the slum and some wandering adventurers got disappeared. and I don't know why.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Yea, actually recently a lot of people from the slum and some wandering adventurers got disappeared. and I don't know why."
+msgstr ""
+
+# mes "You gotta be careful too..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "You gotta be careful too.."
+msgstr ""
+
+# mes "Hey, lady?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Hey, lady?"
+msgstr ""
+
+# mes "Wasn't it painful when you fell down from Heaven, my Angel?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Wasn't it painful when you fell down from Heaven, my Angel?"
+msgstr ""
+
+# mes "You must be tired. Because you are always wandering my mind.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "You must be tired. Because you are always wandering my mind."
+msgstr ""
+
+# mes "Are you not tired of walking around in my dream last night?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Are you not tired of walking around in my dream last night?"
+msgstr ""
+
+# mes "Excuse me. But I think I lost my heart. Could you please borrow me yours?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Excuse me. But I think I lost my heart. Could you please borrow me yours?"
+msgstr ""
+
+# mes "Do you believe in love at first sight?? Or can we start again..?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Do you believe in love at first sight?? Or can we start again..?"
+msgstr ""
+
+# mes "I am so sorry but, can you kiss with a person who just met?? Noo? Ok then let me introduce myself.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "I am so sorry but, can you kiss with a person who just met?? Noo? Ok then let me introduce myself."
+msgstr ""
+
+# mes "I'm so lost here since it's the first time. Can you let me know which is the way to your heart?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "I'm so lost here since it's the first time. Can you let me know which is the way to your heart?"
+msgstr ""
+
+# mes "Give me a map please.. To get a way....I'm fallen in your eyes.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Give me a map please.. To get a way....I'm fallen in your eyes."
+msgstr ""
+
+# mes "Your eyes....I wanna be forever there.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Your eyes....I wanna be forever there."
+msgstr ""
+
+# mes "I promise that I will be your everything in any case, in any difficult situation.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "I promise that I will be your everything in any case, in any difficult situation."
+msgstr ""
+
+# mes "Today is the first day we met, but I love you, Lady <3 ";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "Today is the first day we met, but I love you, Lady <3 "
+msgstr ""
+
+# mes "And I am telling you this because I'm just worried about you. You need to get out of this town which is full of disappearance cases.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Giacomo Girolamo#kiup2"
+msgid "And I am telling you this because I'm just worried about you. You need to get out of this town which is full of disappearance cases."
+msgstr ""
+
+# mes "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000"
+msgstr ""
+
+# mes "[Weird old man]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "[Weird old man]"
+msgstr ""
+
+# mes "Phew, those young people nowadays, are so rude and have no manners.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Phew, those young people nowadays, are so rude and have no manners."
+msgstr ""
+
+# if(select("Ignore him", "Talk with him") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Ignore him"
+msgstr ""
+
+# if(select("Ignore him", "Talk with him") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Talk with him"
+msgstr ""
+
+# mes "You, Very bad young man!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "You, Very bad young man!"
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "["
+msgstr ""
+
+# mes "Sir, Are you alright??";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Sir, Are you alright??"
+msgstr ""
+
+# mes "....?? You are not like other young people. You have good manners! You know what happened to me..?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "....?? You are not like other young people. You have good manners! You know what happened to me..?"
+msgstr ""
+
+# mes "I was on the way to visit my son who lives in Rune Midgarts. It's really far away, so I took the airplane, and..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "I was on the way to visit my son who lives in Rune Midgarts. It's really far away, so I took the airplane, and.."
+msgstr ""
+
+# mes "those young people...so noisy.... I was standing but non of them offered me a seat..and they were just talking in loud voices which bothered everyone.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "those young people...so noisy.... I was standing but non of them offered me a seat..and they were just talking in loud voices which bothered everyone."
+msgstr ""
+
+# mes "I could lecture them if I were 10 years younger than now..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "I could lecture them if I were 10 years younger than now.."
+msgstr ""
+
+# mes "Pffff.. Never like the time passing....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Pffff.. Never like the time passing...."
+msgstr ""
+
+# mes "So, you... what would you do??";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "So, you... what would you do??"
+msgstr ""
+
+# mes "In an open, public place, you are supposed to stay quiet to the destination and offer your seat to the elderly and the infirm.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "In an open, public place, you are supposed to stay quiet to the destination and offer your seat to the elderly and the infirm."
+msgstr ""
+
+# mes "In an open, public place, you are supposed to stay quiet to the destination and offer your seat to the elderly and the infirm. Right?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "In an open, public place, you are supposed to stay quiet to the destination and offer your seat to the elderly and the infirm. Right?"
+msgstr ""
+
+# mes "Isn't that right?!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Isn't that right?!"
+msgstr ""
+
+# mes "Oh, and then! you know what...?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Oh, and then! you know what...?"
+msgstr ""
+
+# mes "Once I was walking in the town, and some boy were spitting on the street, and were bothering girls who were passing by...tut tut!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Once I was walking in the town, and some boy were spitting on the street, and were bothering girls who were passing by...tut tut!"
+msgstr ""
+
+# mes "The world is going to the dogs.. How will it be?? It was even a day time when they were doing it..tut tut.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "The world is going to the dogs.. How will it be?? It was even a day time when they were doing it..tut tut."
+msgstr ""
+
+# mes "Lately young people are not so patient!!!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Lately young people are not so patient!!!!"
+msgstr ""
+
+# mes "That often, they say they will quit.. they say they can't more. How will they live all the lift with that kind of mentality..tut tut.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "That often, they say they will quit.. they say they can't more. How will they live all the lift with that kind of mentality..tut tut."
+msgstr ""
+
+# mes "It's not easy to find a job, it is very difficult to be hired. But then they even cannot stand a week there, and leave the work already.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "It's not easy to find a job, it is very difficult to be hired. But then they even cannot stand a week there, and leave the work already."
+msgstr ""
+
+# mes "How impatient and irresponsible!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "How impatient and irresponsible!!"
+msgstr ""
+
+# mes "^E7A43DThe old man talked over and over again.^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "^E7A43DThe old man talked over and over again.^000000"
+msgstr ""
+
+# mes "Hm......You are not like common young people, you seem pretty patient too. I like that!!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Hm......You are not like common young people, you seem pretty patient too. I like that!!!"
+msgstr ""
+
+# mes "Now I am just an old, weak man but when I was young, I was a famous merchant in the town.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Now I am just an old, weak man but when I was young, I was a famous merchant in the town."
+msgstr ""
+
+# mes "It's been a while since I stopped the business,";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "It's been a while since I stopped the business,"
+msgstr ""
+
+# mes "but a former client of mine contacted me and asked me";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "but a former client of mine contacted me and asked me"
+msgstr ""
+
+# mes "If I could get him some unknown objects named 'Will of Warrior', 'Thirst for Blood', 'Chill of the Dead'.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "If I could get him some unknown objects named 'Will of Warrior', 'Thirst for Blood', 'Chill of the Dead'."
+msgstr ""
+
+# mes "I liked your politeness which is not like most of young people, so if you get me those, I will dare to give you some stuffs that I consider as my treasures.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "I liked your politeness which is not like most of young people, so if you get me those, I will dare to give you some stuffs that I consider as my treasures."
+msgstr ""
+
+# switch(select("When I gather them, I will come back", "Show me the armors", "Show me the weapons")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "When I gather them, I will come back"
+msgstr ""
+
+# switch(select("When I gather them, I will come back", "Show me the armors", "Show me the weapons")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Show me the armors"
+msgstr ""
+
+# switch(select("When I gather them, I will come back", "Show me the armors", "Show me the weapons")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Show me the weapons"
+msgstr ""
+
+# mes "OK, young man. See you later";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "OK, young man. See you later"
+msgstr ""
+
+# mes "So, you are interested in armors.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "So, you are interested in armors."
+msgstr ""
+
+# mes "These are the armors I have.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "These are the armors I have."
+msgstr ""
+
+# "Show me other items.",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Show me other items."
+msgstr ""
+
+# ""+.@armor$[1]+"Giant Shield^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Giant Shield^000000"
+msgstr ""
+
+# ""+.@armor$[2]+"Ancient Book of Geffenia-Water^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Ancient Book of Geffenia-Water^000000"
+msgstr ""
+
+# ""+.@armor$[3]+"Bible of Promise(2nd Vol.)^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Bible of Promise(2nd Vol.)^000000"
+msgstr ""
+
+# ""+.@armor$[4]+"Salvage Cape^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Salvage Cape^000000"
+msgstr ""
+
+# ""+.@armor$[5]+"Assassin's Handcuffs^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Assassin's Handcuffs^000000"
+msgstr ""
+
+# ""+.@armor$[6]+"Green Operating Gown^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Green Operating Gown^000000"
+msgstr ""
+
+# ""+.@armor$[7]+"Ancient Gold Decoration^000000"
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Ancient Gold Decoration^000000"
+msgstr ""
+
+# mes "Have a look.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Have a look."
+msgstr ""
+
+# mes "<<Giant Shield[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Giant Shield[1]>>"
+msgstr ""
+
+# mes "Decrease 5% of Damage from Large Monsters, if Refine Lv is 9, decrease 5% more of the Damage.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "Decrease 5% of Damage from Large Monsters, if Refine Lv is 9, decrease 5% more of the Damage."
+msgstr ""
+
+# mes "Shield / Def 130 / Weight 280 / Required Lv 100 / Socket 1 / for 3rd Swordman Classes";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Shield / Def 130 / Weight 280 / Required Lv 100 / Socket 1 / for 3rd Swordman Classes"
+msgstr ""
+
+# mes "<<Ancient Book of Geffenia-Water[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Ancient Book of Geffenia-Water[1]>>"
+msgstr ""
+
+# mes "INT + 1, MDEF + 2. If Original INT point is 120, MATK + 10, MHP + 800.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "INT + 1, MDEF + 2. If Original INT point is 120, MATK + 10, MHP + 800."
+msgstr ""
+
+# mes "When equipping with Lacryma Stick, the casting % from Storm Gust, Frost Misty and Jack frost will discount equivalent to 4 times Refine Lv.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "When equipping with Lacryma Stick, the casting % from Storm Gust, Frost Misty and Jack frost will discount equivalent to 4 times Refine Lv."
+msgstr ""
+
+# mes "Shield / Def 30 / Weight 100 / Required Lv 100 / Socket 1 / for Warlock";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Shield / Def 30 / Weight 100 / Required Lv 100 / Socket 1 / for Warlock"
+msgstr ""
+
+# mes "<<Bible of Promise(2nd Vol.)[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Bible of Promise(2nd Vol.)[1]>>"
+msgstr ""
+
+# mes "MDEF + 5, Allow to use 'Odin's Power'(Lv 2). Increase 5% more for Heal skill.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "MDEF + 5, Allow to use 'Odin's Power'(Lv 2). Increase 5% more for Heal skill."
+msgstr ""
+
+# mes "Shield / Def 20 / Weight 50 / Required Lv 140 / Socket 1 / for Archbishop";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Shield / Def 20 / Weight 50 / Required Lv 140 / Socket 1 / for Archbishop"
+msgstr ""
+
+# mes "<<Salvage Cape[0]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Salvage Cape[0]>>"
+msgstr ""
+
+# mes "Allow to use 'Cicada Skin Shed'(Lv 1). Cool time for this skill will be 30 seconds. When equiping it, SP consumption for using any skill will be doubled, When taking it off, SP - 1200.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Allow to use 'Cicada Skin Shed'(Lv 1). Cool time for this skill will be 30 seconds. When equiping it, SP consumption for using any skill will be doubled, When taking it off, SP - 1200."
+msgstr ""
+
+# mes "Garment / Def 1 / Weight 40 / Required Lv 130 / Socket 0 / for Archbishop";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Garment / Def 1 / Weight 40 / Required Lv 130 / Socket 0 / for Archbishop"
+msgstr ""
+
+# mes "<<Assassin's Handcuffs[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Assassin's Handcuffs[1]>>"
+msgstr ""
+
+# mes "MSP + 20, CRI + 3. When equipping with Krishna, ATK + 50, ATK power from 'Sonic Blow' 50% increased, FLEE - 30. When equipping with Cakram CRI + 4, Critical ATK power 40% increased, MHP - 10%.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "MSP + 20, CRI + 3. When equipping with Krishna, ATK + 50, ATK power from 'Sonic Blow' 50% increased, FLEE - 30. When equipping with Cakram CRI + 4, Critical ATK power 40% increased, MHP - 10%."
+msgstr ""
+
+# mes "Accessory / Def 3 / Weight 40 / Required Lv 100 / Socket 1 / for Guillotine Cross";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Accessory / Def 3 / Weight 40 / Required Lv 100 / Socket 1 / for Guillotine Cross"
+msgstr ""
+
+# mes "<<Green Operating Gown[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Green Operating Gown[1]>>"
+msgstr ""
+
+# mes "DEX + 1, MSP + 30. Equipping with Scalpel will let to drop 'Immortal Heart', 'Alcohol' with a certain chance when hunting Human, Animal type monsters. Refine Lv affects the drop rate.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "DEX + 1, MSP + 30. Equipping with Scalpel will let to drop 'Immortal Heart', 'Alcohol' with a certain chance when hunting Human, Animal type monsters. Refine Lv affects the drop rate."
+msgstr ""
+
+# mes "Armor / Def 66 / Weight 66 / Required Lv 100 / Socket 1 / for Generic";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Armor / Def 66 / Weight 66 / Required Lv 100 / Socket 1 / for Generic"
+msgstr ""
+
+# mes "<<Ancient Gold Decoration>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Ancient Gold Decoration>>"
+msgstr ""
+
+# mes "If the base Lv is 150, All State + 2. for Swordman, Merchant, Thief classes ATK + 8%, for Magician, Acolyte classes MATK + 8%, Heal Power + 7%, for Archer classes DEX + 3, Long Distance ATK power + 10%.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "If the base Lv is 150, All State + 2. for Swordman, Merchant, Thief classes ATK + 8%, for Magician, Acolyte classes MATK + 8%, Heal Power + 7%, for Archer classes DEX + 3, Long Distance ATK power + 10%."
+msgstr ""
+
+# mes "Helm / Def 7 / Location - Upper / Weight 40 / Required Lv 100 / Socket 1 / for 3rd Job Classes ";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Helm / Def 7 / Location - Upper / Weight 40 / Required Lv 100 / Socket 1 / for 3rd Job Classes "
+msgstr ""
+
+# mes "So, you are interested in weapons.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "So, you are interested in weapons."
+msgstr ""
+
+# mes "These are the weapons I've got.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "These are the weapons I've got."
+msgstr ""
+
+# ""+.@weapon$[1]+"Agent Katar^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Agent Katar^000000"
+msgstr ""
+
+# ""+.@weapon$[2]+"Guillotine Katar^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Guillotine Katar^000000"
+msgstr ""
+
+# ""+.@weapon$[3]+"Ygnus Stale^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Ygnus Stale^000000"
+msgstr ""
+
+# ""+.@weapon$[4]+"End Sektura^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "End Sektura^000000"
+msgstr ""
+
+# ""+.@weapon$[5]+"Cannon Spear^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Cannon Spear^000000"
+msgstr ""
+
+# ""+.@weapon$[6]+"Giant Lance^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Giant Lance^000000"
+msgstr ""
+
+# ""+.@weapon$[7]+"Chilly Spell Book^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Chilly Spell Book^000000"
+msgstr ""
+
+# ""+.@weapon$[8]+"Recovery Light^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Recovery Light^000000"
+msgstr ""
+
+# ""+.@weapon$[9]+"Aztoe Nail^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Aztoe Nail^000000"
+msgstr ""
+
+# ""+.@weapon$[10]+"Scarletto Nail^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Scarletto Nail^000000"
+msgstr ""
+
+# ""+.@weapon$[11]+"Bloody Cross^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Bloody Cross^000000"
+msgstr ""
+
+# ""+.@weapon$[12]+"Catapult^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Catapult^000000"
+msgstr ""
+
+# ""+.@weapon$[13]+"Big CrossBow^000000",
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Big CrossBow^000000"
+msgstr ""
+
+# ""+.@weapon$[14]+"Creeper Bow^000000"
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Creeper Bow^000000"
+msgstr ""
+
+# mes "<<Agent Katar[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Agent Katar[1]>>"
+msgstr ""
+
+# mes "Every 2 Original LUK points gets additional 1 HIT point";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Every 2 Original LUK points gets additional 1 HIT point"
+msgstr ""
+
+# mes "Katar / ATK 170 / Weight 120 / Weapon Lv 3 / Required Lv 100 / Socket 1 / for Guillotine Cross";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Katar / ATK 170 / Weight 120 / Weapon Lv 3 / Required Lv 100 / Socket 1 / for Guillotine Cross"
+msgstr ""
+
+# mes "<<Guillotine Katar[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Guillotine Katar[1]>>"
+msgstr ""
+
+# mes "DEX + 2. FLEE - 30. 50% more damage to Human monsters. Add 30% more damage for Cross Impact skill.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "DEX + 2. FLEE - 30. 50% more damage to Human monsters. Add 30% more damage for Cross Impact skill."
+msgstr ""
+
+# mes "Katar / ATK 200 / Weight 150 / Weapon Lv 4 / Required Lv 140 / Socket 1 / for Guillotine Cross";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Katar / ATK 200 / Weight 150 / Weapon Lv 4 / Required Lv 140 / Socket 1 / for Guillotine Cross"
+msgstr ""
+
+# mes "<<Ygnus Stale[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Ygnus Stale[1]>>"
+msgstr ""
+
+# mes "When doing short distance attack, Chance of inflicting o rreceiving Burn status when dealing physical damage.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "When doing short distance attack, Chance of inflicting o rreceiving Burn status when dealing physical damage."
+msgstr ""
+
+# mes "Two-Handed Axe / ATK 250 / Weight 190 / Fire Property / Weapon Lv 4 / Required Lv 95 / Socket 1 / for High Swordman/Merchant Classes";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Two-Handed Axe / ATK 250 / Weight 190 / Fire Property / Weapon Lv 4 / Required Lv 95 / Socket 1 / for High Swordman/Merchant Classes"
+msgstr ""
+
+# mes "<<End Sektura[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<End Sektura[1]>>"
+msgstr ""
+
+# mes "When doing short distance attack, cast Freezing to the player and to the enemy with a certain chance.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "When doing short distance attack, cast Freezing to the player and to the enemy with a certain chance."
+msgstr ""
+
+# mes "Two-Handed Axe / ATK 250 / Weight 190 / Water Property / Weapon Lv 4 / Required Lv 95 / Socket 1 / for High Swordman/Merchant Classes";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Two-Handed Axe / ATK 250 / Weight 190 / Water Property / Weapon Lv 4 / Required Lv 95 / Socket 1 / for High Swordman/Merchant Classes"
+msgstr ""
+
+# mes "<<Cannon Spear[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Cannon Spear[1]>>"
+msgstr ""
+
+# mes "MSP - 100, Increases 10% of Damage impacted with Cannon Spear, Additional ATK power of Cannon Spear equivalent to 3 times Refine Lv.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "MSP - 100, Increases 10% of Damage impacted with Cannon Spear, Additional ATK power of Cannon Spear equivalent to 3 times Refine Lv."
+msgstr ""
+
+# mes "One-Handed Spear / ATK 180 / Weight 160 / Weapon Lv 4 / Required Lv 100 / Socket 1 / for Royal Guard";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "One-Handed Spear / ATK 180 / Weight 160 / Weapon Lv 4 / Required Lv 100 / Socket 1 / for Royal Guard"
+msgstr ""
+
+# mes "<<Giant Lance[0]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Giant Lance[0]>>"
+msgstr ""
+
+# mes "ASPD - 10, When it's taken off, the character gets SP - 600. 20 more seconds of Delay time exists before using back the Clashing Spiral. If the original STR points are 120, + ATK 300.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "ASPD - 10, When it's taken off, the character gets SP - 600. 20 more seconds of Delay time exists before using back the Clashing Spiral. If the original STR points are 120, + ATK 300."
+msgstr ""
+
+# mes "Two-Handed Lance / ATK 20 / Weight 2000 / Weapon Lv 4 / Required Lv 140 / Socket 0 / for Rune Knight";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Two-Handed Lance / ATK 20 / Weight 2000 / Weapon Lv 4 / Required Lv 140 / Socket 0 / for Rune Knight"
+msgstr ""
+
+# mes "<<Chilly Spell Book[2]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Chilly Spell Book[2]>>"
+msgstr ""
+
+# mes "MATK + 160, DEX + 1. Increases ATK % of Cold Bolt, Diamond Dust equivalent to 3 times Refine Lv, also SP consumption from those skills increased equivalent to 5 times Refine Lv. Undestroyable.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "MATK + 160, DEX + 1. Increases ATK % of Cold Bolt, Diamond Dust equivalent to 3 times Refine Lv, also SP consumption from those skills increased equivalent to 5 times Refine Lv. Undestroyable."
+msgstr ""
+
+# mes "Book / ATK 100 / Weight 100 / Water Property / Weapon Lv 4 / Required Lv 100 / Socket 2 / for Sorcerer";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Book / ATK 100 / Weight 100 / Water Property / Weapon Lv 4 / Required Lv 100 / Socket 2 / for Sorcerer"
+msgstr ""
+
+# mes "<<Recovery Light[1]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Recovery Light[1]>>"
+msgstr ""
+
+# mes "MATK + 160. Depending on its Refine Lv, Heal Ability and SP consumption for the skill increased. Indestructible.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "MATK + 160. Depending on its Refine Lv, Heal Ability and SP consumption for the skill increased. Indestructible."
+msgstr ""
+
+# mes "One-Handed Staff / ATK 30 / Weight 40 / Saint Property / Weapon Lv 4 / Required Lv 110 / Socket 1 / for Archbishop.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "One-Handed Staff / ATK 30 / Weight 40 / Saint Property / Weapon Lv 4 / Required Lv 110 / Socket 1 / for Archbishop."
+msgstr ""
+
+# mes "<<Aztoe Nail[0]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Aztoe Nail[0]>>"
+msgstr ""
+
+# mes "MATK + 80. For Physical Melee Attack, cast Freezing to the target with a certain chance. The chance is affected by Refine Lv.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "MATK + 80. For Physical Melee Attack, cast Freezing to the target with a certain chance. The chance is affected by Refine Lv."
+msgstr ""
+
+# mes "Dagger / ATK 160 / Weight 50 / Wind Property / Weapon Lv 4 / Required Lv 110 / Socket 0 / for High Swordman/Merchant/Theif Classes";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Dagger / ATK 160 / Weight 50 / Wind Property / Weapon Lv 4 / Required Lv 110 / Socket 0 / for High Swordman/Merchant/Theif Classes"
+msgstr ""
+
+# mes "<<Scarletto Nail[0]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Scarletto Nail[0]>>"
+msgstr ""
+
+# mes "MATK + 80. For Physical Melee Attack, cast Stone curse to the target with a certain chance. The chance is affected by Refine Lv.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "MATK + 80. For Physical Melee Attack, cast Stone curse to the target with a certain chance. The chance is affected by Refine Lv."
+msgstr ""
+
+# mes "Dagger / ATK 160 / Weight 50 / Fire Property / Weapon Lv 4 / Required Lv 110 / Socket 0 / for High Swordman/Merchant/Theif Classes";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Dagger / ATK 160 / Weight 50 / Fire Property / Weapon Lv 4 / Required Lv 110 / Socket 0 / for High Swordman/Merchant/Theif Classes"
+msgstr ""
+
+# mes "<<Bloody Cross[0]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Bloody Cross[0]>>"
+msgstr ""
+
+# mes "For Physical Melee Attack, autocast 'Hell Inferno'(Lv 1) with a certain chance. The chance is affected by Refine Lv.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "For Physical Melee Attack, autocast 'Hell Inferno'(Lv 1) with a certain chance. The chance is affected by Refine Lv."
+msgstr ""
+
+# mes "Mace / ATK 170 / Weight 150 / Darkness Property / Weapon Lv 4 / Required Lv 100 / Socket 0 / for High Acolyte Classes";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Mace / ATK 170 / Weight 150 / Darkness Property / Weapon Lv 4 / Required Lv 100 / Socket 0 / for High Acolyte Classes"
+msgstr ""
+
+# mes "<<Catapult[2]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Catapult[2]>>"
+msgstr ""
+
+# mes "Increases ATK % of 'Triangle Shot' equivalent to 2 times Refine Lv, Also SP consumption from the skill increased.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "Increases ATK % of 'Triangle Shot' equivalent to 2 times Refine Lv, Also SP consumption from the skill increased."
+msgstr ""
+
+# mes "Bow / ATK 150 / Weight 110 / Weapon Lv 4 / Required Lv 100 / Socket 2 / for Shadow Chaser";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Bow / ATK 150 / Weight 110 / Weapon Lv 4 / Required Lv 100 / Socket 2 / for Shadow Chaser"
+msgstr ""
+
+# mes "<<Big CrossBow[2]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Big CrossBow[2]>>"
+msgstr ""
+
+# mes "Increases ATK % of 'Arrow Storm' equivalent to 5 times Refine Lv. Also SP consumption from the skill increased, If the Original AGI points are 120, ASPD + 1.";
+#: npc/re/instances/WolfchevLaboratory.txt
+#, no-c-format
+msgctxt "Weird old man#Bio4Reward"
+msgid "Increases ATK % of 'Arrow Storm' equivalent to 5 times Refine Lv. Also SP consumption from the skill increased, If the Original AGI points are 120, ASPD + 1."
+msgstr ""
+
+# mes "Bow / ATK 160 / Weight 90 / Weapon Lv 4 / Required Lv 110 / Socket 2 / for Ranger";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Bow / ATK 160 / Weight 90 / Weapon Lv 4 / Required Lv 110 / Socket 2 / for Ranger"
+msgstr ""
+
+# mes "<<Creeper Bow[2]>>";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "<<Creeper Bow[2]>>"
+msgstr ""
+
+# mes "DEX + 1, For Physical Attack, auto-cast 'Fiber Lock'(Lv 1) with a certain chance.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "DEX + 1, For Physical Attack, auto-cast 'Fiber Lock'(Lv 1) with a certain chance."
+msgstr ""
+
+# mes "Bow / ATK 150 / Weight 150 / Weapon Lv 3 / Required Lv 120 / Socket 2 / for 3rd Archer Classes";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Bow / ATK 150 / Weight 150 / Weapon Lv 3 / Required Lv 120 / Socket 2 / for 3rd Archer Classes"
+msgstr ""
+
+# if(select("Don't exchange", "Exchange") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Don't exchange"
+msgstr ""
+
+# if(select("Don't exchange", "Exchange") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Exchange"
+msgstr ""
+
+# mes "Okay..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "Okay.."
+msgstr ""
+
+# mes "There you go. Visit me sometimes and we could talk.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Weird old man#Bio4Reward"
+msgid "There you go. Visit me sometimes and we could talk."
+msgstr ""
+
+# mes "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000"
+msgstr ""
+
+# mes "[Pudding]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "[Pudding]"
+msgstr ""
+
+# mes "... .... ...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "... .... ..."
+msgstr ""
+
+# switch(select("Umba umba humbaa", "What are you doing here?", "Which are the equipments found so far?", "Here you are, Sir.")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Umba umba humbaa"
+msgstr ""
+
+# switch(select("Umba umba humbaa", "What are you doing here?", "Which are the equipments found so far?", "Here you are, Sir.")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "What are you doing here?"
+msgstr ""
+
+# switch(select("Umba umba humbaa", "What are you doing here?", "Which are the equipments found so far?", "Here you are, Sir.")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Which are the equipments found so far?"
+msgstr ""
+
+# switch(select("Umba umba humbaa", "What are you doing here?", "Which are the equipments found so far?", "Here you are, Sir.")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Here you are, Sir."
+msgstr ""
+
+# mes "Hey, excuse me, but I'm not from Umbala! You are so rude.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Hey, excuse me, but I'm not from Umbala! You are so rude."
+msgstr ""
+
+# mes "As you can see, I'm a training Sorcerer, and my name is Pudding.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "As you can see, I'm a training Sorcerer, and my name is Pudding."
+msgstr ""
+
+# select("....?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "....?"
+msgstr ""
+
+# mes "... What's that face? I'm starting to feel unpleasant..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "... What's that face? I'm starting to feel unpleasant.."
+msgstr ""
+
+# mes "Couple of days ago, while I was undergoing discipline, I felt a strange, bizzare tinge. So I followed that and it brought me here.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Couple of days ago, while I was undergoing discipline, I felt a strange, bizzare tinge. So I followed that and it brought me here."
+msgstr ""
+
+# select("I see.");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "I see."
+msgstr ""
+
+# mes "OK, let me continue. I am so bothered if you disturb me while I'm talking.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "OK, let me continue. I am so bothered if you disturb me while I'm talking."
+msgstr ""
+
+# mes "And I entered to the laboratory here in order to investigate, and oh gosh! I found those monsters which were like doppelgangers from 'Geffen Dungeon'. It was full of them.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "And I entered to the laboratory here in order to investigate, and oh gosh! I found those monsters which were like doppelgangers from 'Geffen Dungeon'. It was full of them."
+msgstr ""
+
+# mes "From those monsters, I could find rare items like '^F2766EWill of Warrior^000000' '^952420Thirst for Blood^000000' '^88C6F7Chill of the Dead^000000' which you cannot find from any other place.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "From those monsters, I could find rare items like '^F2766EWill of Warrior^000000' '^952420Thirst for Blood^000000' '^88C6F7Chill of the Dead^000000' which you cannot find from any other place."
+msgstr ""
+
+# mes "And after many hours of research on my own, I finally figured out a way to use those items. Do you wanna know?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "And after many hours of research on my own, I finally figured out a way to use those items. Do you wanna know?"
+msgstr ""
+
+# switch(select("Oh....pardon?!", "Of course, I really wanna know.")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Oh....pardon?!"
+msgstr ""
+
+# switch(select("Oh....pardon?!", "Of course, I really wanna know.")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Of course, I really wanna know."
+msgstr ""
+
+# mes "Oh my! You fell asleep after you asked me something? Well, anyway I feel lazy to explain again so I will just continue.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Oh my! You fell asleep after you asked me something? Well, anyway I feel lazy to explain again so I will just continue."
+msgstr ""
+
+# mes "Good, I am content that you are listening to my story carefully. Then I will keep explaining.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Good, I am content that you are listening to my story carefully. Then I will keep explaining."
+msgstr ""
+
+# mes "Those '^F2766EWill of Warrior^000000' and '^952420Thirst for Blood^000000'..... are aggresive but warm materials.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Those '^F2766EWill of Warrior^000000' and '^952420Thirst for Blood^000000'..... are aggresive but warm materials."
+msgstr ""
+
+# mes "So '^F2766EWill of Warrior^000000' can dwell a special power to the 4th slot of an equipment,";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "So '^F2766EWill of Warrior^000000' can dwell a special power to the 4th slot of an equipment,"
+msgstr ""
+
+# mes "and '^952420Thirst for Blood^000000' can dwell a special power to the 3rd slot.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "and '^952420Thirst for Blood^000000' can dwell a special power to the 3rd slot."
+msgstr ""
+
+# mes "Whereas!!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Whereas!!!"
+msgstr ""
+
+# mes "'^88C6F7Chill of the Dead^000000' is a cold type material.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "'^88C6F7Chill of the Dead^000000' is a cold type material."
+msgstr ""
+
+# mes "which allows to return the power from '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000' so it let the equipment to be 'ZERO'.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "which allows to return the power from '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000' so it let the equipment to be 'ZERO'."
+msgstr ""
+
+# mes "What do you say? Doesn't it sound interesting? But, there's a problem...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "What do you say? Doesn't it sound interesting? But, there's a problem..."
+msgstr ""
+
+# mes "Since those materials can only be found from the monsters in the Lab., the special power also can be dwelt into certain equipments which can be obtained from the Lab.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Since those materials can only be found from the monsters in the Lab., the special power also can be dwelt into certain equipments which can be obtained from the Lab."
+msgstr ""
+
+# select("So what's the conclusion?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "So what's the conclusion?"
+msgstr ""
+
+# mes "Gee.. I told you not to cut while I talk, didn't I? Well, I will answer that becuase that's important.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Gee.. I told you not to cut while I talk, didn't I? Well, I will answer that becuase that's important."
+msgstr ""
+
+# mes "If you bring me 10 '^F2766EWill of Warrior^000000' or 10 '^952420Thirst for Blood^000000', I will dwell some power to certain equipments that you can find in the Lab..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "If you bring me 10 '^F2766EWill of Warrior^000000' or 10 '^952420Thirst for Blood^000000', I will dwell some power to certain equipments that you can find in the Lab.."
+msgstr ""
+
+# mes "And if you are not satisfied with the power you got, bring me 10 '^88C6F7Chill of the Dead^000000', and I will take off that power.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "And if you are not satisfied with the power you got, bring me 10 '^88C6F7Chill of the Dead^000000', and I will take off that power."
+msgstr ""
+
+# mes "WHat do you say? Having both options.....quite nice, huh?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "WHat do you say? Having both options.....quite nice, huh?"
+msgstr ""
+
+# mes "If you obtain '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000', and obtain also equipment which is capable to accept their power, bring them to me. I will be waiting.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "If you obtain '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000', and obtain also equipment which is capable to accept their power, bring them to me. I will be waiting."
+msgstr ""
+
+# mes "Hm.... Equipment which are discovered so far are....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Hm.... Equipment which are discovered so far are...."
+msgstr ""
+
+# mes "- checking -";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "- checking -"
+msgstr ""
+
+# mes "Pudding takes some paper out from a pocket.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Pudding takes some paper out from a pocket."
+msgstr ""
+
+# mes "Let me see.. the equipments discovered until now are....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Let me see.. the equipments discovered until now are...."
+msgstr ""
+
+# mes "6 Armors, 14 Weapons.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "6 Armors, 14 Weapons."
+msgstr ""
+
+# switch(select("Ok, I don't have to know more.", "6 Armors", "14 Weapons")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Ok, I don't have to know more."
+msgstr ""
+
+# switch(select("Ok, I don't have to know more.", "6 Armors", "14 Weapons")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "6 Armors"
+msgstr ""
+
+# switch(select("Ok, I don't have to know more.", "6 Armors", "14 Weapons")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "14 Weapons"
+msgstr ""
+
+# mes "< Armor List >";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "< Armor List >"
+msgstr ""
+
+# mes "Giant Shield[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Giant Shield[1]"
+msgstr ""
+
+# mes "Acient Book of Geffenia-Water[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Acient Book of Geffenia-Water[1]"
+msgstr ""
+
+# mes "Bible of Promise(2nd Vol.)[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Bible of Promise(2nd Vol.)[1]"
+msgstr ""
+
+# mes "Salvage Cape[0]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Salvage Cape[0]"
+msgstr ""
+
+# mes "Assassin's Handcuffs[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Assassin's Handcuffs[1]"
+msgstr ""
+
+# mes "Green Operating Gown[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Green Operating Gown[1]"
+msgstr ""
+
+# mes "Ancient Gold Decoration[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Ancient Gold Decoration[1]"
+msgstr ""
+
+# mes "So far these are the Armors discovered. Do you wanna see other things?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "So far these are the Armors discovered. Do you wanna see other things?"
+msgstr ""
+
+# mes "< Weapon List >";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "< Weapon List >"
+msgstr ""
+
+# mes "Agent Katar[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Agent Katar[1]"
+msgstr ""
+
+# mes "Guillotine Katar[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Guillotine Katar[1]"
+msgstr ""
+
+# mes "Ygnus Stale[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Ygnus Stale[1]"
+msgstr ""
+
+# mes "End Sektura[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "End Sektura[1]"
+msgstr ""
+
+# mes "Cannon Spear[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Cannon Spear[1]"
+msgstr ""
+
+# mes "Giant Lance[0]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Giant Lance[0]"
+msgstr ""
+
+# mes "Chilly Spell Book[2]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Chilly Spell Book[2]"
+msgstr ""
+
+# mes "Recovery Light[1]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Recovery Light[1]"
+msgstr ""
+
+# mes "Aztoe Nail[0]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Aztoe Nail[0]"
+msgstr ""
+
+# mes "Scarletto Nail[0]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Scarletto Nail[0]"
+msgstr ""
+
+# mes "Bloody Cross[0]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Bloody Cross[0]"
+msgstr ""
+
+# mes "Catapult[2]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Catapult[2]"
+msgstr ""
+
+# mes "Big CrossBow[2]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Big CrossBow[2]"
+msgstr ""
+
+# mes "Creeper Bow[2]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Creeper Bow[2]"
+msgstr ""
+
+# mes "So far these are the Weapons discovered. Do you wanna see other things?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "So far these are the Weapons discovered. Do you wanna see other things?"
+msgstr ""
+
+# mes "Ohhhhh Have you brought them?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Ohhhhh Have you brought them?"
+msgstr ""
+
+# mes "OKAY! In which equipment you want to dwell the power?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "OKAY! In which equipment you want to dwell the power?"
+msgstr ""
+
+# switch(select("I changed my mind.", .@equipped$[0], .@equipped$[1], .@equipped$[2], .@equipped$[3], .@equipped$[4],
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "I changed my mind."
+msgstr ""
+
+# mes "Well, I was looking forward to doing it, but I cannot help then.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Well, I was looking forward to doing it, but I cannot help then."
+msgstr ""
+
+# mes "Hey..Where is the armor?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Hey..Where is the armor?"
+msgstr ""
+
+# mes "Well.. You are not equipping anything on the left hand.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Well.. You are not equipping anything on the left hand."
+msgstr ""
+
+# mes "Well.. You are not equipping anything on the right hand.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Well.. You are not equipping anything on the right hand."
+msgstr ""
+
+# mes "Um.... Where's your robe?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Um.... Where's your robe?"
+msgstr ""
+
+# mes ".....Where's the accessory?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid ".....Where's the accessory?"
+msgstr ""
+
+# mes "Hey.. Are you not wearing any Helm?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Hey.. Are you not wearing any Helm?"
+msgstr ""
+
+# mes "Before! I need to check if this equipment can accept the power.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Before! I need to check if this equipment can accept the power."
+msgstr ""
+
+# mes "Hm.... This equipment cannot accept the power of '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000'.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Hm.... This equipment cannot accept the power of '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000'."
+msgstr ""
+
+# mes "OHHH.. This equipment could accept the power of '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000'.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "OHHH.. This equipment could accept the power of '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000'."
+msgstr ""
+
+# mes "OK! Which power do you want to dwell in your equipment?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "OK! Which power do you want to dwell in your equipment?"
+msgstr ""
+
+# switch(select("I say no! I don't need that!!", .@menu_in$[1], .@menu_in$[2], .@menu_in$[3])) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "I say no! I don't need that!!"
+msgstr ""
+
+# mes "Ohhh.. I was looking forward to doing it, but it's all up to you......";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Ohhh.. I was looking forward to doing it, but it's all up to you......"
+msgstr ""
+
+# mes "Not enough '^F2766EWill of Warrior^000000', You need to bring 10 '^F2766EWill of Warrior^000000'";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Not enough '^F2766EWill of Warrior^000000', You need to bring 10 '^F2766EWill of Warrior^000000'"
+msgstr ""
+
+# mes "This equipment already got the power of '^F2766EWill of Warrior^000000'.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "This equipment already got the power of '^F2766EWill of Warrior^000000'."
+msgstr ""
+
+# mes "Not enough '^952420Thirst for Blood^000000', You need to bring 10 '^952420Thirst for Blood^000000'";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Not enough '^952420Thirst for Blood^000000', You need to bring 10 '^952420Thirst for Blood^000000'"
+msgstr ""
+
+# mes "This equipment already got the power of '^952420Thirst for Blood^000000'.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "This equipment already got the power of '^952420Thirst for Blood^000000'."
+msgstr ""
+
+# mes "Alright, which power do you want to remove?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Alright, which power do you want to remove?"
+msgstr ""
+
+# .@menu = select("No, I don't wannna remove any.", .@menu_clear$[1], .@menu_clear$[2]);
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "No, I don't wannna remove any."
+msgstr ""
+
+# mes "Really? Ok. I got it..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Really? Ok. I got it.."
+msgstr ""
+
+# mes "Not enough '^88C6F7Chill of the Dead^000000', You need to bring 10 '^88C6F7Chill of the Dead^000000'";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Not enough '^88C6F7Chill of the Dead^000000', You need to bring 10 '^88C6F7Chill of the Dead^000000'"
+msgstr ""
+
+# mes "This equipment didn't get any special power.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "This equipment didn't get any special power."
+msgstr ""
+
+# mes "The power of '^952420Thirst for Blood^000000' has been perfectly removed.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "The power of '^952420Thirst for Blood^000000' has been perfectly removed."
+msgstr ""
+
+# mes "The power of '^F2766EWill of Warrior^000000' has been perfectly removed.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "The power of '^F2766EWill of Warrior^000000' has been perfectly removed."
+msgstr ""
+
+# mes "Before I dwell the power, let me explain to you cautions.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Before I dwell the power, let me explain to you cautions."
+msgstr ""
+
+# mes "While dwelling the power of '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000', the equipment would be not capable to accept that and will be destryed..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "While dwelling the power of '^F2766EWill of Warrior^000000' or '^952420Thirst for Blood^000000', the equipment would be not capable to accept that and will be destryed.."
+msgstr ""
+
+# mes "^9D2628If the equipment is destroyed, you will also lose the cards you inserted in it, and the refine Lv will be removed too.^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "^9D2628If the equipment is destroyed, you will also lose the cards you inserted in it, and the refine Lv will be removed too.^000000"
+msgstr ""
+
+# mes "Alright. will you really wish to dwell the power into the equipment?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Alright. will you really wish to dwell the power into the equipment?"
+msgstr ""
+
+# if(select("Wait, I will think again.", "Sure, carry on.") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Wait, I will think again."
+msgstr ""
+
+# if(select("Wait, I will think again.", "Sure, carry on.") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Sure, carry on."
+msgstr ""
+
+# mes "OK. I will be hoping to see you again.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "OK. I will be hoping to see you again."
+msgstr ""
+
+# mes "I wish you made a correct decision...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "I wish you made a correct decision..."
+msgstr ""
+
+# mes "...Well....the equipment could not accept the power of "+((.@socket_type==3)?"'^952420Thirst for Blood^000000'":"'^F2766EWill of Warrior^000000'")+" and it got destroyed.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "...Well....the equipment could not accept the power of "
+msgstr ""
+
+# mes "...Well....the equipment could not accept the power of "+((.@socket_type==3)?"'^952420Thirst for Blood^000000'":"'^F2766EWill of Warrior^000000'")+" and it got destroyed.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "'^952420Thirst for Blood^000000'"
+msgstr ""
+
+# mes "...Well....the equipment could not accept the power of "+((.@socket_type==3)?"'^952420Thirst for Blood^000000'":"'^F2766EWill of Warrior^000000'")+" and it got destroyed.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "'^F2766EWill of Warrior^000000'"
+msgstr ""
+
+# mes "...Well....the equipment could not accept the power of "+((.@socket_type==3)?"'^952420Thirst for Blood^000000'":"'^F2766EWill of Warrior^000000'")+" and it got destroyed.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid " and it got destroyed."
+msgstr ""
+
+# mes "Fortunately the power of "+((.@socket_type==3)?"'^952420Thirst for Blood^000000'":"'^F2766EWill of Warrior^000000'")+" has been dwelt well in your equipment..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid "Fortunately the power of "
+msgstr ""
+
+# mes "Fortunately the power of "+((.@socket_type==3)?"'^952420Thirst for Blood^000000'":"'^F2766EWill of Warrior^000000'")+" has been dwelt well in your equipment..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Sorcerer#Bio4Reward"
+msgid " has been dwelt well in your equipment.."
+msgstr ""
+
+# mes "In order to investigate human experimentation, I had to go down whilst I didn't want to because of gruesome sound.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "lhz_dun03_lhz_dun04"
+msgid "In order to investigate human experimentation, I had to go down whilst I didn't want to because of gruesome sound."
+msgstr ""
+
+# mes "- Whistling sound -";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "lhz_dun03_lhz_dun04"
+msgid "- Whistling sound -"
+msgstr ""
+
+# mes "From below, there comes a gruesome sound mingling with the wind.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "lhz_dun03_lhz_dun04"
+msgid "From below, there comes a gruesome sound mingling with the wind."
+msgstr ""
+
+# mes "I arrived at a research facility which seems it has been used till these days.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "#01Startpoint"
+msgid "I arrived at a research facility which seems it has been used till these days."
+msgstr ""
+
+# mes "There are some destroyed part, but the basic facility seem fine.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "#01Startpoint"
+msgid "There are some destroyed part, but the basic facility seem fine."
+msgstr ""
+
+# mes "Get around a little more..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "#01Startpoint"
+msgid "Get around a little more.."
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "["
+msgstr ""
+
+# mes "You!!!! are Wolfchev?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "You!!!! are Wolfchev?"
+msgstr ""
+
+# mes "[Wolfchev]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "[Wolfchev]"
+msgstr ""
+
+# mes "A Human! kaahaha. People tend to hate this place, why are you here?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "A Human! kaahaha. People tend to hate this place, why are you here?"
+msgstr ""
+
+# mes "You!!! I heard that you were committing human experimentation. Wolfchev!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "You!!! I heard that you were committing human experimentation. Wolfchev!!"
+msgstr ""
+
+# mes "And I see that you are still committing that!!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "And I see that you are still committing that!!!"
+msgstr ""
+
+# mes "Kihihihi. I can see that you know something about me. Is that you who accused me?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "Kihihihi. I can see that you know something about me. Is that you who accused me?"
+msgstr ""
+
+# mes "How dare you come back to me after you did that. Kihihih";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "How dare you come back to me after you did that. Kihihih"
+msgstr ""
+
+# mes "I feel good to see a human";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "I feel good to see a human"
+msgstr ""
+
+# mes "in a long time, but I gotta go. Kihihihi.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "in a long time, but I gotta go. Kihihihi."
+msgstr ""
+
+# mes "- Wolfchev ran away giving a awkward laughing sound. -";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "- Wolfchev ran away giving a awkward laughing sound. -"
+msgstr ""
+
+# mes "Whoa! Wolfchev, stop!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#02"
+msgid "Whoa! Wolfchev, stop!"
+msgstr ""
+
+# mes "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000"
+msgstr ""
+
+# mes "[Wolfchev]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "[Wolfchev]"
+msgstr ""
+
+# mes "(Gasping) Pshaw... you are still following me. Hey, why do you keep following me?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "(Gasping) Pshaw... you are still following me. Hey, why do you keep following me?"
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "["
+msgstr ""
+
+# mes "Wolfchev.. You said before. that you are doing research for everybody.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "Wolfchev.. You said before. that you are doing research for everybody."
+msgstr ""
+
+# mes "I might have said that.... so what?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "I might have said that.... so what?"
+msgstr ""
+
+# mes "But, your experiment seem really dangerous. How come this is what everybody wants?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "But, your experiment seem really dangerous. How come this is what everybody wants?"
+msgstr ""
+
+# mes "Everyone has a desire to be stronger and wants to dominate others so those other people obey and admire you. Do you not have that desire?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "Everyone has a desire to be stronger and wants to dominate others so those other people obey and admire you. Do you not have that desire?"
+msgstr ""
+
+# mes "... .... ...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "... .... ..."
+msgstr ""
+
+# mes "If you want to save yourself, should stop following me. Bugger off.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "If you want to save yourself, should stop following me. Bugger off."
+msgstr ""
+
+# mes "Wolfchev is again running away with a strange sound.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "Wolfchev is again running away with a strange sound."
+msgstr ""
+
+# mes "Awwww!! You!! running away again..... Stop!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#03"
+msgid "Awwww!! You!! running away again..... Stop!"
+msgstr ""
+
+# mes "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000"
+msgstr ""
+
+# mes "[Wolfchev]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "[Wolfchev]"
+msgstr ""
+
+# mes "You are pretty persistent, aren't you? Or I think.......that you like me, huh? Kihihii.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "You are pretty persistent, aren't you? Or I think.......that you like me, huh? Kihihii."
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "["
+msgstr ""
+
+# mes "... .... ...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "... .... ..."
+msgstr ""
+
+# mes "Wolfchev mocked you at your silence and pressed a button in his hand. Then guinea pigs woken up around him.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Wolfchev mocked you at your silence and pressed a button in his hand. Then guinea pigs woken up around him."
+msgstr ""
+
+# mes "Again.. it's time to say goodbye.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Again.. it's time to say goodbye."
+msgstr ""
+
+# mes "Well! May be....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Well! May be...."
+msgstr ""
+
+# mes "If you come to me for the experimentation, I can treat you better.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "If you come to me for the experimentation, I can treat you better."
+msgstr ""
+
+# mes "Oh my,... What happened?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Oh my,... What happened?"
+msgstr ""
+
+# mes "No! Don't come to me! Don't!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "No! Don't come to me! Don't!!"
+msgstr ""
+
+# mes "First of all, I gotta handle those guinea pigs!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "First of all, I gotta handle those guinea pigs!"
+msgstr ""
+
+# mes "Wolfchev is confused and has no idea now since those monsters are attacking him too.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Wolfchev is confused and has no idea now since those monsters are attacking him too."
+msgstr ""
+
+# mes "- Hit him to wake him up -";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "- Hit him to wake him up -"
+msgstr ""
+
+# mes "Hey Dude! Anyway let's get out of here first! Isn't there any place where they cannot reach?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Hey Dude! Anyway let's get out of here first! Isn't there any place where they cannot reach?"
+msgstr ""
+
+# mes "Oooops.. then my....my lab....to my lab...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Oooops.. then my....my lab....to my lab..."
+msgstr ""
+
+# mes "Your lab?? Okay, where's that?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Your lab?? Okay, where's that?"
+msgstr ""
+
+# mes "to the north....... . Not so far from here..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "to the north....... . Not so far from here.."
+msgstr ""
+
+# mes "Go to '^0000FFWolfchev's Lab^000000' at the 12 o'clock direction...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#04"
+msgid "Go to '^0000FFWolfchev's Lab^000000' at the 12 o'clock direction..."
+msgstr ""
+
+# mes "I arrived at '^0000FFWolfchev's Lab^000000'.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "#Move2lab"
+msgid "I arrived at '^0000FFWolfchev's Lab^000000'."
+msgstr ""
+
+# mes "I still have something to do with Wolfchev.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "#Move2lab"
+msgid "I still have something to do with Wolfchev."
+msgstr ""
+
+# mes "^FF0000You cannot continue the process due to possessing too many belongings.^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "^FF0000You cannot continue the process due to possessing too many belongings.^000000"
+msgstr ""
+
+# mes "[Researcher]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "[Researcher]"
+msgstr ""
+
+# mes "What! Do you have any business here?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "What! Do you have any business here?"
+msgstr ""
+
+# if(select("Yes I do!!", "Umm.. No..") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Yes I do!!"
+msgstr ""
+
+# if(select("Yes I do!!", "Umm.. No..") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Umm.. No.."
+msgstr ""
+
+# mes "Why don't stop staring at other's laboratory, and be on your way?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Why don't stop staring at other's laboratory, and be on your way?"
+msgstr ""
+
+# mes "Stop wondering here, and be on your way. Will you? Khh Khh.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Stop wondering here, and be on your way. Will you? Khh Khh."
+msgstr ""
+
+# mes "It seems experimental creatures cannot come near the laboratory, just like Wolfchev said.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "It seems experimental creatures cannot come near the laboratory, just like Wolfchev said."
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "["
+msgstr ""
+
+# mes "Hey, is there any way to stop those creatures? You should know something, you made those things!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Hey, is there any way to stop those creatures? You should know something, you made those things!"
+msgstr ""
+
+# mes "[Wolfchev]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "[Wolfchev]"
+msgstr ""
+
+# mes "Urrgg.. I didn't expect them to loose control like that...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Urrgg.. I didn't expect them to loose control like that..."
+msgstr ""
+
+# mes "What is wrong with this whole thing?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "What is wrong with this whole thing?"
+msgstr ""
+
+# mes "Urr.. I think they will ruin my whole laboratory!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Urr.. I think they will ruin my whole laboratory!"
+msgstr ""
+
+# mes "Hey! Wolfchev!!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Hey! Wolfchev!!"
+msgstr ""
+
+# mes "You!? Hey, please stop them!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "You!? Hey, please stop them!"
+msgstr ""
+
+# mes "Creatures are ^9f6077organically connected with same job field^000000.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Creatures are ^9f6077organically connected with same job field^000000."
+msgstr ""
+
+# mes "There is one special creature being their ^46B951boss position^000000...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "There is one special creature being their ^46B951boss position^000000..."
+msgstr ""
+
+# mes "If you could deactivate that creature, all ^A1BB44slave creatures^000000 walking around here will stop moving right away.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "If you could deactivate that creature, all ^A1BB44slave creatures^000000 walking around here will stop moving right away."
+msgstr ""
+
+# mes "Boss creature?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Boss creature?"
+msgstr ""
+
+# mes "Hey! Wolfchev! Where is that ^46B951Boss creature^000000?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Hey! Wolfchev! Where is that ^46B951Boss creature^000000?"
+msgstr ""
+
+# mes "Inside.. of laboratory.. It should be waken up now. It's sad to destroy my life of work, but I can't take this any more.. ...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Inside.. of laboratory.. It should be waken up now. It's sad to destroy my life of work, but I can't take this any more.. ..."
+msgstr ""
+
+# mes "How can I get into the Wolfchev's laboratory?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "How can I get into the Wolfchev's laboratory?"
+msgstr ""
+
+# mes "Oh.. Wait!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Oh.. Wait!"
+msgstr ""
+
+# mes "I will help you get in there.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "I will help you get in there."
+msgstr ""
+
+# mes "Good news is that boss creatures are not set up to wake up all at once, even though slaves are.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Good news is that boss creatures are not set up to wake up all at once, even though slaves are."
+msgstr ""
+
+# mes "But still, it is really dangerous since we don't know when they will escape from there.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "But still, it is really dangerous since we don't know when they will escape from there."
+msgstr ""
+
+# mes "So, please prepare your party members, and take care of those boss creatures. I'm not sure how long this place can hold.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "So, please prepare your party members, and take care of those boss creatures. I'm not sure how long this place can hold."
+msgstr ""
+
+# mes "Are you all set there? I will prepare the entrance if you are the leader of that party.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Are you all set there? I will prepare the entrance if you are the leader of that party."
+msgstr ""
+
+# switch(select("Any warnings?", "Going into the laboratory", "Do not enter")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Any warnings?"
+msgstr ""
+
+# switch(select("Any warnings?", "Going into the laboratory", "Do not enter")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Going into the laboratory"
+msgstr ""
+
+# switch(select("Any warnings?", "Going into the laboratory", "Do not enter")) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Do not enter"
+msgstr ""
+
+# mes "I didn't know pressing the emergency alarm would cause such problem. The management system seems to be changed to emergency mode.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "I didn't know pressing the emergency alarm would cause such problem. The management system seems to be changed to emergency mode."
+msgstr ""
+
+# mes "There are so many systems set up inside of the laboratory, so eve I cannot be sure how systems are twisted by now.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "There are so many systems set up inside of the laboratory, so eve I cannot be sure how systems are twisted by now."
+msgstr ""
+
+# mes "Ah! If the emergency system is activating, only the leader of party should control everything. It is a lot of pressure I understand.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Ah! If the emergency system is activating, only the leader of party should control everything. It is a lot of pressure I understand."
+msgstr ""
+
+# mes "And just so you know, please do not touch random things out of curiosity. I don't want you to get hurt.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "And just so you know, please do not touch random things out of curiosity. I don't want you to get hurt."
+msgstr ""
+
+# mes "I'm sorry, but it seems you still cannot enter to the laboratory yet. Will you come back later? The system is kind of tricky you know.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "I'm sorry, but it seems you still cannot enter to the laboratory yet. Will you come back later? The system is kind of tricky you know."
+msgstr ""
+
+# mes "You came back, Ka Ha Ha.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "You came back, Ka Ha Ha."
+msgstr ""
+
+# mes "After you left, I was fixing some system parts. And then suddenly strange thing happened.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "After you left, I was fixing some system parts. And then suddenly strange thing happened."
+msgstr ""
+
+# mes "What was that?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "What was that?"
+msgstr ""
+
+# mes "All those boss creatures you took care of started to regenerate themselves..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "All those boss creatures you took care of started to regenerate themselves.."
+msgstr ""
+
+# mes "What.. How is that possible...?!";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "What.. How is that possible...?!"
+msgstr ""
+
+# mes "I am also completely lost here.. But, this should not be happening..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "I am also completely lost here.. But, this should not be happening.."
+msgstr ""
+
+# mes "... .... ...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "... .... ..."
+msgstr ""
+
+# mes "As you can see, you are the only one I can trust. Would you and your party help me once again deactivating those creatures?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "As you can see, you are the only one I can trust. Would you and your party help me once again deactivating those creatures?"
+msgstr ""
+
+# if(select("I am not sure", "Why not") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "I am not sure"
+msgstr ""
+
+# if(select("I am not sure", "Why not") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Why not"
+msgstr ""
+
+# mes "I see. I understand why you are hesitating, and don't want to press you any more. But, still I'm not sure why you want go there anyways,";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "I see. I understand why you are hesitating, and don't want to press you any more. But, still I'm not sure why you want go there anyways,"
+msgstr ""
+
+# mes "Thank you very much. "+strcharinfo(PC_NAME)+"";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Thank you very much. "
+msgstr ""
+
+# mes "I will help you get in the laboratory right away.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "I will help you get in the laboratory right away."
+msgstr ""
+
+# mes "Hmm.. Those boss creatures regenerating once again..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Hmm.. Those boss creatures regenerating once again.."
+msgstr ""
+
+# mes "Can you help me just one more time?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Can you help me just one more time?"
+msgstr ""
+
+# mes "Thank you. "+strcharinfo(PC_NAME)+"";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Thank you. "
+msgstr ""
+
+# mes "You want to get in there fast, right?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "You want to get in there fast, right?"
+msgstr ""
+
+# mes("Hmm.. Lab entering system is a bit weird. Would wait for me to check the system?");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Hmm.. Lab entering system is a bit weird. Would wait for me to check the system?"
+msgstr ""
+
+# mes("Please hold on..");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Please hold on.."
+msgstr ""
+
+# mes("Wolfchev starts to control certain gear.");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Wolfchev starts to control certain gear."
+msgstr ""
+
+# mes("Alright! I have marked lan entering system code as");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Alright! I have marked lan entering system code as"
+msgstr ""
+
+# mesf("^0000ff%s^000000 party leader's name ^0000ff%s^000000!!.", strcharinfo(PC_PARTY), strcharinfo(PC_NAME));
+#: npc/re/instances/WolfchevLaboratory.txt
+#, c-format
+msgctxt "Researcher#memo"
+msgid "^0000ff%s^000000 party leader's name ^0000ff%s^000000!!."
+msgstr ""
+
+# mes("Now, your party is free to pass the entrance.");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Now, your party is free to pass the entrance."
+msgstr ""
+
+# mes "You are not the ^0000ffLeader of the party^000000, are you? Please go get the leader.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "You are not the ^0000ffLeader of the party^000000, are you? Please go get the leader."
+msgstr ""
+
+# mes "Need more preparation? Please, we don't have all day.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Need more preparation? Please, we don't have all day."
+msgstr ""
+
+# mes "Are you trying to go there along? That is a suicide! Our lab entering system is not as easy as you thinkz`.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Are you trying to go there along? That is a suicide! Our lab entering system is not as easy as you thinkz`."
+msgstr ""
+
+# mes "Woot! Something weird just happen. If this keep happening, maybe we should try other way..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Researcher#memo"
+msgid "Woot! Something weird just happen. If this keep happening, maybe we should try other way.."
+msgstr ""
+
+# mes "^FF0000You cannot continue the process due to possessing too many belongings.^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "^FF0000You cannot continue the process due to possessing too many belongings.^000000"
+msgstr ""
+
+# mes "It says,";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "It says,"
+msgstr ""
+
+# mes "'^0000FF****'s laboratory member only^000000'";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "'^0000FF****'s laboratory member only^000000'"
+msgstr ""
+
+# mes "This is an entrance towards Wolfchev's laboratory. Something is howling over the entrance.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "This is an entrance towards Wolfchev's laboratory. Something is howling over the entrance."
+msgstr ""
+
+# if(select("Go inside", "Think one more time") == 2) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "Go inside"
+msgstr ""
+
+# if(select("Go inside", "Think one more time") == 2) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "Think one more time"
+msgstr ""
+
+# mes "You have stopped entering to Wolfchev's laboratory.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "You have stopped entering to Wolfchev's laboratory."
+msgstr ""
+
+# mes "^FF0000Warning^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "^FF0000Warning^000000"
+msgstr ""
+
+# mes "^FF0000Unregistered personnel^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "^FF0000Unregistered personnel^000000"
+msgstr ""
+
+# mes "You have been wounded by laboratory entrance system attack.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "You have been wounded by laboratory entrance system attack."
+msgstr ""
+
+# mes "Di Rit- Di- Di- Dit-";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "Di Rit- Di- Di- Dit-"
+msgstr ""
+
+# mes "^FF0000Forbidden personnel^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "^FF0000Forbidden personnel^000000"
+msgstr ""
+
+# mes "The system denied your entrance.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "The system denied your entrance."
+msgstr ""
+
+# mes "^FF0000Access denial has been deactivated.^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "^FF0000Access denial has been deactivated.^000000"
+msgstr ""
+
+# mes "^FF0000Error! Error!^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "^FF0000Error! Error!^000000"
+msgstr ""
+
+# mes "^FF0000Please try again.^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Laboratory Entrance#memo"
+msgid "^FF0000Please try again.^000000"
+msgstr ""
+
+# mes "There are valve manual sheets littered on the floor.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "There are valve manual sheets littered on the floor."
+msgstr ""
+
+# mes "You the party leader, started to read the manual.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "You the party leader, started to read the manual."
+msgstr ""
+
+# mes "[Emergency Access Valve Manual]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "[Emergency Access Valve Manual]"
+msgstr ""
+
+# mes "Turn the left valve Clockwise twice, Counterclockwise once, Clockwise once";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "Turn the left valve Clockwise twice, Counterclockwise once, Clockwise once"
+msgstr ""
+
+# mes "Turn the left valve Clockwise once, Counterclockwise twice, Clockwise once";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "Turn the left valve Clockwise once, Counterclockwise twice, Clockwise once"
+msgstr ""
+
+# mes "Turn the left valve Clockwise once, Counterclockwise once, Clockwise twice";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "Turn the left valve Clockwise once, Counterclockwise once, Clockwise twice"
+msgstr ""
+
+# mes "Turn the right valve Counterclockwise twice, Clockwise once, Counterclockwise once";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "Turn the right valve Counterclockwise twice, Clockwise once, Counterclockwise once"
+msgstr ""
+
+# mes "Turn the right valve Counterclockwise once, Clockwise twice, Counterclockwise once";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "Turn the right valve Counterclockwise once, Clockwise twice, Counterclockwise once"
+msgstr ""
+
+# mes "Turn the right valve Counterclockwise once, Clockwise once, Counterclockwise twice";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "Turn the right valve Counterclockwise once, Clockwise once, Counterclockwise twice"
+msgstr ""
+
+# mes "This is a unknown Error. If you get the same problem after trying one more time, contact GM.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "This is a unknown Error. If you get the same problem after trying one more time, contact GM."
+msgstr ""
+
+# mes "Let your party leader handle the valve.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Manual Sheet#1_1"
+msgid "Let your party leader handle the valve."
+msgstr ""
+
+# mes "This is the left valve for the emergency access.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "This is the left valve for the emergency access."
+msgstr ""
+
+# mes "To which direction do you wish to turn?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "To which direction do you wish to turn?"
+msgstr ""
+
+# select("Clockwise", "Counterclockwise");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "Clockwise"
+msgstr ""
+
+# select("Clockwise", "Counterclockwise");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "Counterclockwise"
+msgstr ""
+
+# mes "-A metal sound-";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "-A metal sound-"
+msgstr ""
+
+# mes "and, to which direction then?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "and, to which direction then?"
+msgstr ""
+
+# mes "-Door opened-";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "-Door opened-"
+msgstr ""
+
+# mes "The door which connects to the Lab No.2 is now open.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "The door which connects to the Lab No.2 is now open."
+msgstr ""
+
+# mes "Nothing happened.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "Nothing happened."
+msgstr ""
+
+# mes "You need to review the manual.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_2"
+msgid "You need to review the manual."
+msgstr ""
+
+# mes "This is the left valve for the emergency access.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "This is the left valve for the emergency access."
+msgstr ""
+
+# mes "To which direction do you wish to turn?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "To which direction do you wish to turn?"
+msgstr ""
+
+# select("Clockwise", "Counterclockwise");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "Clockwise"
+msgstr ""
+
+# select("Clockwise", "Counterclockwise");
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "Counterclockwise"
+msgstr ""
+
+# mes "-A metal sound-";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "-A metal sound-"
+msgstr ""
+
+# mes "and, to which direction then?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "and, to which direction then?"
+msgstr ""
+
+# mes "-Door opened-";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "-Door opened-"
+msgstr ""
+
+# mes "The door which connects to the Lab No.2 is now open.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "The door which connects to the Lab No.2 is now open."
+msgstr ""
+
+# mes "Nothing happened.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "Nothing happened."
+msgstr ""
+
+# mes "You need to review the manual.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Valve#1_3"
+msgid "You need to review the manual."
+msgstr ""
+
+# mes "Let your party leader handle the valve.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "bio4FLab2Valve"
+msgid "Let your party leader handle the valve."
+msgstr ""
+
+# mes "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "^FF0000 Check up your inventory. You got too many items to carry out the quest. ^000000"
+msgstr ""
+
+# mes "[Wolfchev]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "[Wolfchev]"
+msgstr ""
+
+# mes "You finally defeated my Boss creature.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "You finally defeated my Boss creature."
+msgstr ""
+
+# mes "Finally. is this the result?? For whom did I experiment? Did they cheat me?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Finally. is this the result?? For whom did I experiment? Did they cheat me?"
+msgstr ""
+
+# mes "The button was supposed to be pressed for an emergency case...but..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "The button was supposed to be pressed for an emergency case...but.."
+msgstr ""
+
+# mes "Hey.. You and I met by a bad connection....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Hey.. You and I met by a bad connection...."
+msgstr ""
+
+# mes "But...., you helped me... How could you do that?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "But...., you helped me... How could you do that?"
+msgstr ""
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "["
+msgstr ""
+
+# mes "When I met you for the first time, you seemed mad but sad, even if you could commit those cruel and horrific experiments.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "When I met you for the first time, you seemed mad but sad, even if you could commit those cruel and horrific experiments."
+msgstr ""
+
+# mes "But actually, you did that because you was lonely,.. you just concentrated on that for this reason, huh?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "But actually, you did that because you was lonely,.. you just concentrated on that for this reason, huh?"
+msgstr ""
+
+# mes "HAHAHAHa. Loneliness.. You say?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "HAHAHAHa. Loneliness.. You say?"
+msgstr ""
+
+# mes "It might be seen like that to you. But, it isn't. Loneliness is just a good and easy excuse of the losers.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "It might be seen like that to you. But, it isn't. Loneliness is just a good and easy excuse of the losers."
+msgstr ""
+
+# mes "I'm so happy doing experiments pursuing for a perfection, I never feel lonely.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "I'm so happy doing experiments pursuing for a perfection, I never feel lonely."
+msgstr ""
+
+# mes "Anyway, since I realized that Rekenber betrayed me, I cannot just let them do what they want.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Anyway, since I realized that Rekenber betrayed me, I cannot just let them do what they want."
+msgstr ""
+
+# mes "For now, I will leave them alone, but I will make them cry and regret for trying to remove Wolfchev.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "For now, I will leave them alone, but I will make them cry and regret for trying to remove Wolfchev."
+msgstr ""
+
+# mes "... .... ... ....";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "... .... ... ...."
+msgstr ""
+
+# mes "aaaaaah, "+ strcharinfo(PC_NAME) +" Thank you so much to remove my boys who had gone mad. Not a big gift but I wish you don't deny, I don't need this anymore.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "aaaaaah, "
+msgstr ""
+
+# mes "And, if you can...hope you to come back often, especially with your friends. I want the place to be with human heart again so the sadness in here gets disappear.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "And, if you can...hope you to come back often, especially with your friends. I want the place to be with human heart again so the sadness in here gets disappear."
+msgstr ""
+
+# mes "I looked at Wolfchev again before leaving his lab. and I could feel that he was not obsessed anymore..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "I looked at Wolfchev again before leaving his lab. and I could feel that he was not obsessed anymore.."
+msgstr ""
+
+# mes "You did defeat all of the Boss creatures. Thank you again.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "You did defeat all of the Boss creatures. Thank you again."
+msgstr ""
+
+# mes "I say again, "+ strcharinfo(PC_NAME) +" Thank you so much to remove my boys who had gone mad. Not a big gift but I wish you don't deny, I don't need this anymore.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "I say again, "
+msgstr ""
+
+# mes "Khahaha, See you again. Do you want to get out of here now?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Khahaha, See you again. Do you want to get out of here now?"
+msgstr ""
+
+# if(select("Not yet", "Yes") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Not yet"
+msgstr ""
+
+# if(select("Not yet", "Yes") == 1) {
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Yes"
+msgstr ""
+
+# mes "Then tell me when you want to.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Then tell me when you want to."
+msgstr ""
+
+# mes "Then I will send you out.";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Then I will send you out."
+msgstr ""
+
+# mes "I was looking at the system.... don't know who made this..... but it's so complicated to get..no idea...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "I was looking at the system.... don't know who made this..... but it's so complicated to get..no idea..."
+msgstr ""
+
+# mes "kakakaah.. Thank you. You handled those Boss creatures well..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "kakakaah.. Thank you. You handled those Boss creatures well.."
+msgstr ""
+
+# mes "While you were struggling...";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "While you were struggling..."
+msgstr ""
+
+# mes "I figured out something..and there's a system error which doesn't let us come and go freely, so you could help me in 72 hours... Go somewhere to take rest before you come back..";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "I figured out something..and there's a system error which doesn't let us come and go freely, so you could help me in 72 hours... Go somewhere to take rest before you come back.."
+msgstr ""
+
+# mes "Ah.. and I can send you out of my laboratory. Do you want?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Ah.. and I can send you out of my laboratory. Do you want?"
+msgstr ""
+
+# mes "Do you want to get out of here now?";
+#: npc/re/instances/WolfchevLaboratory.txt
+msgctxt "Wolfchev#last"
+msgid "Do you want to get out of here now?"
+msgstr ""
+

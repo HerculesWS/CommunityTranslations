@@ -1,0 +1,474 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:27+0200\n"
+"PO-Revision-Date: 2020-04-22 09:41\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/pre-re/other/resetskill_txt.pot\n"
+
+# mes "[Hypnotist]";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "[Hypnotist]"
+msgstr ""
+
+# mes "Greetings, adventurer.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Greetings, adventurer."
+msgstr ""
+
+# mes "I'm a member of the Hypnotist";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "I'm a member of the Hypnotist"
+msgstr ""
+
+# mes "Academy sent here to Prontera";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Academy sent here to Prontera"
+msgstr ""
+
+# mes "to provide Skill Reset services";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "to provide Skill Reset services"
+msgstr ""
+
+# mes "to certain First Class characters for a really good price: free!";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "to certain First Class characters for a really good price: free!"
+msgstr ""
+
+# mes "Although I offer unlimited";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Although I offer unlimited"
+msgstr ""
+
+# mes "skill resets for now, I have";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "skill resets for now, I have"
+msgstr ""
+
+# mes "two conditions that must be";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "two conditions that must be"
+msgstr ""
+
+# mes "fulfilled. First, you must be";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "fulfilled. First, you must be"
+msgstr ""
+
+# mes "lower than ^FF0000Base Level 40^000000.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "lower than ^FF0000Base Level 40^000000."
+msgstr ""
+
+# mes "Second, you must be a";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Second, you must be a"
+msgstr ""
+
+# mes "^FF0000Swordman, Acolyte, Mage,";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "^FF0000Swordman, Acolyte, Mage,"
+msgstr ""
+
+# mes "Thief, Archer, Merchant,";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Thief, Archer, Merchant,"
+msgstr ""
+
+# mes "Taekwon Boy, Taekwon Girl, Gunslinger and Ninja^000000";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Taekwon Boy, Taekwon Girl, Gunslinger and Ninja^000000"
+msgstr ""
+
+# mes "Job character to qualify.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Job character to qualify."
+msgstr ""
+
+# mes "Now, do you have any questions?";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Now, do you have any questions?"
+msgstr ""
+
+# switch(select("Skill Reset?", "I want a Skill Reset", "Nothing")) {
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Skill Reset?"
+msgstr ""
+
+# switch(select("Skill Reset?", "I want a Skill Reset", "Nothing")) {
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "I want a Skill Reset"
+msgstr ""
+
+# switch(select("Skill Reset?", "I want a Skill Reset", "Nothing")) {
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Nothing"
+msgstr ""
+
+# mes "Skill Resets allow adventuers";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Skill Resets allow adventuers"
+msgstr ""
+
+# mes "to redistribute their Skill";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "to redistribute their Skill"
+msgstr ""
+
+# mes "Points if they are unhappy";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Points if they are unhappy"
+msgstr ""
+
+# mes "with their current skills.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "with their current skills."
+msgstr ""
+
+# mes "Before proceeding with";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Before proceeding with"
+msgstr ""
+
+# mes "a Skill Reset, you must";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "a Skill Reset, you must"
+msgstr ""
+
+# mes "reduce all of the weight";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "reduce all of the weight"
+msgstr ""
+
+# mes "of all carried items on your";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "of all carried items on your"
+msgstr ""
+
+# mes "character to 0. You can put";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "character to 0. You can put"
+msgstr ""
+
+# mes "extra items in Kafra Storage.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "extra items in Kafra Storage."
+msgstr ""
+
+# mes "Ah, it's also important";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Ah, it's also important"
+msgstr ""
+
+# mes "to remove your ^FF0000Pushcart^000000";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "to remove your ^FF0000Pushcart^000000"
+msgstr ""
+
+# mes "if you have one equipped.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "if you have one equipped."
+msgstr ""
+
+# mes "Otherwise, hypnosis won't";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Otherwise, hypnosis won't"
+msgstr ""
+
+# mes "work, or will backfire...";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "work, or will backfire..."
+msgstr ""
+
+# mes "Are you sure that you";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Are you sure that you"
+msgstr ""
+
+# mes "want to proceed with";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "want to proceed with"
+msgstr ""
+
+# mes "my ^FF0000Skill Reset^000000 service?";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "my ^FF0000Skill Reset^000000 service?"
+msgstr ""
+
+# if (select("Yes", "Cancel") == 1) {
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "Cancel") == 1) {
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Cancel"
+msgstr ""
+
+# mes "I'm sorry, but characters";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "I'm sorry, but characters"
+msgstr ""
+
+# mes "with Base Levels higher";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "with Base Levels higher"
+msgstr ""
+
+# mes "than 40 are ineligible for the";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "than 40 are ineligible for the"
+msgstr ""
+
+# mes "Skill Reset service I provide.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Skill Reset service I provide."
+msgstr ""
+
+# mes "Oh! Please remove your";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Oh! Please remove your"
+msgstr ""
+
+# mes "Pushcart before proceeding";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Pushcart before proceeding"
+msgstr ""
+
+# mes "with the Skill Reset service.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "with the Skill Reset service."
+msgstr ""
+
+# mes "Thanks for cooperating~";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Thanks for cooperating~"
+msgstr ""
+
+# mes "If you're here for my Skill";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "If you're here for my Skill"
+msgstr ""
+
+# mes "Reset service, please";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Reset service, please"
+msgstr ""
+
+# mes "remember that you can't";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "remember that you can't"
+msgstr ""
+
+# mes "reset your skills until the";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "reset your skills until the"
+msgstr ""
+
+# mes "^FF0000weight of your carried items in";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "^FF0000weight of your carried items in"
+msgstr ""
+
+# mes "your Inventory is reduced to 0^000000.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "your Inventory is reduced to 0^000000."
+msgstr ""
+
+# mes "Why don't you place your";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Why don't you place your"
+msgstr ""
+
+# mes "things into the Kafra Storage";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "things into the Kafra Storage"
+msgstr ""
+
+# mes "for now? That way, you can";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "for now? That way, you can"
+msgstr ""
+
+# mes "safely keep all of your goods.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "safely keep all of your goods."
+msgstr ""
+
+# mes "Thank you for using";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Thank you for using"
+msgstr ""
+
+# mes "my Skill Redistribution";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "my Skill Redistribution"
+msgstr ""
+
+# mes "services. Oh, and best";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "services. Oh, and best"
+msgstr ""
+
+# mes "of luck to you on your";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "of luck to you on your"
+msgstr ""
+
+# mes "travels, adventurer.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "travels, adventurer."
+msgstr ""
+
+# mes "I'm sorry, but your";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "I'm sorry, but your"
+msgstr ""
+
+# mes "Job Class doesn't qualify";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Job Class doesn't qualify"
+msgstr ""
+
+# mes "for the Skill Reset service";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "for the Skill Reset service"
+msgstr ""
+
+# mes "that I provide. I can only";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "that I provide. I can only"
+msgstr ""
+
+# mes "offer Skill Resets to the";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "offer Skill Resets to the"
+msgstr ""
+
+# mes "following Jobs...";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "following Jobs..."
+msgstr ""
+
+# mes "^FF0000Swordman, Acolyte,";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "^FF0000Swordman, Acolyte,"
+msgstr ""
+
+# mes "Mage, Thief, Archer,";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Mage, Thief, Archer,"
+msgstr ""
+
+# mes "Merchant, Taekwon";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Merchant, Taekwon"
+msgstr ""
+
+# mes "Boy, Taekwon Girl, Gunslinger and Ninja^000000.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Boy, Taekwon Girl, Gunslinger and Ninja^000000."
+msgstr ""
+
+# mes "Thank you, and good";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Thank you, and good"
+msgstr ""
+
+# mes "luck on your adventures.";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "luck on your adventures."
+msgstr ""
+
+# mes "Please travel in safety~";
+#: npc/pre-re/other/resetskill.txt
+msgctxt "Hypnotist#2"
+msgid "Please travel in safety~"
+msgstr ""
+

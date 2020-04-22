@@ -1,0 +1,1405 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:25\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/eden/26-40_txt.pot\n"
+
+# mes "You are not a qualified member. You can not use the bulletin board.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "You are not a qualified member. You can not use the bulletin board."
+msgstr ""
+
+# mes "[26 ~ 40 Lv. Mission Board]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "[26 ~ 40 Lv. Mission Board]"
+msgstr ""
+
+# mes "- Many missions are -";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "- Many missions are -"
+msgstr ""
+
+# mes "- on the bulletin board. -";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "- on the bulletin board. -"
+msgstr ""
+
+# mes "Your level is not qualified. You can not use the bulletin board.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Your level is not qualified. You can not use the bulletin board."
+msgstr ""
+
+# switch(select("Hunting Mission", "Delivery Mission", "Gathering Mission", "Escort Mission")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Hunting Mission"
+msgstr ""
+
+# switch(select("Hunting Mission", "Delivery Mission", "Gathering Mission", "Escort Mission")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Delivery Mission"
+msgstr ""
+
+# switch(select("Hunting Mission", "Delivery Mission", "Gathering Mission", "Escort Mission")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Gathering Mission"
+msgstr ""
+
+# switch(select("Hunting Mission", "Delivery Mission", "Gathering Mission", "Escort Mission")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Escort Mission"
+msgstr ""
+
+# mes "[Hunting Mission Board]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "[Hunting Mission Board]"
+msgstr ""
+
+# mes "- Hunting Mission details -";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "- Hunting Mission details -"
+msgstr ""
+
+# mes "- are on the board. -";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "- are on the board. -"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow(Above Lv.30)", "Hunting Coco(Above Lv.35)", "Hunting Thara Frog(Above Lv.38)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Hunting Poison Spore"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow(Above Lv.30)", "Hunting Coco(Above Lv.35)", "Hunting Thara Frog(Above Lv.38)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Hunting Smokie"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow(Above Lv.30)", "Hunting Coco(Above Lv.35)", "Hunting Thara Frog(Above Lv.38)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Hunting Elder Willow(Above Lv.30)"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow(Above Lv.30)", "Hunting Coco(Above Lv.35)", "Hunting Thara Frog(Above Lv.38)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Hunting Coco(Above Lv.35)"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow(Above Lv.30)", "Hunting Coco(Above Lv.35)", "Hunting Thara Frog(Above Lv.38)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Hunting Thara Frog(Above Lv.38)"
+msgstr ""
+
+# mes "[Delivery Mission Board]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "[Delivery Mission Board]"
+msgstr ""
+
+# mes "- Delivery Mission details -";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "- Delivery Mission details -"
+msgstr ""
+
+# switch(select("Deliver an Insecticide", "Deliver Honey", "Deliver Blanket(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Deliver an Insecticide"
+msgstr ""
+
+# switch(select("Deliver an Insecticide", "Deliver Honey", "Deliver Blanket(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Deliver Honey"
+msgstr ""
+
+# switch(select("Deliver an Insecticide", "Deliver Honey", "Deliver Blanket(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Deliver Blanket(Above Lv.35)"
+msgstr ""
+
+# mes "[Gathering Mission Board]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "[Gathering Mission Board]"
+msgstr ""
+
+# mes "- Gathering Mission details -";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "- Gathering Mission details -"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skins", "Gather Peelings(Above Lv.30)", "Gather Tails(Above Lv.32)", "Gather Cookies(Above Lv.35)", "Gather Mustaches(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Gather Bones"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skins", "Gather Peelings(Above Lv.30)", "Gather Tails(Above Lv.32)", "Gather Cookies(Above Lv.35)", "Gather Mustaches(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Gather Animal Skins"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skins", "Gather Peelings(Above Lv.30)", "Gather Tails(Above Lv.32)", "Gather Cookies(Above Lv.35)", "Gather Mustaches(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Gather Peelings(Above Lv.30)"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skins", "Gather Peelings(Above Lv.30)", "Gather Tails(Above Lv.32)", "Gather Cookies(Above Lv.35)", "Gather Mustaches(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Gather Tails(Above Lv.32)"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skins", "Gather Peelings(Above Lv.30)", "Gather Tails(Above Lv.32)", "Gather Cookies(Above Lv.35)", "Gather Mustaches(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Gather Cookies(Above Lv.35)"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skins", "Gather Peelings(Above Lv.30)", "Gather Tails(Above Lv.32)", "Gather Cookies(Above Lv.35)", "Gather Mustaches(Above Lv.35)")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Gather Mustaches(Above Lv.35)"
+msgstr ""
+
+# mes "[Escort Mission Board]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "[Escort Mission Board]"
+msgstr ""
+
+# mes "There are currently no Escort Missions registered on the board.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "There are currently no Escort Missions registered on the board."
+msgstr ""
+
+# mes "Your level doesn't meet the requirements. You can't take the '"+getarg(2)+"' mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Your level doesn't meet the requirements. You can't take the '"
+msgstr ""
+
+# mes "["+getarg(2)+" !!]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "["
+msgstr ""
+
+# mes "Client : "+getarg(3);
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Client : "
+msgstr ""
+
+# mes "Client Location : "+getarg(4);
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Client Location : "
+msgstr ""
+
+# mes "Requested Mission : "+getarg(5);
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Requested Mission : "
+msgstr ""
+
+# mes " ";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid " "
+msgstr ""
+
+# mes "Will you accept this mission?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Will you accept this mission?"
+msgstr ""
+
+# if(select("No, I won't accept it.", "Yes, I will accept it.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "No, I won't accept it."
+msgstr ""
+
+# if(select("No, I won't accept it.", "Yes, I will accept it.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "Yes, I will accept it."
+msgstr ""
+
+# mes "You have declined the "+getarg(2)+" mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "You have declined the "
+msgstr ""
+
+# if (questprogress(getarg(0))) mes "You are already doing this mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "You are already doing this mission."
+msgstr ""
+
+# mes "You have accepted the "+getarg(2)+" mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "You have accepted the "
+msgstr ""
+
+# mes "You can get a reward from the client after you finish the mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "You can get a reward from the client after you finish the mission."
+msgstr ""
+
+# mes "For more details, please press 'Alt + U', to get more information from the Quest Window.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Mission [26 - 40]"
+msgid "For more details, please press 'Alt + U', to get more information from the Quest Window."
+msgstr ""
+
+# mes "[Sponiac]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "[Sponiac]"
+msgstr ""
+
+# mes "Why are you carrying so many items?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Why are you carrying so many items?"
+msgstr ""
+
+# mes "Are you in a training course or something?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Are you in a training course or something?"
+msgstr ""
+
+# mes "Lu~lu~lu~lu~";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Lu~lu~lu~lu~"
+msgstr ""
+
+# mes "Lu~ Huh?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Lu~ Huh?"
+msgstr ""
+
+# mes "Wow, you must be a beginner, right?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Wow, you must be a beginner, right?"
+msgstr ""
+
+# mes "What an innocent face! Ha~ hahaha.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "What an innocent face! Ha~ hahaha."
+msgstr ""
+
+# mes "Why don't you do some hunting outside instead of walking around and wasting your time?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Why don't you do some hunting outside instead of walking around and wasting your time?"
+msgstr ""
+
+# if(select("I am about to leave now.", "I've got a Hunting Mission.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "I am about to leave now."
+msgstr ""
+
+# if(select("I am about to leave now.", "I've got a Hunting Mission.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "I've got a Hunting Mission."
+msgstr ""
+
+# mes "Oh, well. Then, go figure.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Oh, well. Then, go figure."
+msgstr ""
+
+# mes "Bye~ bye.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Bye~ bye."
+msgstr ""
+
+# mes "Oh, you are from the Eden Group?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Oh, you are from the Eden Group?"
+msgstr ""
+
+# mes "What mission do you have?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "What mission do you have?"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow", "Hunting Coco", "Hunting Thara Frog")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Hunting Poison Spore"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow", "Hunting Coco", "Hunting Thara Frog")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Hunting Smokie"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow", "Hunting Coco", "Hunting Thara Frog")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Hunting Elder Willow"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow", "Hunting Coco", "Hunting Thara Frog")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Hunting Coco"
+msgstr ""
+
+# switch(select("Hunting Poison Spore", "Hunting Smokie", "Hunting Elder Willow", "Hunting Coco", "Hunting Thara Frog")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Hunting Thara Frog"
+msgstr ""
+
+# mes "Wow, I didn't expect you would do that mission. I was just about to give up. But you did good job. I appreciate it!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Wow, I didn't expect you would do that mission. I was just about to give up. But you did good job. I appreciate it!"
+msgstr ""
+
+# mes "Well, I requested the mission and you did an excellent job.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Well, I requested the mission and you did an excellent job."
+msgstr ""
+
+# mes "I will give you a reward as I promised.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "I will give you a reward as I promised."
+msgstr ""
+
+# mes "Here it is. Thank you very much. God bless you!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Here it is. Thank you very much. God bless you!"
+msgstr ""
+
+# mes "Oh, you are right.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Oh, you are right."
+msgstr ""
+
+# mes "But, you haven't done the mission yet. Why did you come to me now? You haven't completed the mission!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "But, you haven't done the mission yet. Why did you come to me now? You haven't completed the mission!"
+msgstr ""
+
+# mes "I will give you a reward if you complete the mission. Ok? Are we good?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "I will give you a reward if you complete the mission. Ok? Are we good?"
+msgstr ""
+
+# mes "You can check the world map by pressing 'ctrl + ~' key.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "You can check the world map by pressing 'ctrl + ~' key."
+msgstr ""
+
+# mes "Anyway, I will be here waiting for you. Please come back when you finish the mission!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Anyway, I will be here waiting for you. Please come back when you finish the mission!"
+msgstr ""
+
+# mes "Huh? Are you sure? Something is wrong...";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Huh? Are you sure? Something is wrong..."
+msgstr ""
+
+# mes "It is weird.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "It is weird."
+msgstr ""
+
+# mes "Please check your Quest Window by pressing 'alt + u'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Sponiac"
+msgid "Please check your Quest Window by pressing 'alt + u'."
+msgstr ""
+
+# mes "[Dieshin Man]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "[Dieshin Man]"
+msgstr ""
+
+# mes "Why are you carrying so many items?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Why are you carrying so many items?"
+msgstr ""
+
+# mes "Are you in a training course or something?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Are you in a training course or something?"
+msgstr ""
+
+# mes "Hu hu~~ we are delivery men~";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Hu hu~~ we are delivery men~"
+msgstr ""
+
+# mes "We are faster than any flight~!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "We are faster than any flight~!"
+msgstr ""
+
+# mes "Welcome~ welcome!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Welcome~ welcome!"
+msgstr ""
+
+# mes "We are the fastest delivery company, Dieshin Corperation.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "We are the fastest delivery company, Dieshin Corperation."
+msgstr ""
+
+# mes "How can I help you?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "How can I help you?"
+msgstr ""
+
+# if(select("I don't need help.", "I've got a Delivery Mission.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "I don't need help."
+msgstr ""
+
+# if(select("I don't need help.", "I've got a Delivery Mission.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "I've got a Delivery Mission."
+msgstr ""
+
+# mes "Oh, well. Then, go figure. Bye~!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Oh, well. Then, go figure. Bye~!"
+msgstr ""
+
+# mes "Oh, you are from the Eden Group?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Oh, you are from the Eden Group?"
+msgstr ""
+
+# mes "What mission do you have?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "What mission do you have?"
+msgstr ""
+
+# switch(select("Deliver an Insecticide.", "Deliver Honey.", "Deliver Blankets.")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Deliver an Insecticide."
+msgstr ""
+
+# switch(select("Deliver an Insecticide.", "Deliver Honey.", "Deliver Blankets.")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Deliver Honey."
+msgstr ""
+
+# switch(select("Deliver an Insecticide.", "Deliver Honey.", "Deliver Blankets.")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Deliver Blankets."
+msgstr ""
+
+# mes "Huh? Are you sure? Something is wrong...";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Huh? Are you sure? Something is wrong..."
+msgstr ""
+
+# mes "It is weird.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "It is weird."
+msgstr ""
+
+# mes "Please check your Quest Window by pressing 'alt + u'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Please check your Quest Window by pressing 'alt + u'."
+msgstr ""
+
+# mes "Wait, but you already have a delivery box.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Wait, but you already have a delivery box."
+msgstr ""
+
+# mes "We can't allow you to deliver two boxes at once. So, please finish your delivery first.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "We can't allow you to deliver two boxes at once. So, please finish your delivery first."
+msgstr ""
+
+# mes "If you forgot where to deliver, then please check Quest Window by pressing 'alt + u'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "If you forgot where to deliver, then please check Quest Window by pressing 'alt + u'."
+msgstr ""
+
+# mes "Ah ha! I got it!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Ah ha! I got it!"
+msgstr ""
+
+# mes "The insecticide? It must be the Zoologist on the southeast of Payon who ordered the Insecticide.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "The insecticide? It must be the Zoologist on the southeast of Payon who ordered the Insecticide."
+msgstr ""
+
+# mes "Honey? It must be the Entomologist at the west of St. Capitolina Abbey, wich is northeast of Prontera who ordered the Honey.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Honey? It must be the Entomologist at the west of St. Capitolina Abbey, wich is northeast of Prontera who ordered the Honey."
+msgstr ""
+
+# mes "Oh, Right!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Oh, Right!"
+msgstr ""
+
+# mes "The blankets! It must be the biologist in the south of Lutie field who ordered the blankets.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "The blankets! It must be the biologist in the south of Lutie field who ordered the blankets."
+msgstr ""
+
+# mes "You can can go to Lutie by asking Mr. Claus in the northeastern part of Al De Baran.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "You can can go to Lutie by asking Mr. Claus in the northeastern part of Al De Baran."
+msgstr ""
+
+# mes "Dieshin's cooperation motive is to give the fastest and credited delivery. So please deliver it now without any delay.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "Dieshin's cooperation motive is to give the fastest and credited delivery. So please deliver it now without any delay."
+msgstr ""
+
+# mes "If you forgot where to make the delivery, then please check the Quest Window by pressing 'alt + u'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dieshin Man"
+msgid "If you forgot where to make the delivery, then please check the Quest Window by pressing 'alt + u'."
+msgstr ""
+
+# mes "[Zoologist]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "[Zoologist]"
+msgstr ""
+
+# mes "Why are you carrying so many items?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Why are you carrying so many items?"
+msgstr ""
+
+# mes "Are you in a training course or something?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Are you in a training course or something?"
+msgstr ""
+
+# mes "Have you heard of a monster named Bigfoot?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Have you heard of a monster named Bigfoot?"
+msgstr ""
+
+# mes "It looks like a bear with red fur and has a 'X' shape scar on his shoulder.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "It looks like a bear with red fur and has a 'X' shape scar on his shoulder."
+msgstr ""
+
+# mes "According to the recent research, flies and Bigfoot monsters have a symbiotic relationship.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "According to the recent research, flies and Bigfoot monsters have a symbiotic relationship."
+msgstr ""
+
+# mes "I am currently studying about it and try to prove the theory. So I plan to kill the flies around Bigfoot and observe his reaction.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "I am currently studying about it and try to prove the theory. So I plan to kill the flies around Bigfoot and observe his reaction."
+msgstr ""
+
+# if(select("...I am not interested.", "Here is the Insecticide.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "...I am not interested."
+msgstr ""
+
+# if(select("...I am not interested.", "Here is the Insecticide.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Here is the Insecticide."
+msgstr ""
+
+# mes "Oh, I need an Insecticide to continue the study.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Oh, I need an Insecticide to continue the study."
+msgstr ""
+
+# mes "Huh?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Huh?"
+msgstr ""
+
+# mes "You are not Dieshin's delivery man?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "You are not Dieshin's delivery man?"
+msgstr ""
+
+# mes "I am waiting for a special delivery.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "I am waiting for a special delivery."
+msgstr ""
+
+# mes "Oh ho! Yes! That one!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Oh ho! Yes! That one!"
+msgstr ""
+
+# mes "That is the Insecticide that I ordered! You were sent by Dieshin right?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "That is the Insecticide that I ordered! You were sent by Dieshin right?"
+msgstr ""
+
+# mes "I have been waiting for this!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "I have been waiting for this!"
+msgstr ""
+
+# mes "Give it to me!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Give it to me!"
+msgstr ""
+
+# mes "It arrived much faster than I thought. I want to test it right away!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "It arrived much faster than I thought. I want to test it right away!"
+msgstr ""
+
+# mes "Well done. Good Job! Thank you so much! Here is a little gift for you.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Well done. Good Job! Thank you so much! Here is a little gift for you."
+msgstr ""
+
+# mes "I appreciate your kindness.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "I appreciate your kindness."
+msgstr ""
+
+# mes "But, what did you bring?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "But, what did you bring?"
+msgstr ""
+
+# mes "Hmm, I thought that Dieshin was fast and accurate, but you brought me an empty box. How disappointing.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Hmm, I thought that Dieshin was fast and accurate, but you brought me an empty box. How disappointing."
+msgstr ""
+
+# mes "Please bring my order. Dieshin will give you my product.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Zoologist"
+msgid "Please bring my order. Dieshin will give you my product."
+msgstr ""
+
+# mes "[Entomologist]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "[Entomologist]"
+msgstr ""
+
+# mes "Why are you carrying so many items?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Why are you carrying so many items?"
+msgstr ""
+
+# mes "Are you in a training course or something?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Are you in a training course or something?"
+msgstr ""
+
+# mes "Have you heard about the Horn monster?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Have you heard about the Horn monster?"
+msgstr ""
+
+# mes "It's shaped like an insect with black sleek skin and it has a giant horn it's head.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "It's shaped like an insect with black sleek skin and it has a giant horn it's head."
+msgstr ""
+
+# mes "Recent research came out and showed that this monster can be tamed and trained by Honey.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Recent research came out and showed that this monster can be tamed and trained by Honey."
+msgstr ""
+
+# mes "I am currently studying about it and trying to prove the theory. So I plan to set a Honey trap on the places he usually passes and observe his reaction.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "I am currently studying about it and trying to prove the theory. So I plan to set a Honey trap on the places he usually passes and observe his reaction."
+msgstr ""
+
+# if(select("...I am not interested.", "Here is the Honey.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "...I am not interested."
+msgstr ""
+
+# if(select("...I am not interested.", "Here is the Honey.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Here is the Honey."
+msgstr ""
+
+# mes "Oh, I need Honey to continue the study.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Oh, I need Honey to continue the study."
+msgstr ""
+
+# mes "Huh?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Huh?"
+msgstr ""
+
+# mes "You are not Dieshin's delivery man?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "You are not Dieshin's delivery man?"
+msgstr ""
+
+# mes "I am waiting for a special delivery.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "I am waiting for a special delivery."
+msgstr ""
+
+# mes "Oh ho! Yes! That one!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Oh ho! Yes! That one!"
+msgstr ""
+
+# mes "That is the Honey that I ordered! You were sent by Dieshin right?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "That is the Honey that I ordered! You were sent by Dieshin right?"
+msgstr ""
+
+# mes "I have been waiting for this!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "I have been waiting for this!"
+msgstr ""
+
+# mes "Give it to me!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Give it to me!"
+msgstr ""
+
+# mes "It arrived much faster than I thought. I want to test it right away!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "It arrived much faster than I thought. I want to test it right away!"
+msgstr ""
+
+# mes "Well done. Good Job! Thank you so much! Here is a little gift for you.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Well done. Good Job! Thank you so much! Here is a little gift for you."
+msgstr ""
+
+# mes "I appreciate your kindness.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "I appreciate your kindness."
+msgstr ""
+
+# mes "But, what did you bring?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "But, what did you bring?"
+msgstr ""
+
+# mes "Hmm, I thought that Dieshin was fast and accurate, but you brought me an empty box. How disappointing.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Hmm, I thought that Dieshin was fast and accurate, but you brought me an empty box. How disappointing."
+msgstr ""
+
+# mes "Please bring my order. Dieshin will give you my product.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Entomologist"
+msgid "Please bring my order. Dieshin will give you my product."
+msgstr ""
+
+# mes "[Biologist]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "[Biologist]"
+msgstr ""
+
+# mes "Why are you carrying so many items?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Why are you carrying so many items?"
+msgstr ""
+
+# mes "Are you in a training course or something?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Are you in a training course or something?"
+msgstr ""
+
+# mes "Have you heard about the Marin monster?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Have you heard about the Marin monster?"
+msgstr ""
+
+# mes "It does look like the usual poring, but it has unique characteristic.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "It does look like the usual poring, but it has unique characteristic."
+msgstr ""
+
+# mes "Porings steal items if they see them on the ground. However, Marin has no interest in dropped items. So I was wondering, how come Marin doesn't pay attention to gathering items even though they are the same kind of monster as Porings.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Porings steal items if they see them on the ground. However, Marin has no interest in dropped items. So I was wondering, how come Marin doesn't pay attention to gathering items even though they are the same kind of monster as Porings."
+msgstr ""
+
+# mes "But, this place is freaking cold.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "But, this place is freaking cold."
+msgstr ""
+
+# if(select("...I am not interested.", "Here are the blankets.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "...I am not interested."
+msgstr ""
+
+# if(select("...I am not interested.", "Here are the blankets.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Here are the blankets."
+msgstr ""
+
+# mes "Huh, whatever. But be careful! It's very slippery here.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Huh, whatever. But be careful! It's very slippery here."
+msgstr ""
+
+# mes "Huh?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Huh?"
+msgstr ""
+
+# mes "You are not Dieshin's delivery man?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "You are not Dieshin's delivery man?"
+msgstr ""
+
+# mes "I am waiting for a special delivery.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "I am waiting for a special delivery."
+msgstr ""
+
+# mes "Oh ho! Yes! That one!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Oh ho! Yes! That one!"
+msgstr ""
+
+# mes "Those are the Blankets that I ordered! You were sent by Dieshin right?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Those are the Blankets that I ordered! You were sent by Dieshin right?"
+msgstr ""
+
+# mes "I have been waiting for this!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "I have been waiting for this!"
+msgstr ""
+
+# mes "Give it to me!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Give it to me!"
+msgstr ""
+
+# mes "It arrived much faster than I thought. I want to test them right away!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "It arrived much faster than I thought. I want to test them right away!"
+msgstr ""
+
+# mes "Well done. Good Job! Thank you so much! Here is a little gift for you.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Well done. Good Job! Thank you so much! Here is a little gift for you."
+msgstr ""
+
+# mes "I appreciate your kindness.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "I appreciate your kindness."
+msgstr ""
+
+# mes "But, what did you bring?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "But, what did you bring?"
+msgstr ""
+
+# mes "Hmm, I thought that Dieshin was fast and accurate, but you brought me an empty box. How disappointing.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Hmm, I thought that Dieshin was fast and accurate, but you brought me an empty box. How disappointing."
+msgstr ""
+
+# mes "Please bring my order. Dieshin will give you my product.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Biologist"
+msgid "Please bring my order. Dieshin will give you my product."
+msgstr ""
+
+# mes "[Dashia]";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "[Dashia]"
+msgstr ""
+
+# mes "Why are you carrying so many items?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Why are you carrying so many items?"
+msgstr ""
+
+# mes "Are you in a training course or something?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Are you in a training course or something?"
+msgstr ""
+
+# mes "Here is some hair~ a broken clock~!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Here is some hair~ a broken clock~!"
+msgstr ""
+
+# mes "Broken clock..? Hu hu..";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Broken clock..? Hu hu.."
+msgstr ""
+
+# mes "Hey~! Dude! You look like a very rich adventurer.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Hey~! Dude! You look like a very rich adventurer."
+msgstr ""
+
+# if(select("I am a poor adventurer.", "I have a gathering mission.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "I am a poor adventurer."
+msgstr ""
+
+# if(select("I am a poor adventurer.", "I have a gathering mission.") == 1) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "I have a gathering mission."
+msgstr ""
+
+# mes "Really? Hmm, oh right. You don't look sophisticated.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Really? Hmm, oh right. You don't look sophisticated."
+msgstr ""
+
+# mes "You are a poor adventurer~! Good luck!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You are a poor adventurer~! Good luck!"
+msgstr ""
+
+# mes "Oh, you are from the Eden Group?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Oh, you are from the Eden Group?"
+msgstr ""
+
+# mes "What mission do you have?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "What mission do you have?"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skin", "Gather Peelings", "Gather Tails", "Gather Cookies", "Gather Mustaches")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Gather Bones"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skin", "Gather Peelings", "Gather Tails", "Gather Cookies", "Gather Mustaches")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Gather Animal Skin"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skin", "Gather Peelings", "Gather Tails", "Gather Cookies", "Gather Mustaches")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Gather Peelings"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skin", "Gather Peelings", "Gather Tails", "Gather Cookies", "Gather Mustaches")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Gather Tails"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skin", "Gather Peelings", "Gather Tails", "Gather Cookies", "Gather Mustaches")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Gather Cookies"
+msgstr ""
+
+# switch(select("Gather Bones", "Gather Animal Skin", "Gather Peelings", "Gather Tails", "Gather Cookies", "Gather Mustaches")) {
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Gather Mustaches"
+msgstr ""
+
+# mes "I can see that you have a gathering mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "I can see that you have a gathering mission."
+msgstr ""
+
+# mes "But, where are the Skel-Bones?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "But, where are the Skel-Bones?"
+msgstr ""
+
+# mes "You haven't done the mission yet. Why did you come back here?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You haven't done the mission yet. Why did you come back here?"
+msgstr ""
+
+# mes "You don't have enough 'Skel-Bones'... You can find it when you hunt Skeletons.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You don't have enough 'Skel-Bones'... You can find it when you hunt Skeletons."
+msgstr ""
+
+# mes "To find Skeletons, you better check Payon Dungeon 1F, which is located in Archer Village, north of Payon.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "To find Skeletons, you better check Payon Dungeon 1F, which is located in Archer Village, north of Payon."
+msgstr ""
+
+# mes "But, where is the Bear's Footskins and Animal Skins?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "But, where is the Bear's Footskins and Animal Skins?"
+msgstr ""
+
+# mes "You have to bring 10 Bear's Footskins' and '5 Animal Skins!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You have to bring 10 Bear's Footskins' and '5 Animal Skins!"
+msgstr ""
+
+# mes "You can find Bear's Footskin from Bigfoot and Animal Skin from Animals.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You can find Bear's Footskin from Bigfoot and Animal Skin from Animals."
+msgstr ""
+
+# mes "Bigfoot is around the north of Geffen field or the southeast of Payon field.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Bigfoot is around the north of Geffen field or the southeast of Payon field."
+msgstr ""
+
+# mes "But, where are the Worm Peelings and Garlets?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "But, where are the Worm Peelings and Garlets?"
+msgstr ""
+
+# mes "You have to bring '20 Worm Peelings' and '20 Garlets' to complete the mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You have to bring '20 Worm Peelings' and '20 Garlets' to complete the mission."
+msgstr ""
+
+# mes "You can get those items from 'Piere', 'Andre', 'Deniro', 'Vitata', 'Thief Bug', 'Female Thief Bug' and 'Male Thief Bug'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You can get those items from 'Piere', 'Andre', 'Deniro', 'Vitata', 'Thief Bug', 'Female Thief Bug' and 'Male Thief Bug'."
+msgstr ""
+
+# mes "'Piere', 'Andre', 'Deniro' and 'Vitata' are in Ant Hell which is located near the Saint Darmain Fortress soutwest of Morroc.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "'Piere', 'Andre', 'Deniro' and 'Vitata' are in Ant Hell which is located near the Saint Darmain Fortress soutwest of Morroc."
+msgstr ""
+
+# mes "'Thief Bug', 'Female Thief Bug' and 'Male Thief Bug' are int he Prontere Culvert. To get there, you need to be a volunteer of the Prontera Culvert's punitive force.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "'Thief Bug', 'Female Thief Bug' and 'Male Thief Bug' are int he Prontere Culvert. To get there, you need to be a volunteer of the Prontera Culvert's punitive force."
+msgstr ""
+
+# mes "But, where are the Yoyo Tails, Acorns and Raccoon Leafs?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "But, where are the Yoyo Tails, Acorns and Raccoon Leafs?"
+msgstr ""
+
+# mes "You have to bring '10 Yoyo Tails,' '10 Acorns' and '10 Raccoon Leafs' to complete the mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You have to bring '10 Yoyo Tails,' '10 Acorns' and '10 Raccoon Leafs' to complete the mission."
+msgstr ""
+
+# mes "You can get Yoyo Tails from 'Yoyo's', Acorn from 'Coco's' and Raccoon Leaf from 'Smokies'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You can get Yoyo Tails from 'Yoyo's', Acorn from 'Coco's' and Raccoon Leaf from 'Smokies'."
+msgstr ""
+
+# mes "You can find them easily around fields, but the field east of Ayothya is the best spot for hunting all 3 monsters.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You can find them easily around fields, but the field east of Ayothya is the best spot for hunting all 3 monsters."
+msgstr ""
+
+# mes "To get to Ayothaya, you better go to 'Aibakthing' in Alberta and pay his fare.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "To get to Ayothaya, you better go to 'Aibakthing' in Alberta and pay his fare."
+msgstr ""
+
+# mes "But, where are the Well-baked Cookies and the Piece of Cake?";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "But, where are the Well-baked Cookies and the Piece of Cake?"
+msgstr ""
+
+# mes "You have to bring '5 Well-baked Cookies' and '1 Piece of Cake' to complete the mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You have to bring '5 Well-baked Cookies' and '1 Piece of Cake' to complete the mission."
+msgstr ""
+
+# mes "You can get Well-baked Cookie from 'Cookies' who wears red or green shirts.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You can get Well-baked Cookie from 'Cookies' who wears red or green shirts."
+msgstr ""
+
+# mes "For getting Piece of Cake, you should look for 'Mystcases'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "For getting Piece of Cake, you should look for 'Mystcases'."
+msgstr ""
+
+# mes "Both monsters canbe found in the Toy Factory Warehouse or Toy Monitoring Room. To get there, ask Mr. Claus in the northeastern part of Al De Baran.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Both monsters canbe found in the Toy Factory Warehouse or Toy Monitoring Room. To get there, ask Mr. Claus in the northeastern part of Al De Baran."
+msgstr ""
+
+# mes "But, where are the Mole Whiskerss and Mole Claws??";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "But, where are the Mole Whiskerss and Mole Claws??"
+msgstr ""
+
+# mes "You have to bring '5 Mole Whiskers' and '3 Mole Claws' to complete the mission.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You have to bring '5 Mole Whiskers' and '3 Mole Claws' to complete the mission."
+msgstr ""
+
+# mes "You can get those items from 'Martins'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "You can get those items from 'Martins'."
+msgstr ""
+
+# mes "Martins can be found in the Mjolnir Dead Pit, but the second floor is dangerous, so be careful!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Martins can be found in the Mjolnir Dead Pit, but the second floor is dangerous, so be careful!"
+msgstr ""
+
+# mes "To get there, ask a Kafra Employee in Geffen, they can warp you there.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "To get there, ask a Kafra Employee in Geffen, they can warp you there."
+msgstr ""
+
+# mes "Anyway, I will be here waiting for you. Please come back when you finish the mission!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Anyway, I will be here waiting for you. Please come back when you finish the mission!"
+msgstr ""
+
+# mes "Huh? Are you sure? Something is wrong...";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Huh? Are you sure? Something is wrong..."
+msgstr ""
+
+# mes "It is weird.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "It is weird."
+msgstr ""
+
+# mes "Please check your Quest Window by pressing 'alt + u'.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Please check your Quest Window by pressing 'alt + u'."
+msgstr ""
+
+# mes "Wow~ you did an excellent job!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Wow~ you did an excellent job!"
+msgstr ""
+
+# mes "Thank you very much. God bless you!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Thank you very much. God bless you!"
+msgstr ""
+
+# mes "Ha~! Ha~!";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "Ha~! Ha~!"
+msgstr ""
+
+# mes "I will give you a reward as promised.";
+#: npc/re/quests/eden/26-40.txt
+msgctxt "Dashia"
+msgid "I will give you a reward as promised."
+msgstr ""
+

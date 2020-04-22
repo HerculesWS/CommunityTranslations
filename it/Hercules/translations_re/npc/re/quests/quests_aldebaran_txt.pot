@@ -1,0 +1,205 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 10:28\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/quests_aldebaran_txt.pot\n"
+
+# mes("[Belljamin Button]");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "[Belljamin Button]"
+msgstr ""
+
+# mes("The monsters here are able to control time.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "The monsters here are able to control time."
+msgstr ""
+
+# mes("Come back when you've reached ^0000FFLevel 150^000000.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Come back when you've reached ^0000FFLevel 150^000000."
+msgstr ""
+
+# mes("Time, memories, environments... all can become warped here.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Time, memories, environments... all can become warped here."
+msgstr ""
+
+# mes("I'm begging you not to ask more about it. It might put your life in danger.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "I'm begging you not to ask more about it. It might put your life in danger."
+msgstr ""
+
+# .@menu = select("Don't ask", "Go to 2nd floor of warped tower", "Go to 3rd floor of warped tower");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Don't ask"
+msgstr ""
+
+# .@menu = select("Don't ask", "Go to 2nd floor of warped tower", "Go to 3rd floor of warped tower");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Go to 2nd floor of warped tower"
+msgstr ""
+
+# .@menu = select("Don't ask", "Go to 2nd floor of warped tower", "Go to 3rd floor of warped tower");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Go to 3rd floor of warped tower"
+msgstr ""
+
+# mes("Be careful with your choice.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Be careful with your choice."
+msgstr ""
+
+# mes("I need ^0000FF10,000z^000000 to let you in. It's a pretty dangerous place to be.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "I need ^0000FF10,000z^000000 to let you in. It's a pretty dangerous place to be."
+msgstr ""
+
+# switch (select("Quit", "Pay 10,000z", "Why do you need money?")) {
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Quit"
+msgstr ""
+
+# switch (select("Quit", "Pay 10,000z", "Why do you need money?")) {
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Pay 10,000z"
+msgstr ""
+
+# switch (select("Quit", "Pay 10,000z", "Why do you need money?")) {
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Why do you need money?"
+msgstr ""
+
+# mes("Really? You don't have money and asked me to take you there?");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Really? You don't have money and asked me to take you there?"
+msgstr ""
+
+# mes("I'm not sure how you'll keep track of time in there but be as careful as you can.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "I'm not sure how you'll keep track of time in there but be as careful as you can."
+msgstr ""
+
+# mes("I am here all day for the safety of adventurers. I always alert them about the danger. That's why I need some pay.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "I am here all day for the safety of adventurers. I always alert them about the danger. That's why I need some pay."
+msgstr ""
+
+# mes("Phew...You've made good choice. The place is so brutal so you should probably get back to a safe area.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#ct"
+msgid "Phew...You've made good choice. The place is so brutal so you should probably get back to a safe area."
+msgstr ""
+
+# mes("[Belljamin Button]");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "[Belljamin Button]"
+msgstr ""
+
+# mes("Perhaps you've seen me before?");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Perhaps you've seen me before?"
+msgstr ""
+
+# mes("You saw me in the different place, different look.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "You saw me in the different place, different look."
+msgstr ""
+
+# switch (select("Who are you?", "Get me out of here!")) {
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Who are you?"
+msgstr ""
+
+# switch (select("Who are you?", "Get me out of here!")) {
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Get me out of here!"
+msgstr ""
+
+# mes("Can you to explain me about what you've seen, what you've done?");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Can you to explain me about what you've seen, what you've done?"
+msgstr ""
+
+# mes("Me too. You might also be a missing one. Unaware, with no purpose nor idea.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Me too. You might also be a missing one. Unaware, with no purpose nor idea."
+msgstr ""
+
+# mes("It's time to go back. Please cherish your time more.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "It's time to go back. Please cherish your time more."
+msgstr ""
+
+# switch (select("Stay a little bit more", "Please take me back")) {
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Stay a little bit more"
+msgstr ""
+
+# switch (select("Stay a little bit more", "Please take me back")) {
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Please take me back"
+msgstr ""
+
+# mes("You must really like this place. Well, do whatever you want.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "You must really like this place. Well, do whatever you want."
+msgstr ""
+
+# mes("Imagine your favourite drink in a cup. Slowly stir the cup with a spoon, and peer through as the drink change colour.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Imagine your favourite drink in a cup. Slowly stir the cup with a spoon, and peer through as the drink change colour."
+msgstr ""
+
+# mes("It's time to move on. Do you have a favourite drink?");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "It's time to move on. Do you have a favourite drink?"
+msgstr ""
+
+# mes("Think about the drink in a cup. Slowly stir the cup with a spoon, and peer through as the drink change colour.");
+#: npc/re/quests/quests_aldebaran.txt
+msgctxt "Belljamin Button#nct1"
+msgid "Think about the drink in a cup. Slowly stir the cup with a spoon, and peer through as the drink change colour."
+msgstr ""
+

@@ -1,0 +1,157 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: 2019-10-21 10:26\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/quests_glastheim_txt.pot\n"
+
+# mes("[Hugin's Follower]");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "[Hugin's Follower]"
+msgstr ""
+
+# mes("I can't move between time and dimension like a master Hugin but I can pretend to move.");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "I can't move between time and dimension like a master Hugin but I can pretend to move."
+msgstr ""
+
+# mes("What about this Glast Heim is born with powerful dark force?");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "What about this Glast Heim is born with powerful dark force?"
+msgstr ""
+
+# if (select("I don't care", "That is interesting, please tell me more") != 1) {
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "I don't care"
+msgstr ""
+
+# if (select("I don't care", "That is interesting, please tell me more") != 1) {
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "That is interesting, please tell me more"
+msgstr ""
+
+# mes("As learning ability from Hugin, I just find out the path to Old Glast Heim of more powerful dark force.");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "As learning ability from Hugin, I just find out the path to Old Glast Heim of more powerful dark force."
+msgstr ""
+
+# mes("How is it? Do you want to explore there?");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "How is it? Do you want to explore there?"
+msgstr ""
+
+# if (select("No, I want to stop it", "I really want to do that!") != 1) {
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "No, I want to stop it"
+msgstr ""
+
+# if (select("No, I want to stop it", "I really want to do that!") != 1) {
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "I really want to do that!"
+msgstr ""
+
+# mes("Sure that is not free~ I have to get something little bit. Hoho...");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "Sure that is not free~ I have to get something little bit. Hoho..."
+msgstr ""
+
+# mes("I can send you just two place. How is it? Do you want to try?");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "I can send you just two place. How is it? Do you want to try?"
+msgstr ""
+
+# .@menu = select("Cancel", "Monastery Cemetery (Lv100~130) - 5000z", "Corridor of 2nd floor (Over Lv140) - 10000z");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "Cancel"
+msgstr ""
+
+# .@menu = select("Cancel", "Monastery Cemetery (Lv100~130) - 5000z", "Corridor of 2nd floor (Over Lv140) - 10000z");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "Monastery Cemetery (Lv100~130) - 5000z"
+msgstr ""
+
+# .@menu = select("Cancel", "Monastery Cemetery (Lv100~130) - 5000z", "Corridor of 2nd floor (Over Lv140) - 10000z");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "Corridor of 2nd floor (Over Lv140) - 10000z"
+msgstr ""
+
+# mes("Alright, please come back whenever you change mind. I think you will have lots of thing to talk with me...");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "Alright, please come back whenever you change mind. I think you will have lots of thing to talk with me..."
+msgstr ""
+
+# mes("What, did you ask me without money?");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "What, did you ask me without money?"
+msgstr ""
+
+# mes("Well~ If you are not interested in it, never mind.");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh"
+msgid "Well~ If you are not interested in it, never mind."
+msgstr ""
+
+# mes("[Hugin's Follower]");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh1"
+msgid "[Hugin's Follower]"
+msgstr ""
+
+# mes("You want to break?");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh1"
+msgid "You want to break?"
+msgstr ""
+
+# mes("Ok, let's get out of here.?");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh1"
+msgid "Ok, let's get out of here.?"
+msgstr ""
+
+# if (select("Ah, wrong click... I mean I was not talk to you", "Please let me out from here") == 1) {
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh1"
+msgid "Ah, wrong click... I mean I was not talk to you"
+msgstr ""
+
+# if (select("Ah, wrong click... I mean I was not talk to you", "Please let me out from here") == 1) {
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh1"
+msgid "Please let me out from here"
+msgstr ""
+
+# mes("Alright just tell me whenever you want to leave.");
+#: npc/re/quests/quests_glastheim.txt
+msgctxt "Hugin's Follower#n_gh1"
+msgid "Alright just tell me whenever you want to leave."
+msgstr ""
+

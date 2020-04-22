@@ -1,0 +1,823 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:52+0200\n"
+"PO-Revision-Date: 2019-10-21 10:47\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/cities/louyang_txt.pot\n"
+
+# mes "[Girl]";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "[Girl]"
+msgstr ""
+
+# mes "La la la la~";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "La la la la~"
+msgstr ""
+
+# mes "I feel so good today~";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "I feel so good today~"
+msgstr ""
+
+# mes "I'm in the mood to go";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "I'm in the mood to go"
+msgstr ""
+
+# mes "on a picnic somewhere~";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "on a picnic somewhere~"
+msgstr ""
+
+# switch(select("About Louyang.", "Go to Louyang.", "Cancel.")) {
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "About Louyang."
+msgstr ""
+
+# switch(select("About Louyang.", "Go to Louyang.", "Cancel.")) {
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Go to Louyang."
+msgstr ""
+
+# switch(select("About Louyang.", "Go to Louyang.", "Cancel.")) {
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Cancel."
+msgstr ""
+
+# mes "Oh, are you";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Oh, are you"
+msgstr ""
+
+# mes "interested in Louyang?";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "interested in Louyang?"
+msgstr ""
+
+# mes "It's a nice place to";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "It's a nice place to"
+msgstr ""
+
+# mes "visit for travelers.";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "visit for travelers."
+msgstr ""
+
+# mes "Louyang has a long history";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Louyang has a long history"
+msgstr ""
+
+# mes "with stories of ancient magic and warriors. It's also rumored that many evil beasts roam the";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "with stories of ancient magic and warriors. It's also rumored that many evil beasts roam the"
+msgstr ""
+
+# mes "Louyang area.";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Louyang area."
+msgstr ""
+
+# mes "You can find cure-all medicines, mysterious occurrences, and";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "You can find cure-all medicines, mysterious occurrences, and"
+msgstr ""
+
+# mes "martial artists all in one place!";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "martial artists all in one place!"
+msgstr ""
+
+# mes "I used to train in the martial arts every morning back when I was in Louyang. I might not look like it, but I'm pretty strong!";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "I used to train in the martial arts every morning back when I was in Louyang. I might not look like it, but I'm pretty strong!"
+msgstr ""
+
+# mes "If you want to visit";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "If you want to visit"
+msgstr ""
+
+# mes "Louyang, feel free to";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Louyang, feel free to"
+msgstr ""
+
+# mes "tell me. Just give me";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "tell me. Just give me"
+msgstr ""
+
+# mes "some Zeny and we'll go~";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "some Zeny and we'll go~"
+msgstr ""
+
+# mes "I'll guide you to";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "I'll guide you to"
+msgstr ""
+
+# mes "Louyang right away.";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Louyang right away."
+msgstr ""
+
+# mes "For my service, I am";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "For my service, I am"
+msgstr ""
+
+# mes "accepting 10,000 Zeny.";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "accepting 10,000 Zeny."
+msgstr ""
+
+# mes "So, are you ready?";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "So, are you ready?"
+msgstr ""
+
+# if (select("Yes!", "No.") == 1) {
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Yes!"
+msgstr ""
+
+# if (select("Yes!", "No.") == 1) {
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "No."
+msgstr ""
+
+# mes "Okay~";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Okay~"
+msgstr ""
+
+# mes "Ready!";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Ready!"
+msgstr ""
+
+# mes "Have fun!";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Have fun!"
+msgstr ""
+
+# mes "...";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "..."
+msgstr ""
+
+# mes "You don't seem";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "You don't seem"
+msgstr ""
+
+# mes "to have 10,000 Zeny...";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "to have 10,000 Zeny..."
+msgstr ""
+
+# mes "Go get some money first!";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Go get some money first!"
+msgstr ""
+
+# mes "Oh...";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Oh..."
+msgstr ""
+
+# mes "It's so disappointing";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "It's so disappointing"
+msgstr ""
+
+# mes "to hear you say that.";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "to hear you say that."
+msgstr ""
+
+# mes "Well, have a good day!";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Well, have a good day!"
+msgstr ""
+
+# mes "Have a good day!";
+#: npc/cities/louyang.txt
+msgctxt "::Girl_louyang"
+msgid "Have a good day!"
+msgstr ""
+
+# mes "[Girl]";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "[Girl]"
+msgstr ""
+
+# mes "Would you";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "Would you"
+msgstr ""
+
+# mes "like to go back";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "like to go back"
+msgstr ""
+
+# mes "to Alberta?";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "to Alberta?"
+msgstr ""
+
+# if (select("Go back to Alberta.", "Cancel.") == 1) {
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "Go back to Alberta."
+msgstr ""
+
+# if (select("Go back to Alberta.", "Cancel.") == 1) {
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "Cancel."
+msgstr ""
+
+# mes "I hope to";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "I hope to"
+msgstr ""
+
+# mes "see you again!";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "see you again!"
+msgstr ""
+
+# mes "Bye bye!";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "Bye bye!"
+msgstr ""
+
+# mes "If you like this";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "If you like this"
+msgstr ""
+
+# mes "area, why don't you";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "area, why don't you"
+msgstr ""
+
+# mes "stay and enjoy the";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "stay and enjoy the"
+msgstr ""
+
+# mes "the food and the sights!";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "the food and the sights!"
+msgstr ""
+
+# mes "And by sights...";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "And by sights..."
+msgstr ""
+
+# mes "I mean girls!";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "I mean girls!"
+msgstr ""
+
+# mes "Tee hee~";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "Tee hee~"
+msgstr ""
+
+# mes "And the boys here";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "And the boys here"
+msgstr ""
+
+# mes "aren't bad looking~";
+#: npc/cities/louyang.txt
+msgctxt "Girl#1lou"
+msgid "aren't bad looking~"
+msgstr ""
+
+# mes "[Zhi Ching Li]";
+#: npc/cities/louyang.txt
+msgctxt "Muscular Woman#lou"
+msgid "[Zhi Ching Li]"
+msgstr ""
+
+# mes "All the members of the Maiden Palace, including myself and our master, are all female.";
+#: npc/cities/louyang.txt
+msgctxt "Muscular Woman#lou"
+msgid "All the members of the Maiden Palace, including myself and our master, are all female."
+msgstr ""
+
+# mes "Recently we've had a hard time recruiting new members, so I came here to check if there's any woman who wishes to join us.";
+#: npc/cities/louyang.txt
+msgctxt "Muscular Woman#lou"
+msgid "Recently we've had a hard time recruiting new members, so I came here to check if there's any woman who wishes to join us."
+msgstr ""
+
+# mes "...";
+#: npc/cities/louyang.txt
+msgctxt "Muscular Woman#lou"
+msgid "..."
+msgstr ""
+
+# mes "......";
+#: npc/cities/louyang.txt
+msgctxt "Muscular Woman#lou"
+msgid "......"
+msgstr ""
+
+# mes "Please leave me";
+#: npc/cities/louyang.txt
+msgctxt "Muscular Woman#lou"
+msgid "Please leave me"
+msgstr ""
+
+# mes "alone, I'm busy.";
+#: npc/cities/louyang.txt
+msgctxt "Muscular Woman#lou"
+msgid "alone, I'm busy."
+msgstr ""
+
+# mes "[Akiira]";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "[Akiira]"
+msgstr ""
+
+# mes "I am practicing my 'Claw of Dragon.' I not only need to use the power of my fists, I must also condition myself spiritually.";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "I am practicing my 'Claw of Dragon.' I not only need to use the power of my fists, I must also condition myself spiritually."
+msgstr ""
+
+# mes "Every martial art requires";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "Every martial art requires"
+msgstr ""
+
+# mes "spiritual training since the";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "spiritual training since the"
+msgstr ""
+
+# mes "mind controls the body.";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "mind controls the body."
+msgstr ""
+
+# mes "If you've trained yourself spiritually, you can easily";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "If you've trained yourself spiritually, you can easily"
+msgstr ""
+
+# mes "use any part of the body!";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "use any part of the body!"
+msgstr ""
+
+# mes "If you are considering";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "If you are considering"
+msgstr ""
+
+# mes "studying the martial arts, you should first attain knowledge before jumping into the";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "studying the martial arts, you should first attain knowledge before jumping into the"
+msgstr ""
+
+# mes "physical training.";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "physical training."
+msgstr ""
+
+# mes "Learn about the martial arts";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "Learn about the martial arts"
+msgstr ""
+
+# mes "and meditate on life's truths. First, you must find peace of mind before you can hope to master the mind and body.";
+#: npc/cities/louyang.txt
+msgctxt "Powerful-looking guy#lou"
+msgid "and meditate on life's truths. First, you must find peace of mind before you can hope to master the mind and body."
+msgstr ""
+
+# mes "[Zhiang Xiau Ji]";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "[Zhiang Xiau Ji]"
+msgstr ""
+
+# mes "Finally...";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "Finally..."
+msgstr ""
+
+# mes "I have mastered";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "I have mastered"
+msgstr ""
+
+# mes "the 'Claw of Dragon!'";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "the 'Claw of Dragon!'"
+msgstr ""
+
+# mes "Although there are eight basic steps, I had to learn the history of this art, and meditate, focusing on my spiritual improvement,";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "Although there are eight basic steps, I had to learn the history of this art, and meditate, focusing on my spiritual improvement,"
+msgstr ""
+
+# mes "for three years.";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "for three years."
+msgstr ""
+
+# mes "After that, my master finally started to give me the physical training so I could use the eight steps of the Claw of Dragon. I've devoted myself to this art for thirty years.";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "After that, my master finally started to give me the physical training so I could use the eight steps of the Claw of Dragon. I've devoted myself to this art for thirty years."
+msgstr ""
+
+# mes "I'm very proud that I've";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "I'm very proud that I've"
+msgstr ""
+
+# mes "mastered this art ten years earlier than I expected. Now, I need to study this form and improve it by correcting its weak points and enhancing its strengths.";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "mastered this art ten years earlier than I expected. Now, I need to study this form and improve it by correcting its weak points and enhancing its strengths."
+msgstr ""
+
+# mes "I guess that would take me about ten years. But I'm not disheartened by that at all.";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "I guess that would take me about ten years. But I'm not disheartened by that at all."
+msgstr ""
+
+# mes "When you're learning a martial art, you can't rush yourself and learn everything in a short period of time. It's impossible! Plus, that isn't the essence of art...";
+#: npc/cities/louyang.txt
+msgctxt "Fist master#lou"
+msgid "When you're learning a martial art, you can't rush yourself and learn everything in a short period of time. It's impossible! Plus, that isn't the essence of art..."
+msgstr ""
+
+# mes "[Trainee]";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#1lou::LouTrainee"
+msgid "[Trainee]"
+msgstr ""
+
+# mes "Yeeeyap~!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#1lou::LouTrainee"
+msgid "Yeeeyap~!"
+msgstr ""
+
+# mes "Taaaaaah~~!!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#1lou::LouTrainee"
+msgid "Taaaaaah~~!!"
+msgstr ""
+
+# mes "Hooo~.";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#1lou::LouTrainee"
+msgid "Hooo~."
+msgstr ""
+
+# mes "[Trainee]";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#2lou"
+msgid "[Trainee]"
+msgstr ""
+
+# mes "Tah Tah Tah!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#2lou"
+msgid "Tah Tah Tah!"
+msgstr ""
+
+# mes "Taaaaaah~~!!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#2lou"
+msgid "Taaaaaah~~!!"
+msgstr ""
+
+# mes "Schwooooooo~";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#2lou"
+msgid "Schwooooooo~"
+msgstr ""
+
+# mes "[Trainee]";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#3lou"
+msgid "[Trainee]"
+msgstr ""
+
+# mes "Si!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#3lou"
+msgid "Si!"
+msgstr ""
+
+# mes "Ayah!!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#3lou"
+msgid "Ayah!!"
+msgstr ""
+
+# mes "[Trainee]";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#4lou"
+msgid "[Trainee]"
+msgstr ""
+
+# mes "Dergh!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#4lou"
+msgid "Dergh!"
+msgstr ""
+
+# mes "Schwa--!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#4lou"
+msgid "Schwa--!"
+msgstr ""
+
+# mes "[Trainee]";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#5lou"
+msgid "[Trainee]"
+msgstr ""
+
+# mes "Yah Yah Yah!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#5lou"
+msgid "Yah Yah Yah!"
+msgstr ""
+
+# mes "Taaaaaah~~!!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#5lou"
+msgid "Taaaaaah~~!!"
+msgstr ""
+
+# mes "Wataaaaaaaah!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#5lou"
+msgid "Wataaaaaaaah!"
+msgstr ""
+
+# mes "[Trainee]";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#6lou"
+msgid "[Trainee]"
+msgstr ""
+
+# mes "Yeeeyap~!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#6lou"
+msgid "Yeeeyap~!"
+msgstr ""
+
+# mes "Taaaaaah~~!!";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#6lou"
+msgid "Taaaaaah~~!!"
+msgstr ""
+
+# mes "Hooo~";
+#: npc/cities/louyang.txt
+msgctxt "Trainee#6lou"
+msgid "Hooo~"
+msgstr ""
+
+# mes "[Hong Miao]";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "[Hong Miao]"
+msgstr ""
+
+# mes "Welcome.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Welcome."
+msgstr ""
+
+# mes "This is an elevator which leads";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "This is an elevator which leads"
+msgstr ""
+
+# mes "to the Observation Tower. We are providing you a safe and fast transfer service for an affordable fee. Would you like to use this service?";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "to the Observation Tower. We are providing you a safe and fast transfer service for an affordable fee. Would you like to use this service?"
+msgstr ""
+
+# switch(select("Information.", "Yes.", "Maybe next time.")) {
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Information."
+msgstr ""
+
+# switch(select("Information.", "Yes.", "Maybe next time.")) {
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Yes."
+msgstr ""
+
+# switch(select("Information.", "Yes.", "Maybe next time.")) {
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Maybe next time."
+msgstr ""
+
+# mes "After many suggestions and proposals were sent to the Louyang tourism office, the Observation Tower was built so tourists can enjoy the sights.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "After many suggestions and proposals were sent to the Louyang tourism office, the Observation Tower was built so tourists can enjoy the sights."
+msgstr ""
+
+# mes "Due to the geographical";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Due to the geographical"
+msgstr ""
+
+# mes "features of Louyang, it's difficult to enjoy the breath taking view that our land has to offer.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "features of Louyang, it's difficult to enjoy the breath taking view that our land has to offer."
+msgstr ""
+
+# mes "You can come up to the tower by taking the elevator right here. We are providing this quick and safe transfer service for 500 zeny per person.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "You can come up to the tower by taking the elevator right here. We are providing this quick and safe transfer service for 500 zeny per person."
+msgstr ""
+
+# mes "I'm sorry, but you do not have enough zeny. I hope you'll come back later to enjoy the Observation Tower. Have a good day.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "I'm sorry, but you do not have enough zeny. I hope you'll come back later to enjoy the Observation Tower. Have a good day."
+msgstr ""
+
+# mes "Thank you for your patronage.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Thank you for your patronage."
+msgstr ""
+
+# mes "We are trying to provide you with the best of service. Please";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "We are trying to provide you with the best of service. Please"
+msgstr ""
+
+# mes "come again.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "come again."
+msgstr ""
+
+# mes "Please come";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Please come"
+msgstr ""
+
+# mes "back later.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "back later."
+msgstr ""
+
+# mes "Have a good day.";
+#: npc/cities/louyang.txt
+msgctxt "Friendly Looking Lady#lo"
+msgid "Have a good day."
+msgstr ""
+
+# mes "^3355FFThere is some sort";
+#: npc/cities/louyang.txt
+msgctxt "Exit#lou"
+msgid "^3355FFThere is some sort"
+msgstr ""
+
+# mes "of descent apparatus.";
+#: npc/cities/louyang.txt
+msgctxt "Exit#lou"
+msgid "of descent apparatus."
+msgstr ""
+
+# mes "Would you like to use it?^000000";
+#: npc/cities/louyang.txt
+msgctxt "Exit#lou"
+msgid "Would you like to use it?^000000"
+msgstr ""
+
+# if (select("Yes.", "No.") == 1) {
+#: npc/cities/louyang.txt
+msgctxt "Exit#lou"
+msgid "Yes."
+msgstr ""
+
+# if (select("Yes.", "No.") == 1) {
+#: npc/cities/louyang.txt
+msgctxt "Exit#lou"
+msgid "No."
+msgstr ""
+

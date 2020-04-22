@@ -1,0 +1,90 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:53+0200\n"
+"PO-Revision-Date: 2020-04-22 09:37\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/quests/seals/seal_status_txt.pot\n"
+
+# mes "======== God Seal Status ========";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "======== God Seal Status ========"
+msgstr ""
+
+# mes .@seal$[.@i]+" Seal: "+.@status$;
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid " Seal: "
+msgstr ""
+
+# mes " ";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid " "
+msgstr ""
+
+# mes "======= Your Seal Status ========";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "======= Your Seal Status ========"
+msgstr ""
+
+# mes "^ff0000Sleipnir Seal: Not Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^ff0000Sleipnir Seal: Not Completed^000000"
+msgstr ""
+
+# mes "^00ff00Sleipnir Seal: Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^00ff00Sleipnir Seal: Completed^000000"
+msgstr ""
+
+# mes "^ff0000Megingjard Seal: Not Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^ff0000Megingjard Seal: Not Completed^000000"
+msgstr ""
+
+# mes "^00ff00Megingjard Seal: Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^00ff00Megingjard Seal: Completed^000000"
+msgstr ""
+
+# mes "^ff0000Brisingamen Seal: Not Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^ff0000Brisingamen Seal: Not Completed^000000"
+msgstr ""
+
+# mes "^00ff00Brisingamen Seal: Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^00ff00Brisingamen Seal: Completed^000000"
+msgstr ""
+
+# mes "^ff0000Mjolnir Seal: Not Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^ff0000Mjolnir Seal: Not Completed^000000"
+msgstr ""
+
+# mes "^00ff00Mjolnir Seal: Completed^000000";
+#: npc/quests/seals/seal_status.txt
+msgctxt "Sign Post#god"
+msgid "^00ff00Mjolnir Seal: Completed^000000"
+msgstr ""
+

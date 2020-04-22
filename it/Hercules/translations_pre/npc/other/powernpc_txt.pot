@@ -1,0 +1,678 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:24+0200\n"
+"PO-Revision-Date: 2020-04-22 09:42\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/other/powernpc_txt.pot\n"
+
+# mes "- Wait a minute !! -";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+# mes "- Currently you're carrying -";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+# mes "- too many items with you. -";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "- too many items with you. -"
+msgstr ""
+
+# mes "- Please try again -";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "- Please try again -"
+msgstr ""
+
+# mes "- after you lose some weight. -";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+# mes "[Songmoodoo]";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "[Songmoodoo]"
+msgstr ""
+
+# mes "Children are not allowed in here.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Children are not allowed in here."
+msgstr ""
+
+# mes "Hey hey~ This is not something";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Hey hey~ This is not something"
+msgstr ""
+
+# mes "you can see everyday.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "you can see everyday."
+msgstr ""
+
+# mes "Oh~ you look strong!";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Oh~ you look strong!"
+msgstr ""
+
+# mes "Wanna try?";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Wanna try?"
+msgstr ""
+
+# switch(select("Why not?", "?????", "No thanks.")){
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Why not?"
+msgstr ""
+
+# switch(select("Why not?", "?????", "No thanks.")){
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "?????"
+msgstr ""
+
+# switch(select("Why not?", "?????", "No thanks.")){
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "No thanks."
+msgstr ""
+
+# mes "Haha~ I knew you would try.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Haha~ I knew you would try."
+msgstr ""
+
+# mes "If you could lift this up,";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "If you could lift this up,"
+msgstr ""
+
+# mes "I'll tell you something interesting.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "I'll tell you something interesting."
+msgstr ""
+
+# mes "Ready?";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Ready?"
+msgstr ""
+
+# mes "^0000FFSongmoodoo points to a rock";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "^0000FFSongmoodoo points to a rock"
+msgstr ""
+
+# mes "and asks you to lift it.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "and asks you to lift it."
+msgstr ""
+
+# mes "That's not a big deal.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "That's not a big deal."
+msgstr ""
+
+# mes "If you believe you're strong,";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "If you believe you're strong,"
+msgstr ""
+
+# mes "this might be a good chance to experience";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "this might be a good chance to experience"
+msgstr ""
+
+# mes "something new. Wanna try??";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "something new. Wanna try??"
+msgstr ""
+
+# mes "I guess not...";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "I guess not..."
+msgstr ""
+
+# mes "Good to see you again!";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Good to see you again!"
+msgstr ""
+
+# mes "Wanna go??";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Wanna go??"
+msgstr ""
+
+# if (select("Sure", "Maybe next time") == 1) {
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Sure"
+msgstr ""
+
+# if (select("Sure", "Maybe next time") == 1) {
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Maybe next time"
+msgstr ""
+
+# mes "Good! Haha.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Good! Haha."
+msgstr ""
+
+# mes "I like your confidence.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "I like your confidence."
+msgstr ""
+
+# mes "Good luck to you~";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Good luck to you~"
+msgstr ""
+
+# mes "Well... alright.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Well... alright."
+msgstr ""
+
+# mes "I'll see you next time then.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "I'll see you next time then."
+msgstr ""
+
+# mes "You ran away from there?";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "You ran away from there?"
+msgstr ""
+
+# mes "Guess you're not strong enough!";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Guess you're not strong enough!"
+msgstr ""
+
+# mes "I'll give you another chance.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "I'll give you another chance."
+msgstr ""
+
+# mes "See you again.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "See you again."
+msgstr ""
+
+# mes "You lifted the Stone lightly.^000000";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "You lifted the Stone lightly.^000000"
+msgstr ""
+
+# mes "Wow~ Excellent~";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Wow~ Excellent~"
+msgstr ""
+
+# mes "I'll take you to someplace nice";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "I'll take you to someplace nice"
+msgstr ""
+
+# mes "next time I see you.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "next time I see you."
+msgstr ""
+
+# mes "See ya~";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "See ya~"
+msgstr ""
+
+# mes "Looks too heavy for you.^000000";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Looks too heavy for you.^000000"
+msgstr ""
+
+# mes "You lack training.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "You lack training."
+msgstr ""
+
+# mes "Come back after more practice.";
+#: npc/other/powernpc.txt
+msgctxt "Iron man#gnp"
+msgid "Come back after more practice."
+msgstr ""
+
+# mes "[Administrator]";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "[Administrator]"
+msgstr ""
+
+# mes "Children are not allowed in here.";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "Children are not allowed in here."
+msgstr ""
+
+# mes "Sorry, the field of fight";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "Sorry, the field of fight"
+msgstr ""
+
+# mes "is occupied right now.";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "is occupied right now."
+msgstr ""
+
+# mes "Try again later.";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "Try again later."
+msgstr ""
+
+# mes "Are you ready?";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "Are you ready?"
+msgstr ""
+
+# mes " ";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid " "
+msgstr ""
+
+# mes "Remember, you have to pay";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "Remember, you have to pay"
+msgstr ""
+
+# mes "500z to fight.";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "500z to fight."
+msgstr ""
+
+# if (select("Yes, let me fight!", "One moment, please.") == 2) {
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "Yes, let me fight!"
+msgstr ""
+
+# if (select("Yes, let me fight!", "One moment, please.") == 2) {
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "One moment, please."
+msgstr ""
+
+# mes "Ok, see you later.";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "Ok, see you later."
+msgstr ""
+
+# mes "I'm sorry but you don't have enough zeny.";
+#: npc/other/powernpc.txt
+msgctxt "Administrator#gnp"
+msgid "I'm sorry but you don't have enough zeny."
+msgstr ""
+
+# mes "[SongYeunWoo]";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "[SongYeunWoo]"
+msgstr ""
+
+# mes "Please come back after registration.";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Please come back after registration."
+msgstr ""
+
+# mes "You had a single match already.";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "You had a single match already."
+msgstr ""
+
+# mes "You can have a match once at a time.";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "You can have a match once at a time."
+msgstr ""
+
+# mes "Please re-enter if you want a match";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Please re-enter if you want a match"
+msgstr ""
+
+# mes "with other monsters.";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "with other monsters."
+msgstr ""
+
+# mes "Welcome.";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Welcome."
+msgstr ""
+
+# mes "Which monster will you recall?";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Which monster will you recall?"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 1"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 2"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 3"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 4"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 5"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 6"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 7"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 8"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 9"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 10"
+msgstr ""
+
+# .@gnpGroup = select("Group 1", "Group 2", "Group 3", "Group 4", "Group 5", "Group 6", "Group 7", "Group 8", "Group 9", "Group 10", "Group 11");
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Group 11"
+msgstr ""
+
+# mes "Let the fight begin!";
+#: npc/other/powernpc.txt
+msgctxt "Summoner#gnp"
+msgid "Let the fight begin!"
+msgstr ""
+
+# mes "[SongHeeYeon]";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "[SongHeeYeon]"
+msgstr ""
+
+# mes ".....";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "....."
+msgstr ""
+
+# mes "Hi, there~";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Hi, there~"
+msgstr ""
+
+# mes "This is a field of fight.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "This is a field of fight."
+msgstr ""
+
+# mes "Got any questions?";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Got any questions?"
+msgstr ""
+
+# switch(select("A field of fight?", "You got a minute lady?", "Get in.", "Out.", "Nope.")){
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "A field of fight?"
+msgstr ""
+
+# switch(select("A field of fight?", "You got a minute lady?", "Get in.", "Out.", "Nope.")){
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "You got a minute lady?"
+msgstr ""
+
+# switch(select("A field of fight?", "You got a minute lady?", "Get in.", "Out.", "Nope.")){
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Get in."
+msgstr ""
+
+# switch(select("A field of fight?", "You got a minute lady?", "Get in.", "Out.", "Nope.")){
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Out."
+msgstr ""
+
+# switch(select("A field of fight?", "You got a minute lady?", "Get in.", "Out.", "Nope.")){
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Nope."
+msgstr ""
+
+# mes "Just like the name of this place,";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Just like the name of this place,"
+msgstr ""
+
+# mes "it is a field for matches.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "it is a field for matches."
+msgstr ""
+
+# mes "We have various monsters";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "We have various monsters"
+msgstr ""
+
+# mes "in different levels.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "in different levels."
+msgstr ""
+
+# mes "1st Class Boss Monsters are in middle of preparation yet.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "1st Class Boss Monsters are in middle of preparation yet."
+msgstr ""
+
+# mes "We charge you a small fee to enter here.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "We charge you a small fee to enter here."
+msgstr ""
+
+# mes "Eh.... excuse me?";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Eh.... excuse me?"
+msgstr ""
+
+# mes "Ah, I'm afraid I have to work right now...";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Ah, I'm afraid I have to work right now..."
+msgstr ""
+
+# mes "Sorry...";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Sorry..."
+msgstr ""
+
+# mes "Yes, thank you.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Yes, thank you."
+msgstr ""
+
+# mes "Have a good time.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Have a good time."
+msgstr ""
+
+# mes "Thank you.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Thank you."
+msgstr ""
+
+# mes "Please come again.";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Please come again."
+msgstr ""
+
+# mes "........";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "........"
+msgstr ""
+
+# mes "Goodbye...";
+#: npc/other/powernpc.txt
+msgctxt "Guide of field of fight"
+msgid "Goodbye..."
+msgstr ""
+
+# mes "[ChowAnAn]";
+#: npc/other/powernpc.txt
+msgctxt "ChowAnAn#gnp"
+msgid "[ChowAnAn]"
+msgstr ""
+
+# mes "Want to go back?";
+#: npc/other/powernpc.txt
+msgctxt "ChowAnAn#gnp"
+msgid "Want to go back?"
+msgstr ""
+
+# if (select("Yes.", "No.") == 1) {
+#: npc/other/powernpc.txt
+msgctxt "ChowAnAn#gnp"
+msgid "Yes."
+msgstr ""
+
+# if (select("Yes.", "No.") == 1) {
+#: npc/other/powernpc.txt
+msgctxt "ChowAnAn#gnp"
+msgid "No."
+msgstr ""
+
+# mes "Thank you.";
+#: npc/other/powernpc.txt
+msgctxt "ChowAnAn#gnp"
+msgid "Thank you."
+msgstr ""
+
+# mes "Please come again.";
+#: npc/other/powernpc.txt
+msgctxt "ChowAnAn#gnp"
+msgid "Please come again."
+msgstr ""
+

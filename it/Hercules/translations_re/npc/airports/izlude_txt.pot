@@ -1,0 +1,78 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:51+0200\n"
+"PO-Revision-Date: 2020-04-22 09:44\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/airports/izlude_txt.pot\n"
+
+# mes("[Airship Staff]");
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome! Would you like\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Welcome! Would you like\\rto board the Airship that\\rdeparts on the flight wich stops\\rin Juno and Rachel?"
+msgstr ""
+
+# if (select("Board the Airship to Juno/Rachel.", "Cancel.") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Board the Airship to Juno/Rachel."
+msgstr ""
+
+# if (select("Board the Airship to Juno/Rachel.", "Cancel.") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Cancel."
+msgstr ""
+
+# mes("The boarding fee is\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "The boarding fee is\\r1,200 zeny. However, this\\rcharged is waived if you use\\ra Free Ticket for Airship. Now,\\rwould you still like to board?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "No"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "I'm sorry, but you don't\\rhave 1,200 zeny to pay\\rfor the boarding fee."
+msgstr ""
+
+# mes("Thank you and\r"
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Thank you and\\rplease come again."
+msgstr ""
+
+# mes("Have a good day~");
+#: npc/airports/izlude.txt
+msgctxt "::Airship_Staff_izlude"
+msgid "Have a good day~"
+msgstr ""
+

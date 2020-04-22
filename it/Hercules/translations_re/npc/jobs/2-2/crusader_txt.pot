@@ -1,0 +1,2574 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:55+0200\n"
+"PO-Revision-Date: 2020-04-22 09:34\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/jobs/2-2/crusader_txt.pot\n"
+
+# mes "[Michael Halig]";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "[Michael Halig]"
+msgstr ""
+
+# mes "Go and train yourself in preparation for the holy war that is coming. Victory will be in the hands of those who are most ready to receive it.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Go and train yourself in preparation for the holy war that is coming. Victory will be in the hands of those who are most ready to receive it."
+msgstr ""
+
+# mes "You don't belong here, my friend.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "You don't belong here, my friend."
+msgstr ""
+
+# mes "Be advised to continue practicing yourself.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Be advised to continue practicing yourself."
+msgstr ""
+
+# mes "Chaos will one day arise to challenge our principles of peace, justice and order. Until we have eliminated evil and created our ideal world, we must not cease training.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Chaos will one day arise to challenge our principles of peace, justice and order. Until we have eliminated evil and created our ideal world, we must not cease training."
+msgstr ""
+
+# mes "We are Crusaders,";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "We are Crusaders,"
+msgstr ""
+
+# mes "warriors preparing";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "warriors preparing"
+msgstr ""
+
+# mes "to fight in the Holy War.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "to fight in the Holy War."
+msgstr ""
+
+# mes "If you wish to join us, you must first learn the Swordsman discipline and train yourself thoroughly...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "If you wish to join us, you must first learn the Swordsman discipline and train yourself thoroughly..."
+msgstr ""
+
+# mes "As it happened one thousand years ago, evil forces will one day attack in droves in an attempt to take over the world once again.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "As it happened one thousand years ago, evil forces will one day attack in droves in an attempt to take over the world once again."
+msgstr ""
+
+# mes "We are Crusaders, warriors preparing for the Holy War.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "We are Crusaders, warriors preparing for the Holy War."
+msgstr ""
+
+# mes "What brings you";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "What brings you"
+msgstr ""
+
+# mes "to this place?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "to this place?"
+msgstr ""
+
+# if (select("I want to prepare for the Holy War!", "Nothing in particular.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I want to prepare for the Holy War!"
+msgstr ""
+
+# if (select("I want to prepare for the Holy War!", "Nothing in particular.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Nothing in particular."
+msgstr ""
+
+# mes "You wish to become";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "You wish to become"
+msgstr ""
+
+# mes "a Crusader...?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "a Crusader...?"
+msgstr ""
+
+# mes "Joining us is not as";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Joining us is not as"
+msgstr ""
+
+# mes "easy as it sounds.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "easy as it sounds."
+msgstr ""
+
+# mes "I am Michael Halig. I am one of but many Crusaders preparing for the Holy War. We continuously train ourselves with sincere faith and endless loyalty.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I am Michael Halig. I am one of but many Crusaders preparing for the Holy War. We continuously train ourselves with sincere faith and endless loyalty."
+msgstr ""
+
+# mes "We recruit Swordsmen that express exceptional faith, or those who were born as warriors";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "We recruit Swordsmen that express exceptional faith, or those who were born as warriors"
+msgstr ""
+
+# mes "by Odin's will.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "by Odin's will."
+msgstr ""
+
+# mes "Possessing the ^3355FFChivalry Emblem^000000 and ^3355FFHand of God^000000 is seen as a sign that you have been called to become a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Possessing the ^3355FFChivalry Emblem^000000 and ^3355FFHand of God^000000 is seen as a sign that you have been called to become a Crusader."
+msgstr ""
+
+# mes "After obtaining those items and passing our tests, you too, can become a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "After obtaining those items and passing our tests, you too, can become a Crusader."
+msgstr ""
+
+# mes "I don't know what type of person you are right now though. But";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I don't know what type of person you are right now though. But"
+msgstr ""
+
+# mes "I shall test you if you desire. Are you willing to endure these tests in preparation for the Holy War?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I shall test you if you desire. Are you willing to endure these tests in preparation for the Holy War?"
+msgstr ""
+
+# if (select("Yes, I do.", "I'd like to think about it.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Yes, I do."
+msgstr ""
+
+# if (select("Yes, I do.", "I'd like to think about it.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I'd like to think about it."
+msgstr ""
+
+# mes "Wait...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Wait..."
+msgstr ""
+
+# mes "You're not ready yet.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "You're not ready yet."
+msgstr ""
+
+# mes "You need to be at least";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "You need to be at least"
+msgstr ""
+
+# mes "Job Level 40 to become";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Job Level 40 to become"
+msgstr ""
+
+# mes "a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "a Crusader."
+msgstr ""
+
+# mes "Train yourself more as a Swordsman and wait for your calling. I understand your intent, but as of now, you cannot join us.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Train yourself more as a Swordsman and wait for your calling. I understand your intent, but as of now, you cannot join us."
+msgstr ""
+
+# mes "You haven't finished learning everything as a Swordsman. Use all of your remaining skill points, and then return to me.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "You haven't finished learning everything as a Swordsman. Use all of your remaining skill points, and then return to me."
+msgstr ""
+
+# mes "Then...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Then..."
+msgstr ""
+
+# mes "I shall test you to see if you are fit to become a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I shall test you to see if you are fit to become a Crusader."
+msgstr ""
+
+# mes "Your name is";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Your name is"
+msgstr ""
+
+# mes "Let's see...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Let's see..."
+msgstr ""
+
+# mes "Ah...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Ah..."
+msgstr ""
+
+# mes "I see that you have been called to become a Crusader. We are assured of your will, but now we must test your capabilities.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I see that you have been called to become a Crusader. We are assured of your will, but now we must test your capabilities."
+msgstr ""
+
+# mes "Meet with Moorenak Miyol who is training in the underground dungeon of the Prontera Castle. Go, and speak with him first.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Meet with Moorenak Miyol who is training in the underground dungeon of the Prontera Castle. Go, and speak with him first."
+msgstr ""
+
+# mes "Moorenak and others like him will test the limits of your capabilities and help you find your path. Return to me after you have completed their tests...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Moorenak and others like him will test the limits of your capabilities and help you find your path. Return to me after you have completed their tests..."
+msgstr ""
+
+# mes "Mmm. I can't discern whether or not you have the heart to become a Crusader. However, if you have the will and put forth the effort, you may have what it takes.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Mmm. I can't discern whether or not you have the heart to become a Crusader. However, if you have the will and put forth the effort, you may have what it takes."
+msgstr ""
+
+# mes "Now...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Now..."
+msgstr ""
+
+# mes "This is my test for you. Bring me the following items and prove your determination to me.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "This is my test for you. Bring me the following items and prove your determination to me."
+msgstr ""
+
+# mes "10 ^3355FF"+getitemname(957)+"^000000";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "10 ^3355FF"
+msgstr ""
+
+# mes "Show me the strength of your will by gathering these items. If you prove successful, you will progress to the next test. May Odin protect you.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Show me the strength of your will by gathering these items. If you prove successful, you will progress to the next test. May Odin protect you."
+msgstr ""
+
+# mes "Nobody knows when the Holy War will come. We must prepare in advance and cannot afford to slacken";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Nobody knows when the Holy War will come. We must prepare in advance and cannot afford to slacken"
+msgstr ""
+
+# mes "our training.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "our training."
+msgstr ""
+
+# mes "If you feel that participating in the Holy War is your calling, please come back right away and take the test to become";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "If you feel that participating in the Holy War is your calling, please come back right away and take the test to become"
+msgstr ""
+
+# mes "If you, too, are a man of the sword, constantly train and prepare yourself. No one knows when the Holy War may begin.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "If you, too, are a man of the sword, constantly train and prepare yourself. No one knows when the Holy War may begin."
+msgstr ""
+
+# mes "As a woman of the sword, you must train diligently and constantly. Prepare yourself, for no one knows when the Holy War may be coming.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "As a woman of the sword, you must train diligently and constantly. Prepare yourself, for no one knows when the Holy War may be coming."
+msgstr ""
+
+# mes "Have you proven your determination with the task I have given you, or do you possess the items proving that you have received your calling?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Have you proven your determination with the task I have given you, or do you possess the items proving that you have received your calling?"
+msgstr ""
+
+# mes "Ah, well done.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Ah, well done."
+msgstr ""
+
+# mes "I must acknowledge your efforts and determination. You may now proceed to take the next test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "I must acknowledge your efforts and determination. You may now proceed to take the next test."
+msgstr ""
+
+# mes "Ah, you still have not completed the task I have given to you. Bring me the following items, and prove your will to become a Crusader to me...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Ah, you still have not completed the task I have given to you. Bring me the following items, and prove your will to become a Crusader to me..."
+msgstr ""
+
+# mes "If you put forth the effort, you'll be able to accomplish this task. May Odin protect you on your journeys.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "If you put forth the effort, you'll be able to accomplish this task. May Odin protect you on your journeys."
+msgstr ""
+
+# mes "Congratulations on completing all of your tests. You are truly worthy of fighting alongside side us in the Holy War as a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Congratulations on completing all of your tests. You are truly worthy of fighting alongside side us in the Holy War as a Crusader."
+msgstr ""
+
+# mes "Together, let us ready ourselves and be victorious over evil and tyranny!";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Together, let us ready ourselves and be victorious over evil and tyranny!"
+msgstr ""
+
+# mes "Behold...!";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Behold...!"
+msgstr ""
+
+# mes "You are now a Crusader!";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "You are now a Crusader!"
+msgstr ""
+
+# mes "When the Holy War comes, we shall fight side by side against the forces of evil.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "When the Holy War comes, we shall fight side by side against the forces of evil."
+msgstr ""
+
+# mes "Now you are";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Now you are"
+msgstr ""
+
+# mes "one of us!";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "one of us!"
+msgstr ""
+
+# mes "...Brother.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "...Brother."
+msgstr ""
+
+# mes "...Comrade.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "...Comrade."
+msgstr ""
+
+# mes "And use this in times of dire peril. It will give you strength when your wounds are most grievous.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "And use this in times of dire peril. It will give you strength when your wounds are most grievous."
+msgstr ""
+
+# mes "Never forget that the Holy War is approaching. We must be prepare for the inevitable tide of evil that will sweep this world. Now, go forth and fight for the principles of freedom and justice!";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Never forget that the Holy War is approaching. We must be prepare for the inevitable tide of evil that will sweep this world. Now, go forth and fight for the principles of freedom and justice!"
+msgstr ""
+
+# mes "It seems that you have not yet completed all of the testing. You will not be ready to become a Crusader until you have completed the tests set before you.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "It seems that you have not yet completed all of the testing. You will not be ready to become a Crusader until you have completed the tests set before you."
+msgstr ""
+
+# mes "Return to me when you have completed all of your tests. When you finally prove eligible, you will join the proud ranks of the mighty Crusaders.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Senior Crusader"
+msgid "Return to me when you have completed all of your tests. When you finally prove eligible, you will join the proud ranks of the mighty Crusaders."
+msgstr ""
+
+# mes "[Murnak Mijoul]";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "[Murnak Mijoul]"
+msgstr ""
+
+# mes "Don't linger around in a place like this and forge your own path towards discovering your own strengths. The day that we will join hands in battle will come soon.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Don't linger around in a place like this and forge your own path towards discovering your own strengths. The day that we will join hands in battle will come soon."
+msgstr ""
+
+# mes "A Novice...?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "A Novice...?"
+msgstr ""
+
+# mes "So green, and yet,";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "So green, and yet,"
+msgstr ""
+
+# mes "so much potential.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "so much potential."
+msgstr ""
+
+# mes "Let me assure you that I'm no criminal. I'm here merely to train myself. Perhaps as you become stronger, you will understand.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Let me assure you that I'm no criminal. I'm here merely to train myself. Perhaps as you become stronger, you will understand."
+msgstr ""
+
+# mes "Hm. You have no business in a place like this. Please leave, and do not interrupt my training.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Hm. You have no business in a place like this. Please leave, and do not interrupt my training."
+msgstr ""
+
+# mes "What do you want...?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "What do you want...?"
+msgstr ""
+
+# mes "If you have no business here,";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "If you have no business here,"
+msgstr ""
+
+# mes "then please leave. A tranquil state of mind is essential in self training...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "then please leave. A tranquil state of mind is essential in self training..."
+msgstr ""
+
+# mes "I wish to improve the sense of serenity in my heart in preparation for the Holy War that is to come. So please, do not disturb me.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "I wish to improve the sense of serenity in my heart in preparation for the Holy War that is to come. So please, do not disturb me."
+msgstr ""
+
+# mes "What is it...?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "What is it...?"
+msgstr ""
+
+# mes "Do you have business";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Do you have business"
+msgstr ""
+
+# mes "with me, man of the sword?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "with me, man of the sword?"
+msgstr ""
+
+# mes "with me, woman of the sword?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "with me, woman of the sword?"
+msgstr ""
+
+# if (select("I'd like to take the Crusader test.", "Nothing.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "I'd like to take the Crusader test."
+msgstr ""
+
+# if (select("I'd like to take the Crusader test.", "Nothing.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Nothing."
+msgstr ""
+
+# mes "You wish to become a Crusader...? Hm, fighting in the Holy War is an admirable goal we may both share.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "You wish to become a Crusader...? Hm, fighting in the Holy War is an admirable goal we may both share."
+msgstr ""
+
+# mes "Your name is";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Your name is"
+msgstr ""
+
+# mes "Let me take";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Let me take"
+msgstr ""
+
+# mes "a look at your face.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "a look at your face."
+msgstr ""
+
+# mes "Hmm. You wish to become a Crusader, but do not wear a Rosary? I have no business with you if you cannot uphold our customs.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Hmm. You wish to become a Crusader, but do not wear a Rosary? I have no business with you if you cannot uphold our customs."
+msgstr ""
+
+# mes "Hmm...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Hmm..."
+msgstr ""
+
+# mes "You seem so-so, but also young and ambitious. Ambition may work against you if it is not tempered with patience.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "You seem so-so, but also young and ambitious. Ambition may work against you if it is not tempered with patience."
+msgstr ""
+
+# mes "Don't give me a reason to doubt you, and show me your patience. You must endure my test with your patience if you wish to become a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Don't give me a reason to doubt you, and show me your patience. You must endure my test with your patience if you wish to become a Crusader."
+msgstr ""
+
+# mes "You may take my test right away. It's actually quite simple. All you must do is walk to the end of the corridor.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "You may take my test right away. It's actually quite simple. All you must do is walk to the end of the corridor."
+msgstr ""
+
+# mes "But...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "But..."
+msgstr ""
+
+# mes "You must keep one thing in mind. Under no condition are you allowed to kill the monsters.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "You must keep one thing in mind. Under no condition are you allowed to kill the monsters."
+msgstr ""
+
+# mes "Well then...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Well then..."
+msgstr ""
+
+# mes "Good luck.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Good luck."
+msgstr ""
+
+# mes "You seem to have a lot of time on your hands. Why don't you do something more productive, like pick Jellopy off the streets or something?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "You seem to have a lot of time on your hands. Why don't you do something more productive, like pick Jellopy off the streets or something?"
+msgstr ""
+
+# mes "You're the Swordman from before. What happened, did you fail?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "You're the Swordman from before. What happened, did you fail?"
+msgstr ""
+
+# if (select("Let me retake the test.", "What kind of test was that?!") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Let me retake the test."
+msgstr ""
+
+# if (select("Let me retake the test.", "What kind of test was that?!") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "What kind of test was that?!"
+msgstr ""
+
+# mes "I'll let you retake the test as much as you like. But if you continuously fail, there's an inherent problem with your";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "I'll let you retake the test as much as you like. But if you continuously fail, there's an inherent problem with your"
+msgstr ""
+
+# mes "state of mind.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "state of mind."
+msgstr ""
+
+# mes "Wait...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Wait..."
+msgstr ""
+
+# mes "Where have you left your Rosary? You can't let that lie around just anywhere. We are supposed to be warriors of holiness.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Where have you left your Rosary? You can't let that lie around just anywhere. We are supposed to be warriors of holiness."
+msgstr ""
+
+# mes "Carelessly losing things is an attitude for mere Swordsmen. If you really want to retake the test, you must respect the Crusader traditions.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Carelessly losing things is an attitude for mere Swordsmen. If you really want to retake the test, you must respect the Crusader traditions."
+msgstr ""
+
+# mes "Your problem is your habit of hitting monsters the moment you see one. You must develop your patience and endurance.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Your problem is your habit of hitting monsters the moment you see one. You must develop your patience and endurance."
+msgstr ""
+
+# mes "Just focus...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Just focus..."
+msgstr ""
+
+# mes "Your only goal is to walk from one end of the corridor to the other. It's simple when you think";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Your only goal is to walk from one end of the corridor to the other. It's simple when you think"
+msgstr ""
+
+# mes "about it.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "about it."
+msgstr ""
+
+# mes "No matter what you do, do not kill any of the monsters. This time, think carefully before you draw your sword.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "No matter what you do, do not kill any of the monsters. This time, think carefully before you draw your sword."
+msgstr ""
+
+# mes "Who are you to say that you don't like my test? With that kind of attitude, you'll never become a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Who are you to say that you don't like my test? With that kind of attitude, you'll never become a Crusader."
+msgstr ""
+
+# mes "I can understand if you are easily frustrated, but you must overcome your frustration to pass this test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "I can understand if you are easily frustrated, but you must overcome your frustration to pass this test."
+msgstr ""
+
+# mes "Hmm, seems like you did well. It shouldn't have been too hard. You no longer have any business";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Hmm, seems like you did well. It shouldn't have been too hard. You no longer have any business"
+msgstr ""
+
+# mes "with me.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "with me."
+msgstr ""
+
+# mes "For your next test, go look for Gabriel Valentine in the Prontera Sanctuary. Well then, I'll see you around.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "For your next test, go look for Gabriel Valentine in the Prontera Sanctuary. Well then, I'll see you around."
+msgstr ""
+
+# mes "Hmmm...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "Hmmm..."
+msgstr ""
+
+# mes "You still have tests to complete if you want to become a Crusader, don't you?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Man in Anguish"
+msgid "You still have tests to complete if you want to become a Crusader, don't you?"
+msgstr ""
+
+# mes "[Gabriel Valentine]";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "[Gabriel Valentine]"
+msgstr ""
+
+# mes "Welcome, fellow Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Welcome, fellow Crusader."
+msgstr ""
+
+# mes "How is your training";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "How is your training"
+msgstr ""
+
+# mes "coming along?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "coming along?"
+msgstr ""
+
+# mes "You must not forget to train everyday, and prepare for the day the Holy War will come upon us.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "You must not forget to train everyday, and prepare for the day the Holy War will come upon us."
+msgstr ""
+
+# mes "Welcome, I am a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Welcome, I am a Crusader."
+msgstr ""
+
+# mes "I am preparing for the";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I am preparing for the"
+msgstr ""
+
+# mes "foretold Holy War";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "foretold Holy War"
+msgstr ""
+
+# mes "that is to come.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "that is to come."
+msgstr ""
+
+# mes "If you are interested in becoming a Crusader, you must train first as a Swordman. Come and visit us again when you believe that you have learned enough as a Swordman...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "If you are interested in becoming a Crusader, you must train first as a Swordman. Come and visit us again when you believe that you have learned enough as a Swordman..."
+msgstr ""
+
+# mes "We are located in the Prontera Central Palace, so if you have time, it wouldn't hurt to stop by.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "We are located in the Prontera Central Palace, so if you have time, it wouldn't hurt to stop by."
+msgstr ""
+
+# mes "Welcome, we are Crusaders.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Welcome, we are Crusaders."
+msgstr ""
+
+# mes "We are preparing for the";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "We are preparing for the"
+msgstr ""
+
+# mes "I hope you will train yourself in preparation for the future as well.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I hope you will train yourself in preparation for the future as well."
+msgstr ""
+
+# mes "Welcome. We are Crusaders.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Welcome. We are Crusaders."
+msgstr ""
+
+# mes "If you would like to become a Crusader, please speak with our leader in the Prontera Central Palace.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "If you would like to become a Crusader, please speak with our leader in the Prontera Central Palace."
+msgstr ""
+
+# mes "Welcome.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Welcome."
+msgstr ""
+
+# mes "Did you do well";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Did you do well"
+msgstr ""
+
+# mes "on those painful tests?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "on those painful tests?"
+msgstr ""
+
+# mes "I will be conducting your next test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I will be conducting your next test."
+msgstr ""
+
+# mes "My name is Gabriel Valentine. I, too, am preparing for the Holy War. For the time being, I act as guard for this church.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "My name is Gabriel Valentine. I, too, am preparing for the Holy War. For the time being, I act as guard for this church."
+msgstr ""
+
+# mes "I will test to see if you have acquired the knowledge that is necessary to become a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I will test to see if you have acquired the knowledge that is necessary to become a Crusader."
+msgstr ""
+
+# mes "We can't very well win the Holy War just by swinging a sword.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "We can't very well win the Holy War just by swinging a sword."
+msgstr ""
+
+# mes "I will give";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I will give"
+msgstr ""
+
+# mes "you 10 questions.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "you 10 questions."
+msgstr ""
+
+# mes "Answer them correctly.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Answer them correctly."
+msgstr ""
+
+# mes "Welcome back~";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Welcome back~"
+msgstr ""
+
+# mes "Did you prepare";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Did you prepare"
+msgstr ""
+
+# mes "well for this test?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "well for this test?"
+msgstr ""
+
+# mes "Let's try again,";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Let's try again,"
+msgstr ""
+
+# mes "shall we...?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "shall we...?"
+msgstr ""
+
+# mes "Once again, I'm going";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Once again, I'm going"
+msgstr ""
+
+# mes "to give you 10 questions";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "to give you 10 questions"
+msgstr ""
+
+# mes "Listen carefully, and";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Listen carefully, and"
+msgstr ""
+
+# mes "choose the correct answer.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "choose the correct answer."
+msgstr ""
+
+# mes "1. Which attribute is the most effective in atttacking the Undead?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "1. Which attribute is the most effective in atttacking the Undead?"
+msgstr ""
+
+# if (select("Neutral", "Earth", "Undead", "Holy") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Neutral"
+msgstr ""
+
+# if (select("Neutral", "Earth", "Undead", "Holy") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Earth"
+msgstr ""
+
+# if (select("Neutral", "Earth", "Undead", "Holy") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Undead"
+msgstr ""
+
+# if (select("Neutral", "Earth", "Undead", "Holy") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Holy"
+msgstr ""
+
+# mes "2. If the monster is a Level 2 Undead, how much more damage does a Holy attack do compared to Fire?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "2. If the monster is a Level 2 Undead, how much more damage does a Holy attack do compared to Fire?"
+msgstr ""
+
+# if (select("25 %", "50 %", "75 %", "100 %") == 1)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "25 %"
+msgstr ""
+
+# if (select("25 %", "50 %", "75 %", "100 %") == 1)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "50 %"
+msgstr ""
+
+# if (select("25 %", "50 %", "75 %", "100 %") == 1)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "75 %"
+msgstr ""
+
+# if (select("25 %", "50 %", "75 %", "100 %") == 1)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "100 %"
+msgstr ""
+
+# mes "3. What item can you not get from an Evil Druid?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "3. What item can you not get from an Evil Druid?"
+msgstr ""
+
+# if (select("Monk Hat", "Yggdrasil leaf", "White Herb", "Amulet ") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Monk Hat"
+msgstr ""
+
+# if (select("Monk Hat", "Yggdrasil leaf", "White Herb", "Amulet ") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Yggdrasil leaf"
+msgstr ""
+
+# if (select("Monk Hat", "Yggdrasil leaf", "White Herb", "Amulet ") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "White Herb"
+msgstr ""
+
+# if (select("Monk Hat", "Yggdrasil leaf", "White Herb", "Amulet ") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Amulet "
+msgstr ""
+
+# mes "4. Which Undead monster";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "4. Which Undead monster"
+msgstr ""
+
+# mes "has the highest HP?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "has the highest HP?"
+msgstr ""
+
+# if (select("Ghoul", "Skeleton Prisoner", "Wraith", "Zombie Prisoner") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Ghoul"
+msgstr ""
+
+# if (select("Ghoul", "Skeleton Prisoner", "Wraith", "Zombie Prisoner") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Skeleton Prisoner"
+msgstr ""
+
+# if (select("Ghoul", "Skeleton Prisoner", "Wraith", "Zombie Prisoner") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Wraith"
+msgstr ""
+
+# if (select("Ghoul", "Skeleton Prisoner", "Wraith", "Zombie Prisoner") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Zombie Prisoner"
+msgstr ""
+
+# mes "5. Which of the following monsters is a different size than the others?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "5. Which of the following monsters is a different size than the others?"
+msgstr ""
+
+# if (select("Wraith", "Khalitzburg", "Drake", "Evil Druid") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Khalitzburg"
+msgstr ""
+
+# if (select("Wraith", "Khalitzburg", "Drake", "Evil Druid") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Drake"
+msgstr ""
+
+# if (select("Wraith", "Khalitzburg", "Drake", "Evil Druid") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Evil Druid"
+msgstr ""
+
+# mes "6. Which card grants you tolerance to Undead property attacks?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "6. Which card grants you tolerance to Undead property attacks?"
+msgstr ""
+
+# if (select("Orc Skeleton Card", "Orc Zombie Card", "Ghoul Card", "Skel Worker Card") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Orc Skeleton Card"
+msgstr ""
+
+# if (select("Orc Skeleton Card", "Orc Zombie Card", "Ghoul Card", "Skel Worker Card") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Orc Zombie Card"
+msgstr ""
+
+# if (select("Orc Skeleton Card", "Orc Zombie Card", "Ghoul Card", "Skel Worker Card") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Ghoul Card"
+msgstr ""
+
+# if (select("Orc Skeleton Card", "Orc Zombie Card", "Ghoul Card", "Skel Worker Card") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Skel Worker Card"
+msgstr ""
+
+# mes "7. What was the relationship between Munak and Bongun before they passed away?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "7. What was the relationship between Munak and Bongun before they passed away?"
+msgstr ""
+
+# if (select("Big Brother and Little Sister", "Childhood friends in the same village", "Stepbrother and sister", "Complete strangers") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Big Brother and Little Sister"
+msgstr ""
+
+# if (select("Big Brother and Little Sister", "Childhood friends in the same village", "Stepbrother and sister", "Complete strangers") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Childhood friends in the same village"
+msgstr ""
+
+# if (select("Big Brother and Little Sister", "Childhood friends in the same village", "Stepbrother and sister", "Complete strangers") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Stepbrother and sister"
+msgstr ""
+
+# if (select("Big Brother and Little Sister", "Childhood friends in the same village", "Stepbrother and sister", "Complete strangers") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Complete strangers"
+msgstr ""
+
+# mes "8. Which of the following monsters is not aggressive?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "8. Which of the following monsters is not aggressive?"
+msgstr ""
+
+# if (select("Soldier Skeleton", "Orc Skeleton", "Skeleton", "Skel Worker") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Soldier Skeleton"
+msgstr ""
+
+# if (select("Soldier Skeleton", "Orc Skeleton", "Skeleton", "Skel Worker") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Orc Skeleton"
+msgstr ""
+
+# if (select("Soldier Skeleton", "Orc Skeleton", "Skeleton", "Skel Worker") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Skeleton"
+msgstr ""
+
+# if (select("Soldier Skeleton", "Orc Skeleton", "Skeleton", "Skel Worker") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Skel Worker"
+msgstr ""
+
+# mes "9. What is the name of the shield in which a Munak Card has been inserted?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "9. What is the name of the shield in which a Munak Card has been inserted?"
+msgstr ""
+
+# if (select("Atomic Shield", "Amulet Shield", "Hypnotic Shield", "Homeroth Shield") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Atomic Shield"
+msgstr ""
+
+# if (select("Atomic Shield", "Amulet Shield", "Hypnotic Shield", "Homeroth Shield") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Amulet Shield"
+msgstr ""
+
+# if (select("Atomic Shield", "Amulet Shield", "Hypnotic Shield", "Homeroth Shield") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Hypnotic Shield"
+msgstr ""
+
+# if (select("Atomic Shield", "Amulet Shield", "Hypnotic Shield", "Homeroth Shield") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Homeroth Shield"
+msgstr ""
+
+# mes "10. Which of the following monsters does not drop Memento?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "10. Which of the following monsters does not drop Memento?"
+msgstr ""
+
+# if (select("Munak", "Ghoul", "Mummy", "Soldier Skeleton") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Munak"
+msgstr ""
+
+# if (select("Munak", "Ghoul", "Mummy", "Soldier Skeleton") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Mummy"
+msgstr ""
+
+# mes "1. Which of the following monsters is a different attribute than the others?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "1. Which of the following monsters is a different attribute than the others?"
+msgstr ""
+
+# if (select("Carat", "Wind Ghost", "Isis", "Wanderer") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Carat"
+msgstr ""
+
+# if (select("Carat", "Wind Ghost", "Isis", "Wanderer") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Wind Ghost"
+msgstr ""
+
+# if (select("Carat", "Wind Ghost", "Isis", "Wanderer") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Isis"
+msgstr ""
+
+# if (select("Carat", "Wind Ghost", "Isis", "Wanderer") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Wanderer"
+msgstr ""
+
+# mes "2. Which sword is effective in attacking Demon monsters?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "2. Which sword is effective in attacking Demon monsters?"
+msgstr ""
+
+# if (select("Decussate Tsurugi", "Hollowed Tsurugi", "Damned Tsurugi", "Drowsy Tsurugi") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Decussate Tsurugi"
+msgstr ""
+
+# if (select("Decussate Tsurugi", "Hollowed Tsurugi", "Damned Tsurugi", "Drowsy Tsurugi") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Hollowed Tsurugi"
+msgstr ""
+
+# if (select("Decussate Tsurugi", "Hollowed Tsurugi", "Damned Tsurugi", "Drowsy Tsurugi") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Damned Tsurugi"
+msgstr ""
+
+# if (select("Decussate Tsurugi", "Hollowed Tsurugi", "Damned Tsurugi", "Drowsy Tsurugi") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Drowsy Tsurugi"
+msgstr ""
+
+# mes "3. Which item is NOT dropped by Dokebi?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "3. Which item is NOT dropped by Dokebi?"
+msgstr ""
+
+# if (select("Rough Elunium", "Golden Hammer", "Sword Mace", "Mighty Staff") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Rough Elunium"
+msgstr ""
+
+# if (select("Rough Elunium", "Golden Hammer", "Sword Mace", "Mighty Staff") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Golden Hammer"
+msgstr ""
+
+# if (select("Rough Elunium", "Golden Hammer", "Sword Mace", "Mighty Staff") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Sword Mace"
+msgstr ""
+
+# if (select("Rough Elunium", "Golden Hammer", "Sword Mace", "Mighty Staff") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Mighty Staff"
+msgstr ""
+
+# mes "4. Which Demon monster has the most HP?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "4. Which Demon monster has the most HP?"
+msgstr ""
+
+# if (select("Giearth", "Magnolia", "Dokebi", "Marionette") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Giearth"
+msgstr ""
+
+# if (select("Giearth", "Magnolia", "Dokebi", "Marionette") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Magnolia"
+msgstr ""
+
+# if (select("Giearth", "Magnolia", "Dokebi", "Marionette") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Dokebi"
+msgstr ""
+
+# if (select("Giearth", "Magnolia", "Dokebi", "Marionette") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Marionette"
+msgstr ""
+
+# mes "5. Which Demon monster is a different size than the others?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "5. Which Demon monster is a different size than the others?"
+msgstr ""
+
+# if (select("Ghostring", "Whisper", "Deviruchi", "Baphomet Junior") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Ghostring"
+msgstr ""
+
+# if (select("Ghostring", "Whisper", "Deviruchi", "Baphomet Junior") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Whisper"
+msgstr ""
+
+# if (select("Ghostring", "Whisper", "Deviruchi", "Baphomet Junior") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Deviruchi"
+msgstr ""
+
+# if (select("Ghostring", "Whisper", "Deviruchi", "Baphomet Junior") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Baphomet Junior"
+msgstr ""
+
+# mes "6. Which shield reduces damage inflicted by Demon monsters?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "6. Which shield reduces damage inflicted by Demon monsters?"
+msgstr ""
+
+# if (select("Satanic Shield", "Shield from Hell", "Amulet Shield", "Excellent Shield") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Satanic Shield"
+msgstr ""
+
+# if (select("Satanic Shield", "Shield from Hell", "Amulet Shield", "Excellent Shield") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Shield from Hell"
+msgstr ""
+
+# if (select("Satanic Shield", "Shield from Hell", "Amulet Shield", "Excellent Shield") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Excellent Shield"
+msgstr ""
+
+# mes "7. Which attribute is the most effective on the Wind Ghost?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "7. Which attribute is the most effective on the Wind Ghost?"
+msgstr ""
+
+# if (select("Water", "Earth", "Fire", "Wind") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Water"
+msgstr ""
+
+# if (select("Water", "Earth", "Fire", "Wind") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Fire"
+msgstr ""
+
+# if (select("Water", "Earth", "Fire", "Wind") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Wind"
+msgstr ""
+
+# mes "8. Which monster is different from the other Demon monsters?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "8. Which monster is different from the other Demon monsters?"
+msgstr ""
+
+# if (select("Sohee", "Isis", "Dokebi", "Whisper") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Sohee"
+msgstr ""
+
+# mes "9. What effect does the Marionette Card have?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "9. What effect does the Marionette Card have?"
+msgstr ""
+
+# if (select("Increase defense against Shadow attacks by 30 %", "Increase defense against poison attacks by 30 %", "Increase defense against Ghost attacks by 30 %", "Increase defense against Neutral attacks by 30 %") == 3)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "Increase defense against Shadow attacks by 30 %"
+msgstr ""
+
+# if (select("Increase defense against Shadow attacks by 30 %", "Increase defense against poison attacks by 30 %", "Increase defense against Ghost attacks by 30 %", "Increase defense against Neutral attacks by 30 %") == 3)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "Increase defense against poison attacks by 30 %"
+msgstr ""
+
+# if (select("Increase defense against Shadow attacks by 30 %", "Increase defense against poison attacks by 30 %", "Increase defense against Ghost attacks by 30 %", "Increase defense against Neutral attacks by 30 %") == 3)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "Increase defense against Ghost attacks by 30 %"
+msgstr ""
+
+# if (select("Increase defense against Shadow attacks by 30 %", "Increase defense against poison attacks by 30 %", "Increase defense against Ghost attacks by 30 %", "Increase defense against Neutral attacks by 30 %") == 3)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "Increase defense against Neutral attacks by 30 %"
+msgstr ""
+
+# mes "10. Which of the following is an effective way to react when encountering a demon monster?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "10. Which of the following is an effective way to react when encountering a demon monster?"
+msgstr ""
+
+# if (select("Scream, 'Evil one, go away!'", "Offer your soul and get a deal.", "Put Holy Water on a weapon and attack.", "Put on a Deviruchi hat.") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Scream, 'Evil one, go away!'"
+msgstr ""
+
+# if (select("Scream, 'Evil one, go away!'", "Offer your soul and get a deal.", "Put Holy Water on a weapon and attack.", "Put on a Deviruchi hat.") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Offer your soul and get a deal."
+msgstr ""
+
+# if (select("Scream, 'Evil one, go away!'", "Offer your soul and get a deal.", "Put Holy Water on a weapon and attack.", "Put on a Deviruchi hat.") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Put Holy Water on a weapon and attack."
+msgstr ""
+
+# if (select("Scream, 'Evil one, go away!'", "Offer your soul and get a deal.", "Put Holy Water on a weapon and attack.", "Put on a Deviruchi hat.") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Put on a Deviruchi hat."
+msgstr ""
+
+# mes "1. What level of 'Divine Protection' do you need to learn 'Demon Bane?'";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "1. What level of 'Divine Protection' do you need to learn 'Demon Bane?'"
+msgstr ""
+
+# if (select("Level 1", "Level 2", "Level 3", "Level 4") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Level 1"
+msgstr ""
+
+# if (select("Level 1", "Level 2", "Level 3", "Level 4") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Level 2"
+msgstr ""
+
+# if (select("Level 1", "Level 2", "Level 3", "Level 4") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Level 3"
+msgstr ""
+
+# if (select("Level 1", "Level 2", "Level 3", "Level 4") == 3)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Level 4"
+msgstr ""
+
+# mes "2. If your INT is 30, including INT bonuses from quipment, at level 55, how much HP does Level 5 Heal recover?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "2. If your INT is 30, including INT bonuses from quipment, at level 55, how much HP does Level 5 Heal recover?"
+msgstr ""
+
+# if (select("396", "440", "484", "528") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "396"
+msgstr ""
+
+# if (select("396", "440", "484", "528") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "440"
+msgstr ""
+
+# if (select("396", "440", "484", "528") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "484"
+msgstr ""
+
+# if (select("396", "440", "484", "528") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "528"
+msgstr ""
+
+# mes "3. With Level 7 Divine Protection, by how much is your defense against the Undead increased?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "3. With Level 7 Divine Protection, by how much is your defense against the Undead increased?"
+msgstr ""
+
+# if (select("21", "22", "23", "24") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "21"
+msgstr ""
+
+# if (select("21", "22", "23", "24") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "22"
+msgstr ""
+
+# if (select("21", "22", "23", "24") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "23"
+msgstr ""
+
+# if (select("21", "22", "23", "24") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "24"
+msgstr ""
+
+# mes "4. Which of the following spears can attack Nightmare, which is endowed with the Ghost attribute?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "4. Which of the following spears can attack Nightmare, which is endowed with the Ghost attribute?"
+msgstr ""
+
+# if (select("Lance", "Bill Guisarme", "Cresent scythe", "Zephyrus") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Lance"
+msgstr ""
+
+# if (select("Lance", "Bill Guisarme", "Cresent scythe", "Zephyrus") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Bill Guisarme"
+msgstr ""
+
+# if (select("Lance", "Bill Guisarme", "Cresent scythe", "Zephyrus") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Cresent scythe"
+msgstr ""
+
+# if (select("Lance", "Bill Guisarme", "Cresent scythe", "Zephyrus") == 4)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Zephyrus"
+msgstr ""
+
+# mes "5. What level of 'Heal' do you need to learn 'Cure?'";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "5. What level of 'Heal' do you need to learn 'Cure?'"
+msgstr ""
+
+# mes "6. What is the attack speed when Level 3 Cavalier Mastery is learned?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "6. What is the attack speed when Level 3 Cavalier Mastery is learned?"
+msgstr ""
+
+# if (select("70 % of normal speed", "80 % of normal speed", "90 % of normal speed", "100 % of normal speed") == 2)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "70 % of normal speed"
+msgstr ""
+
+# if (select("70 % of normal speed", "80 % of normal speed", "90 % of normal speed", "100 % of normal speed") == 2)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "80 % of normal speed"
+msgstr ""
+
+# if (select("70 % of normal speed", "80 % of normal speed", "90 % of normal speed", "100 % of normal speed") == 2)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "90 % of normal speed"
+msgstr ""
+
+# if (select("70 % of normal speed", "80 % of normal speed", "90 % of normal speed", "100 % of normal speed") == 2)
+#: npc/jobs/2-2/crusader.txt
+#, no-c-format
+msgctxt "Crusader"
+msgid "100 % of normal speed"
+msgstr ""
+
+# mes "7. Which of the following is not correct of the Demon Bane skill?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "7. Which of the following is not correct of the Demon Bane skill?"
+msgstr ""
+
+# if (select("Increase attack on Undead", "Only Acolytes can learn the skill", "When mastered, + 30 increase", "Passive Skill") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Increase attack on Undead"
+msgstr ""
+
+# if (select("Increase attack on Undead", "Only Acolytes can learn the skill", "When mastered, + 30 increase", "Passive Skill") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Only Acolytes can learn the skill"
+msgstr ""
+
+# if (select("Increase attack on Undead", "Only Acolytes can learn the skill", "When mastered, + 30 increase", "Passive Skill") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "When mastered, + 30 increase"
+msgstr ""
+
+# if (select("Increase attack on Undead", "Only Acolytes can learn the skill", "When mastered, + 30 increase", "Passive Skill") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Passive Skill"
+msgstr ""
+
+# mes "8. How much SP does Level 7 Heal use?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "8. How much SP does Level 7 Heal use?"
+msgstr ""
+
+# if (select("30", "31", "33", "35") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "30"
+msgstr ""
+
+# if (select("30", "31", "33", "35") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "31"
+msgstr ""
+
+# if (select("30", "31", "33", "35") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "33"
+msgstr ""
+
+# if (select("30", "31", "33", "35") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "35"
+msgstr ""
+
+# mes "9. What status cannot be";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "9. What status cannot be"
+msgstr ""
+
+# mes "cured with the Cure skill?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "cured with the Cure skill?"
+msgstr ""
+
+# if (select("Curse", "Silence", "Chaos", "Blind") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Curse"
+msgstr ""
+
+# if (select("Curse", "Silence", "Chaos", "Blind") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Silence"
+msgstr ""
+
+# if (select("Curse", "Silence", "Chaos", "Blind") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Chaos"
+msgstr ""
+
+# if (select("Curse", "Silence", "Chaos", "Blind") == 1)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Blind"
+msgstr ""
+
+# mes "10. What best describes a Crusader?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "10. What best describes a Crusader?"
+msgstr ""
+
+# if (select("One preparing for matrimony.", "One preparing for the Holy War.", "One preparing consummation.", "One preparing potions.") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "One preparing for matrimony."
+msgstr ""
+
+# if (select("One preparing for matrimony.", "One preparing for the Holy War.", "One preparing consummation.", "One preparing potions.") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "One preparing for the Holy War."
+msgstr ""
+
+# if (select("One preparing for matrimony.", "One preparing for the Holy War.", "One preparing consummation.", "One preparing potions.") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "One preparing consummation."
+msgstr ""
+
+# if (select("One preparing for matrimony.", "One preparing for the Holy War.", "One preparing consummation.", "One preparing potions.") == 2)
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "One preparing potions."
+msgstr ""
+
+# mes "Good work~";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Good work~"
+msgstr ""
+
+# mes "Well, first let me";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Well, first let me"
+msgstr ""
+
+# mes "look at your results.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "look at your results."
+msgstr ""
+
+# mes " " + strcharinfo(PC_NAME) + "'s score";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid " "
+msgstr ""
+
+# mes "is " + .@cru_t + " points...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "is "
+msgstr ""
+
+# mes "is " + .@cru_t + " points...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid " points..."
+msgstr ""
+
+# mes "Superb! Now, it's time for";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Superb! Now, it's time for"
+msgstr ""
+
+# mes "you to take the next test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "you to take the next test."
+msgstr ""
+
+# mes "Go to Prontera Castle";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Go to Prontera Castle"
+msgstr ""
+
+# mes "and meet Bliant Piyord.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "and meet Bliant Piyord."
+msgstr ""
+
+# mes "I will inform him that";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I will inform him that"
+msgstr ""
+
+# mes "he will be testing you next.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "he will be testing you next."
+msgstr ""
+
+# mes "Well done~ Now, it's time for";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Well done~ Now, it's time for"
+msgstr ""
+
+# mes "Seems like you prepared a lot so I'll let you pass this time.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Seems like you prepared a lot so I'll let you pass this time."
+msgstr ""
+
+# mes "Hurry now and go take the next test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Hurry now and go take the next test."
+msgstr ""
+
+# mes "Go to the Prontera Castle and meet Bliant Piyord.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Go to the Prontera Castle and meet Bliant Piyord."
+msgstr ""
+
+# mes "I will inform him to prepare the next test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I will inform him to prepare the next test."
+msgstr ""
+
+# mes "Hmmm... What a pity.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Hmmm... What a pity."
+msgstr ""
+
+# mes "Go study some more and";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Go study some more and"
+msgstr ""
+
+# mes "take this test again, okay?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "take this test again, okay?"
+msgstr ""
+
+# mes "Don't stress, you need to know a lot in order to pass this test. In any case, I'll be waiting right here. When you think you're ready, come back, alright?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Don't stress, you need to know a lot in order to pass this test. In any case, I'll be waiting right here. When you think you're ready, come back, alright?"
+msgstr ""
+
+# mes "Like I mentioned before, you should go to Prontera Castle and meet with Bliant Piyord to take your next test. Good luck, and become a Crusder soon, alright?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Like I mentioned before, you should go to Prontera Castle and meet with Bliant Piyord to take your next test. Good luck, and become a Crusder soon, alright?"
+msgstr ""
+
+# mes "What are you still doing here? You've already completed all the tests. Go talk to our leader, you're pretty much ready to become a Crusader now.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "What are you still doing here? You've already completed all the tests. Go talk to our leader, you're pretty much ready to become a Crusader now."
+msgstr ""
+
+# mes "You will soon join us in our preparations for the Holy War. Continue to live with faith after becoming a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "You will soon join us in our preparations for the Holy War. Continue to live with faith after becoming a Crusader."
+msgstr ""
+
+# mes "Mmm...?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Mmm...?"
+msgstr ""
+
+# mes "It seems that you're";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "It seems that you're"
+msgstr ""
+
+# mes "an aspiring Crusader...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "an aspiring Crusader..."
+msgstr ""
+
+# mes "But, it's not my turn";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "But, it's not my turn"
+msgstr ""
+
+# mes "to test you quite yet.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "to test you quite yet."
+msgstr ""
+
+# mes "Finish those other tests,";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "Finish those other tests,"
+msgstr ""
+
+# mes "and come to me once you're";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "and come to me once you're"
+msgstr ""
+
+# mes "instructed. Until then,";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "instructed. Until then,"
+msgstr ""
+
+# mes "I'll see you later~";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Crusader"
+msgid "I'll see you later~"
+msgstr ""
+
+# mes "[Bliant Piyord]";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "[Bliant Piyord]"
+msgstr ""
+
+# mes "Welcome.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Welcome."
+msgstr ""
+
+# mes "How goes";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "How goes"
+msgstr ""
+
+# mes "your training?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "your training?"
+msgstr ""
+
+# mes "Develop your faith. From faith springs strength and discipline. Day after day, train yourself and become a great Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Develop your faith. From faith springs strength and discipline. Day after day, train yourself and become a great Crusader."
+msgstr ""
+
+# mes "We are Crusaders,";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "We are Crusaders,"
+msgstr ""
+
+# mes "warriors of holiness preparing for the great Holy War that is to come.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "warriors of holiness preparing for the great Holy War that is to come."
+msgstr ""
+
+# mes "Are you interested";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Are you interested"
+msgstr ""
+
+# mes "in becoming a Crusader?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "in becoming a Crusader?"
+msgstr ""
+
+# mes "We are always waiting";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "We are always waiting"
+msgstr ""
+
+# mes "for more capable men and";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "for more capable men and"
+msgstr ""
+
+# mes "women to join our ranks.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "women to join our ranks."
+msgstr ""
+
+# mes "Train as a Swordsman and come to us when you think you are ready. If you have been called by Odin to become a Crusader, that would be even better.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Train as a Swordsman and come to us when you think you are ready. If you have been called by Odin to become a Crusader, that would be even better."
+msgstr ""
+
+# mes "Even in these relatively peaceful times, our training is ceaseless. We must be ready for the day with the tides of darkness shall rush against mankind...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Even in these relatively peaceful times, our training is ceaseless. We must be ready for the day with the tides of darkness shall rush against mankind..."
+msgstr ""
+
+# mes "To become a Crusader, you must train until you are Job Level 40. For more details, please speak with our leader inside.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "To become a Crusader, you must train until you are Job Level 40. For more details, please speak with our leader inside."
+msgstr ""
+
+# mes "May Odin";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "May Odin"
+msgstr ""
+
+# mes "be with you...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "be with you..."
+msgstr ""
+
+# mes "It's nice";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "It's nice"
+msgstr ""
+
+# mes "to meet you.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "to meet you."
+msgstr ""
+
+# mes "It is now time";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "It is now time"
+msgstr ""
+
+# mes "for your final test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "for your final test."
+msgstr ""
+
+# mes "My name is Bliant Piyord and I too, am preparing for the Holy War. It must've been quite a hassle to come all this way.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "My name is Bliant Piyord and I too, am preparing for the Holy War. It must've been quite a hassle to come all this way."
+msgstr ""
+
+# mes "This test will gauge your skills in battle. Only those with great fighting ability can become Crusaders.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "This test will gauge your skills in battle. Only those with great fighting ability can become Crusaders."
+msgstr ""
+
+# mes "To take the battle test, bring";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "To take the battle test, bring"
+msgstr ""
+
+# mes "1 ^3355FFHoly Water^000000. This will be used to purify you prior to taking the test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "1 ^3355FFHoly Water^000000. This will be used to purify you prior to taking the test."
+msgstr ""
+
+# mes "Well then...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Well then..."
+msgstr ""
+
+# mes "Shall we";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Shall we"
+msgstr ""
+
+# mes "begin right away?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "begin right away?"
+msgstr ""
+
+# mes "Or do you need time";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Or do you need time"
+msgstr ""
+
+# mes "to prepare yourself?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "to prepare yourself?"
+msgstr ""
+
+# mes "Are you prepared";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Are you prepared"
+msgstr ""
+
+# mes "for the test now?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "for the test now?"
+msgstr ""
+
+# mes "Would you like to begin now, or do you still need time to make preparations?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Would you like to begin now, or do you still need time to make preparations?"
+msgstr ""
+
+# if (select("I would like to begin.", "Give me some time to prepare.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "I would like to begin."
+msgstr ""
+
+# if (select("I would like to begin.", "Give me some time to prepare.") == 1) {
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Give me some time to prepare."
+msgstr ""
+
+# mes "Just a second, you do not have a Rosary equipped. As a Crusader, you must always have a Rosary on your person.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Just a second, you do not have a Rosary equipped. As a Crusader, you must always have a Rosary on your person."
+msgstr ""
+
+# mes "Come back and take";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Come back and take"
+msgstr ""
+
+# mes "the test after you";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "the test after you"
+msgstr ""
+
+# mes "have a Rosary.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "have a Rosary."
+msgstr ""
+
+# mes "For the battle test, please prepare one ^3355FFHoly water^000000.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "For the battle test, please prepare one ^3355FFHoly water^000000."
+msgstr ""
+
+# mes "I told you just to purify the candidates.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "I told you just to purify the candidates."
+msgstr ""
+
+# mes "Get prepares and come back to here.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Get prepares and come back to here."
+msgstr ""
+
+# mes "I will wait for you.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "I will wait for you."
+msgstr ""
+
+# mes "Then, I'll start";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Then, I'll start"
+msgstr ""
+
+# mes "the test. You will";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "the test. You will"
+msgstr ""
+
+# mes "be purified with the";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "be purified with the"
+msgstr ""
+
+# mes "Holy Water you prepared.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Holy Water you prepared."
+msgstr ""
+
+# mes "...............";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "..............."
+msgstr ""
+
+# mes "Let's begin.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Let's begin."
+msgstr ""
+
+# mes "Go and enter";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Go and enter"
+msgstr ""
+
+# mes "the waiting room.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "the waiting room."
+msgstr ""
+
+# mes "Defeat the monsters";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Defeat the monsters"
+msgstr ""
+
+# mes "that appear in";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "that appear in"
+msgstr ""
+
+# mes "the 4 stages.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "the 4 stages."
+msgstr ""
+
+# mes "Prepare 1 ^3355FFHoly Water^000000 to take the battle test. As I've said, it will be used to purify you prior to taking the test.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Prepare 1 ^3355FFHoly Water^000000 to take the battle test. As I've said, it will be used to purify you prior to taking the test."
+msgstr ""
+
+# mes "have prepared";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "have prepared"
+msgstr ""
+
+# mes "1 Holy Water.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "1 Holy Water."
+msgstr ""
+
+# mes "I shall be";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "I shall be"
+msgstr ""
+
+# mes "waiting.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "waiting."
+msgstr ""
+
+# mes "Congratulations.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Congratulations."
+msgstr ""
+
+# mes "You have completed";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "You have completed"
+msgstr ""
+
+# mes "all the tests to";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "all the tests to"
+msgstr ""
+
+# mes "become a Crusader.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "become a Crusader."
+msgstr ""
+
+# mes "Go talk to our";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Go talk to our"
+msgstr ""
+
+# mes "leader inside.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "leader inside."
+msgstr ""
+
+# mes "We welcome you into";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "We welcome you into"
+msgstr ""
+
+# mes "the ranks of those";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "the ranks of those"
+msgstr ""
+
+# mes "preparing for the";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "preparing for the"
+msgstr ""
+
+# mes "coming Holy War.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "coming Holy War."
+msgstr ""
+
+# mes "Are you not one of the ones in the process of becoming a Crusader?";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Are you not one of the ones in the process of becoming a Crusader?"
+msgstr ""
+
+# mes "It's not your turn";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "It's not your turn"
+msgstr ""
+
+# mes "to take my test yet.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "to take my test yet."
+msgstr ""
+
+# mes "Come back after taking";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "Come back after taking"
+msgstr ""
+
+# mes "all the other tests.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "all the other tests."
+msgstr ""
+
+# mes "I'll see you soon.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "I'll see you soon."
+msgstr ""
+
+# mes "May Odin's blessings";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "May Odin's blessings"
+msgstr ""
+
+# mes "be with you.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight"
+msgid "be with you."
+msgstr ""
+
+# mes "[Bliant Piyord]";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "[Bliant Piyord]"
+msgstr ""
+
+# mes "Welcome.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "Welcome."
+msgstr ""
+
+# mes "You will take";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "You will take"
+msgstr ""
+
+# mes "the last test here.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "the last test here."
+msgstr ""
+
+# mes "If you are ready for";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "If you are ready for"
+msgstr ""
+
+# mes "the test, enter the";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "the test, enter the"
+msgstr ""
+
+# mes "waiting room.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "waiting room."
+msgstr ""
+
+# mes "Only one person can take the test at a time. If someone else is already testing, please wait until the testing area is made available once again.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "Only one person can take the test at a time. If someone else is already testing, please wait until the testing area is made available once again."
+msgstr ""
+
+# mes "Each person will get 4 minutes to complete the test. If you wish to leave in the middle of the test, please disconnect from the game.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Patron Knight#2"
+msgid "Each person will get 4 minutes to complete the test. If you wish to leave in the middle of the test, please disconnect from the game."
+msgstr ""
+
+# mes "[Bliant Piyord]";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "[Bliant Piyord]"
+msgstr ""
+
+# mes "Go forth and defeat all";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "Go forth and defeat all"
+msgstr ""
+
+# mes "the monsters that appear.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "the monsters that appear."
+msgstr ""
+
+# mes "You will not pass if any";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "You will not pass if any"
+msgstr ""
+
+# mes "are remaining.";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "are remaining."
+msgstr ""
+
+# mes "You will be given";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "You will be given"
+msgstr ""
+
+# mes "4 minutes. Go forth";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "4 minutes. Go forth"
+msgstr ""
+
+# mes "and do your best...";
+#: npc/jobs/2-2/crusader.txt
+msgctxt "Zombie Guide"
+msgid "and do your best..."
+msgstr ""
+

@@ -1,0 +1,3727 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:26+0200\n"
+"PO-Revision-Date: 2019-10-21 10:40\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/quests/skills/rogue_skills_txt.pot\n"
+
+# mes "[Killer]";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "[Killer]"
+msgstr ""
+
+# mes "Wh-what have";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Wh-what have"
+msgstr ""
+
+# mes "you done to me?!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "you done to me?!"
+msgstr ""
+
+# mes "C-can't... move!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "C-can't... move!"
+msgstr ""
+
+# mes "[Haijara Greg]";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "[Haijara Greg]"
+msgstr ""
+
+# mes "Oh? I didn't expect";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Oh? I didn't expect"
+msgstr ""
+
+# mes "you to be able to cast";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "you to be able to cast"
+msgstr ""
+
+# mes "Close Confine so soon!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Close Confine so soon!"
+msgstr ""
+
+# mes "Amazing, just amazing!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Amazing, just amazing!"
+msgstr ""
+
+# mes "Now, this is a good chance";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Now, this is a good chance"
+msgstr ""
+
+# mes "for you to master the skill...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "for you to master the skill..."
+msgstr ""
+
+# mes "Now pay attention.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Now pay attention."
+msgstr ""
+
+# mes "I want you to practice";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "I want you to practice"
+msgstr ""
+
+# mes "predicting your opponent's";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "predicting your opponent's"
+msgstr ""
+
+# mes "movement intent on this killer.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "movement intent on this killer."
+msgstr ""
+
+# mes "You should be able to see which way he plans to move by his aura.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "You should be able to see which way he plans to move by his aura."
+msgstr ""
+
+# mes "If he plans to move to left,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "If he plans to move to left,"
+msgstr ""
+
+# mes "his aura will be white. If he";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "his aura will be white. If he"
+msgstr ""
+
+# mes "moves to the right, it will be";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "moves to the right, it will be"
+msgstr ""
+
+# mes "yellow. If he intends to go";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "yellow. If he intends to go"
+msgstr ""
+
+# mes "backward, it will be pale red.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "backward, it will be pale red."
+msgstr ""
+
+# if (select("Block him to the Left", "Block him to the Right", "Block his Retreat") == .@move_1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Block him to the Left"
+msgstr ""
+
+# if (select("Block him to the Left", "Block him to the Right", "Block his Retreat") == .@move_1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Block him to the Right"
+msgstr ""
+
+# if (select("Block him to the Left", "Block him to the Right", "Block his Retreat") == .@move_1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Block his Retreat"
+msgstr ""
+
+# mes "^3355FFThe killer remains";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "^3355FFThe killer remains"
+msgstr ""
+
+# mes "unable to move and looks";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "unable to move and looks"
+msgstr ""
+
+# mes "incredibly confused! Right";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "incredibly confused! Right"
+msgstr ""
+
+# mes "now, you're using the Close";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "now, you're using the Close"
+msgstr ""
+
+# mes "Confine skill perfectly!^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Confine skill perfectly!^000000"
+msgstr ""
+
+# mes "^3355FFWait--!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "^3355FFWait--!"
+msgstr ""
+
+# mes "For some reason,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "For some reason,"
+msgstr ""
+
+# mes "you sense that's not";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "you sense that's not"
+msgstr ""
+
+# mes "the direction the killer";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "the direction the killer"
+msgstr ""
+
+# mes "is moving at this moment.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "is moving at this moment."
+msgstr ""
+
+# mes "You naturally correct yourself.^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "You naturally correct yourself.^000000"
+msgstr ""
+
+# mes "^3355FFYou successfully";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "^3355FFYou successfully"
+msgstr ""
+
+# mes "retrieved the priceless";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "retrieved the priceless"
+msgstr ""
+
+# mes "skill book written by the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "skill book written by the"
+msgstr ""
+
+# mes "legendary Chae Takbae.^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "legendary Chae Takbae.^000000"
+msgstr ""
+
+# mes "Grrrrr...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "Grrrrr..."
+msgstr ""
+
+# mes "S-still...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "S-still..."
+msgstr ""
+
+# mes "C-can't... Move!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Killer#Rogueguild"
+msgid "C-can't... Move!"
+msgstr ""
+
+# mes "[Haijara Greg]";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "[Haijara Greg]"
+msgstr ""
+
+# mes "Hm? Ah, amnesia as";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Hm? Ah, amnesia as"
+msgstr ""
+
+# mes "resulting from transcending,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "resulting from transcending,"
+msgstr ""
+
+# mes "eh? Then I will teach you the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "eh? Then I will teach you the"
+msgstr ""
+
+# mes "Close Confine skill once again.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Close Confine skill once again."
+msgstr ""
+
+# mes "A Stalker, eh?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "A Stalker, eh?"
+msgstr ""
+
+# mes "Make sure that you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Make sure that you"
+msgstr ""
+
+# mes "use your abilities to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "use your abilities to"
+msgstr ""
+
+# mes "malign foes that deserve";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "malign foes that deserve"
+msgstr ""
+
+# mes "to be stalked. Best of";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "to be stalked. Best of"
+msgstr ""
+
+# mes "luck to you, adventurer.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "luck to you, adventurer."
+msgstr ""
+
+# mes "H-how did you find this";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "H-how did you find this"
+msgstr ""
+
+# mes "place? I thought this panic";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "place? I thought this panic"
+msgstr ""
+
+# mes "room was supposed to be";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "room was supposed to be"
+msgstr ""
+
+# mes "impenetrable, even by Rogues!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "impenetrable, even by Rogues!"
+msgstr ""
+
+# mes "This can't be good!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "This can't be good!"
+msgstr ""
+
+# mes "It will only be a matter of";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "It will only be a matter of"
+msgstr ""
+
+# mes "time before they find me...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "time before they find me..."
+msgstr ""
+
+# mes "Wh-who are you,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Wh-who are you,"
+msgstr ""
+
+# mes "and how did you get";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "and how did you get"
+msgstr ""
+
+# mes "in here? Identify yourself!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "in here? Identify yourself!"
+msgstr ""
+
+# if (select("I don't mean you any harm!", "Give us what we want!") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I don't mean you any harm!"
+msgstr ""
+
+# if (select("I don't mean you any harm!", "Give us what we want!") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Give us what we want!"
+msgstr ""
+
+# mes "No...?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "No...?"
+msgstr ""
+
+# mes "Then... Then";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Then... Then"
+msgstr ""
+
+# mes "why have you come?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "why have you come?"
+msgstr ""
+
+# mes "It is no accident that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "It is no accident that"
+msgstr ""
+
+# mes "you have found me.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "you have found me."
+msgstr ""
+
+# if (select("I came to help you.", "Oh, actually, I wasn't looking for you.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I came to help you."
+msgstr ""
+
+# if (select("I came to help you.", "Oh, actually, I wasn't looking for you.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Oh, actually, I wasn't looking for you."
+msgstr ""
+
+# mes "Hmm... Well, I suppose";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Hmm... Well, I suppose"
+msgstr ""
+
+# mes "I can trust a fellow Stalker";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I can trust a fellow Stalker"
+msgstr ""
+
+# mes "I can trust a fellow Rogue";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I can trust a fellow Rogue"
+msgstr ""
+
+# mes "with my predictament. Honor";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "with my predictament. Honor"
+msgstr ""
+
+# mes "among thieves and all that.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "among thieves and all that."
+msgstr ""
+
+# mes "Alright. Have you ever heard";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Alright. Have you ever heard"
+msgstr ""
+
+# mes "the legend of Chae Takbae?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "the legend of Chae Takbae?"
+msgstr ""
+
+# if (select("No", "Yes") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "No"
+msgstr ""
+
+# if (select("No", "Yes") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Yes"
+msgstr ""
+
+# mes "100 years ago, Chae Takbae";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "100 years ago, Chae Takbae"
+msgstr ""
+
+# mes "was the very first person to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "was the very first person to"
+msgstr ""
+
+# mes "transcend his limits. He was";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "transcend his limits. He was"
+msgstr ""
+
+# mes "also the very person to choose";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "also the very person to choose"
+msgstr ""
+
+# mes "a different path, rather than the job order he previously had.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "a different path, rather than the job order he previously had."
+msgstr ""
+
+# mes "He was originally a Monk,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "He was originally a Monk,"
+msgstr ""
+
+# mes "but after transcending, he";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "but after transcending, he"
+msgstr ""
+
+# mes "somehow became a Stalker.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "somehow became a Stalker."
+msgstr ""
+
+# mes "Retaining his knowledge of";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Retaining his knowledge of"
+msgstr ""
+
+# mes "the Monk's Root skill, he adapted it for the purposes of the Rogues.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "the Monk's Root skill, he adapted it for the purposes of the Rogues."
+msgstr ""
+
+# mes "Chae Takbae recorded the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Chae Takbae recorded the"
+msgstr ""
+
+# mes "fundamentals for this new";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "fundamentals for this new"
+msgstr ""
+
+# mes "Rogue skill in a book that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Rogue skill in a book that"
+msgstr ""
+
+# mes "I was fortunate enough to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I was fortunate enough to"
+msgstr ""
+
+# mes "obtain. But as soon as I got";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "obtain. But as soon as I got"
+msgstr ""
+
+# mes "it, the blackmailing begain...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "it, the blackmailing begain..."
+msgstr ""
+
+# mes "There are unscrupulous";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "There are unscrupulous"
+msgstr ""
+
+# mes "parties that will use any";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "parties that will use any"
+msgstr ""
+
+# mes "means to take the book away";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "means to take the book away"
+msgstr ""
+
+# mes "from me. I can understand, as";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "from me. I can understand, as"
+msgstr ""
+
+# mes "my sons and I have learned new";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "my sons and I have learned new"
+msgstr ""
+
+# mes "skills from Takbae's writings.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "skills from Takbae's writings."
+msgstr ""
+
+# mes "However, I am running";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "However, I am running"
+msgstr ""
+
+# mes "out of time and those men";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "out of time and those men"
+msgstr ""
+
+# mes "will inevitably find me.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "will inevitably find me."
+msgstr ""
+
+# mes "Will you help me save";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Will you help me save"
+msgstr ""
+
+# mes "myself and my sons?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "myself and my sons?"
+msgstr ""
+
+# if (select("Sure!", "Sorry, but I'm busy.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Sure!"
+msgstr ""
+
+# if (select("Sure!", "Sorry, but I'm busy.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Sorry, but I'm busy."
+msgstr ""
+
+# mes "Oh, thank you so much!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Oh, thank you so much!"
+msgstr ""
+
+# mes "Listen, I can't risk being";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Listen, I can't risk being"
+msgstr ""
+
+# mes "found, so would you take";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "found, so would you take"
+msgstr ""
+
+# mes "this letter to my youngest";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "this letter to my youngest"
+msgstr ""
+
+# mes "son, ^FF0000Louis Greg^000000? Hurry,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "son, ^FF0000Louis Greg^000000? Hurry,"
+msgstr ""
+
+# mes "there's not much time left!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "there's not much time left!"
+msgstr ""
+
+# mes "I... I see.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I... I see."
+msgstr ""
+
+# mes "But please realize";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "But please realize"
+msgstr ""
+
+# mes "that, if not you, who";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "that, if not you, who"
+msgstr ""
+
+# mes "can I trust to help me?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "can I trust to help me?"
+msgstr ""
+
+# mes "Then you would know the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Then you would know the"
+msgstr ""
+
+# mes "value of the skill book he has";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "value of the skill book he has"
+msgstr ""
+
+# mes "written that I now possess.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "written that I now possess."
+msgstr ""
+
+# mes "However, I'm hounded by men";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "However, I'm hounded by men"
+msgstr ""
+
+# mes "who will do anything to get it.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "who will do anything to get it."
+msgstr ""
+
+# mes "Would you please help me?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Would you please help me?"
+msgstr ""
+
+# mes "Hm...?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Hm...?"
+msgstr ""
+
+# mes "That seems unlikely, but";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "That seems unlikely, but"
+msgstr ""
+
+# mes "I suppose I better give you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I suppose I better give you"
+msgstr ""
+
+# mes "the benefit of the doubt.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "the benefit of the doubt."
+msgstr ""
+
+# mes "Well then, I hope that you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Well then, I hope that you"
+msgstr ""
+
+# mes "can find your way out of here.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "can find your way out of here."
+msgstr ""
+
+# mes "I see. So be it.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I see. So be it."
+msgstr ""
+
+# mes "I'll show you the skill";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I'll show you the skill"
+msgstr ""
+
+# mes "that you covet so much...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "that you covet so much..."
+msgstr ""
+
+# mes "^FF0000Close Confine^000000!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "^FF0000Close Confine^000000!"
+msgstr ""
+
+# mes "Hmpf. Now you are";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Hmpf. Now you are"
+msgstr ""
+
+# mes "helpless, allowing";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "helpless, allowing"
+msgstr ""
+
+# mes "me to do this: ^FF0000Back Stab^000000!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "me to do this: ^FF0000Back Stab^000000!"
+msgstr ""
+
+# mes "Now get out of here.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Now get out of here."
+msgstr ""
+
+# mes "Never show your greedy";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Never show your greedy"
+msgstr ""
+
+# mes "face in front of me again.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "face in front of me again."
+msgstr ""
+
+# mes "And just be happy that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "And just be happy that"
+msgstr ""
+
+# mes "I haven't killed you!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I haven't killed you!"
+msgstr ""
+
+# mes "We're running out of";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "We're running out of"
+msgstr ""
+
+# mes "time... Please bring this";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "time... Please bring this"
+msgstr ""
+
+# mes "letter to my youngest son,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "letter to my youngest son,"
+msgstr ""
+
+# mes "^FF0000Louis^000000, as soon as you can!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "^FF0000Louis^000000, as soon as you can!"
+msgstr ""
+
+# mes "You can find him in the Rogue";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "You can find him in the Rogue"
+msgstr ""
+
+# mes "Guild near ^FF0000Hollgrehenn Junior^000000.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Guild near ^FF0000Hollgrehenn Junior^000000."
+msgstr ""
+
+# mes "Louis sent you to find";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Louis sent you to find"
+msgstr ""
+
+# mes "^FF0000Thor^000000? He's in the Rogue";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "^FF0000Thor^000000? He's in the Rogue"
+msgstr ""
+
+# mes "Guild near ^FF0000Hermanthorn Jr.^000000,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Guild near ^FF0000Hermanthorn Jr.^000000,"
+msgstr ""
+
+# mes "isn't he? I'm sorry that you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "isn't he? I'm sorry that you"
+msgstr ""
+
+# mes "have to visit my sons one by";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "have to visit my sons one by"
+msgstr ""
+
+# mes "one... I know it's impractical.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "one... I know it's impractical."
+msgstr ""
+
+# mes "Ah, looking for ^FF0000Jay^000000, eh?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Ah, looking for ^FF0000Jay^000000, eh?"
+msgstr ""
+
+# mes "He's near ^FF0000Antonio Jr.^000000 here";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "He's near ^FF0000Antonio Jr.^000000 here"
+msgstr ""
+
+# mes "in the Rogue Guild. Or at";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "in the Rogue Guild. Or at"
+msgstr ""
+
+# mes "least, he's usually there.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "least, he's usually there."
+msgstr ""
+
+# mes "Oh, you're back!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Oh, you're back!"
+msgstr ""
+
+# mes "And you've brought";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "And you've brought"
+msgstr ""
+
+# mes "a letter from Jay.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "a letter from Jay."
+msgstr ""
+
+# mes "Good, good, let me";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Good, good, let me"
+msgstr ""
+
+# mes "read what he has to say...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "read what he has to say..."
+msgstr ""
+
+# mes "Ah, great news! He's";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Ah, great news! He's"
+msgstr ""
+
+# mes "contacted the Rogue Guild";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "contacted the Rogue Guild"
+msgstr ""
+
+# mes "to request extra protection";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "to request extra protection"
+msgstr ""
+
+# mes "and to alert their guard. I can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "and to alert their guard. I can"
+msgstr ""
+
+# mes "finally relax just a little now. No one messes with Rogues.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "finally relax just a little now. No one messes with Rogues."
+msgstr ""
+
+# mes "Thank you very much for";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Thank you very much for"
+msgstr ""
+
+# mes "your help. I would be in";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "your help. I would be in"
+msgstr ""
+
+# mes "hiding forever if it weren't";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "hiding forever if it weren't"
+msgstr ""
+
+# mes "for you. In return, let me";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "for you. In return, let me"
+msgstr ""
+
+# mes "offer you the chance to learn";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "offer you the chance to learn"
+msgstr ""
+
+# mes "Chae Takbae's secret skill.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Chae Takbae's secret skill."
+msgstr ""
+
+# mes "Please speak to ^FF0000Thor^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Please speak to ^FF0000Thor^000000"
+msgstr ""
+
+# mes "and tell him that I've";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "and tell him that I've"
+msgstr ""
+
+# mes "permitted you to learn";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "permitted you to learn"
+msgstr ""
+
+# mes "the skill I have taught";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "the skill I have taught"
+msgstr ""
+
+# mes "all of my sons. He'll";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "all of my sons. He'll"
+msgstr ""
+
+# mes "comply, I'm sure of it.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "comply, I'm sure of it."
+msgstr ""
+
+# mes "Please ask Thor to teach";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Please ask Thor to teach"
+msgstr ""
+
+# mes "you Chae Takbae's secret";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "you Chae Takbae's secret"
+msgstr ""
+
+# mes "Rogue skill. Understand that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Rogue skill. Understand that"
+msgstr ""
+
+# mes "I can't teach you this skill";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I can't teach you this skill"
+msgstr ""
+
+# mes "with the equipment here in";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "with the equipment here in"
+msgstr ""
+
+# mes "this sloven panic room.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "this sloven panic room."
+msgstr ""
+
+# mes "Hm...? Aren't you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Hm...? Aren't you"
+msgstr ""
+
+# mes "supposed to be in the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "supposed to be in the"
+msgstr ""
+
+# mes "middle of training to learn";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "middle of training to learn"
+msgstr ""
+
+# mes "that skill? Please speak to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "that skill? Please speak to"
+msgstr ""
+
+# mes "Thor and complete your training. ";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Thor and complete your training. "
+msgstr ""
+
+# mes "You've completed the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "You've completed the"
+msgstr ""
+
+# mes "training? Ah, that's quite";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "training? Ah, that's quite"
+msgstr ""
+
+# mes "exceptional. However, you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "exceptional. However, you"
+msgstr ""
+
+# mes "should speak to Thor first...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "should speak to Thor first..."
+msgstr ""
+
+# mes "Oh, you've come back!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Oh, you've come back!"
+msgstr ""
+
+# mes "I hear that you've completed";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I hear that you've completed"
+msgstr ""
+
+# mes "the training and are ready";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "the training and are ready"
+msgstr ""
+
+# mes "to hear about the applications";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "to hear about the applications"
+msgstr ""
+
+# mes "for the Close Confine skill.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "for the Close Confine skill."
+msgstr ""
+
+# mes "Wah! What th--?!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Wah! What th--?!"
+msgstr ""
+
+# mes "Stop! P-please, stop";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Stop! P-please, stop"
+msgstr ""
+
+# mes "that man! We can't let";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "that man! We can't let"
+msgstr ""
+
+# mes "him steal that book!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "him steal that book!"
+msgstr ""
+
+# mes "That man just stole the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "That man just stole the"
+msgstr ""
+
+# mes "Close Confine skill book!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Close Confine skill book!"
+msgstr ""
+
+# mes "Please! Don't let him get";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Please! Don't let him get"
+msgstr ""
+
+# mes "away! That book is priceless!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "away! That book is priceless!"
+msgstr ""
+
+# mes "^3355FFYou returned the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "^3355FFYou returned the"
+msgstr ""
+
+# mes "skill book written by";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "skill book written by"
+msgstr ""
+
+# mes "Chae Takbae to Haijara.^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Chae Takbae to Haijara.^000000"
+msgstr ""
+
+# mes "Thanks so much for your";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Thanks so much for your"
+msgstr ""
+
+# mes "assistance. Now, if you'd";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "assistance. Now, if you'd"
+msgstr ""
+
+# mes "like to know some detailed";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "like to know some detailed"
+msgstr ""
+
+# mes "information about Close";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "information about Close"
+msgstr ""
+
+# mes "Confine, I can tell you more";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Confine, I can tell you more"
+msgstr ""
+
+# mes "about the skill if you like.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "about the skill if you like."
+msgstr ""
+
+# if (select("Yes, please.", "No, thanks.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Yes, please."
+msgstr ""
+
+# if (select("Yes, please.", "No, thanks.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "No, thanks."
+msgstr ""
+
+# mes "As you must know,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "As you must know,"
+msgstr ""
+
+# mes "Close Confine immobilizes";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Close Confine immobilizes"
+msgstr ""
+
+# mes "an enemy that is very close";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "an enemy that is very close"
+msgstr ""
+
+# mes "to you. However, there are";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "to you. However, there are"
+msgstr ""
+
+# mes "a few nuances regarding its";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "a few nuances regarding its"
+msgstr ""
+
+# mes "use on players or monsters.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "use on players or monsters."
+msgstr ""
+
+# mes "Now, Close Confine is";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Now, Close Confine is"
+msgstr ""
+
+# mes "similar to the Monk's skill,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "similar to the Monk's skill,"
+msgstr ""
+
+# mes "Root, but it only inhibits the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Root, but it only inhibits the"
+msgstr ""
+
+# mes "enemy's movement, not";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "enemy's movement, not"
+msgstr ""
+
+# mes "its attack capabilities.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "its attack capabilities."
+msgstr ""
+
+# mes "With the exception of";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "With the exception of"
+msgstr ""
+
+# mes "Back Stab, which we can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Back Stab, which we can"
+msgstr ""
+
+# mes "only use once during Close";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "only use once during Close"
+msgstr ""
+
+# mes "Confine's duration, we can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Confine's duration, we can"
+msgstr ""
+
+# mes "use any skill during the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "use any skill during the"
+msgstr ""
+
+# mes "Close Confine status.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Close Confine status."
+msgstr ""
+
+# mes "Enemies affected by";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Enemies affected by"
+msgstr ""
+
+# mes "Close Confine can escape";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Close Confine can escape"
+msgstr ""
+
+# mes "by using Fly Wing, Butterfly";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "by using Fly Wing, Butterfly"
+msgstr ""
+
+# mes "Wings, or the Teleport or";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Wings, or the Teleport or"
+msgstr ""
+
+# mes "Hiding skills. However, only";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Hiding skills. However, only"
+msgstr ""
+
+# mes "Hiding is active during WoE.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Hiding is active during WoE."
+msgstr ""
+
+# mes "Therefore, Close Confine";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Therefore, Close Confine"
+msgstr ""
+
+# mes "can be a very useful skill";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "can be a very useful skill"
+msgstr ""
+
+# mes "during Guild War sieges, given";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "during Guild War sieges, given"
+msgstr ""
+
+# mes "that the target doesn't use the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "that the target doesn't use the"
+msgstr ""
+
+# mes "the Hiding skill to get away.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "the Hiding skill to get away."
+msgstr ""
+
+# mes "With the exception of Boss";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "With the exception of Boss"
+msgstr ""
+
+# mes "monsters, Close Confine";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "monsters, Close Confine"
+msgstr ""
+
+# mes "will immobilize monsters for";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "will immobilize monsters for"
+msgstr ""
+
+# mes "10 seconds, giving Rogues";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "10 seconds, giving Rogues"
+msgstr ""
+
+# mes "new possibilities when";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "new possibilities when"
+msgstr ""
+
+# mes "hunting in a party.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "hunting in a party."
+msgstr ""
+
+# mes "Well, that's all I can tell";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Well, that's all I can tell"
+msgstr ""
+
+# mes "you about Close Confine.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "you about Close Confine."
+msgstr ""
+
+# mes "I hope that you can learn";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I hope that you can learn"
+msgstr ""
+
+# mes "more about this skill through";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "more about this skill through"
+msgstr ""
+
+# mes "practice, and that you become as great a legend as Chae Takbae.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "practice, and that you become as great a legend as Chae Takbae."
+msgstr ""
+
+# mes "All right then...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "All right then..."
+msgstr ""
+
+# mes "I hope that you can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "I hope that you can"
+msgstr ""
+
+# mes "learn more about Close";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "learn more about Close"
+msgstr ""
+
+# mes "Confine through diligent";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Confine through diligent"
+msgstr ""
+
+# mes "practice. Good luck, and";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "practice. Good luck, and"
+msgstr ""
+
+# mes "thanks again for your help.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "thanks again for your help."
+msgstr ""
+
+# mes "Thank you for helping";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Thank you for helping"
+msgstr ""
+
+# mes "me protect this priceless";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "me protect this priceless"
+msgstr ""
+
+# mes "skill book. I hope that the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "skill book. I hope that the"
+msgstr ""
+
+# mes "next time we meet, we'll be";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "next time we meet, we'll be"
+msgstr ""
+
+# mes "comrades on the battlefield...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "comrades on the battlefield..."
+msgstr ""
+
+# mes "Please...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Please..."
+msgstr ""
+
+# mes "Find me a Stalker";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "Find me a Stalker"
+msgstr ""
+
+# mes "or a Rogue that I can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "or a Rogue that I can"
+msgstr ""
+
+# mes "trust and send him to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "trust and send him to"
+msgstr ""
+
+# mes "help me! I don't have ";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "help me! I don't have "
+msgstr ""
+
+# mes "much time left...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Haijara Greg#rogueguild"
+msgid "much time left..."
+msgstr ""
+
+# mes "[Louis Greg]";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "[Louis Greg]"
+msgstr ""
+
+# mes "My father just...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "My father just..."
+msgstr ""
+
+# mes "He just vanished!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "He just vanished!"
+msgstr ""
+
+# mes "He was teaching me and";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "He was teaching me and"
+msgstr ""
+
+# mes "my brothers a new skill,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "my brothers a new skill,"
+msgstr ""
+
+# mes "but lately he began acting";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "but lately he began acting"
+msgstr ""
+
+# mes "paranoid for some reason...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "paranoid for some reason..."
+msgstr ""
+
+# mes "Maybe he went into hiding?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Maybe he went into hiding?"
+msgstr ""
+
+# mes "I know there's a hidden panic";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I know there's a hidden panic"
+msgstr ""
+
+# mes "room in the Rogue Guild, but";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "room in the Rogue Guild, but"
+msgstr ""
+
+# mes "even I don't know where to find";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "even I don't know where to find"
+msgstr ""
+
+# mes "it. I hope everything's okay...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "it. I hope everything's okay..."
+msgstr ""
+
+# mes "Father did warn that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Father did warn that"
+msgstr ""
+
+# mes "people might come after us";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "people might come after us"
+msgstr ""
+
+# mes "if they're learned about the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "if they're learned about the"
+msgstr ""
+
+# mes "new skill we were learning.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "new skill we were learning."
+msgstr ""
+
+# mes "Maybe he went into hiding in";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Maybe he went into hiding in"
+msgstr ""
+
+# mes "the Rogue Guild's panic room...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "the Rogue Guild's panic room..."
+msgstr ""
+
+# mes "What's this...?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "What's this...?"
+msgstr ""
+
+# mes "A letter from my";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "A letter from my"
+msgstr ""
+
+# mes "father? Oh, he must";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "father? Oh, he must"
+msgstr ""
+
+# mes "be alright! Quick, let";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "be alright! Quick, let"
+msgstr ""
+
+# mes "me read it right away!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "me read it right away!"
+msgstr ""
+
+# mes "Oh no, he may be safe for";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Oh no, he may be safe for"
+msgstr ""
+
+# mes "now, but father is being hunted";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "now, but father is being hunted"
+msgstr ""
+
+# mes "by some dangerous people? My";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "by some dangerous people? My"
+msgstr ""
+
+# mes "brother Thor will want to know";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "brother Thor will want to know"
+msgstr ""
+
+# mes "about this. Let me write him";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "about this. Let me write him"
+msgstr ""
+
+# mes "a letter really quickly...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "a letter really quickly..."
+msgstr ""
+
+# mes "I know that I'm in no";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I know that I'm in no"
+msgstr ""
+
+# mes "position to ask any favors,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "position to ask any favors,"
+msgstr ""
+
+# mes "but I guess my father must";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "but I guess my father must"
+msgstr ""
+
+# mes "trust you. Please, would you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "trust you. Please, would you"
+msgstr ""
+
+# mes "take my letter and deliver it";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "take my letter and deliver it"
+msgstr ""
+
+# mes "to my older brother, Thor?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "to my older brother, Thor?"
+msgstr ""
+
+# mes "You can find Thor";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "You can find Thor"
+msgstr ""
+
+# mes "next to Hermanthorn Jr.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "next to Hermanthorn Jr."
+msgstr ""
+
+# mes "inside the Rogue Guild.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "inside the Rogue Guild."
+msgstr ""
+
+# mes "I'd really appreciate it if";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I'd really appreciate it if"
+msgstr ""
+
+# mes "you could help my family.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "you could help my family."
+msgstr ""
+
+# mes "My elder brother, ^FF0000Thor^000000,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "My elder brother, ^FF0000Thor^000000,"
+msgstr ""
+
+# mes "must know about this right";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "must know about this right"
+msgstr ""
+
+# mes "away! Please bring him this";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "away! Please bring him this"
+msgstr ""
+
+# mes "letter for me. He should be";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "letter for me. He should be"
+msgstr ""
+
+# mes "near ^FF0000Hermanthorn Jr.^000000 here";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "near ^FF0000Hermanthorn Jr.^000000 here"
+msgstr ""
+
+# mes "You're looking for my";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "You're looking for my"
+msgstr ""
+
+# mes "brother, Jay? He's usually";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "brother, Jay? He's usually"
+msgstr ""
+
+# mes "hanging out here in the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "hanging out here in the"
+msgstr ""
+
+# mes "Rogue Guild with Antonio Jr.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Rogue Guild with Antonio Jr."
+msgstr ""
+
+# mes "If you need to speak";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "If you need to speak"
+msgstr ""
+
+# mes "to my father, he's still";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "to my father, he's still"
+msgstr ""
+
+# mes "probably in the hidden panic";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "probably in the hidden panic"
+msgstr ""
+
+# mes "room inside the Rogue Guild.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "room inside the Rogue Guild."
+msgstr ""
+
+# mes "I still don't know where that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I still don't know where that"
+msgstr ""
+
+# mes "place could possibly be...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "place could possibly be..."
+msgstr ""
+
+# mes "You want to learn the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "You want to learn the"
+msgstr ""
+
+# mes "secret Rogue skill? Oh,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "secret Rogue skill? Oh,"
+msgstr ""
+
+# mes "you should probably talk";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "you should probably talk"
+msgstr ""
+
+# mes "to ^FF0000Thor^000000 about that. I...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "to ^FF0000Thor^000000 about that. I..."
+msgstr ""
+
+# mes "I'm really bad at explaining";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I'm really bad at explaining"
+msgstr ""
+
+# mes "things to people. Really bad.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "things to people. Really bad."
+msgstr ""
+
+# mes "Hm? You're in the middle";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Hm? You're in the middle"
+msgstr ""
+
+# mes "of learning the secret Rogue";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "of learning the secret Rogue"
+msgstr ""
+
+# mes "skill, aren't you? Ooh, then";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "skill, aren't you? Ooh, then"
+msgstr ""
+
+# mes "you're not supposed to be here";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "you're not supposed to be here"
+msgstr ""
+
+# mes "just yet. Please go back and";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "just yet. Please go back and"
+msgstr ""
+
+# mes "talk to ^FF0000Thor^000000 again, okay?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "talk to ^FF0000Thor^000000 again, okay?"
+msgstr ""
+
+# mes "Oh, oh!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Oh, oh!"
+msgstr ""
+
+# mes "You're done with";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "You're done with"
+msgstr ""
+
+# mes "the training? Ah,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "the training? Ah,"
+msgstr ""
+
+# mes "then you need to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "then you need to"
+msgstr ""
+
+# mes "talk to Thor again!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "talk to Thor again!"
+msgstr ""
+
+# mes "You wanted to learn";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "You wanted to learn"
+msgstr ""
+
+# mes "more about Close Confine?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "more about Close Confine?"
+msgstr ""
+
+# mes "Ugh, then you better speak";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Ugh, then you better speak"
+msgstr ""
+
+# mes "to my father. I just learned";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "to my father. I just learned"
+msgstr ""
+
+# mes "that skill myself, you know.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "that skill myself, you know."
+msgstr ""
+
+# mes "I just heard from my";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I just heard from my"
+msgstr ""
+
+# mes "brothers that Chae Takbae";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "brothers that Chae Takbae"
+msgstr ""
+
+# mes "developed Close Confine";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "developed Close Confine"
+msgstr ""
+
+# mes "as a way to brutally beat his";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "as a way to brutally beat his"
+msgstr ""
+
+# mes "enemies, keeping them from";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "enemies, keeping them from"
+msgstr ""
+
+# mes "running away. Is that true?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "running away. Is that true?"
+msgstr ""
+
+# mes "Wow, you're really";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Wow, you're really"
+msgstr ""
+
+# mes "great! I wish I were";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "great! I wish I were"
+msgstr ""
+
+# mes "as powerful as you.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "as powerful as you."
+msgstr ""
+
+# mes "I hate being a kid!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I hate being a kid!"
+msgstr ""
+
+# mes "Why'd I become a Rogue?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "Why'd I become a Rogue?"
+msgstr ""
+
+# mes "I guess I just like being";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "I guess I just like being"
+msgstr ""
+
+# mes "sneaky. That, and being";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "sneaky. That, and being"
+msgstr ""
+
+# mes "moral and law abiding is";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "moral and law abiding is"
+msgstr ""
+
+# mes "just too tough, you know?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Louis Greg#rogueguild"
+msgid "just too tough, you know?"
+msgstr ""
+
+# mes "[Thor Greg]";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "[Thor Greg]"
+msgstr ""
+
+# mes "Where did father go?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Where did father go?"
+msgstr ""
+
+# mes "I hope those weird men";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "I hope those weird men"
+msgstr ""
+
+# mes "didn't get to him. With";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "didn't get to him. With"
+msgstr ""
+
+# mes "any luck, he's hidden in";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "any luck, he's hidden in"
+msgstr ""
+
+# mes "the panic room, but still...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "the panic room, but still..."
+msgstr ""
+
+# mes "Hm... My father might";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Hm... My father might"
+msgstr ""
+
+# mes "be hiding in the panic";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "be hiding in the panic"
+msgstr ""
+
+# mes "room. I've never been able";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "room. I've never been able"
+msgstr ""
+
+# mes "to find it, but Markie says";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "to find it, but Markie says"
+msgstr ""
+
+# mes "that the entrance is cleverly";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "that the entrance is cleverly"
+msgstr ""
+
+# mes "hidden to her left. Hmmm...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "hidden to her left. Hmmm..."
+msgstr ""
+
+# mes "Are you looking for";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Are you looking for"
+msgstr ""
+
+# mes "my little brother, ^FF0000Louis^000000?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "my little brother, ^FF0000Louis^000000?"
+msgstr ""
+
+# mes "Oh, he's always hanging";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Oh, he's always hanging"
+msgstr ""
+
+# mes "around that ^FF0000Hollgrehenn Jr.^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "around that ^FF0000Hollgrehenn Jr.^000000"
+msgstr ""
+
+# mes "here in the Rogue Guild.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "here in the Rogue Guild."
+msgstr ""
+
+# mes "What did you need him for?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "What did you need him for?"
+msgstr ""
+
+# mes "What's this you're";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "What's this you're"
+msgstr ""
+
+# mes "giving me? A letter";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "giving me? A letter"
+msgstr ""
+
+# mes "from Louis? Let's see...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "from Louis? Let's see..."
+msgstr ""
+
+# mes "Oh God, father's in";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Oh God, father's in"
+msgstr ""
+
+# mes "serious trouble! I better";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "serious trouble! I better"
+msgstr ""
+
+# mes "tell my older brother, Jay,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "tell my older brother, Jay,"
+msgstr ""
+
+# mes "right away! Quick, find ^FF0000Jay^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "right away! Quick, find ^FF0000Jay^000000"
+msgstr ""
+
+# mes "next to ^FF0000Antonio Jr.^000000 here in";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "next to ^FF0000Antonio Jr.^000000 here in"
+msgstr ""
+
+# mes "the guild! P-please hurry!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "the guild! P-please hurry!"
+msgstr ""
+
+# mes "You can find Jay hanging";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "You can find Jay hanging"
+msgstr ""
+
+# mes "out with Antonio Jr. here";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "out with Antonio Jr. here"
+msgstr ""
+
+# mes "inside the Rogue Guild. ";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "inside the Rogue Guild. "
+msgstr ""
+
+# mes "Please bring him the letter";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Please bring him the letter"
+msgstr ""
+
+# mes "I've written as soon as possible! ";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "I've written as soon as possible! "
+msgstr ""
+
+# mes "Hopefully, father hasn't";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Hopefully, father hasn't"
+msgstr ""
+
+# mes "gone outside of the Rogue";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "gone outside of the Rogue"
+msgstr ""
+
+# mes "Guild's panic room. That";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Guild's panic room. That"
+msgstr ""
+
+# mes "may be the only place";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "may be the only place"
+msgstr ""
+
+# mes "where he's safe...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "where he's safe..."
+msgstr ""
+
+# mes "What's that? Father";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "What's that? Father"
+msgstr ""
+
+# mes "wanted me to teach you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "wanted me to teach you"
+msgstr ""
+
+# mes "the secret Rogue skill?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "the secret Rogue skill?"
+msgstr ""
+
+# mes "Alright, I'll train you in the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Alright, I'll train you in the"
+msgstr ""
+
+# mes "same way father did. Would";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "same way father did. Would"
+msgstr ""
+
+# mes "you like an explanation first?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "you like an explanation first?"
+msgstr ""
+
+# mes "If you don't want an";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "If you don't want an"
+msgstr ""
+
+# mes "explanation, I'll just";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "explanation, I'll just"
+msgstr ""
+
+# mes "send you to the training";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "send you to the training"
+msgstr ""
+
+# mes "ground right away so that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "ground right away so that"
+msgstr ""
+
+# mes "you can learn ^FF0000Close Confine^000000.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "you can learn ^FF0000Close Confine^000000."
+msgstr ""
+
+# if (select("Listen to Explanation", "Go to Training Ground") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Listen to Explanation"
+msgstr ""
+
+# if (select("Listen to Explanation", "Go to Training Ground") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Go to Training Ground"
+msgstr ""
+
+# mes "Alright, the very first step";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Alright, the very first step"
+msgstr ""
+
+# mes "to learning ^FF0000Close Confine^000000";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "to learning ^FF0000Close Confine^000000"
+msgstr ""
+
+# mes "is to master blocking your";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "is to master blocking your"
+msgstr ""
+
+# mes "enemy's movement. I'll send";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "enemy's movement. I'll send"
+msgstr ""
+
+# mes "you to a special training";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "you to a special training"
+msgstr ""
+
+# mes "ground so you can practice.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "ground so you can practice."
+msgstr ""
+
+# mes "There, you'll encounter our";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "There, you'll encounter our"
+msgstr ""
+
+# mes "training partner. Approach her";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "training partner. Approach her"
+msgstr ""
+
+# mes "closely and make sure that you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "closely and make sure that you"
+msgstr ""
+
+# mes "predict and block her movements";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "predict and block her movements"
+msgstr ""
+
+# mes "to the left, right or backward. Get ready, I'm sending you now...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "to the left, right or backward. Get ready, I'm sending you now..."
+msgstr ""
+
+# mes "Alright, I'm going to break";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Alright, I'm going to break"
+msgstr ""
+
+# mes "the fourth wall here and assume";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "the fourth wall here and assume"
+msgstr ""
+
+# mes "you were disconnected from the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "you were disconnected from the"
+msgstr ""
+
+# mes "game. Would you like to return";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "game. Would you like to return"
+msgstr ""
+
+# mes "to the training ground in order";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "to the training ground in order"
+msgstr ""
+
+# mes "to learn ^FF0000Close Confine^000000?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "to learn ^FF0000Close Confine^000000?"
+msgstr ""
+
+# if (select("Yes, please.", "No, thanks.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Yes, please."
+msgstr ""
+
+# if (select("Yes, please.", "No, thanks.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "No, thanks."
+msgstr ""
+
+# mes "Alright, alright.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Alright, alright."
+msgstr ""
+
+# mes "When you feel ready";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "When you feel ready"
+msgstr ""
+
+# mes "to resume training,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "to resume training,"
+msgstr ""
+
+# mes "just let me know.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "just let me know."
+msgstr ""
+
+# mes "Ah, I hear from Kienna";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Ah, I hear from Kienna"
+msgstr ""
+
+# mes "that you've completed your";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "that you've completed your"
+msgstr ""
+
+# mes "training. Congratulations!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "training. Congratulations!"
+msgstr ""
+
+# mes "Now, please speak to my";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Now, please speak to my"
+msgstr ""
+
+# mes "father so that he can explain the Close Confine skill in detail.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "father so that he can explain the Close Confine skill in detail."
+msgstr ""
+
+# mes "Please talk to my father";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Please talk to my father"
+msgstr ""
+
+# mes "so that he can explain the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "so that he can explain the"
+msgstr ""
+
+# mes "nuances of the Close Confine";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "nuances of the Close Confine"
+msgstr ""
+
+# mes "skill to you. He should still be in the Rogue Guild's panic room.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "skill to you. He should still be in the Rogue Guild's panic room."
+msgstr ""
+
+# mes "You know, Chae Takbae";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "You know, Chae Takbae"
+msgstr ""
+
+# mes "would say, ''I'm Chae";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "would say, ''I'm Chae"
+msgstr ""
+
+# mes "Takbae. And you are...?''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Takbae. And you are...?''"
+msgstr ""
+
+# mes "to opponents, and right";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "to opponents, and right"
+msgstr ""
+
+# mes "before they could answer,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "before they could answer,"
+msgstr ""
+
+# mes "he'd beat them to a pulp.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "he'd beat them to a pulp."
+msgstr ""
+
+# mes "He really is";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "He really is"
+msgstr ""
+
+# mes "a legendary hero";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "a legendary hero"
+msgstr ""
+
+# mes "amongst Rogues...!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "amongst Rogues...!"
+msgstr ""
+
+# mes "Hm...?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Hm...?"
+msgstr ""
+
+# mes "It seems that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "It seems that"
+msgstr ""
+
+# mes "you're much stronger";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "you're much stronger"
+msgstr ""
+
+# mes "than even me. There's";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "than even me. There's"
+msgstr ""
+
+# mes "probably not too many";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "probably not too many"
+msgstr ""
+
+# mes "people who'd mess with you...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "people who'd mess with you..."
+msgstr ""
+
+# mes "Hmm, gank this, gank";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "Hmm, gank this, gank"
+msgstr ""
+
+# mes "that. *Sigh* It's my most";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "that. *Sigh* It's my most"
+msgstr ""
+
+# mes "shameful fault: I spend zeny";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "shameful fault: I spend zeny"
+msgstr ""
+
+# mes "almost as quickly as I can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "almost as quickly as I can"
+msgstr ""
+
+# mes "steal it. It's irresponsible...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Thor Greg#rogueguild"
+msgid "steal it. It's irresponsible..."
+msgstr ""
+
+# mes "[Jay Greg]";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "[Jay Greg]"
+msgstr ""
+
+# mes "My father must be hidden";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "My father must be hidden"
+msgstr ""
+
+# mes "in the Rogue Guild's panic";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "in the Rogue Guild's panic"
+msgstr ""
+
+# mes "room. Strangely, my brothers";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "room. Strangely, my brothers"
+msgstr ""
+
+# mes "and I can never find it and";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "and I can never find it and"
+msgstr ""
+
+# mes "figure out whether he's safe...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "figure out whether he's safe..."
+msgstr ""
+
+# mes "Recently, he's been pursued";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Recently, he's been pursued"
+msgstr ""
+
+# mes "by these strange men who've";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "by these strange men who've"
+msgstr ""
+
+# mes "been threatening our family.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "been threatening our family."
+msgstr ""
+
+# mes "Well, he did just teach us";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Well, he did just teach us"
+msgstr ""
+
+# mes "a new skill, so he can use";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "a new skill, so he can use"
+msgstr ""
+
+# mes "that to protect himself...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "that to protect himself..."
+msgstr ""
+
+# mes "I'm guessing my father";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "I'm guessing my father"
+msgstr ""
+
+# mes "hid himself in the Rogue";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "hid himself in the Rogue"
+msgstr ""
+
+# mes "Guild's panic room. We can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Guild's panic room. We can"
+msgstr ""
+
+# mes "never find it, but supposedly";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "never find it, but supposedly"
+msgstr ""
+
+# mes "the entrance is hidden close";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "the entrance is hidden close"
+msgstr ""
+
+# mes "to Markie somewhere.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "to Markie somewhere."
+msgstr ""
+
+# mes "You're looking for";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "You're looking for"
+msgstr ""
+
+# mes "Louis, my little brother?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Louis, my little brother?"
+msgstr ""
+
+# mes "He's here in the Rouge Guild,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "He's here in the Rouge Guild,"
+msgstr ""
+
+# mes "so it shouldn't be too hard to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "so it shouldn't be too hard to"
+msgstr ""
+
+# mes "find him. He's probably just";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "find him. He's probably just"
+msgstr ""
+
+# mes "standing near Hollgrehen Jr.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "standing near Hollgrehen Jr."
+msgstr ""
+
+# mes "Thor? He should be";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Thor? He should be"
+msgstr ""
+
+# mes "around the Rogue Guild";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "around the Rogue Guild"
+msgstr ""
+
+# mes "somewhere. Have you tried";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "somewhere. Have you tried"
+msgstr ""
+
+# mes "looking around Hermathorn Jr.?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "looking around Hermathorn Jr.?"
+msgstr ""
+
+# mes "A letter for me...?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "A letter for me...?"
+msgstr ""
+
+# mes "Ah, it's from Thor, so";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Ah, it's from Thor, so"
+msgstr ""
+
+# mes "I guess I better read";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "I guess I better read"
+msgstr ""
+
+# mes "it right away. Hmmm...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "it right away. Hmmm..."
+msgstr ""
+
+# mes "I see... I must report";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "I see... I must report"
+msgstr ""
+
+# mes "this to the Rogue Guild";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "this to the Rogue Guild"
+msgstr ""
+
+# mes "right away, and send a reply";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "right away, and send a reply"
+msgstr ""
+
+# mes "to my father. Hmm. Let me";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "to my father. Hmm. Let me"
+msgstr ""
+
+# mes "write him a letter right now.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "write him a letter right now."
+msgstr ""
+
+# mes "Please give me a moment...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Please give me a moment..."
+msgstr ""
+
+# mes "There, it's done. Please";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "There, it's done. Please"
+msgstr ""
+
+# mes "give this to my father with";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "give this to my father with"
+msgstr ""
+
+# mes "all the haste you can muster.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "all the haste you can muster."
+msgstr ""
+
+# mes "I know it's much to ask, but";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "I know it's much to ask, but"
+msgstr ""
+
+# mes "I cannot find the way to the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "I cannot find the way to the"
+msgstr ""
+
+# mes "hidden panic room myself...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "hidden panic room myself..."
+msgstr ""
+
+# mes "Please give my reply";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Please give my reply"
+msgstr ""
+
+# mes "to my father as soon as";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "to my father as soon as"
+msgstr ""
+
+# mes "you can. He's still hidden";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "you can. He's still hidden"
+msgstr ""
+
+# mes "room. That is, if our enemies";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "room. That is, if our enemies"
+msgstr ""
+
+# mes "still haven't found him yet.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "still haven't found him yet."
+msgstr ""
+
+# mes "You need to train for";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "You need to train for"
+msgstr ""
+
+# mes "the Close Confine skill?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "the Close Confine skill?"
+msgstr ""
+
+# mes "I think Thor is the only";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "I think Thor is the only"
+msgstr ""
+
+# mes "one with access to the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "one with access to the"
+msgstr ""
+
+# mes "training ground, so";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "training ground, so"
+msgstr ""
+
+# mes "talk to him first.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "talk to him first."
+msgstr ""
+
+# mes "Ah, you finished the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Ah, you finished the"
+msgstr ""
+
+# mes "training for Close Confine,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "training for Close Confine,"
+msgstr ""
+
+# mes "did you? Great, now go and";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "did you? Great, now go and"
+msgstr ""
+
+# mes "tell my brother, Thor.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "tell my brother, Thor."
+msgstr ""
+
+# mes "Hm. You should probably";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Hm. You should probably"
+msgstr ""
+
+# mes "talk to my father to learn";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "talk to my father to learn"
+msgstr ""
+
+# mes "more of the nuances about";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "more of the nuances about"
+msgstr ""
+
+# mes "the Close Confine skill.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "the Close Confine skill."
+msgstr ""
+
+# mes "Have you seen him in the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Have you seen him in the"
+msgstr ""
+
+# mes "Rogue Guild's panic room?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Rogue Guild's panic room?"
+msgstr ""
+
+# mes "Chae Takbae sure";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Chae Takbae sure"
+msgstr ""
+
+# mes "seemed like a stubborn,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "seemed like a stubborn,"
+msgstr ""
+
+# mes "thuggish guy. But he must";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "thuggish guy. But he must"
+msgstr ""
+
+# mes "have been pretty smart to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "have been pretty smart to"
+msgstr ""
+
+# mes "invent some of his own skills.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "invent some of his own skills."
+msgstr ""
+
+# mes "I get the feeling";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "I get the feeling"
+msgstr ""
+
+# mes "that you're going to";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "that you're going to"
+msgstr ""
+
+# mes "be one of the best Rogues";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "be one of the best Rogues"
+msgstr ""
+
+# mes "around, if you already aren't.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "around, if you already aren't."
+msgstr ""
+
+# mes "Ever since I learned";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Ever since I learned"
+msgstr ""
+
+# mes "Intimdate, I've gotten";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "Intimdate, I've gotten"
+msgstr ""
+
+# mes "real punchy, maybe even";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "real punchy, maybe even"
+msgstr ""
+
+# mes "masochistic. I mean, if they";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "masochistic. I mean, if they"
+msgstr ""
+
+# mes "hit you with a skill, you can";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "hit you with a skill, you can"
+msgstr ""
+
+# mes "hit them back with it!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "Jay Greg#rogueguild"
+msgid "hit them back with it!"
+msgstr ""
+
+# mes "[Kienna]";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "[Kienna]"
+msgstr ""
+
+# mes "Alright, in this";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Alright, in this"
+msgstr ""
+
+# mes "exercise, you'll need";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "exercise, you'll need"
+msgstr ""
+
+# mes "to predict which way I'm";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "to predict which way I'm"
+msgstr ""
+
+# mes "going to move and block";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "going to move and block"
+msgstr ""
+
+# mes "me from moving, essentially";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "me from moving, essentially"
+msgstr ""
+
+# mes "immobilizing me. Get ready~";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "immobilizing me. Get ready~"
+msgstr ""
+
+# if (select("Block her to the Left", "Block her to the Right", "Block her retreat") == .@move_1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Block her to the Left"
+msgstr ""
+
+# if (select("Block her to the Left", "Block her to the Right", "Block her retreat") == .@move_1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Block her to the Right"
+msgstr ""
+
+# if (select("Block her to the Left", "Block her to the Right", "Block her retreat") == .@move_1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Block her retreat"
+msgstr ""
+
+# mes "Huh...?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Huh...?"
+msgstr ""
+
+# mes "You blocked me!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "You blocked me!"
+msgstr ""
+
+# mes "Very nice work~";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Very nice work~"
+msgstr ""
+
+# mes "Sorry, but I wasn't";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Sorry, but I wasn't"
+msgstr ""
+
+# mes "moving in that direction.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "moving in that direction."
+msgstr ""
+
+# mes "Your block attempt failed...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Your block attempt failed..."
+msgstr ""
+
+# mes "Alright, we're done";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Alright, we're done"
+msgstr ""
+
+# mes "here. You earned a";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "here. You earned a"
+msgstr ""
+
+# mes "training grade of ''^0000FFS^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^0000FFS^000000.''"
+msgstr ""
+
+# mes "That's a perfect score!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "That's a perfect score!"
+msgstr ""
+
+# mes "training grade of ''^0000FFA^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^0000FFA^000000.''"
+msgstr ""
+
+# mes "You're really good at this!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "You're really good at this!"
+msgstr ""
+
+# mes "training grade of ''^0000FFB +^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^0000FFB +^000000.''"
+msgstr ""
+
+# mes "That's very commendable!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "That's very commendable!"
+msgstr ""
+
+# mes "training grade of ''^0000FFB^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^0000FFB^000000.''"
+msgstr ""
+
+# mes "That's very nice work~";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "That's very nice work~"
+msgstr ""
+
+# mes "training grade of ''^0000FFC +^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^0000FFC +^000000.''"
+msgstr ""
+
+# mes "Not too bad, but you";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Not too bad, but you"
+msgstr ""
+
+# mes "just barely passed!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "just barely passed!"
+msgstr ""
+
+# mes "training grade of ''^FF0000C^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^FF0000C^000000.''"
+msgstr ""
+
+# mes "training grade of ''^FF0000D+^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^FF0000D+^000000.''"
+msgstr ""
+
+# mes "training grade of ''^FF0000D^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^FF0000D^000000.''"
+msgstr ""
+
+# mes "training grade of ''^FF0000F^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^FF0000F^000000.''"
+msgstr ""
+
+# mes "training grade of ''^FF0000F -^000000.''";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of ''^FF0000F -^000000.''"
+msgstr ""
+
+# mes "training grade of...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training grade of..."
+msgstr ""
+
+# mes "Actually, I'm not able";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Actually, I'm not able"
+msgstr ""
+
+# mes "to calculate it. What";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "to calculate it. What"
+msgstr ""
+
+# mes "could have happened?!";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "could have happened?!"
+msgstr ""
+
+# mes "I'm happy to say that";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "I'm happy to say that"
+msgstr ""
+
+# mes "you've completed your";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "you've completed your"
+msgstr ""
+
+# mes "training! Let me send";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training! Let me send"
+msgstr ""
+
+# mes "you back to Thor Greg";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "you back to Thor Greg"
+msgstr ""
+
+# mes "now so that you can finish";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "now so that you can finish"
+msgstr ""
+
+# mes "learning ^FF0000Close Confine^000000.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "learning ^FF0000Close Confine^000000."
+msgstr ""
+
+# mes "Hm. With this grade,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Hm. With this grade,"
+msgstr ""
+
+# mes "I don't think you're";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "I don't think you're"
+msgstr ""
+
+# mes "quite ready to finish";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "quite ready to finish"
+msgstr ""
+
+# mes "learning Close Confine.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "learning Close Confine."
+msgstr ""
+
+# mes "Would you like to try the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Would you like to try the"
+msgstr ""
+
+# mes "training exercise again?";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "training exercise again?"
+msgstr ""
+
+# if (select("Yes!", "No, thanks.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Yes!"
+msgstr ""
+
+# if (select("Yes!", "No, thanks.") == 1) {
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "No, thanks."
+msgstr ""
+
+# mes "You must have canceled";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "You must have canceled"
+msgstr ""
+
+# mes "your training in the middle";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "your training in the middle"
+msgstr ""
+
+# mes "of the exercise. I'm sorry,";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "of the exercise. I'm sorry,"
+msgstr ""
+
+# mes "but you'll have to start";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "but you'll have to start"
+msgstr ""
+
+# mes "from the very beginning";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "from the very beginning"
+msgstr ""
+
+# mes "of this training.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "of this training."
+msgstr ""
+
+# mes "You've already completed";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "You've already completed"
+msgstr ""
+
+# mes "the training exercise for";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "the training exercise for"
+msgstr ""
+
+# mes "the Close Confine skill.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "the Close Confine skill."
+msgstr ""
+
+# mes "You no longer have need";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "You no longer have need"
+msgstr ""
+
+# mes "for my assistance.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "for my assistance."
+msgstr ""
+
+# mes "I'm sorry, but I don't";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "I'm sorry, but I don't"
+msgstr ""
+
+# mes "think you belong here.";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "think you belong here."
+msgstr ""
+
+# mes "Let me send you to the";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Let me send you to the"
+msgstr ""
+
+# mes "Rogue Guild if you're lost...";
+#: npc/quests/skills/rogue_skills.txt
+msgctxt "F_Kienna"
+msgid "Rogue Guild if you're lost..."
+msgstr ""
+

@@ -1,0 +1,156 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:22+0200\n"
+"PO-Revision-Date: 2020-04-22 09:31\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/airports/einbroch_txt.pot\n"
+
+# mes("[Airport Staff]");
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "[Airport Staff]"
+msgstr ""
+
+# mes("Welcome to the\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Welcome to the\\rEinbroch Airport,\\rwhere we offer nonstop\\rflights to the cities of\\rJuno, Lighthalzen and Hugel."
+msgstr ""
+
+# if (select("Board the Airship", "Cancel") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Board the Airship"
+msgstr ""
+
+# if (select("Board the Airship", "Cancel") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Cancel"
+msgstr ""
+
+# mes("The Airship boarding fee\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "The Airship boarding fee\\ris 1,200 zeny, but if you've\\rgot a Free Ticket for Airship,\\rthe fee will be waived. Will\\ryou board the Airship?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "No"
+msgstr ""
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "I'm sorry, but you don't\\rhave a Free Ticket for\\rAirship and you don't have\\renough zeny for boarding\\rthe Airship. Remember, the\\rboarding fee is 1,200 zeny."
+msgstr ""
+
+# mes("Thank you and\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airport Staff#airport1a::airport1"
+msgid "Thank you and\\rhave a nice day."
+msgstr ""
+
+# mes("[Arrival Staff]");
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "[Arrival Staff]"
+msgstr ""
+
+# mes("Welcome to Einbroch Airport.");
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Welcome to Einbroch Airport."
+msgstr ""
+
+# mes("If you are arriving from your\r"
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "If you are arriving from your\\rflight, let me guide you to the\\rmain terminal. Otherwise, please board the Airship to depart to\\rJuno, Lighthalzen and Hugel."
+msgstr ""
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Exit to main terminal."
+msgstr ""
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Cancel."
+msgstr ""
+
+# mes("Once you're in the main terminal, you will need to pay the fee again\r"
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Once you're in the main terminal, you will need to pay the fee again\\rto board an Airship. You should\\ronly exit if the city of Einbroch\\ris your intended destination."
+msgstr ""
+
+# mes("Proceed to the main terminal?");
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Proceed to the main terminal?"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "No"
+msgstr ""
+
+# mes("Alright, thank you\r"
+#: npc/airports/einbroch.txt
+msgctxt "Arrival Staff#airport2a::airport2"
+msgid "Alright, thank you\\rfor your patronage\\rand I hope you have\\ra pleasant flight~"
+msgstr ""
+
+# mes("[Airship Staff]");
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid "[Airship Staff]"
+msgstr ""
+
+# mes("Welcome to the\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid "Welcome to the\\rEinbroch Airport."
+msgstr ""
+
+# mes("Please use this door to\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid "Please use this door to\\rboard the Airship which stops\\rover Juno, Lighthalzen and\\rHugel in the Schwaltzvalt Republic."
+msgstr ""
+
+# mes("Otherwise, if Einbroch is\r"
+#: npc/airports/einbroch.txt
+msgctxt "Airship Staff#ein01"
+msgid "Otherwise, if Einbroch is\\ryour intended destination,\\rplease head down the stairs\\rand ask the Arrival Staff to lead\\ryou to the main terminal. Thank\\ryou, and enjoy your travels."
+msgstr ""
+

@@ -1,0 +1,474 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:26+0200\n"
+"PO-Revision-Date: 2020-04-22 09:43\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/warps/dungeons/mosk_dun_txt.pot\n"
+
+# mes "[Soldier]";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "[Soldier]"
+msgstr ""
+
+# mes "Halt right there!";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "Halt right there!"
+msgstr ""
+
+# mes "We have information";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "We have information"
+msgstr ""
+
+# mes "that you've been secretly";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "that you've been secretly"
+msgstr ""
+
+# mes "communicating with";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "communicating with"
+msgstr ""
+
+# mes "Baba Yaga, the Horrible.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "Baba Yaga, the Horrible."
+msgstr ""
+
+# mes "If you have something to say,";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "If you have something to say,"
+msgstr ""
+
+# mes "speak to the Csar.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "speak to the Csar."
+msgstr ""
+
+# mes "Come with us.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "Come with us."
+msgstr ""
+
+# mes "We expected";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "We expected"
+msgstr ""
+
+# mes "that you would appear again.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "that you would appear again."
+msgstr ""
+
+# mes "What is your business with the Csar?";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "What is your business with the Csar?"
+msgstr ""
+
+# if(select("Run away.:Explain the situation.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "Run away.:Explain the situation."
+msgstr ""
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "["
+msgstr ""
+
+# mes "I should get out of here...";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "I should get out of here..."
+msgstr ""
+
+# mes "-I explain what happend until now.-";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "-I explain what happend until now.-"
+msgstr ""
+
+# mes "If you have something to say, speak";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "If you have something to say, speak"
+msgstr ""
+
+# mes "to the Csar.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "to the Csar."
+msgstr ""
+
+# mes "If you leave to this place,";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "If you leave to this place,"
+msgstr ""
+
+# mes "you will be considered as our enemy.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "#babayagain"
+msgid "you will be considered as our enemy."
+msgstr ""
+
+# mes "[Soldier]";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier1#mos"
+msgid "[Soldier]"
+msgstr ""
+
+# mes "We're the Csar's soldiers.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier1#mos"
+msgid "We're the Csar's soldiers."
+msgstr ""
+
+# mes "We're called out for emergencies,";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier1#mos"
+msgid "We're called out for emergencies,"
+msgstr ""
+
+# mes "don't disturb us anymore.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier1#mos"
+msgid "don't disturb us anymore."
+msgstr ""
+
+# mes "[Soldier]";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier2#mos"
+msgid "[Soldier]"
+msgstr ""
+
+# mes "We're the Csar's soldiers.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier2#mos"
+msgid "We're the Csar's soldiers."
+msgstr ""
+
+# mes "We're called out for emergencies,";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier2#mos"
+msgid "We're called out for emergencies,"
+msgstr ""
+
+# mes "don't disturb us anymore.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier2#mos"
+msgid "don't disturb us anymore."
+msgstr ""
+
+# mes "[Soldier]";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier3#mos"
+msgid "[Soldier]"
+msgstr ""
+
+# mes "We're the Csar's soldiers.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier3#mos"
+msgid "We're the Csar's soldiers."
+msgstr ""
+
+# mes "We're called out for emergencies,";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier3#mos"
+msgid "We're called out for emergencies,"
+msgstr ""
+
+# mes "don't disturb us anymore.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Soldier3#mos"
+msgid "don't disturb us anymore."
+msgstr ""
+
+# mes "- There is writing on a big rock. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1"
+msgid "- There is writing on a big rock. -"
+msgstr ""
+
+# mes "^3131FF- Those who serve the Sun will die, Go to the North. -^000000";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1"
+msgid "^3131FF- Those who serve the Sun will die, Go to the North. -^000000"
+msgstr ""
+
+# mes "- There is writing on a big rock. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-2"
+msgid "- There is writing on a big rock. -"
+msgstr ""
+
+# mes "^3131FF- Those who advance may get hurt but are courageous of heart and those who move back will remain safe.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-2"
+msgid "^3131FF- Those who advance may get hurt but are courageous of heart and those who move back will remain safe."
+msgstr ""
+
+# mes "If you have courage, step forward. Otherwise, step backward. -^000000";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-2"
+msgid "If you have courage, step forward. Otherwise, step backward. -^000000"
+msgstr ""
+
+# if(select("Step forward.:Stay.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-2"
+msgid "Step forward.:Stay."
+msgstr ""
+
+# mes "- You follow the way before you. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-2"
+msgid "- You follow the way before you. -"
+msgstr ""
+
+# mes "- You won't advance. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-2"
+msgid "- You won't advance. -"
+msgstr ""
+
+# mes "- There is writing on a big rock. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-3"
+msgid "- There is writing on a big rock. -"
+msgstr ""
+
+# mes "^3131FF- Those who advance may get hurt but are brave of heart and those who move back will remain safe.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-3"
+msgid "^3131FF- Those who advance may get hurt but are brave of heart and those who move back will remain safe."
+msgstr ""
+
+# mes "If you are brave, then take a step forward. Otherwise, step back. -^000000";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-3"
+msgid "If you are brave, then take a step forward. Otherwise, step back. -^000000"
+msgstr ""
+
+# if(select("Step forward.:Stay.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-3"
+msgid "Step forward.:Stay."
+msgstr ""
+
+# mes "- You follow the way before you. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-3"
+msgid "- You follow the way before you. -"
+msgstr ""
+
+# mes "- You decide to stay. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-3"
+msgid "- You decide to stay. -"
+msgstr ""
+
+# mes "- There is writing on a big rock. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-1"
+msgid "- There is writing on a big rock. -"
+msgstr ""
+
+# mes "^3131FF- Those who advance may get hurt but are valorous of heart and those who move back will remain safe.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-1"
+msgid "^3131FF- Those who advance may get hurt but are valorous of heart and those who move back will remain safe."
+msgstr ""
+
+# mes "If you valorous, then take a step forward. Otherwise, step back. -^000000";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-1"
+msgid "If you valorous, then take a step forward. Otherwise, step back. -^000000"
+msgstr ""
+
+# if(select("Go back.:Stay.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-1"
+msgid "Go back.:Stay."
+msgstr ""
+
+# mes "- You sense danger and decide to go back -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-1"
+msgid "- You sense danger and decide to go back -"
+msgstr ""
+
+# mes "- You decided to stay. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-1"
+msgid "- You decided to stay. -"
+msgstr ""
+
+# mes "- There is writing on a big rock. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-3"
+msgid "- There is writing on a big rock. -"
+msgstr ""
+
+# mes "^3131FF- Those who step forward will gain honor but may die, those who step backward will have courage but may still get hurt.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-3"
+msgid "^3131FF- Those who step forward will gain honor but may die, those who step backward will have courage but may still get hurt."
+msgstr ""
+
+# mes "If you are truly brave, step forward. Otherwise, step back -^000000";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-3"
+msgid "If you are truly brave, step forward. Otherwise, step back -^000000"
+msgstr ""
+
+# if(select("Step forward.:Stay.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-3"
+msgid "Step forward.:Stay."
+msgstr ""
+
+# mes "- You bravely step forward. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-3"
+msgid "- You bravely step forward. -"
+msgstr ""
+
+# mes "- You decided to stay. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#2-3"
+msgid "- You decided to stay. -"
+msgstr ""
+
+# mes "- There is writing on a big rock. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-2"
+msgid "- There is writing on a big rock. -"
+msgstr ""
+
+# mes "^3131FF- Those who stay may die but will gain honor, those who go back may get hurt but will gain courage.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-2"
+msgid "^3131FF- Those who stay may die but will gain honor, those who go back may get hurt but will gain courage."
+msgstr ""
+
+# mes "Those who have courage will go back, otherwise step forward and stay. -^000000";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-2"
+msgid "Those who have courage will go back, otherwise step forward and stay. -^000000"
+msgstr ""
+
+# if(select("Go back.:Stay.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-2"
+msgid "Go back.:Stay."
+msgstr ""
+
+# mes "- You sense danger and decide to go back -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-2"
+msgid "- You sense danger and decide to go back -"
+msgstr ""
+
+# mes "- You decide to stay. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-2"
+msgid "- You decide to stay. -"
+msgstr ""
+
+# mes "There is writing on a big rock.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-1"
+msgid "There is writing on a big rock."
+msgstr ""
+
+# mes "^3131FF- Those who stay may die but will gain honor, those who go back may get hurt but will gain courage.";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-1"
+msgid "^3131FF- Those who stay may die but will gain honor, those who go back may get hurt but will gain courage."
+msgstr ""
+
+# mes "Those who are afraid of the death will go back, otherwise step forward and stay. -^000000";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-1"
+msgid "Those who are afraid of the death will go back, otherwise step forward and stay. -^000000"
+msgstr ""
+
+# if(select("Go back.:Stay.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-1"
+msgid "Go back.:Stay."
+msgstr ""
+
+# mes "- You sense danger and decide to go back -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-1"
+msgid "- You sense danger and decide to go back -"
+msgstr ""
+
+# mes "- You decided to stay. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#3-1"
+msgid "- You decided to stay. -"
+msgstr ""
+
+# mes "- There is writing on a big rock. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-1"
+msgid "- There is writing on a big rock. -"
+msgstr ""
+
+# mes "- If you want to protect your life, go back -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Milestone#1-1"
+msgid "- If you want to protect your life, go back -"
+msgstr ""
+
+# mes "- You find a ship at anchor. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Ship#mos_dun"
+msgid "- You find a ship at anchor. -"
+msgstr ""
+
+# if(select("Take the ship and go back to the village.:Explore more.") == 1) {
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Ship#mos_dun"
+msgid "Take the ship and go back to the village.:Explore more."
+msgstr ""
+
+# mes "- You board the ship and pull at the oars. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Ship#mos_dun"
+msgid "- You board the ship and pull at the oars. -"
+msgstr ""
+
+# mes "- That unknown area arouses your interest. -";
+#: npc/warps/dungeons/mosk_dun.txt
+msgctxt "Ship#mos_dun"
+msgid "- That unknown area arouses your interest. -"
+msgstr ""
+

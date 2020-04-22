@@ -1,0 +1,228 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:23+0200\n"
+"PO-Revision-Date: 2020-04-22 09:47\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/other/arena/arena_lvl70_txt.pot\n"
+
+# mes "[Staff]";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-1"
+msgid "[Staff]"
+msgstr ""
+
+# mes "You did a good job.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-1"
+msgid "You did a good job."
+msgstr ""
+
+# mes "Even if you have failed to clear a time attack battle, I will reward you with a small amount of arena points.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-1"
+msgid "Even if you have failed to clear a time attack battle, I will reward you with a small amount of arena points."
+msgstr ""
+
+# mes "Uh huh!";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-1"
+msgid "Uh huh!"
+msgstr ""
+
+# mes "You already have enough arena points.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-1"
+msgid "You already have enough arena points."
+msgstr ""
+
+# mes "Please spend some arena points later. When I see you next time, I will make sure to give you some reward.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-1"
+msgid "Please spend some arena points later. When I see you next time, I will make sure to give you some reward."
+msgstr ""
+
+# mes "Let me guide you outside. I hope you had a good time.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-1"
+msgid "Let me guide you outside. I hope you had a good time."
+msgstr ""
+
+# mes "[Staff]";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "[Staff]"
+msgstr ""
+
+# mes "Wow, you did a good job~ ";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Wow, you did a good job~ "
+msgstr ""
+
+# mes "Your name is...^3131FF" + strcharinfo(PC_NAME) +"^000000, isn't it?";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Your name is...^3131FF"
+msgstr ""
+
+# mes "^3131FF"+ strcharinfo(PC_NAME) +"^000000, total time you spent to pass the battle..";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "^3131FF"
+msgstr ""
+
+# mes "is "+@record_min70+"minutes "+@record_sec70+"seconds.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "is "
+msgstr ""
+
+# mes "is "+@record_min70+"minutes "+@record_sec70+"seconds.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "minutes "
+msgstr ""
+
+# mes "is "+@record_min70+"minutes "+@record_sec70+"seconds.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "seconds."
+msgstr ""
+
+# mes "Congratulations!";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Congratulations!"
+msgstr ""
+
+# mes "The fastest player among people who cleared Lv70 arena time force battle is ^3131FF"+$arena_70topn$+"^000000.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "The fastest player among people who cleared Lv70 arena time force battle is ^3131FF"
+msgstr ""
+
+# mes "The fastest player among people who cleared Lv70 arena time force battle is ^3131FF"+$arena_70topn$+"^000000.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "^000000."
+msgstr ""
+
+# mes "^3131FF"+$arena_70topn$+"^000000's running time was ^3131FF"+$top_70min+"^000000minutes ^3131FF"+$top_70sec+"^000000seconds.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "^000000's running time was ^3131FF"
+msgstr ""
+
+# mes "^3131FF"+$arena_70topn$+"^000000's running time was ^3131FF"+$top_70min+"^000000minutes ^3131FF"+$top_70sec+"^000000seconds.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "^000000minutes ^3131FF"
+msgstr ""
+
+# mes "^3131FF"+$arena_70topn$+"^000000's running time was ^3131FF"+$top_70min+"^000000minutes ^3131FF"+$top_70sec+"^000000seconds.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "^000000seconds."
+msgstr ""
+
+# mes "Although you failed to make a new record, I hope you will succeed next time.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Although you failed to make a new record, I hope you will succeed next time."
+msgstr ""
+
+# mes "Then let me reward you with some arena points....eh?";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Then let me reward you with some arena points....eh?"
+msgstr ""
+
+# mes "Your arena points have exceeded the maximum amount. I cannot give you more points until you spend some points.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Your arena points have exceeded the maximum amount. I cannot give you more points until you spend some points."
+msgstr ""
+
+# mes "You can check the amount of arena points you have in the arena waiting room.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "You can check the amount of arena points you have in the arena waiting room."
+msgstr ""
+
+# mes "I hope you had a good time and let me guide you to the entrance of arena.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "I hope you had a good time and let me guide you to the entrance of arena."
+msgstr ""
+
+# mes "Thank you.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Thank you."
+msgstr ""
+
+# mes "Let me reward you some arena points.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Let me reward you some arena points."
+msgstr ""
+
+# mes "If you wish to check the amount of arena points you have, please go talk to ^3131FFVendigos^000000 at the arena entrance.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "If you wish to check the amount of arena points you have, please go talk to ^3131FFVendigos^000000 at the arena entrance."
+msgstr ""
+
+# mes "Let me guide you to the entrance of arena.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Let me guide you to the entrance of arena."
+msgstr ""
+
+# mes "See you later~";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "See you later~"
+msgstr ""
+
+# mes "Wow! You have renewed the record!";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Wow! You have renewed the record!"
+msgstr ""
+
+# mes "What a great job!";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "What a great job!"
+msgstr ""
+
+# mes "You have been recorded as the fastest player among people who cleared ^FF0000Arena Time Force Battle lvl 70s^000000, ^3131FF"+strcharinfo(PC_NAME)+"^000000.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "You have been recorded as the fastest player among people who cleared ^FF0000Arena Time Force Battle lvl 70s^000000, ^3131FF"
+msgstr ""
+
+# mes "Let me reward you with some arena points.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "Let me reward you with some arena points."
+msgstr ""
+
+# mes "At the same time, since you have renewed the record you will receive an extra amount of the points this time.";
+#: npc/other/arena/arena_lvl70.txt
+msgctxt "Staff#70-2"
+msgid "At the same time, since you have renewed the record you will receive an extra amount of the points this time."
+msgstr ""
+

@@ -1,0 +1,937 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:57+0200\n"
+"PO-Revision-Date: 2019-10-21 10:28\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/newgears/2012_headgears_txt.pot\n"
+
+# mes "- Carrying too many items, cannot proceed. -";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Carrying too many items, cannot proceed. -"
+msgstr ""
+
+# mes "[Reno]";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Reno]"
+msgstr ""
+
+# mes "The waiting time for a "+.@type$[.@i]+" collection quest has expired."
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The waiting time for a "
+msgstr ""
+
+# mes "The waiting time for a "+.@type$[.@i]+" collection quest has expired."
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " collection quest has expired. You can now take another request."
+msgstr ""
+
+# mes "The waiting time for storing "+.@crystal$[.@i]+" Energy Crystals has expired."
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The waiting time for storing "
+msgstr ""
+
+# mes "The waiting time for storing "+.@crystal$[.@i]+" Energy Crystals has expired."
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals has expired. You can now store them again."
+msgstr ""
+
+# mes "^0000FF"+.@amount+" "+getitemname(.@item)+"s^000000 were extracted.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "^0000FF"
+msgstr ""
+
+# mes "^0000FF"+.@amount+" "+getitemname(.@item)+"s^000000 were extracted.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " "
+msgstr ""
+
+# mes "Hi? I am Reno from the Energy Crystal Research Association, or ECRA.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Hi? I am Reno from the Energy Crystal Research Association, or ECRA."
+msgstr ""
+
+# mes "ECRA is the institute that researches '^0000FFEnergy Crystals^000000' that"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "ECRA is the institute that researches '^0000FFEnergy Crystals^000000' that shall be used as an alternative energy source in the Rune Midgart Kingdom, which suffers from a shortage of energy."
+msgstr ""
+
+# select("The reason for doing this?");
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The reason for doing this?"
+msgstr ""
+
+# mes "I would like to explain that we are not trying to make an excuse to get away"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "I would like to explain that we are not trying to make an excuse to get away from facing problem before I explain the reason. Never! So please let me finish."
+msgstr ""
+
+# mes "The Research Team has sent me the results they found.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The Research Team has sent me the results they found."
+msgstr ""
+
+# mes "Energy Crystals turned out to be ^0000FFgenerated inside the bodies of some"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Energy Crystals turned out to be ^0000FFgenerated inside the bodies of some monsters^000000, and according to the research, stronger monsters generate higher-class energy crystals in their bodies."
+msgstr ""
+
+# mes "The Research Team decided to collect Energy Crystals by giving requests to"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The Research Team decided to collect Energy Crystals by giving requests to adventurers, with appropriate rewards. That enables us to collect better and be more ^FF0000efficient^000000."
+msgstr ""
+
+# mes "Energy Crystals, accumulated through hunting monsters by my request, shall be"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Energy Crystals, accumulated through hunting monsters by my request, shall be used for my research. ^0000FFSome of them are planned to be returned to adventurers.^000000"
+msgstr ""
+
+# mes "Adventurers can use collected Energy Crystals for ^FF0000upgrading"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Adventurers can use collected Energy Crystals for ^FF0000upgrading equipments^000000 through me."
+msgstr ""
+
+# mes "If it works well, it seems to be good for both ECRA and adventurers.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "If it works well, it seems to be good for both ECRA and adventurers."
+msgstr ""
+
+# mes "The hunting quests are ranked by monster level and difficulty. The ranges are"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The hunting quests are ranked by monster level and difficulty. The ranges are lower, intermediate, high quests and can only be taken once per day."
+msgstr ""
+
+# mes "I am sorry but the request for the "+.@type$[.@choice]
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "I am sorry but the request for the "
+msgstr ""
+
+# + " collection is only available for those level "
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " collection is only available for those level "
+msgstr ""
+
+# + .@min_level[.@choice] + " and higher. You do not seem to"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " and higher. You do not seem to be capable of carrying out this request."
+msgstr ""
+
+# mes "You seem to be under the other request of "+.@type$[.@choice]
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You seem to be under the other request of "
+msgstr ""
+
+# + " collection. If the quest seems to be too hard... how"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " collection. If the quest seems to be too hard... how about you ^FF0000give up on the request^000000?"
+msgstr ""
+
+# mes "Currently waiting for the "+.@type$[.@choice]+" collection"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Currently waiting for the "
+msgstr ""
+
+# mes "Currently waiting for the "+.@type$[.@choice]+" collection"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " collection commission. Tasks in each collection can only be completed once per day."
+msgstr ""
+
+# mes "You selected to hunt a monster from the "+.@type$[.@choice]
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You selected to hunt a monster from the "
+msgstr ""
+
+# + " collection. After hunting these monsters you will receive "
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " collection. After hunting these monsters you will receive "
+msgstr ""
+
+# + ((.@features_iRO)?"10 ":"")+"^0000FF"+.@crystal$[.@choice]
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "10 "
+msgstr ""
+
+# + " Energy Crystals^000000 when you return to me.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals^000000 when you return to me."
+msgstr ""
+
+# mes "Please select the monster that you think you can easily hunt from the list.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Please select the monster that you think you can easily hunt from the list."
+msgstr ""
+
+# "[Lower class] Requiem",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Lower class] Requiem"
+msgstr ""
+
+# "[Lower class] Bathory",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Lower class] Bathory"
+msgstr ""
+
+# "[Lower class] Spring Rabbit",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Lower class] Spring Rabbit"
+msgstr ""
+
+# "[Lower class] Sleeper",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Lower class] Sleeper"
+msgstr ""
+
+# "[Lower class] Evil Druid",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Lower class] Evil Druid"
+msgstr ""
+
+# "[Lower class] Ground Petite",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Lower class] Ground Petite"
+msgstr ""
+
+# "[Lower class] Clock"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Lower class] Clock"
+msgstr ""
+
+# "[Intermediate class] Siroma",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Intermediate class] Siroma"
+msgstr ""
+
+# "[Intermediate class] Dark Priest",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Intermediate class] Dark Priest"
+msgstr ""
+
+# "[Intermediate class] Stapo",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Intermediate class] Stapo"
+msgstr ""
+
+# "[Intermediate class] Solider"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Intermediate class] Solider"
+msgstr ""
+
+# "[Advanced] Desert Wolf",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Advanced] Desert Wolf"
+msgstr ""
+
+# "[Advanced] Medusa",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Advanced] Medusa"
+msgstr ""
+
+# "[Advanced] Pinguicula",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Advanced] Pinguicula"
+msgstr ""
+
+# "[Advanced] Majoruros",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Advanced] Majoruros"
+msgstr ""
+
+# "[Highest] Raydric",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Highest] Raydric"
+msgstr ""
+
+# "[Highest] Naga",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Highest] Naga"
+msgstr ""
+
+# "[Highest] Ancient Mummy",
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Highest] Ancient Mummy"
+msgstr ""
+
+# "[Highest] Ancient Mimic"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "[Highest] Ancient Mimic"
+msgstr ""
+
+# mes "I am sorry but the request for the most advanced"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "I am sorry but the request for the most advanced collection is only available for those level "
+msgstr ""
+
+# mes "The request for "+.@type$[.@choice]+" collection monsters has been"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The request for "
+msgstr ""
+
+# mes "The request for "+.@type$[.@choice]+" collection monsters has been"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " collection monsters has been issued. Please check the details on the issued document."
+msgstr ""
+
+# mes "You are currently under the request of the "
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You are currently under the request of the "
+msgstr ""
+
+# +.@type$[.@i]+" collection. If you give up now,"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " collection. If you give up now, all your history will be lost. Do you really want to give up?"
+msgstr ""
+
+# if (select("Yes", "No") != 1) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Yes"
+msgstr ""
+
+# if (select("Yes", "No") != 1) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "No"
+msgstr ""
+
+# mes "You are not under any request.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You are not under any request."
+msgstr ""
+
+# mes "The written request for you has been withdrawn.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The written request for you has been withdrawn."
+msgstr ""
+
+# mes "Please keep up on it.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Please keep up on it."
+msgstr ""
+
+# mes "Do you want to accumulate Energy Crystals inside of your body to receive a buff?";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Do you want to accumulate Energy Crystals inside of your body to receive a buff?"
+msgstr ""
+
+# .@choice = select("Accumulating Energy Crystals?"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Accumulating Energy Crystals?:Accumulate Rough Energy Crystal:Accumulate Purified Energy Crystal:Accumulate High Energy Crystal"
+msgstr ""
+
+# mes "Energy Crystals are accumulated in your body when you hunt the"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Energy Crystals are accumulated in your body when you hunt the monsters we ask you to."
+msgstr ""
+
+# mes "Our research shows that some methods enable humans to accumulate the"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Our research shows that some methods enable humans to accumulate the energy crystals inside of the body in the form of a buff."
+msgstr ""
+
+# mes "If you spend about 3 hours, you will be able to gain a small amount"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "If you spend about 3 hours, you will be able to gain a small amount of Energy Crystals. So do you want to receive the buff?"
+msgstr ""
+
+# mes "Were you successful? While storing other Energy Crystals will not have"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Were you successful? While storing other Energy Crystals will not have much effect on your body, storing the same one may cause you harm."
+msgstr ""
+
+# mes "With a body like that, you can't accumulate "+.@crystal$[.@choice]
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "With a body like that, you can't accumulate "
+msgstr ""
+
+# +" Energy Crystals. You must be level "+.@min_level[.@choice]+" or"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals. You must be level "
+msgstr ""
+
+# +" Energy Crystals. You must be level "+.@min_level[.@choice]+" or"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " or your body will be harmed in the process."
+msgstr ""
+
+# mes "Accumulating Energy Crystal has already begun. I am sorry but it is"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Accumulating Energy Crystal has already begun. I am sorry but it is impossible to accumulate two different types of Energy Crystals at a time."
+msgstr ""
+
+# mes "An error has occurred. Please forgive me for the inconvenience."; //custom translation
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "An error has occurred. Please forgive me for the inconvenience."
+msgstr ""
+
+# mes "It takes 3 hours for your body to accumulate 2 to 4 "+.@crystal$[.@choice]
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "It takes 3 hours for your body to accumulate 2 to 4 "
+msgstr ""
+
+# +" Energy Crystals. Do you want to start?";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals. Do you want to start?"
+msgstr ""
+
+# if (select("Cancel", "Start") == 1) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Cancel"
+msgstr ""
+
+# if (select("Cancel", "Start") == 1) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Start"
+msgstr ""
+
+# mes "I recommend that you try to accumulate Energy Crystal when you have time.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "I recommend that you try to accumulate Energy Crystal when you have time."
+msgstr ""
+
+# mes "You might feel a slight tingle.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You might feel a slight tingle."
+msgstr ""
+
+# mes "- Puck -";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Puck -"
+msgstr ""
+
+# mes "Everything seems to be in order. Let's start accumulating "+.@crystal$[.@choice]
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Everything seems to be in order. Let's start accumulating "
+msgstr ""
+
+# +" Energy Crystals. Remember to come back to me after 3 hours to get the "
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals. Remember to come back to me after 3 hours to get the "
+msgstr ""
+
+# +.@crystal$[.@choice]+" Energy Crystals.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals."
+msgstr ""
+
+# mes "Do you want to compress the Energy Crystals?";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Do you want to compress the Energy Crystals?"
+msgstr ""
+
+# switch(select("What does compressing do?"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "What does compressing do?:Compress Rough to Purified Crystal:Compress Purified to High Crystal"
+msgstr ""
+
+# mes "Are you curious about Energy Crystal compression? I can compress"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Are you curious about Energy Crystal compression? I can compress lower level Energy Crystals into higher ones."
+msgstr ""
+
+# mes "Here is what I can make.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Here is what I can make."
+msgstr ""
+
+# mes "^FF000010 Rough Energy Crystals^000000 = ^FF00001 Purified Energy Crystal^000000";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "^FF000010 Rough Energy Crystals^000000 = ^FF00001 Purified Energy Crystal^000000"
+msgstr ""
+
+# mes "^FF00005 Purified Energy Crystals^000000 = ^FF00001 High Energy Crystal^000000";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "^FF00005 Purified Energy Crystals^000000 = ^FF00001 High Energy Crystal^000000"
+msgstr ""
+
+# mes "If you need higher grade Energy Crystals, this is a good way to get"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "If you need higher grade Energy Crystals, this is a good way to get them since the lower ones are easier to get."
+msgstr ""
+
+# mes "Do you want to compress?";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Do you want to compress?"
+msgstr ""
+
+# if (select("Compress", "Stop") == 2) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Compress"
+msgstr ""
+
+# if (select("Compress", "Stop") == 2) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Stop"
+msgstr ""
+
+# mes "Okay, please contact if you need me in the future.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Okay, please contact if you need me in the future."
+msgstr ""
+
+# mes "You don't have enough "+getitemname(.@crystal)+".";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You don't have enough "
+msgstr ""
+
+# mes "The compression was very successful.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The compression was very successful."
+msgstr ""
+
+# mes "There are "+.@crystal_count+" Energy Crystals left, which can"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "There are "
+msgstr ""
+
+# mes "There are "+.@crystal_count+" Energy Crystals left, which can"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals left, which can compress into "
+msgstr ""
+
+# " compress into "+.@crystal_get+" Energy Crystals. Do you"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid " Energy Crystals. Do you want to continue?"
+msgstr ""
+
+# mes "Compression completed.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Compression completed."
+msgstr ""
+
+# mes "Do you want to exchange Energy Crystals for equipment? Please select the type"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Do you want to exchange Energy Crystals for equipment? Please select the type of Energy Crystal that you wish to exchange."
+msgstr ""
+
+# switch (select("See Equipment List"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "See Equipment List:["
+msgstr ""
+
+# mes "This is the brochure regarding the equipment upgrade that our Energy"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "This is the brochure regarding the equipment upgrade that our Energy Crystal research association provides. Please take a look around."
+msgstr ""
+
+# mes "Please select the equipment to exchange for "+getitemname(.@crystal)+"s.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Please select the equipment to exchange for "
+msgstr ""
+
+# mes "The materials to make a Safety Ring[1] are insufficient."
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The materials to make a Safety Ring[1] are insufficient. Please check your inventory."
+msgstr ""
+
+# mes "Before upgrading your Safety Ring, please listen to these"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Before upgrading your Safety Ring, please listen to these ^FF0000precautions^000000."
+msgstr ""
+
+# mes "^FF0000In addition to the Safety Ring, all refinements and cards of"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "^FF0000In addition to the Safety Ring, all refinements and cards of the required materials will also disappear.^000000"
+msgstr ""
+
+# mes "The materials are insufficient. Please check your materials.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The materials are insufficient. Please check your materials."
+msgstr ""
+
+# mes "Before upgrading your equipment, please listen to these"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Before upgrading your equipment, please listen to these ^FF0000precautions^000000."
+msgstr ""
+
+# mes "^FF0000When using Energy Crystals to upgrade equipment, all previous"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "^FF0000When using Energy Crystals to upgrade equipment, all previous refinements, enchantments, and cards will be lost.^000000"
+msgstr ""
+
+# mes "Are you familiar with the ^FF0000precautions^000000?";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Are you familiar with the ^FF0000precautions^000000?"
+msgstr ""
+
+# if (select("I am.", "No.") == 2) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "I am."
+msgstr ""
+
+# if (select("I am.", "No.") == 2) {
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "No."
+msgstr ""
+
+# mes "Okay. Next time, then.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Okay. Next time, then."
+msgstr ""
+
+# mes "Then let's begin to upgrade "+.@item_name$+".";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Then let's begin to upgrade "
+msgstr ""
+
+# mes "The upgrade was successful. Your Energy Crystals will help our research greatly.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "The upgrade was successful. Your Energy Crystals will help our research greatly."
+msgstr ""
+
+# mes "Do you want to donate Energy Crystals to get a random new headgear?";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Do you want to donate Energy Crystals to get a random new headgear?"
+msgstr ""
+
+# switch (select("Donate Energy Crystals?"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Donate Energy Crystals?:Donate 300 Rough Energy Crystals.:Donate 600 Purified Energy Crystals.:Donate 900 High Energy Crystals."
+msgstr ""
+
+# mes "We are collecting Energy Crystals so that we can research more"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "We are collecting Energy Crystals so that we can research more combinations of headgears for adventurers."
+msgstr ""
+
+# mes "Thanks to the support of adventurers we can use these Energy"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Thanks to the support of adventurers we can use these Energy Crystals to further our research."
+msgstr ""
+
+# mes "So we receive a minimum of 300 Rough Energy Crystals, 600 Purified"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "So we receive a minimum of 300 Rough Energy Crystals, 600 Purified Energy Crystals, and 900 High Energy Crystals."
+msgstr ""
+
+# mes "You may feel that this is a burden, but for the sake of our"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You may feel that this is a burden, but for the sake of our research, please continue."
+msgstr ""
+
+# mes "For the donation, I'll give you a random new headgear.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "For the donation, I'll give you a random new headgear."
+msgstr ""
+
+# mes "300 Rough Energy Crystals";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "300 Rough Energy Crystals"
+msgstr ""
+
+# mes "- New Mage Hat";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Mage Hat"
+msgstr ""
+
+# mes "- New Magician Hat";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Magician Hat"
+msgstr ""
+
+# mes "- New Kitsune Mask";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Kitsune Mask"
+msgstr ""
+
+# mes "- New Joker Jester";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Joker Jester"
+msgstr ""
+
+# mes "- New Bunny Band";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Bunny Band"
+msgstr ""
+
+# mes "- New Munak Hat";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Munak Hat"
+msgstr ""
+
+# mes "- New Bongun Hat";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Bongun Hat"
+msgstr ""
+
+# mes "- New Phantom Opera Mask";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- New Phantom Opera Mask"
+msgstr ""
+
+# mes "600 Purified Energy Crystals";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "600 Purified Energy Crystals"
+msgstr ""
+
+# mes "- Good Binoculars";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Binoculars"
+msgstr ""
+
+# mes "- Good Fin Helm";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Fin Helm"
+msgstr ""
+
+# mes "- Good Assassin Mask";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Assassin Mask"
+msgstr ""
+
+# mes "- Good Welding Mask";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Welding Mask"
+msgstr ""
+
+# mes "- Good Safety Ring";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Safety Ring"
+msgstr ""
+
+# mes "- Good Angelic Protection";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Angelic Protection"
+msgstr ""
+
+# mes "- Good Angelic Guard";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Angelic Guard"
+msgstr ""
+
+# mes "- Good Angelic Cardigan";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Angelic Cardigan"
+msgstr ""
+
+# mes "- Good Angel's Reincarnation";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Good Angel's Reincarnation"
+msgstr ""
+
+# mes "900 High Energy Crystals";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "900 High Energy Crystals"
+msgstr ""
+
+# mes "- Enhanced Corsair";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Enhanced Corsair"
+msgstr ""
+
+# mes "- Enhanced Bone Helm";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Enhanced Bone Helm"
+msgstr ""
+
+# mes "- Enhanced Helm of Angel";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Enhanced Helm of Angel"
+msgstr ""
+
+# mes "- Enhanced Variant Shoes";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Enhanced Variant Shoes"
+msgstr ""
+
+# mes "- Enhanced Ring of Flame Lord";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Enhanced Ring of Flame Lord"
+msgstr ""
+
+# mes "- Enhanced Ring of Resonance";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "- Enhanced Ring of Resonance"
+msgstr ""
+
+# mes "Thank for your support, but we need 300 Rough Energy Crystals.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Thank for your support, but we need 300 Rough Energy Crystals."
+msgstr ""
+
+# mes "Thank for your support, but we need 600 Purified Energy Crystals.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Thank for your support, but we need 600 Purified Energy Crystals."
+msgstr ""
+
+# mes "Thank for your support, but we need 900 High Energy Crystals.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Thank for your support, but we need 900 High Energy Crystals."
+msgstr ""
+
+# mes "Thank you very much. The Energy Crystals you donated will be greatly helpful"
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Thank you very much. The Energy Crystals you donated will be greatly helpful for our research. This is your reward for your donation."
+msgstr ""
+
+# mes "Finished "+ getarg(3) +" collection hunting quest.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "Finished "
+msgstr ""
+
+# mes "You receive "+ getarg(5) +" "+ getitemname(getarg(4)) +" as the "+ getarg(3) +" collection reward.";
+#: npc/re/quests/newgears/2012_headgears.txt
+msgctxt "Reno#2012hat"
+msgid "You receive "
+msgstr ""
+

@@ -1,0 +1,211 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:58+0200\n"
+"PO-Revision-Date: 2019-10-21 10:29\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/jobs/repair_txt.pot\n"
+
+# mes "I think you have too many items. Let's try it again after you take some out.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I think you have too many items. Let's try it again after you take some out."
+msgstr ""
+
+# mes "You're overweight with items so I don't think we can proceed any further. Challenge me after you've taken some items off.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "You're overweight with items so I don't think we can proceed any further. Challenge me after you've taken some items off."
+msgstr ""
+
+# mes "[Valerie]";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "[Valerie]"
+msgstr ""
+
+# mes "I am Valerie; I help those with abnormalities. I am friends with Valkyrie.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I am Valerie; I help those with abnormalities. I am friends with Valkyrie."
+msgstr ""
+
+# mes "If both abnormalities disappear then we must start the test over from scratch. What would you like to do?";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "If both abnormalities disappear then we must start the test over from scratch. What would you like to do?"
+msgstr ""
+
+# switch(select("I don't have any abnormalities", "I think my body has some abnormalities")) {
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I don't have any abnormalities"
+msgstr ""
+
+# switch(select("I don't have any abnormalities", "I think my body has some abnormalities")) {
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I think my body has some abnormalities"
+msgstr ""
+
+# mes "That's a relief. Then please take care.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "That's a relief. Then please take care."
+msgstr ""
+
+# mes "Are you sure you want to intialize it and start over?";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Are you sure you want to intialize it and start over?"
+msgstr ""
+
+# if(select("Nope", "Yes, I want to start completely over") == 1) {
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Nope"
+msgstr ""
+
+# if(select("Nope", "Yes, I want to start completely over") == 1) {
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Yes, I want to start completely over"
+msgstr ""
+
+# mes "I understand. I'll see you next time";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I understand. I'll see you next time"
+msgstr ""
+
+# mes "All items related to the existing conditions will disappear. Are you okay with this?";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "All items related to the existing conditions will disappear. Are you okay with this?"
+msgstr ""
+
+# if(select("Nope", "Yes, I want to start completely over.") == 1) {
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Yes, I want to start completely over."
+msgstr ""
+
+# mes "I understand. I'll see you next time.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I understand. I'll see you next time."
+msgstr ""
+
+# mes "It seems that there are a sea of people who seemed to be cursed of not being able to get a significant other after going through with this. Are you still okay with this? ";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "It seems that there are a sea of people who seemed to be cursed of not being able to get a significant other after going through with this. Are you still okay with this? "
+msgstr ""
+
+# if(select("Nope", "I still want to intialize.") == 1) {
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I still want to intialize."
+msgstr ""
+
+# mes "I understand. I will see you next time.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I understand. I will see you next time."
+msgstr ""
+
+# mes "In extreme cases, some become crippled and can get ulcers. Do you still want to intilize former processes?";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "In extreme cases, some become crippled and can get ulcers. Do you still want to intilize former processes?"
+msgstr ""
+
+# if(select("Nope", "Please intilize the former processes") == 1) {
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Please intilize the former processes"
+msgstr ""
+
+# mes "I understand. I will see you next time";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I understand. I will see you next time"
+msgstr ""
+
+# mes "Please unequip the Magical Stone or Magical Stone Ring and try again.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Please unequip the Magical Stone or Magical Stone Ring and try again."
+msgstr ""
+
+# mes "Please talk to me after your replace all Magical Stones.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Please talk to me after your replace all Magical Stones."
+msgstr ""
+
+# mes "You're carrying something that is unnecessary. I will sort it out for you.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "You're carrying something that is unnecessary. I will sort it out for you."
+msgstr ""
+
+# mes "I don't think you should have any further business with me.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I don't think you should have any further business with me."
+msgstr ""
+
+# mes "You're carrying big karma- You should erase it.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "You're carrying big karma- You should erase it."
+msgstr ""
+
+# mes "Please talk to me again as there could be additional problems.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "Please talk to me again as there could be additional problems."
+msgstr ""
+
+# mes "I will help clear your problems for you that came from your former attempts.";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie"
+msgid "I will help clear your problems for you that came from your former attempts."
+msgstr ""
+
+# mes "^ff00ffI couldn't pay the office rent so I am temporarily relocating to the building across from the Prontera Refinery.^000000";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie#sign"
+msgid "^ff00ffI couldn't pay the office rent so I am temporarily relocating to the building across from the Prontera Refinery.^000000"
+msgstr ""
+
+# mes " ";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie#sign"
+msgid " "
+msgstr ""
+
+# mes "^ff00ffValerie^000000";
+#: npc/re/jobs/repair.txt
+msgctxt "Valerie#sign"
+msgid "^ff00ffValerie^000000"
+msgstr ""
+
+# mes "Please input your password.";
+#: npc/re/jobs/repair.txt
+msgctxt "Job Repair"
+msgid "Please input your password."
+msgstr ""
+

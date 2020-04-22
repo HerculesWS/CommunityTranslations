@@ -1,0 +1,5125 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:24+0200\n"
+"PO-Revision-Date: 2019-10-21 10:44\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/quests/first_class/tu_acolyte_txt.pot\n"
+
+# mes "[Priest Praupin]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "[Priest Praupin]"
+msgstr ""
+
+# mes "Oh...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Oh...!"
+msgstr ""
+
+# mes "You're "+strcharinfo(PC_NAME)+" !";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "You're "
+msgstr ""
+
+# mes "You've grown so much!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "You've grown so much!"
+msgstr ""
+
+# mes "I'm truly proud of you.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I'm truly proud of you."
+msgstr ""
+
+# mes "May you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "May you"
+msgstr ""
+
+# mes "always be blessed...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "always be blessed..."
+msgstr ""
+
+# mes "Welcome, little one.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Welcome, little one."
+msgstr ""
+
+# mes "Fate must have brought";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Fate must have brought"
+msgstr ""
+
+# mes "us together so that we'd";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "us together so that we'd"
+msgstr ""
+
+# mes "meet today. It's nice to meet you.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "meet today. It's nice to meet you."
+msgstr ""
+
+# mes "But I am concerned that";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "But I am concerned that"
+msgstr ""
+
+# mes "you may not know what to do";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "you may not know what to do"
+msgstr ""
+
+# mes "as an Acolyte from here on...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "as an Acolyte from here on..."
+msgstr ""
+
+# switch(select("I'm not worried.", "What should I do?")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I'm not worried."
+msgstr ""
+
+# switch(select("I'm not worried.", "What should I do?")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "What should I do?"
+msgstr ""
+
+# mes "Seeing your eyes filled with such determination assures me. But if you run into any trouble, feel free to ask me for help. Good bye for now, blessed child.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Seeing your eyes filled with such determination assures me. But if you run into any trouble, feel free to ask me for help. Good bye for now, blessed child."
+msgstr ""
+
+# mes "There is a convent northeast";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "There is a convent northeast"
+msgstr ""
+
+# mes "of Prontera called the Saint Capitolina Convent. Go there and look for ^3131FF Sister Asthe^000000. She is a sweet and gentle soul who has";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "of Prontera called the Saint Capitolina Convent. Go there and look for ^3131FF Sister Asthe^000000. She is a sweet and gentle soul who has"
+msgstr ""
+
+# mes "much to teach you.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "much to teach you."
+msgstr ""
+
+# mes "I look forward to seeing you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I look forward to seeing you"
+msgstr ""
+
+# mes "become a better Acolyte after learning from Sister Asthe's instructions. If you like, I can send you to the convent.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "become a better Acolyte after learning from Sister Asthe's instructions. If you like, I can send you to the convent."
+msgstr ""
+
+# if(select("Go to the convent.", "Do not go.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Go to the convent."
+msgstr ""
+
+# if(select("Go to the convent.", "Do not go.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Do not go."
+msgstr ""
+
+# mes "Please say hello";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Please say hello"
+msgstr ""
+
+# mes "to Sister Asthe for me.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "to Sister Asthe for me."
+msgstr ""
+
+# mes "Have a safe trip, little one...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Have a safe trip, little one..."
+msgstr ""
+
+# mes "If you'd like,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "If you'd like,"
+msgstr ""
+
+# mes "I can send you to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I can send you to"
+msgstr ""
+
+# mes "the convent at anytime.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "the convent at anytime."
+msgstr ""
+
+# mes "Whenever you feel like";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Whenever you feel like"
+msgstr ""
+
+# mes "you need help, come to me.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "you need help, come to me."
+msgstr ""
+
+# mes "You're looking for someone";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "You're looking for someone"
+msgstr ""
+
+# mes "that handles things with Archers";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "that handles things with Archers"
+msgstr ""
+
+# mes "at the church? Hmm...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "at the church? Hmm..."
+msgstr ""
+
+# mes "Ah, he's away at the convent right now. If you want to meet Bishop Maugins in the Saint Capitolina Convent, travel ^3131FFnorth^000000, ^3131FFeast^000000, ^3131FFeast^000000 and then ^3131FFeast^000000 from Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Ah, he's away at the convent right now. If you want to meet Bishop Maugins in the Saint Capitolina Convent, travel ^3131FFnorth^000000, ^3131FFeast^000000, ^3131FFeast^000000 and then ^3131FFeast^000000 from Prontera."
+msgstr ""
+
+# mes "Oh my, you seem";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Oh my, you seem"
+msgstr ""
+
+# mes "to be growing quickly";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "to be growing quickly"
+msgstr ""
+
+# mes "into your role as an Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "into your role as an Acolyte."
+msgstr ""
+
+# mes "Was the training difficult?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Was the training difficult?"
+msgstr ""
+
+# mes "You have something";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "You have something"
+msgstr ""
+
+# mes "to give me? Oh yes, the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "to give me? Oh yes, the"
+msgstr ""
+
+# mes "receipt! I was wondering";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "receipt! I was wondering"
+msgstr ""
+
+# mes "what had happened. Thank";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "what had happened. Thank"
+msgstr ""
+
+# mes "you for all of your trouble.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "you for all of your trouble."
+msgstr ""
+
+# mes "Oh my, oh my.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Oh my, oh my."
+msgstr ""
+
+# mes "It's been a while.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "It's been a while."
+msgstr ""
+
+# mes "I wonder if there is";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I wonder if there is"
+msgstr ""
+
+# mes "anything I can give you?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "anything I can give you?"
+msgstr ""
+
+# mes "How about one of these?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "How about one of these?"
+msgstr ""
+
+# mes "I know I'm not offering much,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I know I'm not offering much,"
+msgstr ""
+
+# mes "but they were quite helpful to me when I was a young Acolyte like yourself.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "but they were quite helpful to me when I was a young Acolyte like yourself."
+msgstr ""
+
+# switch(select("Wand", "Flail")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Wand"
+msgstr ""
+
+# switch(select("Wand", "Flail")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Flail"
+msgstr ""
+
+# mes "You are such a good person,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "You are such a good person,"
+msgstr ""
+
+# mes "a true child of the light. I hope that many others will benefit from the purity of your heart and mind.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "a true child of the light. I hope that many others will benefit from the purity of your heart and mind."
+msgstr ""
+
+# mes "You must now find";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "You must now find"
+msgstr ""
+
+# mes "your own path and become";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "your own path and become"
+msgstr ""
+
+# mes "a better Acolyte using";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "a better Acolyte using"
+msgstr ""
+
+# mes "your own strength.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "your own strength."
+msgstr ""
+
+# mes "I am worried, but I trust in your courage and affection. May you always be protected and may";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I am worried, but I trust in your courage and affection. May you always be protected and may"
+msgstr ""
+
+# mes "you always be blessed.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "you always be blessed."
+msgstr ""
+
+# mes "Sister Asthe in the Saint Capitolina Convent is such";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Sister Asthe in the Saint Capitolina Convent is such"
+msgstr ""
+
+# mes "a sincere and loving person.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "a sincere and loving person."
+msgstr ""
+
+# mes "Would you like me to send you to the convent so that you can learn from this wonderful teacher?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Would you like me to send you to the convent so that you can learn from this wonderful teacher?"
+msgstr ""
+
+# if(select("Yes, please.", "No thanks.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "Yes, please."
+msgstr ""
+
+# if(select("Yes, please.", "No thanks.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "No thanks."
+msgstr ""
+
+# mes "[Asthe]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "[Asthe]"
+msgstr ""
+
+# mes "Oh my...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh my..."
+msgstr ""
+
+# mes "How did such";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "How did such"
+msgstr ""
+
+# mes "a young Acolyte";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "a young Acolyte"
+msgstr ""
+
+# mes "manage to reach";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "manage to reach"
+msgstr ""
+
+# mes "this remote place?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "this remote place?"
+msgstr ""
+
+# if(select("I came for fun.", "Priest Praupin suggested I come here.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I came for fun."
+msgstr ""
+
+# if(select("I came for fun.", "Priest Praupin suggested I come here.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Priest Praupin suggested I come here."
+msgstr ""
+
+# mes "This convent is always quiet and peaceful. Sitting on the benches and feeling the almighty presense all around you is such a relaxing, meditative experience.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "This convent is always quiet and peaceful. Sitting on the benches and feeling the almighty presense all around you is such a relaxing, meditative experience."
+msgstr ""
+
+# mes "Priest Praupin?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Priest Praupin?"
+msgstr ""
+
+# mes "He's a very kind man";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "He's a very kind man"
+msgstr ""
+
+# mes "who's always thinking";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "who's always thinking"
+msgstr ""
+
+# mes "about others. So he's";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "about others. So he's"
+msgstr ""
+
+# mes "sent you to me for training?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "sent you to me for training?"
+msgstr ""
+
+# mes "Before we begin,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Before we begin,"
+msgstr ""
+
+# mes "why don't you rest";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "why don't you rest"
+msgstr ""
+
+# mes "for a little bit? You must be tired after traveling all the way here. When you're ready, just come";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "for a little bit? You must be tired after traveling all the way here. When you're ready, just come"
+msgstr ""
+
+# mes "see me, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "see me, okay?"
+msgstr ""
+
+# mes "This castle, Saint Capitolina Convent, is a beautiful and peaceful place that brings";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "This castle, Saint Capitolina Convent, is a beautiful and peaceful place that brings"
+msgstr ""
+
+# mes "calm to any heart.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "calm to any heart."
+msgstr ""
+
+# mes "Well then...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Well then..."
+msgstr ""
+
+# mes "Shall we begin";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Shall we begin"
+msgstr ""
+
+# mes "the lessons?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "the lessons?"
+msgstr ""
+
+# mes "have you thought about what kind of Acolyte you would like to become? It's very important that you plan for the future that you want.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "have you thought about what kind of Acolyte you would like to become? It's very important that you plan for the future that you want."
+msgstr ""
+
+# if(select("One that supports others.", "One that punishes evil.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "One that supports others."
+msgstr ""
+
+# if(select("One that supports others.", "One that punishes evil.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "One that punishes evil."
+msgstr ""
+
+# mes "Ah, you have such";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ah, you have such"
+msgstr ""
+
+# mes "a generous heart!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "a generous heart!"
+msgstr ""
+
+# mes "Healing the pain of others and supporting your comrades in battle. You must have become an Acolyte in order to become a ^3131FFPriest^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Healing the pain of others and supporting your comrades in battle. You must have become an Acolyte in order to become a ^3131FFPriest^000000."
+msgstr ""
+
+# mes "Priests have great supportive abilities and the power to battle evil. They use weapons to battle monsters like other fighters, but are ^3131FFforbidden from using blades^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Priests have great supportive abilities and the power to battle evil. They use weapons to battle monsters like other fighters, but are ^3131FFforbidden from using blades^000000."
+msgstr ""
+
+# mes "We call those who use their fists as tools of divine punishment Monks. They deliver our message";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "We call those who use their fists as tools of divine punishment Monks. They deliver our message"
+msgstr ""
+
+# mes "of love and peace in a more... colorful manner.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "of love and peace in a more... colorful manner."
+msgstr ""
+
+# mes "But the path towards becoming";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "But the path towards becoming"
+msgstr ""
+
+# mes "a Monk will require great patience and self-restraint. You'll often see Monks training their minds";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "a Monk will require great patience and self-restraint. You'll often see Monks training their minds"
+msgstr ""
+
+# mes "and bodies throughout the land.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and bodies throughout the land."
+msgstr ""
+
+# mes "Well, you still have a long way to go. The best thing to do would be to take your time planning and consider your future seriously.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Well, you still have a long way to go. The best thing to do would be to take your time planning and consider your future seriously."
+msgstr ""
+
+# mes "Now,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now,"
+msgstr ""
+
+# mes "What do you think";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "What do you think"
+msgstr ""
+
+# mes "is the most necessary";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "is the most necessary"
+msgstr ""
+
+# mes "skill for an Acolyte?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "skill for an Acolyte?"
+msgstr ""
+
+# switch(select("Heal", "Aqua Benedicta", "Teleport")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Heal"
+msgstr ""
+
+# switch(select("Heal", "Aqua Benedicta", "Teleport")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Aqua Benedicta"
+msgstr ""
+
+# switch(select("Heal", "Aqua Benedicta", "Teleport")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Teleport"
+msgstr ""
+
+# mes "Ah, yes.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ah, yes."
+msgstr ""
+
+# mes "^3131FFHeal ^000000 is a basic, yet important skill for people like us. It can recover your own health as";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFHeal ^000000 is a basic, yet important skill for people like us. It can recover your own health as"
+msgstr ""
+
+# mes "well as that of others.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "well as that of others."
+msgstr ""
+
+# mes "^3131FFAqua Benedicta^000000 blesses";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFAqua Benedicta^000000 blesses"
+msgstr ""
+
+# mes "normal water and turns it into Holy Water. This is an important skill, but not considered one of the essentials that all Acolytes";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "normal water and turns it into Holy Water. This is an important skill, but not considered one of the essentials that all Acolytes"
+msgstr ""
+
+# mes "should know.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "should know."
+msgstr ""
+
+# mes "In my opinion,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "In my opinion,"
+msgstr ""
+
+# mes "^3131FFHeal^000000 is the most important";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFHeal^000000 is the most important"
+msgstr ""
+
+# mes "skill that an Acolyte can learn. It's a special ability that can save others and defeat the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "skill that an Acolyte can learn. It's a special ability that can save others and defeat the"
+msgstr ""
+
+# mes "monsters borne of darkness.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "monsters borne of darkness."
+msgstr ""
+
+# mes "^3131FFTeleport^000000 allows you to instantly move to another place. It is a great skill, but it's difficult to consider it necessary for all Acolytes.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFTeleport^000000 allows you to instantly move to another place. It is a great skill, but it's difficult to consider it necessary for all Acolytes."
+msgstr ""
+
+# mes "^3131FFHeal^000000 is the most important skill that an Acolyte can learn. It's a special ability that can save others and defeat the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFHeal^000000 is the most important skill that an Acolyte can learn. It's a special ability that can save others and defeat the"
+msgstr ""
+
+# mes "You can use the holy power";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You can use the holy power"
+msgstr ""
+
+# mes "in the Heal skill to attack Undead monsters (^3131FFShift + Heal^000000). The light of truth protects the righteous and destroys the wicked.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "in the Heal skill to attack Undead monsters (^3131FFShift + Heal^000000). The light of truth protects the righteous and destroys the wicked."
+msgstr ""
+
+# mes "Just gather the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Just gather the"
+msgstr ""
+
+# mes "strength within your";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "strength within your"
+msgstr ""
+
+# mes "heart into your hands...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "heart into your hands..."
+msgstr ""
+
+# mes "HEAL !!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "HEAL !!"
+msgstr ""
+
+# mes "I would like to give you an assignment, but what do you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I would like to give you an assignment, but what do you"
+msgstr ""
+
+# mes "think? I believe learning the basics is your most important";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "think? I believe learning the basics is your most important"
+msgstr ""
+
+# mes "task for now.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "task for now."
+msgstr ""
+
+# mes "Well then, learn";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Well then, learn"
+msgstr ""
+
+# mes "the Heal skill up to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "the Heal skill up to"
+msgstr ""
+
+# mes "^3131FFLevel 3 ^000000 and then";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFLevel 3 ^000000 and then"
+msgstr ""
+
+# mes "return to me.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "return to me."
+msgstr ""
+
+# mes "Your strength is undeveloped,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Your strength is undeveloped,"
+msgstr ""
+
+# mes "so fight weaker monsters for now.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "so fight weaker monsters for now."
+msgstr ""
+
+# mes "I will lend you a Mace from the church, so use it well and ^3131FFreturn it^000000 when you're done, alright?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I will lend you a Mace from the church, so use it well and ^3131FFreturn it^000000 when you're done, alright?"
+msgstr ""
+
+# mes "First ^0033FFstart fighting monsters around each town such as Prontera^000000. It'd be more convenient to fight the monsters here, but they might be too strong for you right now.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "First ^0033FFstart fighting monsters around each town such as Prontera^000000. It'd be more convenient to fight the monsters here, but they might be too strong for you right now."
+msgstr ""
+
+# mes "I'll change your Save Point so that you will respawn in the convent. Once you've learned Level 3 Heal, you can use a Butterfly Wing to return here.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I'll change your Save Point so that you will respawn in the convent. Once you've learned Level 3 Heal, you can use a Butterfly Wing to return here."
+msgstr ""
+
+# mes "You can also speak to ^3131FFPriest Praupin at the Prontera Church^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You can also speak to ^3131FFPriest Praupin at the Prontera Church^000000"
+msgstr ""
+
+# mes "and he will send you back here.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and he will send you back here."
+msgstr ""
+
+# mes "He takes special care in helping young Acolytes.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "He takes special care in helping young Acolytes."
+msgstr ""
+
+# mes "Well then,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Well then,"
+msgstr ""
+
+# mes "I hope you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I hope you"
+msgstr ""
+
+# mes "have a safe trip.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "have a safe trip."
+msgstr ""
+
+# mes "Oh my!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh my!"
+msgstr ""
+
+# mes "You've already";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You've already"
+msgstr ""
+
+# mes "learned how to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "learned how to"
+msgstr ""
+
+# mes "properly use the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "properly use the"
+msgstr ""
+
+# mes "Heal skill. Very good!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Heal skill. Very good!"
+msgstr ""
+
+# mes "I believe you're";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I believe you're"
+msgstr ""
+
+# mes "ready for me to discuss";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "ready for me to discuss"
+msgstr ""
+
+# mes "the next subject. Now,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "the next subject. Now,"
+msgstr ""
+
+# mes "let's see... Hmm...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "let's see... Hmm..."
+msgstr ""
+
+# mes "Welcome back~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Welcome back~"
+msgstr ""
+
+# mes "I see that you've";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I see that you've"
+msgstr ""
+
+# mes "completed the assignment";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "completed the assignment"
+msgstr ""
+
+# mes "already. Good work!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "already. Good work!"
+msgstr ""
+
+# mes "Now, I would like to have the Mace back, if you don't mind.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now, I would like to have the Mace back, if you don't mind."
+msgstr ""
+
+# mes "By any chance, do you carry ^FF0000any other Mace with an elemental Property^000000?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "By any chance, do you carry ^FF0000any other Mace with an elemental Property^000000?"
+msgstr ""
+
+# mes "If so, please store the mace somewhere first.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "If so, please store the mace somewhere first."
+msgstr ""
+
+# mes "I am afraid that my sight is too bad to distinguish the difference...Hoho.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I am afraid that my sight is too bad to distinguish the difference...Hoho."
+msgstr ""
+
+# mes "Would you like me to take the mace away from your inventory now?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Would you like me to take the mace away from your inventory now?"
+msgstr ""
+
+# if(select("Sure.", "Let me check again.") == 2) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Sure."
+msgstr ""
+
+# if(select("Sure.", "Let me check again.") == 2) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Let me check again."
+msgstr ""
+
+# mes "Okay, no problem.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Okay, no problem."
+msgstr ""
+
+# mes "Please make sure that you do not carry any ^FF0000Mace with an elemental Property^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Please make sure that you do not carry any ^FF0000Mace with an elemental Property^000000."
+msgstr ""
+
+# mes "Thank you so much.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Thank you so much."
+msgstr ""
+
+# mes "You have returned the Mace.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You have returned the Mace."
+msgstr ""
+
+# mes "completed the assignment.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "completed the assignment."
+msgstr ""
+
+# mes "But you must have forgotten the Mace I've lent you. Would you bring it back so that I can return it to the church?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "But you must have forgotten the Mace I've lent you. Would you bring it back so that I can return it to the church?"
+msgstr ""
+
+# mes "Are you having";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Are you having"
+msgstr ""
+
+# mes "a hard time training";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "a hard time training"
+msgstr ""
+
+# mes "to learn Level 3 Heal?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to learn Level 3 Heal?"
+msgstr ""
+
+# mes "Please don't be discouraged.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Please don't be discouraged."
+msgstr ""
+
+# mes "The basics are crucial to gaining mastery of the more advanced skills that you'll learn later. Just keep in mind that all of your efforts and suffering will become glory";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "The basics are crucial to gaining mastery of the more advanced skills that you'll learn later. Just keep in mind that all of your efforts and suffering will become glory"
+msgstr ""
+
+# mes "and happiness.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and happiness."
+msgstr ""
+
+# mes "I suppose I can tell you a little more about the Acolyte job. You already know that Novices must train and go to Prontera Church to become an Acolyte, your First Job Class.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I suppose I can tell you a little more about the Acolyte job. You already know that Novices must train and go to Prontera Church to become an Acolyte, your First Job Class."
+msgstr ""
+
+# mes "After you become an Acolyte";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "After you become an Acolyte"
+msgstr ""
+
+# mes "at ^3131FFJob Level 40^000000, you will have the opportunity to change to a more specialized Second Job Class.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "at ^3131FFJob Level 40^000000, you will have the opportunity to change to a more specialized Second Job Class."
+msgstr ""
+
+# mes "When changing";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "When changing"
+msgstr ""
+
+# mes "to the Second Jobs,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to the Second Jobs,"
+msgstr ""
+
+# mes "Acolytes can become ^3131FFPriests^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Acolytes can become ^3131FFPriests^000000,"
+msgstr ""
+
+# mes "the apostles of mercy, or ^3131FFMonks^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "the apostles of mercy, or ^3131FFMonks^000000"
+msgstr ""
+
+# mes "who carry out God's wrath.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "who carry out God's wrath."
+msgstr ""
+
+# mes "Priests and Monks can";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Priests and Monks can"
+msgstr ""
+
+# mes "change to the Transcendent Class";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "change to the Transcendent Class"
+msgstr ""
+
+# mes "by visiting Valkyrie in Valhalla. Priests can become ^3131FFHigh Priests^000000 and Monks can become ^3131FFChampions^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "by visiting Valkyrie in Valhalla. Priests can become ^3131FFHigh Priests^000000 and Monks can become ^3131FFChampions^000000."
+msgstr ""
+
+# mes "Did you undertand all that?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Did you undertand all that?"
+msgstr ""
+
+# mes "Ho ho ho~ No need to try to remember everything right now. You'll get the hang of it.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ho ho ho~ No need to try to remember everything right now. You'll get the hang of it."
+msgstr ""
+
+# mes "I just received this letter, but it seems to have been a mistake.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I just received this letter, but it seems to have been a mistake."
+msgstr ""
+
+# mes "It's actually addressed";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "It's actually addressed"
+msgstr ""
+
+# mes "to Priest Gardron.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to Priest Gardron."
+msgstr ""
+
+# mes "However, I'm a little busy with";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "However, I'm a little busy with"
+msgstr ""
+
+# mes "my work right now, so would you deliver this to Priest Gardron in the next building for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "my work right now, so would you deliver this to Priest Gardron in the next building for me?"
+msgstr ""
+
+# mes "Would you please";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Would you please"
+msgstr ""
+
+# mes "deliver this letter";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "deliver this letter"
+msgstr ""
+
+# mes "to Priest Gardron for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to Priest Gardron for me?"
+msgstr ""
+
+# mes "You can find him in the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You can find him in the"
+msgstr ""
+
+# mes "building nearby.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "building nearby."
+msgstr ""
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You went to "
+msgstr ""
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Prontera"
+msgstr ""
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Payon"
+msgstr ""
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid " on behalf of the convent for Priest Gardron? That must have been tough..."
+msgstr ""
+
+# mes "Blessing!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Blessing!"
+msgstr ""
+
+# mes "Now I'm going to teach you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now I'm going to teach you"
+msgstr ""
+
+# mes "about ^FF0000Blessing^000000. This is a holy skill that delivers the blessing of God. Blessing will temporarily raise ^3131FFSTR^000000,^3131FFINT^000000,^3131FFDEX^000000 and remove ^3131FFCurse^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "about ^FF0000Blessing^000000. This is a holy skill that delivers the blessing of God. Blessing will temporarily raise ^3131FFSTR^000000,^3131FFINT^000000,^3131FFDEX^000000 and remove ^3131FFCurse^000000."
+msgstr ""
+
+# mes "Like Heal,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Like Heal,"
+msgstr ""
+
+# mes "Blessing can be used";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Blessing can be used"
+msgstr ""
+
+# mes "against Undead monsters.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "against Undead monsters."
+msgstr ""
+
+# mes "(^3131FFSHIFT + Blessing^000000)";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "(^3131FFSHIFT + Blessing^000000)"
+msgstr ""
+
+# mes "Blessing will actually";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Blessing will actually"
+msgstr ""
+
+# mes "place a curse on the Undead.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "place a curse on the Undead."
+msgstr ""
+
+# mes "Blessing can be learned after you learn Level 5 ^3131FFDivine Protection^000000. That's the skill that will increase your resistance to damage from Undead and Demon monsters.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Blessing can be learned after you learn Level 5 ^3131FFDivine Protection^000000. That's the skill that will increase your resistance to damage from Undead and Demon monsters."
+msgstr ""
+
+# mes "Being able to serve God and";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Being able to serve God and"
+msgstr ""
+
+# mes "bless others with his glory is a great honor. Well, that's all for this lesson.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "bless others with his glory is a great honor. Well, that's all for this lesson."
+msgstr ""
+
+# mes "Oh, yes...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh, yes...!"
+msgstr ""
+
+# mes "In the cemetary northwest";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "In the cemetary northwest"
+msgstr ""
+
+# mes "of here, I've been taking care of a lost dog. Right now, it's time to feed him.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "of here, I've been taking care of a lost dog. Right now, it's time to feed him."
+msgstr ""
+
+# mes "Sorry for the hassle,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Sorry for the hassle,"
+msgstr ""
+
+# mes "but would you go and";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "but would you go and"
+msgstr ""
+
+# mes "feed the dog for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "feed the dog for me?"
+msgstr ""
+
+# mes "^3355FFSister Asthe gives";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3355FFSister Asthe gives"
+msgstr ""
+
+# mes "you some dog food.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "you some dog food.^000000"
+msgstr ""
+
+# mes "How to expel";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "How to expel"
+msgstr ""
+
+# mes "an evil spirit?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "an evil spirit?"
+msgstr ""
+
+# mes "Why, it's the same";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Why, it's the same"
+msgstr ""
+
+# mes "way that you would";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "way that you would"
+msgstr ""
+
+# mes "remove a curse...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "remove a curse..."
+msgstr ""
+
+# mes "Ah...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ah..."
+msgstr ""
+
+# mes "I believe";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I believe"
+msgstr ""
+
+# mes "this is a test";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "this is a test"
+msgstr ""
+
+# mes "given to you by God.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "given to you by God."
+msgstr ""
+
+# mes "You already";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You already"
+msgstr ""
+
+# mes "know the answer.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "know the answer."
+msgstr ""
+
+# mes "Think carefully";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Think carefully"
+msgstr ""
+
+# mes "and it will come.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and it will come."
+msgstr ""
+
+# mes "You remember that";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You remember that"
+msgstr ""
+
+# mes "you can learn Divine";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "you can learn Divine"
+msgstr ""
+
+# mes "Protection after learning";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Protection after learning"
+msgstr ""
+
+# mes "Blessing, right?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Blessing, right?"
+msgstr ""
+
+# mes "When you open the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "When you open the"
+msgstr ""
+
+# mes "Skill Window, you'll see that you can also learn ^3131FFDemon Bane^000000 and ^3131FFAngelus^000000, depending on your level of Divine Protection.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Skill Window, you'll see that you can also learn ^3131FFDemon Bane^000000 and ^3131FFAngelus^000000, depending on your level of Divine Protection."
+msgstr ""
+
+# mes "Now, ^3131FFDemon Bane^000000 increases your Attack Strength against Undead and Demon monsters, so it's useful for those of us who serve God by expelling evil.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now, ^3131FFDemon Bane^000000 increases your Attack Strength against Undead and Demon monsters, so it's useful for those of us who serve God by expelling evil."
+msgstr ""
+
+# mes "Once you have learned Level 3 Demon Bane, you can learn ^3131FFSignum Crucis^000000 which decreases the defense of the targeted Undead or Ghost monster.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Once you have learned Level 3 Demon Bane, you can learn ^3131FFSignum Crucis^000000 which decreases the defense of the targeted Undead or Ghost monster."
+msgstr ""
+
+# mes "^3131FFAngelus^000000 increases the defense in your party, including yourself. It is affected by the VIT stat, so the higher your VIT, the better it works.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFAngelus^000000 increases the defense in your party, including yourself. It is affected by the VIT stat, so the higher your VIT, the better it works."
+msgstr ""
+
+# mes "That's about it";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "That's about it"
+msgstr ""
+
+# mes "for Divine Protection.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "for Divine Protection."
+msgstr ""
+
+# mes "Let's take a break before";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Let's take a break before"
+msgstr ""
+
+# mes "we proceed to the next lesson,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "we proceed to the next lesson,"
+msgstr ""
+
+# mes "alright? I'll be right here.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "alright? I'll be right here."
+msgstr ""
+
+# mes "Now it's time";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now it's time"
+msgstr ""
+
+# mes "for your next lesson.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "for your next lesson."
+msgstr ""
+
+# mes "Let's talk about the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Let's talk about the"
+msgstr ""
+
+# mes "^3131FFIncrease AGI^000000 skill which is";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFIncrease AGI^000000 skill which is"
+msgstr ""
+
+# mes "part of the Heal skill tree.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "part of the Heal skill tree."
+msgstr ""
+
+# mes "You can learn Increase AGI after you learn Level 3 ^3131FFHeal^000000. True to its name, Increase AGI temporarily increases the ^3131FFagility (AGI)^000000 of its target.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You can learn Increase AGI after you learn Level 3 ^3131FFHeal^000000. True to its name, Increase AGI temporarily increases the ^3131FFagility (AGI)^000000 of its target."
+msgstr ""
+
+# mes "Increase AGI";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Increase AGI"
+msgstr ""
+
+# mes "also increases";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "also increases"
+msgstr ""
+
+# mes "^3131FFDodge Rate^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFDodge Rate^000000,"
+msgstr ""
+
+# mes "^3131FFAttack Speed^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFAttack Speed^000000,"
+msgstr ""
+
+# mes "and ^3131FFMovement Speed^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and ^3131FFMovement Speed^000000."
+msgstr ""
+
+# mes "Try it for";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Try it for"
+msgstr ""
+
+# mes "yourself, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "yourself, okay?"
+msgstr ""
+
+# mes "Once you learn";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Once you learn"
+msgstr ""
+
+# mes "Level 1 Increase AGI,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Level 1 Increase AGI,"
+msgstr ""
+
+# mes "you can begin learning";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "you can begin learning"
+msgstr ""
+
+# mes "^3131FFDecrease AGI^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "^3131FFDecrease AGI^000000."
+msgstr ""
+
+# mes "Like you'd expect, Decrease AGI slows down enemies, reducing their agility, Movement Speed, Dodge Rate and Attack Speed. Its effect is the exact reverse of Increase AGI.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Like you'd expect, Decrease AGI slows down enemies, reducing their agility, Movement Speed, Dodge Rate and Attack Speed. Its effect is the exact reverse of Increase AGI."
+msgstr ""
+
+# mes "The last skill in the Heal skill tree is ^3131FFCure^000000. You can learn Cure after learning Level 2 Heal.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "The last skill in the Heal skill tree is ^3131FFCure^000000. You can learn Cure after learning Level 2 Heal."
+msgstr ""
+
+# mes "Cure can remove irregular";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Cure can remove irregular"
+msgstr ""
+
+# mes "statuses like ^3131FFSilence^000000, ^3131FFCurse^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "statuses like ^3131FFSilence^000000, ^3131FFCurse^000000,"
+msgstr ""
+
+# mes "and ^3131FFStone Curse^000000. When used on Undead monsters, Cure will";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and ^3131FFStone Curse^000000. When used on Undead monsters, Cure will"
+msgstr ""
+
+# mes "actually curse them.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "actually curse them."
+msgstr ""
+
+# mes "For now, don't forget that the Increase AGI, Decrease AGI and";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "For now, don't forget that the Increase AGI, Decrease AGI and"
+msgstr ""
+
+# mes "Cure skills can only be learned";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Cure skills can only be learned"
+msgstr ""
+
+# mes "by learning the Heal skill.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "by learning the Heal skill."
+msgstr ""
+
+# mes "You've been learning";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You've been learning"
+msgstr ""
+
+# mes "really quickly. I'm glad";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "really quickly. I'm glad"
+msgstr ""
+
+# mes "that we've gotten to this";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "that we've gotten to this"
+msgstr ""
+
+# mes "point already.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "point already."
+msgstr ""
+
+# mes "Once you become";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Once you become"
+msgstr ""
+
+# mes "an Acolyte, you can";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "an Acolyte, you can"
+msgstr ""
+
+# mes "learn the ^3131FFRuwach^000000 skill.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "learn the ^3131FFRuwach^000000 skill."
+msgstr ""
+
+# mes "Ruwach is used to detect ^3131FFhidden enemies^000000. Mages have a similar skill called Sight, but only it can only detect enemies. Ruwach will simultaneously detect and";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ruwach is used to detect ^3131FFhidden enemies^000000. Mages have a similar skill called Sight, but only it can only detect enemies. Ruwach will simultaneously detect and"
+msgstr ""
+
+# mes "damage hidden enemies.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "damage hidden enemies."
+msgstr ""
+
+# mes "After you have learned Ruwach,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "After you have learned Ruwach,"
+msgstr ""
+
+# mes "you can learn ^3131FFTeleport^000000. Teleport will instantly send you to a random spot on the map or to your Save Point.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "you can learn ^3131FFTeleport^000000. Teleport will instantly send you to a random spot on the map or to your Save Point."
+msgstr ""
+
+# mes "After learning Level 2 Teleport, you can learn ^3131FFWarp Portal^000000 which will allow you to warp to a Memo Point, or saved destination, by consuming ^FF00001 Blue Gemstone^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "After learning Level 2 Teleport, you can learn ^3131FFWarp Portal^000000 which will allow you to warp to a Memo Point, or saved destination, by consuming ^FF00001 Blue Gemstone^000000."
+msgstr ""
+
+# mes "Once you have mastered Warp Portal you can ^3131FFremember three Memo Points^000000. You can't save Memo Points in in most fields or dungeons, but you can use the ^FF0000/memo^000000 command in";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Once you have mastered Warp Portal you can ^3131FFremember three Memo Points^000000. You can't save Memo Points in in most fields or dungeons, but you can use the ^FF0000/memo^000000 command in"
+msgstr ""
+
+# mes "towns and certain fields.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "towns and certain fields."
+msgstr ""
+
+# mes "Was that confusing?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Was that confusing?"
+msgstr ""
+
+# mes "Just think that Teleport";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Just think that Teleport"
+msgstr ""
+
+# mes "and Warp Portal allow servants";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and Warp Portal allow servants"
+msgstr ""
+
+# mes "of God to move swiftly from place";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "of God to move swiftly from place"
+msgstr ""
+
+# mes "to place.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to place."
+msgstr ""
+
+# mes "I have my home and the convent saved as Memo Points, so I simply warp back and forth between work and home.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I have my home and the convent saved as Memo Points, so I simply warp back and forth between work and home."
+msgstr ""
+
+# mes "Now...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now..."
+msgstr ""
+
+# mes "The last skill";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "The last skill"
+msgstr ""
+
+# mes "of the Ruwach tree";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "of the Ruwach tree"
+msgstr ""
+
+# mes "is called ^3131FFPneuma^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "is called ^3131FFPneuma^000000."
+msgstr ""
+
+# mes "Pneuma shields characters";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Pneuma shields characters"
+msgstr ""
+
+# mes "within a 3*3 block, or a 9 cell area, from ^FF0000long range attacks^000000. If you party with Archers or other Bow users, be careful since you might accidentally block their attacks.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "within a 3*3 block, or a 9 cell area, from ^FF0000long range attacks^000000. If you party with Archers or other Bow users, be careful since you might accidentally block their attacks."
+msgstr ""
+
+# mes "There are some Undead monsters";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "There are some Undead monsters"
+msgstr ""
+
+# mes "that can attack from a distance, so protecting yourself with Pneuma and attacking with Heal would be a good strategy.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "that can attack from a distance, so protecting yourself with Pneuma and attacking with Heal would be a good strategy."
+msgstr ""
+
+# mes "Now, we've covered some";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now, we've covered some"
+msgstr ""
+
+# mes "pretty complicated material in this lesson. Would you like to hear this again?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "pretty complicated material in this lesson. Would you like to hear this again?"
+msgstr ""
+
+# if(select("Listen again.", "Move to the next topic.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Listen again."
+msgstr ""
+
+# if(select("Listen again.", "Move to the next topic.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Move to the next topic."
+msgstr ""
+
+# mes "Alright,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Alright,"
+msgstr ""
+
+# mes "give me a moment";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "give me a moment"
+msgstr ""
+
+# mes "to catch my breath~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to catch my breath~"
+msgstr ""
+
+# mes "Ho ho!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ho ho!"
+msgstr ""
+
+# mes "What a smart Acolyte~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "What a smart Acolyte~"
+msgstr ""
+
+# mes "Oh dear...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh dear...!"
+msgstr ""
+
+# mes "All of these things were delivered to me by accident! And some of these packages were supposed to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "All of these things were delivered to me by accident! And some of these packages were supposed to"
+msgstr ""
+
+# mes "be sent to the Prontera Sanctuary!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "be sent to the Prontera Sanctuary!"
+msgstr ""
+
+# mes "Would you do another favor for me again? Please distribute the mail here and to Prontera Church since";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Would you do another favor for me again? Please distribute the mail here and to Prontera Church since"
+msgstr ""
+
+# mes "I simply don't have the time.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I simply don't have the time."
+msgstr ""
+
+# mes "It seems that some of these are more urgent than others, so would you please deliver them in a certain order?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "It seems that some of these are more urgent than others, so would you please deliver them in a certain order?"
+msgstr ""
+
+# mes "The first is a package to a worker in the north. His name is ^3131FFVeiner^000000. The next delivery is for ^3131FFHedrick^000000, who's near the convent entrance.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "The first is a package to a worker in the north. His name is ^3131FFVeiner^000000. The next delivery is for ^3131FFHedrick^000000, who's near the convent entrance."
+msgstr ""
+
+# mes "The third one is from the Blacksmith Guild to the ^3131FFBlacksmith^000000 who makes weapons and armor for Monks. The fourth delivery goes to ^3131FFPriest Karven^000000 in the next building.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "The third one is from the Blacksmith Guild to the ^3131FFBlacksmith^000000 who makes weapons and armor for Monks. The fourth delivery goes to ^3131FFPriest Karven^000000 in the next building."
+msgstr ""
+
+# mes "Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, the priest who told you about me.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, the priest who told you about me."
+msgstr ""
+
+# mes "Here you go, the letters and packages...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Here you go, the letters and packages..."
+msgstr ""
+
+# mes "Oh...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh...!"
+msgstr ""
+
+# mes "You don't seem to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You don't seem to"
+msgstr ""
+
+# mes "have enough space";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "have enough space"
+msgstr ""
+
+# mes "to carry everything.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to carry everything."
+msgstr ""
+
+# mes "Why don't you put some of your things in Kafra Storage first?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Why don't you put some of your things in Kafra Storage first?"
+msgstr ""
+
+# mes "Okay, don't";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Okay, don't"
+msgstr ""
+
+# mes "forget the order";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "forget the order"
+msgstr ""
+
+# mes "in which you need";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "in which you need"
+msgstr ""
+
+# mes "to deliver the letters";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to deliver the letters"
+msgstr ""
+
+# mes "and packages. That's";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and packages. That's"
+msgstr ""
+
+# mes "very important.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "very important."
+msgstr ""
+
+# mes "Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, the priest who told you about me. Alright, have a safe trip~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, the priest who told you about me. Alright, have a safe trip~"
+msgstr ""
+
+# mes "Ah, you're finishing";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ah, you're finishing"
+msgstr ""
+
+# mes "making all of those deliveries? Thank you very much! How was it meeting Priest Praupin after such";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "making all of those deliveries? Thank you very much! How was it meeting Priest Praupin after such"
+msgstr ""
+
+# mes "a long time?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "a long time?"
+msgstr ""
+
+# mes "We make relationships with other people throughout our lives and our memories of them live on in our hearts, you know.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "We make relationships with other people throughout our lives and our memories of them live on in our hearts, you know."
+msgstr ""
+
+# mes "When you feel lonely, let those memories shine through your dark gloom. Just thinking about the people you care about can heal your emotional wounds when times are rough.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "When you feel lonely, let those memories shine through your dark gloom. Just thinking about the people you care about can heal your emotional wounds when times are rough."
+msgstr ""
+
+# mes "Those who can cherish the present can form lasting relationships. They're the first who will embrace happiness in the future. Remember that.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Those who can cherish the present can form lasting relationships. They're the first who will embrace happiness in the future. Remember that."
+msgstr ""
+
+# mes "I get the feeling that you have become a good friend to Priest Praupin. I hope that Priest Praupin continues to be a good friend to you as well.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I get the feeling that you have become a good friend to Priest Praupin. I hope that Priest Praupin continues to be a good friend to you as well."
+msgstr ""
+
+# mes "Alright then,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Alright then,"
+msgstr ""
+
+# mes "the next time we";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "the next time we"
+msgstr ""
+
+# mes "meet, I will give";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "meet, I will give"
+msgstr ""
+
+# mes "you my final lesson.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "you my final lesson."
+msgstr ""
+
+# mes "I will teach you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I will teach you"
+msgstr ""
+
+# mes "about is ^3131FFAqua Benedicta^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "about is ^3131FFAqua Benedicta^000000."
+msgstr ""
+
+# mes "Water is so commonplace that";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Water is so commonplace that"
+msgstr ""
+
+# mes "we forget that it's at the center of nature. It's very basic, but essential.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "we forget that it's at the center of nature. It's very basic, but essential."
+msgstr ""
+
+# mes "Place the water into a cup like so and focus all of your holy energy like this... And then...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Place the water into a cup like so and focus all of your holy energy like this... And then..."
+msgstr ""
+
+# mes "Aqua";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Aqua"
+msgstr ""
+
+# mes "Benedicta!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Benedicta!"
+msgstr ""
+
+# mes "This is how you create ^3131FFHoly Water^000000. Remember that your ^3131FFfeet must be touching water^000000 in order to use the Aqua Benedicta skill.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "This is how you create ^3131FFHoly Water^000000. Remember that your ^3131FFfeet must be touching water^000000 in order to use the Aqua Benedicta skill."
+msgstr ""
+
+# mes "Ho ho~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Ho ho~"
+msgstr ""
+
+# mes "Well, that's all";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Well, that's all"
+msgstr ""
+
+# mes "I have to teach you.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I have to teach you."
+msgstr ""
+
+# mes "It may have been rough,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "It may have been rough,"
+msgstr ""
+
+# mes "but you did a good job.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "but you did a good job."
+msgstr ""
+
+# mes "Oh! If you go back to the Prontera Sanctuary, I believe you can learn a secret skill. It couldn't hurt to stop by and check.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh! If you go back to the Prontera Sanctuary, I believe you can learn a secret skill. It couldn't hurt to stop by and check."
+msgstr ""
+
+# mes "Well, please don't forget what I've taught you. I hope you look back with fondness at our time together amongst these beautiful flowers. May God bless you~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Well, please don't forget what I've taught you. I hope you look back with fondness at our time together amongst these beautiful flowers. May God bless you~"
+msgstr ""
+
+# mes "If you get into an";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "If you get into an"
+msgstr ""
+
+# mes "argument with someone,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "argument with someone,"
+msgstr ""
+
+# mes "talk it over while sharing";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "talk it over while sharing"
+msgstr ""
+
+# mes "a nice, warm meal.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "a nice, warm meal."
+msgstr ""
+
+# mes "With such warm delicious food in your body, all angry feelings will melt away like the snow.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "With such warm delicious food in your body, all angry feelings will melt away like the snow."
+msgstr ""
+
+# mes "I'm not joking!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I'm not joking!"
+msgstr ""
+
+# mes "If you happen to get in a fight with someone close to you, this might help. I'm speaking from life experience, you know.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "If you happen to get in a fight with someone close to you, this might help. I'm speaking from life experience, you know."
+msgstr ""
+
+# mes "[Priest Gardron]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "[Priest Gardron]"
+msgstr ""
+
+# mes "Hmm...?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Hmm...?"
+msgstr ""
+
+# mes "What's that?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "What's that?"
+msgstr ""
+
+# mes "You have something for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "You have something for me?"
+msgstr ""
+
+# mes "Oh! This is a letter from my mother back home. Thank you for bringing this to me, young Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Oh! This is a letter from my mother back home. Thank you for bringing this to me, young Acolyte."
+msgstr ""
+
+# mes "I've worried about";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "I've worried about"
+msgstr ""
+
+# mes "her, especially since";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "her, especially since"
+msgstr ""
+
+# mes "she is getting old now, but I'm relieved to hear that her health";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "she is getting old now, but I'm relieved to hear that her health"
+msgstr ""
+
+# mes "is good. We are truly blessed...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "is good. We are truly blessed..."
+msgstr ""
+
+# mes "You have something for";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "You have something for"
+msgstr ""
+
+# mes "me? A letter you say?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "me? A letter you say?"
+msgstr ""
+
+# mes "Well, it seems that";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Well, it seems that"
+msgstr ""
+
+# mes "you must have forgotten";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "you must have forgotten"
+msgstr ""
+
+# mes "it or misplaced it somewhere.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "it or misplaced it somewhere."
+msgstr ""
+
+# mes "Oh...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Oh...!"
+msgstr ""
+
+# mes "You've returned!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "You've returned!"
+msgstr ""
+
+# mes "Let's see... One...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Let's see... One..."
+msgstr ""
+
+# mes "Two... Three...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Two... Three..."
+msgstr ""
+
+# mes "Thank you very much!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Thank you very much!"
+msgstr ""
+
+# mes "You've done a great job";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "You've done a great job"
+msgstr ""
+
+# mes "on behalf of the convent,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "on behalf of the convent,"
+msgstr ""
+
+# mes "not to mention the fact that";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "not to mention the fact that"
+msgstr ""
+
+# mes "you've protected the citizens";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "you've protected the citizens"
+msgstr ""
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "of "
+msgstr ""
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Prontera"
+msgstr ""
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Payon"
+msgstr ""
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid " from danger."
+msgstr ""
+
+# mes "May you always";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "May you always"
+msgstr ""
+
+# mes "be blessed. Now, you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "be blessed. Now, you"
+msgstr ""
+
+# mes "should return to Sister";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "should return to Sister"
+msgstr ""
+
+# mes "Asthe to continue your";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Asthe to continue your"
+msgstr ""
+
+# mes "Acolyte training.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Acolyte training."
+msgstr ""
+
+# mes "A few days ago, a sister in Prontera";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "A few days ago, a sister in Prontera"
+msgstr ""
+
+# mes "sent me a telegram that citizens had been harmed";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "sent me a telegram that citizens had been harmed"
+msgstr ""
+
+# mes "by Hornets in the western field,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "by Hornets in the western field,"
+msgstr ""
+
+# mes "so she asked the abbey to help with them.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "so she asked the abbey to help with them."
+msgstr ""
+
+# mes "But at this time,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "But at this time,"
+msgstr ""
+
+# mes "we are also short of hands...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "we are also short of hands..."
+msgstr ""
+
+# mes "so it's a big problem.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "so it's a big problem."
+msgstr ""
+
+# mes "....!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "....!"
+msgstr ""
+
+# mes "May I entrust you, acolyte "+strcharinfo(PC_NAME)+",";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "May I entrust you, acolyte "
+msgstr ""
+
+# mes "this urgent matter?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "this urgent matter?"
+msgstr ""
+
+# mes "Please dispose of Hornets";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Please dispose of Hornets"
+msgstr ""
+
+# mes "which are causing trouble on ^FF0000the western field of Prontera^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "which are causing trouble on ^FF0000the western field of Prontera^000000."
+msgstr ""
+
+# mes "I know that you are undergoing the discipline,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "I know that you are undergoing the discipline,"
+msgstr ""
+
+# mes "So I will give you something to help you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "So I will give you something to help you"
+msgstr ""
+
+# mes "if you bring me ^3131FF 5^000000 ^3131FFBee Sting^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "if you bring me ^3131FF 5^000000 ^3131FFBee Sting^000000."
+msgstr ""
+
+# mes "Will you go to Prontera?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Will you go to Prontera?"
+msgstr ""
+
+# if(select("Let's go to Prontera!", "I'll be back after doing some preparation.") == 1) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Let's go to Prontera!"
+msgstr ""
+
+# if(select("Let's go to Prontera!", "I'll be back after doing some preparation.") == 1) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "I'll be back after doing some preparation."
+msgstr ""
+
+# mes "Okay, I will send you to Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Okay, I will send you to Prontera."
+msgstr ""
+
+# mes "Please dispose of Hornets and bring me 5 Bee Stings for confirmation.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Please dispose of Hornets and bring me 5 Bee Stings for confirmation."
+msgstr ""
+
+# mes "My Lord, please protect this acolyte from evil monsters.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "My Lord, please protect this acolyte from evil monsters."
+msgstr ""
+
+# mes "A little while ago, the Payon Elder sent me a message. Apparently,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "A little while ago, the Payon Elder sent me a message. Apparently,"
+msgstr ""
+
+# mes "the residents of Payon are being attacked by Zombies.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "the residents of Payon are being attacked by Zombies."
+msgstr ""
+
+# mes "He has requested the convent for help, but we've got a big problem. We're running out of people here that can deal with this situation...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "He has requested the convent for help, but we've got a big problem. We're running out of people here that can deal with this situation..."
+msgstr ""
+
+# mes "may I ask";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "may I ask"
+msgstr ""
+
+# mes "you to take care";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "you to take care"
+msgstr ""
+
+# mes "of this task? Exterminate the Skeletons and Zombies in the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "of this task? Exterminate the Skeletons and Zombies in the"
+msgstr ""
+
+# mes "First Floor of Payon Dungeon.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "First Floor of Payon Dungeon."
+msgstr ""
+
+# mes "Since you're still in basic training, I will give you some";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Since you're still in basic training, I will give you some"
+msgstr ""
+
+# mes "help if you return with";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "help if you return with"
+msgstr ""
+
+# mes "^3131FF5 Decayed Nails^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "^3131FF5 Decayed Nails^000000."
+msgstr ""
+
+# mes "Now then...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Now then..."
+msgstr ""
+
+# mes "Will you go to Payon?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Will you go to Payon?"
+msgstr ""
+
+# if(select("Let's go to Payon!", "Um, let me get ready first.")==1) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Let's go to Payon!"
+msgstr ""
+
+# if(select("Let's go to Payon!", "Um, let me get ready first.")==1) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Um, let me get ready first."
+msgstr ""
+
+# mes "Good, good.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Good, good."
+msgstr ""
+
+# mes "I shall send you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "I shall send you"
+msgstr ""
+
+# mes "there to fight the monsters in Payon Dungeon so that you can return with 5 Decayed Nails. May God bless you...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "there to fight the monsters in Payon Dungeon so that you can return with 5 Decayed Nails. May God bless you..."
+msgstr ""
+
+# mes "May light always";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "May light always"
+msgstr ""
+
+# mes "come and illuminate";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "come and illuminate"
+msgstr ""
+
+# mes "the darkness. In times";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "the darkness. In times"
+msgstr ""
+
+# mes "of hardship, remind us";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "of hardship, remind us"
+msgstr ""
+
+# mes "that there are no miracles";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "that there are no miracles"
+msgstr ""
+
+# mes "without hope...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "without hope..."
+msgstr ""
+
+# mes "[Dog]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "[Dog]"
+msgstr ""
+
+# mes "^CDB79EBark bark!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "^CDB79EBark bark!"
+msgstr ""
+
+# mes "Woof woof!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "Woof woof!^000000"
+msgstr ""
+
+# switch(select("Give a treat.", "Pet the dog.", "End actions.")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "Give a treat."
+msgstr ""
+
+# switch(select("Give a treat.", "Pet the dog.", "End actions.")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "Pet the dog."
+msgstr ""
+
+# switch(select("Give a treat.", "Pet the dog.", "End actions.")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "End actions."
+msgstr ""
+
+# mes "^CDB79EGrrrrrr...!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "^CDB79EGrrrrrr...!^000000"
+msgstr ""
+
+# mes "^3355FFThe dog grinds";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "^3355FFThe dog grinds"
+msgstr ""
+
+# mes "its teeth and glares";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "its teeth and glares"
+msgstr ""
+
+# mes "at you menacingly.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "at you menacingly.^000000"
+msgstr ""
+
+# mes "^CDB79ERoof roof!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "^CDB79ERoof roof!^000000"
+msgstr ""
+
+# mes "^CDB79ERoof roof~^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "^CDB79ERoof roof~^000000"
+msgstr ""
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "["
+msgstr ""
+
+# mes "So cute~!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Dog#tu"
+msgid "So cute~!"
+msgstr ""
+
+# mes "[??]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Boy#boy_voi"
+msgid "[??]"
+msgstr ""
+
+# mes "^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Boy#boy_voi"
+msgid "^333333*Sniff*^000000"
+msgstr ""
+
+# mes "Sister...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Boy#boy_voi"
+msgid "Sister..."
+msgstr ""
+
+# mes "[Angelic]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "[Angelic]"
+msgstr ""
+
+# mes "Thanks for helping me.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Thanks for helping me."
+msgstr ""
+
+# mes "I'm sad my older sister is no longer with me, but I oughta";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I'm sad my older sister is no longer with me, but I oughta"
+msgstr ""
+
+# mes "cheer up, right? I'll try my best!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "cheer up, right? I'll try my best!"
+msgstr ""
+
+# mes "Sister, don't go...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Sister, don't go..."
+msgstr ""
+
+# mes "^333333*Sniff* *Cough cough!*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^333333*Sniff* *Cough cough!*^000000"
+msgstr ""
+
+# mes "It h-hurts so... much...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "It h-hurts so... much...!"
+msgstr ""
+
+# mes "Sis...ter...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Sis...ter..."
+msgstr ""
+
+# mes "^333333*Sniff...*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^333333*Sniff...*^000000"
+msgstr ""
+
+# mes "Are you from";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Are you from"
+msgstr ""
+
+# mes "the convent?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "the convent?"
+msgstr ""
+
+# mes "...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "..."
+msgstr ""
+
+# mes "......";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "......"
+msgstr ""
+
+# mes "Save...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Save..."
+msgstr ""
+
+# mes "My sister...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "My sister..."
+msgstr ""
+
+# mes "^333333*Sniff sniff*";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^333333*Sniff sniff*"
+msgstr ""
+
+# mes "^333333*Cough cough*";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^333333*Cough cough*"
+msgstr ""
+
+# mes "H-hurts...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "H-hurts..."
+msgstr ""
+
+# select("Are you alright?");
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Are you alright?"
+msgstr ""
+
+# mes "She was so beautiful...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "She was so beautiful..."
+msgstr ""
+
+# mes "She was such a nice girl.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "She was such a nice girl."
+msgstr ""
+
+# mes "But then, one day...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "But then, one day..."
+msgstr ""
+
+# mes "This disgusting looking";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "This disgusting looking"
+msgstr ""
+
+# mes "person was coated in this icky stuff and attacked her. She was poisoned and her body became";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "person was coated in this icky stuff and attacked her. She was poisoned and her body became"
+msgstr ""
+
+# mes "colder and... ^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "colder and... ^333333*Sniff*^000000"
+msgstr ""
+
+# mes "I was with her and I got sick too. I wasn't poisoned as badly, but";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I was with her and I got sick too. I wasn't poisoned as badly, but"
+msgstr ""
+
+# mes "my whole body feels heavy and I've been having these nightmares...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "my whole body feels heavy and I've been having these nightmares..."
+msgstr ""
+
+# mes "^333333*Cough cough!*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^333333*Cough cough!*^000000"
+msgstr ""
+
+# mes "Will I join my";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Will I join my"
+msgstr ""
+
+# mes "sister like this?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "sister like this?"
+msgstr ""
+
+# mes "^3355FFThis girl looks";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^3355FFThis girl looks"
+msgstr ""
+
+# mes "really sick. Maybe you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "really sick. Maybe you"
+msgstr ""
+
+# mes "should take a better look";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "should take a better look"
+msgstr ""
+
+# mes "and see what's wrong.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "and see what's wrong.^000000"
+msgstr ""
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "["
+msgstr ""
+
+# mes "................";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "................"
+msgstr ""
+
+# mes "This is....!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "This is....!"
+msgstr ""
+
+# mes "A cursed spirit";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "A cursed spirit"
+msgstr ""
+
+# mes "is tormenting this";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "is tormenting this"
+msgstr ""
+
+# mes "poor young girl!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "poor young girl!"
+msgstr ""
+
+# mes "I'll cure you...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I'll cure you..."
+msgstr ""
+
+# mes "For sure.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "For sure."
+msgstr ""
+
+# mes "It hurts...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "It hurts...!"
+msgstr ""
+
+# mes "I... I can't...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I... I can't...!"
+msgstr ""
+
+# mes "^3355FFYou go towards";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^3355FFYou go towards"
+msgstr ""
+
+# mes "the girl, place your hands";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "the girl, place your hands"
+msgstr ""
+
+# mes "on her back and perform";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "on her back and perform"
+msgstr ""
+
+# mes "a holy spell...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "a holy spell...^000000"
+msgstr ""
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Heal!"
+msgstr ""
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Blessing!"
+msgstr ""
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Cure!"
+msgstr ""
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Recovery!"
+msgstr ""
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Signum Crucis!"
+msgstr ""
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "B.S Sacramenti!"
+msgstr ""
+
+# mes "H...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "H..."
+msgstr ""
+
+# mes "Heal !!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Heal !!"
+msgstr ""
+
+# mes "^3355FFNothing happened.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^3355FFNothing happened."
+msgstr ""
+
+# mes "It doesn't look like";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "It doesn't look like"
+msgstr ""
+
+# mes "that skill will work.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "that skill will work.^000000"
+msgstr ""
+
+# mes "B...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "B..."
+msgstr ""
+
+# mes "I...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I..."
+msgstr ""
+
+# mes "I did it!!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I did it!!"
+msgstr ""
+
+# mes "^3355FFWhat a great";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^3355FFWhat a great"
+msgstr ""
+
+# mes "chance for you to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "chance for you to"
+msgstr ""
+
+# mes "practice your abilities!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "practice your abilities!"
+msgstr ""
+
+# mes "It seemed that this good";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "It seemed that this good"
+msgstr ""
+
+# mes "deed has improved your skills.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "deed has improved your skills.^000000"
+msgstr ""
+
+# mes "Huh...?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Huh...?"
+msgstr ""
+
+# mes "It's not working...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "It's not working..."
+msgstr ""
+
+# mes "Maybe it's because";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Maybe it's because"
+msgstr ""
+
+# mes "I'm still learning?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I'm still learning?"
+msgstr ""
+
+# mes "^3355FFYou didn't learn";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^3355FFYou didn't learn"
+msgstr ""
+
+# mes "this skill yet, so you're";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "this skill yet, so you're"
+msgstr ""
+
+# mes "not able to use it for now.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "not able to use it for now.^000000"
+msgstr ""
+
+# mes "C-Cure...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "C-Cure...!"
+msgstr ""
+
+# mes "^3355FFThis isn't a skill";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "^3355FFThis isn't a skill"
+msgstr ""
+
+# mes "that Acolytes can use...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "that Acolytes can use...^000000"
+msgstr ""
+
+# mes "S-Signum...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "S-Signum..."
+msgstr ""
+
+# mes "Ah...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Ah..."
+msgstr ""
+
+# mes "I feel...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "I feel..."
+msgstr ""
+
+# mes "So relaxed.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "So relaxed."
+msgstr ""
+
+# mes "So much lighter...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "So much lighter..."
+msgstr ""
+
+# mes "Did you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Did you"
+msgstr ""
+
+# mes "do this?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "do this?"
+msgstr ""
+
+# mes "Is this the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Is this the"
+msgstr ""
+
+# mes "power of God?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "power of God?"
+msgstr ""
+
+# mes "[Veiner]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "[Veiner]"
+msgstr ""
+
+# mes "So very exhausted...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "So very exhausted..."
+msgstr ""
+
+# mes "Should I just go back home?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "Should I just go back home?"
+msgstr ""
+
+# mes "What's that?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "What's that?"
+msgstr ""
+
+# mes "You have a delivery";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "You have a delivery"
+msgstr ""
+
+# mes "for me? Why, what";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "for me? Why, what"
+msgstr ""
+
+# mes "ever could it be?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "ever could it be?"
+msgstr ""
+
+# mes "This is...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "This is...!"
+msgstr ""
+
+# mes "It's Handmade Chocolate";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "It's Handmade Chocolate"
+msgstr ""
+
+# mes "from my honey bunny!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "from my honey bunny!"
+msgstr ""
+
+# mes "Oh Bibi! You're the best!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "Oh Bibi! You're the best!"
+msgstr ""
+
+# mes "Oh right!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "Oh right!"
+msgstr ""
+
+# mes "Thank you very much for delivering this to me. Sorry, but I'm always excited to hear from my cutie pie~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "Thank you very much for delivering this to me. Sorry, but I'm always excited to hear from my cutie pie~"
+msgstr ""
+
+# mes "I can't wait";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "I can't wait"
+msgstr ""
+
+# mes "to see her again!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "to see her again!"
+msgstr ""
+
+# mes "Bibi...! I loooove you!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "Bibi...! I loooove you!"
+msgstr ""
+
+# mes "So very";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "So very"
+msgstr ""
+
+# mes "exhausted...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "exhausted..."
+msgstr ""
+
+# mes "Would you help";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "Would you help"
+msgstr ""
+
+# mes "me carry my stuff?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "me carry my stuff?"
+msgstr ""
+
+# mes "P-please...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "P-please..."
+msgstr ""
+
+# mes "[Hedrick]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "[Hedrick]"
+msgstr ""
+
+# mes "^333333*Whew!*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "^333333*Whew!*^000000"
+msgstr ""
+
+# mes "Man I worked hard today!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Man I worked hard today!"
+msgstr ""
+
+# mes "And so efficiently too!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "And so efficiently too!"
+msgstr ""
+
+# mes "Awesome job as usual,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Awesome job as usual,"
+msgstr ""
+
+# mes "Hedrick. You're number one!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Hedrick. You're number one!"
+msgstr ""
+
+# mes "Oh...?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Oh...?"
+msgstr ""
+
+# mes "Is this letter for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Is this letter for me?"
+msgstr ""
+
+# mes "I wonder who it's from.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "I wonder who it's from."
+msgstr ""
+
+# mes "Ah, it's from my mom!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Ah, it's from my mom!"
+msgstr ""
+
+# mes "Whoa...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Whoa...!"
+msgstr ""
+
+# mes "Holy cow!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Holy cow!"
+msgstr ""
+
+# mes "This letter is";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "This letter is"
+msgstr ""
+
+# mes "full of the energy";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "full of the energy"
+msgstr ""
+
+# mes "of motherly love!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "of motherly love!"
+msgstr ""
+
+# mes "Thanks a lot!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Thanks a lot!"
+msgstr ""
+
+# mes "Here, why don't";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "Here, why don't"
+msgstr ""
+
+# mes "you have one of the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "you have one of the"
+msgstr ""
+
+# mes "cookies she sent me?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Hedrick"
+msgid "cookies she sent me?"
+msgstr ""
+
+# mes "[Weapon Merchant]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Weapon Merchant#tu"
+msgid "[Weapon Merchant]"
+msgstr ""
+
+# mes "The stuff I requested from the guild is finally here!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Weapon Merchant#tu"
+msgid "The stuff I requested from the guild is finally here!"
+msgstr ""
+
+# mes "It's pretty tough to keep everything in stock since this is such a remote place.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Weapon Merchant#tu"
+msgid "It's pretty tough to keep everything in stock since this is such a remote place."
+msgstr ""
+
+# mes "Hey, thanks so much!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Weapon Merchant#tu"
+msgid "Hey, thanks so much!"
+msgstr ""
+
+# mes "Oh, and come here if";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Weapon Merchant#tu"
+msgid "Oh, and come here if"
+msgstr ""
+
+# mes "you need anything, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Weapon Merchant#tu"
+msgid "you need anything, okay?"
+msgstr ""
+
+# mes "[Karven]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "[Karven]"
+msgstr ""
+
+# mes "May you rest";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "May you rest"
+msgstr ""
+
+# mes "in peace forever...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "in peace forever..."
+msgstr ""
+
+# mes "I'm saying prayers";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "I'm saying prayers"
+msgstr ""
+
+# mes "for the recently departed.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "for the recently departed."
+msgstr ""
+
+# mes "If it's not urgent, please";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "If it's not urgent, please"
+msgstr ""
+
+# mes "come again at another time.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "come again at another time."
+msgstr ""
+
+# mes "A letter?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "A letter?"
+msgstr ""
+
+# mes "Oh. It must be from";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "Oh. It must be from"
+msgstr ""
+
+# mes "my younger sister.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "my younger sister."
+msgstr ""
+
+# mes "What could she want";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "What could she want"
+msgstr ""
+
+# mes "this time?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "this time?"
+msgstr ""
+
+# mes "I hope she realizes";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "I hope she realizes"
+msgstr ""
+
+# mes "the word of God and returns";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "the word of God and returns"
+msgstr ""
+
+# mes "to living a good life once";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "to living a good life once"
+msgstr ""
+
+# mes "again. Thank you very much.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "again. Thank you very much."
+msgstr ""
+
+# mes "rest in peace...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "rest in peace..."
+msgstr ""
+
+# mes "[Gloria]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "[Gloria]"
+msgstr ""
+
+# mes "Hi, hi~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Hi, hi~"
+msgstr ""
+
+# mes "I'm Gloria.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "I'm Gloria."
+msgstr ""
+
+# mes "You wanna know";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "You wanna know"
+msgstr ""
+
+# mes "something neat";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "something neat"
+msgstr ""
+
+# mes "about my name?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "about my name?"
+msgstr ""
+
+# mes "My father was a Blacksmith in Geffen, and supposedly he finished an incredible weapon on the day";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "My father was a Blacksmith in Geffen, and supposedly he finished an incredible weapon on the day"
+msgstr ""
+
+# mes "I was born. He thought it was a sign of good luck, so he named";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "I was born. He thought it was a sign of good luck, so he named"
+msgstr ""
+
+# mes "the weapon after me!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "the weapon after me!"
+msgstr ""
+
+# mes "It's a little strange knowing that there's a weapon named after";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "It's a little strange knowing that there's a weapon named after"
+msgstr ""
+
+# mes "you, but I like my name very much. I mean, it's not like my parents named me after that weapon, right?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "you, but I like my name very much. I mean, it's not like my parents named me after that weapon, right?"
+msgstr ""
+
+# mes "I'm still";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "I'm still"
+msgstr ""
+
+# mes "a young Acolyte";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "a young Acolyte"
+msgstr ""
+
+# mes "in training and I'm";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "in training and I'm"
+msgstr ""
+
+# mes "always making mistakes!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "always making mistakes!"
+msgstr ""
+
+# mes "^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "^333333*Sniff*^000000"
+msgstr ""
+
+# mes "And I get scolded";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "And I get scolded"
+msgstr ""
+
+# mes "almost all the time...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "almost all the time..."
+msgstr ""
+
+# mes "But there's one thing";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "But there's one thing"
+msgstr ""
+
+# mes "that I can do really well!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "that I can do really well!"
+msgstr ""
+
+# mes "Warp portal!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Warp portal!"
+msgstr ""
+
+# mes "I know Level 2 Warp Portal!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "I know Level 2 Warp Portal!"
+msgstr ""
+
+# mes "One of my Memo Points is here";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "One of my Memo Points is here"
+msgstr ""
+
+# mes "and the other is in Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "and the other is in Prontera."
+msgstr ""
+
+# mes "Anyway, whenever";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Anyway, whenever"
+msgstr ""
+
+# mes "you need to, I can";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "you need to, I can"
+msgstr ""
+
+# mes "send you to Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "send you to Prontera."
+msgstr ""
+
+# mes "Just let me know, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Just let me know, okay?"
+msgstr ""
+
+# switch(select("I'm okay for now.", "Send me to Prontera.")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "I'm okay for now."
+msgstr ""
+
+# switch(select("I'm okay for now.", "Send me to Prontera.")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Send me to Prontera."
+msgstr ""
+
+# mes "In order to use";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "In order to use"
+msgstr ""
+
+# mes "Warp Portal, you need";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Warp Portal, you need"
+msgstr ""
+
+# mes "one ^3131FFBlue Gemstone^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "one ^3131FFBlue Gemstone^000000."
+msgstr ""
+
+# mes "Is this to help me?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Is this to help me?"
+msgstr ""
+
+# mes "Wow, I'm touched!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Wow, I'm touched!"
+msgstr ""
+
+# mes "Leave it to me!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Leave it to me!"
+msgstr ""
+
+# mes "Here we go~!!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Here we go~!!"
+msgstr ""
+
+# mes "W-warp Portal!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "W-warp Portal!"
+msgstr ""
+
+# mes "Wow...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Wow..."
+msgstr ""
+
+# mes "Did you learn all that from Asthe? That's so great...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Did you learn all that from Asthe? That's so great..."
+msgstr ""
+
+# mes "You must be so much better than me that I can't even brag about warping to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "You must be so much better than me that I can't even brag about warping to"
+msgstr ""
+
+# mes "Prontera anymore. ^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Prontera anymore. ^333333*Sniff*^000000"
+msgstr ""
+
+# mes "[Cleope Verce]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "[Cleope Verce]"
+msgstr ""
+
+# mes "Oh my.. ";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Oh my.. "
+msgstr ""
+
+# mes "A newbie Acolyte?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "A newbie Acolyte?"
+msgstr ""
+
+# mes "It doesn't even seem";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "It doesn't even seem"
+msgstr ""
+
+# mes "like you've learned";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "like you've learned"
+msgstr ""
+
+# mes "that many skills?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "that many skills?"
+msgstr ""
+
+# mes "Ho ho~!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Ho ho~!"
+msgstr ""
+
+# mes "In my days";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "In my days"
+msgstr ""
+
+# mes "as an Acolyte,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "as an Acolyte,"
+msgstr ""
+
+# mes "I trained by attacking";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I trained by attacking"
+msgstr ""
+
+# mes "^3131FFgreen frogs^000000 till my knuckles";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "^3131FFgreen frogs^000000 till my knuckles"
+msgstr ""
+
+# mes "bled from all the punching!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "bled from all the punching!"
+msgstr ""
+
+# mes "I beat up ^3131FFwooden sticks";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I beat up ^3131FFwooden sticks"
+msgstr ""
+
+# mes "about to collapse^000000 and these";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "about to collapse^000000 and these"
+msgstr ""
+
+# mes "^3131FFhuge mushrooms^000000 all the time!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "^3131FFhuge mushrooms^000000 all the time!"
+msgstr ""
+
+# mes "I trained by fighting those ^3131FFdisgusting cockroaches^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I trained by fighting those ^3131FFdisgusting cockroaches^000000."
+msgstr ""
+
+# mes "Ugh...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Ugh..."
+msgstr ""
+
+# mes "Actually, that's not such a good memory when I think about it.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Actually, that's not such a good memory when I think about it."
+msgstr ""
+
+# mes "I trained by fighting ^3131FFZombies^000000 in the dungeon of that town with all of those trees.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I trained by fighting ^3131FFZombies^000000 in the dungeon of that town with all of those trees."
+msgstr ""
+
+# mes "You'll have to go through a lot until you reach the point where I'm at right now. Ho ho ho! You still have a looong way to go~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "You'll have to go through a lot until you reach the point where I'm at right now. Ho ho ho! You still have a looong way to go~"
+msgstr ""
+
+# mes "Good luck...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Good luck..."
+msgstr ""
+
+# mes "Rookie.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Rookie."
+msgstr ""
+
+# mes "A young Acolyte?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "A young Acolyte?"
+msgstr ""
+
+# mes "You seem to have just";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "You seem to have just"
+msgstr ""
+
+# mes "started learning your skills?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "started learning your skills?"
+msgstr ""
+
+# mes "When I was";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "When I was"
+msgstr ""
+
+# mes "around your age,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "around your age,"
+msgstr ""
+
+# mes "I'd fight with those ^3131FFwhite";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I'd fight with those ^3131FFwhite"
+msgstr ""
+
+# mes "mice^000000 and ^3131FFbig roaches^000000~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "mice^000000 and ^3131FFbig roaches^000000~"
+msgstr ""
+
+# mes "I'd walk straight into the";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I'd walk straight into the"
+msgstr ""
+
+# mes "^3131FFdepths of the ocean^000000 to find monsters to hunt.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "^3131FFdepths of the ocean^000000 to find monsters to hunt."
+msgstr ""
+
+# mes "I used to fight ^3131FFcreepy";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I used to fight ^3131FFcreepy"
+msgstr ""
+
+# mes "looking tree monsters^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "looking tree monsters^000000."
+msgstr ""
+
+# mes "I used to fight hundreds";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I used to fight hundreds"
+msgstr ""
+
+# mes "of ^3131FFuuuuuug~ly orcs^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "of ^3131FFuuuuuug~ly orcs^000000."
+msgstr ""
+
+# mes "I would fight the ^3131FFmonkeys";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I would fight the ^3131FFmonkeys"
+msgstr ""
+
+# mes "in front of the convent^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "in front of the convent^000000."
+msgstr ""
+
+# mes "Those were";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Those were"
+msgstr ""
+
+# mes "bad memories.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "bad memories."
+msgstr ""
+
+# mes "If someone told me";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "If someone told me"
+msgstr ""
+
+# mes "to go there again,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "to go there again,"
+msgstr ""
+
+# mes "I'd go insane.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I'd go insane."
+msgstr ""
+
+# mes "Still, it seems you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Still, it seems you"
+msgstr ""
+
+# mes "have a long way to go";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "have a long way to go"
+msgstr ""
+
+# mes "until you become a well";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "until you become a well"
+msgstr ""
+
+# mes "experienced Acolyte. Ho ho~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "experienced Acolyte. Ho ho~"
+msgstr ""
+
+# mes "Good luck,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Good luck,"
+msgstr ""
+
+# mes "young friend.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "young friend."
+msgstr ""
+
+# mes "Well, well, well~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Well, well, well~"
+msgstr ""
+
+# mes "Hello, young Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Hello, young Acolyte."
+msgstr ""
+
+# mes "You're still kind of";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "You're still kind of"
+msgstr ""
+
+# mes "green, but I guess you're";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "green, but I guess you're"
+msgstr ""
+
+# mes "not exactly a beginner either.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "not exactly a beginner either."
+msgstr ""
+
+# mes "I remember that when";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I remember that when"
+msgstr ""
+
+# mes "I was your age, I used to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "I was your age, I used to"
+msgstr ""
+
+# mes "fight these ^3131FFfearsome evil spirits^000000 all the time in that castle ^3131FFwest of Geffen^000000. I wonder how I survived";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "fight these ^3131FFfearsome evil spirits^000000 all the time in that castle ^3131FFwest of Geffen^000000. I wonder how I survived"
+msgstr ""
+
+# mes "all that?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "all that?"
+msgstr ""
+
+# mes "play with these ^3131FFcute";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "play with these ^3131FFcute"
+msgstr ""
+
+# mes "Poporings^000000 all the time!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Poporings^000000 all the time!"
+msgstr ""
+
+# mes "Still, I had to be careful from their attacks. At that time they were pretty strong!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Still, I had to be careful from their attacks. At that time they were pretty strong!"
+msgstr ""
+
+# mes "fight with ^3131FFgun shooting ghosts!^000000 Sure, they were scary, but beating them was a piece of cake if you have Pneuma!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "fight with ^3131FFgun shooting ghosts!^000000 Sure, they were scary, but beating them was a piece of cake if you have Pneuma!"
+msgstr ""
+
+# mes "beat up those ^3131FFarrow shooting devils^000000 almost everyday in the castle west of Geffen. Boy, was there a lot of them back then.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "beat up those ^3131FFarrow shooting devils^000000 almost everyday in the castle west of Geffen. Boy, was there a lot of them back then."
+msgstr ""
+
+# mes "battle these really ^3131FFfat pigs^000000. They were pretty strong, so they always gave me a hard time.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "battle these really ^3131FFfat pigs^000000. They were pretty strong, so they always gave me a hard time."
+msgstr ""
+
+# mes "beat up these ^3131FFliving chunks of";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "beat up these ^3131FFliving chunks of"
+msgstr ""
+
+# mes "sand in the desert^000000. I swear, they were alive!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "sand in the desert^000000. I swear, they were alive!"
+msgstr ""
+
+# mes "^333333*Sigh*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "^333333*Sigh*^000000"
+msgstr ""
+
+# mes "Ah, memories~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Ah, memories~"
+msgstr ""
+
+# mes "Of course, if I had";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Of course, if I had"
+msgstr ""
+
+# mes "the chance to do it all";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "the chance to do it all"
+msgstr ""
+
+# mes "over again, I don't know";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "over again, I don't know"
+msgstr ""
+
+# mes "if I would take it...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "if I would take it..."
+msgstr ""
+
+# mes "Anyway, you have";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Anyway, you have"
+msgstr ""
+
+# mes "plenty of adventures";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "plenty of adventures"
+msgstr ""
+
+# mes "waiting for you. I hope";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "waiting for you. I hope"
+msgstr ""
+
+# mes "you'll make many fond";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "you'll make many fond"
+msgstr ""
+
+# mes "memories when you're";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "memories when you're"
+msgstr ""
+
+# mes "still an Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "still an Acolyte."
+msgstr ""
+
+# mes "young friend~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "young friend~"
+msgstr ""
+
+# mes "Hmmm?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Hmmm?"
+msgstr ""
+
+# mes "It looks like you've";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "It looks like you've"
+msgstr ""
+
+# mes "learned quite a lot as";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "learned quite a lot as"
+msgstr ""
+
+# mes "an Acolyte! I hate to admit it,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "an Acolyte! I hate to admit it,"
+msgstr ""
+
+# mes "but you're too good for me to";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "but you're too good for me to"
+msgstr ""
+
+# mes "call you a rookie anymore~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "call you a rookie anymore~"
+msgstr ""
+
+# mes "Hello hello.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Hello hello."
+msgstr ""
+
+# mes "The sun is very";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "The sun is very"
+msgstr ""
+
+# mes "warm today, don't";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "warm today, don't"
+msgstr ""
+
+# mes "think? Very pleasant";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "think? Very pleasant"
+msgstr ""
+
+# mes "weather today...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "weather today..."
+msgstr ""
+
+# mes "[Sound by Window]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "#tu_monk"
+msgid "[Sound by Window]"
+msgstr ""
+
+# mes "...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "#tu_monk"
+msgid "..."
+msgstr ""
+
+# mes "^3355FFThere's some kind";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "#tu_monk"
+msgid "^3355FFThere's some kind"
+msgstr ""
+
+# mes "of noise coming from";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "#tu_monk"
+msgid "of noise coming from"
+msgstr ""
+
+# mes "yonder window...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "#tu_monk"
+msgid "yonder window...^000000"
+msgstr ""
+
+# mes "^3355FFThere's nothing here.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^3355FFThere's nothing here.^000000"
+msgstr ""
+
+# mes "[Voices from Window]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "[Voices from Window]"
+msgstr ""
+
+# mes "^A68064Sir...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064Sir..."
+msgstr ""
+
+# mes "Something doesn't";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Something doesn't"
+msgstr ""
+
+# mes "seem right at the palace.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "seem right at the palace.^000000"
+msgstr ""
+
+# mes "^CD6600What's wrong?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600What's wrong?"
+msgstr ""
+
+# mes "Did something happen?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Did something happen?^000000"
+msgstr ""
+
+# mes "^A68064I'm not sure.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I'm not sure."
+msgstr ""
+
+# mes "I can't explain exactly what it is, but the officials seem frightened about something. Maybe there";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "I can't explain exactly what it is, but the officials seem frightened about something. Maybe there"
+msgstr ""
+
+# mes "was some sort of accident?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "was some sort of accident?^000000"
+msgstr ""
+
+# mes "^CD6600Hmm, I wouldn't know.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Hmm, I wouldn't know."
+msgstr ""
+
+# mes "Why don't we just wait and see";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Why don't we just wait and see"
+msgstr ""
+
+# mes "what happens? I'm sure the truth will come out one way or another.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "what happens? I'm sure the truth will come out one way or another.^000000"
+msgstr ""
+
+# mes "^A68064 Alright, sir.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064 Alright, sir."
+msgstr ""
+
+# mes "Still, I can't help";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Still, I can't help"
+msgstr ""
+
+# mes "but feel uneasy...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "but feel uneasy...^000000"
+msgstr ""
+
+# mes "^A68064I heard from an";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I heard from an"
+msgstr ""
+
+# mes "official at the palace";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "official at the palace"
+msgstr ""
+
+# mes "that they're requesting";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "that they're requesting"
+msgstr ""
+
+# mes "us for an exorcism.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "us for an exorcism.^000000"
+msgstr ""
+
+# mes "^CD6600Exorcism?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Exorcism?"
+msgstr ""
+
+# mes "Did Zombies attack";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Did Zombies attack"
+msgstr ""
+
+# mes "the kingdom or something?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "the kingdom or something?^000000"
+msgstr ""
+
+# mes "^A68064No, I don't think";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064No, I don't think"
+msgstr ""
+
+# mes "that's the case, but";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "that's the case, but"
+msgstr ""
+
+# mes "they are requesting";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "they are requesting"
+msgstr ""
+
+# mes "a highly skilled holy person...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "a highly skilled holy person...^000000"
+msgstr ""
+
+# mes "^CD6600Hmm...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Hmm..."
+msgstr ""
+
+# mes "I wonder what";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "I wonder what"
+msgstr ""
+
+# mes "exactly is going on...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "exactly is going on...^000000"
+msgstr ""
+
+# mes "^A68064I will inform you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I will inform you"
+msgstr ""
+
+# mes "as soon as I hear";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "as soon as I hear"
+msgstr ""
+
+# mes "something.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "something.^000000"
+msgstr ""
+
+# mes "^CD6600Thank you...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Thank you...^000000"
+msgstr ""
+
+# mes "^A68064...Sir, do you know anything about the ^855E42curse of the Gaebolg family^A68064?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064...Sir, do you know anything about the ^855E42curse of the Gaebolg family^A68064?^000000"
+msgstr ""
+
+# mes "^CD6600The Gaebolg?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600The Gaebolg?"
+msgstr ""
+
+# mes "Are you telling me";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Are you telling me"
+msgstr ""
+
+# mes "there's a curse on";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "there's a curse on"
+msgstr ""
+
+# mes "the royal family?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "the royal family?^000000"
+msgstr ""
+
+# mes "^A68064Yes...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064Yes..."
+msgstr ""
+
+# mes "That may be why his";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "That may be why his"
+msgstr ""
+
+# mes "highness, King Tristam III,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "highness, King Tristam III,"
+msgstr ""
+
+# mes "and his courtiers have been";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "and his courtiers have been"
+msgstr ""
+
+# mes "acting strangely lately...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "acting strangely lately...^000000"
+msgstr ""
+
+# mes "^A68064You see...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064You see..."
+msgstr ""
+
+# mes "Yormungard is";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Yormungard is"
+msgstr ""
+
+# mes "said to have cursed";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "said to have cursed"
+msgstr ""
+
+# mes "the Gaebolg family when Rune-Midgarts was first established.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "the Gaebolg family when Rune-Midgarts was first established.^000000"
+msgstr ""
+
+# mes "^CD6600Yormungard?!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Yormungard?!"
+msgstr ""
+
+# mes "How can we hope";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "How can we hope"
+msgstr ""
+
+# mes "to combat its magic?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "to combat its magic?"
+msgstr ""
+
+# mes "Not even the Asgardians";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Not even the Asgardians"
+msgstr ""
+
+# mes "could deal with that";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "could deal with that"
+msgstr ""
+
+# mes "giant serpent's power!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "giant serpent's power!^000000"
+msgstr ""
+
+# mes "^A68064It's horrible...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064It's horrible..."
+msgstr ""
+
+# mes "Because of the curse,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Because of the curse,"
+msgstr ""
+
+# mes "the first child of every generation of the Gaebolg family will supposedly die an early death...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "the first child of every generation of the Gaebolg family will supposedly die an early death...^000000"
+msgstr ""
+
+# mes "^CD6600Are you saying that all of the first princes and princesses";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Are you saying that all of the first princes and princesses"
+msgstr ""
+
+# mes "have died to this day? If this is true, it'd cause trouble if word got out...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "have died to this day? If this is true, it'd cause trouble if word got out...^000000"
+msgstr ""
+
+# mes "^CD6600Is that what happened";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Is that what happened"
+msgstr ""
+
+# mes "in the palace? Did the eldest prince pass away recently?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "in the palace? Did the eldest prince pass away recently?^000000"
+msgstr ""
+
+# mes "^A68064 No...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064 No..."
+msgstr ""
+
+# mes "Actually, the second";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Actually, the second"
+msgstr ""
+
+# mes "eldest prince passed";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "eldest prince passed"
+msgstr ""
+
+# mes "away, not the first.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "away, not the first.^000000"
+msgstr ""
+
+# mes "^CD6600What!?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600What!?^000000"
+msgstr ""
+
+# mes "^A68064L-lower your voice!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064L-lower your voice!^000000"
+msgstr ""
+
+# mes "^CD6600So...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600So..."
+msgstr ""
+
+# mes "How did it happen?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "How did it happen?"
+msgstr ""
+
+# mes "Was it an accident?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Was it an accident?^000000"
+msgstr ""
+
+# mes "^A68064 They haven't determined";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064 They haven't determined"
+msgstr ""
+
+# mes "the exact reason of the death yet. But the court officials want us to see if we can undo Yormungard's curse once and for all.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "the exact reason of the death yet. But the court officials want us to see if we can undo Yormungard's curse once and for all.^000000"
+msgstr ""
+
+# mes "^CD6600Yormungard's curse?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Yormungard's curse?"
+msgstr ""
+
+# mes "Is it possible to remove it after so many years? Such ancient";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Is it possible to remove it after so many years? Such ancient"
+msgstr ""
+
+# mes "magic may be too powerful for";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "magic may be too powerful for"
+msgstr ""
+
+# mes "any of us in the Church...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "any of us in the Church...^000000"
+msgstr ""
+
+# mes "[Voice from Window]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "[Voice from Window]"
+msgstr ""
+
+# mes "^A68064This task is monumentally huge!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064This task is monumentally huge!"
+msgstr ""
+
+# mes "And if we should fail, we'd lose the faith of our constituents. The Church and the Royal Court truly need a miracle...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "And if we should fail, we'd lose the faith of our constituents. The Church and the Royal Court truly need a miracle...^000000"
+msgstr ""
+
+# mes "^CD6600Well, what's the Church's response? Are we really going to send someone to lift the curse of a monster that can challenge the Asgardians?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Well, what's the Church's response? Are we really going to send someone to lift the curse of a monster that can challenge the Asgardians?^000000"
+msgstr ""
+
+# mes "^A68064I'm not quite sure.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I'm not quite sure."
+msgstr ""
+
+# mes "Those that might have";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Those that might have"
+msgstr ""
+
+# mes "the necessary skill are";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "the necessary skill are"
+msgstr ""
+
+# mes "too old. Still, they're";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "too old. Still, they're"
+msgstr ""
+
+# mes "not giving up hope...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "not giving up hope...^000000"
+msgstr ""
+
+# mes "^A68064This situation is very important to the reputation of the royal family and stability of the kingdom, so everyone's been very careful";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064This situation is very important to the reputation of the royal family and stability of the kingdom, so everyone's been very careful"
+msgstr ""
+
+# mes "about keeping quiet.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "about keeping quiet.^000000"
+msgstr ""
+
+# mes "^A68064For now, I'll return to the kingdom and let you know if I hear of any other news. Still, since everyone needs to be so careful, it may be";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^A68064For now, I'll return to the kingdom and let you know if I hear of any other news. Still, since everyone needs to be so careful, it may be"
+msgstr ""
+
+# mes "a while until I learn anything new.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "a while until I learn anything new.^000000"
+msgstr ""
+
+# mes "^CD6600Thank you very much.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Thank you very much."
+msgstr ""
+
+# mes "I'll be waiting to hear";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "I'll be waiting to hear"
+msgstr ""
+
+# mes "from you again.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "from you again.^000000"
+msgstr ""
+
+# mes "^CD6600Oh dear God.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Oh dear God."
+msgstr ""
+
+# mes "Please expel the darkness that approaches the Rune-Midgarts Kingdom. Please protect us with your light and compassion.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "Please expel the darkness that approaches the Rune-Midgarts Kingdom. Please protect us with your light and compassion.^000000"
+msgstr ""
+
+# mes "[1st Job Quest]";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "[1st Job Quest]"
+msgstr ""
+
+# mes "Which would you like to reset?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Which would you like to reset?"
+msgstr ""
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Swordsman"
+msgstr ""
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Merchant"
+msgstr ""
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Archer"
+msgstr ""
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Acolyte"
+msgstr ""
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Thief"
+msgstr ""
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Mage"
+msgstr ""
+
+# mes "Completed.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "1st Job Quest Reset"
+msgid "Completed."
+msgstr ""
+

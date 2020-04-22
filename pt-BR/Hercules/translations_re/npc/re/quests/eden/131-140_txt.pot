@@ -1,0 +1,841 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-18 18:27:56+0200\n"
+"PO-Revision-Date: 2019-10-21 11:05\n"
+"Last-Translator: Haru (MishimaHaruna)\n"
+"Language-Team: Portuguese, Brazilian\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: pt-BR\n"
+"X-Crowdin-File: /master/Hercules/translations_re/npc/re/quests/eden/131-140_txt.pot\n"
+
+# mes "[Ragi]";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "[Ragi]"
+msgstr ""
+
+# mes "Only adventurers from Eden Group are welcome here.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Only adventurers from Eden Group are welcome here."
+msgstr ""
+
+# mes "I'm giving requests to base level ^FF0000130-140^000000 adventurers only.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I'm giving requests to base level ^FF0000130-140^000000 adventurers only."
+msgstr ""
+
+# mes "Hi. I'm the new member of the Dandelion band Ragi. I am making songs on behalf of Aigu. Are you interested in a story?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Hi. I'm the new member of the Dandelion band Ragi. I am making songs on behalf of Aigu. Are you interested in a story?"
+msgstr ""
+
+# mes "Haha. I am sorry to request to adventurers even though I am a new.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Haha. I am sorry to request to adventurers even though I am a new."
+msgstr ""
+
+# mes "Just take a look at the list. Can you help me if it is okay with you?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Just take a look at the list. Can you help me if it is okay with you?"
+msgstr ""
+
+# mes "I am collecting stories to make a song on behalf of Aigu.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I am collecting stories to make a song on behalf of Aigu."
+msgstr ""
+
+# if (select( "Request to collect stories", "Conversation" ) == 1) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Request to collect stories"
+msgstr ""
+
+# if (select( "Request to collect stories", "Conversation" ) == 1) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Conversation"
+msgstr ""
+
+# mes "This is the request of Aigu but it is dangerous. You should grow up more.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "This is the request of Aigu but it is dangerous. You should grow up more."
+msgstr ""
+
+# mes "This song and story is about monsters. ^FF0000Tell me the story about how you felt while you were fighting with them.^000000";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "This song and story is about monsters. ^FF0000Tell me the story about how you felt while you were fighting with them.^000000"
+msgstr ""
+
+# switch( select( "The story of the lost", "Story of devil", "Story from far away distance" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "The story of the lost"
+msgstr ""
+
+# switch( select( "The story of the lost", "Story of devil", "Story from far away distance" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Story of devil"
+msgstr ""
+
+# switch( select( "The story of the lost", "Story of devil", "Story from far away distance" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Story from far away distance"
+msgstr ""
+
+# mes "Lighthalzen has many stories that I'm sure are sad and lost. Their stories should not be forgotten so please tell me what you can.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Lighthalzen has many stories that I'm sure are sad and lost. Their stories should not be forgotten so please tell me what you can."
+msgstr ""
+
+# switch( select( "Egnigem Cenia (Swordman Monster)",
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Egnigem Cenia (Swordman Monster)"
+msgstr ""
+
+# "Armeyer Dinze (Merchant Monster)",
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Armeyer Dinze (Merchant Monster)"
+msgstr ""
+
+# "Wickebine Tres (Thief Monster)",
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Wickebine Tres (Thief Monster)"
+msgstr ""
+
+# "Kavach Icarus (Archer Monster)",
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Kavach Icarus (Archer Monster)"
+msgstr ""
+
+# "Errende Ebecee (Acolyte Monster)",
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Errende Ebecee (Acolyte Monster)"
+msgstr ""
+
+# "Laurell Weinder (Mage Monster)" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Laurell Weinder (Mage Monster)"
+msgstr ""
+
+# mes "Some adventurers tell me stories a little bit but they are not enough to make a song out of.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Some adventurers tell me stories a little bit but they are not enough to make a song out of."
+msgstr ""
+
+# mes "She is a sad swordman in such a far away place. What brought here there do you think?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "She is a sad swordman in such a far away place. What brought here there do you think?"
+msgstr ""
+
+# mes "These are very important stories to someone. I want to make a song with these stories. Please help me.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "These are very important stories to someone. I want to make a song with these stories. Please help me."
+msgstr ""
+
+# mes "Have you heard any new stories? Please tell me stories if you have any from your journey.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Have you heard any new stories? Please tell me stories if you have any from your journey."
+msgstr ""
+
+# mes "A sword woman who is stronger than any swordmen. Egnigem Cenia. That is her name. I am not sure if that is her or someone else.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "A sword woman who is stronger than any swordmen. Egnigem Cenia. That is her name. I am not sure if that is her or someone else."
+msgstr ""
+
+# mes "I can not lose her story. I really wish you to stop by.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I can not lose her story. I really wish you to stop by."
+msgstr ""
+
+# if (select( "Take the request", "Quit." ) == 1) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Take the request"
+msgstr ""
+
+# if (select( "Take the request", "Quit." ) == 1) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Quit."
+msgstr ""
+
+# mes "It will be more dangerous than you think. But story must be conveyed for everyone.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "It will be more dangerous than you think. But story must be conveyed for everyone."
+msgstr ""
+
+# mes "How far could she have continued her journey? I guess she could not do it alone.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "How far could she have continued her journey? I guess she could not do it alone."
+msgstr ""
+
+# mes "You do not wonder why that journey should have stopped?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "You do not wonder why that journey should have stopped?"
+msgstr ""
+
+# mes "I want to make a song with these stories. Please help me.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I want to make a song with these stories. Please help me."
+msgstr ""
+
+# mes "A daughter of a merchant. Armeyer Dinze, she looks like a rich woman. But she looks insecure.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "A daughter of a merchant. Armeyer Dinze, she looks like a rich woman. But she looks insecure."
+msgstr ""
+
+# mes "What made her disappear? Or for what? Please listen to her story.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "What made her disappear? Or for what? Please listen to her story."
+msgstr ""
+
+# mes "It will be more dangerous than you think. But the story must be conveyed.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "It will be more dangerous than you think. But the story must be conveyed."
+msgstr ""
+
+# mes "What might have moved her mind? She only cared about money.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "What might have moved her mind? She only cared about money."
+msgstr ""
+
+# mes "I wonder how far her heart has been reached? Please listen to her story. Please tell me.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I wonder how far her heart has been reached? Please listen to her story. Please tell me."
+msgstr ""
+
+# mes "Please make a song for us.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please make a song for us."
+msgstr ""
+
+# mes "Nobody knows how it has started. Wickebine Tres is the name who could have found a true companion.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Nobody knows how it has started. Wickebine Tres is the name who could have found a true companion."
+msgstr ""
+
+# mes "She was the one who only cared for money. How far has her journey continued? Please listen to her story in Lighthalzen.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "She was the one who only cared for money. How far has her journey continued? Please listen to her story in Lighthalzen."
+msgstr ""
+
+# mes "Yes. It seems that I have heard the same name from Payon. I am not sure it means the same.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Yes. It seems that I have heard the same name from Payon. I am not sure it means the same."
+msgstr ""
+
+# mes "Please try to find him or a bow at Lighthalzen.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please try to find him or a bow at Lighthalzen."
+msgstr ""
+
+# mes "Please do not forget to tell me any story you hear.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please do not forget to tell me any story you hear."
+msgstr ""
+
+# mes "Kavach Icarus is the name whose hands are faster than eyes and shoots arrows swiftly.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Kavach Icarus is the name whose hands are faster than eyes and shoots arrows swiftly."
+msgstr ""
+
+# mes "I heard his shadow and his arrow are wandering somewhere. Please go to Lighthalzen and tell me his story.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I heard his shadow and his arrow are wandering somewhere. Please go to Lighthalzen and tell me his story."
+msgstr ""
+
+# mes "Please be careful of his arrows. You may have laid down on the cold floor before this story is finished.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please be careful of his arrows. You may have laid down on the cold floor before this story is finished."
+msgstr ""
+
+# mes "No matter if it was for friendship or a mission. If that journey was for someone, It would not be easy to stop the journey.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "No matter if it was for friendship or a mission. If that journey was for someone, It would not be easy to stop the journey."
+msgstr ""
+
+# mes "What made stopped their journey? What kind of story is in it?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "What made stopped their journey? What kind of story is in it?"
+msgstr ""
+
+# mes "Please check that story in Lighthalzen.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please check that story in Lighthalzen."
+msgstr ""
+
+# mes "Errende Ebecee is the one who started a journey to look for someone.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Errende Ebecee  is the one who started a journey to look for someone."
+msgstr ""
+
+# mes "But I guess... His journey also might have stopped somewhere in Lighthalzen. Please listen to his story.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "But I guess... His journey also might have stopped somewhere in Lighthalzen. Please listen to his story."
+msgstr ""
+
+# mes "Please be careful not get lost like these ^FF0000poor souls^000000.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please be careful not get lost like these ^FF0000poor souls^000000."
+msgstr ""
+
+# mes "By the way. I have read a book called ^FF0000How to be a wizard^000000...";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "By the way. I have read a book called ^FF0000How to be a wizard^000000..."
+msgstr ""
+
+# mes "According to that book, some magic by 25 years olds can be stronger than older wizards.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "According to that book, some magic by 25 years olds can be stronger than older wizards."
+msgstr ""
+
+# mes "What are you listening to seriously? Let's finish the request about Laurell Weinders story!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "What are you listening to seriously? Let's finish the request about Laurell Weinders story!"
+msgstr ""
+
+# mes "Laurell Weinder, who decided to have a difficult journey to repay gratitude for some wizards deed.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Laurell Weinder, who decided to have a difficult journey to repay gratitude for some wizards deed."
+msgstr ""
+
+# mes "But... These talented wizards could not return? Who made them? Find a clue in Lighthalzen.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "But... These talented wizards could not return? Who made them? Find a clue in Lighthalzen."
+msgstr ""
+
+# mes "I like this story but be careful if you do not want to end up a story yourself.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I like this story but be careful if you do not want to end up a story yourself."
+msgstr ""
+
+# mes "Do you know the story about Satan Morroc? I want to sing a song of their story even when time passes by.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Do you know the story about Satan Morroc? I want to sing a song of their story even when time passes by."
+msgstr ""
+
+# switch( select( "Angel Incarnation", "Black Nightmare Incarnation", "Ghost Incarnation" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Angel Incarnation"
+msgstr ""
+
+# switch( select( "Angel Incarnation", "Black Nightmare Incarnation", "Ghost Incarnation" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Black Nightmare Incarnation"
+msgstr ""
+
+# switch( select( "Angel Incarnation", "Black Nightmare Incarnation", "Ghost Incarnation" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Ghost Incarnation"
+msgstr ""
+
+# mes "A monster from Morroc has wings like an angel. Maybe, Satan Morocc wants to be an angel?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "A monster from Morroc has wings like an angel. Maybe, Satan Morocc wants to be an angel?"
+msgstr ""
+
+# mes "Haha please do not mind. It is just joke of a story teller. Please give me another story next time.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Haha please do not mind. It is just joke of a story teller. Please give me another story next time."
+msgstr ""
+
+# mes "Appearance looks fine but inside.. I am sure they are flesh and blood!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Appearance looks fine but inside.. I am sure they are flesh and blood!"
+msgstr ""
+
+# mes "Of course, I did not check by myself. But I am just a story teller as you see.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Of course, I did not check by myself. But I am just a story teller as you see."
+msgstr ""
+
+# mes "But it is not safe.. So be careful! Please give me more stories! Maybe I can meet Satan Morocc somewhere around here?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "But it is not safe.. So be careful! Please give me more stories! Maybe I can meet Satan Morocc somewhere around here?"
+msgstr ""
+
+# mes "Wow. There are so many stories coming to me! Thanks to you!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Wow. There are so many stories coming to me! Thanks to you!"
+msgstr ""
+
+# mes "Well... This song is not about the prince of darkness, but it is taken from people who claim to have seen him.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Well... This song is not about the prince of darkness, but it is taken from people who claim to have seen him."
+msgstr ""
+
+# mes "Please help me to make a story by searching the flying Incarnations of Morocc.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please help me to make a story by searching the flying Incarnations of Morocc."
+msgstr ""
+
+# mes "Be sure to get at least 30 Angel looking Incarnations of Morocc.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Be sure to get at least 30 Angel looking Incarnations of Morocc."
+msgstr ""
+
+# mes "Story is not made yet, so I will ask next time !";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Story is not made yet, so I will ask next time !"
+msgstr ""
+
+# mes "The shape is not completed but it has a very sharp tooth.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "The shape is not completed but it has a very sharp tooth."
+msgstr ""
+
+# mes "Do not you think that is going to be a very funny story?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Do not you think that is going to be a very funny story?"
+msgstr ""
+
+# mes "I do not know if everything came out from Satan Morocc himself but things like this look horrible.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I do not know if everything came out from Satan Morocc himself but things like this look horrible."
+msgstr ""
+
+# mes "But I think there also will be a story in it. That is why those creature are made. Please look for something black and tar-like.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "But I think there also will be a story in it. That is why those creature are made. Please look for something black and tar-like."
+msgstr ""
+
+# mes "Find and get rid of 30 Dark Incarnation of Morocc.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Find and get rid of 30 Dark Incarnation of Morocc."
+msgstr ""
+
+# mes "The creature without clothing has very weird shape. Haha do not take it seriously. I am just a story teller.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "The creature without clothing has very weird shape. Haha do not take it seriously. I am just a story teller."
+msgstr ""
+
+# mes "This story should be spread out for weak adventurers like me! Because not everyone can be adventurer.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "This story should be spread out for weak adventurers like me! Because not everyone can be adventurer."
+msgstr ""
+
+# mes "Maybe, adventurers have a good merit to know this kind of story. So can you please look for these creatures near Morroc?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Maybe, adventurers have a good merit to know this kind of story. So can you please look for these creatures near Morroc?"
+msgstr ""
+
+# mes "This one is weird.. But he is also is an Incarnation of Morocc.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "This one is weird.. But he is also is an Incarnation of Morocc."
+msgstr ""
+
+# mes "But I am curious because it looks like a ghost and attacks does not work.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "But I am curious because it looks like a ghost and attacks does not work."
+msgstr ""
+
+# mes "Please make a story after hunting at least 30 Ghost Incarnation of Morocc!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please make a story after hunting at least 30 Ghost Incarnation of Morocc!"
+msgstr ""
+
+# mes "I never been to Ash Vacuum but I heard there are many interesting creatures there in the Scaraba Hall.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I never been to Ash Vacuum but I heard there are many interesting creatures there in the Scaraba Hall."
+msgstr ""
+
+# switch( select( "Uni-Horn Scaraba Story", "Horn Scaraba Story", "Antler Scaraba Story", "Rake Horn Scaraba Story" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Uni-Horn Scaraba Story"
+msgstr ""
+
+# switch( select( "Uni-Horn Scaraba Story", "Horn Scaraba Story", "Antler Scaraba Story", "Rake Horn Scaraba Story" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Horn Scaraba Story"
+msgstr ""
+
+# switch( select( "Uni-Horn Scaraba Story", "Horn Scaraba Story", "Antler Scaraba Story", "Rake Horn Scaraba Story" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Antler Scaraba Story"
+msgstr ""
+
+# switch( select( "Uni-Horn Scaraba Story", "Horn Scaraba Story", "Antler Scaraba Story", "Rake Horn Scaraba Story" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Rake Horn Scaraba Story"
+msgstr ""
+
+# mes "I am making a story about Uni-Horn Scaraba. One means less than two!~ I started but it is difficult to finish. Can you help me?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I am making a story about Uni-Horn Scaraba. One means less than two!~ I started but it is difficult to finish. Can you help me?"
+msgstr ""
+
+# mes "They also have some stories right? First, I wonder about the shape of the one with one horn.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "They also have some stories right? First, I wonder about the shape of the one with one horn."
+msgstr ""
+
+# mes "I wonder what Uni-Horn Scarabas think? I want to make a song. Thanks for your help!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I wonder what Uni-Horn Scarabas think? I want to make a song. Thanks for your help!"
+msgstr ""
+
+# mes "New world is full of amazing monsters. They will become a dream for children who want to be adventurers.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "New world is full of amazing monsters. They will become a dream for children who want to be adventurers."
+msgstr ""
+
+# mes "I want to make a song about the ^FF0000Uni-Horn Scaraba^000000!? Children will really like it.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I want to make a song about the ^FF0000Uni-Horn Scaraba^000000!? Children will really like it."
+msgstr ""
+
+# mes "You can find them near somewhere in the east at Scaraba Hall.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "You can find them near somewhere in the east at Scaraba Hall."
+msgstr ""
+
+# mes "I am making a story... Two means less than three~ I started to make a story but I can not finish. Will you help me?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I am making a story... Two means less than three~ I started to make a story but I can not finish. Will you help me?"
+msgstr ""
+
+# mes "That horn thing bothers me a little bit. What is the difference between one and two horns? Just appearance?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "That horn thing bothers me a little bit. What is the difference between one and two horns? Just appearance?"
+msgstr ""
+
+# mes "Maybe it is unnecessary. But curiosity is important for story tellers. Hahaha.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Maybe it is unnecessary. But curiosity is important for story tellers. Hahaha."
+msgstr ""
+
+# mes "You came back safely! How is it? Horn Scaraba seemed to be a fun story. You really did a good job.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "You came back safely! How is it? Horn Scaraba seemed to be a fun story. You really did a good job."
+msgstr ""
+
+# mes "We talk about Horn Scaraba? There is one more we should mention.. That is Horn Scaraba!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "We talk about Horn Scaraba? There is one more we should mention.. That is Horn Scaraba!"
+msgstr ""
+
+# mes "I do no know why. I just heard from people. I need to make a song so please take a look at their world!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I do no know why. I just heard from people. I need to make a song so please take a look at their world!"
+msgstr ""
+
+# mes "There seem to be more story about Antler Scaraba! Please help me if you have time.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "There seem to be more story about Antler Scaraba! Please help me if you have time."
+msgstr ""
+
+# mes "There seemed to be more special Scarabas according to rumors. Stronger and more scary ones.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "There seemed to be more special Scarabas according to rumors. Stronger and more scary ones."
+msgstr ""
+
+# mes "Do you think Antler Scaraba might be one of them?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Do you think Antler Scaraba might be one of them?"
+msgstr ""
+
+# mes "It must be tiring traveling long distance! Please tell me if there are more interesting stories!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "It must be tiring traveling long distance! Please tell me if there are more interesting stories!"
+msgstr ""
+
+# mes "This one is very unique! Horns look like the one of a deer so it is called an Antler Scaraba.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "This one is very unique! Horns look like the one of a deer so it is called an Antler Scaraba."
+msgstr ""
+
+# mes "Aren't you curious why it has that horn? I think it has an interesting story that people would like. Shall I ask you adventurer?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Aren't you curious why it has that horn? I think it has an interesting story that people would like. Shall I ask you adventurer?"
+msgstr ""
+
+# mes "Can you please find a story about Antler Scaraba? Experience yourself is the best I guess!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Can you please find a story about Antler Scaraba? Experience yourself is the best I guess!"
+msgstr ""
+
+# mes "I feel like Rake Horn Scaraba has more story. Please help me if you have time.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I feel like Rake Horn Scaraba has more story. Please help me if you have time."
+msgstr ""
+
+# mes "Here my plan is. I am making 4 passages for each Scaraba.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Here my plan is. I am making 4 passages for each Scaraba."
+msgstr ""
+
+# mes "Whoever listen or sing will be confused to sing a troll. It sounds fun, right?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Whoever listen or sing will be confused to sing a troll. It sounds fun, right?"
+msgstr ""
+
+# mes "Thank you ! I am sure that I can make a great song.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Thank you ! I am sure that I can make a great song."
+msgstr ""
+
+# mes "I'm starting to get confused. I am going to make a song of the Rake Horn Scarabas story.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I'm starting to get confused. I am going to make a song of the Rake Horn Scarabas story."
+msgstr ""
+
+# mes "A song begins with Uni-horn Scaraba then sing along with Rake Horn Scaraba. Will you help me?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "A song begins with Uni-horn Scaraba then sing along with Rake Horn Scaraba. Will you help me?"
+msgstr ""
+
+# mes "Please find a story about Rake Horn Scaraba from Scaraba Hall. Battle or experienced stories are fine.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please find a story about Rake Horn Scaraba from Scaraba Hall. Battle or experienced stories are fine."
+msgstr ""
+
+# mes "Music and Stories continues to be collected. Finding Adventure is not bad been an Adventurer.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Music and Stories continues to be collected. Finding Adventure is not bad been an Adventurer."
+msgstr ""
+
+# mes "[Smiling.]Goodbye... I hope, one day we will meet elsewhere.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "[Smiling.]Goodbye... I hope, one day we will meet elsewhere."
+msgstr ""
+
+# mes "Well, I am kind of busy doing an errand for Sir Aigu. Do you have any questions?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Well, I am kind of busy doing an errand for Sir Aigu. Do you have any questions?"
+msgstr ""
+
+# switch( select( "Where did you get your hair-do?", "Please sing a song for me.", "Do you have a girl friend?", "About Aigu" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Where did you get your hair-do?"
+msgstr ""
+
+# switch( select( "Where did you get your hair-do?", "Please sing a song for me.", "Do you have a girl friend?", "About Aigu" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Please sing a song for me."
+msgstr ""
+
+# switch( select( "Where did you get your hair-do?", "Please sing a song for me.", "Do you have a girl friend?", "About Aigu" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Do you have a girl friend?"
+msgstr ""
+
+# switch( select( "Where did you get your hair-do?", "Please sing a song for me.", "Do you have a girl friend?", "About Aigu" ) ) {
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "About Aigu"
+msgstr ""
+
+# mes "There is a fine hair artist in Alberta. He butchered my hair with a some cooking scissors. Looks illegal.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "There is a fine hair artist in Alberta. He butchered my hair with a some cooking scissors. Looks illegal."
+msgstr ""
+
+# mes "Sometimes, hair-dos or color are strange... but I was lucky I didn't die.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Sometimes, hair-dos or color are strange... but I was lucky I didn't die."
+msgstr ""
+
+# mes "I did not make a song as a member of band yet. Someday, I will make a great song for you!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I did not make a song as a member of band yet. Someday, I will make a great song for you!"
+msgstr ""
+
+# mes "......";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "......"
+msgstr ""
+
+# mes "Aigu is only on my mind. I can not think of anything else. I am fine even if it is just a one-sided love...";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Aigu is only on my mind. I can not think of anything else. I am fine even if it is just a one-sided love..."
+msgstr ""
+
+# mes "I will never forget the first day I met her. She stared at me out of all the people in Izlude port. Now I help her by doing small errands.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I will never forget the first day I met her. She stared at me out of all the people in Izlude port. Now I help her by doing small errands."
+msgstr ""
+
+# mes "But alas, I think Aigu likes someone else. ^FF0000We've never met... But I hate him.^000000";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "But alas, I think Aigu likes someone else. ^FF0000We've never met... But I hate him.^000000"
+msgstr ""
+
+# mes "But I hate myself more because I want to stay around her even if she will never see me. Haha was I too serious?";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "But I hate myself more because I want to stay around her even if she will never see me. Haha was I too serious?"
+msgstr ""
+
+# mes "I am just a storyteller.. Any story can be made up. Most of the times it contains the truth.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I am just a storyteller.. Any story can be made up. Most of the times it contains the truth."
+msgstr ""
+
+# mes "Okay, I'll ask Someone else to finish portion of "+ getarg(.@i+2) +".";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Okay, I'll ask Someone else to finish portion of "
+msgstr ""
+
+# mes "I'll ask someone else to take care of the rest of the Satan Morroc Incarnations, then!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I'll ask someone else to take care of the rest of the Satan Morroc Incarnations, then!"
+msgstr ""
+
+# mes "I'll need to ask another adventurer to help with the Scaraba!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "I'll need to ask another adventurer to help with the Scaraba!"
+msgstr ""
+
+# mes "So you've heard the story of "+ getarg(.@i+2) +", then? Thanks so much. I'll definitely write a good song.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "So you've heard the story of "
+msgstr ""
+
+# mes "Was the story of Satan Morroc worth putting to song? Great work!";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Was the story of Satan Morroc worth putting to song? Great work!"
+msgstr ""
+
+# mes "Did you enjoy your long adventure? Tell me about it someday.";
+#: npc/re/quests/eden/131-140.txt
+msgctxt "Ragi#1"
+msgid "Did you enjoy your long adventure? Tell me about it someday."
+msgstr ""
+

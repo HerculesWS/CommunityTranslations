@@ -1,0 +1,1254 @@
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hercules\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2019-10-21 10:33:26+0200\n"
+"PO-Revision-Date: 2020-04-22 09:31\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: hercules\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/Hercules/translations_pre/npc/jobs/1-1e/gunslinger_txt.pot\n"
+
+# mes "[Master Miller]";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "[Master Miller]"
+msgstr ""
+
+# mes "Well, aren't you an";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Well, aren't you an"
+msgstr ""
+
+# mes "adorable little child~";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "adorable little child~"
+msgstr ""
+
+# mes "Where's your mommy?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Where's your mommy?"
+msgstr ""
+
+# mes "This place is dangerous, so";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "This place is dangerous, so"
+msgstr ""
+
+# mes "please go home soon, okay?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "please go home soon, okay?"
+msgstr ""
+
+# mes "Interested in becoming";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Interested in becoming"
+msgstr ""
+
+# mes "a Gunslinger, eh? You've";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "a Gunslinger, eh? You've"
+msgstr ""
+
+# mes "got potential, but you're";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "got potential, but you're"
+msgstr ""
+
+# mes "not yet experienced enough.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "not yet experienced enough."
+msgstr ""
+
+# mes "Just train yourself a bit more,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Just train yourself a bit more,"
+msgstr ""
+
+# mes "and then come back, you hear?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "and then come back, you hear?"
+msgstr ""
+
+# mes "I'm Miller, a full time";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "I'm Miller, a full time"
+msgstr ""
+
+# mes "Gunslinger drillmaster, and";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Gunslinger drillmaster, and"
+msgstr ""
+
+# mes "full time guardian for Lady";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "full time guardian for Lady"
+msgstr ""
+
+# mes "Selena. Now, what do you";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Selena. Now, what do you"
+msgstr ""
+
+# mes "need? If it's not important, then I can't make the time for you.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "need? If it's not important, then I can't make the time for you."
+msgstr ""
+
+# if(select("Nothing.", "I want to become a Gunslinger.") == 1) {
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Nothing."
+msgstr ""
+
+# if(select("Nothing.", "I want to become a Gunslinger.") == 1) {
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "I want to become a Gunslinger."
+msgstr ""
+
+# mes "Don't waste my time.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Don't waste my time."
+msgstr ""
+
+# mes "If you do want to become";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "If you do want to become"
+msgstr ""
+
+# mes "a Gunslinger, then come";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "a Gunslinger, then come"
+msgstr ""
+
+# mes "back and talk to me.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "back and talk to me."
+msgstr ""
+
+# mes "Hm. You're pretty young, but";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Hm. You're pretty young, but"
+msgstr ""
+
+# mes "your eyes tell me that you're";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "your eyes tell me that you're"
+msgstr ""
+
+# mes "pretty ambitious. You'll need to pass our interview and educational";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "pretty ambitious. You'll need to pass our interview and educational"
+msgstr ""
+
+# mes "course to become a Gunslinger. Do you want to apply for the job?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "course to become a Gunslinger. Do you want to apply for the job?"
+msgstr ""
+
+# if(select("Give me some time to think.", "Sure!") == 1) {
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Give me some time to think."
+msgstr ""
+
+# if(select("Give me some time to think.", "Sure!") == 1) {
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Sure!"
+msgstr ""
+
+# mes "Understandable.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Understandable."
+msgstr ""
+
+# mes "If you do decide that";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "If you do decide that"
+msgstr ""
+
+# mes "you want to become";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you want to become"
+msgstr ""
+
+# mes "a Gunslinger, then let";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "a Gunslinger, then let"
+msgstr ""
+
+# mes "me know right away.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "me know right away."
+msgstr ""
+
+# mes "I'll get you started.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "I'll get you started."
+msgstr ""
+
+# mes "Great, great. Alright then,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Great, great. Alright then,"
+msgstr ""
+
+# mes "let's get you started. Take";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "let's get you started. Take"
+msgstr ""
+
+# mes "this letter to Mr. Wise Bull";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "this letter to Mr. Wise Bull"
+msgstr ""
+
+# mes "Horn in Payon. He's a shaman";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Horn in Payon. He's a shaman"
+msgstr ""
+
+# mes "that will judge whether or not";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "that will judge whether or not"
+msgstr ""
+
+# mes "you qualify to be a Gunslinger.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you qualify to be a Gunslinger."
+msgstr ""
+
+# mes "Take that letter of";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Take that letter of"
+msgstr ""
+
+# mes "introduction I've written";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "introduction I've written"
+msgstr ""
+
+# mes "for you to Mr. Wise Bull";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "for you to Mr. Wise Bull"
+msgstr ""
+
+# mes "Horn in Payon. He'll test";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Horn in Payon. He'll test"
+msgstr ""
+
+# mes "you to see if you're really";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you to see if you're really"
+msgstr ""
+
+# mes "Gunslinger material.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Gunslinger material."
+msgstr ""
+
+# mes "Hmm... Wise Bull Horn";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Hmm... Wise Bull Horn"
+msgstr ""
+
+# mes "asked you to collect the";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "asked you to collect the"
+msgstr ""
+
+# mes "items you need to make the";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "items you need to make the"
+msgstr ""
+
+# mes "voucher? Hm. I guess that's";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "voucher? Hm. I guess that's"
+msgstr ""
+
+# mes "part of his qualification test.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "part of his qualification test."
+msgstr ""
+
+# mes "Wise Bull Horn asked";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Wise Bull Horn asked"
+msgstr ""
+
+# mes "you to bring him some";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you to bring him some"
+msgstr ""
+
+# mes "Milk? He must really like";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Milk? He must really like"
+msgstr ""
+
+# mes "you if he's already asking";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you if he's already asking"
+msgstr ""
+
+# mes "for favors. Good luck, friend.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "for favors. Good luck, friend."
+msgstr ""
+
+# mes "I expect to hear good";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "I expect to hear good"
+msgstr ""
+
+# mes "news from you soon. You";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "news from you soon. You"
+msgstr ""
+
+# mes "know, I have no doubt that";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "know, I have no doubt that"
+msgstr ""
+
+# mes "you'll become a Gunslinger.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you'll become a Gunslinger."
+msgstr ""
+
+# mes "Hey, you have leftover";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Hey, you have leftover"
+msgstr ""
+
+# mes "Skill Points. You better";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Skill Points. You better"
+msgstr ""
+
+# mes "use them all up before you";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "use them all up before you"
+msgstr ""
+
+# mes "come and talk to me again.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "come and talk to me again."
+msgstr ""
+
+# mes "Oh, you've brought a";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Oh, you've brought a"
+msgstr ""
+
+# mes "voucher from Wise Bull Horn?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "voucher from Wise Bull Horn?"
+msgstr ""
+
+# mes "It's been a while since he's";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "It's been a while since he's"
+msgstr ""
+
+# mes "given one to anybody, so";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "given one to anybody, so"
+msgstr ""
+
+# mes "I'm really proud of you!";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "I'm really proud of you!"
+msgstr ""
+
+# mes "If Wise Bull Horn approves,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "If Wise Bull Horn approves,"
+msgstr ""
+
+# mes "then I have no reason to";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "then I have no reason to"
+msgstr ""
+
+# mes "reject you. Alright then, I'll";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "reject you. Alright then, I'll"
+msgstr ""
+
+# mes "promote you to a Gunslinger.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "promote you to a Gunslinger."
+msgstr ""
+
+# mes "But first, let me explain";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "But first, let me explain"
+msgstr ""
+
+# mes "our job in more detail.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "our job in more detail."
+msgstr ""
+
+# mes "As a Gunslinger, you must";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "As a Gunslinger, you must"
+msgstr ""
+
+# mes "keep your gun with you at";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "keep your gun with you at"
+msgstr ""
+
+# mes "all times. The Gunslinger";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "all times. The Gunslinger"
+msgstr ""
+
+# mes "Guild keeps track of every Gun";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Guild keeps track of every Gun"
+msgstr ""
+
+# mes "and Bullet, so you can only get";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "and Bullet, so you can only get"
+msgstr ""
+
+# mes "them from our guild members.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "them from our guild members."
+msgstr ""
+
+# mes "Don't worry, Gunslinger";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Don't worry, Gunslinger"
+msgstr ""
+
+# mes "Guildsmen can be found almost";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Guildsmen can be found almost"
+msgstr ""
+
+# mes "anywhere these days. Anyway,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "anywhere these days. Anyway,"
+msgstr ""
+
+# mes "it has to be this way by order of our guild leader, Lady Selena.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "it has to be this way by order of our guild leader, Lady Selena."
+msgstr ""
+
+# mes "You might get the chance to";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "You might get the chance to"
+msgstr ""
+
+# mes "meet her one of these days.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "meet her one of these days."
+msgstr ""
+
+# mes "Anyway, just now that we have";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Anyway, just now that we have"
+msgstr ""
+
+# mes "to regulate Gun and Bullet sales to keep them away from evil";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "to regulate Gun and Bullet sales to keep them away from evil"
+msgstr ""
+
+# mes "or irresponsible folk.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "or irresponsible folk."
+msgstr ""
+
+# mes "In any case, it's always";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "In any case, it's always"
+msgstr ""
+
+# mes "a pleasure for me to talk";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "a pleasure for me to talk"
+msgstr ""
+
+# mes "to another Gunslinger, so";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "to another Gunslinger, so"
+msgstr ""
+
+# mes "let's keep in touch. May the";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "let's keep in touch. May the"
+msgstr ""
+
+# mes "power of the earth protect";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "power of the earth protect"
+msgstr ""
+
+# mes "you in all of your adventures~";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you in all of your adventures~"
+msgstr ""
+
+# mes "Oh! Long time, no see,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Oh! Long time, no see,"
+msgstr ""
+
+# mes "friend. How have you been?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "friend. How have you been?"
+msgstr ""
+
+# mes "I hope you've been keeping";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "I hope you've been keeping"
+msgstr ""
+
+# mes "you Gun well maintained.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "you Gun well maintained."
+msgstr ""
+
+# mes "Take care of it, and it'll take";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "Take care of it, and it'll take"
+msgstr ""
+
+# mes "care of you. Remember it.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "care of you. Remember it."
+msgstr ""
+
+# mes "If you don't have";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "If you don't have"
+msgstr ""
+
+# mes "any business with me,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "any business with me,"
+msgstr ""
+
+# mes "then please go on your way.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Master Miller"
+msgid "then please go on your way."
+msgstr ""
+
+# mes "[Wise Bull Horn]";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "[Wise Bull Horn]"
+msgstr ""
+
+# mes "Hello, young wolf.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Hello, young wolf."
+msgstr ""
+
+# mes "What business has";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "What business has"
+msgstr ""
+
+# mes "brought you before me?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "brought you before me?"
+msgstr ""
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "["
+msgstr ""
+
+# mes "Mr. Miller sent me to";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Mr. Miller sent me to"
+msgstr ""
+
+# mes "deliver this letter to you.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "deliver this letter to you."
+msgstr ""
+
+# mes "Actually, I'm interested in";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Actually, I'm interested in"
+msgstr ""
+
+# mes "becoming a Gunslinger...";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "becoming a Gunslinger..."
+msgstr ""
+
+# mes "Miller, you said?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Miller, you said?"
+msgstr ""
+
+# mes "Hm, the Black Fox doesn't";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Hm, the Black Fox doesn't"
+msgstr ""
+
+# mes "give introductions for anyone";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "give introductions for anyone"
+msgstr ""
+
+# mes "he doesn't believe will make";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "he doesn't believe will make"
+msgstr ""
+
+# mes "a good Gunslinger. Yes, I think";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "a good Gunslinger. Yes, I think"
+msgstr ""
+
+# mes "I know why he sent you to me.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I know why he sent you to me."
+msgstr ""
+
+# mes "I can see it in your eyes:";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I can see it in your eyes:"
+msgstr ""
+
+# mes "you've got a warm heart and a";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "you've got a warm heart and a"
+msgstr ""
+
+# mes "strong sense of responsibility.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "strong sense of responsibility."
+msgstr ""
+
+# mes "All you need is the blessing";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "All you need is the blessing"
+msgstr ""
+
+# mes "of the Earth to protect you";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "of the Earth to protect you"
+msgstr ""
+
+# mes "as a Gunslinger.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "as a Gunslinger."
+msgstr ""
+
+# mes "I can make a voucher that";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I can make a voucher that"
+msgstr ""
+
+# mes "will demonstrate your desire";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "will demonstrate your desire"
+msgstr ""
+
+# mes "to become a warrior of the";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "to become a warrior of the"
+msgstr ""
+
+# mes "earth for you to present to";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "earth for you to present to"
+msgstr ""
+
+# mes "Gunslinger drillmasters.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Gunslinger drillmasters."
+msgstr ""
+
+# mes "I shall need these items...";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I shall need these items..."
+msgstr ""
+
+# mes "^3355FF1 Trunk^000000,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "^3355FF1 Trunk^000000,"
+msgstr ""
+
+# mes "^3355FF3 Fluffs^000000,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "^3355FF3 Fluffs^000000,"
+msgstr ""
+
+# mes "^3355FF3 Zargons^000000,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "^3355FF3 Zargons^000000,"
+msgstr ""
+
+# mes "^3355FF10 Shells^000000,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "^3355FF10 Shells^000000,"
+msgstr ""
+
+# mes "^3355FF3 Green Herbs^000000, and";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "^3355FF3 Green Herbs^000000, and"
+msgstr ""
+
+# mes "^3355FF3 Rainbow Shells^000000.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "^3355FF3 Rainbow Shells^000000."
+msgstr ""
+
+# mes "After I complete the";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "After I complete the"
+msgstr ""
+
+# mes "voucher, you may bring";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "voucher, you may bring"
+msgstr ""
+
+# mes "it to Black Fox, and he";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "it to Black Fox, and he"
+msgstr ""
+
+# mes "will help you achieve";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "will help you achieve"
+msgstr ""
+
+# mes "your goal of becoming";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "your goal of becoming"
+msgstr ""
+
+# mes "a Gunslinger.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "a Gunslinger."
+msgstr ""
+
+# mes "Ah, you've returned";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Ah, you've returned"
+msgstr ""
+
+# mes "with everything I need.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "with everything I need."
+msgstr ""
+
+# mes "Please give me some time";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Please give me some time"
+msgstr ""
+
+# mes "to make the voucher. If you";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "to make the voucher. If you"
+msgstr ""
+
+# mes "come back in a little while,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "come back in a little while,"
+msgstr ""
+
+# mes "I should be finished with it.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I should be finished with it."
+msgstr ""
+
+# mes "Oh, you've arrived just";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Oh, you've arrived just"
+msgstr ""
+
+# mes "in time. It's been a while";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "in time. It's been a while"
+msgstr ""
+
+# mes "since I've made one of these vouchers, so I might be a little";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "since I've made one of these vouchers, so I might be a little"
+msgstr ""
+
+# mes "rusty. Still, this really takes me back to the days of my youth.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "rusty. Still, this really takes me back to the days of my youth."
+msgstr ""
+
+# mes "I've been serving in this";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I've been serving in this"
+msgstr ""
+
+# mes "position of choosing worthy";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "position of choosing worthy"
+msgstr ""
+
+# mes "recipients of Gunslinger";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "recipients of Gunslinger"
+msgstr ""
+
+# mes "vouchers for a few decades";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "vouchers for a few decades"
+msgstr ""
+
+# mes "now. But before that, I was a";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "now. But before that, I was a"
+msgstr ""
+
+# mes "young adventurer just like you.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "young adventurer just like you."
+msgstr ""
+
+# mes "It feels like it was only";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "It feels like it was only"
+msgstr ""
+
+# mes "yesterday when I held my own";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "yesterday when I held my own"
+msgstr ""
+
+# mes "little voucher as a Gunslinger,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "little voucher as a Gunslinger,"
+msgstr ""
+
+# mes "a warrior of the earth. That's";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "a warrior of the earth. That's"
+msgstr ""
+
+# mes "when I met Selena's father...";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "when I met Selena's father..."
+msgstr ""
+
+# mes "How can time pass so quickly?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "How can time pass so quickly?"
+msgstr ""
+
+# mes "Ah... I reallly appreciate";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Ah... I reallly appreciate"
+msgstr ""
+
+# mes "Selena and Black Fox for all";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Selena and Black Fox for all"
+msgstr ""
+
+# mes "of their help in recruiting";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "of their help in recruiting"
+msgstr ""
+
+# mes "young Gunslingers. I'm very";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "young Gunslingers. I'm very"
+msgstr ""
+
+# mes "old now, and can't do everything by myself. *Sigh...* Such is life.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "old now, and can't do everything by myself. *Sigh...* Such is life."
+msgstr ""
+
+# mes "Before you leave, may";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Before you leave, may"
+msgstr ""
+
+# mes "I ask you for a small favor?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I ask you for a small favor?"
+msgstr ""
+
+# mes "I'm thirsty, and would like";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I'm thirsty, and would like"
+msgstr ""
+
+# mes "a cold glass of Milk. Would";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "a cold glass of Milk. Would"
+msgstr ""
+
+# mes "you please bring me some?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "you please bring me some?"
+msgstr ""
+
+# mes "I'm an old man that will";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I'm an old man that will"
+msgstr ""
+
+# mes "soon be reunited with mother";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "soon be reunited with mother"
+msgstr ""
+
+# mes "earth. Would you do this old";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "earth. Would you do this old"
+msgstr ""
+
+# mes "Gunslinger a favor a bring me";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Gunslinger a favor a bring me"
+msgstr ""
+
+# mes "a cold glass of Milk, please?";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "a cold glass of Milk, please?"
+msgstr ""
+
+# mes "Oh, thank you for your!";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Oh, thank you for your!"
+msgstr ""
+
+# mes "generosity--I see that";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "generosity--I see that"
+msgstr ""
+
+# mes "you've brought me some";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "you've brought me some"
+msgstr ""
+
+# mes "Milk. Ahhhh, delicious~";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Milk. Ahhhh, delicious~"
+msgstr ""
+
+# mes "I admire the patience,";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I admire the patience,"
+msgstr ""
+
+# mes "gentleness, and kindness";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "gentleness, and kindness"
+msgstr ""
+
+# mes "that you've proven by bringing";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "that you've proven by bringing"
+msgstr ""
+
+# mes "this to me. Yes, those are traits we all want Gunslingers to have.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "this to me. Yes, those are traits we all want Gunslingers to have."
+msgstr ""
+
+# mes "Now, please take this voucher";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Now, please take this voucher"
+msgstr ""
+
+# mes "to Miller, the Black Fox, with";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "to Miller, the Black Fox, with"
+msgstr ""
+
+# mes "my whole hearted approval.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "my whole hearted approval."
+msgstr ""
+
+# mes "I hope that you will use your";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I hope that you will use your"
+msgstr ""
+
+# mes "gun to uphold justice as a";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "gun to uphold justice as a"
+msgstr ""
+
+# mes "noble warrior of the earth.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "noble warrior of the earth."
+msgstr ""
+
+# mes "Eeh~Yeah~Eeh~Hooom";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Eeh~Yeah~Eeh~Hooom"
+msgstr ""
+
+# mes "Maaaaarrraaa Neeey~";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Maaaaarrraaa Neeey~"
+msgstr ""
+
+# mes "Yippee Yippee Yai Yocaiyay~";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Yippee Yippee Yai Yocaiyay~"
+msgstr ""
+
+# mes "Please take this voucher";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Please take this voucher"
+msgstr ""
+
+# mes "AAh, long time no see.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "AAh, long time no see."
+msgstr ""
+
+# mes "I hope that you become";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "I hope that you become"
+msgstr ""
+
+# mes "a smart beast, and use";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "a smart beast, and use"
+msgstr ""
+
+# mes "your powers as a Gunslinger to protect what is good and just.";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "your powers as a Gunslinger to protect what is good and just."
+msgstr ""
+
+# mes "Zzzzzz~";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "Zzzzzz~"
+msgstr ""
+
+# mes "^333333*Phew*^000000";
+#: npc/jobs/1-1e/gunslinger.txt
+msgctxt "Wise Bull Horn"
+msgid "^333333*Phew*^000000"
+msgstr ""
+
